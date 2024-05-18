@@ -4,7 +4,7 @@
 import torch
 import torch.nn as nn
 
-from neuroir.utils.misc import aeq, sequence_mask
+from cair.neuroir.utils.misc import aeq, sequence_mask
 
 
 # This class is mainly used by decoder.py for RNNs but also

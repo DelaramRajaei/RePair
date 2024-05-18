@@ -44,6 +44,7 @@ class Seq2seq(nn.Module):
                                                 self.generator)
             self.criterion = CopyGeneratorCriterion(vocab_size=args.tgt_vocab_size,
                                                     force_copy=args.force_copy)
+        self = self.to("cuda")
 
     def forward(self,
                 source_rep,

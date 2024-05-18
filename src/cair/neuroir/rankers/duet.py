@@ -1,8 +1,8 @@
 import torch
 import torch.nn as nn
 import torch.nn.functional as f
-from neuroir.inputters import PAD
-from neuroir.modules.embeddings import Embeddings
+from cair.neuroir.inputters import PAD
+from cair.neuroir.modules.embeddings import Embeddings
 
 
 # verified from https://github.com/bmitra-msft/NDRM/blob/master/notebooks/Duet.ipynb

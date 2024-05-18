@@ -4,7 +4,7 @@
 import string
 import torch
 import subprocess
-from neuroir.inputters import constants
+from cair.neuroir.inputters import constants
 
 
 def normalize_string(s):

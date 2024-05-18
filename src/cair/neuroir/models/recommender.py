@@ -218,7 +218,7 @@ class Recommender(object):
         loss.backward()
 
         # Clip gradients
-        torch.nn.utils.clip_grad_norm(self.network.parameters(),
+        torch.nn.utils.clip_grad_norm_(self.network.parameters(),
                                       self.args.grad_clipping)
 
         # Update parameters
@@ -273,8 +273,7 @@ class Recommender(object):
             source_lens = source_lens.cuda(non_blocking=True)
 
         # Run forward
-        decoder_fn = self.network.module.decode if self.parallel \
-            else self.network.decode
+        decoder_fn = self.network.module.decode if self.parallel else self.network.decode
         decoder_out = decoder_fn(source_rep=source_words,
                                  source_len=source_lens,
                                  max_len=self.args.max_query_len,

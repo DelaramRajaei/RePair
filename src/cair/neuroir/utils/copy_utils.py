@@ -1,5 +1,5 @@
 import torch
-from neuroir.inputters import constants
+from cair.neuroir.inputters import constants
 
 
 def collapse_copy_scores(tgt_dict, src_vocabs):

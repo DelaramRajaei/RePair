@@ -3,8 +3,8 @@
 import torch.nn as nn
 import torch
 
-from neuroir.inputters import constants
-from neuroir.utils.misc import aeq
+from cair.neuroir.inputters import constants
+from cair.neuroir.utils.misc import aeq
 
 
 class CopyGenerator(nn.Module):

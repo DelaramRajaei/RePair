@@ -6,6 +6,7 @@ from itertools import product
 from os.path import isfile, join, exists
 from multiprocessing import freeze_support
 from refinement import refiner_factory as rf
+from src.refinement.refiner_param import settings as ref_set
 import argparse, os, pandas as pd, multiprocessing as mp
 
 
@@ -55,130 +56,148 @@ def run(data_list, domain_list, output_result, corpora, settings):
                     if 't5' in refiner.get_model_name(): refiner.get_refined_query(""); continue
                     else: refiner_outfile = f'{refined_data_output}/refiner.{refiner.get_model_name()}'
                     if not exists(refiner_outfile):
-                        ds.queries = p.map(partial(refiner.preprocess_query), ds.queries)
+                        for q in ds.queries: refiner.preprocess_query(q)
                         print(f'Writing results from {refiner.get_model_name()} queries in {refiner_outfile}')
                         refiner.write_queries(queries=ds.queries, outfile=refiner_outfile)
                     else: print(f'Results from {refiner.get_model_name()} queries in {refiner_outfile}')
 
         if 'similarity' in settings['cmd']:
             from evl import trecw
+            from sentence_transformers import SentenceTransformer
+            transformer_model = SentenceTransformer(ref_set['transformer_model'])
             if not os.path.isdir(f'{refined_data_output}/similarity/'): os.makedirs(f'{refined_data_output}/similarity/')
-            search_results = [(f'{refined_data_output}/{f}', f'{refined_data_output}/similarity/{f}.similarity.csv') for f in listdir(refined_data_output) if f.startswith('refiner') and f.__contains__('bt') and f'{f}.{metric}' not in listdir(output)]
-            with mp.Pool(settings['ncore']) as p: p.starmap(partial(trecw.compare_query_similarity), search_results)
+            search_results = [(f'{refined_data_output}/{f}', f'{refined_data_output}/similarity/{f}.similarity.csv') for f in listdir(refined_data_output) if f.startswith('refiner.bt_bing') and f.__contains__('bt')]
+            # with mp.Pool(settings['ncore']) as p: p.starmap(partial(trecw.compare_query_similarity), search_results)
+            for (infile, outfile) in search_results:
+                print(f'Similarity for {hex_to_ansi("#3498DB")}{infile}{hex_to_ansi(reset=True)}, output in {hex_to_ansi("#3498DB")}{outfile}{hex_to_ansi(reset=True)}')
+                trecw.compare_query_similarity(infile, outfile, transformer_model)
 
-        for ranker, metric in product(param.settings['ranker'], param.settings['metric']):
-            print('-' * 30, f'Ranking and evaluating by {hex_to_ansi("#3498DB")}{ranker}{hex_to_ansi(reset=True)} and {hex_to_ansi("#3498DB")}{metric}{hex_to_ansi(reset=True)}')
-            output = f'{refined_data_output}/{ranker}.{metric}'
-            if not os.path.isdir(output): os.makedirs(output)
+        if any(item in ['search', 'rag_fusion', 'eval', 'agg', 'build', 'box'] for item in settings['cmd']):
+            for ranker, metric in product(param.settings['ranker'], param.settings['metric']):
+                print('-' * 30, f'Ranking and evaluating by {hex_to_ansi("#3498DB")}{ranker}{hex_to_ansi(reset=True)} and {hex_to_ansi("#3498DB")}{metric}{hex_to_ansi(reset=True)}')
+                output = f'{refined_data_output}/{ranker}.{metric}'
+                if not os.path.isdir(output): os.makedirs(output)
 
-            if 'search' in settings['cmd']:  # 'bm25 ranker'
-                print(f"Searching documents for query changes using {ranker} ...")
-                # Considers generated queries from t5 or refiners and the original queries
-                query_changes = [(f'{refined_data_output}/{f}', f'{output}/{f}.{ranker}') for f in listdir(refined_data_output) if isfile(join(refined_data_output, f)) and ((f.startswith('pred.') and len(f.split('.')) == 2) or (f.startswith('refiner.') or f.startswith('original')) and f'{f}.{ranker}' not in listdir(output))]
-                # Seems the LuceneSearcher cannot be shared in multiple processes! All the variables in class cannot be shared!
-                with mp.Pool(settings['ncore']) as p: p.starmap(partial(ds.search, qids=[query.qid for query in ds.queries], ranker=ranker, topk=settings['topk'], batch=settings['batch'], ncores=settings['ncore'], index=ds.settings["index"], settings=corpora[domain]), query_changes)
+                if 'search' in settings['cmd']:  # 'bm25 ranker'
+                    print(f"Searching documents for query changes using {ranker} ...")
+                    # Considers generated queries from t5 or refiners and the original queries
+                    query_changes = [(f'{refined_data_output}/{f}', f'{output}/{f}.{ranker}') for f in listdir(refined_data_output) if isfile(join(refined_data_output, f)) and ((f.startswith('pred.') and len(f.split('.')) == 2) or (f.startswith('refiner.') or f.startswith('original')) and f'{f}.{ranker}' not in listdir(output))]
+                    # Seems the LuceneSearcher cannot be shared in multiple processes! All the variables in class cannot be shared!
+                    with mp.Pool(settings['ncore']) as p: p.starmap(partial(ds.search, qids=[query.qid for query in ds.queries], ranker=ranker, topk=settings['topk'], batch=settings['batch'], ncores=settings['ncore'], index=ds.settings["index"], settings=corpora[domain]), query_changes)
 
-            if 'rag_fusion' in settings['cmd']:
-                from evl import trecw
-                print('RAG Fusion Step ...')
-                columns = ['id', 'Q0', 'doc', 'rank', 'score', 'Pyserini']
-                for categorize in settings['fusion']:
-                    if any(file.startswith(f'rag_fusion.{categorize}.{ranker}') for file in os.listdir(output)): continue
-                    print(f'RAG Fusion for {hex_to_ansi("#3498DB")}"{categorize}"{hex_to_ansi(reset=True)} category')
-                    names = ds.get_refiner_list(categorize)
-                    mrr_results = pd.concat([pd.read_csv(os.path.join(output, f), sep='\t', names=columns).assign(refiner=('original' if 'original' in f else ('.'.join(f.split('.')[1:3]) if 'stem' in f else f.split('.')[1]))) for f in os.listdir(output) if f.endswith(ranker) and not f.startswith('rag_fusion') and any(name in f for name in names)], ignore_index=True)
-                    mrr_results = mrr_results.groupby(['id', 'doc'])
-                    ds.reciprocal_rank_fusion(docs=mrr_results, k=0, columns=columns, output=f'{output}/rag_fusion.{categorize}.{ranker}')
+                if 'rag_fusion' in settings['cmd']:
+                    from evl import trecw
+                    print('RAG Fusion Step ...')
+                    columns = ['id', 'Q0', 'doc', 'rank', 'score', 'Pyserini']
+                    for categorize in settings['fusion']:
+                        if any(file.startswith(f'rag_fusion.{categorize}.{ranker}') for file in os.listdir(output)): continue
+                        print(f'RAG Fusion for {hex_to_ansi("#3498DB")}"{categorize}"{hex_to_ansi(reset=True)} category')
+                        names = ds.get_refiner_list(categorize)
+                        mrr_results = pd.concat([pd.read_csv(os.path.join(output, f), sep='\t', names=columns).assign(refiner=('original' if 'original' in f else ('.'.join(f.split('.')[1:3]) if 'stem' in f else f.split('.')[1]))) for f in os.listdir(output) if f.endswith(ranker) and not f.startswith('rag_fusion') and any(name in f for name in names)], ignore_index=True)
+                        mrr_results = mrr_results.groupby(['id', 'doc'])
+                        ds.reciprocal_rank_fusion(docs=mrr_results, k=0, columns=columns, output=f'{output}/rag_fusion.{categorize}.{ranker}')
 
-            if 'eval' in settings['cmd']:
-                from evl import trecw
-                print(f'Evaluating documents for query changes using {hex_to_ansi("#3498DB")}{metric}{hex_to_ansi(reset=True)} ...')
-                search_results = [(f'{output}/{f}', f'{output}/{f}.{metric}') for f in listdir(output) if f.endswith(ranker) and f'{f}.{metric}' not in listdir(output)]
-                with mp.Pool(settings['ncore']) as p: p.starmap(partial(trecw.evaluate, qrels=qrel_path, metric=metric, lib=settings['treclib'], mean=not settings['large_ds']), search_results)
+                if 'eval' in settings['cmd']:
+                    from evl import trecw
+                    print(f'Evaluating documents for query changes using {hex_to_ansi("#3498DB")}{metric}{hex_to_ansi(reset=True)} ...')
+                    search_results = [(f'{output}/{f}', f'{output}/{f}.{metric}') for f in listdir(output) if f.endswith(ranker) and f'{f}.{metric}' not in listdir(output)]
+                    with mp.Pool(settings['ncore']) as p: p.starmap(partial(trecw.evaluate, qrels=qrel_path, metric=metric, lib=settings['treclib'], mean=not settings['large_ds']), search_results)
 
-            if 'agg' in settings['cmd']:
-                originals = pd.DataFrame({'qid': [str(query.qid) for query in ds.queries], 'query': [query.q for query in ds.queries]})
-                original_metric_values = pd.read_csv(join(output, f'original.{ranker}.{metric}'), sep='\t', usecols=[1, 2], names=['qid', f'original.{ranker}.{metric}'], index_col=False, dtype={'qid': str})
+                if 'agg' in settings['cmd'] or 'build' in settings['cmd']:
+                    originals = pd.DataFrame({'qid': [str(query.qid) for query in ds.queries], 'query': [query.q for query in ds.queries]})
+                    original_metric_values = pd.read_csv(join(output, f'original.{ranker}.{metric}'), sep='\t', usecols=[1, 2], names=['qid', f'original.{ranker}.{metric}'], index_col=False, dtype={'qid': str})
 
-                originals = originals.merge(original_metric_values, how='left', on='qid')
-                originals[f'original.{ranker}.{metric}'].fillna(0, inplace=True)
-                changes = [(f.split(f'.{ranker}.{metric}')[0], f) for f in os.listdir(output) if f.endswith(f'{ranker}.{metric}') and f.startswith('refiner')]
-                ds.aggregate(originals, refined_data_output, changes, output, settings["large_ds"])
+                    originals = originals.merge(original_metric_values, how='left', on='qid')
+                    originals[f'original.{ranker}.{metric}'].fillna(0, inplace=True)
+                    print(f'Aggregating results for all {hex_to_ansi("#3498DB")}refiners{hex_to_ansi(reset=True)} ...')
+                    if 'agg' in settings['cmd']:
+                        ds.aggregate(originals, refined_data_output, output, ranker, metric, selected_refiner='nllb')
+                        ds.aggregate(originals, refined_data_output, output, ranker, metric, selected_refiner='bt')
+                        ds.aggregate(originals, refined_data_output, output, ranker, metric, selected_refiner='refiner')
+                    if 'build' in settings['cmd']:
+                        ds.aggregate(originals, refined_data_output, output, ranker, metric, selected_refiner='nllb', build=True)
+                        ds.aggregate(originals, refined_data_output, output, ranker, metric, selected_refiner='refiner', build=True)
 
-            if 'box' in settings['cmd']:
-                from evl import trecw
-                box_path = join(output, f'{ranker}.{metric}.boxes')
-                if not os.path.isdir(box_path): os.makedirs(box_path)
-                gold_df = pd.read_csv(f'{output}/{ranker}.{metric}.agg.all.tsv', sep='\t', header=0, dtype={'qid': str})
+                    if 'rag' in settings['cmd']:
+                        changes = [f for f in os.listdir(output) if f.endswith(f'{ranker}.{metric}') and (f.startswith('refiner') or f.startswith('rag_fusion'))]
+                        print(f'Aggregating results for all {hex_to_ansi("#3498DB")}refiners{hex_to_ansi(reset=True)} and {hex_to_ansi("#3498DB")}rag_fusion{hex_to_ansi(reset=True)} ...')
+                        ds.aggregate_refiner_rag(original_metric_values, changes, output)
 
-                qrels_list = [pd.DataFrame(query.qrel) for query in ds.queries]
-                qrels = pd.concat(qrels_list, ignore_index=True)
+                if 'box' in settings['cmd']:
+                    from evl import trecw
+                    box_path = join(output, f'{ranker}.{metric}.boxes')
+                    if not os.path.isdir(box_path): os.makedirs(box_path)
+                    for sel_ref in ['nllb', 'bt', 'refiner']:
+                        gold_df = pd.read_csv(f'{output}/{ranker}.{metric}.agg.{sel_ref}.all.tsv', sep='\t', header=0, dtype={'qid': str})
 
-                box_condition = settings['box']
-                ds.box(gold_df, qrels, box_path, box_condition)
-                for c in box_condition.keys():
-                    print(f'{c}: Stamping boxes for {ranker}.{metric} before and after refinements ...')
-                    if not os.path.isdir(join(box_path, 'stamps')): os.makedirs(join(box_path, 'stamps'))
-                    df = pd.read_csv(f'{box_path}/{c}.tsv', sep='\t', encoding='utf-8', index_col=False, header=None, names=['qid', 'query', 'metric', 'query_', 'metric_'], dtype={'qid': str})
-                    df.drop_duplicates(subset=['qid'], inplace=True)  # See ds.boxing(): in case we store more than two changes with the same metric value
-                    if df['query'].to_frame().empty: print(f'No queries for {c}')
-                    else:
-                        ds.search(df['query'].to_frame(), f'{box_path}/stamps/{c}.original.{ranker}', df['qid'].values.tolist(),ranker, topk=settings['topk'], batch=settings['batch'], ncores=settings['ncore'], index=ds.settings["index"], settings=corpora[domain])
-                        trecw.evaluate(f'{box_path}/stamps/{c}.original.{ranker}', f'{box_path}/stamps/{c}.original.{ranker}.{metric}', qrels=qrel_path, metric=metric, lib=settings['treclib'], mean=True)
-                        ds.search(df['query_'].to_frame().rename(columns={'query_': 'query'}), f'{box_path}/stamps/{c}.change.{ranker}', df['qid'].values.tolist(),ranker, topk=settings['topk'], batch=settings['batch'], ncores=settings['ncore'], index=ds.settings["index"], settings=corpora[domain])
-                        trecw.evaluate(f'{box_path}/stamps/{c}.change.{ranker}', f'{box_path}/stamps/{c}.change.{ranker}.{metric}', qrels=qrel_path, metric=metric, lib=settings['treclib'], mean=True)
+                        qrels_list = [pd.DataFrame(query.qrel) for query in ds.queries]
+                        qrels = pd.concat(qrels_list, ignore_index=True)
 
-            if 'dense_retrieve' in settings['cmd']:
-                from evl import trecw
-                from tqdm import tqdm
-                condition = 'no_pred'
-                if not isfile(join(output, f'{ranker}.{metric}.agg.{condition}.tsv')):
-                    agg_df = pd.read_csv(f'{output}/{ranker}.{metric}.agg.all_.tsv', sep='\t', header=0, dtype={'qid': str})
-                    changes = [(f, f'{f}.{ranker}.{metric}') for f in os.listdir(output) if f.startswith('pred') and len(f.split('.')) == 2]
-                    # creates a new file for poor performing/no prediction queries
-                    with open(f'{output}/{ranker}.{metric}.agg.{condition}.tsv', mode='w', encoding='UTF-8') as agg_poor_perf:
-                        agg_poor_perf.write(f'qid\tquery\t{ranker}.{metric}\t\tquery_\t{ranker}.{metric}_\n')
-                        for index, row in tqdm(agg_df.iterrows(), total=agg_df.shape[0]):
-                            all = list()
-                            for change, metric_value in changes: all.append((row[change], row[f'{change}.{ranker}.{metric}'], change))
-                            all = sorted(all, key=lambda x: x[1], reverse=True)
-                            # if row[f'original.{ranker}.{metric}'] == 0 and all[0][1] <= 0.1: #poor perf
-                            if row[f'original.{ranker}.{metric}'] > all[0][1] and row[f'original.{ranker}.{metric}'] <= 1:  # no prediction
-                                agg_poor_perf.write(f'{row.qid}\t{row.query}\t{row[f"original.{ranker}.{metric}"]}\t{all[0][0]}\t{all[0][1]}\n')
-                original = pd.read_csv(f'{output}/{ranker}.{metric}.agg.{condition}.tsv', sep='\t', encoding="utf-8", header=0, index_col=False, names=['qid', 'query', f'{ranker}.{metric}', 'query_', f'{ranker}.{metric}_'])
-                if domain == 'aol-ia':
-                    original['pid'] = original['pid'].astype('str')
-                    original = original[:16230]
-                print(original.shape[0])
-                pred = pd.DataFrame()
-                pred["query"] = original["query_"]
-                search_list = [(pd.DataFrame(original['query']), f'{output}/original.{condition}.tct_colbert'),
-                               (pd.DataFrame(pred['query']), f'{output}/pred.{condition}.tct_colbert')]
-                search_results = [(f'{output}/original.{condition}.tct_colbert', f'{output}/original.{condition}.tct_colbert.{metric}'),
-                                  (f'{output}/pred.{condition}.tct_colbert', f'{output}/pred.{condition}.tct_colbert.{metric}')]
-                with mp.Pool(settings['ncore']) as p:
-                    p.starmap(partial(ds.search_list, qids=original['qid'].values.tolist(), ranker='tct_colbert', topk=100, batch=None, ncores=settings['ncore'], index=settings[f'{domain}']["dense_index"], encoder=settings[f'{domain}']['dense_encoder']), search_list)
-                    p.starmap(partial(trecw.evaluate, qrels=qrel_path, metric=metric, lib=settings['treclib']), search_results)
+                        box_condition = settings['box']
+                        ds.box(gold_df, qrels, box_path, box_condition, sel_ref)
+                        # for c in box_condition.keys():
+                        #     print(f'{c}: Stamping boxes for {sel_ref}.{ranker}.{metric} before and after refinements ...')
+                        #     if not os.path.isdir(join(box_path, 'stamps')): os.makedirs(join(box_path, 'stamps'))
+                        #     df = pd.read_csv(f'{box_path}/{c}.tsv', sep='\t', encoding='utf-8', index_col=False, header=None, names=['qid', 'query', 'metric', 'query_', 'metric_'], dtype={'qid': str})
+                        #     df.drop_duplicates(subset=['qid'], inplace=True)  # See ds.boxing(): in case we store more than two changes with the same metric value
+                        #     if df['query'].to_frame().empty: print(f'No queries for {c}')
+                        #     else:
+                        #         ds.search(df['query'].to_frame(), f'{box_path}/stamps/{c}.original.{ranker}', df['qid'].values.tolist(),ranker, topk=settings['topk'], batch=settings['batch'], ncores=settings['ncore'], index=ds.settings["index"], settings=corpora[domain])
+                        #         trecw.evaluate(f'{box_path}/stamps/{c}.original.{ranker}', f'{box_path}/stamps/{c}.original.{ranker}.{metric}', qrels=qrel_path, metric=metric, lib=settings['treclib'], mean=True)
+                        #         ds.search(df['query_'].to_frame().rename(columns={'query_': 'query'}), f'{box_path}/stamps/{c}.change.{sel_ref}.{ranker}', df['qid'].values.tolist(),ranker, topk=settings['topk'], batch=settings['batch'], ncores=settings['ncore'], index=ds.settings["index"], settings=corpora[domain])
+                        #         trecw.evaluate(f'{box_path}/stamps/{c}.change.{sel_ref}.{ranker}', f'{box_path}/stamps/{c}.change.{sel_ref}.{ranker}.{metric}', qrels=qrel_path, metric=metric, lib=settings['treclib'], mean=True)
 
-                # aggregate colbert results and compare with bm25 results
-                original_dense = pd.read_csv(f'{output}/original.{condition}.tct_colbert.{metric}', sep='\t', usecols=[1, 2], names=['qid', f'{metric}'])
-                pred_dense = pd.read_csv(f'{output}/pred.{condition}.tct_colbert.{metric}', sep='\t', usecols=[1, 2], names=['qid', f'{metric}'])
-                agg_df = original_dense.merge(pred_dense, on='qid', suffixes=('', '_'), how='outer')
-                print(f"total queries: {agg_df.shape[0]}")
-                print(f"pred greater than original with 0 :{agg_df[(agg_df[f'{metric}'] == 0) & (agg_df[f'{metric}_'] > 0)].shape[0]}")  # where original = 0 and pred > original
-                print(f"pred greater than original {agg_df[agg_df[f'{metric}_'] > agg_df[f'{metric}']].shape[0]}")  # pred > original
-                print(f"pred less than original {agg_df[agg_df[f'{metric}_'] < agg_df[f'{metric}']].shape[0]}")  # pred < original
+                if 'dense_retrieve' in settings['cmd']:
+                    from evl import trecw
+                    from tqdm import tqdm
+                    condition = 'no_pred'
+                    if not isfile(join(output, f'{ranker}.{metric}.agg.{condition}.tsv')):
+                        agg_df = pd.read_csv(f'{output}/{ranker}.{metric}.agg.all_.tsv', sep='\t', header=0, dtype={'qid': str})
+                        changes = [(f, f'{f}.{ranker}.{metric}') for f in os.listdir(output) if f.startswith('pred') and len(f.split('.')) == 2]
+                        # creates a new file for poor performing/no prediction queries
+                        with open(f'{output}/{ranker}.{metric}.agg.{condition}.tsv', mode='w', encoding='UTF-8') as agg_poor_perf:
+                            agg_poor_perf.write(f'qid\tquery\t{ranker}.{metric}\t\tquery_\t{ranker}.{metric}_\n')
+                            for index, row in tqdm(agg_df.iterrows(), total=agg_df.shape[0]):
+                                all = list()
+                                for change, metric_value in changes: all.append((row[change], row[f'{change}.{ranker}.{metric}'], change))
+                                all = sorted(all, key=lambda x: x[1], reverse=True)
+                                # if row[f'original.{ranker}.{metric}'] == 0 and all[0][1] <= 0.1: #poor perf
+                                if row[f'original.{ranker}.{metric}'] > all[0][1] and row[f'original.{ranker}.{metric}'] <= 1:  # no prediction
+                                    agg_poor_perf.write(f'{row.qid}\t{row.query}\t{row[f"original.{ranker}.{metric}"]}\t{all[0][0]}\t{all[0][1]}\n')
+                    original = pd.read_csv(f'{output}/{ranker}.{metric}.agg.{condition}.tsv', sep='\t', encoding="utf-8", header=0, index_col=False, names=['qid', 'query', f'{ranker}.{metric}', 'query_', f'{ranker}.{metric}_'])
+                    if domain == 'aol-ia':
+                        original['pid'] = original['pid'].astype('str')
+                        original = original[:16230]
+                    print(original.shape[0])
+                    pred = pd.DataFrame()
+                    pred["query"] = original["query_"]
+                    search_list = [(pd.DataFrame(original['query']), f'{output}/original.{condition}.tct_colbert'),
+                                   (pd.DataFrame(pred['query']), f'{output}/pred.{condition}.tct_colbert')]
+                    search_results = [(f'{output}/original.{condition}.tct_colbert', f'{output}/original.{condition}.tct_colbert.{metric}'),
+                                      (f'{output}/pred.{condition}.tct_colbert', f'{output}/pred.{condition}.tct_colbert.{metric}')]
+                    with mp.Pool(settings['ncore']) as p:
+                        p.starmap(partial(ds.search_list, qids=original['qid'].values.tolist(), ranker='tct_colbert', topk=100, batch=None, ncores=settings['ncore'], index=settings[f'{domain}']["dense_index"], encoder=settings[f'{domain}']['dense_encoder']), search_list)
+                        p.starmap(partial(trecw.evaluate, qrels=qrel_path, metric=metric, lib=settings['treclib']), search_results)
 
-                print(f"original sparse:{original[f'{ranker}.{metric}'].mean()}\n")
-                print(f"original dense:{agg_df[f'{metric}'].mean()}\n")
-                print(f"pred sparse:{original[f'{ranker}.{metric}_'].mean()}")
-                print(f"pred dense:{agg_df[f'{metric}_'].mean()}\n")
-                # colbert improvements
-                agg_df['original_sparse'] = original[f'{ranker}.{metric}']
-                agg_df['pred_sparse'] = original[f'{ranker}.{metric}_']
-                agg_df.to_csv(f'{output}/colbert.comparison.{condition}.{metric}.tsv', sep="\t", index=None)
+                    # aggregate colbert results and compare with bm25 results
+                    original_dense = pd.read_csv(f'{output}/original.{condition}.tct_colbert.{metric}', sep='\t', usecols=[1, 2], names=['qid', f'{metric}'])
+                    pred_dense = pd.read_csv(f'{output}/pred.{condition}.tct_colbert.{metric}', sep='\t', usecols=[1, 2], names=['qid', f'{metric}'])
+                    agg_df = original_dense.merge(pred_dense, on='qid', suffixes=('', '_'), how='outer')
+                    print(f"total queries: {agg_df.shape[0]}")
+                    print(f"pred greater than original with 0 :{agg_df[(agg_df[f'{metric}'] == 0) & (agg_df[f'{metric}_'] > 0)].shape[0]}")  # where original = 0 and pred > original
+                    print(f"pred greater than original {agg_df[agg_df[f'{metric}_'] > agg_df[f'{metric}']].shape[0]}")  # pred > original
+                    print(f"pred less than original {agg_df[agg_df[f'{metric}_'] < agg_df[f'{metric}']].shape[0]}")  # pred < original
 
-            if 'stats' in settings['cmd']: from stats import stats
+                    print(f"original sparse:{original[f'{ranker}.{metric}'].mean()}\n")
+                    print(f"original dense:{agg_df[f'{metric}'].mean()}\n")
+                    print(f"pred sparse:{original[f'{ranker}.{metric}_'].mean()}")
+                    print(f"pred dense:{agg_df[f'{metric}_'].mean()}\n")
+                    # colbert improvements
+                    agg_df['original_sparse'] = original[f'{ranker}.{metric}']
+                    agg_df['pred_sparse'] = original[f'{ranker}.{metric}_']
+                    agg_df.to_csv(f'{output}/colbert.comparison.{condition}.{metric}.tsv', sep="\t", index=None)
+
+                if 'stats' in settings['cmd']: from stats import stats
 
 
 def addargs(parser):

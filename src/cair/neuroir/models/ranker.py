@@ -8,16 +8,16 @@ import torch.nn.functional as f
 from tqdm import tqdm
 from prettytable import PrettyTable
 
-from neuroir.config import override_model_args
-from neuroir.rankers.dssm import DSSM
-from neuroir.rankers.cdssm import CDSSM
-from neuroir.rankers.duet import DUET
-from neuroir.rankers.esm import ESM
-from neuroir.rankers.arci import ARCI
-from neuroir.rankers.arcii import ARCII
-from neuroir.rankers.drmm import DRMM
-from neuroir.rankers.mtensor import MatchTensor
-from neuroir.utils.misc import count_file_lines
+from cair.neuroir.config import override_model_args
+from cair.neuroir.rankers.dssm import DSSM
+from cair.neuroir.rankers.cdssm import CDSSM
+from cair.neuroir.rankers.duet import DUET
+from cair.neuroir.rankers.esm import ESM
+from cair.neuroir.rankers.arci import ARCI
+from cair.neuroir.rankers.arcii import ARCII
+from cair.neuroir.rankers.drmm import DRMM
+from cair.neuroir.rankers.mtensor import MatchTensor
+from cair.neuroir.utils.misc import count_file_lines
 
 logger = logging.getLogger(__name__)
 

@@ -3,10 +3,10 @@ import logging
 from collections import Counter
 from tqdm import tqdm
 
-from neuroir.objects import Query, Session
-from neuroir.utils.misc import count_file_lines
-from neuroir.inputters.vocabulary import Vocabulary, UnicodeCharsVocabulary
-from neuroir.inputters.constants import BOS_WORD, EOS_WORD, PAD_WORD, UNK_WORD
+from cair.neuroir.objects import Query, Session
+from cair.neuroir.utils.misc import count_file_lines
+from cair.neuroir.inputters.vocabulary import Vocabulary, UnicodeCharsVocabulary
+from cair.neuroir.inputters.constants import BOS_WORD, EOS_WORD, PAD_WORD, UNK_WORD
 
 logger = logging.getLogger(__name__)
 

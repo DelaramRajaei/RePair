@@ -1,7 +1,7 @@
 __author__ = 'wasi'
 
 from .query import Query
-from neuroir.inputters import BOS_WORD, EOS_WORD
+from cair.neuroir.inputters import BOS_WORD, EOS_WORD
 
 
 class Session(object):

@@ -5,7 +5,7 @@ import math
 import torch
 import torch.nn as nn
 
-from neuroir.modules.util_class import Elementwise
+from cair.neuroir.modules.util_class import Elementwise
 
 
 class PositionalEncoding(nn.Module):

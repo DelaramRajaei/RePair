@@ -1,7 +1,7 @@
 # src: https://github.com/facebookresearch/DrQA/blob/master/drqa/reader/data.py
 import unicodedata
 import numpy as np
-from neuroir.inputters.constants import PAD, PAD_WORD, UNK, UNK_WORD, \
+from cair.neuroir.inputters.constants import PAD, PAD_WORD, UNK, UNK_WORD, \
     BOS, BOS_WORD, EOS, EOS_WORD
 
 

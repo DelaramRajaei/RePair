@@ -1,7 +1,7 @@
 import torch
 import torch.nn as nn
-from neuroir.inputters import PAD
-from neuroir.modules.embeddings import Embeddings
+from cair.neuroir.inputters import PAD
+from cair.neuroir.modules.embeddings import Embeddings
 
 
 class ARCI(nn.Module):

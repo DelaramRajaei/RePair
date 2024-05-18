@@ -16,19 +16,18 @@ import subprocess
 import argparse
 import numpy as np
 
-import neuroir.config as config
+import cair.neuroir.config as config
 from tqdm import tqdm
 from collections import OrderedDict
-from neuroir.utils.timer import AverageMeter, Timer
-import neuroir.inputters.recommender.vector as vector
-from neuroir.inputters.recommender import data, utils
+from cair.neuroir.utils.timer import AverageMeter, Timer
+import cair.neuroir.inputters.recommender.vector as vector
+from cair.neuroir.inputters.recommender import data, utils
 
-from neuroir.models.recommender import Recommender
-from neuroir.utils.misc import normalize_string
-from neuroir.eval.bleu import Bleu
-from neuroir.eval.rouge import Rouge
-from neuroir.eval.squad_eval import metric_max_over_ground_truths, \
-    f1_score, exact_match_score
+from cair.neuroir.models.recommender import Recommender
+from cair.neuroir.utils.misc import normalize_string
+from cair.neuroir.eval.bleu import Bleu
+from cair.neuroir.eval.rouge import Rouge
+from cair.neuroir.eval.squad_eval import metric_max_over_ground_truths, f1_score, exact_match_score
 
 logger = logging.getLogger()
 
