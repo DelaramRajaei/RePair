@@ -22,7 +22,7 @@ We conducted extensive experiments using widely recognized TREC query sets and m
   * [`agg, box`](#agg-box)
 - [4. Acknowledgement](#4-acknowledgement)
 - [5. License](#5-license)
-<td ><img src='./misc/flow.png' width="100%" /></td>
+<td ><img src='./misc/flow.jpg' width="100%" /></td>
 </table>
 
 
@@ -61,7 +61,7 @@ To perform fast IR tasks, we need to build the sparse indexes of document corpor
 ## 2. Quickstart
 For using query refinement make sure to add the command to the pipeline in the [./src/param.py](./src/param.py).
 
-As seen in the above [`workflow`](./misc/workflow.png), `RePair` has three pipelined steps: 
+As seen in the above [`workflow`](./misc/workflow.jpg), `RePair` has three pipelined steps: 
 > 1. Refining Quereis: [`query_refinement`]
 > 2. Performance Evaluation: [`search`, `eval`]
 > 3. Dataset Curation: [`agg`, `box`]
@@ -84,7 +84,7 @@ The objective of query refinement is to produce a set of potential candidate que
 
 <table align="center" border=0>
 <thead>
-  <tr><td colspan="3" style="background-color: white;"><img src="./misc/classdiagram.png", width="1000", alt="ReQue: Class Diagram"></td></tr>     
+  <tr><td colspan="3" style="background-color: white;"><img src="./misc/classdiagram.jpg", width="1000", alt="ReQue: Class Diagram"></td></tr>     
   <tr><td colspan="3">
       <p align="center">Class Diagram for Query Refiners in <a href="./src/refinement/">src/refinement/</a>. [<a href="https://app.lucidchart.com/documents/view/64fedbb0-b385-4696-9adc-b89bc06e84ba/HWEp-vi-RSFO">zoom in!</a>].</p>
       <p align="center"> The expanders are initialized by the Expander Factory in <a href="./src/refinement/refiner_factory.py">src/refinement/refiner_factory.py</a></p></td></tr> 
