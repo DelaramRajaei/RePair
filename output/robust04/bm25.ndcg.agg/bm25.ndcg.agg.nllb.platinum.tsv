@@ -1,0 +1,610 @@
+qid	order	query	bm25.ndcg
+301	-1	International Organized Crime	0.0586
+302	-1	Poliomyelitis and Post-Polio	0.7405
+303	-1	Hubble Telescope Achievements	0.5126
+303	bt_nllb_swahili	The results of the Hubble Telescope	0.5694
+304	-1	Endangered Species (Mammals)	0.2081
+305	-1	Most Dangerous Vehicles	0.0323
+306	-1	African Civilian Deaths	0.1539
+307	-1	New Hydroelectric Projects	0.3366
+308	-1	Implant Dentistry	0.488
+308	bt_nllb_german	Implant teeth	0.5856
+308	bt_nllb_malay	Dental Implantation	0.5856
+308	bt_nllb_persian	Dental implant	0.5856
+309	-1	Rap and Crime	0.0
+310	-1	Radio Waves and Brain Cancer	0.3509
+310	bt_nllb_chinese_yue	Radiation and brain cancer	0.3672
+310	bt_nllb_korean	Radiation and Brain Cancer	0.3672
+311	-1	Industrial Espionage	0.4199
+312	-1	Hydroponics	0.9559
+313	-1	Magnetic Levitation-Maglev	0.8249
+314	-1	Marine Vegetation	0.0168
+314	bt_nllb_persian	Seaweed	0.4804
+314	bt_nllb_swahili	Seaweed	0.4804
+314	bt_nllb_russian	Sea vegetation	0.1041
+314	bt_nllb_arabic	Marine plants	0.0716
+314	bt_nllb_german	Protection of the seas	0.0534
+314	bt_nllb_chinese_yue	Sea plants	0.0312
+314	bt_nllb_korean	Sea plants	0.0312
+314	bt_nllb_malay	Sea plants	0.0312
+314	bt_nllb_tamil	Sea plants	0.0312
+315	-1	Unexplained Highway Accidents	0.1104
+315	bt_nllb_chinese_yue	The cause of the accident is unknown	0.1882
+316	-1	Polygamy Polyandry Polygyny	0.7496
+316	bt_nllb_chinese_yue	Polygamy polygamy polygamy and polygamy	0.7715
+316	bt_nllb_french	Polygamy and polygamy	0.7715
+316	bt_nllb_german	Polygamy and polygamy	0.7715
+316	bt_nllb_malay	Polygamy Polygamy	0.7715
+317	-1	Unsolicited Faxes	0.7129
+318	-1	Best Retirement Country	0.0276
+319	-1	New Fuel Sources	0.1447
+320	-1	Undersea Fiber Optic Cable	0.2138
+320	bt_nllb_french	Submarine fibre optic cable	0.3073
+321	-1	Women in Parliaments	0.3349
+322	-1	International Art Crime	0.016
+322	bt_nllb_french	International crime against art	0.0182
+323	-1	Literary/Journalistic Plagiarism	0.435
+323	bt_nllb_malay	Literary plagiarism	0.4689
+324	-1	Argentine/British Relations	0.4965
+324	bt_nllb_malay	The Argentine British relationship	0.4977
+325	-1	Cult Lifestyles	0.2437
+326	-1	Ferry Sinkings	0.7257
+327	-1	Modern Slavery	0.3936
+327	bt_nllb_malay	Modern day Slavery	0.4184
+328	-1	Pope Beatifications	0.784
+329	-1	Mexican Air Pollution	0.4808
+329	bt_nllb_arabic	Air pollution in Mexico	0.6167
+329	bt_nllb_chinese_yue	Air pollution in Mexico	0.6167
+329	bt_nllb_french	Air Pollution in Mexico	0.6167
+329	bt_nllb_german	Air pollution in Mexico	0.6167
+329	bt_nllb_korean	Air Pollution in Mexico	0.6167
+329	bt_nllb_malay	Air Pollution in Mexico	0.6167
+329	bt_nllb_persian	Air pollution in Mexico	0.6167
+329	bt_nllb_russian	Air pollution in Mexico	0.6167
+329	bt_nllb_swahili	Air Pollution in Mexico	0.6167
+330	-1	Iran-Iraq Cooperation	0.1171
+330	bt_nllb_german	Cooperation between Iran and Iraq	0.1787
+331	-1	World Bank Criticism	0.3363
+332	-1	Income Tax Evasion	0.1474
+333	-1	Antibiotics Bacteria Disease	0.4352
+333	bt_nllb_french	Antibiotics for bacteria	0.4811
+334	-1	Export Controls Cryptography	0.235
+334	bt_nllb_arabic	Export control Encryption	0.73
+334	bt_nllb_tamil	Encryption of export controls	0.73
+334	bt_nllb_chinese_yue	Export controls the password	0.3833
+335	-1	Adoptive Biological Parents	0.503
+336	-1	Black Bear Attacks	0.1371
+337	-1	Viral Hepatitis	0.3693
+337	bt_nllb_tamil	Hepatitis is a viral disease	0.3752
+338	-1	Risk of Aspirin	0.5585
+338	bt_nllb_persian	The risks of aspirin use	0.5856
+338	bt_nllb_russian	Risks of using aspirin	0.5856
+339	-1	Alzheimer's Drug Treatment	0.4573
+340	-1	Land Mine Ban	0.2795
+340	bt_nllb_arabic	The landmine ban	0.313
+340	bt_nllb_french	Prohibition of landmines	0.2949
+340	bt_nllb_german	Prohibition of landmines	0.2949
+340	bt_nllb_persian	Prohibition of landmines	0.2949
+340	bt_nllb_chinese_yue	Banned mines	0.2834
+340	bt_nllb_korean	Mine ban	0.2834
+341	-1	Airport Security	0.4103
+342	-1	Diplomatic Expulsion	0.2892
+343	-1	Police Deaths	0.0191
+343	bt_nllb_malay	Death of a cop	0.0366
+343	bt_nllb_chinese_yue	The police are dead	0.0204
+343	bt_nllb_korean	Police dead	0.0204
+343	bt_nllb_persian	The police are dead	0.0204
+343	bt_nllb_russian	The police are dead	0.0204
+344	-1	Abuses of E-Mail	0.4393
+344	bt_nllb_malay	Breach of e mail	0.5698
+345	-1	Overseas Tobacco Sales	0.2642
+345	bt_nllb_arabic	Tobacco sales outside	0.2924
+345	bt_nllb_french	Tobacco sales abroad	0.2796
+345	bt_nllb_malay	Tobacco sales abroad	0.2796
+345	bt_nllb_persian	The sale of tobacco abroad	0.2796
+345	bt_nllb_russian	The sale of tobacco abroad	0.2796
+345	bt_nllb_tamil	The sale of tobacco abroad	0.2796
+346	-1	Educational Standards	0.1869
+347	-1	Wildlife Extinction	0.1563
+347	bt_nllb_chinese_yue	Wildlife is disappearing	0.2407
+347	bt_nllb_korean	Extinction of the Wild	0.2076
+347	bt_nllb_persian	Extinction of the wild	0.2076
+347	bt_nllb_russian	Extinction of the wild	0.2076
+348	-1	Agoraphobia	0.9068
+349	-1	Metabolism	0.3448
+350	-1	Health and Computer Terminals	0.2143
+351	-1	Falkland petroleum exploration	0.5303
+351	bt_nllb_arabic	Oil exploration in the Falkland Islands	0.7711
+351	bt_nllb_french	Oil exploration in the Falkland Islands	0.7711
+351	bt_nllb_german	Oil exploration in the Falkland Islands	0.7711
+351	bt_nllb_russian	Oil exploration in the Falkland Islands	0.7711
+351	bt_nllb_chinese_yue	The Falkland oil exploration	0.7219
+351	bt_nllb_persian	The Falkland oil exploration	0.7219
+351	bt_nllb_tamil	The Falkland oil exploration	0.7219
+351	bt_nllb_swahili	The Falkland oil field	0.7125
+351	bt_nllb_malay	Confirmation of the Falkland oil	0.7106
+352	-1	British Chunnel impact	0.1282
+352	bt_nllb_french	The impact of the British Channel	0.1685
+352	bt_nllb_persian	The impact of the British Channel	0.1685
+353	-1	Antarctica exploration	0.4228
+353	bt_nllb_russian	Conducting Antarctic research	0.5813
+353	bt_nllb_swahili	The Antarctic	0.5116
+353	bt_nllb_tamil	The study of Antarctica	0.4882
+353	bt_nllb_chinese_yue	Exploring the Antarctic	0.4572
+353	bt_nllb_french	Exploration of the Antarctic	0.4572
+353	bt_nllb_korean	The Antarctic exploration	0.4572
+353	bt_nllb_malay	Exploration of the Antarctic	0.4572
+354	-1	journalist risks	0.0584
+355	-1	ocean remote sensing	0.3238
+356	-1	postmenopausal estrogen Britain	0.0665
+356	bt_nllb_chinese_yue	The post menopausal estrogen in the UK	0.2504
+356	bt_nllb_korean	After menopause estrogen in England	0.2417
+356	bt_nllb_arabic	Oestrogen after the age of despair Britain	0.2185
+356	bt_nllb_swahili	Post aging estrogen in England	0.0712
+356	bt_nllb_persian	Estrogen after the British monsoon	0.0682
+357	-1	territorial waters dispute	0.2927
+357	bt_nllb_german	Dispute over territorial waters	0.3002
+358	-1	blood-alcohol fatalities	0.4478
+358	bt_nllb_german	Blood alcohol deaths	0.6308
+358	bt_nllb_arabic	Deaths from blood alcohol	0.6007
+358	bt_nllb_french	death from alcohol in the blood	0.6007
+358	bt_nllb_korean	Deaths from blood alcohol	0.6007
+358	bt_nllb_malay	death from blood alcohol	0.6007
+358	bt_nllb_persian	Deaths from blood alcohol	0.6007
+358	bt_nllb_russian	death from alcohol in the blood	0.6007
+358	bt_nllb_swahili	blood deaths from alcohol	0.6007
+358	bt_nllb_chinese_yue	Blood alcohol is dead	0.5158
+358	bt_nllb_tamil	The deaths were caused by blood alcohol	0.4565
+359	-1	mutual fund predictors	0.1173
+360	-1	drug legalization benefits	0.1964
+361	-1	clothing sweatshops	0.5154
+362	-1	human smuggling	0.206
+363	-1	transportation tunnel disasters	0.0904
+363	bt_nllb_tamil	Traffic Tunnel Disasters	0.2421
+363	bt_nllb_korean	Traffic tunnel crash	0.2095
+364	-1	rabies	0.8024
+365	-1	El Nino	0.7619
+366	-1	commercial cyanide uses	0.5668
+367	-1	piracy	0.1046
+368	-1	in vitro fertilization	0.5288
+369	-1	anorexia nervosa bulimia	0.5514
+370	-1	food/drug laws	0.0337
+370	bt_nllb_russian	Food and Drug Act	0.0577
+371	-1	health insurance holistic	0.0
+371	bt_nllb_arabic	The health insurance coverage	0.0679
+371	bt_nllb_persian	Health insurance coverage	0.0679
+371	bt_nllb_german	Health insurance in general	0.0302
+371	bt_nllb_swahili	general health insurance	0.0302
+372	-1	Native American casino	0.2904
+372	bt_nllb_tamil	Indian Casino	0.6019
+372	bt_nllb_chinese_yue	Native American casinos in the US	0.3431
+373	-1	encryption equipment export	0.3178
+374	-1	Nobel prize winners	0.2025
+374	bt_nllb_french	Nobel Prize for his work	0.382
+375	-1	hydrogen energy	0.3653
+376	-1	World Court	0.0981
+377	-1	cigar smoking	0.5449
+377	bt_nllb_french	smoke from cigars	0.5623
+378	-1	euro opposition	0.0149
+378	bt_nllb_arabic	Opposition to the European Union	0.0302
+379	-1	mainstreaming	0.1962
+380	-1	obesity medical treatment	0.4656
+380	bt_nllb_chinese_yue	Obesity treatment	0.6705
+380	bt_nllb_tamil	Obesity is a medical condition that affects the body	0.5798
+381	-1	alternative medicine	0.1839
+382	-1	hydrogen fuel automobiles	0.7232
+383	-1	mental illness drugs	0.0837
+383	bt_nllb_chinese_yue	Psychiatric drugs	0.1624
+384	-1	space station moon	0.3348
+385	-1	hybrid fuel cars	0.4636
+385	bt_nllb_russian	hybrid fuel vehicles	0.5178
+385	bt_nllb_swahili	hybrid fuel vehicles	0.5178
+385	bt_nllb_tamil	Hybrid fuel vehicles	0.5178
+386	-1	teaching disabled children	0.1252
+386	bt_nllb_persian	Education for handicapped children	0.2097
+386	bt_nllb_chinese_yue	Learning disabled children	0.1857
+386	bt_nllb_arabic	Education of children with disabilities	0.1393
+386	bt_nllb_french	education of disabled children	0.1393
+386	bt_nllb_german	Education for children with disabilities	0.1393
+386	bt_nllb_korean	Education for Disabled Children	0.1393
+386	bt_nllb_russian	education of children with disabilities	0.1393
+387	-1	radioactive waste	0.2274
+388	-1	organic soil enhancement	0.1132
+388	bt_nllb_chinese_yue	Organic soil is growing	0.208
+388	bt_nllb_malay	increase in organic soil	0.1596
+388	bt_nllb_persian	Increased organic soil	0.1596
+388	bt_nllb_tamil	Organic Soil Development	0.1537
+388	bt_nllb_french	improvement of organic soils	0.1525
+388	bt_nllb_russian	organic improvement of soil	0.1525
+388	bt_nllb_swahili	strengthening organic soil	0.1391
+388	bt_nllb_german	organic soil extraction	0.1237
+388	bt_nllb_arabic	Organic soil reinforcement	0.1139
+389	-1	illegal technology transfer	0.0935
+390	-1	orphan drugs	0.1861
+391	-1	R&D drug prices	0.3673
+391	bt_nllb_korean	Research and development drug prices	0.436
+391	bt_nllb_persian	Costs of drug research and development	0.432
+391	bt_nllb_tamil	Pharmaceutical R D prices	0.4071
+391	bt_nllb_chinese_yue	The cost of drug development	0.379
+392	-1	robotics	0.5104
+393	-1	mercy killing	0.2064
+394	-1	home schooling	0.0797
+394	bt_nllb_chinese_yue	Family education	0.1611
+394	bt_nllb_french	home education	0.0898
+394	bt_nllb_korean	Home education	0.0898
+394	bt_nllb_swahili	home education	0.0898
+395	-1	tourism	0.1378
+396	-1	sick building syndrome	0.2999
+397	-1	automobile recalls	0.0659
+397	bt_nllb_arabic	The car recall	0.7193
+397	bt_nllb_tamil	Vehicle recall	0.3336
+398	-1	dismantling Europe's arsenal	0.0868
+398	bt_nllb_chinese_yue	To destroy the European arsenal	0.0872
+399	-1	oceanographic vessels	0.2946
+399	bt_nllb_korean	The oceanographic ship	0.3168
+399	bt_nllb_malay	oceanographic ships	0.3168
+399	bt_nllb_persian	Oceanographic ships	0.3168
+399	bt_nllb_russian	oceanographic ships	0.3168
+400	-1	Amazon rain forest	0.4859
+401	-1	foreign minorities, Germany	0.0777
+401	bt_nllb_swahili	A few foreigners Germany	0.0906
+402	-1	behavioral genetics	0.2505
+402	bt_nllb_persian	Behavioral genetics is what it is	0.2866
+403	-1	osteoporosis	0.661
+404	-1	Ireland, peace talks	0.1501
+405	-1	cosmic events	0.1929
+406	-1	Parkinson's disease	0.69
+406	bt_nllb_chinese_yue	Parkinson s disease is a disease	0.7046
+406	bt_nllb_korean	Parkinson s disease is not a disease	0.7046
+406	bt_nllb_russian	Parkinson s disease is a disease	0.7046
+406	bt_nllb_swahili	Parkinson s disease is a disease	0.7046
+407	-1	poaching, wildlife preserves	0.4172
+408	-1	tropical storms	0.2473
+409	-1	legal, Pan Am, 103	0.2795
+410	-1	Schengen agreement	0.9459
+411	-1	salvaging, shipwreck, treasure	0.4451
+411	bt_nllb_korean	Rescue ship wreck treasure	0.5363
+412	-1	airport security	0.4362
+413	-1	steel production	0.1188
+414	-1	Cuba, sugar, exports	0.4941
+415	-1	drugs, Golden Triangle	0.4272
+416	-1	Three Gorges Project	0.5569
+417	-1	creativity	0.4366
+418	-1	quilts, income	0.4374
+419	-1	recycle, automobile tires	0.1466
+419	bt_nllb_french	recycling tyres automotive tyres	0.4829
+419	bt_nllb_german	Recycling vehicle tyres	0.4593
+419	bt_nllb_chinese_yue	Recycling machines car tires	0.2201
+419	bt_nllb_russian	recycling automotive tires	0.1958
+420	-1	carbon monoxide poisoning	0.6868
+421	-1	industrial waste disposal	0.0971
+421	bt_nllb_chinese_yue	Industrial waste management	0.1568
+421	bt_nllb_german	Waste management of industrial waste	0.1469
+422	-1	art, stolen, forged	0.4123
+423	-1	Milosevic, Mirjana Markovic	0.7777
+424	-1	suicides	0.1503
+425	-1	counterfeiting money	0.4447
+426	-1	law enforcement, dogs	0.1406
+426	bt_nllb_french	The police the dogs	0.325
+426	bt_nllb_swahili	police dogs	0.325
+426	bt_nllb_german	Law enforcement agencies dogs	0.1577
+426	bt_nllb_russian	law enforcement agencies dogs	0.1577
+427	-1	UV damage, eyes	0.3693
+427	bt_nllb_russian	Damage to ultraviolet rays eyes	0.429
+428	-1	declining birth rates	0.3223
+429	-1	Legionnaires' disease	0.6606
+429	bt_nllb_korean	Legionnaire s disease is a disease	0.6711
+429	bt_nllb_malay	Legionnaire s disease	0.6658
+429	bt_nllb_tamil	The Legionnaire s Disease	0.6658
+429	bt_nllb_persian	Legionnaires disease is a disease	0.6648
+430	-1	killer bee attacks	0.7607
+430	bt_nllb_korean	A murderous attack by a bee	0.9008
+431	-1	robotic technology	0.5211
+431	bt_nllb_russian	robotics	0.5269
+432	-1	profiling, motorists, police	0.0179
+432	bt_nllb_swahili	profile driver police officer	0.0347
+433	-1	Greek, philosophy, stoicism	0.1845
+433	bt_nllb_russian	Greece philosophy stoicism	0.24
+434	-1	Estonia, economy	0.3195
+435	-1	curbing population growth	0.0551
+435	bt_nllb_tamil	The population growth is controlled	0.3506
+435	bt_nllb_russian	population growth	0.3149
+435	bt_nllb_persian	Decreased population growth	0.2102
+435	bt_nllb_swahili	preventing population growth	0.1538
+435	bt_nllb_arabic	Reducing population growth	0.1255
+435	bt_nllb_malay	impeding population growth	0.0958
+435	bt_nllb_french	limiting population growth	0.0571
+436	-1	railway accidents	0.1827
+436	bt_nllb_korean	The train crash	0.3531
+436	bt_nllb_malay	train crash	0.3531
+436	bt_nllb_tamil	Train accidents	0.329
+436	bt_nllb_arabic	Railroad accidents	0.2857
+436	bt_nllb_chinese_yue	A railroad accident	0.2857
+436	bt_nllb_persian	Railroad accidents	0.2857
+436	bt_nllb_russian	railroad accidents	0.2857
+437	-1	deregulation, gas, electric	0.091
+437	bt_nllb_russian	De regulation gas electricity	0.1023
+437	bt_nllb_persian	Discounted regulations gas electricity	0.0996
+437	bt_nllb_tamil	The government has also been able to regulate the supply of gas and electricity	0.0965
+438	-1	tourism, increase	0.3067
+439	-1	inventions, scientific discoveries	0.0632
+440	-1	child labor	0.3615
+441	-1	Lyme disease	0.5683
+442	-1	heroic acts	0.0358
+442	bt_nllb_german	Heroic Deeds	0.1672
+442	bt_nllb_russian	heroic actions	0.0667
+443	-1	U.S., investment, Africa	0.0486
+443	bt_nllb_malay	The US investment Africa	0.3405
+443	bt_nllb_arabic	The United States investment Africa	0.2199
+443	bt_nllb_chinese_yue	The United States investment Africa	0.2199
+443	bt_nllb_french	The United States investment Africa	0.2199
+443	bt_nllb_korean	The United States investment Africa	0.2199
+443	bt_nllb_persian	The United States investment Africa	0.2199
+443	bt_nllb_russian	The United States investment Africa	0.2199
+443	bt_nllb_swahili	United States investment Africa	0.2199
+443	bt_nllb_tamil	The United States investment Africa	0.2199
+444	-1	supercritical fluids	0.5804
+444	bt_nllb_chinese_yue	It s a supercritical liquid	0.5898
+445	-1	women clergy	0.3194
+446	-1	tourists, violence	0.3033
+447	-1	Stirling engine	0.1618
+447	bt_nllb_malay	The Stirling machine	0.1933
+447	bt_nllb_swahili	The Stirling Machine	0.1933
+447	bt_nllb_tamil	The Stirling machine	0.1933
+448	-1	ship losses	0.0825
+449	-1	antibiotics ineffectiveness	0.1815
+449	bt_nllb_german	Effectiveness of antibiotics	0.2406
+449	bt_nllb_korean	The antibiotic effect is	0.2406
+449	bt_nllb_malay	antibiotics are not effective	0.2406
+450	-1	King Hussein, peace	0.303
+601	-1	Turkey Iraq water	0.6209
+602	-1	Czech, Slovak sovereignty	0.3969
+602	bt_nllb_persian	The Czech and Slovak Governments	0.4502
+602	bt_nllb_malay	The Czech Slovak	0.4412
+603	-1	Tobacco cigarette lawsuit	0.4847
+603	bt_nllb_malay	Trial of Tobacco	0.6967
+603	bt_nllb_chinese_yue	The tobacco tobacco lawsuit	0.6665
+603	bt_nllb_russian	The court case on tobacco cigarettes	0.6523
+603	bt_nllb_arabic	A lawsuit about tobacco	0.6137
+603	bt_nllb_swahili	The case of tobacco	0.6041
+603	bt_nllb_korean	The tobacco cigarette suit	0.5852
+603	bt_nllb_tamil	The tobacco cigarette case	0.5301
+603	bt_nllb_persian	The smoking suit	0.4901
+604	-1	Lyme disease arthritis	0.9399
+605	-1	Great Britain health care	0.1966
+605	bt_nllb_swahili	Health care in Britain	0.2428
+605	bt_nllb_malay	British health services	0.1983
+606	-1	leg traps ban	0.653
+607	-1	human genetic code	0.4954
+608	-1	taxing social security	0.227
+609	-1	per capita alcohol consumption	0.5551
+610	-1	minimum wage adverse impact	0.1659
+610	bt_nllb_arabic	The negative impact on the minimum wage	0.3957
+610	bt_nllb_french	the negative impact of the minimum wage	0.3957
+610	bt_nllb_german	negative impact on the minimum wage	0.3957
+610	bt_nllb_korean	The negative impact on the minimum wage	0.3957
+610	bt_nllb_persian	The negative impact on the minimum wage	0.3957
+610	bt_nllb_russian	negative impact of minimum wage	0.3957
+610	bt_nllb_tamil	The negative impact of the minimum wage	0.3957
+610	bt_nllb_chinese_yue	The minimum wage is negative	0.2588
+611	-1	Kurds Germany violence	0.348
+612	-1	Tibet protesters	0.4725
+612	bt_nllb_chinese_yue	Tibetans are demonstrating	0.6204
+612	bt_nllb_swahili	Tibetans marching in the streets	0.5614
+612	bt_nllb_malay	The Tibetan prosecutor	0.5467
+612	bt_nllb_french	Tibetan protesters	0.5405
+612	bt_nllb_german	Tibetan protesters	0.5405
+612	bt_nllb_korean	The Tibetan protests	0.5405
+612	bt_nllb_persian	Tibetan protesters	0.5405
+612	bt_nllb_russian	Tibetan protesters	0.5405
+612	bt_nllb_tamil	The Tibetan protesters	0.5405
+613	-1	Berlin wall disposal	0.3724
+613	bt_nllb_arabic	Removing the Berlin Wall	0.3972
+613	bt_nllb_russian	Removing the Berlin Wall	0.3972
+614	-1	Flavr Savr tomato	0.3143
+614	bt_nllb_korean	The Flavour of the Sabre Tomatoes	0.4825
+615	-1	timber exports Asia	0.2518
+616	-1	Volkswagen Mexico	0.8196
+617	-1	Russia Cuba economy	0.3386
+618	-1	Ayatollah Khomeini death	0.2551
+618	bt_nllb_chinese_yue	Ayatollah Khomeini is dead	0.2611
+618	bt_nllb_malay	Ayatollah Khomeini is dead	0.2611
+619	-1	Winnie Mandela scandal	0.8293
+620	-1	France nuclear testing	0.1688
+620	bt_nllb_chinese_yue	French nuclear tests	0.4846
+620	bt_nllb_korean	French nuclear test	0.4846
+620	bt_nllb_malay	French nuclear tests	0.4846
+620	bt_nllb_persian	French nuclear tests	0.4846
+621	-1	women ordained Church of England	0.7184
+621	bt_nllb_korean	Women priests in the Church of England	0.8431
+621	bt_nllb_russian	women of the Church of England	0.8256
+621	bt_nllb_arabic	The leading women of the Church of England	0.7601
+622	-1	price fixing	0.2017
+623	-1	toxic chemical weapon	0.3958
+624	-1	SDI Star Wars	0.4203
+624	bt_nllb_korean	SDI Star Wars is on the way	0.4362
+625	-1	arrests bombing WTC	0.1774
+625	bt_nllb_arabic	Arrested by the World Trade Center bombing	0.4381
+625	bt_nllb_german	Arrested in the bombing of the World Trade Center	0.4381
+626	-1	human stampede	0.5022
+627	-1	Russian food crisis	0.0627
+628	-1	U.S. invasion of Panama	0.3406
+628	bt_nllb_tamil	The United States invasion of Panama	0.4599
+628	bt_nllb_german	The US invasion of Panama	0.4172
+628	bt_nllb_russian	US invasion of Panama	0.4172
+629	-1	abortion clinic attack	0.4979
+630	-1	Gulf War Syndrome	0.9232
+631	-1	Mandela South Africa President	0.2383
+632	-1	southeast Asia tin mining	0.3905
+633	-1	Welsh devolution	0.544
+634	-1	L-tryptophan deaths	0.8506
+634	bt_nllb_german	Deaths from L tryptophan	0.8674
+634	bt_nllb_persian	Death from L Tryptophan	0.8674
+634	bt_nllb_russian	Death from L tryptophan	0.8674
+634	bt_nllb_swahili	Death from L tryptophan	0.8674
+635	-1	doctor assisted suicides	0.7932
+636	-1	jury duty exemptions	0.2679
+636	bt_nllb_arabic	Exemptions from jury duty	0.2685
+636	bt_nllb_french	exemptions from the duty of jury	0.2685
+636	bt_nllb_malay	exemption from the jury duty	0.2685
+636	bt_nllb_persian	Exemption from jury duty	0.2685
+637	-1	human growth hormone (HGH)	0.6219
+638	-1	wrongful convictions	0.0936
+639	-1	consumer on-line shopping	0.3113
+639	bt_nllb_arabic	Online shopping for the consumer	0.3396
+639	bt_nllb_chinese_yue	Consumers shop online	0.3396
+639	bt_nllb_german	Online shopping for consumers	0.3396
+639	bt_nllb_korean	Consumers shopping online	0.3396
+639	bt_nllb_persian	Consumer online shopping	0.3396
+639	bt_nllb_swahili	online shopping for consumers	0.3396
+640	-1	maternity leave policies	0.4766
+640	bt_nllb_german	maternity leave	0.5691
+641	-1	Valdez wildlife marine life	0.4989
+641	bt_nllb_swahili	The marine animals of Valdez	0.5721
+641	bt_nllb_french	Wildlife in Valdez	0.5361
+641	bt_nllb_malay	Wildlife of Valdez	0.5361
+642	-1	Tiananmen Square protesters	0.3147
+643	-1	salmon dams Pacific northwest	0.274
+644	-1	exotic animals import	0.1662
+645	-1	software piracy	0.8485
+646	-1	food stamps increase	0.4112
+647	-1	windmill electricity	0.4231
+647	bt_nllb_tamil	Wind power	0.6956
+647	bt_nllb_korean	Wind power plants	0.4906
+647	bt_nllb_arabic	Electricity from windmills	0.4252
+647	bt_nllb_french	electricity from windmills	0.4252
+647	bt_nllb_german	Electricity from windmills	0.4252
+648	-1	family leave law	0.3074
+648	bt_nllb_german	Family leave	0.5223
+648	bt_nllb_korean	Family leave	0.5223
+649	-1	computer viruses	0.7526
+650	-1	tax evasion indicted	0.198
+650	bt_nllb_arabic	Charges of tax evasion	0.2725
+650	bt_nllb_french	charge of tax evasion	0.2725
+650	bt_nllb_german	Charged with tax evasion	0.2725
+650	bt_nllb_korean	Charged with tax evasion	0.2725
+650	bt_nllb_swahili	tax evasion charges	0.2725
+650	bt_nllb_malay	Tax fraud charges	0.247
+650	bt_nllb_tamil	The tax evasion charges were dropped	0.2371
+651	-1	U.S. ethnic population	0.0
+651	bt_nllb_arabic	The racial population in the United States	0.1389
+651	bt_nllb_chinese_yue	The population of the United States	0.0887
+651	bt_nllb_korean	The population of the United States	0.0887
+651	bt_nllb_german	US population	0.0567
+651	bt_nllb_french	Ethnic population of the United States	0.0543
+651	bt_nllb_malay	Ethnic population of the United States	0.0543
+651	bt_nllb_persian	Ethnic population of the United States	0.0543
+651	bt_nllb_russian	Ethnic population of the United States	0.0543
+651	bt_nllb_swahili	The number of Native Americans	0.0273
+652	-1	OIC Balkans 1990s	0.5084
+653	-1	ETA Basque terrorism	0.724
+653	bt_nllb_malay	ETA of Basque terrorists	0.7734
+654	-1	same-sex schools	0.3568
+655	-1	ADD diagnosis treatment	0.0
+656	-1	lead poisoning children	0.1347
+656	bt_nllb_russian	Children who poison lead	0.1351
+657	-1	school prayer banned	0.706
+658	-1	teenage pregnancy	0.0973
+658	bt_nllb_french	pregnancy in adolescents	0.2174
+658	bt_nllb_russian	pregnancy of adolescents	0.2174
+658	bt_nllb_tamil	The first is that the mother is pregnant	0.1847
+658	bt_nllb_german	Pregnancy in the teenage years	0.1099
+659	-1	cruise health safety	0.658
+659	bt_nllb_french	health safety of cruise ships	0.7097
+659	bt_nllb_russian	safety for the health of cruise passengers	0.6805
+660	-1	whale watching California	0.7518
+661	-1	melanoma treatment causes	0.763
+661	bt_nllb_korean	The Causes of Melanoma	0.8198
+661	bt_nllb_swahili	causes of melanoma	0.8198
+661	bt_nllb_german	Treatment of melanoma	0.7649
+662	-1	telemarketer protection	0.6828
+663	-1	Agent Orange exposure	0.427
+663	bt_nllb_russian	The effects of Agent Orange	0.4833
+663	bt_nllb_chinese_yue	They were exposed to Agent Orange	0.4696
+664	-1	American Indian Museum	0.9334
+665	-1	poverty Africa sub-Sahara	0.3978
+666	-1	Thatcher resignation impact	0.0785
+667	-1	unmarried-partner households	0.5452
+667	bt_nllb_korean	A family with an unmarried partner	0.692
+667	bt_nllb_swahili	families of unmarried partners	0.692
+667	bt_nllb_malay	household of unmarried couples	0.5941
+668	-1	poverty, disease	0.5612
+669	-1	Islamic Revolution	0.1767
+670	-1	U.S. elections apathy	0.0518
+670	bt_nllb_russian	American apathy in the election	0.3235
+670	bt_nllb_malay	Apathy in the US election	0.3173
+670	bt_nllb_french	The apathy of the American electorate	0.2709
+671	-1	Salvation Army benefits	0.4617
+673	-1	Soviet withdrawal Afghanistan	0.4638
+673	bt_nllb_persian	Withdrawal of the Soviet Union from Afghanistan	0.5111
+673	bt_nllb_arabic	The Soviet withdrawal from Afghanistan	0.488
+673	bt_nllb_french	The Soviet withdrawal from Afghanistan	0.488
+673	bt_nllb_german	Soviet withdrawal from Afghanistan	0.488
+673	bt_nllb_korean	Soviet withdrawal from Afghanistan	0.488
+673	bt_nllb_swahili	The Soviet withdrawal from Afghanistan	0.488
+673	bt_nllb_tamil	The Soviet Army in Afghanistan	0.4669
+674	-1	Greenpeace prosecuted	0.3148
+674	bt_nllb_swahili	Greenpeace is charged	0.6239
+674	bt_nllb_arabic	The Greenpeace trial	0.405
+674	bt_nllb_persian	The Greenpeace trial	0.405
+674	bt_nllb_russian	The Greenpeace Persecution	0.3453
+675	-1	Olympics training swimming	0.4867
+676	-1	poppy cultivation	0.3903
+677	-1	Leaning Tower of Pisa	0.9802
+678	-1	joint custody impact	0.4074
+679	-1	opening adoption records	0.7929
+680	-1	immigrants Spanish school	0.1428
+680	bt_nllb_chinese_yue	Immigration Spanish College	0.1852
+681	-1	wind power location	0.4835
+681	bt_nllb_swahili	wind energy area	0.5513
+681	bt_nllb_french	location of wind energy	0.5205
+681	bt_nllb_german	Location of wind energy	0.5205
+681	bt_nllb_russian	location of wind energy	0.5205
+682	-1	adult immigrants English	0.4806
+683	-1	Czechoslovakia breakup	0.1186
+683	bt_nllb_malay	Czechoslovakia is breaking up	0.182
+683	bt_nllb_french	The division of Czechoslovakia	0.1599
+683	bt_nllb_tamil	The division of Czechoslovakia	0.1599
+683	bt_nllb_chinese_yue	Czechoslovakia was divided	0.1547
+684	-1	part-time benefits	0.2632
+685	-1	Oscar winner selection	0.4361
+686	-1	Argentina pegging dollar	0.4744
+687	-1	Northern Ireland industry	0.4648
+688	-1	non-U.S. media bias	0.0327
+688	bt_nllb_malay	Media bias is not the US	0.2414
+688	bt_nllb_russian	The un American media bias	0.1887
+688	bt_nllb_chinese_yue	Media bias outside the United States	0.1852
+688	bt_nllb_korean	Media bias outside the United States	0.1852
+688	bt_nllb_arabic	The media bias is not American	0.1478
+688	bt_nllb_persian	Non American media bias	0.1246
+688	bt_nllb_german	Non American media distortion	0.0901
+689	-1	family-planning aid	0.2374
+690	-1	college education advantage	0.0
+690	bt_nllb_russian	The advantages of higher education	0.04
+690	bt_nllb_arabic	The advantage of university education	0.0342
+690	bt_nllb_chinese_yue	The benefits of college education	0.0281
+690	bt_nllb_korean	The benefits of a college education	0.0281
+690	bt_nllb_tamil	The benefits of college education	0.0281
+690	bt_nllb_french	The benefits of higher education	0.0273
+690	bt_nllb_german	The benefits of higher education	0.0273
+691	-1	clear-cutting forests	0.5893
+692	-1	prostate cancer detection treatment	0.6337
+692	bt_nllb_french	treatment for prostate cancer	0.73
+692	bt_nllb_korean	Treatment for prostate cancer	0.73
+692	bt_nllb_persian	Treatment for prostate cancer	0.73
+692	bt_nllb_swahili	treatment for prostate cancer	0.73
+692	bt_nllb_tamil	The treatment for prostate cancer	0.73
+693	-1	newspapers electronic media	0.5365
+694	-1	compost pile	0.546
+694	bt_nllb_chinese_yue	Compost	0.5606
+695	-1	white collar crime sentence	0.3922
+696	-1	safety plastic surgery	0.5338
+697	-1	air traffic controller	0.217
+698	-1	literacy rates Africa	0.7058
+698	bt_nllb_chinese_yue	Literacy in Africa	0.7424
+698	bt_nllb_russian	literacy in Africa	0.7424
+699	-1	term limits	0.5581
+700	-1	gasoline tax U.S.	0.0498
+700	bt_nllb_korean	Gasoline tax	0.4009
+700	bt_nllb_german	Gas tax	0.2253
+700	bt_nllb_french	US gas tax	0.1593

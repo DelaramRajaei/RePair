@@ -1,0 +1,550 @@
+qid	order	query	bm25.recip_rank
+701	-1	u.s. oil industry history	0.5
+702	-1	pearl farming	1.0
+704	-1	green party political views	1.0
+705	-1	iraq foreign debt reduction	1.0
+706	-1	controlling type ii diabetes	0.1667
+706	pred.bt.1	see type two diabetes	1.0
+706	pred.bt.10	see type two diabetes	1.0
+706	pred.bt.2	see type two diabetes	1.0
+706	pred.bt.3	see type two diabetes	1.0
+706	pred.bt.4	see type two diabetes	1.0
+706	pred.bt.5	see type two diabetes	1.0
+706	pred.bt.6	see type two diabetes	1.0
+706	pred.bt.7	see type two diabetes	1.0
+706	pred.bt.8	see type two diabetes	1.0
+706	pred.bt.9	see type two diabetes	1.0
+707	-1	aspirin cancer prevention	1.0
+708	-1	decorative slate sources	1.0
+709	-1	horse racing jockey weight	1.0
+710	-1	prostate cancer treatments	1.0
+711	-1	train station security measures	0.25
+711	pred.bt.1	train station security measures measur naval amtrak secur transport	1.0
+711	pred.bt.10	train station security measures measur naval amtrak secur transport	1.0
+711	pred.bt.2	train station security measures measur naval amtrak secur transport	1.0
+711	pred.bt.3	train station security measures measur naval amtrak secur transport	1.0
+711	pred.bt.4	train station security measures measur naval amtrak secur transport	1.0
+711	pred.bt.5	train station security measures measur naval amtrak secur transport	1.0
+711	pred.bt.6	train station security measures measur naval amtrak secur transport	1.0
+711	pred.bt.7	train station security measures measur naval amtrak secur transport	1.0
+711	pred.bt.8	train station security measures measur naval amtrak secur transport	1.0
+711	pred.bt.9	train station security measures measur naval amtrak secur transport	1.0
+712	-1	pyramid scheme	1.0
+713	-1	chesapeake bay maryland clean	1.0
+714	-1	license restrictions older drivers	1.0
+715	-1	schizophrenia drugs	0.5
+715	pred.bt.1	schizophrenia drugs patient	1.0
+715	pred.bt.10	schizophrenia drugs patient	1.0
+715	pred.bt.2	schizophrenia drugs patient	1.0
+715	pred.bt.3	schizophrenia drugs patient	1.0
+715	pred.bt.4	schizophrenia drugs patient	1.0
+715	pred.bt.5	schizophrenia drugs patient	1.0
+715	pred.bt.6	schizophrenia drugs patient	1.0
+715	pred.bt.7	schizophrenia drugs patient	1.0
+715	pred.bt.8	schizophrenia drugs patient	1.0
+715	pred.bt.9	schizophrenia drugs patient	1.0
+716	-1	spammer arrest sue	0.3333
+716	pred.bt.1	spammer arrest sue arrest lawsuit spamming	1.0
+716	pred.bt.10	spammer arrest sue arrest lawsuit spamming	1.0
+716	pred.bt.2	spammer arrest sue arrest lawsuit spamming	1.0
+716	pred.bt.3	spammer arrest sue arrest lawsuit spamming	1.0
+716	pred.bt.4	spammer arrest sue arrest lawsuit spamming	1.0
+716	pred.bt.5	spammer arrest sue arrest lawsuit spamming	1.0
+716	pred.bt.6	spammer arrest sue arrest lawsuit spamming	1.0
+716	pred.bt.7	spammer arrest sue arrest lawsuit spamming	1.0
+716	pred.bt.8	spammer arrest sue arrest lawsuit spamming	1.0
+716	pred.bt.9	spammer arrest sue arrest lawsuit spamming	1.0
+717	-1	gifted talented student programs	1.0
+718	-1	controlling acid rain	1.0
+719	-1	cruise ship damage sea life	0.1429
+719	pred.bt.1	cruise ship damage sea life ship vessel caused ocean waters lives even	1.0
+719	pred.bt.10	cruise ship damage sea life ship vessel caused ocean waters lives even	1.0
+719	pred.bt.2	cruise ship damage sea life ship vessel caused ocean waters lives even	1.0
+719	pred.bt.3	cruise ship damage sea life ship vessel caused ocean waters lives even	1.0
+719	pred.bt.4	cruise ship damage sea life ship vessel caused ocean waters lives even	1.0
+719	pred.bt.5	cruise ship damage sea life ship vessel caused ocean waters lives even	1.0
+719	pred.bt.6	cruise ship damage sea life ship vessel caused ocean waters lives even	1.0
+719	pred.bt.7	cruise ship damage sea life ship vessel caused ocean waters lives even	1.0
+719	pred.bt.8	cruise ship damage sea life ship vessel caused ocean waters lives even	1.0
+719	pred.bt.9	cruise ship damage sea life ship vessel caused ocean waters lives even	1.0
+720	-1	federal welfare reform	0.2
+720	pred.bt.1	federal welfare reform welfar state	0.25
+720	pred.bt.10	federal welfare reform welfar state	0.25
+720	pred.bt.2	federal welfare reform welfar state	0.25
+720	pred.bt.3	federal welfare reform welfar state	0.25
+720	pred.bt.4	federal welfare reform welfar state	0.25
+720	pred.bt.5	federal welfare reform welfar state	0.25
+720	pred.bt.6	federal welfare reform welfar state	0.25
+720	pred.bt.7	federal welfare reform welfar state	0.25
+720	pred.bt.8	federal welfare reform welfar state	0.25
+720	pred.bt.9	federal welfare reform welfar state	0.25
+721	-1	census data applications	0.1111
+721	pred.bt.1	census data applications area counti number ani total	1.0
+721	pred.bt.10	census data applications area counti number ani total	1.0
+721	pred.bt.2	census data applications area counti number ani total	1.0
+721	pred.bt.3	census data applications area counti number ani total	1.0
+721	pred.bt.4	census data applications area counti number ani total	1.0
+721	pred.bt.5	census data applications area counti number ani total	1.0
+721	pred.bt.6	census data applications area counti number ani total	1.0
+721	pred.bt.7	census data applications area counti number ani total	1.0
+721	pred.bt.8	census data applications area counti number ani total	1.0
+721	pred.bt.9	census data applications area counti number ani total	1.0
+722	-1	iran terrorism	1.0
+723	-1	executive privilege	1.0
+724	-1	iran contra	0.1667
+724	pred.bt.1	iran contra casei cia defend record	1.0
+724	pred.bt.10	iran contra casei cia defend record	1.0
+724	pred.bt.2	iran contra casei cia defend record	1.0
+724	pred.bt.3	iran contra casei cia defend record	1.0
+724	pred.bt.4	iran contra casei cia defend record	1.0
+724	pred.bt.5	iran contra casei cia defend record	1.0
+724	pred.bt.6	iran contra casei cia defend record	1.0
+724	pred.bt.7	iran contra casei cia defend record	1.0
+724	pred.bt.8	iran contra casei cia defend record	1.0
+724	pred.bt.9	iran contra casei cia defend record	1.0
+725	-1	low white blood cell count	0.3333
+726	-1	hubble telescope repairs	1.0
+727	-1	church arson	1.0
+728	-1	whales save endangered	1.0
+729	-1	whistle blower department of defense	0.0
+729	pred.bt.1	whistle blower department defense blowing whistleblower administration defence	0.25
+729	pred.bt.10	whistle blower department defense blowing whistleblower administration defence	0.25
+729	pred.bt.2	whistle blower department defense blowing whistleblower administration defence	0.25
+729	pred.bt.3	whistle blower department defense blowing whistleblower administration defence	0.25
+729	pred.bt.4	whistle blower department defense blowing whistleblower administration defence	0.25
+729	pred.bt.5	whistle blower department defense blowing whistleblower administration defence	0.25
+729	pred.bt.6	whistle blower department defense blowing whistleblower administration defence	0.25
+729	pred.bt.7	whistle blower department defense blowing whistleblower administration defence	0.25
+729	pred.bt.8	whistle blower department defense blowing whistleblower administration defence	0.25
+729	pred.bt.9	whistle blower department defense blowing whistleblower administration defence	0.25
+730	-1	gastric bypass complications	1.0
+731	-1	kurds history	0.0833
+731	pred.bt.1	kurds past subject school	1.0
+731	pred.bt.10	kurds past subject school	1.0
+731	pred.bt.2	kurds past subject school	1.0
+731	pred.bt.3	kurds past subject school	1.0
+731	pred.bt.4	kurds past subject school	1.0
+731	pred.bt.5	kurds past subject school	1.0
+731	pred.bt.6	kurds past subject school	1.0
+731	pred.bt.7	kurds past subject school	1.0
+731	pred.bt.8	kurds past subject school	1.0
+731	pred.bt.9	kurds past subject school	1.0
+732	-1	u.s. cheese production	1.0
+733	-1	airline overbooking	1.0
+734	-1	recycling successes	0.5
+735	-1	afghan women condition	0.3333
+736	-1	location bse infections	1.0
+737	-1	enron california energy crisis	1.0
+738	-1	anthrax hoaxes	1.0
+739	-1	habitat for humanity	0.3333
+740	-1	regulate assisted living maryland	1.0
+741	-1	artificial intelligence	0.04
+741	pred.bt.1	artificial intelligence learning united states intelligence agency	1.0
+741	pred.bt.10	artificial intelligence learning united states intelligence agency	1.0
+741	pred.bt.2	artificial intelligence learning united states intelligence agency	1.0
+741	pred.bt.3	artificial intelligence learning united states intelligence agency	1.0
+741	pred.bt.4	artificial intelligence learning united states intelligence agency	1.0
+741	pred.bt.5	artificial intelligence learning united states intelligence agency	1.0
+741	pred.bt.6	artificial intelligence learning united states intelligence agency	1.0
+741	pred.bt.7	artificial intelligence learning united states intelligence agency	1.0
+741	pred.bt.8	artificial intelligence learning united states intelligence agency	1.0
+741	pred.bt.9	artificial intelligence learning united states intelligence agency	1.0
+742	-1	hedge funds fraud protection	1.0
+743	-1	freighter ship registration	0.0357
+743	pred.bt.1	under flag conveni nation secur	1.0
+743	pred.bt.10	under flag conveni nation secur	1.0
+743	pred.bt.2	under flag conveni nation secur	1.0
+743	pred.bt.3	under flag conveni nation secur	1.0
+743	pred.bt.4	under flag conveni nation secur	1.0
+743	pred.bt.5	under flag conveni nation secur	1.0
+743	pred.bt.6	under flag conveni nation secur	1.0
+743	pred.bt.7	under flag conveni nation secur	1.0
+743	pred.bt.8	under flag conveni nation secur	1.0
+743	pred.bt.9	under flag conveni nation secur	1.0
+744	-1	counterfeit id punishments	0.0115
+744	pred.bt.1	counterfeit id punishments fake identification meted	0.25
+744	pred.bt.10	counterfeit id punishments fake identification meted	0.25
+744	pred.bt.2	counterfeit id punishments fake identification meted	0.25
+744	pred.bt.3	counterfeit id punishments fake identification meted	0.25
+744	pred.bt.4	counterfeit id punishments fake identification meted	0.25
+744	pred.bt.5	counterfeit id punishments fake identification meted	0.25
+744	pred.bt.6	counterfeit id punishments fake identification meted	0.25
+744	pred.bt.7	counterfeit id punishments fake identification meted	0.25
+744	pred.bt.8	counterfeit id punishments fake identification meted	0.25
+744	pred.bt.9	counterfeit id punishments fake identification meted	0.25
+745	-1	doomsday cults	0.1429
+745	pred.bt.1	doomsday cults cult aum sects	1.0
+745	pred.bt.10	doomsday cults cult aum sects	1.0
+745	pred.bt.2	doomsday cults cult aum sects	1.0
+745	pred.bt.3	doomsday cults cult aum sects	1.0
+745	pred.bt.4	doomsday cults cult aum sects	1.0
+745	pred.bt.5	doomsday cults cult aum sects	1.0
+745	pred.bt.6	doomsday cults cult aum sects	1.0
+745	pred.bt.7	doomsday cults cult aum sects	1.0
+745	pred.bt.8	doomsday cults cult aum sects	1.0
+745	pred.bt.9	doomsday cults cult aum sects	1.0
+746	-1	outsource job india	1.0
+747	-1	library computer oversight	1.0
+748	-1	nuclear reactor types	0.5
+749	-1	puerto rico state	1.0
+750	-1	john edwards womens issues	0.3333
+751	-1	scrabble players	1.0
+752	-1	dam removal	1.0
+753	-1	bullying prevention programs	0.5
+753	pred.bt.1	bullying prevention programs bulli program school	1.0
+753	pred.bt.10	bullying prevention programs bulli program school	1.0
+753	pred.bt.2	bullying prevention programs bulli program school	1.0
+753	pred.bt.3	bullying prevention programs bulli program school	1.0
+753	pred.bt.4	bullying prevention programs bulli program school	1.0
+753	pred.bt.5	bullying prevention programs bulli program school	1.0
+753	pred.bt.6	bullying prevention programs bulli program school	1.0
+753	pred.bt.7	bullying prevention programs bulli program school	1.0
+753	pred.bt.8	bullying prevention programs bulli program school	1.0
+753	pred.bt.9	bullying prevention programs bulli program school	1.0
+754	-1	domestic adoption laws	1.0
+755	-1	scottish highland games	1.0
+756	-1	volcanic activity	0.1429
+756	pred.bt.1	volcanic activity volcan volcano lake erupt activ	0.25
+756	pred.bt.10	volcanic activity volcan volcano lake erupt activ	0.25
+756	pred.bt.2	volcanic activity volcan volcano lake erupt activ	0.25
+756	pred.bt.3	volcanic activity volcan volcano lake erupt activ	0.25
+756	pred.bt.4	volcanic activity volcan volcano lake erupt activ	0.25
+756	pred.bt.5	volcanic activity volcan volcano lake erupt activ	0.25
+756	pred.bt.6	volcanic activity volcan volcano lake erupt activ	0.25
+756	pred.bt.7	volcanic activity volcan volcano lake erupt activ	0.25
+756	pred.bt.8	volcanic activity volcan volcano lake erupt activ	0.25
+756	pred.bt.9	volcanic activity volcan volcano lake erupt activ	0.25
+757	-1	murals	0.25
+757	pred.bt.1	murals mural your	1.0
+757	pred.bt.10	murals mural your	1.0
+757	pred.bt.2	murals mural your	1.0
+757	pred.bt.3	murals mural your	1.0
+757	pred.bt.4	murals mural your	1.0
+757	pred.bt.5	murals mural your	1.0
+757	pred.bt.6	murals mural your	1.0
+757	pred.bt.7	murals mural your	1.0
+757	pred.bt.8	murals mural your	1.0
+757	pred.bt.9	murals mural your	1.0
+758	-1	embryonic stem cells	1.0
+759	-1	civil war battle reenactments	1.0
+760	-1	american muslim mosques schools	1.0
+761	-1	problems of hmong immigrants	1.0
+762	-1	history of physicians in america	0.1667
+762	pred.bt.1	history of physicians in america p ohio histori american women i	1.0
+762	pred.bt.10	history of physicians in america p ohio histori american women i	1.0
+762	pred.bt.2	history of physicians in america p ohio histori american women i	1.0
+762	pred.bt.3	history of physicians in america p ohio histori american women i	1.0
+762	pred.bt.4	history of physicians in america p ohio histori american women i	1.0
+762	pred.bt.5	history of physicians in america p ohio histori american women i	1.0
+762	pred.bt.6	history of physicians in america p ohio histori american women i	1.0
+762	pred.bt.7	history of physicians in america p ohio histori american women i	1.0
+762	pred.bt.8	history of physicians in america p ohio histori american women i	1.0
+762	pred.bt.9	history of physicians in america p ohio histori american women i	1.0
+763	-1	hunting deaths	1.0
+764	-1	increase mass transit use	1.0
+765	-1	ephedra ma huang deaths	1.0
+766	-1	diamond smuggling	1.0
+767	-1	pharmacist license requirements	1.0
+768	-1	women in state legislatures	1.0
+769	-1	kroll associates employees	0.0333
+769	pred.bt.1	kroll associates a company the office company	1.0
+769	pred.bt.10	kroll associates a company the office company	1.0
+769	pred.bt.2	kroll associates a company the office company	1.0
+769	pred.bt.3	kroll associates a company the office company	1.0
+769	pred.bt.4	kroll associates a company the office company	1.0
+769	pred.bt.5	kroll associates a company the office company	1.0
+769	pred.bt.6	kroll associates a company the office company	1.0
+769	pred.bt.7	kroll associates a company the office company	1.0
+769	pred.bt.8	kroll associates a company the office company	1.0
+769	pred.bt.9	kroll associates a company the office company	1.0
+770	-1	kyrgyzstan-united states relations	1.0
+771	-1	deformed leopard frogs	1.0
+772	-1	flag display rules	1.0
+773	-1	pennsylvania slot machine gambling	1.0
+774	-1	causes of homelessness	1.0
+775	-1	commercial candy makers	0.5
+775	pred.bt.1	commercial candy makers commercialised chocolate sugar the movies	1.0
+775	pred.bt.10	commercial candy makers commercialised chocolate sugar the movies	1.0
+775	pred.bt.2	commercial candy makers commercialised chocolate sugar the movies	1.0
+775	pred.bt.3	commercial candy makers commercialised chocolate sugar the movies	1.0
+775	pred.bt.4	commercial candy makers commercialised chocolate sugar the movies	1.0
+775	pred.bt.5	commercial candy makers commercialised chocolate sugar the movies	1.0
+775	pred.bt.6	commercial candy makers commercialised chocolate sugar the movies	1.0
+775	pred.bt.7	commercial candy makers commercialised chocolate sugar the movies	1.0
+775	pred.bt.8	commercial candy makers commercialised chocolate sugar the movies	1.0
+775	pred.bt.9	commercial candy makers commercialised chocolate sugar the movies	1.0
+776	-1	magnet schools success	1.0
+777	-1	hybrid alternative fuel cars	0.25
+777	pred.bt.1	hybrid alternative fuel cars hybrid vehicle alternative fuel vehicle	1.0
+777	pred.bt.10	hybrid alternative fuel cars hybrid vehicle alternative fuel vehicle	1.0
+777	pred.bt.2	hybrid alternative fuel cars hybrid vehicle alternative fuel vehicle	1.0
+777	pred.bt.3	hybrid alternative fuel cars hybrid vehicle alternative fuel vehicle	1.0
+777	pred.bt.4	hybrid alternative fuel cars hybrid vehicle alternative fuel vehicle	1.0
+777	pred.bt.5	hybrid alternative fuel cars hybrid vehicle alternative fuel vehicle	1.0
+777	pred.bt.6	hybrid alternative fuel cars hybrid vehicle alternative fuel vehicle	1.0
+777	pred.bt.7	hybrid alternative fuel cars hybrid vehicle alternative fuel vehicle	1.0
+777	pred.bt.8	hybrid alternative fuel cars hybrid vehicle alternative fuel vehicle	1.0
+777	pred.bt.9	hybrid alternative fuel cars hybrid vehicle alternative fuel vehicle	1.0
+778	-1	golden ratio	1.0
+779	-1	javelinas range and description	1.0
+780	-1	arable land	1.0
+781	-1	squirrel control and protections	1.0
+782	-1	orange varieties seasons	1.0
+783	-1	school mercury poisoning	0.2
+783	pred.bt.1	school mercury poisoning students piyanart srivalo contamination	0.3333
+783	pred.bt.10	school mercury poisoning students piyanart srivalo contamination	0.3333
+783	pred.bt.2	school mercury poisoning students piyanart srivalo contamination	0.3333
+783	pred.bt.3	school mercury poisoning students piyanart srivalo contamination	0.3333
+783	pred.bt.4	school mercury poisoning students piyanart srivalo contamination	0.3333
+783	pred.bt.5	school mercury poisoning students piyanart srivalo contamination	0.3333
+783	pred.bt.6	school mercury poisoning students piyanart srivalo contamination	0.3333
+783	pred.bt.7	school mercury poisoning students piyanart srivalo contamination	0.3333
+783	pred.bt.8	school mercury poisoning students piyanart srivalo contamination	0.3333
+783	pred.bt.9	school mercury poisoning students piyanart srivalo contamination	0.3333
+784	-1	mersenne primes	1.0
+785	-1	ivory-billed woodpecker	1.0
+786	-1	yew trees	0.5
+786	pred.bt.1	yew trees wood pacific yew leaves squirrel	1.0
+786	pred.bt.10	yew trees wood pacific yew leaves squirrel	1.0
+786	pred.bt.2	yew trees wood pacific yew leaves squirrel	1.0
+786	pred.bt.3	yew trees wood pacific yew leaves squirrel	1.0
+786	pred.bt.4	yew trees wood pacific yew leaves squirrel	1.0
+786	pred.bt.5	yew trees wood pacific yew leaves squirrel	1.0
+786	pred.bt.6	yew trees wood pacific yew leaves squirrel	1.0
+786	pred.bt.7	yew trees wood pacific yew leaves squirrel	1.0
+786	pred.bt.8	yew trees wood pacific yew leaves squirrel	1.0
+786	pred.bt.9	yew trees wood pacific yew leaves squirrel	1.0
+787	-1	sunflower cultivation	1.0
+788	-1	reverse mortgages	1.0
+789	-1	abandoned mine reclamation	1.0
+790	-1	women's rights in saudi arabia	1.0
+791	-1	gullah geechee language culture	1.0
+792	-1	social security means test	1.0
+793	-1	bagpipe bands	1.0
+794	-1	pet therapy	1.0
+795	-1	notable cocker spaniels	0.037
+795	pred.bt.1	notable cocker spaniels terrier ye dog	0.0556
+795	pred.bt.10	notable cocker spaniels terrier ye dog	0.0556
+795	pred.bt.2	notable cocker spaniels terrier ye dog	0.0556
+795	pred.bt.3	notable cocker spaniels terrier ye dog	0.0556
+795	pred.bt.4	notable cocker spaniels terrier ye dog	0.0556
+795	pred.bt.5	notable cocker spaniels terrier ye dog	0.0556
+795	pred.bt.6	notable cocker spaniels terrier ye dog	0.0556
+795	pred.bt.7	notable cocker spaniels terrier ye dog	0.0556
+795	pred.bt.8	notable cocker spaniels terrier ye dog	0.0556
+795	pred.bt.9	notable cocker spaniels terrier ye dog	0.0556
+796	-1	blue grass music festival history	1.0
+797	-1	reintroduction of gray wolves	1.0
+798	-1	massachusetts textile mills	0.5
+798	pred.bt.1	massachusetts textile mills lowel mill	1.0
+798	pred.bt.10	massachusetts textile mills lowel mill	1.0
+798	pred.bt.2	massachusetts textile mills lowel mill	1.0
+798	pred.bt.3	massachusetts textile mills lowel mill	1.0
+798	pred.bt.4	massachusetts textile mills lowel mill	1.0
+798	pred.bt.5	massachusetts textile mills lowel mill	1.0
+798	pred.bt.6	massachusetts textile mills lowel mill	1.0
+798	pred.bt.7	massachusetts textile mills lowel mill	1.0
+798	pred.bt.8	massachusetts textile mills lowel mill	1.0
+798	pred.bt.9	massachusetts textile mills lowel mill	1.0
+799	-1	animals in alzheimer's research	0.5
+799	pred.bt.1	animals in alzheimer s research ad ag tau	1.0
+799	pred.bt.10	animals in alzheimer s research ad ag tau	1.0
+799	pred.bt.2	animals in alzheimer s research ad ag tau	1.0
+799	pred.bt.3	animals in alzheimer s research ad ag tau	1.0
+799	pred.bt.4	animals in alzheimer s research ad ag tau	1.0
+799	pred.bt.5	animals in alzheimer s research ad ag tau	1.0
+799	pred.bt.6	animals in alzheimer s research ad ag tau	1.0
+799	pred.bt.7	animals in alzheimer s research ad ag tau	1.0
+799	pred.bt.8	animals in alzheimer s research ad ag tau	1.0
+799	pred.bt.9	animals in alzheimer s research ad ag tau	1.0
+800	-1	ovarian cancer treatment	0.1667
+801	-1	kudzu pueraria lobata	0.5
+801	pred.bt.1	kudzu kudzu	1.0
+801	pred.bt.10	kudzu kudzu	1.0
+801	pred.bt.2	kudzu kudzu	1.0
+801	pred.bt.3	kudzu kudzu	1.0
+801	pred.bt.4	kudzu kudzu	1.0
+801	pred.bt.5	kudzu kudzu	1.0
+801	pred.bt.6	kudzu kudzu	1.0
+801	pred.bt.7	kudzu kudzu	1.0
+801	pred.bt.8	kudzu kudzu	1.0
+801	pred.bt.9	kudzu kudzu	1.0
+802	-1	volcano eruptions global temperature	1.0
+803	-1	may day	0.0
+803	pred.bt.1	may day publiholidays republiof ireland international workers day parade may day	0.5
+803	pred.bt.10	may day publiholidays republiof ireland international workers day parade may day	0.5
+803	pred.bt.2	may day publiholidays republiof ireland international workers day parade may day	0.5
+803	pred.bt.3	may day publiholidays republiof ireland international workers day parade may day	0.5
+803	pred.bt.4	may day publiholidays republiof ireland international workers day parade may day	0.5
+803	pred.bt.5	may day publiholidays republiof ireland international workers day parade may day	0.5
+803	pred.bt.6	may day publiholidays republiof ireland international workers day parade may day	0.5
+803	pred.bt.7	may day publiholidays republiof ireland international workers day parade may day	0.5
+803	pred.bt.8	may day publiholidays republiof ireland international workers day parade may day	0.5
+803	pred.bt.9	may day publiholidays republiof ireland international workers day parade may day	0.5
+804	-1	ban on human cloning	0.25
+804	pred.bt.1	ban prohibition on human cloning	1.0
+804	pred.bt.10	ban prohibition on human cloning	1.0
+804	pred.bt.2	ban prohibition on human cloning	1.0
+804	pred.bt.3	ban prohibition on human cloning	1.0
+804	pred.bt.4	ban prohibition on human cloning	1.0
+804	pred.bt.5	ban prohibition on human cloning	1.0
+804	pred.bt.6	ban prohibition on human cloning	1.0
+804	pred.bt.7	ban prohibition on human cloning	1.0
+804	pred.bt.8	ban prohibition on human cloning	1.0
+804	pred.bt.9	ban prohibition on human cloning	1.0
+805	-1	identity theft passport	0.25
+805	pred.bt.1	id theft passport	0.3333
+805	pred.bt.10	id theft passport	0.3333
+805	pred.bt.2	id theft passport	0.3333
+805	pred.bt.3	id theft passport	0.3333
+805	pred.bt.4	id theft passport	0.3333
+805	pred.bt.5	id theft passport	0.3333
+805	pred.bt.6	id theft passport	0.3333
+805	pred.bt.7	id theft passport	0.3333
+805	pred.bt.8	id theft passport	0.3333
+805	pred.bt.9	id theft passport	0.3333
+806	-1	doctors without borders	1.0
+807	-1	sugar tariff-rate quotas	1.0
+808	-1	north korean counterfeiting	1.0
+809	-1	wetlands wastewater treatment	1.0
+810	-1	timeshare resales	0.5
+810	pred.bt.1	timeshare resales timeshar illinoi applic you consum site ftc	1.0
+810	pred.bt.10	timeshare resales timeshar illinoi applic you consum site ftc	1.0
+810	pred.bt.2	timeshare resales timeshar illinoi applic you consum site ftc	1.0
+810	pred.bt.3	timeshare resales timeshar illinoi applic you consum site ftc	1.0
+810	pred.bt.4	timeshare resales timeshar illinoi applic you consum site ftc	1.0
+810	pred.bt.5	timeshare resales timeshar illinoi applic you consum site ftc	1.0
+810	pred.bt.6	timeshare resales timeshar illinoi applic you consum site ftc	1.0
+810	pred.bt.7	timeshare resales timeshar illinoi applic you consum site ftc	1.0
+810	pred.bt.8	timeshare resales timeshar illinoi applic you consum site ftc	1.0
+810	pred.bt.9	timeshare resales timeshar illinoi applic you consum site ftc	1.0
+811	-1	handwriting recognition	1.0
+812	-1	total knee replacement surgery	1.0
+813	-1	atlantic intracoastal waterway	1.0
+814	-1	johnstown flood	1.0
+815	-1	coast guard rescues	0.25
+816	-1	usaid assistance to galapagos	1.0
+817	-1	sports stadium naming rights	1.0
+818	-1	chaco culture national park	1.0
+819	-1	1890 census	1.0
+820	-1	imported fire ants	0.3333
+821	-1	internet work-at-home scams	0.5
+822	-1	custer's last stand	0.125
+823	-1	continuing care retirement communities	0.3333
+823	pred.bt.1	continuing care retirement communities oper provid ccrc	1.0
+823	pred.bt.10	continuing care retirement communities oper provid ccrc	1.0
+823	pred.bt.2	continuing care retirement communities oper provid ccrc	1.0
+823	pred.bt.3	continuing care retirement communities oper provid ccrc	1.0
+823	pred.bt.4	continuing care retirement communities oper provid ccrc	1.0
+823	pred.bt.5	continuing care retirement communities oper provid ccrc	1.0
+823	pred.bt.6	continuing care retirement communities oper provid ccrc	1.0
+823	pred.bt.7	continuing care retirement communities oper provid ccrc	1.0
+823	pred.bt.8	continuing care retirement communities oper provid ccrc	1.0
+823	pred.bt.9	continuing care retirement communities oper provid ccrc	1.0
+824	-1	civil air patrol	1.0
+825	-1	national guard involvement in iraq	0.5
+826	-1	florida seminole indians	0.25
+826	pred.bt.1	florida seminole indians seminole tribe florida	1.0
+826	pred.bt.10	florida seminole indians seminole tribe florida	1.0
+826	pred.bt.2	florida seminole indians seminole tribe florida	1.0
+826	pred.bt.3	florida seminole indians seminole tribe florida	1.0
+826	pred.bt.4	florida seminole indians seminole tribe florida	1.0
+826	pred.bt.5	florida seminole indians seminole tribe florida	1.0
+826	pred.bt.6	florida seminole indians seminole tribe florida	1.0
+826	pred.bt.7	florida seminole indians seminole tribe florida	1.0
+826	pred.bt.8	florida seminole indians seminole tribe florida	1.0
+826	pred.bt.9	florida seminole indians seminole tribe florida	1.0
+827	-1	hidden markov modeling hmm	0.5
+828	-1	secret shoppers	1.0
+829	-1	spanish civil war support	1.0
+830	-1	model railroads	0.3333
+830	pred.bt.1	model railroads railway	0.5
+830	pred.bt.10	model railroads railway	0.5
+830	pred.bt.2	model railroads railway	0.5
+830	pred.bt.3	model railroads railway	0.5
+830	pred.bt.4	model railroads railway	0.5
+830	pred.bt.5	model railroads railway	0.5
+830	pred.bt.6	model railroads railway	0.5
+830	pred.bt.7	model railroads railway	0.5
+830	pred.bt.8	model railroads railway	0.5
+830	pred.bt.9	model railroads railway	0.5
+831	-1	dulles airport security	1.0
+832	-1	labor union activity	1.0
+833	-1	iceland government	1.0
+834	-1	global positioning system earthquakes	1.0
+835	-1	big dig pork	0.1429
+835	pred.bt.1	big dig pork transport infrastructure completed battery park city heather fargo big dig osrox mission school voucher federal jurisdiction united states pork barrel	0.5
+835	pred.bt.10	big dig pork transport infrastructure completed battery park city heather fargo big dig osrox mission school voucher federal jurisdiction united states pork barrel	0.5
+835	pred.bt.2	big dig pork transport infrastructure completed battery park city heather fargo big dig osrox mission school voucher federal jurisdiction united states pork barrel	0.5
+835	pred.bt.3	big dig pork transport infrastructure completed battery park city heather fargo big dig osrox mission school voucher federal jurisdiction united states pork barrel	0.5
+835	pred.bt.4	big dig pork transport infrastructure completed battery park city heather fargo big dig osrox mission school voucher federal jurisdiction united states pork barrel	0.5
+835	pred.bt.5	big dig pork transport infrastructure completed battery park city heather fargo big dig osrox mission school voucher federal jurisdiction united states pork barrel	0.5
+835	pred.bt.6	big dig pork transport infrastructure completed battery park city heather fargo big dig osrox mission school voucher federal jurisdiction united states pork barrel	0.5
+835	pred.bt.7	big dig pork transport infrastructure completed battery park city heather fargo big dig osrox mission school voucher federal jurisdiction united states pork barrel	0.5
+835	pred.bt.8	big dig pork transport infrastructure completed battery park city heather fargo big dig osrox mission school voucher federal jurisdiction united states pork barrel	0.5
+835	pred.bt.9	big dig pork transport infrastructure completed battery park city heather fargo big dig osrox mission school voucher federal jurisdiction united states pork barrel	0.5
+836	-1	illegal immigrant wages	1.0
+837	-1	eskimo history	0.0312
+837	pred.bt.1	eskimo history aleut inupiaq historical ever	0.5
+837	pred.bt.10	eskimo history aleut inupiaq historical ever	0.5
+837	pred.bt.2	eskimo history aleut inupiaq historical ever	0.5
+837	pred.bt.3	eskimo history aleut inupiaq historical ever	0.5
+837	pred.bt.4	eskimo history aleut inupiaq historical ever	0.5
+837	pred.bt.5	eskimo history aleut inupiaq historical ever	0.5
+837	pred.bt.6	eskimo history aleut inupiaq historical ever	0.5
+837	pred.bt.7	eskimo history aleut inupiaq historical ever	0.5
+837	pred.bt.8	eskimo history aleut inupiaq historical ever	0.5
+837	pred.bt.9	eskimo history aleut inupiaq historical ever	0.5
+838	-1	urban suburban coyotes	1.0
+839	-1	textile dyeing techniques	1.0
+840	-1	geysers	0.5
+841	-1	camel north america	1.0
+842	-1	david mccullough	0.0714
+842	pred.bt.1	david mccullough books john adams john adams book joseph sabin david mccullough	1.0
+842	pred.bt.10	david mccullough books john adams john adams book joseph sabin david mccullough	1.0
+842	pred.bt.2	david mccullough books john adams john adams book joseph sabin david mccullough	1.0
+842	pred.bt.3	david mccullough books john adams john adams book joseph sabin david mccullough	1.0
+842	pred.bt.4	david mccullough books john adams john adams book joseph sabin david mccullough	1.0
+842	pred.bt.5	david mccullough books john adams john adams book joseph sabin david mccullough	1.0
+842	pred.bt.6	david mccullough books john adams john adams book joseph sabin david mccullough	1.0
+842	pred.bt.7	david mccullough books john adams john adams book joseph sabin david mccullough	1.0
+842	pred.bt.8	david mccullough books john adams john adams book joseph sabin david mccullough	1.0
+842	pred.bt.9	david mccullough books john adams john adams book joseph sabin david mccullough	1.0
+843	-1	pol pot	1.0
+844	-1	segmental duplications	0.2
+844	pred.bt.1	segmental duplications segmentation biology gene duplication	0.3333
+844	pred.bt.10	segmental duplications segmentation biology gene duplication	0.3333
+844	pred.bt.2	segmental duplications segmentation biology gene duplication	0.3333
+844	pred.bt.3	segmental duplications segmentation biology gene duplication	0.3333
+844	pred.bt.4	segmental duplications segmentation biology gene duplication	0.3333
+844	pred.bt.5	segmental duplications segmentation biology gene duplication	0.3333
+844	pred.bt.6	segmental duplications segmentation biology gene duplication	0.3333
+844	pred.bt.7	segmental duplications segmentation biology gene duplication	0.3333
+844	pred.bt.8	segmental duplications segmentation biology gene duplication	0.3333
+844	pred.bt.9	segmental duplications segmentation biology gene duplication	0.3333
+845	-1	new jersey tomato	1.0
+846	-1	heredity and obesity	0.5
+846	pred.bt.1	heredity obesity weight problem person	1.0
+846	pred.bt.10	heredity obesity weight problem person	1.0
+846	pred.bt.2	heredity obesity weight problem person	1.0
+846	pred.bt.3	heredity obesity weight problem person	1.0
+846	pred.bt.4	heredity obesity weight problem person	1.0
+846	pred.bt.5	heredity obesity weight problem person	1.0
+846	pred.bt.6	heredity obesity weight problem person	1.0
+846	pred.bt.7	heredity obesity weight problem person	1.0
+846	pred.bt.8	heredity obesity weight problem person	1.0
+846	pred.bt.9	heredity obesity weight problem person	1.0
+847	-1	portugal world war ii	0.5
+847	pred.bt.1	portugal world war ii gold alli bank	1.0
+847	pred.bt.10	portugal world war ii gold alli bank	1.0
+847	pred.bt.2	portugal world war ii gold alli bank	1.0
+847	pred.bt.3	portugal world war ii gold alli bank	1.0
+847	pred.bt.4	portugal world war ii gold alli bank	1.0
+847	pred.bt.5	portugal world war ii gold alli bank	1.0
+847	pred.bt.6	portugal world war ii gold alli bank	1.0
+847	pred.bt.7	portugal world war ii gold alli bank	1.0
+847	pred.bt.8	portugal world war ii gold alli bank	1.0
+847	pred.bt.9	portugal world war ii gold alli bank	1.0
+848	-1	radio station call letters	1.0
+849	-1	scalable vector graphics	1.0
+850	-1	mississippi river flood	0.1429

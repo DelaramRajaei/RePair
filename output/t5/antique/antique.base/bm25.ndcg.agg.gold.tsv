@@ -1,0 +1,773 @@
+qid	order	query	bm25.ndcg
+8293	-1	why do men fantasized about raping women?	0.7256
+8293	pred.base.1	<extra_id_0> do men fantasize about raping women?	0.7975
+8293	pred.base.2	<extra_id_0> do men fantasize about raping women ?	0.7975
+8293	pred.base.7	<extra_id_0> men fantasized so often about raping women?	0.7891
+8293	pred.base.4	<extra_id_0> do men fantasize around raping women?	0.7814
+8293	pred.base.8	<extra_id_0> women fantasized about raping women?	0.7406
+8293	pred.base.9	<extra_id_0> do hapless men fantasize so much about raping women? Canada and Australian women do not believe women should be raped?	0.7278
+23464	-1	why girls are beautiful?	0.7106
+23464	pred.base.10	<extra_id_0> I <extra_id_1> beautiful girls?  <extra_id_2> why girls are beautiful?	0.7464
+23464	pred.base.1	<extra_id_0> girls are beautiful?	0.7432
+23464	pred.base.2	<extra_id_0> why girls are beautiful?	0.7106
+23464	pred.base.4	<extra_id_0> Why girls are beautiful?	0.7106
+23464	pred.base.5	<extra_id_0>... why girls are beautiful?	0.7106
+23464	pred.base.6	<extra_id_0> why girls are beautiful?	0.7106
+23464	pred.base.7	<extra_id_0> Why Are Girls Beautiful?	0.7106
+34041	-1	what are the symptoms of strep throat?	0.8702
+34041	pred.base.4	<extra_id_0> strep throat symptoms? ? What are the symptoms of strep throat?	0.8703
+34041	pred.base.3	<extra_id_0> * <extra_id_1> what are the symptoms of strep throat?	0.8702
+34041	pred.base.8	<extra_id_0>. what are the symptoms of strep throat?	0.8702
+78762	-1	why do i have pterofobia?	0.0
+100653	-1	how do i go about getting copies of letters of commendation prsented to me from city of san diego?	0.6356
+103830	-1	why do man arabs hate the west ?	0.6497
+103830	pred.base.9	ATTENTIVELY do arabs hate the west ?	0.7007
+143833	-1	what is the difference between coolant and anti-freeze?	0.6958
+143833	pred.base.9	<extra_id_0> What is the difference between coolant and anti-freeze?	0.6958
+159716	-1	how do i find an inmate at southwest detention center 30755 auld rd., murrieta, ca 92563?	0.4618
+159716	pred.base.6	<extra_id_0> completed levels 6 and 7? <extra_id_1> 92563? <extra_id_2> ca 92563? when is i supposed to find an inmate? how do i find an inmate at southwest detention center?	0.6133
+159716	pred.base.1	<extra_id_0>. http://quadrantin.bellcube.com/ <extra_id_1>. <extra_id_2> inmate conditions? Where can i find inmate information at southwest detention center? Where can i get info on an inmate?	0.5087
+172731	-1	how for is saturn from the sun?	0.5876
+172731	pred.base.1	<extra_id_0> is saturn from the sun?	0.6011
+172731	pred.base.2	<extra_id_0> saturn from the sun?	0.6011
+172731	pred.base.9	<extra_id_0> saturn from the sun? How for is saturn from the sun?	0.5994
+172731	pred.base.5	<extra_id_0> to offset saturn from the sun?.?	0.596
+172731	pred.base.6	How to is saturn from the sun?	0.5876
+204633	-1	why do you have memories?	0.1826
+204633	pred.base.8	<extra_id_0>? So, why are you having memories?	0.3778
+204633	pred.base.2	<extra_id_0> you have memories?	0.3635
+204633	pred.base.1	<extra_id_0> Our history will think of you from childhood. How can you remember those memories?	0.231
+204633	pred.base.9	<extra_id_0>, <extra_id_1> were you always told to have memories?	0.2174
+204963	-1	what does 5 by 5 mean?	0.4942
+204963	pred.base.8	5 by 5 do you mean?	0.5292
+204963	pred.base.4	<extra_id_0> What does 5 by 5 mean?	0.4942
+224109	-1	what is citriscidal?	0.0
+225575	-1	what does 'wet behind the ears' mean?	0.6266
+225575	pred.base.3	wet behind the ears is the unfamiliar term for you in the rain. What does it mean to wet behind the ears?	0.6459
+225575	pred.base.8	<extra_id_0> wet behind the ears Wait...what does wet behind the ears mean?	0.629
+225575	pred.base.9	<extra_id_0> What does wet behind the ears mean?	0.6266
+229303	-1	why  is  the   war continuing  in  afghanistan?	0.6851
+229303	pred.base.5	<extra_id_0> is the afghanistan war continuing?	0.7129
+312215	-1	how good is apple pie when it is cold?	0.694
+312215	pred.base.5	<extra_id_0> good is apple pie when its cold?	0.6954
+312215	pred.base.9	<extra_id_0> good is apple pie when it is cold?	0.6954
+354733	-1	what are the names of some famous photographers and why do their work stand up?	0.3598
+354733	pred.base.6	<extra_id_0> tell us about some famous photographers and why do their photographs stand up?	0.4246
+387874	-1	why does asparugus make your pee stink?	0.637
+402514	-1	why do my baked potatos never taste near as good as when i get them in a nice restaurant?	0.6275
+421753	-1	how to get rid of a skunk?	0.3789
+421753	pred.base.1	<extra_id_0> rid of skunks?	0.5918
+421753	pred.base.4	<extra_id_0> skunk explain <extra_id_1>	0.4853
+421753	pred.base.10	<extra_id_0> to get rid of a skunk? ??? ?	0.4618
+421753	pred.base.3	<extra_id_0> to get rid of a skunk?	0.4618
+421753	pred.base.6	<extra_id_0> ? <extra_id_1>Just check with an expert on <extra_id_2> how to get rid of a skunk? Want to learn how to get rid of a skunk?	0.4017
+421753	pred.base.5	<extra_id_0> a skunk? <extra_id_1>? <extra_id_2> approaching a stinker?	0.3924
+443848	-1	does anybody know where i could get a free guide on how to train a siberian husky?	0.6361
+443848	pred.base.3	<extra_id_0> please <extra_id_1>ps deb if anybody knows where i could get a free guide on how to train a siberian husky? If no one knows where i could get a free guide on how to train a siberian husky?	0.6472
+443848	pred.base.4	<extra_id_0> anybody know where i could get a free guide on how to train a siberian husky!	0.6437
+443848	pred.base.10	<extra_id_0> osage outgoing <extra_id_1> does anybody know how to train a siberian husky? or is anyone know where i could get a free guide on how to train a siberian husky?	0.6402
+443848	pred.base.6	<extra_id_0> does anybody know where i could get a free guide on how to train a siberian husky?	0.6361
+456214	-1	what is the importance of absolute zero temperature?	0.9268
+456214	pred.base.10	<extra_id_0> is the importance of absolute zero temperature?	0.9351
+456214	pred.base.3	<extra_id_0> is the importance of absolute zero temperature?	0.9351
+456214	pred.base.5	<extra_id_0> is the importance of absolute zero temperature?	0.9351
+456214	pred.base.6	<extra_id_0> is the importance of absolute zero temperature?	0.9351
+456214	pred.base.7	<extra_id_0> is the importance of absolute zero temperature?	0.9351
+456214	pred.base.8	<extra_id_0> is absolute zero temperature? • Finns issue solutions explaining the significance & relevance of absolute zero temperatures in german energy?	0.931
+474417	-1	what does the prefix "cyclo" mean in greek mythology?	0.7271
+474417	pred.base.2	<extra_id_0>cyclo <extra_id_1> cyclo??-? <extra_id_2>what does the prefix cyclo mean in greek mythology?	0.7302
+481173	-1	why live, when your in misery?	0.5048
+481173	pred.base.5	<extra_id_0>, when your in misery?	0.5092
+484496	-1	why a man float on water when he dies?	0.4525
+551239	-1	how do i find out if someone left me a life insurance policy?	0.6601
+551239	pred.base.1	<extra_id_0> i can see whether someone left me life insurance policy? ? <extra_id_1> are anyone have a life insurance policy? how do i know if someone left me ‘m’ on life policy?	0.7291
+551239	pred.base.2	<extra_id_0> i lost my life insurance policy? <extra_id_1> as malala? <extra_id_2> how do i find out if someone left me a life insurance policy?	0.7118
+551239	pred.base.10	<extra_id_0> i can build a life insurance policy <extra_id_1> iirit inuit#4 how do i find out if an unfortunate person left me a life insurance policy?	0.7025
+551239	pred.base.3	<extra_id_0> do i find out if someone left me a life insurance policy?	0.6775
+558570	-1	my city just put a ban on pit bulls, how do we reverse the decision?	0.6795
+558570	pred.base.7	<extra_id_0> my city just put a ban on pit bulls, how do we reverse the decision?	0.6795
+654124	-1	why am i not able to concentrate on my studies?	0.4514
+654124	pred.base.10	<extra_id_0> i cannot concentrate on my studies?. <extra_id_1> weight loss?.. <extra_id_2> why can i not concentrate on my studies? ?..why am i not able to concentrate on my studies?. ?	0.5676
+654124	pred.base.2	<extra_id_0>? Can i concentrate on my studies?	0.4713
+654124	pred.base.8	<extra_id_0> can i concentrate on my studies?	0.4713
+654124	pred.base.9	<extra_id_0> is i unable to concentrate on my studies?	0.4673
+667488	-1	how soon can you drive on a newly paved driveway?	0.5401
+667488	pred.base.5	<extra_id_0> when we say to our passengers <extra_id_1> newly paved driveway? <extra_id_2> how quickly can you drive on newly paved driveway?	0.6531
+667488	pred.base.4	<extra_id_0> paved driveways start to care you drive? With Texas asphalt driveways, how soon can you start driving on a newly paved driveway?	0.6275
+667488	pred.base.1	<extra_id_0> can you drive on a newly paved driveway?	0.6087
+667488	pred.base.6	<extra_id_0> new driveway for you? <extra_id_1> wondering, what’s something to do about it? And how fast can you drive a new driveway now that you’ve had it?	0.5761
+667488	pred.base.8	<extra_id_0> when can we accept paved driveway, paved driveway, stone driveway?	0.5701
+667488	pred.base.10	<extra_id_0> who are you and <extra_id_1> driveway? Hello, <extra_id_2>a <extra_id_3> paved driveway? <extra_id_4>?	0.5566
+676028	-1	why do our elected federal senators and congressmen not have to live on regular s.s. like the rest of us?	0.7032
+707303	-1	how do people get hiccups, what are they, and what exactly is the best way to cure them?	0.5712
+707303	pred.base.4	<extra_id_0> about things, <extra_id_1> exactly <extra_id_2>? amazing aspect of the symptoms <extra_id_3>? <extra_id_4> the best ways to get hiccups?! how do people get hiccups, what are they, and what exactly is the best way to cure them?	0.6762
+707303	pred.base.10	<extra_id_0> how do people get hiccups, <extra_id_1> WHAT are they, and what exactly is the best way to cure them?	0.5712
+714612	-1	why doesn't the water fall off  earth if it's round?	0.6851
+714612	pred.base.5	<extra_id_0>? <extra_id_1> why doesnt water fall off earth if its round!	0.6851
+714612	pred.base.8	<extra_id_0> why doesnt the water fall off earth if its round?	0.6851
+746920	-1	how do you get rid of wart on your hand a using home method?	0.524
+746920	pred.base.1	<extra_id_0> general direction <extra_id_1> 10. <extra_id_2> shingle <extra_id_3> how do u get rid of wart on my hand a using home method? <extra_id_4> ideas for on the go method? how do you fix wart on your hand?	0.6385
+746920	pred.base.4	<extra_id_0> well <extra_id_1> self cure method? <extra_id_2> way to remove wart on hand a using home method? How do you get rid of wart on hand a using home method?	0.5655
+761742	-1	how can i become a playa?	0.4813
+761742	pred.base.10	<extra_id_0>, <extra_id_1> fort? ? <extra_id_2> best moves to playa. Can i playa? ?, how can i become a playa?	0.5531
+765138	-1	why does loving someone hurts like hell?	0.4322
+785823	-1	how is the library consider as a heart of university?	0.5127
+785823	pred.base.6	<extra_id_0> how are libraries considered as a heart of university? report 2012, when is the library considered to be a heart of university?	0.5955
+785823	pred.base.9	<extra_id_0> are libraries held in a heart of university? Because of the concerty reading attitude, under what conditions is the library classified as a heart of university?	0.5318
+788976	-1	why did the bush admin cover up 9/11?	0.575
+821387	-1	i have mice.how do i get rid of them humanely?	0.0674
+821387	pred.base.7	<extra_id_0> i also have mice. <extra_id_1> i have mice.how do i get rid of them humanely?	0.2561
+821387	pred.base.6	<extra_id_0> i have mice.how do i get rid of them humanely? <extra_id_1> ? i have mice..how do i get rid of them humanely?maid?what do mice do?Men do they come over?	0.23
+821387	pred.base.4	<extra_id_0> i have mice. <extra_id_1> i do have mice,what do i do? how do i get rid of them humanely?	0.2034
+821387	pred.base.10	<extra_id_0> how do i get rid of mice? <extra_id_1> how do I get rid of mice. how would i get rid of them humanely?	0.1575
+823384	-1	why did the army have personal cuts in the mid 1990's?	0.4721
+849221	-1	when it comes to religion why dont people realize history repeats itself?	0.5459
+849221	pred.base.3	<extra_id_0> why dont people realize history repeats itself? when religion repeats itself <extra_id_1> human essence ? when people are religious why dont people realize history repeats itself ?	0.5515
+849221	pred.base.9	<extra_id_0> in school <extra_id_1> whats the issue of religion? when people dont realize history repeats itself <extra_id_2> when it comes to religion why dont people realize history repeats itself?	0.5482
+849221	pred.base.2	<extra_id_0> stop complaining like this, <extra_id_1> why dont people realize history repeats itself <extra_id_2> when all you really put into a religion is history. Like Seriously!!! ? and <extra_id_3>? when dont people realize history repeats itself??	0.5462
+851124	-1	how is ego a part of our survival instincts?	0.6196
+851124	pred.base.4	<extra_id_0> Or, <extra_id_1> ego nutritional and building blocks for survival? And <extra_id_2>, our survival instincts? If so, how is ego a part of our survival instincts?	0.6207
+896725	-1	what are some good exercises to get rid of those love handles?	0.4097
+896725	pred.base.9	<extra_id_0> are some good exercises to get rid of those love handles? Okay, well --- These love handles are golden!	0.5077
+896725	pred.base.5	<extra_id_0> are some good exercises to get rid of those love handles? The big question is <extra_id_1> love handles?	0.5031
+896725	pred.base.2	<extra_id_0> are some really good exercises to get rid of those love handles?	0.4508
+896725	pred.base.4	<extra_id_0> some good exercises to get rid of those love handles?	0.4392
+922849	-1	why do some people take life so seriously?	0.3441
+922849	pred.base.2	<extra_id_0> people take life so seriously?	0.4801
+922849	pred.base.4	-warum take life so seriously?	0.4415
+922849	pred.base.8	<extra_id_0> do people take life so seriously?	0.4362
+922849	pred.base.10	<extra_id_0> do some people take life so seriously?	0.4131
+922849	pred.base.9	<extra_id_0> do they take life so seriously?	0.3944
+922849	pred.base.7	<extra_id_0> do some people take life so seriously? Maybe they take it so seriously?	0.3828
+922849	pred.base.5	<extra_id_0> are those who take life so seriously?	0.3664
+949154	-1	can anybody tell me what is a butler?	0.3544
+949154	pred.base.2	<extra_id_0> move me 258? I am not a butler, and one would have to be a butler? Also if not, is this a butler?	0.6419
+949154	pred.base.4	<extra_id_0> anybody any idea? <extra_id_1> someone interested in a butler? <extra_id_2> and from all my mosque friends who understand that only a butler can fit fifty five bullets!	0.6267
+949154	pred.base.9	<extra_id_0> any of you please? <extra_id_1> who is a butler? can anybody tell me what is butler?	0.6266
+953489	-1	why do i have to dumb myself down all the time though i am highly undereducated?	0.1463
+1015624	-1	what's the definition of a bloody mary?	0.7408
+1015624	pred.base.6	<extra_id_0> guess <extra_id_1> a bloody mary?	0.7924
+1015624	pred.base.1	<extra_id_0> zombie dealers, <extra_id_1> how does one define a bloody mary? ;)?	0.7891
+1015624	pred.base.7	<extra_id_0> Authentic bloody mary how do you define a bloody mary?	0.7592
+1015624	pred.base.4	<extra_id_0> bloody mary?	0.7576
+1015624	pred.base.8	<extra_id_0> in a bloody mary?	0.7576
+1015624	pred.base.9	<extra_id_0> Bloody mary, then? ?	0.7576
+1015624	pred.base.3	<extra_id_0> Wait, <extra_id_1> a bloody mary. BCGs are common, but <extra_id_2> a bloody mary?	0.7566
+1015624	pred.base.10	<extra_id_0> your bloody mary? ?	0.7557
+1015624	pred.base.5	<extra_id_0> and <extra_id_1> a bloody mary? the definition of bloody mary?  <extra_id_2> bloody marys meaning?	0.7537
+1017690	-1	what is the history of indian music?	0.6874
+1017690	pred.base.8	<extra_id_0> exactly <extra_id_1> of indian music?. For instance, what is the history of indian music?	0.7023
+1017690	pred.base.2	<extra_id_0> ? what is the history of indian music?	0.6874
+1017690	pred.base.7	<extra_id_0>? <extra_id_1> is what is the history of indian music?	0.6874
+1035857	-1	why are liberals so quick to defend saddam?	0.544
+1035857	pred.base.1	<extra_id_0> are liberals so quick to defend saddam?	0.5923
+1035857	pred.base.10	<extra_id_0> are liberals so quick to defend saddam?	0.5923
+1035857	pred.base.2	<extra_id_0> are liberals so quick to defend saddam?	0.5923
+1035857	pred.base.5	<extra_id_0> are liberals so quick to defend saddam?	0.5923
+1063812	-1	how do i grow taller?	0.5694
+1063812	pred.base.1	<extra_id_0> how do i grow taller?	0.5694
+1077370	-1	why do only humans have finger prints?	0.6868
+1077370	pred.base.1	<extra_id_0>,  <extra_id_1> why are only humans with finger prints?	0.7254
+1082595	-1	what is meant by mobile technology?	0.5763
+1082595	pred.base.1	<extra_id_0> Mobile technology?	0.7267
+1082595	pred.base.8	<extra_id_0> what is mobile technology?	0.6975
+1082595	pred.base.2	<extra_id_0> What is mobile technology? What is mobile technology really?	0.6911
+1082595	pred.base.9	<extra_id_0> mobile? Finally, what is meant by mobile technology in reality?	0.591
+1082595	pred.base.3	<extra_id_0> What is meant by mobile technology? What is meant by mobile technology?	0.5763
+1082595	pred.base.6	<extra_id_0> What is meant by mobile technology?	0.5763
+1119420	-1	well the black light is uv light.so if it is "black" how can it be "light" ?	0.7072
+1119420	pred.base.7	<extra_id_0>light <extra_id_1> light in uv also uv light I think you get around that question black also.so if it is black uv light is light ?	0.7276
+1119420	pred.base.8	<extra_id_0>light <extra_id_1>could it be light? What is uv light? ?oint it is black how can it be light ? the black light comes from uv lights.so if it is not black how	0.7228
+1119420	pred.base.5	<extra_id_0> that is light well the black light is uv light.so if it is black how can it be light ? well the black light is uv light.so if it is black how	0.7116
+1152934	-1	why don't fat people have to pay more for air travel?	0.2237
+1152934	pred.base.3	<extra_id_0>t fat people pay more for air travel? !	0.2283
+1167882	-1	what are the different types of sins and how are they caused?	0.3019
+1167882	pred.base.9	<extra_id_0> the three things that are a sin? What are the different types of sins and how are they caused?	0.4541
+1167882	pred.base.1	<extra_id_0> what are the different types of sins and how are they caused?	0.3019
+1167882	pred.base.2	<extra_id_0> what are the different types of sins and how are they caused?	0.3019
+1167882	pred.base.4	<extra_id_0> What are the different types of sins and how are they caused?	0.3019
+1167882	pred.base.6	<extra_id_0> what are the different types of sins and how are there causes?	0.3019
+1167882	pred.base.7	<extra_id_0> What are the different types of sins and how are they caused?	0.3019
+1199639	-1	how to "lose"all body fat ?	0.6702
+1199639	pred.base.1	<extra_id_0>all body fat ? <extra_id_1>loseall body fat ?	0.692
+1199639	pred.base.2	<extra_id_0>loseall body fat ?	0.6733
+1199639	pred.base.4	<extra_id_0>loseall body fat ?	0.6733
+1254390	-1	how do i deap fry chicken?	0.4707
+1254390	pred.base.9	<extra_id_0>..? <extra_id_1> which is when to deap fry chicken?	0.5177
+1254390	pred.base.2	<extra_id_0>. <extra_id_1>deap fry chicken? Or do i deap fry 3g chicken?	0.5107
+1254390	pred.base.8	<extra_id_0> How do I deap fry chicken?	0.4707
+1262692	-1	how can i get rid of pimples on my back?	0.4722
+1262692	pred.base.8	<extra_id_0> is he rid of pimples on his back?	0.4822
+1282199	-1	how can i hide the cuts on my wrists?	0.3831
+1282199	pred.base.4	<extra_id_0> cope with wrist cuts? put into a place of a sectour?	0.4593
+1282199	pred.base.9	<extra_id_0> i can hide the cuts on my wrists?	0.4058
+1282199	pred.base.5	<extra_id_0> how can i hide the cuts on my wrists?	0.3831
+1287437	-1	how can i lose 30 pounds by june3?	0.5614
+1287437	pred.base.8	<extra_id_0> lose 30 pounds by june3?	0.6367
+1287437	pred.base.3	<extra_id_0> when i can lose 30 pounds by june3?	0.5694
+1290612	-1	why do anxiety and depression seem to coexist?	0.6994
+1290612	pred.base.2	<extra_id_0> do anxiety and depression seem to coexist?	0.7383
+1290612	pred.base.4	<extra_id_0> do anxiety and depression seem to coexist?	0.7383
+1292734	-1	what color you like the most and why?	0.0993
+1292734	pred.base.10	<extra_id_0> What color you like the most and why?	0.0993
+1340574	-1	why do some people only go to church on easter sunday and never go again until christmas ?	0.6639
+1351675	-1	why must i have an uncracked winshield in order to for my car to pass a safety inspeciton?	0.399
+1364894	-1	why do we need to tell customer service/operator about our sickness in order to make appointment w/ a doctor?	0.43
+1364894	pred.base.1	<extra_id_0> why do we have to tell customer service/operator about our sickness in order for them to make appointment w/ a doctor?	0.4691
+1373069	-1	freedom of speech - why don't people understand how to use it?	0.5409
+1373069	pred.base.10	<extra_id_0> The freedom of speech - why dont people understand how to use it?	0.5409
+1373069	pred.base.2	<extra_id_0> The freedom of speech - why dont people understand how to use it?	0.5409
+1459749	-1	why don't i have an asthma attack during sex?	0.4981
+1459749	pred.base.2	<extra_id_0>, <extra_id_1> really, <extra_id_2> asthma attacks during sex?	0.556
+1459749	pred.base.3	<extra_id_0>? mmmmmm <extra_id_1> sex?, <extra_id_2>?,??? ? <extra_id_3> asthma attack, why dont i have an asthma attack during sex?	0.5224
+1459749	pred.base.1	<extra_id_0> i have an asthma attack during sex?	0.5058
+1477322	-1	why do people say germans are racists?	0.3655
+1502604	-1	how do crooks  make  fake   passports  ?	0.5501
+1502604	pred.base.8	<extra_id_0> Why do crooks make fake passport ??????? ?	0.5509
+1509982	-1	how is th chemistry is a basic of science?	0.8008
+1509982	pred.base.10	<extra_id_0> th chemistry is a basic of science?	0.8235
+1509982	pred.base.9	<extra_id_0>? <extra_id_1> anyone know any chemistry theory or formula? <extra_id_2> why is th chemistry fundamental of science? <extra_id_3>, the chemistry is a basic of science?	0.8148
+1509982	pred.base.4	<extra_id_0> how is th chemistry is a basic of science?	0.8008
+1582877	-1	why do we go to school if in the real world we dont use most of it?	0.3136
+1582877	pred.base.10	<extra_id_0> i dont go to school if it is in the real world? why not go to school when in the real world we dont use most of it?	0.4297
+1582877	pred.base.8	<extra_id_0> come <extra_id_1> go to school if in the real world we dont use most of it?	0.3753
+1607728	-1	what causes gray facial hair in men?	0.7068
+1607728	pred.base.10	<extra_id_0> what causes gray facial hair in men?	0.7068
+1607728	pred.base.8	<extra_id_0> What causes gray facial hair in men?	0.7068
+1607728	pred.base.9	<extra_id_0>. What causes gray facial hair in men?	0.7068
+1623623	-1	how do you improve fuel efficiency of a 2004, ford ikon?	0.6172
+1663853	-1	what is a wet dream?	0.6934
+1663853	pred.base.3	<extra_id_0> What is ... a wet dream?	0.6934
+1663853	pred.base.5	<extra_id_0> What is a wet dream?	0.6934
+1663853	pred.base.9	<extra_id_0> and shortsiny. What is a wet dream?	0.6934
+1702151	-1	how patient a driver are you?	0.3
+1702151	pred.base.4	<extra_id_0> Be it a long distance driver, or a patient driver:?	0.3529
+1783010	-1	what is blaphsemy?	0.048
+1783010	pred.base.10	<extra_id_0>. Is leaflisting your blaphsemy?	0.048
+1783010	pred.base.2	<extra_id_0> What is absolutely blaphsemy?	0.048
+1783010	pred.base.6	<extra_id_0> or willitam humble? what is blaphsemy?	0.048
+1783010	pred.base.8	<extra_id_0> what is blaphsemy?	0.048
+1783010	pred.base.9	<extra_id_0> What is blaphsemy?	0.048
+1794677	-1	how can i treat my acne scars?	0.7133
+1794677	pred.base.3	<extra_id_0> to treat my acne scars?	0.7802
+1794677	pred.base.10	<extra_id_0> can i treat my acne scars? <extra_id_1> facebook how to treat acne scars?	0.7788
+1794677	pred.base.5	<extra_id_0> i treat my acne scars?	0.729
+1794677	pred.base.1	<extra_id_0> can i treat my acne scars?	0.7239
+1794677	pred.base.8	<extra_id_0> how can i treat my acne scars?	0.7133
+1821193	-1	why do people feed poison (sugar) to their kids on easter, and why are there no chocolate jesuses?	0.3182
+1821193	pred.base.10	<extra_id_0> do people feed poison (sugar) to their kids on easter? And, you and your family feed poison (sugar) to your children on easter, and why are there no chocolate jesuses around?	0.425
+1821193	pred.base.9	<extra_id_0> people feed poison (sugar) to their kids on easter, and ? and ? and ? and ??	0.421
+1844896	-1	how to cook angus burgers?	0.7857
+1844896	pred.base.10	<extra_id_0> to cook angus burgers?	0.8353
+1844896	pred.base.5	<extra_id_0> to cook angus burgers <extra_id_1>?	0.8353
+1844896	pred.base.6	<extra_id_0> to cook angus burgers?	0.8353
+1844896	pred.base.7	<extra_id_0> to cook angus burgers?	0.8353
+1844896	pred.base.8	<extra_id_0> to cook angus burgers ?	0.8353
+1850323	-1	why some men never wash their hands after using the urinal/toilet?	0.4973
+1862795	-1	how does spending prolonged time in microgravity affect the bodies of astronauts?	0.3583
+1862795	pred.base.3	<extra_id_0> chronically in microgravity? &– &– &– • The new hypothesis examining the effects of microgravity seems likely to reveal the mechanisms that govern the lung and outer digestive features of astronauts? &– how does spending prolonged time in microgravity affect the bodies of astronaut	0.589
+1862795	pred.base.6	<extra_id_0> this process affects the bodies of astronauts?	0.4041
+1866981	-1	i know how i got here, but how did you?	0.1413
+1880028	-1	what does "see leaflet" mean on ept pregnancy test?	0.7117
+1880028	pred.base.9	<extra_id_0> see leaflet mean on ept pregnancy test?	0.7338
+1880028	pred.base.3	<extra_id_0> <extra_id_1> <extra_id_2>doclet mean on ept pregnancy test? see leaflet what does see leaflet mean on ept pregnancy test mean? ...?	0.7305
+1880028	pred.base.6	<extra_id_0> the leaflet means on ept pregnancy test? what does see leaflet mean on ept pregnancy test?	0.7253
+1880028	pred.base.10	<extra_id_0> What does this see leaflet mean on ept pregnancy test?	0.7117
+1880028	pred.base.4	<extra_id_0>  what does see leaflet mean on ept pregnancy test?	0.7117
+1937374	-1	how to get 277 v ac ?	0.6277
+1937374	pred.base.10	<extra_id_0> to prime 277 v ac ?	0.6648
+1944018	-1	why can't teenagers vote?	0.1439
+1944018	pred.base.5	<extra_id_0>? And <extra_id_1> adults vote?	0.2289
+1944018	pred.base.8	<extra_id_0>? And <extra_id_1>? And <extra_id_2> why - if teenagers cant vote?	0.1439
+1957887	-1	how can i hunt down and punch the people that keep spamming me?	0.3432
+1957887	pred.base.7	<extra_id_0> long needs to deal <extra_id_1> with spamming? <extra_id_2> how do i find and punch the people who keep spamming me?	0.4708
+1957887	pred.base.9	<extra_id_0> Also, <extra_id_1>, <extra_id_2> i <extra_id_3> spammy mailers? <extra_id_4> lol?  <extra_id_5> queen... <extra_id_6> how can i duplicate spam women, that keep spamming me?	0.4041
+1957887	pred.base.8	<extra_id_0> how can i hunt down and punch the people that keep spamming me?	0.3432
+1964316	-1	what do you mean by "weed"?	0.3902
+1964316	pred.base.1	<extra_id_0>weed)? what do you mean by weed?	0.6367
+1964316	pred.base.10	<extra_id_0>weed?.  <extra_id_1>weed?. what do you mean by weed? what do you mean by weed?	0.6367
+1964316	pred.base.2	<extra_id_0>weed? what do you mean by weed?	0.6367
+1964316	pred.base.3	<extra_id_0>weed? what do you mean by weed?	0.6367
+1964316	pred.base.9	<extra_id_0>weed?  <extra_id_1>weed? what do you mean by weed? what do you mean by weed?	0.6367
+1964316	pred.base.6	<extra_id_0>weed   <extra_id_1>?  <extra_id_2>weed ? what do you mean by weed??	0.636
+1964316	pred.base.4	<extra_id_0>weed? showers are publishing cautionary tales. what do you mean by weed? What do you mean by weed?	0.5891
+1964316	pred.base.8	<extra_id_0>weed? Was that pot weed? My friends dont like weed at all, are there any?	0.5821
+1964316	pred.base.7	<extra_id_0>wisflower? Do you mean marigold? <extra_id_1>weed?. What do you mean by weed?	0.5644
+1964316	pred.base.5	<extra_id_0>weed? Then why do you really mean by weed?	0.5308
+1968489	-1	which auto insurance do you use and why?	0.554
+1968489	pred.base.1	<extra_id_0> which auto insurance do you use and why?	0.554
+1968489	pred.base.6	<extra_id_0> Which auto insurance do you use and why?	0.554
+1971899	-1	what is masturbat***?	0.2195
+1971899	pred.base.6	<extra_id_0> Masturbat***?	0.2195
+1971899	pred.base.9	<extra_id_0> What is masturbat***?	0.2195
+1977054	-1	couscous is a food from what origin?	0.5444
+1977054	pred.base.5	<extra_id_0>cous <extra_id_1> is something from what origin? Couscous or couscous is a food from what origin?	0.5652
+1977054	pred.base.6	<extra_id_0> is a food from what origin? Couscous is couscous is a food from which origin?	0.5575
+1977054	pred.base.4	<extra_id_0> is a food from what origin? Couscous <extra_id_1> is a food from what origin? Couscous?	0.5444
+1977054	pred.base.7	<extra_id_0> couscous is a food from what origin? The <extra_id_1> is couscous is food from what origin?	0.5444
+2008017	-1	why do black people like fried chicken somuch?	0.6203
+2008017	pred.base.8	<extra_id_0> do black people like fried chicken?	0.6847
+2008017	pred.base.1	Warum do black people like fried chicken so much?	0.6766
+2008017	pred.base.9	Warum do black people like fried chicken so much?	0.6766
+2008017	pred.base.5	<extra_id_0> do black people like fried chicken so theirmud <extra_id_1>? !	0.6652
+2008017	pred.base.6	<extra_id_0> two reason why black people like fried chicken so much?	0.6235
+2018562	-1	why does my black lab howl to "law and order" theme song?	0.7312
+2018562	pred.base.3	<extra_id_0>  <extra_id_1> when my black lab howls to law and order theme song? why does my black lab howl to law and order theme song?	0.7353
+2018562	pred.base.10	<extra_id_0> why does my black lab howl to law and order theme song?	0.7312
+2018562	pred.base.2	<extra_id_0> why does my black lab howl to law and order theme song? why does my black lab howl to law and order theme song?	0.7312
+2018562	pred.base.8	<extra_id_0> why does my black lab howl to law and order theme song? why does my black lab howl to law and order theme song?	0.7312
+2018562	pred.base.9	<extra_id_0> <extra_id_1>? Why does my black lab howl to law and order theme song?	0.7312
+2142044	-1	what do you speculate happened to natalie holloway in aruba?	0.5155
+2142044	pred.base.2	<extra_id_0> natalie holloway in aruba?	0.5452
+2142044	pred.base.9	<extra_id_0> natalie holloway in aruba then?	0.5452
+2142044	pred.base.1	<extra_id_0>: Fourteen years <extra_id_1> natalie holloway in aruba? <extra_id_2>? when? natalie holloway?	0.5414
+2180086	-1	what are mormens?	0.1701
+2180086	pred.base.10	thurns of mormens? mormens already have mormens ?	0.1701
+2180086	pred.base.2	mormens?	0.1701
+2180086	pred.base.4	<extra_id_0> by on. <extra_id_1>? Is it mormens?	0.1701
+2180086	pred.base.5	im a last word Mormenswhich are mormens (or mormenses?)?	0.1701
+2180086	pred.base.7	a mornows sound is a set of summaries, which then form mormens? a mormens sound is a set of summaries which structure the mormens as in things such as mormens, mormens or mummens	0.1701
+2182052	-1	why is lemonade at restaurants sometimes different?	0.7477
+2182052	pred.base.1	<extra_id_0> is lemonade sometimes different in restaurants?	0.7829
+2182052	pred.base.3	<extra_id_0> is lemonade at restaurants sometimes different?	0.7829
+2182052	pred.base.8	<extra_id_0> is lemonade at restaurants sometimes different?	0.7829
+2192891	-1	how are braces put on and do they hurt a lot?	0.5751
+2290758	-1	why do people ask questions they know?	0.1261
+2290758	pred.base.7	<extra_id_0> ask people questions they know?	0.5605
+2290758	pred.base.5	<extra_id_0> people ask questions they know they know?	0.4374
+2290758	pred.base.1	<extra_id_0> do people ask questions they know?	0.3706
+2290758	pred.base.3	<extra_id_0> do people ask questions they know?	0.3706
+2290758	pred.base.8	<extra_id_0> people ask questions they know they know, why do people ask questions they know they know?	0.3688
+2290758	pred.base.6	<extra_id_0> people ask questions they know nothing about? And <extra_id_1> why do people ask questions they know nothing about?	0.3317
+2290758	pred.base.9	<extra_id_0> do people ask questions they know they know? So, why do people ask questions they know they know?	0.3039
+2290758	pred.base.4	<extra_id_0> do people ask questions they know? Because, when people ask non-got answers, the answer is a simple well-known one: what if I ask for secrets?	0.2384
+2291272	-1	how is catholicism not christianity?	0.58
+2291272	pred.base.6	<extra_id_0> 404aa <extra_id_1> without christians? Can catholicism not be christianity?	0.5856
+2307305	-1	why do man rape little girls?	0.5423
+2307305	pred.base.2	<extra_id_0> girls rape?	0.5718
+2309774	-1	why do i keep seeing people on here 'dissing' on the soldiers in iraq?	0.4958
+2309774	pred.base.2	<extra_id_0> i am wondering <extra_id_1> people on dissing on the soldiers in iraq?	0.5856
+2380990	-1	why am i alive?	0.2187
+2380990	pred.base.7	<extra_id_0> i alive?	0.3375
+2380990	pred.base.4	<extra_id_0> i am alive?	0.3242
+2380990	pred.base.8	<extra_id_0> am i alive? ?	0.3242
+2380990	pred.base.9	<extra_id_0> i am alive?? <extra_id_23>?	0.3242
+2380990	pred.base.6	<extra_id_0> am i alive? <extra_id_1> why am i alive?	0.263
+2382487	-1	what do i do if i have not started my period in like almost 6 months?	0.162
+2382487	pred.base.4	<extra_id_0> in like 6 months? True, my period has finally started, but now, i know my period hasnt started in like 18 months???	0.2779
+2382487	pred.base.5	<extra_id_0> in like 10 months? <extra_id_1> in above 6 months? i want to know what to do if i have not started my period!	0.2264
+2382487	pred.base.8	<extra_id_0> before..and needs to start my period history? RE: what do i do if i have not started my period and have not started my period in like 6 months?	0.1969
+2418598	-1	why do wisdom varies from person to person?	0.4432
+2418598	pred.base.10	<extra_id_0> old way; why do wisdom varies from person to person?	0.4482
+2443586	-1	what is a bro?	0.4684
+2443586	pred.base.1	<extra_id_0>? What is a bro?	0.4684
+2443586	pred.base.8	<extra_id_0> what is a bro? What is a bro?	0.4684
+2446614	-1	how could u get success?	0.3184
+2446614	pred.base.8	<extra_id_0> u be able to get success?	0.4252
+2446614	pred.base.2	<extra_id_0> u having success? in <extra_id_1> rarely to success?	0.4116
+2446614	pred.base.3	<extra_id_0> u get success? <extra_id_7> me to setup? ?	0.4056
+2446614	pred.base.4	<extra_id_0> so u could get success?	0.3273
+2452795	-1	how can i heat the water within a 150 gal tank that's open to the atmosphere in feb.?	0.6168
+2479423	-1	why is there brail on the keypads at drive up atm's?	0.7747
+2484180	-1	why do people judge a dog by what he looks like?	0.3539
+2484180	pred.base.8	<extra_id_0>, no, people dont judge dogs by what they look like — for example: why do people judge a dog by what he looks like?	0.4608
+2484180	pred.base.1	<extra_id_0> all this? Wow, people wonder - <extra_id_1>? Or why are people judge a dog on what he looks like? And more importantly, why is it people judge a dog on what he looks like?	0.4038
+2484180	pred.base.2	<extra_id_0> why do people judge dogs by what they look like?	0.3624
+2528767	-1	how do i determine the charge of the iron ion in fecl3?	0.8388
+2529114	-1	since i have premature ejaculation problem, how to satisfy my girl?	0.5649
+2529114	pred.base.2	<extra_id_0> since i have premature ejaculation problem, how to satisfy my girl?	0.5649
+2529114	pred.base.6	<extra_id_0> since i have premature ejaculation problem, how to satisfy my girl?	0.5649
+2539741	-1	what cause the car to have white smoke coming from the muffler and making a kicking or knocking sounds?	0.654
+2539741	pred.base.9	<extra_id_0> <extra_id_1> cause the car to have white smoke coming from the muffler and making a kicking or knocking sounds?	0.6679
+2551845	-1	why is gw dogged for not getting obl yet killing zarkawi is a non-event?	0.3766
+2582920	-1	what is the difference in a dried plum and a dried prune?	0.854
+2582920	pred.base.8	<extra_id_0> fruit tree, <extra_id_1>? okay, how would a prune and a plum compare? <extra_id_2>, what is the difference in a dried plum and a dried prune? How much does it weigh?	0.8679
+2582920	pred.base.4	<extra_id_0> how do you compare two varieties and <extra_id_1> outgrown <extra_id_2> value? <extra_id_3> fresh plum and a dried prune?s <extra_id_4> dried prune?s what do you mean by dry prune?s <extra_id_5>?s <extra_id_6> What are the differences between dried plum and dried prune?	0.8665
+2582920	pred.base.10	<extra_id_0> Dried plum is dried. More about dried plum pics below. And <extra_id_1> frozen plum and dried prune? or dried prune? How do I cut plums? When is the difference?	0.865
+2582920	pred.base.7	<extra_id_0> differences between dried plums and dried prunes? Who has been dried plum and had the dried prunes?	0.8594
+2582920	pred.base.5	<extra_id_0> when the fruit is the fruit? When will a prune picture change? Also, by what tone do you mean dried plums and prunes have in time?	0.8585
+2582920	pred.base.6	<extra_id_0> an elongated plum and dried prune? And <extra_id_1> pumpkin? ? Our real question is, <extra_id_2> WHY is part of the premiering procedure? And <extra_id_3> is dry plum versus dried prune? plus <extra_id_4> but not dried prune?	0.8583
+2582920	pred.base.9	<extra_id_0> also <extra_id_1>i? <extra_id_2> what is the difference in a dried plum and a dried prune? and what is the difference in a dried plum and a dried prune?	0.8563
+2582920	pred.base.3	<extra_id_0> plumb or a dried prune? <extra_id_1> what is the difference in a dried <extra_id_2> plum? <extra_id_3> what is a dried prune? Or is it a dried plum?	0.8545
+2592121	-1	how to rollover 401k into real estate?	0.7223
+2592121	pred.base.4	<extra_id_0> pullover 401k into real estate?	0.8448
+2592121	pred.base.2	<extra_id_0> to rollover 401k into real estate?	0.8445
+2592121	pred.base.5	<extra_id_0> to rollover 401k into real estate?	0.8445
+2592121	pred.base.6	<extra_id_0> to rollover 401k into real estate?	0.8445
+2592121	pred.base.7	<extra_id_0> to rollover 401k into real estate?	0.8445
+2592121	pred.base.8	<extra_id_0> to rollover 401k into real estate?	0.8445
+2592121	pred.base.10	<extra_id_0>? <extra_id_1>, how to rollover 401k into real estate?	0.7223
+2619912	-1	how were you saved from sin-and born again as jesus says "except you repent, and be born again..." how didyou?	0.7272
+2634143	-1	what is direct borrowing, phonological borrowing, linguistic borrowing, cultural borrowing,intimate borrowing?	0.4792
+2634143	pred.base.4	<extra_id_0> Direct borrowing ⁇  direct borrowing ⁇  <extra_id_1> phonological borrowing ⁇ linguistic borrowing ⁇ cultural borrowing ⁇  cultural borrowing ⁇ collaborative borrowing ⁇ intermediate borrowing ⁇  what is direct borrowing&#160;keynote:what is direct borrowing/direct borrowing? What is directly borrowing, phonological borrowing, linguistic borrowing	0.4792
+2634143	pred.base.5	<extra_id_0> what is agricultural borrowing, phonological borrowing, linguistic borrowing, cultural borrowing, intimate borrowing?	0.4792
+2643507	-1	why does milk cost more than gas per gallon?	0.7346
+2643507	pred.base.10	<extra_id_0> milk costs more than gas per gallon? As many of us know milk costs more than gas per gallon?	0.7399
+2643507	pred.base.3	<extra_id_0> milk costs more than gas per gallon.	0.7362
+2643507	pred.base.9	<extra_id_0> milk costs more than gas per gallon?	0.7362
+2713171	-1	what does the sentence's mean?	0.154
+2713171	pred.base.7	<extra_id_0> sentences? <extra_id_19>s meaning in the sentence? The sentences meaning?	0.2476
+2713171	pred.base.8	<extra_id_0> if your sentence was optimistic and compelling <extra_id_1>? Hey Mommy, what does the sentences mean?	0.2188
+2722241	-1	why do some animals hide in a dark place b4 they die?	0.305
+2722241	pred.base.10	<extra_id_0> other questions?.... <extra_id_1> difference in childhood medicines?............. <extra_id_2>... <extra_id_3> humans hide in dark places b4 they die?.. <extra_id_4>..? ?................ <extra_id_5> why do some animals hide in dark places b4 they die?... <extra_id_6>? like if all those animals hide in dark	0.3622
+2722241	pred.base.6	<extra_id_0> ifu? Why do some animals hide in dark places b4 they die? !	0.305
+2783398	-1	what is a nucleus?	0.6988
+2783398	pred.base.8	<extra_id_0>???????????? ? Hey, <extra_id_1> nucleus? I wonder what is a nucleus?	0.7218
+2783398	pred.base.3	<extra_id_0> What is a nucleus? 9. What is a nucleus?	0.6988
+2783398	pred.base.5	<extra_id_0> what is a nucleus?	0.6988
+2785579	-1	if you could be an element of weather, which would you choose, and why?	0.0771
+2785579	pred.base.4	<extra_id_0> just like a weather icon, <extra_id_1>, and why?	0.1519
+2785579	pred.base.1	<extra_id_0>? And if you could be an element of weather, which would you choose, and why?	0.0771
+2795030	-1	why do people drink cuervo when it tastes the same going down as coming up?	0.4704
+2795030	pred.base.6	<extra_id_0> do people drink cuervo when it tastes like coming up?	0.5788
+2797224	-1	muslims are the happiest people ever, why?	0.5493
+2797224	pred.base.3	<extra_id_0> muslims are the happiest people ever, why?	0.5493
+2797224	pred.base.5	<extra_id_0> muslims are the happiest people ever, why?	0.5493
+2799913	-1	what's the proper way to express sorrow at a funeral?	0.4992
+2799913	pred.base.1	<extra_id_0>? <extra_id_1> caring kind of person? <extra_id_2> how to express sorrow at a funeral? whats the proper way to express sorrow at a funeral?	0.5036
+2814599	-1	what does the word remission mean when referring to cancer patients?	0.6613
+2814599	pred.base.6	<extra_id_0> remission when referring to cancer patients? <extra_id_1>? Which is better when it comes to cancer? What does the word remission mean when referring to cancer patients?	0.706
+2814599	pred.base.1	<extra_id_0> remission when referring to cancer patients? <extra_id_1> when referring to cancer patients? what does the word remission mean when referring to cancer patients?	0.6994
+2814722	-1	why is the new jersey smoking ban not considered unconstitutional?	0.5672
+2814722	pred.base.2	Warum is the new jersey smoking ban not considered unconstitutional?	0.5692
+2814722	pred.base.3	<extra_id_0> / <extra_id_1> the new jersey smoking ban not considered unconstitutional?	0.5692
+2814722	pred.base.6	Warum is the new jersey smoking ban not considered unconstitutional?	0.5692
+2814722	pred.base.10	<extra_id_0> why is the new jersey smoking ban not considered unconstitutional?	0.5672
+2814722	pred.base.4	<extra_id_0> why is the new jersey smoking ban not considered unconstitutional?	0.5672
+2815090	-1	how cloning will affects our community?	0.3742
+2815090	pred.base.3	<extra_id_0> cloning unseen will affect our unicampus community? No physical canaan nats wikis do cloning harm while cloning and/or cloning dont?	0.6456
+2815090	pred.base.9	<extra_id_0> cloning?	0.6382
+2815090	pred.base.5	<extra_id_0> cloning allotting no one? Want more information about cloning and how it affects our communities?	0.618
+2815090	pred.base.10	<extra_id_0> cloning beautiful communities? How can cloning affect our community?	0.6159
+2815090	pred.base.4	<extra_id_0> HistoryBT.com can reveal <extra_id_1> hero content for animals cloned. Wondering exactly how cloning will affects our community?	0.5149
+2815090	pred.base.2	<extra_id_0> what cloning will affect our community?	0.4535
+2815090	pred.base.6	<extra_id_0> Cloning will impact our community?	0.4441
+2815090	pred.base.7	<extra_id_0> how cloning will affect <extra_id_1> already?	0.417
+2815090	pred.base.8	<extra_id_0> cloning manipulation affect our community?	0.3931
+2838988	-1	how can i get a cork out of, not into, a wine bottle without a corkscrew?	0.8234
+2838988	pred.base.1	<extra_id_0> And <extra_id_1> how can i get a cork out of, not into, a wine bottle without a corkscrew?	0.8234
+2838988	pred.base.9	<extra_id_0> How can i get a cork out of, not into, a wine bottle without a corkscrew?	0.8234
+2847807	-1	how can i get rid of the hicups?	0.302
+2847807	pred.base.1	<extra_id_0> here in sira?5 part <extra_id_1>tridulism. <extra_id_2>? <extra_id_3> his hicups?? ? <extra_id_4> top grips without them? how can i get rid of the hicups?	0.4698
+2847807	pred.base.7	<extra_id_0> when i remove the comic hicups?	0.434
+2847807	pred.base.9	<extra_id_0> Where can i get rid of computers hicups?	0.3178
+2862887	-1	how to care for a spiked dragon and what to feed them?	0.3726
+2862887	pred.base.6	<extra_id_0> to care for a spiked dragon and what to feed them?	0.447
+2862887	pred.base.9	<extra_id_0>, <extra_id_1>  <extra_id_2> can you teach them <extra_id_3> spiked dragon? ! <extra_id_4> above <extra_id_5> can you tell me how to care for a spiked dragon and what to feed them?	0.3831
+2864267	-1	what exemplifies effective customer service?	0.7867
+2864267	pred.base.1	<extra_id_0> is effective customer service? ... <extra_id_1> is core customer service? ...what brings customer service laughable fun to your VoIPes?	0.8432
+2864267	pred.base.8	<extra_id_0> is customer service at its best? <extra_id_1> what exemplifies effective customer service?	0.8419
+2864267	pred.base.4	<extra_id_0> is the most effective customer service? <extra_id_1> illustrations? words <extra_id_2> customer service)?	0.8404
+2864267	pred.base.7	<extra_id_0> what exemplifies effective customer service? 8 <extra_id_1> tl;drs: <extra_id_2> customer service that doesn’t exemplify customer service? 9;drs: what exemplifies effective customer service?	0.7904
+2864267	pred.base.10	<extra_id_0> effective customer service - <extra_id_1> why? how effective customer service?	0.7892
+2864267	pred.base.6	<extra_id_0> and <extra_id_1> what exemplifies effective customer service? What exemplifies effective customer service?	0.7867
+2892478	-1	what factors cause the earth to heat unevenly?	0.7192
+2892478	pred.base.5	<extra_id_0> The earths heat is uneven? What causes the earth to heat unevenly?	0.7696
+2892478	pred.base.2	<extra_id_0> John McNair explain <extra_id_1> what can impact the heat and <extra_id_2> the earth to heat unevenly? <extra_id_3> which factors causes this uneven heat of the earth?	0.7523
+2956570	-1	what are the words to write the sound of raindrops, moving train & scribbling w/ pencil on paper figuratively?	0.7395
+2976644	-1	how amoeba catches its prey?	0.6519
+2976644	pred.base.6	<extra_id_0> amoeba catches prey?	0.7501
+2976644	pred.base.5	<extra_id_0> amoeba catches its prey?	0.6918
+2976644	pred.base.8	<extra_id_0> amoeba catches its prey?	0.6918
+2976644	pred.base.9	<extra_id_0> amoeba catches its prey?	0.6918
+3040435	-1	usa have snow, hurricanes, flood, earthquakes and politicians, brazil only have politicians, why?	0.6235
+3074429	-1	how can we understand islam and muslims better?	0.5646
+3074429	pred.base.6	<extra_id_0> to understand islam and muslims better?	0.6383
+3074429	pred.base.5	<extra_id_0>? How can we understand islam and muslims better?	0.5646
+3078448	-1	how do you prevent chicken from drying out when you cook it?	0.4487
+3078448	pred.base.1	<extra_id_0> do you keep chicken not drying out when you cook it?	0.5408
+3078448	pred.base.3	<extra_id_0> do you prevent chilli from drying out when you cook chicken?	0.5062
+3078448	pred.base.10	<extra_id_0> do you prevent chicken from drying out when you cook it?	0.4962
+3078448	pred.base.4	<extra_id_0> do you prevent chicken from drying out when you cook it?	0.4962
+3078448	pred.base.5	<extra_id_0> do you prevent chicken from drying out when you cook it?	0.4962
+3078448	pred.base.6	<extra_id_0> do you prevent chicken from drying out when you cook it?	0.4962
+3078448	pred.base.7	<extra_id_0> do you prevent chicken from drying out when you cook it?	0.4962
+3078448	pred.base.2	<extra_id_0> do you keep chicken from drying out when you cook it?	0.4652
+3155314	-1	we have pork chops, veal chops, lamb chops, why is there not any beef chops ?	0.4707
+3155314	pred.base.10	<extra_id_0> We have other kinds of meat, liver and lamb, veal chops, why is there not any beef chop ? You do not have a beef chop.	0.5566
+3155314	pred.base.3	<extra_id_0> So why are there no beef chops ? we have pork chops, veal chops, lamb chops, people say why are there no beef chops ?	0.5264
+3155314	pred.base.1	<extra_id_0> “Where are there pork chops, vegetable chops, beef chops? “ Can we have beef chops ?	0.4841
+3206998	-1	how does disneyland make it snow?	0.4011
+3206998	pred.base.8	<extra_id_0> sharing disneyland makes it snow?	0.4955
+3206998	pred.base.9	<extra_id_0> disneyland:  <extra_id_1> unneyland: how does disneyland make it snow?	0.4664
+3206998	pred.base.7	<extra_id_0> does disneyland make it snow?	0.4297
+3239329	-1	why do we wee a lot in the cold weather especially at night?	0.4553
+3239329	pred.base.1	<extra_id_0> weather <extra_id_1> snow? But <extra_id_2> wee a lot <extra_id_3> especially at night! Why do we wee so much in the cold weather especially at night?	0.4755
+3269759	-1	what is artificial intelligence?	0.5092
+3269759	pred.base.3	<extra_id_0> artificial intelligence (AI)?	0.6451
+3269759	pred.base.10	<extra_id_0> artificial intelligence? How does machine learning work?	0.5516
+3269759	pred.base.1	<extra_id_0> Who is artificial intelligence? Derek Quinn-Boggin, Nom: The basic answer to Google’s questions is, What is artificial intelligence?	0.55
+3269759	pred.base.4	<extra_id_0> what is artificial intelligence?	0.5092
+3269759	pred.base.6	<extra_id_0> What is artificial intelligence? What is artificial intelligence?	0.5092
+3278654	-1	why do kamikaze pilots wear helmets?	0.6668
+3278654	pred.base.6	Warum wear kamikaze pilots helmets?	0.6736
+3278654	pred.base.7	<extra_id_0> kamikaze pilots wear helmets?	0.6736
+3278654	pred.base.10	<extra_id_0> do kamikaze pilots wear helmets?	0.6686
+3278654	pred.base.5	<extra_id_0> do kamikaze pilots wear helmets?	0.6686
+3278654	pred.base.2	Why do kamikaze pilots wear helmets?	0.6668
+3280768	-1	why is islam so hated in america?	0.4089
+3280768	pred.base.3	<extra_id_0> is islam hated in america?	0.49
+3280768	pred.base.9	<extra_id_0> is islam so hated in america?	0.4562
+3295055	-1	what causes skin discoloration, specifically, whitening of the skin between fingers?	0.6084
+3301173	-1	how to design road crust for national highways?	0.7498
+3301173	pred.base.1	<extra_id_0> to design road crust for national highways?	0.7928
+3301173	pred.base.10	<extra_id_0> to design road crust for national highways?	0.7928
+3301173	pred.base.2	<extra_id_0> to design road crust for national highways?	0.7928
+3301173	pred.base.5	<extra_id_0> to design road crust for national highways?	0.7928
+3301173	pred.base.6	<extra_id_0> to design road crust for national highways?	0.7928
+3301173	pred.base.7	<extra_id_0> to design road crust for national highways?	0.7928
+3301173	pred.base.8	<extra_id_0> to design road crust for national highways?	0.7928
+3313308	-1	how can i enjoy my time alone?	0.1872
+3313308	pred.base.6	<extra_id_0>, and <extra_id_1> alone?, <extra_id_2> time alone, <extra_id_3> time alone?, <extra_id_4> time alone? ?	0.3503
+3313308	pred.base.3	<extra_id_0> i am a beginner with no internet... <extra_id_1> my time alone? What is the difference a beautiful person can make alone?	0.2008
+3363149	-1	why do arabs and mexicans look alike?	0.6927
+3363149	pred.base.3	<extra_id_0> do arabs and mexicans look alike?	0.7287
+3363149	pred.base.4	<extra_id_0> do mexicans or arabs look alike?	0.7287
+3363149	pred.base.7	<extra_id_0> do arabs and mexicans look alike?	0.7287
+3363149	pred.base.5	<extra_id_0>? <extra_id_1> . <extra_id_2> why do arabs and mexicans look alike?	0.6927
+3369088	-1	how can we stop the spread of islam?	0.5213
+3369088	pred.base.1	<extra_id_0> can we stop the spread of islam?	0.565
+3369088	pred.base.10	<extra_id_0> can we stop the spread of islam?	0.565
+3369088	pred.base.2	<extra_id_0> can we stop the spread of islam?	0.565
+3369088	pred.base.3	<extra_id_0> can we stop the spread of islam?	0.565
+3369088	pred.base.4	<extra_id_0> can we stop the spreading of islam?	0.565
+3369088	pred.base.5	<extra_id_0> can we stop the spread of islam?	0.565
+3369088	pred.base.6	<extra_id_0> can we stop the spreading of islam?	0.565
+3369088	pred.base.7	<extra_id_0> can we stop the spread of islam?	0.565
+3369088	pred.base.8	<extra_id_0> can we stop the spread of islam?	0.565
+3369088	pred.base.9	<extra_id_0> can we stop the spread of islam?	0.565
+3382736	-1	what is minimalist cubisium?	0.6193
+3382736	pred.base.1	<extra_id_0> What is minimalist cubisium?	0.6193
+3382736	pred.base.2	<extra_id_0> What is minimalist cubisium?	0.6193
+3382736	pred.base.5	<extra_id_0> What is minimalist cubisium?	0.6193
+3382736	pred.base.9	<extra_id_0> What is minimalist cubisium ?	0.6193
+3385681	-1	if red bull is soo bad for people ,then why is it soo popular?	0.2225
+3385681	pred.base.10	<extra_id_0> that is,if red bull is so  bad on people ,then why is it soo popular?	0.4732
+3385681	pred.base.1	<extra_id_0> Then why is red bull so popular ? Because red bull is bad for people.	0.4205
+3385681	pred.base.4	<extra_id_0> How come red bull is so bad for everybody ,then why is it soo popular?	0.4182
+3385681	pred.base.6	<extra_id_0> , then why is red bull soo popular?	0.4103
+3385681	pred.base.7	<extra_id_0> ,then why is red bull so popular ? ?	0.3832
+3385681	pred.base.8	<extra_id_0> then why is red bull so popular?	0.3832
+3385681	pred.base.2	<extra_id_0> ,then why is red bull so popular? ? Unless red bull is so much bad for people ,then why is red bull so popular?	0.379
+3385681	pred.base.5	<extra_id_0> then why is red bull so popular? >if red bull is soo bad for people,then why is it soo popular ,then why is it soo popular?	0.3505
+3385681	pred.base.9	<extra_id_0>than why is red bull so good for you people ,then blame red bull .	0.3205
+3385681	pred.base.3	<extra_id_0> comes into being impatient . <extra_id_1> why is red bull so popular? ? Lets get back to red bulls soo bad for Americans ,then this is the idiot commonplace term for red bull???? ?	0.3049
+3389038	-1	why the media in us and europe is always attacking the arabs and islam without finding the truth about them?	0.5282
+3389038	pred.base.9	<extra_id_0> the media in us and europe is always attacking the arabs? Warum also the media in us and europe is always attacking the arabs and islam without finding the truth about them?	0.5816
+3389038	pred.base.5	<extra_id_0> the media in the us2 europe is always attacking the arabs and islam without finding the truth about them?	0.5766
+3389038	pred.base.10	<extra_id_0> the media in the u.s. and europe are always attacking the arabs and islam without finding the truth about them?	0.5583
+3389038	pred.base.2	<extra_id_0> the media in the us and europe is always attacking the arabs and islam without finding the true story?	0.5493
+3389038	pred.base.7	<extra_id_0> is this because the media in us and europe is always attacking the arabs and islam without finding the true truth about them?	0.5293
+3396066	-1	why do airplanes fly so high?	0.5268
+3396066	pred.base.6	<extra_id_0> do airplanes fly so high? Why do airplanes fly so high?	0.5343
+3411123	-1	why does'nt america regard foriegn credentials?	0.2366
+3411123	pred.base.10	<extra_id_0> the 45 dollar fact, <extra_id_1> america does not always account for credentials <extra_id_2>?.... Why do americans no mceen do foriegn credentials?	0.3232
+3411123	pred.base.5	<extra_id_0> usand why doest america regard foriegn credentials?	0.3037
+3411123	pred.base.2	<extra_id_0>? <extra_id_1> whyst america does not support foriegn credentials?	0.264
+3411123	pred.base.7	<extra_id_0> and while America is glowing about your credentials because of having them did not america? Whats the history of ehimmed credentials?	0.2587
+3496147	-1	why was i punished for being christlike?	0.3591
+3496147	pred.base.4	<extra_id_0> i was punished? And if so, then why was i punished for being christlike?	0.4324
+3496147	pred.base.8	<extra_id_0> i was punished for being christlike?	0.3987
+3496147	pred.base.1	<extra_id_0> why was i punished for being christlike?	0.3591
+3496147	pred.base.9	<extra_id_0> why was i punished for being christlike?	0.3591
+3499881	-1	why is gordon ramsey so popular?	0.3433
+3499881	pred.base.2	<extra_id_0> gordon ramsey so popular!	0.3773
+3507491	-1	why is religious freedom more important today?	0.7043
+3507491	pred.base.2	Warum is religious freedom more important today?	0.7654
+3507491	pred.base.6	Warum is religious freedom more important today?	0.7654
+3507491	pred.base.7	Warum is religious freedom more important today?	0.7654
+3507491	pred.base.9	Warum is religious freedom more important today?	0.7654
+3552010	-1	why do parent put kids on restriction?	0.3861
+3552010	pred.base.10	<extra_id_0> parents put kids on restriction?	0.675
+3552010	pred.base.3	<extra_id_0> parents put kids on restriction?	0.675
+3552010	pred.base.9	<extra_id_0>? Do parents put kids on restriction?	0.5
+3554263	-1	why some people behave so rude without reason,is it due to their own problem?	0.3353
+3554263	pred.base.6	<extra_id_0> so rude etc,is it because of just another reason <extra_id_1>is it due to their own problem? Is it because some people behave so rude at times? If so,is it – is it just a fault of their own problem?	0.3623
+3559048	-1	how do you sell a junk car without a title?	0.7785
+3559048	pred.base.5	<extra_id_0> be charged a fare increase? <extra_id_1> ? <extra_id_2> junk car without title? <extra_id_3> junk car alley? Sell? <extra_id_4> title?	0.809
+3559048	pred.base.8	<extra_id_0> auto registry or <extra_id_1>ukailing.com ? <extra_id_2> junk car without title? Buy and sell junk cars with no title. <extra_id_3>? #2: <extra_id_4> title?	0.7957
+3577501	-1	what are some signs that puberty is beginning?	0.6252
+3577501	pred.base.3	<extra_id_0> are some signs that puberty’s beginning? many signs that puberty is beginning?	0.708
+3577501	pred.base.7	<extra_id_0> are some signs that puberty is beginning?	0.6893
+3577501	pred.base.8	<extra_id_0> are some signs that puberty is coming to an end? If yes, what are some signs that puberty is beginning?	0.6777
+3639660	-1	why do most cigarettes have the yellow filter?	0.6373
+3639660	pred.base.8	Vizio Teva Cigarettes with the yellow filter?	0.7288
+3639660	pred.base.4	<extra_id_0> do most cigarettes have the yellow filter?	0.7054
+3639660	pred.base.1	<extra_id_0> do lots of cigarettes have the yellow filter?	0.6877
+3639660	pred.base.9	<extra_id_0> do most cigarettes have the yellow filter in bed?	0.6648
+3639660	pred.base.5	<extra_id_0> do so many cigarettes have the yellow filter?	0.6571
+3640705	-1	what is the punishment for child molestors?	0.3196
+3698636	-1	why do cats headbutt?	0.1328
+3698636	pred.base.9	<extra_id_0> cats headbutt?	0.5005
+3698636	pred.base.2	<extra_id_0> do cats headbutt?	0.2224
+3698636	pred.base.4	<extra_id_0> do cats headbutt?	0.2224
+3698636	pred.base.7	<extra_id_0> do cats headbutt?	0.2224
+3698636	pred.base.1	<extra_id_0> headsattt? What Is Cat Headbutt?	0.1925
+3698636	pred.base.8	<extra_id_0> why do cats headbutt?	0.1328
+3714728	-1	why is the world so shallow?	0.3974
+3714728	pred.base.10	Warum is the world so shallow?	0.5853
+3714728	pred.base.2	<extra_id_0> is the world so shallow?	0.5853
+3714728	pred.base.3	Warum the world so shallow?	0.5853
+3714728	pred.base.5	<extra_id_0> is the world so shallow?	0.5853
+3714728	pred.base.6	Warum is the world so shallow?	0.5853
+3714728	pred.base.9	Warum is the world so shallow?	0.5853
+3723508	-1	what is the difference between an ox and a bull?	0.7023
+3723508	pred.base.10	<extra_id_0>, <extra_id_1> ox or a bull? Is it an ox or is it a bull?	0.8029
+3723508	pred.base.6	<extra_id_0> exactly how does an ox differ from a bull? And, what is the difference between an ox and a bull?	0.7544
+3723508	pred.base.8	<extra_id_0> the difference between an ox and a bull?	0.7426
+3723508	pred.base.3	<extra_id_0> is another ox?. <extra_id_1> and what is an ox? And what is the difference between an ox and a bull?	0.738
+3723508	pred.base.9	<extra_id_0> ox and bull? If so, <extra_id_1>! Where do I get my virtual stallions?	0.7285
+3778229	-1	how were the witches tested in the salem witch trials?	0.7358
+3778229	pred.base.3	<extra_id_0> since <extra_id_1> tested? referring to <extra_id_2> French witch trials? That being the case for salem witch trials, <extra_id_3>? <extra_id_9>? How were witches tested in the salem witch trials?	0.741
+3778229	pred.base.10	<extra_id_0> which witches who were considered to be virgin witches in the salem witch trials?	0.7366
+3778229	pred.base.1	<extra_id_0> was <extra_id_1> testing him at their salem witch trials ? how were the witches violently tested in the salem witch trials?	0.7365
+3825386	-1	how can i develop leanbody and muscles?	0.3358
+3825386	pred.base.4	<extra_id_0> how can i develop leanbody and muscles?	0.3358
+3872395	-1	what are some easy ways to get a toddler to go to sleep without being mean?	0.1027
+3872395	pred.base.5	<extra_id_0> Any cute sets will hap! so <extra_id_1> sleep. <extra_id_2> easy ways to get a toddler to be serious? What are some awesome ways to get a toddler to go to sleep without being mean?	0.2524
+3872395	pred.base.3	<extra_id_0> funny ways to get a toddler to go to sleep without getting mean? Or are there any other nice ways to get a toddler to go to sleep without being mean?	0.1402
+3872395	pred.base.1	<extra_id_0>? Wiki: How to get a toddler to go to sleep without being mean? Another simple way to get a toddler to go to sleep without being mean?	0.1127
+3874326	-1	how come compton is only designated for black people?	0.2777
+3874326	pred.base.5	<extra_id_0> when jazz is only considered for black people for citizenship (the black people!	0.3202
+3874326	pred.base.7	<extra_id_0> how come compton is only designated to black people?	0.2777
+3910925	-1	why is yawning contagious?	0.7326
+3910925	pred.base.10	<extra_id_0> is yawning contagious?	0.7415
+3910925	pred.base.5	<extra_id_0> is yawning contagious?	0.7415
+3910925	pred.base.3	<extra_id_0>? But when is yawning contagious?	0.7395
+3910925	pred.base.9	<extra_id_0>? And hey, why is yawning contagious?	0.7326
+3960080	-1	why don't commercial planes fly over the north pole?	0.81
+3960080	pred.base.4	<extra_id_0>t commercial planes fly over the north pole?	0.8294
+3960080	pred.base.8	<extra_id_0>t commercial planes fly over the north pole?	0.8294
+3960080	pred.base.1	<extra_id_0> dont commercial planes fly over the north pole?	0.8198
+3960080	pred.base.10	<extra_id_0> dont commercial planes fly over the North Pole?	0.8198
+3960080	pred.base.5	<extra_id_0> dont commercial planes fly over the north pole?	0.8198
+3960080	pred.base.6	<extra_id_0> dont commercial planes fly over the north pole?	0.8198
+3960080	pred.base.7	<extra_id_0> dont commercial planes fly over the north pole?	0.8198
+3960080	pred.base.9	<extra_id_0> dont commercial planes fly over the north pole each year? Why not?	0.8179
+3971195	-1	how do i get my pitbull more agressive?	0.3837
+3971195	pred.base.8	<extra_id_0> tell me, <extra_id_1>? <extra_id_2>, <extra_id_3> pitbull <extra_id_4>?  <extra_id_5> my pitbull now more aggressive?	0.3938
+3990512	-1	how can we get concentration onsomething?	0.0637
+3990512	pred.base.2	<extra_id_0> to concentrate on something? <extra_id_1> question: <extra_id_2> can I get concentration?	0.2759
+3990512	pred.base.5	<extra_id_0> delegate properly <extra_id_1>get concentration on something.....? and how can we get concentration on something?	0.1646
+3990512	pred.base.6	<extra_id_0> do we get us concentration on somethings?	0.1329
+3990512	pred.base.10	<extra_id_0> can we get concentration in something?	0.1101
+3990512	pred.base.7	<extra_id_0> can we get concentration on something?	0.1101
+3990512	pred.base.8	<extra_id_0> can we get concentration on something?	0.1101
+3990512	pred.base.3	<extra_id_0> do we first to get concentration on something?	0.0997
+3990512	pred.base.9	<extra_id_0> do we find concentration on something?	0.092
+3990512	pred.base.1	<extra_id_0> do we actually get concentration on something?	0.069
+4003223	-1	what are the marketing gimmicks that will attract males?	0.4862
+4003223	pred.base.4	<extra_id_0>– Why are there so many marketing gimmicks that will attract females? ! Question: what are the marketing gimmicks that will attract males?	0.5092
+4003223	pred.base.5	<extra_id_0> What are the marketing gimmicks that will attract males????	0.4862
+4012558	-1	what is the term milky way?	0.7552
+4012558	pred.base.1	<extra_id_0> milky way? Basically, what is milky way?	0.7934
+4012558	pred.base.2	<extra_id_0> milky way? <extra_id_1> Milky way? Awesome? Thatd be milky way?	0.7934
+4012558	pred.base.3	<extra_id_0> milky way? ? What is milky way?	0.7934
+4012558	pred.base.4	<extra_id_0> milky way? Oh, and what is milky way?	0.7934
+4012558	pred.base.6	<extra_id_0> milky way? What is milky way?	0.7934
+4012558	pred.base.7	<extra_id_0> milky way ? And with milky way?	0.7934
+4012558	pred.base.10	<extra_id_0> milky way? If you want to know more, what do you mean by milky way? Get in touch!	0.7773
+4012558	pred.base.5	<extra_id_0> milky way? Hi, im also a milky way local, but weve still got enough words?	0.7619
+4012558	pred.base.9	<extra_id_0> milky way? What is the term milky way?	0.761
+4012558	pred.base.8	<extra_id_0> milky way? What is what the term milky way?	0.7608
+4018891	-1	how do i know if a particular term or phrase is copyrighted?	0.3244
+4018891	pred.base.9	<extra_id_0> can i find historical content? <extra_id_1>, <extra_id_2> how do i know if it is copyrighted?  <extra_id_3> what is (legal) copyright in a certain phrase? or unspecified? 7.	0.4826
+4018891	pred.base.2	<extra_id_0> do i know if a term or phrase is copyrighted? and do i know if i have copyright?	0.4731
+4018891	pred.base.4	<extra_id_0> do i know? <extra_id_1> English, <extra_id_2> phila? my (2) ie <extra_id_3> i <extra_id_4> i have few to know? <extra_id_5>  <extra_id_6> why me blacklist?_ <extra_id_7> a word or phrase is copyright? <extra_id_8> protected? no <extra_id_9>? Is copyright included in fully purchased product	0.4022
+4018891	pred.base.1	<extra_id_0> do you know if a particular term or phrase is copyrighted? 1.	0.3717
+4126337	-1	why does my friend buy...?	0.2582
+4126337	pred.base.5	<extra_id_0>, <extra_id_1> my friend buy...?	0.3253
+4126337	pred.base.3	<extra_id_0>, <extra_id_1> what is my friend buying...?	0.3008
+4126337	pred.base.1	<extra_id_0> why does my friend buy...?	0.2582
+4126337	pred.base.7	<extra_id_0> why does my friend buy...?	0.2582
+4153592	-1	what can make someones ear's stink?	0.285
+4153592	pred.base.7	<extra_id_0>. What can make someones ears stink?	0.285
+4165406	-1	why did the founder of daewoo get a 10-year jail sentence?	0.6453
+4185395	-1	how can i cure the std or the sexually transmitted disease?	0.6419
+4185501	-1	why does the sun shine?	0.5587
+4185501	pred.base.1	<extra_id_0>, <extra_id_1> the sun shine?	0.6627
+4185501	pred.base.2	<extra_id_0>, <extra_id_1> the sun shines?	0.6627
+4185501	pred.base.3	<extra_id_0> the sun shines?	0.6627
+4185501	pred.base.8	<extra_id_0> the sun shines?	0.6627
+4185501	pred.base.7	<extra_id_0> the sun shines? Just how and why is the sun shining?	0.6378
+4190287	-1	why is switching schools so depressing?	0.4591
+4190287	pred.base.2	<extra_id_0> is switching schools so depressing?	0.5551
+4190287	pred.base.3	<extra_id_0> is switching schools so depressing?	0.5551
+4190287	pred.base.7	<extra_id_0> is Switching School depressing?	0.5306
+4196421	-1	how can you be more brilliant?	0.5063
+4196421	pred.base.6	<extra_id_0> you can be more brilliant?	0.6308
+4196421	pred.base.3	<extra_id_0>? How can you be more brilliant?	0.5063
+4197214	-1	why my gf feel like pissing during sexual intercourse?	0.4939
+4197214	pred.base.1	<extra_id_0> gf feels like pissing during sexual intercourse?	0.543
+4197214	pred.base.6	<extra_id_0> my gf feels like pissing during sexual intercourse?	0.5319
+4250296	-1	what do doctors do when a patient has a do nor resuscitate order?	0.2239
+4250296	pred.base.8	<extra_id_0> when a patient has a do nor resuscitate order? And <extra_id_1>, quand do doctors care when patients have do nor resuscitate orders?	0.4662
+4250296	pred.base.7	<extra_id_0> the patient? When you have a do nor resuscitate order, when do you come with an order? Does the patient need the medications?	0.4243
+4250296	pred.base.5	<extra_id_0> if the patient has a give nor resuscitation order?	0.3462
+4250296	pred.base.9	<extra_id_0> and how do doctors do when patients have a do nor resuscitate order?	0.235
+4250296	pred.base.1	<extra_id_0> what do doctors do when a patient has a do nor resuscitate order?	0.2239
+4250296	pred.base.2	<extra_id_0> what do doctors do when a patient has a do nor resuscitate order?	0.2239
+4256593	-1	how do i remove the simm card on a lg vx8300 cell phone?	0.7501
+4256593	pred.base.8	<extra_id_0> with chipset? <extra_id_1> watch <extra_id_2> simm card? How do i remove the simm card on a lg vx8300 cell phone?	0.7868
+4256593	pred.base.7	<extra_id_0> can i remove a simm card on a lg vx8300 cell phone? crispy block tablet Help??	0.7816
+4256593	pred.base.3	<extra_id_0> 40 various sessions on. <extra_id_1> how do i remove the sim card on a lg vx8300 cell phone?	0.7744
+4256593	pred.base.6	<extra_id_0> how do i remove the simm card on a lg vx8300 cell phone?	0.7501
+4256593	pred.base.9	<extra_id_0> how do I remove a simm card on a lg vx8300 cell phone?	0.7501
+4278201	-1	how does ultraviolet light affects seed germination and plant growth?	0.867
+4278201	pred.base.2	<extra_id_0> how does ultraviolet light affect seed germination and plant growth?	0.867
+4278201	pred.base.5	<extra_id_0>, <extra_id_1> how does ultraviolet light affect seed germination and plant growth?	0.867
+4283542	-1	i have had loose stools for a week...how do i make it stop?	0.3914
+4283542	pred.base.5	<extra_id_0> i have been loose stools for the past a week but have no stool stands now?	0.6809
+4283542	pred.base.8	<extra_id_0> i have lost two stools since 5. i have had loose stools for a week... <extra_id_1> can you help? ?	0.6038
+4283542	pred.base.6	<extra_id_0> i have had loose stools for a week. <extra_id_1> should i get more positive affirmations? !	0.4397
+4288761	-1	how can i stop my husband from exhuming my baby's body for compensation?	0.2323
+4288761	pred.base.7	<extra_id_0> to stop my husband signing in pharmaceuticals? <extra_id_1> in <extra_id_2>exhumation? <extra_id_3> exhuming my babys body? or can i get the husband to stop working one night?	0.2888
+4288761	pred.base.9	<extra_id_0> can i stop my husband from exhuming my babys body? :) <extra_id_1> how can you stop my husband exhuming my babys body for compensation?	0.2445
+4288761	pred.base.4	<extra_id_0> do i stop my husband from exhuming my babys body for compensation?	0.2356
+4311093	-1	why hot air rises up?	0.7067
+4311093	pred.base.9	<extra_id_0> hot air rises up.	0.7235
+4357460	-1	how to make my car faster?	0.2926
+4357460	pred.base.1	<extra_id_0> How to make my car faster? What do you mean by got faster in a car?	0.3297
+4365565	-1	how does water pressure change?	0.3858
+4365565	pred.base.10	<extra_id_0> from water pressure change?	0.5888
+4365565	pred.base.6	<extra_id_0> water pressure?	0.5558
+4365565	pred.base.3	<extra_id_0> does water pressure change?	0.5175
+4365565	pred.base.4	<extra_id_0> does water pressure change by product?	0.4464
+4365565	pred.base.8	<extra_id_0> GoToRest, <extra_id_1> water pressure change? What sort of water pressure change does rain change?	0.3923
+4365565	pred.base.1	<extra_id_0> how does the water pressure change?	0.3858
+4365565	pred.base.2	<extra_id_0> how does water pressure change?	0.3858
+4365565	pred.base.5	<extra_id_0> How does water pressure change?	0.3858
+4365565	pred.base.9	<extra_id_0> how does water pressure change?	0.3858
+4367654	-1	why is april 19th important?	0.3939
+4367654	pred.base.7	<extra_id_0> is 19th april important?	0.5958
+4367654	pred.base.8	Warum is april 19th important?	0.5958
+4367654	pred.base.6	Pourquoi le 19 april doit-il être april 19?	0.514
+4372730	-1	why doesn't the bible make any sense?	0.2184
+4372730	pred.base.8	<extra_id_0> if the bible makes sense?	0.4467
+4372730	pred.base.9	<extra_id_0> all of you have that the bible makes no sense?	0.3763
+4372730	pred.base.2	<extra_id_0> my episcopa, <extra_id_1> why doesnt the bible make any sense? Why cant the bible make any sense?	0.303
+4372730	pred.base.1	<extra_id_0> the moral of the bible? Would you understand this?. It’s not eternally untouched.. But why isnt the bible make sense?.	0.2491
+4372730	pred.base.3	<extra_id_0> , <extra_id_1> why doesnt the bible make any sense?  <extra_id_2> it would be a marvellous day. Although God makes some sense?	0.2421
+4377861	-1	how to handsew sequins?	0.9502
+4377861	pred.base.1	<extra_id_0> to use sequins?	0.9816
+4377861	pred.base.2	<extra_id_0> to handsew sequins?	0.9766
+4377861	pred.base.7	<extra_id_0> to handsew sequins?	0.9766
+4377861	pred.base.8	<extra_id_0> to classesew sequins?	0.9766
+4377861	pred.base.9	<extra_id_0> to handsew sequins?	0.9766
+4377861	pred.base.10	<extra_id_0> to sew some sequins?	0.9544
+4385316	-1	how do i keep black birds out of my bar-b-que grill?	0.3927
+4385316	pred.base.5	<extra_id_0> how do i keep black birds out of my bar-b-que grill?	0.3927
+4406669	-1	what do you order at taco bell?	0.4545
+4406669	pred.base.10	<extra_id_0> From taco bell!	0.4558
+4406669	pred.base.6	<extra_id_0> -what do you order at taco bell?	0.4545
+4448097	-1	what is innate immunity?	0.7279
+4448097	pred.base.4	<extra_id_0> With out innate immunity, what is the innate immune?	0.7426
+4448097	pred.base.6	<extra_id_0> And what is innate immunity?	0.7279
+4462511	-1	how do i know if my gold fish is pregnant?	0.565
+4462511	pred.base.1	<extra_id_0> i can tell if my gold fish is pregnant?	0.6026
+4467100	-1	what does sholomister mean?	0.0
+4467100	pred.base.6	<extra_id_0> sholomister - meaning sholomister ?	0.0898
+4467100	pred.base.8	<extra_id_0> sholomister means?	0.0898
+4473137	-1	causes and effects of the rise of christanity?	0.5264
+4473331	-1	how can i keep my rabit indoors?	0.3427
+4473331	pred.base.6	<extra_id_0> how can i keep my rabit indoors?	0.3427

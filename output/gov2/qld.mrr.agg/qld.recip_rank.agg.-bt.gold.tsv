@@ -1,0 +1,2860 @@
+qid	order	query	qld.recip_rank
+701	-1	U.S. oil industry history	0.2
+701	conceptluster.topn5.3.qld	u s oil industry history petroleum	1.0
+701	docluster.topn10.3.qld	u s oil industry history industri counti	1.0
+701	tagmee.topn3	u s oil industry history Petroleum	1.0
+701	termluster.topn5.3.qld	u s oil industry history industri field oil field state social region	1.0
+701	relevancefeedback.topn10.qld	u s oil industry history industri counti ga	0.5
+701	bertqe.topn10.bm25	f ossil nergi e nvir	0.25
+701	rm3.topn10.10.0.5.qld	u s oil industry history fuel ga energi price	0.2
+701	stem.krovetz	u s oil industry history	0.2
+701	stem.porter	u s oil industri histori	0.2
+701	stem.porter2	u s oil industri histori	0.2
+701	stem.sstemmer	u s oil industry history	0.2
+701	thesaurus.topn3	u s oil industry history	0.2
+701	thesaurus.topn3.replace	u s oil industry history	0.2
+702	-1	Pearl farming	1.0
+702	conceptluster.topn5.3.qld	pearl farming	1.0
+702	sensedisambiguation	Pearl farming	1.0
+702	sensedisambiguation.replace	pearl farming	1.0
+702	stem.krovetz	pearl farming	1.0
+702	stem.lovins	pearl farm	1.0
+702	stem.paicehusk	pearl farm	1.0
+702	stem.porter	pearl farm	1.0
+702	stem.porter2	pearl farm	1.0
+702	stem.sstemmer	pearl farming	1.0
+702	tagmee.topn3	pearl farming Pearl	1.0
+702	tagmee.topn3.replace	Pearl	1.0
+702	thesaurus.topn3	pearl farming	1.0
+702	thesaurus.topn3.replace	pearl farming	1.0
+702	word2vec.topn3	pearl farming necklace agriculture agricultural	1.0
+702	wordnet.topn3	pearl farming drop ivory off white agricultural land raise	1.0
+704	-1	Green party political views	0.5
+704	anchor.topn3	green party political views green windi treekrem k cup	0.5
+704	docluster.topn10.3.qld	green party political views parti	0.5
+704	relevancefeedback.topn10.qld	green party political views parti	0.5
+704	rm3.topn10.10.0.5.bm25	green party political views indonesia parti polit	0.5
+704	rm3.topn10.10.0.5.qld	green party political views parti	0.5
+704	sensedisambiguation.replace	green party political view	0.5
+704	stem.krovetz	green party politics view	0.5
+704	stem.paicehusk	green party polit view	0.5
+704	stem.porter	green parti polit view	0.5
+704	stem.porter2	green parti polit view	0.5
+704	stem.sstemmer	green party political view	0.5
+704	stem.trunc5	green party polit views	0.5
+704	termluster.topn5.3.qld	green party political views libertarian parti polit state polit nation state parti nation	0.5
+704	thesaurus.topn3	green party political views	0.5
+704	thesaurus.topn3.replace	green party political views	0.5
+705	-1	Iraq foreign debt reduction	1.0
+705	docluster.topn10.3.qld	iraq foreign debt reduction	1.0
+705	glove.topn3	iraq foreign debt reduction iraqi baghdad overseas ministry repay reducing	1.0
+705	glove.topn3.replace	iraqi baghdad overseas ministry repay reducing	1.0
+705	rm3.topn10.10.0.5.bm25	iraq foreign debt reduction develop we	1.0
+705	sensedisambiguation	Iraq foreign debt reduction	1.0
+705	sensedisambiguation.replace	iraq foreign debt reduction	1.0
+705	stem.krovetz	iraq foreign debt reduction	1.0
+705	stem.porter	iraq foreign debt reduct	1.0
+705	stem.porter2	iraq foreign debt reduct	1.0
+705	stem.sstemmer	iraq foreign debt reduction	1.0
+705	tagmee.topn3.replace	Iraq External debt Debt	1.0
+705	thesaurus.topn3	iraq foreign debt reduction	1.0
+705	thesaurus.topn3.replace	iraq foreign debt reduction	1.0
+705	word2vec.topn3	iraq foreign debt reduction iraq afghanistan iraqi domestic international indebtedness reducing	1.0
+706	-1	Controlling type II diabetes	0.2
+706	sensedisambiguation	Controlling see type II two diabetes	1.0
+706	sensedisambiguation.replace	see type two diabetes	1.0
+706	stem.krovetz	control type ii diabetes	0.2
+706	stem.porter	control type ii diabet	0.2
+706	stem.porter2	control type ii diabet	0.2
+706	stem.sstemmer	controlling type ii diabete	0.2
+706	thesaurus.topn3	controlling type ii diabetes	0.2
+706	thesaurus.topn3.replace	controlling type ii diabetes	0.2
+707	-1	Aspirin cancer prevention	1.0
+707	conceptluster.topn5.3.qld	aspirin cancer prevention cancer cancer prevention	1.0
+707	docluster.topn10.3.qld	aspirin cancer prevention	1.0
+707	glove.topn3	aspirin cancer prevention ibuprofen medications prostate breast combating cdc	1.0
+707	relevancefeedback.topn10.qld	aspirin cancer prevention claim	1.0
+707	rm3.topn10.10.0.5.bm25	aspirin cancer prevention i	1.0
+707	rm3.topn10.10.0.5.qld	aspirin cancer prevention	1.0
+707	sensedisambiguation	Aspirin cancer prevention	1.0
+707	sensedisambiguation.replace	aspirin cancer prevention	1.0
+707	stem.krovetz	aspirin cancer prevention	1.0
+707	stem.porter	aspirin cancer prevent	1.0
+707	stem.porter2	aspirin cancer prevent	1.0
+707	stem.sstemmer	aspirin cancer prevention	1.0
+707	tagmee.topn3	aspirin cancer prevention Aspirin Cancer Cancer prevention	1.0
+707	tagmee.topn3.replace	Aspirin Cancer Cancer prevention	1.0
+707	termluster.topn5.3.qld	aspirin cancer prevention cancer colon effect aspirin colon effect studi screen risk	1.0
+707	thesaurus.topn3	aspirin cancer prevention	1.0
+707	thesaurus.topn3.replace	aspirin cancer prevention	1.0
+707	wordnet.topn3	aspirin cancer prevention Bayer St Joseph malignant neoplastic disease bar	1.0
+707	wordnet.topn3.replace	acetylsalicylic acid St Joseph genus Cancer Cancer the Crab bar	1.0
+708	-1	Decorative slate sources	1.0
+708	bertqe.topn10.qld	research replac histor roof materi	1.0
+708	docluster.topn10.3.qld	decorative slate sources	1.0
+708	relevancefeedback.topn10.qld	decorative slate sources stone roof	1.0
+708	rm3.topn10.10.0.5.bm25	decorative slate sources roof	1.0
+708	rm3.topn10.10.0.5.qld	decorative slate sources roof	1.0
+708	stem.krovetz	decorative slate source	1.0
+708	stem.porter	decor slate sourc	1.0
+708	stem.porter2	decor slate sourc	1.0
+708	stem.sstemmer	decorative slate source	1.0
+708	stem.trunc5	decor slate sourc	1.0
+708	termluster.topn5.3.qld	decorative slate sources centuri color due	1.0
+708	thesaurus.topn3	decorative slate sources	1.0
+708	thesaurus.topn3.replace	decorative slate sources	1.0
+709	-1	Horse racing jockey weight	1.0
+709	anchor.topn3	horse racing jockey weight samaraa general virginia al diwaniya morabilla eroticid lungitz kheawcha oum sa nanwai jockey weight maximum ccir high molecular	1.0
+709	conceptluster.topn5.3.qld	horse racing jockey weight jockey	1.0
+709	conceptnet.topn3	horse racing jockey weight animal riding a bicycle rider measurement mass scale	1.0
+709	docluster.topn10.3.qld	horse racing jockey weight shall race	1.0
+709	glove.topn3	horse racing jockey weight rode racers racer rode load	1.0
+709	relevancefeedback.topn10.qld	horse racing jockey weight race hors shall	1.0
+709	rm3.topn10.10.0.5.bm25	horse racing jockey weight race hors shall	1.0
+709	rm3.topn10.10.0.5.qld	horse racing jockey weight hors race shall	1.0
+709	sensedisambiguation	Horse sawhorse racing rush jockey weight weight unit	1.0
+709	stem.krovetz	horse racing jockey weight	1.0
+709	stem.paicehusk	hors rac jockey weight	1.0
+709	stem.porter	hors race jockei weight	1.0
+709	stem.porter2	hors race jockey weight	1.0
+709	stem.sstemmer	horse racing jockey weight	1.0
+709	stem.trunc5	horse racin jocke weigh	1.0
+709	tagmee.topn3	horse racing jockey weight Horse racing Jockey	1.0
+709	tagmee.topn3.replace	Horse racing Jockey	1.0
+709	termluster.topn5.3.qld	horse racing jockey weight without win whip without win whip ani anoth assign	1.0
+709	thesaurus.topn3	horse racing jockey weight	1.0
+709	thesaurus.topn3.replace	horse racing jockey weight	1.0
+709	wiki.topn3	horse racing jockey weight sports betting horse racing jockey horse racing jockeys horstrainer horse trainers jockey	1.0
+709	wiki.topn3.replace	sports betting horse racing jockey horse racing jockeys horstrainer horse trainers jockey	1.0
+709	word2vec.topn3	horse racing jockey weight pony racers racer weight	1.0
+709	wordnet.topn3	horse racing jockey weight gymnastic horse sawbuck buck hotfoot rush along belt along chicane screw shaft angle burden system of weights	1.0
+710	-1	Prostate cancer treatments	1.0
+710	conceptluster.topn5.3.qld	prostate cancer treatments management cancer	1.0
+710	docluster.topn10.3.qld	prostate cancer treatments prostat	1.0
+710	relevancefeedback.topn10.qld	prostate cancer treatments prostat	1.0
+710	rm3.topn10.10.0.5.bm25	prostate cancer treatments prostat	1.0
+710	rm3.topn10.10.0.5.qld	prostate cancer treatments prostat	1.0
+710	sensedisambiguation	Prostate prostate gland cancer treatments treatment	1.0
+710	sensedisambiguation.replace	prostate gland cancer treatment	1.0
+710	stem.krovetz	prostate cancer treatment	1.0
+710	stem.lovins	prost cancer treatment	1.0
+710	stem.porter	prostat cancer treatment	1.0
+710	stem.porter2	prostat cancer treatment	1.0
+710	stem.sstemmer	prostate cancer treatment	1.0
+710	thesaurus.topn3	prostate cancer treatments	1.0
+710	thesaurus.topn3.replace	prostate cancer treatments	1.0
+710	word2vec.topn3	prostate cancer treatments testicular leukemia lymphoma therapies	1.0
+711	-1	Train station security measures	0.5
+711	glove.topn3	train station security measures bus operated adding ensure steps	1.0
+711	relevancefeedback.topn10.qld	train station security measures measur naval amtrak secur transport	1.0
+711	rm3.topn10.10.0.5.qld	train station security measures measur transit transport naval amtrak y	0.5
+711	stem.krovetz	train station security measure	0.5
+711	stem.porter	train station secur measur	0.5
+711	stem.porter2	train station secur measur	0.5
+711	stem.sstemmer	train station security measure	0.5
+711	tagmee.topn3	train station security measures Train station Airport security	0.5
+711	thesaurus.topn3	train station security measures	0.5
+711	thesaurus.topn3.replace	train station security measures	0.5
+712	-1	Pyramid scheme	1.0
+712	bertqe.topn10.bm25	pyramid scheme topic what you	1.0
+712	conceptluster.topn5.3.qld	pyramid scheme	1.0
+712	conceptnet.topn3	pyramid scheme programming language	1.0
+712	docluster.topn10.3.qld	pyramid scheme	1.0
+712	glove.topn3	pyramid scheme gigantic scam	1.0
+712	relevancefeedback.topn10.qld	pyramid scheme busi	1.0
+712	sensedisambiguation	Pyramid scheme system	1.0
+712	stem.krovetz	pyramid scheme	1.0
+712	stem.porter	pyramid scheme	1.0
+712	stem.porter2	pyramid scheme	1.0
+712	stem.sstemmer	pyramid scheme	1.0
+712	tagmee.topn3	pyramid scheme Pyramid scheme	1.0
+712	tagmee.topn3.replace	Pyramid scheme	1.0
+712	termluster.topn5.3.qld	pyramid scheme mai make monei mai make monei	1.0
+712	thesaurus.topn3	pyramid scheme	1.0
+712	thesaurus.topn3.replace	pyramid scheme	1.0
+712	word2vec.topn3	pyramid scheme pyramid like	1.0
+712	word2vec.topn3.replace	pyramid like scheme	1.0
+713	-1	Chesapeake Bay Maryland clean	0.3333
+713	relevancefeedback.topn10.qld	chesapeake bay maryland clean http marina bai	1.0
+713	rm3.topn10.10.0.5.bm25	chesapeake bay maryland clean program bai plan water	1.0
+713	stem.trunc5	chesa bay maryl clean	1.0
+713	rm3.topn10.10.0.5.qld	chesapeake bay maryland clean marina bai island	0.5
+713	sensedisambiguation.replace	Chesapeake true laurel maryland clean and jerk	0.5
+713	anchor.topn3	chesapeake bay maryland clean bay geographi kambuyi båtklubb maryland histori maryland educ arksansa root fungu tyvek geo therm	0.3333
+713	conceptluster.topn5.3.qld	chesapeake bay maryland clean	0.3333
+713	sensedisambiguation	Chesapeake Bay true laurel Maryland clean clean and jerk	0.3333
+713	stem.krovetz	chesapeake bay maryland clean	0.3333
+713	stem.lovins	chesapeak bay maryland clean	0.3333
+713	stem.porter	chesapeak bai maryland clean	0.3333
+713	stem.porter2	chesapeak bay maryland clean	0.3333
+713	stem.sstemmer	chesapeake bay maryland clean	0.3333
+713	thesaurus.topn3	chesapeake bay maryland clean	0.3333
+713	thesaurus.topn3.replace	chesapeake bay maryland clean	0.3333
+714	-1	License restrictions older drivers	1.0
+714	conceptluster.topn5.3.qld	license restrictions older drivers regulation driver s license	1.0
+714	docluster.topn10.3.qld	license restrictions older drivers renew driver restrict licens	1.0
+714	relevancefeedback.topn10.qld	license restrictions older drivers renew licens driver restrict	1.0
+714	rm3.topn10.10.0.5.qld	license restrictions older drivers driver renew licens	1.0
+714	stem.sstemmer	license restriction older driver	1.0
+714	tagmee.topn3	license restrictions older drivers License Regulation Driver s license	1.0
+714	tagmee.topn3.replace	License Regulation Driver s license	1.0
+714	thesaurus.topn3	license restrictions older drivers	1.0
+714	thesaurus.topn3.replace	license restrictions older drivers	1.0
+714	wiki.topn3	license restrictions older drivers inventory vendor tradsecret license policy consumer protection income regulation driving licences vehiclregistration motor vehicltheft driver s license	1.0
+715	-1	Schizophrenia drugs	1.0
+715	docluster.topn10.3.qld	schizophrenia drugs patient	1.0
+715	sensedisambiguation.replace	schizophrenia drug	1.0
+715	stem.krovetz	schizophrenia drug	1.0
+715	stem.porter	schizophrenia drug	1.0
+715	stem.porter2	schizophrenia drug	1.0
+715	stem.sstemmer	schizophrenia drug	1.0
+715	thesaurus.topn3	schizophrenia drugs	1.0
+715	thesaurus.topn3.replace	schizophrenia drugs	1.0
+715	wordnet.topn3	schizophrenia drugs dementia praecox schizophrenic psychosis do drugs dose	1.0
+715	wordnet.topn3.replace	schizophrenic psychosis dementia praecox dose do drugs	1.0
+716	-1	Spammer arrest sue	0.125
+716	conceptluster.topn5.3.qld	spammer arrest sue arrest lawsuit spamming	1.0
+716	relevancefeedback.topn10.qld	spammer arrest sue spam mail hr consum re email	1.0
+716	stem.lovins	spammer arrest su	1.0
+716	tagmee.topn3	spammer arrest sue Spamming Arrest Lawsuit	1.0
+716	tagmee.topn3.replace	Spamming Arrest Lawsuit	1.0
+716	sensedisambiguation	Spammer arrest halt sue	0.5
+716	sensedisambiguation.replace	spammer halt sue	0.5
+716	conceptnet.topn3	spammer arrest sue sender obstructing justice action	0.3333
+716	wordnet.topn3	spammer arrest sue nail contain stop litigate Eugene Sue	0.3333
+716	docluster.topn10.3.qld	spammer arrest sue spam	0.25
+716	rm3.topn10.10.0.5.qld	spammer arrest sue spam hr mail consum	0.2
+716	termluster.topn5.3.qld	spammer arrest sue consum legisl requir	0.2
+716	rm3.topn10.10.0.5.bm25	spammer arrest sue hr spam mail qmail consum	0.1667
+716	wordnet.topn3.replace	spammer stoppage hold back apprehension process Eugene Sue litigate	0.1429
+716	stem.porter	spammer arrest sue	0.125
+716	stem.porter2	spammer arrest sue	0.125
+716	stem.sstemmer	spammer arrest sue	0.125
+716	thesaurus.topn3	spammer arrest sue	0.125
+716	thesaurus.topn3.replace	spammer arrest sue	0.125
+717	-1	Gifted talented student programs	1.0
+717	anchor.topn3	gifted talented student programs disability terminolog raznochintsi intellectual publ romana tawqaña students	1.0
+717	conceptluster.topn5.3.qld	gifted talented student programs student gifted education master business administration	1.0
+717	docluster.topn10.3.qld	gifted talented student programs gift	1.0
+717	relevancefeedback.topn10.qld	gifted talented student programs gift g	1.0
+717	rm3.topn10.10.0.5.bm25	gifted talented student programs gift magnet	1.0
+717	rm3.topn10.10.0.5.qld	gifted talented student programs gift	1.0
+717	sensedisambiguation	Gifted give talented student programs program	1.0
+717	sensedisambiguation.replace	give talented student program	1.0
+717	stem.krovetz	gifted talented student program	1.0
+717	stem.porter	gift talent student program	1.0
+717	stem.porter2	gift talent student program	1.0
+717	stem.sstemmer	gifted talented student program	1.0
+717	tagmee.topn3	gifted talented student programs Gifted education Student Master of Business Administration	1.0
+717	tagmee.topn3.replace	Gifted education Student Master of Business Administration	1.0
+717	termluster.topn5.3.qld	gifted talented student programs academ curriculum develop student school requir perform school talent texa teacher state	1.0
+717	thesaurus.topn3	gifted talented student programs	1.0
+717	thesaurus.topn3.replace	gifted talented student programs	1.0
+717	word2vec.topn3	gifted talented student programs talented skilled gifted skilled multi talented teacher programmes	1.0
+717	word2vec.topn3.replace	talented skilled gifted skilled multi talented teacher programmes	1.0
+717	wordnet.topn3	gifted talented student programs talented give present gifted scholar bookman political program course of study	1.0
+718	-1	Controlling acid rain	1.0
+718	conceptluster.topn5.3.qld	controlling acid rain biological pest control acid rain	1.0
+718	docluster.topn10.3.qld	controlling acid rain unit	1.0
+718	glove.topn3	controlling acid rain sulfuric downpour	1.0
+718	glove.topn3.replace	controlling sulfuric downpour	1.0
+718	relevancefeedback.topn10.qld	controlling acid rain state unit regul	1.0
+718	rm3.topn10.10.0.5.bm25	controlling acid rain state new regul emiss program	1.0
+718	rm3.topn10.10.0.5.qld	controlling acid rain permit unit	1.0
+718	sensedisambiguation	Controlling see acid rain	1.0
+718	stem.krovetz	control acid rain	1.0
+718	stem.paicehusk	control acid rain	1.0
+718	stem.porter	control acid rain	1.0
+718	stem.porter2	control acid rain	1.0
+718	stem.sstemmer	controlling acid rain	1.0
+718	stem.trunc4	cont acid rain	1.0
+718	tagmee.topn3	controlling acid rain Biological pest control Acid rain	1.0
+718	termluster.topn5.3.qld	controlling acid rain state rain program air control pollut acid air control	1.0
+718	thesaurus.topn3	controlling acid rain	1.0
+718	thesaurus.topn3.replace	controlling acid rain	1.0
+719	-1	Cruise ship damage sea life	1.0
+719	anchor.topn3	cruise ship damage sea life kommuna cunnari communa normalhöhennul trsa vega apicomplexan kdblife nánjīng small	1.0
+719	conceptnet.topn3	cruise ship damage sea life ocean trip captain boat ocean water death	1.0
+719	glove.topn3	cruise ship damage sea life ship vessel caused ocean waters lives even	1.0
+719	sensedisambiguation	Cruise ship damage wrong sea life liveliness	1.0
+719	sensedisambiguation.replace	cruise ship wrong sea liveliness	1.0
+719	stem.krovetz	cruise ship damage sea life	1.0
+719	stem.sstemmer	cruise ship damage sea life	1.0
+719	tagmee.topn3	cruise ship damage sea life Cruise ship Marine biology	1.0
+719	thesaurus.topn3	cruise ship damage sea life	1.0
+719	thesaurus.topn3.replace	cruise ship damage sea life	1.0
+719	wiki.topn3	cruise ship damage sea life cruisline cruise ship templates holland america line cruise ship plankton oceanography ocean current marine biology	1.0
+719	wiki.topn3.replace	cruisline cruise ship templates holland america line cruise ship plankton oceanography ocean current marine biology	1.0
+720	-1	Federal welfare reform	0.3333
+720	bertqe.topn10.bm25	welfar reform how we know	1.0
+720	conceptnet.topn3	federal welfare reform national wellbeing	1.0
+720	relevancefeedback.topn10.qld	federal welfare reform welfar immigr state we	1.0
+720	rm3.topn10.10.0.5.qld	federal welfare reform state welfar immigr	1.0
+720	sensedisambiguation	Federal welfare wellbeing reform	1.0
+720	termluster.topn5.3.qld	federal welfare reform work welfar support work support state assist famili feder	1.0
+720	wiki.topn3	federal welfare reform constitutionalism representativdemocracy separation powers federalism manhattan institutfor policy research get thvote freto choose welfare reform	1.0
+720	wordnet.topn3	federal welfare reform Federal soldier wellbeing eudaimonia straighten out regenerate	1.0
+720	docluster.topn10.3.qld	federal welfare reform welfar state	0.5
+720	rm3.topn10.10.0.5.bm25	federal welfare reform state welfar	0.5
+720	sensedisambiguation.replace	federal wellbeing reform	0.5
+720	conceptluster.topn5.3.qld	federal welfare reform federalism welfare reform	0.3333
+720	conceptnet.topn3.replace	national wellbeing reform	0.3333
+720	glove.topn3	federal welfare reform enforcement government social reform legislation	0.3333
+720	stem.krovetz	federal welfare reform	0.3333
+720	stem.lovins	feder welfar reform	0.3333
+720	stem.paicehusk	fed welf reform	0.3333
+720	stem.porter	feder welfar reform	0.3333
+720	stem.porter2	feder welfar reform	0.3333
+720	stem.sstemmer	federal welfare reform	0.3333
+720	tagmee.topn3	federal welfare reform Federalism Welfare reform	0.3333
+720	tagmee.topn3.replace	Federalism Welfare reform	0.3333
+720	thesaurus.topn3	federal welfare reform	0.3333
+720	thesaurus.topn3.replace	federal welfare reform	0.3333
+721	-1	Census data applications	0.25
+721	glove.topn3	census data applications population inhabitants information analysis applying	1.0
+721	stem.trunc5	censu data appli	1.0
+721	sensedisambiguation.replace	census data application	0.25
+721	stem.krovetz	census data application	0.25
+721	stem.porter	censu data applic	0.25
+721	stem.porter2	census data applic	0.25
+721	stem.sstemmer	census data application	0.25
+721	tagmee.topn3	census data applications Census Data Application software	0.25
+721	thesaurus.topn3	census data applications	0.25
+721	thesaurus.topn3.replace	census data applications	0.25
+722	-1	Iran terrorism	1.0
+722	conceptluster.topn5.3.qld	iran terrorism iran state sponsored terrorism	1.0
+722	conceptnet.topn3	iran terrorism a person	1.0
+722	docluster.topn10.3.qld	iran terrorism	1.0
+722	relevancefeedback.topn10.qld	iran terrorism	1.0
+722	rm3.topn10.10.0.5.bm25	iran terrorism	1.0
+722	rm3.topn10.10.0.5.qld	iran terrorism	1.0
+722	sensedisambiguation	Iran terrorism	1.0
+722	sensedisambiguation.replace	iran terrorism	1.0
+722	stem.krovetz	iran terrorism	1.0
+722	stem.lovins	iran terror	1.0
+722	stem.porter	iran terror	1.0
+722	stem.porter2	iran terror	1.0
+722	stem.sstemmer	iran terrorism	1.0
+722	tagmee.topn3	iran terrorism Iran and state sponsored terrorism	1.0
+722	tagmee.topn3.replace	Iran and state sponsored terrorism	1.0
+722	termluster.topn5.3.qld	iran terrorism activ afghan alli year would war	1.0
+722	thesaurus.topn3	iran terrorism	1.0
+722	thesaurus.topn3.replace	iran terrorism	1.0
+722	word2vec.topn3	iran terrorism iranian Iran iran terrorist	1.0
+722	word2vec.topn3.replace	iranian Iran iran terrorist	1.0
+723	-1	Executive privilege	1.0
+723	anchor.topn3	executive privilege	1.0
+723	anchor.topn3.replace	executive privilege	1.0
+723	bertqe.topn10.bm25	rescind bush order paper linda	1.0
+723	conceptluster.topn5.3.qld	executive privilege	1.0
+723	rm3.topn10.10.0.5.bm25	executive privilege privileg presid see attornei	1.0
+723	rm3.topn10.10.0.5.qld	executive privilege presid privileg	1.0
+723	sensedisambiguation	Executive privilege	1.0
+723	sensedisambiguation.replace	executive privilege	1.0
+723	stem.krovetz	executive privilege	1.0
+723	stem.lovins	execut privileg	1.0
+723	stem.paicehusk	execut privileg	1.0
+723	stem.porter	execut privileg	1.0
+723	stem.porter2	execut privileg	1.0
+723	stem.sstemmer	executive privilege	1.0
+723	tagmee.topn3	executive privilege Executive privilege	1.0
+723	tagmee.topn3.replace	Executive privilege	1.0
+723	thesaurus.topn3	executive privilege	1.0
+723	thesaurus.topn3.replace	executive privilege	1.0
+724	-1	Iran Contra	1.0
+724	conceptnet.topn3	iran contra Nicaraguan	1.0
+724	conceptnet.topn3.replace	iran Nicaraguan	1.0
+724	docluster.topn10.3.qld	iran contra	1.0
+724	relevancefeedback.topn10.qld	iran contra defend cia casei	1.0
+724	rm3.topn10.10.0.5.bm25	iran contra casei cia defend record	1.0
+724	rm3.topn10.10.0.5.qld	iran contra casei cia defend	1.0
+724	sensedisambiguation	Iran Contra	1.0
+724	sensedisambiguation.replace	iran contra	1.0
+724	stem.krovetz	iran contra	1.0
+724	stem.porter	iran contra	1.0
+724	stem.porter2	iran contra	1.0
+724	stem.sstemmer	iran contra	1.0
+724	thesaurus.topn3	iran contra	1.0
+724	thesaurus.topn3.replace	iran contra	1.0
+725	-1	Low white blood cell count	0.5
+725	docluster.topn10.3.qld	low white blood cell count platelet	1.0
+725	glove.topn3	low white blood cell count high higher black brown heart urine cellular	1.0
+725	relevancefeedback.topn10.qld	low white blood cell count platelet your	1.0
+725	sensedisambiguation	Low white blood cell cellular telephone count	1.0
+725	anchor.topn3	low white blood cell count wor ul hh h low chlorophyl model chunlaud citharin imitation high energi an xeromi kultschitzsky apud scaroth count kosmoi	0.5
+725	conceptluster.topn5.3.qld	low white blood cell count white blood cell leukopenia	0.5
+725	conceptnet.topn3	low white blood cell count high depressed baritone cloud rice snow red be coursing through your veins fluid phone room prison numbers	0.5
+725	rm3.topn10.10.0.5.bm25	low white blood cell count slide mai benzen	0.5
+725	rm3.topn10.10.0.5.qld	low white blood cell count platelet leukocyt	0.5
+725	stem.krovetz	low white blood cell count	0.5
+725	stem.porter	low white blood cell count	0.5
+725	stem.porter2	low white blood cell count	0.5
+725	stem.sstemmer	low white blood cell count	0.5
+725	stem.trunc5	low white blood cell count	0.5
+725	tagmee.topn3	low white blood cell count Leukopenia White blood cell	0.5
+725	tagmee.topn3.replace	Leukopenia White blood cell	0.5
+725	thesaurus.topn3	low white blood cell count	0.5
+725	thesaurus.topn3.replace	low white blood cell count	0.5
+725	word2vec.topn3	low white blood cell count high lower higher black blue brown blood cellular	0.5
+725	wordnet.topn3	low white blood cell count small humble first whiten Edward Douglas White Jr White River pedigree rake cellphone mobile phone jail cell number weigh bet	0.5
+726	-1	Hubble telescope repairs	1.0
+726	anchor.topn3	hubble telescope repairs	1.0
+726	anchor.topn3.replace	hubble telescope repairs	1.0
+726	conceptluster.topn5.3.qld	hubble telescope repairs hubble space telescope	1.0
+726	glove.topn3	hubble telescope repairs telescope nasa hubble maintenance	1.0
+726	glove.topn3.replace	telescope nasa hubble maintenance	1.0
+726	sensedisambiguation	Hubble telescope repairs repair	1.0
+726	sensedisambiguation.replace	hubble telescope repair	1.0
+726	stem.krovetz	hubble telescope repair	1.0
+726	stem.lovins	hubbl telescop repair	1.0
+726	stem.paicehusk	hubbl telescop repair	1.0
+726	stem.porter	hubbl telescop repair	1.0
+726	stem.porter2	hubbl telescop repair	1.0
+726	stem.sstemmer	hubble telescope repair	1.0
+726	tagmee.topn3	hubble telescope repairs Hubble Space Telescope	1.0
+726	tagmee.topn3.replace	Hubble Space Telescope	1.0
+726	termluster.topn5.3.qld	hubble telescope repairs work telescop system work system space work telescop system	1.0
+726	thesaurus.topn3	hubble telescope repairs	1.0
+726	thesaurus.topn3.replace	hubble telescope repairs	1.0
+726	wiki.topn3	hubble telescope repairs great observatories program hubble space telescope standard candles hubble space telescope	1.0
+726	wiki.topn3.replace	great observatories program hubble space telescope standard candles hubble space telescope	1.0
+727	-1	Church arson	1.0
+727	bertqe.topn10.bm25	task forc nation church arson	1.0
+727	conceptluster.topn5.3.qld	church arson	1.0
+727	conceptnet.topn3	church arson cathedral bell a bell a crime involving fire	1.0
+727	docluster.topn10.3.qld	church arson	1.0
+727	glove.topn3	church arson catholic vandalism burglary	1.0
+727	glove.topn3.replace	catholic vandalism burglary	1.0
+727	relevancefeedback.topn10.qld	church arson	1.0
+727	rm3.topn10.10.0.5.bm25	church arson	1.0
+727	rm3.topn10.10.0.5.qld	church arson	1.0
+727	sensedisambiguation	Church church service arson	1.0
+727	sensedisambiguation.replace	church service arson	1.0
+727	stem.krovetz	church arson	1.0
+727	stem.lovins	church arson	1.0
+727	stem.paicehusk	church arson	1.0
+727	stem.porter	church arson	1.0
+727	stem.porter2	church arson	1.0
+727	stem.sstemmer	church arson	1.0
+727	tagmee.topn3	church arson Church arson	1.0
+727	tagmee.topn3.replace	Church arson	1.0
+727	termluster.topn5.3.qld	church arson arson feder fire church feder fire	1.0
+727	thesaurus.topn3	church arson	1.0
+727	thesaurus.topn3.replace	church arson	1.0
+727	wiki.topn3	church arson church arson	1.0
+727	wiki.topn3.replace	church arson	1.0
+727	word2vec.topn3	church arson chapel arsonists	1.0
+727	word2vec.topn3.replace	chapel arsonists	1.0
+727	wordnet.topn3	church arson church service church building Christian church incendiarism fire raising	1.0
+728	-1	whales save endangered	1.0
+728	anchor.topn3.replace	whales sos tako san tasuket endangered	1.0
+728	bertqe.topn10.bm25	text noaa right whale	1.0
+728	bertqe.topn10.qld	text noaa right whale protect	1.0
+728	conceptluster.topn5.3.qld	whales save endangered endangered species whale	1.0
+728	conceptnet.topn3	whales save endangered the ocean large marine mammals bones preserve plant vulnerable	1.0
+728	docluster.topn10.3.qld	whales save endangered whale	1.0
+728	glove.topn3	whales save endangered humpback imperiled wildlife	1.0
+728	relevancefeedback.topn10.qld	whales save endangered whale endang	1.0
+728	rm3.topn10.10.0.5.bm25	whales save endangered whale marin	1.0
+728	rm3.topn10.10.0.5.qld	whales save endangered whale endang	1.0
+728	stem.krovetz	whale save endanger	1.0
+728	stem.lovins	whal sav endanger	1.0
+728	stem.paicehusk	whal sav endang	1.0
+728	stem.porter	whale save endang	1.0
+728	stem.porter2	whale save endang	1.0
+728	stem.sstemmer	whale save endangered	1.0
+728	tagmee.topn3	whales save endangered Whale Endangered species	1.0
+728	tagmee.topn3.replace	Whale Endangered species	1.0
+728	termluster.topn5.3.qld	whales save endangered year servic report year whale servic	1.0
+728	thesaurus.topn3	whales save endangered	1.0
+728	thesaurus.topn3.replace	whales save endangered	1.0
+728	wiki.topn3	whales save endangered whales sea lion cetaceans whale iucn red list biota conservation status iucn red list endangered species	1.0
+728	wiki.topn3.replace	whales sea lion cetaceans whale iucn red list biota conservation status iucn red list endangered species	1.0
+728	word2vec.topn3	whales save endangered cetaceans dolphins imperiled endagered	1.0
+729	-1	Whistle blower department of defense	0.0159
+729	glove.topn3	whistle blower department defense blowing whistleblower administration defence	0.5
+729	word2vec.topn3	whistle blower department defense swanee whistle blowing dept defence	0.3333
+729	conceptluster.topn5.3.qld	whistle blower department defense whistleblower united states department defense	0.0833
+729	tagmee.topn3	whistle blower department defense Whistleblower United States Department of Defense	0.0833
+729	tagmee.topn3.replace	Whistleblower United States Department of Defense	0.0667
+729	glove.topn3.replace	blowing whistleblower administration defence	0.0625
+729	termluster.topn5.3.qld	whistle blower department defense said new govern depart govern said whistl said new	0.0435
+729	stem.paicehusk	whistl blow depart of defens	0.0333
+729	wiki.topn3	whistle blower department defense grounds termination employment insider trading conflict interest whistleblower nuclear weapons infrastructure united states military industrial complex government agencies established united states department defense	0.0323
+729	word2vec.topn3.replace	swanee whistle blowing dept defence	0.0244
+729	stem.krovetz	whistle blower department of defense	0.0159
+729	stem.sstemmer	whistle blower department of defense	0.0159
+729	thesaurus.topn3	whistle blower department defense	0.0159
+729	thesaurus.topn3.replace	whistle blower department defense	0.0159
+730	-1	Gastric bypass complications	0.5
+730	conceptluster.topn5.3.qld	gastric bypass complications gastric bypass surgery complication medicine	1.0
+730	tagmee.topn3	gastric bypass complications Gastric bypass surgery Complication medicine	1.0
+730	tagmee.topn3.replace	Gastric bypass surgery Complication medicine	1.0
+730	conceptnet.topn3	gastric bypass complications	0.5
+730	conceptnet.topn3.replace	gastric bypass complications	0.5
+730	docluster.topn10.3.qld	gastric bypass complications you weight surgeri	0.5
+730	rm3.topn10.10.0.5.qld	gastric bypass complications you weight obes surgeri health	0.5
+730	stem.krovetz	gastric bypass complication	0.5
+730	stem.porter	gastric bypass complic	0.5
+730	stem.porter2	gastric bypass complic	0.5
+730	stem.sstemmer	gastric bypass complication	0.5
+730	thesaurus.topn3	gastric bypass complications	0.5
+730	thesaurus.topn3.replace	gastric bypass complications	0.5
+730	wordnet.topn3	gastric bypass complications stomachic stomachal ringway electrical shunt tortuousness ramification	0.5
+731	-1	Kurds history	0.1111
+731	conceptnet.topn3	kurds history past subject school	1.0
+731	conceptnet.topn3.replace	kurds past subject school	1.0
+731	glove.topn3	kurds history kurdish sunnis historical ever	1.0
+731	stem.lovins	kurd histor	1.0
+731	stem.paicehusk	kurd hist	1.0
+731	stem.trunc4	kurd hist	1.0
+731	word2vec.topn3	kurds history kurdish history	1.0
+731	word2vec.topn3.replace	kurdish history	1.0
+731	wordnet.topn3.replace	kurds account chronicle	1.0
+731	glove.topn3.replace	kurdish sunnis historical ever	0.5
+731	sensedisambiguation	Kurds kurd history	0.2
+731	wordnet.topn3	kurds history story chronicle	0.125
+731	sensedisambiguation.replace	kurd history	0.1111
+731	stem.krovetz	kurd history	0.1111
+731	stem.porter	kurd histori	0.1111
+731	stem.porter2	kurd histori	0.1111
+731	stem.sstemmer	kurd history	0.1111
+731	tagmee.topn3	kurds history Kurds History	0.1111
+731	tagmee.topn3.replace	Kurds History	0.1111
+731	thesaurus.topn3	kurds history	0.1111
+731	thesaurus.topn3.replace	kurds history	0.1111
+732	-1	U.S. cheese production	0.25
+732	glove.topn3	u s cheese production us u s cheddar producing produced	1.0
+732	glove.topn3.replace	us u s cheddar producing produced	1.0
+732	rm3.topn10.10.0.5.bm25	u s cheese production product milk dairi import export	1.0
+732	rm3.topn10.10.0.5.qld	u s cheese production product dairi export import milk u cooper	1.0
+732	word2vec.topn3.replace	usa u s american cheddar producing	1.0
+732	word2vec.topn3	u s cheese production usa u s american cheddar producing	0.5
+732	wordnet.topn3	u s cheese production United States government USA US cheeseflower high mallow output yield	0.5
+732	conceptluster.topn5.3.qld	u s cheese production	0.25
+732	relevancefeedback.topn10.qld	u s cheese production b chees milk import u i product	0.25
+732	stem.krovetz	u s cheese production	0.25
+732	stem.sstemmer	u s cheese production	0.25
+732	tagmee.topn3	u s cheese production	0.25
+732	thesaurus.topn3	u s cheese production	0.25
+732	thesaurus.topn3.replace	u s cheese production	0.25
+732	wiki.topn3	u s cheese production	0.25
+733	-1	Airline overbooking	1.0
+733	anchor.topn3	airline overbooking	1.0
+733	anchor.topn3.replace	airline overbooking	1.0
+733	bertqe.topn10.qld	bump most frequent becaus overbook	1.0
+733	conceptluster.topn5.3.qld	airline overbooking overselling	1.0
+733	conceptnet.topn3	airline overbooking	1.0
+733	conceptnet.topn3.replace	airline overbooking	1.0
+733	docluster.topn10.3.qld	airline overbooking airlin consum you	1.0
+733	glove.topn3	airline overbooking airways mangxamba	1.0
+733	relevancefeedback.topn10.qld	airline overbooking airlin consum you	1.0
+733	rm3.topn10.10.0.5.bm25	airline overbooking airlin consum your you	1.0
+733	rm3.topn10.10.0.5.qld	airline overbooking airlin you consum	1.0
+733	sensedisambiguation	Airline overbooking	1.0
+733	sensedisambiguation.replace	airline overbooking	1.0
+733	stem.krovetz	airline overbooke	1.0
+733	stem.paicehusk	airlin overbook	1.0
+733	stem.porter	airlin overbook	1.0
+733	stem.porter2	airlin overbook	1.0
+733	stem.sstemmer	airline overbooking	1.0
+733	tagmee.topn3	airline overbooking Airline Overselling	1.0
+733	tagmee.topn3.replace	Airline Overselling	1.0
+733	termluster.topn5.3.qld	airline overbooking ticket overbook flight ticket flight airlin	1.0
+733	thesaurus.topn3	airline overbooking	1.0
+733	thesaurus.topn3.replace	airline overbooking	1.0
+733	wiki.topn3	airline overbooking airlines air charter boeing airline travel technology global distribution system track trace overselling	1.0
+733	wiki.topn3.replace	airlines air charter boeing airline travel technology global distribution system track trace overselling	1.0
+733	word2vec.topn3	airline overbooking	1.0
+733	word2vec.topn3.replace	airline overbooking	1.0
+733	wordnet.topn3	airline overbooking airway air hose	1.0
+734	-1	Recycling successes	0.5
+734	rm3.topn10.10.0.5.bm25	recycling successes project counti	1.0
+734	stem.lovins	recycl succes	1.0
+734	word2vec.topn3	recycling successes recyling triumphs achievements failures	1.0
+734	wordnet.topn3	recycling successes reuse reprocess winner achiever succeeder	1.0
+734	anchor.topn3	recycling successes	0.5
+734	anchor.topn3.replace	recycling successes	0.5
+734	conceptluster.topn5.3.qld	recycling successes	0.5
+734	docluster.topn10.3.qld	recycling successes mr recycl	0.5
+734	sensedisambiguation	Recycling recycle successes success	0.5
+734	sensedisambiguation.replace	recycle success	0.5
+734	stem.krovetz	recycle success	0.5
+734	stem.porter	recycl success	0.5
+734	stem.porter2	recycl success	0.5
+734	stem.sstemmer	recycling successe	0.5
+734	tagmee.topn3	recycling successes	0.5
+734	thesaurus.topn3	recycling successes	0.5
+734	thesaurus.topn3.replace	recycling successes	0.5
+734	wiki.topn3	recycling successes	0.5
+735	-1	Afghan women condition	1.0
+735	bertqe.topn10.bm25	issu afghan reconstruct basic principl	1.0
+735	conceptluster.topn5.3.qld	afghan women condition women s rights afghanistan afghanistan	1.0
+735	docluster.topn10.3.qld	afghan women condition	1.0
+735	glove.topn3	afghan women condition afghanistan men girls although anonymity	1.0
+735	glove.topn3.replace	afghanistan men girls although anonymity	1.0
+735	relevancefeedback.topn10.qld	afghan women condition	1.0
+735	rm3.topn10.10.0.5.bm25	afghan women condition	1.0
+735	rm3.topn10.10.0.5.qld	afghan women condition	1.0
+735	stem.krovetz	afghanistan women condition	1.0
+735	stem.lovins	afghan wom condit	1.0
+735	stem.porter	afghan women condit	1.0
+735	stem.porter2	afghan women condit	1.0
+735	stem.sstemmer	afghan women condition	1.0
+735	tagmee.topn3	afghan women condition Afghanistan Women s rights in Afghanistan	1.0
+735	tagmee.topn3.replace	Afghanistan Women s rights in Afghanistan	1.0
+735	thesaurus.topn3	afghan women condition	1.0
+735	thesaurus.topn3.replace	afghan women condition	1.0
+735	wiki.topn3	afghan women condition states territories established territories military occupation education afghanistan afghanistan women afghanistan afghan peacjirga afghan presidential election women s rights afghanistan	1.0
+735	wiki.topn3.replace	states territories established territories military occupation education afghanistan afghanistan women afghanistan afghan peacjirga afghan presidential election women s rights afghanistan	1.0
+735	word2vec.topn3	afghan women condition afghanistan men woman situation	1.0
+735	word2vec.topn3.replace	afghanistan men woman situation	1.0
+736	-1	location BSE infections	1.0
+736	bertqe.topn10.qld	slaughter nearli risk cow	1.0
+736	conceptluster.topn5.3.qld	location bse infections infection heart bovine spongiform encephalopathy	1.0
+736	conceptnet.topn3	location bse infections place address a disease	1.0
+736	docluster.topn10.3.qld	location bse infections cattl	1.0
+736	glove.topn3	location bse infections vicinity bovine spongiform pneumonia	1.0
+736	relevancefeedback.topn10.qld	location bse infections anim infect cattl risk	1.0
+736	rm3.topn10.10.0.5.bm25	location bse infections sheep	1.0
+736	rm3.topn10.10.0.5.qld	location bse infections cattl risk anim	1.0
+736	sensedisambiguation	location placement BSE bovine spongiform encephalitis infections infection	1.0
+736	sensedisambiguation.replace	placement bovine spongiform encephalitis infection	1.0
+736	stem.krovetz	location bse infection	1.0
+736	stem.paicehusk	loc bse infect	1.0
+736	stem.porter	locat bse infect	1.0
+736	stem.porter2	locat bse infect	1.0
+736	stem.sstemmer	location bse infection	1.0
+736	tagmee.topn3	location bse infections Heart Bovine spongiform encephalopathy Infection	1.0
+736	tagmee.topn3.replace	Heart Bovine spongiform encephalopathy Infection	1.0
+736	termluster.topn5.3.qld	location bse infections anim infect unit usda unit total	1.0
+736	thesaurus.topn3	location bse infections	1.0
+736	thesaurus.topn3.replace	location bse infections	1.0
+736	wiki.topn3	location bse infections cardiaanatomy heart kidney heart transmissible spongiform encephalopathies genetically modified food genetically modified organism bovine spongiform encephalopathy antibiotics urinary bladder pancreas infection	1.0
+736	wordnet.topn3	location bse infections positioning placement position bovine spongiform encephalitis mad cow disease transmission contagion	1.0
+737	-1	Enron California energy crisis	1.0
+737	conceptluster.topn5.3.qld	enron california energy crisis california electricity crisis	1.0
+737	conceptnet.topn3	enron california energy crisis bankruptcy evil a state a lizard a state in the USA Exercising power heat depression	1.0
+737	docluster.topn10.3.qld	enron california energy crisis energi	1.0
+737	glove.topn3	enron california energy crisis worldcom skilling calif oregon electricity renewable turmoil crises	1.0
+737	relevancefeedback.topn10.qld	enron california energy crisis energi iso	1.0
+737	rm3.topn10.10.0.5.bm25	enron california energy crisis ferc market pge iso	1.0
+737	rm3.topn10.10.0.5.qld	enron california energy crisis energi market	1.0
+737	sensedisambiguation	Enron California energy crisis	1.0
+737	sensedisambiguation.replace	Enron california energy crisis	1.0
+737	stem.krovetz	enron california energy crisis	1.0
+737	stem.lovins	enron californ energ cris	1.0
+737	stem.porter	enron california energi crisi	1.0
+737	stem.porter2	enron california energi crisi	1.0
+737	stem.sstemmer	enron california energy crisi	1.0
+737	stem.trunc5	enron calif energ crisi	1.0
+737	tagmee.topn3	enron california energy crisis Enron California electricity crisis	1.0
+737	tagmee.topn3.replace	Enron California electricity crisis	1.0
+737	termluster.topn5.3.qld	enron california energy crisis california commiss crisi commiss crisi energi state regulatori market state regulatori market	1.0
+737	thesaurus.topn3	enron california energy crisis	1.0
+737	thesaurus.topn3.replace	enron california energy crisis	1.0
+737	wiki.topn3	enron california energy crisis arthur andersen corporattitle defunct energy companies enron economihistory california electripower united states calstrs california electricity crisis	1.0
+737	wiki.topn3.replace	arthur andersen corporattitle defunct energy companies enron economihistory california electripower united states calstrs california electricity crisis	1.0
+737	wordnet.topn3	enron california energy crisis Golden State Calif CA push vigor vitality	1.0
+737	wordnet.topn3.replace	enron Calif CA vigour get up and go crisis	1.0
+738	-1	Anthrax hoaxes	1.0
+738	anchor.topn3	anthrax hoaxes barybela attacker kelsorum	1.0
+738	conceptluster.topn5.3.qld	anthrax hoaxes	1.0
+738	docluster.topn10.3.qld	anthrax hoaxes hoax	1.0
+738	relevancefeedback.topn10.qld	anthrax hoaxes hoax u i we	1.0
+738	rm3.topn10.10.0.5.bm25	anthrax hoaxes hoax i we were	1.0
+738	rm3.topn10.10.0.5.qld	anthrax hoaxes hoax we i	1.0
+738	sensedisambiguation	Anthrax hoaxes fraud	1.0
+738	stem.krovetz	anthrax hoax	1.0
+738	stem.paicehusk	anthrax hoax	1.0
+738	stem.porter	anthrax hoax	1.0
+738	stem.porter2	anthrax hoax	1.0
+738	stem.sstemmer	anthrax hoaxe	1.0
+738	tagmee.topn3	anthrax hoaxes Anthrax hoaxes	1.0
+738	tagmee.topn3.replace	Anthrax hoaxes	1.0
+738	termluster.topn5.3.qld	anthrax hoaxes emerg feder hoax year would threat	1.0
+738	thesaurus.topn3	anthrax hoaxes	1.0
+738	thesaurus.topn3.replace	anthrax hoaxes	1.0
+738	wiki.topn3.replace	ames strain health new york officof laboratory animal welfare anthrax hoaxes	1.0
+738	word2vec.topn3	anthrax hoaxes bioterror bioterrorism	1.0
+738	word2vec.topn3.replace	bioterror bioterrorism hoaxes	1.0
+739	-1	Habitat for Humanity	0.3333
+739	relevancefeedback.topn10.qld	habitat for humanity assess faith diseas	1.0
+739	rm3.topn10.10.0.5.bm25	habitat for humanity hous faith indiana	1.0
+739	rm3.topn10.10.0.5.qld	habitat for humanity faith hous	1.0
+739	sensedisambiguation	Habitat for Humanity world	1.0
+739	termluster.topn5.3.qld	habitat humanity human servic servic habitat	1.0
+739	wiki.topn3	habitat humanity sumter county georgia united way america homeless shelter habitat humanity	1.0
+739	wiki.topn3.replace	sumter county georgia united way america homeless shelter habitat humanity	0.5
+739	conceptluster.topn5.3.qld	habitat humanity	0.3333
+739	docluster.topn10.3.qld	habitat for humanity	0.3333
+739	stem.krovetz	habitat for humanity	0.3333
+739	stem.lovins	habitat for human	0.3333
+739	stem.porter	habitat for human	0.3333
+739	stem.porter2	habitat for human	0.3333
+739	stem.sstemmer	habitat for humanity	0.3333
+739	tagmee.topn3	habitat humanity Habitat for Humanity	0.3333
+739	tagmee.topn3.replace	Habitat for Humanity	0.3333
+739	thesaurus.topn3	habitat humanity	0.3333
+739	thesaurus.topn3.replace	habitat humanity	0.3333
+740	-1	regulate assisted living Maryland	1.0
+740	anchor.topn3	regulate assisted living maryland gingerpig seareal caballero maryland histori maryland educ arksansa	1.0
+740	sensedisambiguation	regulate assisted serve living support Maryland	1.0
+740	stem.krovetz	regulate assist living maryland	1.0
+740	stem.porter	regul assist live maryland	1.0
+740	stem.porter2	regul assist live maryland	1.0
+740	stem.sstemmer	regulate assisted living maryland	1.0
+740	tagmee.topn3	regulate assisted living maryland Regulation Assisted living Maryland	1.0
+740	tagmee.topn3.replace	Regulation Assisted living Maryland	1.0
+740	thesaurus.topn3	regulate assisted living maryland	1.0
+740	thesaurus.topn3.replace	regulate assisted living maryland	1.0
+741	-1	Artificial Intelligence	0.125
+741	conceptnet.topn3	artificial intelligence learning United States intelligence agency	0.3333
+741	conceptnet.topn3.replace	artificial learning United States intelligence agency	0.3333
+741	word2vec.topn3	artificial intelligence artifical synthetic intellegence intelligence	0.3333
+741	relevancefeedback.topn10.qld	artificial intelligence class artifici intellig s http	0.2
+741	wordnet.topn3	artificial intelligence unreal hokey intelligence service tidings intelligence agency	0.1667
+741	wiki.topn3	artificial intelligence unsolved problems computer science computational neuroscience simulation artificial intelligence	0.1429
+741	conceptluster.topn5.3.qld	artificial intelligence artificial intelligence	0.125
+741	stem.krovetz	artificial intelligence	0.125
+741	stem.porter	artifici intellig	0.125
+741	stem.porter2	artifici intellig	0.125
+741	stem.sstemmer	artificial intelligence	0.125
+741	tagmee.topn3	artificial intelligence Artificial intelligence	0.125
+741	tagmee.topn3.replace	Artificial intelligence	0.125
+741	thesaurus.topn3	artificial intelligence	0.125
+741	thesaurus.topn3.replace	artificial intelligence	0.125
+742	-1	hedge funds fraud protection	1.0
+742	anchor.topn3	hedge funds fraud protection fraud fixing match states disney use ahea	1.0
+742	anchor.topn3.replace	hedge funds fraud fixing match states disney use ahea	1.0
+742	conceptluster.topn5.3.qld	hedge funds fraud protection security finance hedge fund fraud	1.0
+742	docluster.topn10.3.qld	hedge funds fraud protection fund	1.0
+742	glove.topn3	hedge funds fraud protection investments fund money fraudulent embezzlement	1.0
+742	relevancefeedback.topn10.qld	hedge funds fraud protection fund invest	1.0
+742	rm3.topn10.10.0.5.qld	hedge funds fraud protection fund	1.0
+742	sensedisambiguation	hedge funds store fraud imposter protection security	1.0
+742	stem.krovetz	hedge funds fraud protection	1.0
+742	stem.lovins	hedg fund fraud protect	1.0
+742	stem.paicehusk	hedg fund fraud protect	1.0
+742	stem.porter	hedg fund fraud protect	1.0
+742	stem.porter2	hedg fund fraud protect	1.0
+742	stem.sstemmer	hedge fund fraud protection	1.0
+742	stem.trunc5	hedge funds fraud prote	1.0
+742	tagmee.topn3	hedge funds fraud protection Hedge fund Fraud Security finance	1.0
+742	tagmee.topn3.replace	Hedge fund Fraud Security finance	1.0
+742	thesaurus.topn3	hedge funds fraud protection	1.0
+742	thesaurus.topn3.replace	hedge funds fraud protection	1.0
+742	wiki.topn3	hedge funds fraud protection trader finance leveraged buyout arthur andersen hedge fund embezzlement extortion indictment fraud financial institution deposit account equity finance security finance	1.0
+742	word2vec.topn3	hedge funds fraud protection monies fraudulent	1.0
+742	wordnet.topn3	hedge funds fraud protection elude hedge in put off monetary resource investment firm pecuniary resource role player pseud protective covering auspices shelter	1.0
+743	-1	Freighter ship registration	0.2
+743	bertqe.topn10.bm25	under flag conveni nation secur	1.0
+743	termluster.topn5.3.qld	freighter ship registration vessel	1.0
+743	glove.topn3	freighter ship registration ship vessel voter identification	0.5
+743	tagmee.topn3.replace	Cargo ship Cargo ship Ship registration	0.5
+743	tagmee.topn3	freighter ship registration Cargo ship Cargo ship Ship registration	0.3333
+743	conceptluster.topn5.3.qld	freighter ship registration ship registration cargo ship	0.25
+743	stem.lovins	freighter ship register	0.25
+743	word2vec.topn3	freighter ship registration cargo tanker vessel warship registering	0.25
+743	docluster.topn10.3.qld	freighter ship registration	0.2
+743	stem.krovetz	freighter ship registration	0.2
+743	stem.porter	freighter ship registr	0.2
+743	stem.porter2	freighter ship registr	0.2
+743	stem.sstemmer	freighter ship registration	0.2
+743	thesaurus.topn3	freighter ship registration	0.2
+743	thesaurus.topn3.replace	freighter ship registration	0.2
+744	-1	Counterfeit ID punishments	0.0
+744	glove.topn3	counterfeit id punishments fake identification meted	0.2
+744	glove.topn3.replace	fake identification meted	0.0833
+744	stem.paicehusk	counterfeit id pun	0.0189
+744	conceptnet.topn3.replace	counterfeit Idaho buying a beer Sentences	0.0135
+744	conceptnet.topn3	counterfeit id punishments Idaho buying a beer Sentences	0.0119
+744	sensedisambiguation.replace	counterfeit idaho punishment	0.0116
+744	wiki.topn3	counterfeit id punishments counterfeiters forgery theft counterfeit transactional analysis brief reactivpsychosis neurosis id ego super ego necessity retributivjustice mobbing punishment	0.0112
+744	wiki.topn3.replace	counterfeiters forgery theft counterfeit transactional analysis brief reactivpsychosis neurosis id ego super ego necessity retributivjustice mobbing punishment	0.0109
+745	-1	Doomsday cults	1.0
+745	anchor.topn3	doomsday cults rustavelian decasyllab sharky	1.0
+745	conceptluster.topn5.3.qld	doomsday cults	1.0
+745	docluster.topn10.3.qld	doomsday cults cult	1.0
+745	glove.topn3	doomsday cults cult aum sects	1.0
+745	glove.topn3.replace	cult aum sects	1.0
+745	relevancefeedback.topn10.qld	doomsday cults cult religion religi	1.0
+745	rm3.topn10.10.0.5.bm25	doomsday cults cult religion religi	1.0
+745	rm3.topn10.10.0.5.qld	doomsday cults cult religion biolog	1.0
+745	stem.krovetz	doomsday cult	1.0
+745	stem.paicehusk	doomsday cult	1.0
+745	stem.porter	doomsdai cult	1.0
+745	stem.porter2	doomsday cult	1.0
+745	stem.sstemmer	doomsday cult	1.0
+745	tagmee.topn3	doomsday cults Doomsday cult	1.0
+745	tagmee.topn3.replace	Doomsday cult	1.0
+745	termluster.topn5.3.qld	doomsday cults number new	1.0
+745	thesaurus.topn3	doomsday cults	1.0
+745	thesaurus.topn3.replace	doomsday cults	1.0
+745	wiki.topn3	doomsday cults unification church neologisms mind control messiah complex doomsday cult	1.0
+745	wiki.topn3.replace	unification church neologisms mind control messiah complex doomsday cult	1.0
+745	word2vec.topn3	doomsday cults apocalypse apocalyptic end of the world sects	1.0
+746	-1	Outsource job India	1.0
+746	conceptluster.topn5.3.qld	outsource job india outsourcing job	1.0
+746	docluster.topn10.3.qld	outsource job india we evan	1.0
+746	glove.topn3	outsource job india working indian pakistan	1.0
+746	glove.topn3.replace	outsource working indian pakistan	1.0
+746	relevancefeedback.topn10.qld	outsource job india engin my evan we ocwen	1.0
+746	rm3.topn10.10.0.5.bm25	outsource job india evan ocwen engin we data	1.0
+746	rm3.topn10.10.0.5.qld	outsource job india evan engin ocwen we my	1.0
+746	sensedisambiguation	Outsource job problem India	1.0
+746	sensedisambiguation.replace	outsource problem india	1.0
+746	stem.krovetz	outsource job india	1.0
+746	stem.lovins	outsourc job ind	1.0
+746	stem.paicehusk	outsourc job ind	1.0
+746	stem.porter	outsourc job india	1.0
+746	stem.porter2	outsourc job india	1.0
+746	stem.sstemmer	outsource job india	1.0
+746	tagmee.topn3	outsource job india Outsourcing Job India	1.0
+746	tagmee.topn3.replace	Outsourcing Job India	1.0
+746	termluster.topn5.3.qld	outsource job india work well unit american busi compani american busi compani	1.0
+746	thesaurus.topn3	outsource job india	1.0
+746	thesaurus.topn3.replace	outsource job india	1.0
+746	wiki.topn3	outsource job india market share takeover restructuring outsourcing psychopathy thworkplace gold collar worker job description job states territories established india hindustani speaking countries territories india	1.0
+746	wiki.topn3.replace	market share takeover restructuring outsourcing psychopathy thworkplace gold collar worker job description job states territories established india hindustani speaking countries territories india	1.0
+746	wordnet.topn3	outsource job india Book of Job task Republic of India Bharat	1.0
+746	wordnet.topn3.replace	outsource caper business Bharat Republic of India	1.0
+747	-1	Library computer oversight	0.5
+747	glove.topn3	library computer oversight archive software supervision accountability	1.0
+747	rm3.topn10.10.0.5.bm25	library computer oversight cost comput exce	1.0
+747	sensedisambiguation	Library computer oversight supervision	1.0
+747	wiki.topn3	library computer oversight libraries book promotion public library library computers computer hardware software computer policy consumer protection income regulation	1.0
+747	wiki.topn3.replace	libraries book promotion public library library computers computer hardware software computer policy consumer protection income regulation	1.0
+747	conceptluster.topn5.3.qld	library computer oversight regulation computer	0.5
+747	conceptnet.topn3	library computer oversight	0.5
+747	conceptnet.topn3.replace	library computer oversight	0.5
+747	stem.krovetz	library computer oversight	0.5
+747	stem.porter	librari comput oversight	0.5
+747	stem.porter2	librari comput oversight	0.5
+747	stem.sstemmer	library computer oversight	0.5
+747	thesaurus.topn3	library computer oversight	0.5
+747	thesaurus.topn3.replace	library computer oversight	0.5
+748	-1	Nuclear reactor types	0.5
+748	anchor.topn3	nuclear reactor types kernkraftwerk kkl union frussia reactor romawa reactor adam core	1.0
+748	anchor.topn3.replace	kernkraftwerk kkl union frussia reactor romawa reactor adam core types	1.0
+748	wiki.topn3	nuclear reactor types nuclear fission uranium nuclear fuel nuclear reactor ellipsoidal reflector spotlight sourcfour fresnel lantern parabolic aluminized reflector light	1.0
+748	sensedisambiguation	Nuclear reactor nuclear reactor types type	0.5
+748	sensedisambiguation.replace	nuclear nuclear reactor type	0.5
+748	stem.krovetz	nuclear reactor type	0.5
+748	stem.porter	nuclear reactor type	0.5
+748	stem.porter2	nuclear reactor type	0.5
+748	stem.sstemmer	nuclear reactor type	0.5
+748	thesaurus.topn3	nuclear reactor types	0.5
+748	thesaurus.topn3.replace	nuclear reactor types	0.5
+748	wiki.topn3.replace	nuclear fission uranium nuclear fuel nuclear reactor ellipsoidal reflector spotlight sourcfour fresnel lantern parabolic aluminized reflector light	0.5
+749	-1	Puerto Rico state	0.2
+749	glove.topn3	puerto rico state rico rican puerto pwehr federal	1.0
+749	glove.topn3.replace	rico rican puerto pwehr federal	1.0
+749	sensedisambiguation	Puerto Rico anti racketeering law state state of matter	1.0
+749	word2vec.topn3	puerto rico state rican rico ricans puerto ricans rican federal	1.0
+749	anchor.topn3	puerto rico state rico melanesotypu rico barrio puerto rico barrio rico histori daflepur hyperaggress hsiwan	0.3333
+749	anchor.topn3.replace	rico melanesotypu rico barrio puerto rico barrio rico histori daflepur hyperaggress hsiwan	0.25
+749	word2vec.topn3.replace	rican rico ricans puerto ricans rican federal	0.25
+749	docluster.topn10.3.qld	puerto rico state	0.2
+749	rm3.topn10.10.0.5.bm25	puerto rico state de	0.2
+749	rm3.topn10.10.0.5.qld	puerto rico state	0.2
+749	stem.krovetz	puerto rico state	0.2
+749	stem.porter	puerto rico state	0.2
+749	stem.porter2	puerto rico state	0.2
+749	stem.sstemmer	puerto rico state	0.2
+749	termluster.topn5.3.qld	puerto rico state flore mai rico flore mai puerto	0.2
+749	thesaurus.topn3	puerto rico state	0.2
+749	thesaurus.topn3.replace	puerto rico state	0.2
+750	-1	John Edwards womens issues	0.0588
+750	stem.krovetz	john edwards women issue	0.0588
+750	stem.lovins	john edward women issu	0.0588
+750	stem.porter	john edward women issu	0.0588
+750	stem.porter2	john edward women issu	0.0588
+750	stem.sstemmer	john edward women issue	0.0588
+750	thesaurus.topn3	john edwards womens issues	0.0588
+750	thesaurus.topn3.replace	john edwards womens issues	0.0588
+751	-1	Scrabble Players	1.0
+751	anchor.topn3	scrabble players	1.0
+751	anchor.topn3.replace	scrabble players	1.0
+751	docluster.topn10.3.qld	scrabble players friendship lotteri	1.0
+751	relevancefeedback.topn10.qld	scrabble players friendship listen lotteri	1.0
+751	rm3.topn10.10.0.5.bm25	scrabble players friendship home number video rockvil	1.0
+751	rm3.topn10.10.0.5.qld	scrabble players lotteri friendship home rockvil listen	1.0
+751	sensedisambiguation	Scrabble scribble Players player	1.0
+751	stem.krovetz	scrabble player	1.0
+751	stem.lovins	scrabbl player	1.0
+751	stem.porter	scrabbl player	1.0
+751	stem.porter2	scrabbl player	1.0
+751	stem.sstemmer	scrabble player	1.0
+751	tagmee.topn3	scrabble players Scrabble Player game	1.0
+751	termluster.topn5.3.qld	scrabble players	1.0
+751	thesaurus.topn3	scrabble players	1.0
+751	thesaurus.topn3.replace	scrabble players	1.0
+752	-1	Dam removal	1.0
+752	bertqe.topn10.bm25	cascad divers dam remov project	1.0
+752	conceptluster.topn5.3.qld	dam removal	1.0
+752	conceptnet.topn3	dam removal rinse	1.0
+752	docluster.topn10.3.qld	dam removal	1.0
+752	glove.topn3	dam removal reservoir	1.0
+752	glove.topn3.replace	reservoir removal	1.0
+752	relevancefeedback.topn10.qld	dam removal remov would	1.0
+752	rm3.topn10.10.0.5.bm25	dam removal would sediment water	1.0
+752	rm3.topn10.10.0.5.qld	dam removal would remov	1.0
+752	stem.krovetz	dam removal	1.0
+752	stem.lovins	dam remov	1.0
+752	stem.paicehusk	dam remov	1.0
+752	stem.porter	dam remov	1.0
+752	stem.porter2	dam remov	1.0
+752	stem.sstemmer	dam removal	1.0
+752	stem.trunc5	dam remov	1.0
+752	tagmee.topn3	dam removal Dam removal	1.0
+752	tagmee.topn3.replace	Dam removal	1.0
+752	termluster.topn5.3.qld	dam removal activ construct environment would work support	1.0
+752	thesaurus.topn3	dam removal	1.0
+752	thesaurus.topn3.replace	dam removal	1.0
+752	wiki.topn3	dam removal hells canyon dam moran dam brownledam dam removal	1.0
+752	word2vec.topn3	dam removal	1.0
+752	word2vec.topn3.replace	dam removal	1.0
+753	-1	bullying prevention programs	1.0
+753	anchor.topn3	bullying prevention programs	1.0
+753	anchor.topn3.replace	bullying prevention programs	1.0
+753	conceptluster.topn5.3.qld	bullying prevention programs bullying television program substance abuse	1.0
+753	docluster.topn10.3.qld	bullying prevention programs bulli	1.0
+753	relevancefeedback.topn10.qld	bullying prevention programs bulli program	1.0
+753	rm3.topn10.10.0.5.bm25	bullying prevention programs bulli school	1.0
+753	rm3.topn10.10.0.5.qld	bullying prevention programs bulli program school	1.0
+753	sensedisambiguation	bullying strong arm prevention programs program	1.0
+753	stem.krovetz	bully prevention program	1.0
+753	stem.porter	bulli prevent program	1.0
+753	stem.porter2	bulli prevent program	1.0
+753	stem.sstemmer	bullying prevention program	1.0
+753	tagmee.topn3	bullying prevention programs Bullying Substance abuse Television program	1.0
+753	tagmee.topn3.replace	Bullying Substance abuse Television program	1.0
+753	thesaurus.topn3	bullying prevention programs	1.0
+753	thesaurus.topn3.replace	bullying prevention programs	1.0
+753	wiki.topn3	bullying prevention programs school bullying interpersonal conflict foster care bullying attention deficit hyperactivity disorder drug rehabilitation substance abuse substance abuse multiple camera setup dramatic programming sketch comedy television program	1.0
+753	wiki.topn3.replace	school bullying interpersonal conflict foster care bullying attention deficit hyperactivity disorder drug rehabilitation substance abuse substance abuse multiple camera setup dramatic programming sketch comedy television program	1.0
+753	word2vec.topn3	bullying prevention programs programmes	1.0
+753	wordnet.topn3	bullying prevention programs blustery hector push around bar political program course of study	1.0
+754	-1	domestic adoption laws	0.25
+754	docluster.topn10.3.qld	domestic adoption laws law adopt	1.0
+754	word2vec.topn3	domestic adoption laws foreign international non adoption statutes regulations	1.0
+754	word2vec.topn3.replace	foreign international non adoption statutes regulations	1.0
+754	relevancefeedback.topn10.qld	domestic adoption laws law entiti adopt section	0.5
+754	rm3.topn10.10.0.5.qld	domestic adoption laws adopt	0.5
+754	rm3.topn10.10.0.5.bm25	domestic adoption laws visit adopt section court shall	0.3333
+754	stem.krovetz	domestic adoption law	0.25
+754	stem.lovins	domest adopt law	0.25
+754	stem.paicehusk	domest adopt law	0.25
+754	stem.porter	domest adopt law	0.25
+754	stem.porter2	domest adopt law	0.25
+754	stem.sstemmer	domestic adoption law	0.25
+754	termluster.topn5.3.qld	domestic adoption laws recommend limit law respons legal inform recommend limit domest	0.25
+754	thesaurus.topn3	domestic adoption laws	0.25
+754	thesaurus.topn3.replace	domestic adoption laws	0.25
+755	-1	Scottish Highland Games	1.0
+755	anchor.topn3	scottish highland games biolango welsh oatcake scottish highaland vil lag par k	1.0
+755	conceptluster.topn5.3.qld	scottish highland games highland games scottish people	1.0
+755	docluster.topn10.3.qld	scottish highland games game culloden	1.0
+755	relevancefeedback.topn10.qld	scottish highland games game culloden	1.0
+755	rm3.topn10.10.0.5.bm25	scottish highland games game culloden	1.0
+755	rm3.topn10.10.0.5.qld	scottish highland games game culloden	1.0
+755	sensedisambiguation	Scottish scots Highland Games plot	1.0
+755	sensedisambiguation.replace	scots highland plot	1.0
+755	stem.krovetz	scotland highland games	1.0
+755	stem.porter	scottish highland game	1.0
+755	stem.porter2	scottish highland game	1.0
+755	stem.sstemmer	scottish highland game	1.0
+755	stem.trunc4	scot high game	1.0
+755	tagmee.topn3	scottish highland games Scottish people Highland games Highland games	1.0
+755	tagmee.topn3.replace	Scottish people Highland games Highland games	1.0
+755	termluster.topn5.3.qld	scottish highland games game highland game scottish scottish highland	1.0
+755	thesaurus.topn3	scottish highland games	1.0
+755	thesaurus.topn3.replace	scottish highland games	1.0
+755	wiki.topn3	scottish highland games scottish people scottish society fife scottish people highland games angus graham strongman ballachulish highland games highland games angus graham strongman ballachulish highland games	1.0
+755	wiki.topn3.replace	scottish people scottish society fife scottish people highland games angus graham strongman ballachulish highland games highland games angus graham strongman ballachulish highland games	1.0
+755	wordnet.topn3	scottish highland games Scots English Scots upland plot gage back	1.0
+756	-1	Volcanic Activity	0.5
+756	conceptnet.topn3	volcanic activity unstable play	1.0
+756	glove.topn3	volcanic activity eruptions lava suggesting	1.0
+756	glove.topn3.replace	eruptions lava suggesting	1.0
+756	anchor.topn3	volcanic activity	0.5
+756	anchor.topn3.replace	volcanic activity	0.5
+756	relevancefeedback.topn10.qld	volcanic activity volcan volcano lake erupt activ	0.5
+756	sensedisambiguation	Volcanic Activity natural process	0.5
+756	stem.krovetz	volcanic activity	0.5
+756	stem.porter	volcan activ	0.5
+756	stem.porter2	volcan activ	0.5
+756	stem.sstemmer	volcanic activity	0.5
+756	termluster.topn5.3.qld	volcanic activity volcano three plume washington usg project	0.5
+756	thesaurus.topn3	volcanic activity	0.5
+756	thesaurus.topn3.replace	volcanic activity	0.5
+756	word2vec.topn3	volcanic activity volcanoes volcano basaltic acitivity	0.5
+756	word2vec.topn3.replace	volcanoes volcano basaltic acitivity	0.5
+757	-1	Murals	0.3333
+757	docluster.topn10.3.qld	murals mural your	1.0
+757	relevancefeedback.topn10.qld	murals mural your montana	1.0
+757	rm3.topn10.10.0.5.qld	murals mural your design montana art	1.0
+757	termluster.topn5.3.qld	murals panel artist	1.0
+757	word2vec.topn3	murals frescoes	1.0
+757	anchor.topn3	murals	0.3333
+757	anchor.topn3.replace	murals	0.3333
+757	conceptluster.topn5.3.qld	murals	0.3333
+757	conceptnet.topn3	murals	0.3333
+757	conceptnet.topn3.replace	murals	0.3333
+757	sensedisambiguation	Murals mural	0.3333
+757	sensedisambiguation.replace	mural	0.3333
+757	stem.krovetz	mural	0.3333
+757	stem.porter	mural	0.3333
+757	stem.porter2	mural	0.3333
+757	stem.sstemmer	mural	0.3333
+757	stem.trunc5	mural	0.3333
+757	tagmee.topn3	murals	0.3333
+757	thesaurus.topn3	murals	0.3333
+757	thesaurus.topn3.replace	murals	0.3333
+757	wiki.topn3	murals	0.3333
+757	wordnet.topn3	murals wall painting	0.3333
+758	-1	Embryonic stem cells	1.0
+758	bertqe.topn10.bm25	stem cell iv what adult	1.0
+758	bertqe.topn10.qld	iii what embryon stem cell	1.0
+758	conceptluster.topn5.3.qld	embryonic stem cells	1.0
+758	conceptnet.topn3	embryonic stem cells embryotic early apple blood the animated flesh of a dead person a zombie	1.0
+758	docluster.topn10.3.qld	embryonic stem cells cell	1.0
+758	glove.topn3	embryonic stem cells stem embryo embryonic tissues	1.0
+758	glove.topn3.replace	stem embryo embryonic tissues	1.0
+758	relevancefeedback.topn10.qld	embryonic stem cells cell	1.0
+758	rm3.topn10.10.0.5.bm25	embryonic stem cells cell	1.0
+758	rm3.topn10.10.0.5.qld	embryonic stem cells cell	1.0
+758	sensedisambiguation	Embryonic stem stem turn cells cellular telephone	1.0
+758	sensedisambiguation.replace	embryonic stem turn cellular telephone	1.0
+758	stem.krovetz	embryonic stem cell	1.0
+758	stem.lovins	embryon stem cel	1.0
+758	stem.paicehusk	embryon stem cel	1.0
+758	stem.porter	embryonic stem cell	1.0
+758	stem.porter2	embryon stem cell	1.0
+758	stem.sstemmer	embryonic stem cell	1.0
+758	stem.trunc4	embr stem cell	1.0
+758	tagmee.topn3	embryonic stem cells Embryonic stem cell	1.0
+758	tagmee.topn3.replace	Embryonic stem cell	1.0
+758	termluster.topn5.3.qld	embryonic stem cells yet would work adult also ani yet would work	1.0
+758	thesaurus.topn3	embryonic stem cells	1.0
+758	thesaurus.topn3.replace	embryonic stem cells	1.0
+758	wiki.topn3	embryonic stem cells induced pluripotent stem cell epigenetics xenotransplantation embryonic stem cell	1.0
+758	wiki.topn3.replace	induced pluripotent stem cell epigenetics xenotransplantation embryonic stem cell	1.0
+758	word2vec.topn3	embryonic stem cells embryo nascent fetal cells	1.0
+758	word2vec.topn3.replace	embryo nascent fetal stem cells	1.0
+759	-1	civil war battle reenactments	1.0
+759	anchor.topn3	civil war battle reenactments eforia ordinance spitalelor war theori wars jeanlucjosset	1.0
+759	anchor.topn3.replace	eforia ordinance spitalelor war theori wars jeanlucjosset battle reenactments	1.0
+759	docluster.topn10.3.qld	civil war battle reenactments	1.0
+759	relevancefeedback.topn10.qld	civil war battle reenactments reenact missouri park program florida gettysburg	1.0
+759	rm3.topn10.10.0.5.bm25	civil war battle reenactments reenact park manassa file	1.0
+759	rm3.topn10.10.0.5.qld	civil war battle reenactments park reenact program florida	1.0
+759	sensedisambiguation	civil war battle conflict reenactments reenactment	1.0
+759	stem.krovetz	civil war battle reenactment	1.0
+759	stem.lovins	civil war battl reenactment	1.0
+759	stem.paicehusk	civil war battl reenact	1.0
+759	stem.porter	civil war battl reenact	1.0
+759	stem.porter2	civil war battl reenact	1.0
+759	stem.sstemmer	civil war battle reenactment	1.0
+759	termluster.topn5.3.qld	civil war battle reenactments battl war battlefield battl civil battlefield war park histori	1.0
+759	thesaurus.topn3	civil war battle reenactments	1.0
+759	thesaurus.topn3.replace	civil war battle reenactments	1.0
+759	wiki.topn3	civil war battle reenactments s united states rebellions united states american civil war american civil war military reenactment american civil war reenactment template battlof gettysburg american civil war reenactment	1.0
+759	word2vec.topn3	civil war battle reenactments rights era civl conflict skirmish re enactments re enactment	1.0
+759	word2vec.topn3.replace	rights era civl conflict skirmish re enactments re enactment	1.0
+760	-1	american muslim mosques schools	1.0
+760	anchor.topn3	american muslim mosques schools hangu bodinier snj quranism list azraqi	1.0
+760	anchor.topn3.replace	hangu bodinier snj quranism list azraqi mosques schools	1.0
+760	conceptluster.topn5.3.qld	american muslim mosques schools americans islam united states mosque muslim madhhab	1.0
+760	conceptnet.topn3	american muslim mosques schools dollar an eraser places to learn things classrooms	1.0
+760	conceptnet.topn3.replace	dollar muslim mosques an eraser places to learn things classrooms	1.0
+760	sensedisambiguation	american muslim mosques mosque schools school	1.0
+760	sensedisambiguation.replace	american muslim mosque school	1.0
+760	stem.krovetz	america muslim mosque school	1.0
+760	stem.lovins	american muslim mosqu school	1.0
+760	stem.paicehusk	am muslim mosqu school	1.0
+760	stem.porter	american muslim mosqu school	1.0
+760	stem.porter2	american muslim mosqu school	1.0
+760	stem.sstemmer	american muslim mosque school	1.0
+760	tagmee.topn3	american muslim mosques schools Americans Islam in the United States Muslim Mosque Madhhab	1.0
+760	tagmee.topn3.replace	Americans Islam in the United States Muslim Mosque Madhhab	1.0
+760	termluster.topn5.3.qld	american muslim mosques schools also america commun also america american york year washington york year washington	1.0
+760	thesaurus.topn3	american muslim mosques schools	1.0
+760	thesaurus.topn3.replace	american muslim mosques schools	1.0
+760	wiki.topn3	american muslim mosques schools american people immigration united states ethnigroups united states americans muslim american society thmosqucares islam washington d c islam united states quraniwords phrases muslims islam muslim mosques mosque architecture islamiculture mosque athari hanbali muwatta imam malik madhhab	1.0
+760	wiki.topn3.replace	american people immigration united states ethnigroups united states americans muslim american society thmosqucares islam washington d c islam united states quraniwords phrases muslims islam muslim mosques mosque architecture islamiculture mosque athari hanbali muwatta imam malik madhhab	1.0
+761	-1	Problems of Hmong Immigrants	1.0
+761	conceptluster.topn5.3.qld	problems hmong immigrants hmong people immigration	1.0
+761	conceptnet.topn3	problems hmong immigrants a quandry lying starting a family Asiatic Miao stream to a new land	1.0
+761	docluster.topn10.3.qld	problems of hmong immigrants	1.0
+761	relevancefeedback.topn10.qld	problems of hmong immigrants i care right inform asian servic	1.0
+761	rm3.topn10.10.0.5.bm25	problems of hmong immigrants i servic asian	1.0
+761	rm3.topn10.10.0.5.qld	problems of hmong immigrants i servic veteran asian	1.0
+761	sensedisambiguation	Problems trouble of Hmong Immigrants immigrant	1.0
+761	sensedisambiguation.replace	trouble of hmong immigrant	1.0
+761	stem.krovetz	problem of hmong immigrant	1.0
+761	stem.lovins	problem of hmong immigr	1.0
+761	stem.paicehusk	problem of hmong immigr	1.0
+761	stem.porter	problem of hmong immigr	1.0
+761	stem.porter2	problem of hmong immigr	1.0
+761	stem.sstemmer	problem of hmong immigrant	1.0
+761	tagmee.topn3	problems hmong immigrants Hmong people Immigration	1.0
+761	tagmee.topn3.replace	Hmong people Immigration	1.0
+761	termluster.topn5.3.qld	problems hmong immigrants would work within american immigr includ year unit support	1.0
+761	thesaurus.topn3	problems hmong immigrants	1.0
+761	thesaurus.topn3.replace	problems hmong immigrants	1.0
+761	wordnet.topn3	problems hmong immigrants job trouble Miao Hmong language	1.0
+762	-1	History of Physicians in America	0.0833
+762	stem.krovetz	history of physician in america	0.0833
+762	stem.porter	histori of physician in america	0.0833
+762	stem.porter2	histori of physician in america	0.0833
+762	stem.sstemmer	history of physician in america	0.0833
+762	tagmee.topn3	history physicians america History Physician Americas	0.0833
+762	tagmee.topn3.replace	History Physician Americas	0.0833
+762	thesaurus.topn3	history physicians america	0.0833
+762	thesaurus.topn3.replace	history physicians america	0.0833
+763	-1	Hunting deaths	0.5
+763	glove.topn3	hunting deaths hunters fatalities	1.0
+763	word2vec.topn3	hunting deaths fatalities killings	1.0
+763	word2vec.topn3.replace	hunting fatalities killings	1.0
+763	anchor.topn3	hunting deaths	0.5
+763	anchor.topn3.replace	hunting deaths	0.5
+763	docluster.topn10.3.qld	hunting deaths	0.5
+763	stem.krovetz	hunting death	0.5
+763	stem.lovins	hunt death	0.5
+763	stem.paicehusk	hunt death	0.5
+763	stem.porter	hunt death	0.5
+763	stem.porter2	hunt death	0.5
+763	stem.sstemmer	hunting death	0.5
+763	tagmee.topn3	hunting deaths Hunting Death	0.5
+763	tagmee.topn3.replace	Hunting Death	0.5
+763	termluster.topn5.3.qld	hunting deaths year	0.5
+763	thesaurus.topn3	hunting deaths	0.5
+763	thesaurus.topn3.replace	hunting deaths	0.5
+764	-1	Increase mass transit use	1.0
+764	conceptluster.topn5.3.qld	increase mass transit use	1.0
+764	docluster.topn10.3.qld	increase mass transit use	1.0
+764	rm3.topn10.10.0.5.bm25	increase mass transit use employ tax transport	1.0
+764	rm3.topn10.10.0.5.qld	increase mass transit use employ	1.0
+764	stem.krovetz	increase mass transit use	1.0
+764	stem.sstemmer	increase mass transit use	1.0
+764	tagmee.topn3	increase mass transit use	1.0
+764	termluster.topn5.3.qld	increase mass transit use program transit work mass program work	1.0
+764	thesaurus.topn3	increase mass transit use	1.0
+764	thesaurus.topn3.replace	increase mass transit use	1.0
+764	wiki.topn3	increase mass transit use	1.0
+764	wordnet.topn3	increase mass transit use gain step up addition great deal people pass over theodolite transportation utilization habituate employment	1.0
+765	-1	ephedra ma huang deaths	1.0
+765	bertqe.topn10.bm25	alkaloid from herbal sourc ephedra	1.0
+765	docluster.topn10.3.qld	ephedra ma huang deaths ephedrin	1.0
+765	glove.topn3	ephedra huang deaths ephedrine supplements cheng yu fatalities	1.0
+765	glove.topn3.replace	ephedrine supplements cheng yu fatalities	1.0
+765	relevancefeedback.topn10.qld	ephedra ma huang deaths ephedrin heart drug product supplement	1.0
+765	rm3.topn10.10.0.5.bm25	ephedra ma huang deaths ephedrin supplement heart drug	1.0
+765	rm3.topn10.10.0.5.qld	ephedra ma huang deaths ephedrin heart supplement	1.0
+765	sensedisambiguation	ephedra ma huang deaths end	1.0
+765	sensedisambiguation.replace	ephedra ma huang end	1.0
+765	stem.krovetz	ephedra ma huang death	1.0
+765	stem.porter	ephedra ma huang death	1.0
+765	stem.porter2	ephedra ma huang death	1.0
+765	stem.sstemmer	ephedra ma huang death	1.0
+765	stem.trunc5	ephed ma huang death	1.0
+765	thesaurus.topn3	ephedra huang deaths	1.0
+765	thesaurus.topn3.replace	ephedra huang deaths	1.0
+765	word2vec.topn3	ephedra huang deaths ephedrine Metabolife zhao zhu qiao fatalities killings	1.0
+766	-1	diamond smuggling	1.0
+766	conceptluster.topn5.3.qld	diamond smuggling blood diamond diamond smuggling	1.0
+766	conceptnet.topn3	diamond smuggling ring lozenge smuggler	1.0
+766	docluster.topn10.3.qld	diamond smuggling	1.0
+766	glove.topn3	diamond smuggling gem trafficking smugglers	1.0
+766	glove.topn3.replace	gem trafficking smugglers	1.0
+766	relevancefeedback.topn10.qld	diamond smuggling do	1.0
+766	rm3.topn10.10.0.5.bm25	diamond smuggling	1.0
+766	rm3.topn10.10.0.5.qld	diamond smuggling	1.0
+766	stem.krovetz	diamond smuggle	1.0
+766	stem.paicehusk	diamond smuggl	1.0
+766	stem.porter	diamond smuggl	1.0
+766	stem.porter2	diamond smuggl	1.0
+766	stem.sstemmer	diamond smuggling	1.0
+766	tagmee.topn3	diamond smuggling Diamond Blood diamond Smuggling	1.0
+766	tagmee.topn3.replace	Diamond Blood diamond Smuggling	1.0
+766	termluster.topn5.3.qld	diamond smuggling africa also civil year war ventur	1.0
+766	thesaurus.topn3	diamond smuggling	1.0
+766	thesaurus.topn3.replace	diamond smuggling	1.0
+766	wiki.topn3	diamond smuggling impact event minerals abrasives semiconductor materials diamond politics liberia people extradited liberia people extradited sierra leone blood diamond contraband customs sabotage smuggling	1.0
+766	wiki.topn3.replace	impact event minerals abrasives semiconductor materials diamond politics liberia people extradited liberia people extradited sierra leone blood diamond contraband customs sabotage smuggling	1.0
+766	word2vec.topn3	diamond smuggling gemstone one carat smugglers smuggler	1.0
+767	-1	Pharmacist License requirements	1.0
+767	conceptluster.topn5.3.qld	pharmacist license requirements	1.0
+767	conceptnet.topn3	pharmacist license requirements pill roller permit unfit	1.0
+767	rm3.topn10.10.0.5.bm25	pharmacist license requirements shall drug board pharmaci	1.0
+767	sensedisambiguation.replace	pharmacist license requirement	1.0
+767	stem.krovetz	pharmacist license requirement	1.0
+767	stem.sstemmer	pharmacist license requirement	1.0
+767	tagmee.topn3	pharmacist license requirements Pharmacist License	1.0
+767	termluster.topn5.3.qld	pharmacist license requirements activ applic board activ applic board standard site review	1.0
+767	thesaurus.topn3	pharmacist license requirements	1.0
+767	thesaurus.topn3.replace	pharmacist license requirements	1.0
+767	wordnet.topn3	pharmacist license requirements pill pusher apothecary chemist certify permission demand requisite prerequisite	1.0
+768	-1	Women in state legislatures	0.5
+768	rm3.topn10.10.0.5.bm25	women in state legislatures b minnesota	1.0
+768	relevancefeedback.topn10.qld	women in state legislatures new athlet	0.5
+768	rm3.topn10.10.0.5.qld	women in state legislatures	0.5
+768	stem.krovetz	women in state legislature	0.5
+768	stem.porter	women in state legislatur	0.5
+768	stem.porter2	women in state legislatur	0.5
+768	stem.sstemmer	women in state legislature	0.5
+768	stem.trunc5	women in state legis	0.5
+768	thesaurus.topn3	women state legislatures	0.5
+768	thesaurus.topn3.replace	women state legislatures	0.5
+768	word2vec.topn3	women state legislatures men woman federal legislators	0.5
+769	-1	Kroll Associates Employees	0.1111
+769	wiki.topn3	kroll associates employees general atlantic wilson sonsini goodrich rosati asia kroll inc	1.0
+769	wiki.topn3.replace	general atlantic wilson sonsini goodrich rosati asia kroll inc	1.0
+769	relevancefeedback.topn10.qld	kroll associates employees train mr wage illinoi law fraser gepner	0.5
+769	stem.trunc5	kroll assoc emplo	0.1667
+769	stem.krovetz	kroll associate employee	0.1111
+769	stem.porter	kroll associ employee	0.1111
+769	stem.sstemmer	kroll associate employee	0.1111
+769	thesaurus.topn3	kroll associates employees	0.1111
+769	thesaurus.topn3.replace	kroll associates employees	0.1111
+770	-1	Kyrgyzstan-United States relations	1.0
+770	anchor.topn3	kyrgyzstan united states relations	1.0
+770	anchor.topn3.replace	kyrgyzstan united states relations	1.0
+770	bertqe.topn10.qld	state america proclam albania ha	1.0
+770	conceptluster.topn5.3.qld	kyrgyzstan united states relations kyrgyzstan united states relations	1.0
+770	conceptnet.topn3	kyrgyzstan united states relations country	1.0
+770	conceptnet.topn3.replace	kyrgyzstan united country relations	1.0
+770	docluster.topn10.3.qld	kyrgyzstan united states relations kyrgyzstan trade state central	1.0
+770	rm3.topn10.10.0.5.qld	kyrgyzstan united states relations state central russian uighur	1.0
+770	stem.krovetz	kyrgyzstan united states relations	1.0
+770	stem.paicehusk	kyrgyzstan unit stat rel	1.0
+770	stem.porter	kyrgyzstan unit state relat	1.0
+770	stem.porter2	kyrgyzstan unit state relat	1.0
+770	stem.sstemmer	kyrgyzstan united state relation	1.0
+770	tagmee.topn3	kyrgyzstan united states relations Kyrgyzstan United States relations	1.0
+770	tagmee.topn3.replace	Kyrgyzstan United States relations	1.0
+770	termluster.topn5.3.qld	kyrgyzstan united states relations unit kyrgyzstan	1.0
+770	thesaurus.topn3	kyrgyzstan united states relations	1.0
+770	thesaurus.topn3.replace	kyrgyzstan united states relations	1.0
+770	wiki.topn3	kyrgyzstan united states relations erkin rakishev erlan idrissov viktor verzhbitsky kyrgyzstan united states relations	1.0
+770	wiki.topn3.replace	erkin rakishev erlan idrissov viktor verzhbitsky kyrgyzstan united states relations	1.0
+771	-1	deformed leopard frogs	1.0
+771	anchor.topn3	deformed leopard frogs v g leopard nimrs	1.0
+771	anchor.topn3.replace	deformed v g leopard nimrs frogs	1.0
+771	conceptluster.topn5.3.qld	deformed leopard frogs leopard frog leopard	1.0
+771	docluster.topn10.3.qld	deformed leopard frogs frog	1.0
+771	glove.topn3	deformed leopard frogs malformed misshapen cheetah lion toads lizards	1.0
+771	relevancefeedback.topn10.qld	deformed leopard frogs frog	1.0
+771	rm3.topn10.10.0.5.bm25	deformed leopard frogs frog hind rana malform	1.0
+771	rm3.topn10.10.0.5.qld	deformed leopard frogs frog	1.0
+771	sensedisambiguation	deformed flex leopard frogs frog	1.0
+771	sensedisambiguation.replace	flex leopard frog	1.0
+771	stem.krovetz	deform leopard frog	1.0
+771	stem.lovins	deform leopard frog	1.0
+771	stem.paicehusk	deform leopard frog	1.0
+771	stem.porter	deform leopard frog	1.0
+771	stem.porter2	deform leopard frog	1.0
+771	stem.sstemmer	deformed leopard frog	1.0
+771	stem.trunc4	defo leop frog	1.0
+771	tagmee.topn3	deformed leopard frogs Leopard Leopard frog	1.0
+771	termluster.topn5.3.qld	deformed leopard frogs minnesota leopard frog deform frog minnesota minnesota leopard deform	1.0
+771	thesaurus.topn3	deformed leopard frogs	1.0
+771	thesaurus.topn3.replace	deformed leopard frogs	1.0
+771	wiki.topn3	deformed leopard frogs national symbols democratirepubliof congo national symbols somalia giraffe leopard tiger salamander lithobates red back salamander leopard frog	1.0
+771	word2vec.topn3	deformed leopard frogs misshapen disfigured tiger cheetah amphibians tadpoles	1.0
+771	wordnet.topn3	deformed leopard frogs change shape misshapen flex Panthera pardus Gaul toad frog	1.0
+772	-1	flag display rules	1.0
+772	bertqe.topn10.qld	state flag us law state	1.0
+772	conceptluster.topn5.3.qld	flag display rules display rules	1.0
+772	conceptnet.topn3	flag display rules symbol banner array showing law laws playing a game	1.0
+772	docluster.topn10.3.qld	flag display rules	1.0
+772	glove.topn3	flag display rules banner regulations laws	1.0
+772	relevancefeedback.topn10.qld	flag display rules	1.0
+772	rm3.topn10.10.0.5.bm25	flag display rules	1.0
+772	rm3.topn10.10.0.5.qld	flag display rules	1.0
+772	sensedisambiguation	flag pin display rules rule	1.0
+772	stem.krovetz	flag display rule	1.0
+772	stem.porter	flag displai rule	1.0
+772	stem.porter2	flag display rule	1.0
+772	stem.sstemmer	flag display rule	1.0
+772	tagmee.topn3	flag display rules Display rules	1.0
+772	termluster.topn5.3.qld	flag display rules abov alwai america weather wai vertic	1.0
+772	thesaurus.topn3	flag display rules	1.0
+772	thesaurus.topn3.replace	flag display rules	1.0
+772	word2vec.topn3	flag display rules flag regulations laws	1.0
+772	word2vec.topn3.replace	flag display regulations laws	1.0
+773	-1	Pennsylvania slot machine gambling	1.0
+773	anchor.topn3	pennsylvania slot machine gambling pennsybania pennsylvania histori pennsylvania fourth nordskov jensk fowler typ	1.0
+773	conceptluster.topn5.3.qld	pennsylvania slot machine gambling gambling slot machine	1.0
+773	conceptnet.topn3	pennsylvania slot machine gambling PA an apple tree slot machine	1.0
+773	conceptnet.topn3.replace	PA an apple tree slot machine machine gambling	1.0
+773	docluster.topn10.3.qld	pennsylvania slot machine gambling machin license	1.0
+773	relevancefeedback.topn10.qld	pennsylvania slot machine gambling court machin license licens	1.0
+773	rm3.topn10.10.0.5.bm25	pennsylvania slot machine gambling court machin licens license	1.0
+773	rm3.topn10.10.0.5.qld	pennsylvania slot machine gambling machin court license licens	1.0
+773	sensedisambiguation	Pennsylvania university of pennsylvania slot machine gambling gamble	1.0
+773	sensedisambiguation.replace	university of pennsylvania slot machine gamble	1.0
+773	stem.krovetz	pennsylvania slot machine gamble	1.0
+773	stem.porter	pennsylvania slot machin gambl	1.0
+773	stem.porter2	pennsylvania slot machin gambl	1.0
+773	stem.sstemmer	pennsylvania slot machine gambling	1.0
+773	stem.trunc5	penns slot machi gambl	1.0
+773	tagmee.topn3	pennsylvania slot machine gambling Pennsylvania Slot machine Gambling	1.0
+773	tagmee.topn3.replace	Pennsylvania Slot machine Gambling	1.0
+773	termluster.topn5.3.qld	pennsylvania slot machine gambling citat code enforc bureau control credit video three suprem video three suprem	1.0
+773	thesaurus.topn3	pennsylvania slot machine gambling	1.0
+773	thesaurus.topn3.replace	pennsylvania slot machine gambling	1.0
+773	wiki.topn3	pennsylvania slot machine gambling pennsylvania new jersey cities pennsylvania pennsylvania slot machines blackjack video poker slot machine gambling lottery slot machine gambling	1.0
+773	wiki.topn3.replace	pennsylvania new jersey cities pennsylvania pennsylvania slot machines blackjack video poker slot machine gambling lottery slot machine gambling	1.0
+774	-1	Causes of Homelessness	1.0
+774	anchor.topn3	causes homelessness	1.0
+774	anchor.topn3.replace	causes homelessness	1.0
+774	conceptnet.topn3	causes homelessness	1.0
+774	conceptnet.topn3.replace	causes homelessness	1.0
+774	docluster.topn10.3.qld	causes of homelessness homeless	1.0
+774	relevancefeedback.topn10.qld	causes of homelessness homeless	1.0
+774	stem.krovetz	cause of homeless	1.0
+774	stem.sstemmer	cause of homelessness	1.0
+774	thesaurus.topn3	causes homelessness	1.0
+774	thesaurus.topn3.replace	causes homelessness	1.0
+774	wiki.topn3	causes homelessness arthritis sepsis symptoms signs vascular paralysis homelessness homeless shelters homeless shelter homelessness	1.0
+774	wiki.topn3.replace	arthritis sepsis symptoms signs vascular paralysis homelessness homeless shelters homeless shelter homelessness	1.0
+774	word2vec.topn3	causes homelessness poverty	1.0
+774	wordnet.topn3	causes homelessness have make induce	1.0
+774	wordnet.topn3.replace	suit grounds case homelessness	1.0
+775	-1	Commercial candy makers	1.0
+775	conceptluster.topn5.3.qld	commercial candy makers candy	1.0
+775	conceptnet.topn3	commercial candy makers commercialised chocolate sugar the movies	1.0
+775	conceptnet.topn3.replace	commercialised chocolate sugar the movies makers	1.0
+775	docluster.topn10.3.qld	commercial candy makers candi	1.0
+775	glove.topn3	commercial candy makers addition business chocolate manufacturers	1.0
+775	relevancefeedback.topn10.qld	commercial candy makers candi u all	1.0
+775	rm3.topn10.10.0.5.bm25	commercial candy makers candi shall chocol u industri	1.0
+775	rm3.topn10.10.0.5.qld	commercial candy makers candi all shall industri chocol	1.0
+775	stem.krovetz	commercial candy maker	1.0
+775	stem.porter	commerci candi maker	1.0
+775	stem.porter2	commerci candi maker	1.0
+775	stem.sstemmer	commercial candy maker	1.0
+775	stem.trunc5	comme candy maker	1.0
+775	tagmee.topn3	commercial candy makers Candy	1.0
+775	termluster.topn5.3.qld	commercial candy makers maker candi	1.0
+775	thesaurus.topn3	commercial candy makers	1.0
+775	thesaurus.topn3.replace	commercial candy makers	1.0
+775	wiki.topn3	commercial candy makers marshmallow caramel snack food candy	1.0
+776	-1	Magnet schools success	0.25
+776	bertqe.topn10.bm25	new haven bloomfield receiv nearli	1.0
+776	glove.topn3	magnet schools success http www mediabynumbers com colleges achieved	1.0
+776	termluster.topn5.3.qld	magnet schools success art children design support success student art children design	1.0
+776	wiki.topn3.replace	magnet schools national honor society alternativschool magnet school magnet schools national honor society alternativschool magnet school	1.0
+776	wordnet.topn3	magnet schools success attracter attractive feature attractor schooltime educate winner achiever succeeder	1.0
+776	wiki.topn3	magnet schools success magnet schools national honor society alternativschool magnet school magnet schools national honor society alternativschool magnet school	0.5
+776	rm3.topn10.10.0.5.bm25	magnet schools success school msap	0.3333
+776	bertqe.topn10.qld	million support magnet school program	0.25
+776	conceptluster.topn5.3.qld	magnet schools success	0.25
+776	docluster.topn10.3.qld	magnet schools success school	0.25
+776	rm3.topn10.10.0.5.qld	magnet schools success school	0.25
+776	sensedisambiguation	Magnet schools school success	0.25
+776	sensedisambiguation.replace	magnet school success	0.25
+776	stem.krovetz	magnet school success	0.25
+776	stem.paicehusk	magnet school success	0.25
+776	stem.porter	magnet school success	0.25
+776	stem.porter2	magnet school success	0.25
+776	stem.sstemmer	magnet school success	0.25
+776	thesaurus.topn3	magnet schools success	0.25
+776	thesaurus.topn3.replace	magnet schools success	0.25
+777	-1	hybrid alternative fuel cars	0.25
+777	anchor.topn3	hybrid alternative fuel cars reassoci arbutu hybrids goos fuel inject mixed oxid gas motor geilli idlicot schiedt	1.0
+777	conceptluster.topn5.3.qld	hybrid alternative fuel cars hybrid vehicle alternative fuel vehicle	1.0
+777	stem.trunc4	hybr alte fuel cars	1.0
+777	tagmee.topn3	hybrid alternative fuel cars Hybrid vehicle Alternative fuel vehicle	1.0
+777	wiki.topn3	hybrid alternative fuel cars powertrain ac propulsion automotivaerodynamics hybrid vehicle alternative fuels miles per gallon gasolinequivalent hybrid vehicldrivetrain alternative fuel vehicle	1.0
+777	wiki.topn3.replace	powertrain ac propulsion automotivaerodynamics hybrid vehicle alternative fuels miles per gallon gasolinequivalent hybrid vehicldrivetrain alternative fuel vehicle	1.0
+777	conceptnet.topn3	hybrid alternative fuel cars organism unconventional oil coal gas go fast driven	0.5
+777	glove.topn3	hybrid alternative fuel cars concept preferable gasoline vehicles	0.5
+777	relevancefeedback.topn10.qld	hybrid alternative fuel cars electr hydrogen transport	0.5
+777	rm3.topn10.10.0.5.bm25	hybrid alternative fuel cars hydrogen transport ga vehicl	0.5
+777	rm3.topn10.10.0.5.qld	hybrid alternative fuel cars hydrogen vehicl	0.5
+777	word2vec.topn3	hybrid alternative fuel cars non hybrid gasoline automobiles vehicles	0.5
+777	wordnet.topn3	hybrid alternative fuel cars loan blend intercrossed crossbreed substitute fire railroad car cable car	0.5
+777	word2vec.topn3.replace	non hybrid alternative gasoline automobiles vehicles	0.3333
+777	docluster.topn10.3.qld	hybrid alternative fuel cars	0.25
+777	sensedisambiguation	hybrid alternative fuel cars car	0.25
+777	sensedisambiguation.replace	hybrid alternative fuel car	0.25
+777	stem.krovetz	hybrid alternative fuel car	0.25
+777	stem.lovins	hybrid altern fuel car	0.25
+777	stem.paicehusk	hybrid altern fuel car	0.25
+777	stem.porter	hybrid altern fuel car	0.25
+777	stem.porter2	hybrid altern fuel car	0.25
+777	stem.sstemmer	hybrid alternative fuel car	0.25
+777	termluster.topn5.3.qld	hybrid alternative fuel cars addit advantag air vehicl standard speed addit advantag air vehicl standard speed	0.25
+777	thesaurus.topn3	hybrid alternative fuel cars	0.25
+777	thesaurus.topn3.replace	hybrid alternative fuel cars	0.25
+778	-1	golden ratio	1.0
+778	anchor.topn3	golden ratio reneta small golden saxifrag golden weav gravissimum dtis	1.0
+778	bertqe.topn10.bm25	titl divin ratio studi fibonacci	1.0
+778	bertqe.topn10.qld	titl divin ratio studi fibonacci	1.0
+778	conceptluster.topn5.3.qld	golden ratio golden ratio	1.0
+778	glove.topn3	golden ratio http www nwguild org k proportion	1.0
+778	rm3.topn10.10.0.5.bm25	golden ratio mathemat face similar dr	1.0
+778	sensedisambiguation	golden ratio	1.0
+778	sensedisambiguation.replace	golden ratio	1.0
+778	stem.krovetz	golden ratio	1.0
+778	stem.porter	golden ratio	1.0
+778	stem.porter2	golden ratio	1.0
+778	stem.sstemmer	golden ratio	1.0
+778	tagmee.topn3	golden ratio Golden ratio	1.0
+778	tagmee.topn3.replace	Golden ratio	1.0
+778	termluster.topn5.3.qld	golden ratio number ratio golden number	1.0
+778	thesaurus.topn3	golden ratio	1.0
+778	thesaurus.topn3.replace	golden ratio	1.0
+779	-1	Javelinas range and description	1.0
+779	bertqe.topn10.bm25	nativ western hemisp here character	1.0
+779	conceptluster.topn5.3.qld	javelinas range description peccary species description range biology	1.0
+779	docluster.topn10.3.qld	javelinas range and description road rang area	1.0
+779	relevancefeedback.topn10.qld	javelinas range and description javelina road area bear jaguar rang confidenti	1.0
+779	rm3.topn10.10.0.5.bm25	javelinas range and description hunt area road	1.0
+779	rm3.topn10.10.0.5.qld	javelinas range and description hunt area javelina road bear	1.0
+779	sensedisambiguation	Javelinas collared peccary range stove and description	1.0
+779	sensedisambiguation.replace	collared peccary stove and description	1.0
+779	stem.krovetz	javelina range and description	1.0
+779	stem.paicehusk	javelina rang and describ	1.0
+779	stem.porter	javelina rang and descript	1.0
+779	stem.porter2	javelina rang and descript	1.0
+779	stem.sstemmer	javelina range and description	1.0
+779	tagmee.topn3	javelinas range description Peccary Range biology Species description	1.0
+779	termluster.topn5.3.qld	javelinas range description speci south rang speci south mountain	1.0
+779	thesaurus.topn3	javelinas range description	1.0
+779	thesaurus.topn3.replace	javelinas range description	1.0
+779	wiki.topn3	javelinas range description peccaries quetzal coati peccary species complex biological journal thlinnean society monotypitaxonomigroups range biology russulales basidiospore hymenium species description	1.0
+779	word2vec.topn3	javelinas range description whitetails pronghorns range decription discription	1.0
+779	wordnet.topn3	javelinas range description Tayassu tajacu Peccari angulatus swan place lay out verbal description	1.0
+780	-1	Arable land	1.0
+780	anchor.topn3	arable land technohub marinefährprahm	1.0
+780	anchor.topn3.replace	arable technohub marinefährprahm	1.0
+780	conceptluster.topn5.3.qld	arable land	1.0
+780	conceptnet.topn3	arable land cultivatable property continent An island	1.0
+780	docluster.topn10.3.qld	arable land perman or claim	1.0
+780	glove.topn3	arable land farmland irrigated property	1.0
+780	relevancefeedback.topn10.qld	arable land perman or claim	1.0
+780	rm3.topn10.10.0.5.bm25	arable land perman china would or water	1.0
+780	rm3.topn10.10.0.5.qld	arable land perman or claim	1.0
+780	sensedisambiguation	Arable land state	1.0
+780	sensedisambiguation.replace	arable state	1.0
+780	stem.krovetz	arable land	1.0
+780	stem.porter	arabl land	1.0
+780	stem.porter2	arabl land	1.0
+780	stem.sstemmer	arable land	1.0
+780	stem.trunc5	arabl land	1.0
+780	tagmee.topn3	arable land Arable land	1.0
+780	tagmee.topn3.replace	Arable land	1.0
+780	termluster.topn5.3.qld	arable land world unit south arabl south forest	1.0
+780	thesaurus.topn3	arable land	1.0
+780	thesaurus.topn3.replace	arable land	1.0
+780	wiki.topn3	arable land agricultural land grassland plains arable land	1.0
+780	wiki.topn3.replace	agricultural land grassland plains arable land	1.0
+780	word2vec.topn3	arable land cultivatable farmable non arable farmland	1.0
+780	word2vec.topn3.replace	cultivatable farmable non arable farmland	1.0
+781	-1	Squirrel control and protections	0.5
+781	bertqe.topn10.bm25	squirrel stand your kitchen window	1.0
+781	bertqe.topn10.qld	squirrel stand your kitchen window	1.0
+781	conceptluster.topn5.3.qld	squirrel control protections pest control	1.0
+781	docluster.topn10.3.qld	squirrel control and protections motor bait	1.0
+781	relevancefeedback.topn10.qld	squirrel control and protections ky shall bait motor pest	1.0
+781	rm3.topn10.10.0.5.bm25	squirrel control and protections ground	1.0
+781	rm3.topn10.10.0.5.qld	squirrel control and protections shall bait motor pest	1.0
+781	sensedisambiguation.replace	squirrel restraint and security	1.0
+781	tagmee.topn3	squirrel control protections Squirrel Pest control	1.0
+781	tagmee.topn3.replace	Squirrel Pest control	1.0
+781	termluster.topn5.3.qld	squirrel control protections control damag pest damag pest squirrel	1.0
+781	wiki.topn3	squirrel control protections weasel otter chipmunk squirrel snakoil junk food flea pest control	1.0
+781	wiki.topn3.replace	weasel otter chipmunk squirrel snakoil junk food flea pest control	1.0
+781	word2vec.topn3	squirrel control protections raccoon contol safeguards	1.0
+781	conceptnet.topn3	squirrel control protections animal rodent tail	0.5
+781	glove.topn3	squirrel control protections monkey afforded provisions	0.5
+781	stem.krovetz	squirrel control and protection	0.5
+781	stem.lovins	squirrel control and protect	0.5
+781	stem.paicehusk	squirrel control and protect	0.5
+781	stem.porter	squirrel control and protect	0.5
+781	stem.porter2	squirrel control and protect	0.5
+781	stem.sstemmer	squirrel control and protection	0.5
+781	thesaurus.topn3	squirrel control protections	0.5
+781	thesaurus.topn3.replace	squirrel control protections	0.5
+782	-1	Orange varieties seasons	1.0
+782	anchor.topn3	orange varieties seasons	1.0
+782	anchor.topn3.replace	orange varieties seasons	1.0
+782	bertqe.topn10.bm25	public citru octob forecast matur	1.0
+782	conceptluster.topn5.3.qld	orange varieties seasons season orange fruit variety botany	1.0
+782	docluster.topn10.3.qld	orange varieties seasons fruit box	1.0
+782	relevancefeedback.topn10.qld	orange varieties seasons crop orang fruit box	1.0
+782	rm3.topn10.10.0.5.bm25	orange varieties seasons crop fruit box	1.0
+782	rm3.topn10.10.0.5.qld	orange varieties seasons fruit season box	1.0
+782	sensedisambiguation	Orange varieties variety show seasons season	1.0
+782	sensedisambiguation.replace	orange variety show season	1.0
+782	stem.krovetz	orange variety season	1.0
+782	stem.porter	orang varieti season	1.0
+782	stem.porter2	orang varieti season	1.0
+782	stem.sstemmer	orange variety season	1.0
+782	tagmee.topn3	orange varieties seasons Orange fruit Variety botany Season	1.0
+782	tagmee.topn3.replace	Orange fruit Variety botany Season	1.0
+782	termluster.topn5.3.qld	orange varieties seasons year varieti valencia year valencia tree year varieti valencia	1.0
+782	thesaurus.topn3	orange varieties seasons	1.0
+782	thesaurus.topn3.replace	orange varieties seasons	1.0
+782	wordnet.topn3	orange varieties seasons Orange River orange tree orangish mixture miscellany mixed bag harden time of year	1.0
+783	-1	school mercury poisoning	0.3333
+783	conceptluster.topn5.3.qld	school mercury poisoning shoaling schooling mercury poisoning	1.0
+783	glove.topn3	school mercury poisoning students piyanart srivalo contamination	1.0
+783	tagmee.topn3	school mercury poisoning Shoaling and schooling Mercury poisoning	1.0
+783	tagmee.topn3.replace	Shoaling and schooling Mercury poisoning	1.0
+783	termluster.topn5.3.qld	school mercury poisoning also mercuri program work school program work school program	1.0
+783	bertqe.topn10.bm25	counti emerg respons newsclip luzern	0.5
+783	bertqe.topn10.qld	counti emerg respons newsclip luzern	0.5
+783	sensedisambiguation	school mercury poisoning	0.3333
+783	sensedisambiguation.replace	school mercury poisoning	0.3333
+783	stem.krovetz	school mercury poison	0.3333
+783	stem.lovins	school mercur poison	0.3333
+783	stem.paicehusk	school mercury poison	0.3333
+783	stem.porter	school mercuri poison	0.3333
+783	stem.porter2	school mercuri poison	0.3333
+783	stem.sstemmer	school mercury poisoning	0.3333
+783	thesaurus.topn3	school mercury poisoning	0.3333
+783	thesaurus.topn3.replace	school mercury poisoning	0.3333
+783	wiki.topn3	school mercury poisoning triggerfish antarctic toothfish fish fin shoaling schooling mercury poisoning drug eruptions antitoxin mercury poisoning	0.3333
+784	-1	mersenne primes	1.0
+784	anchor.topn3	mersenne primes	1.0
+784	anchor.topn3.replace	mersenne primes	1.0
+784	conceptluster.topn5.3.qld	mersenne primes mersenne prime	1.0
+784	conceptnet.topn3	mersenne primes	1.0
+784	conceptnet.topn3.replace	mersenne primes	1.0
+784	docluster.topn10.3.qld	mersenne primes prime number gener	1.0
+784	glove.topn3	mersenne primes proth frahd reciprocals nasdaq	1.0
+784	relevancefeedback.topn10.qld	mersenne primes prime student gener number mersenn	1.0
+784	rm3.topn10.10.0.5.bm25	mersenne primes prime gener student number mersenn	1.0
+784	sensedisambiguation	mersenne primes prime	1.0
+784	sensedisambiguation.replace	mersenne prime	1.0
+784	stem.krovetz	mersenne prime	1.0
+784	stem.porter	mersenn prime	1.0
+784	stem.porter2	mersenn prime	1.0
+784	stem.sstemmer	mersenne prime	1.0
+784	tagmee.topn3	mersenne primes Mersenne prime	1.0
+784	tagmee.topn3.replace	Mersenne prime	1.0
+784	termluster.topn5.3.qld	mersenne primes prime number number mersenn	1.0
+784	thesaurus.topn3	mersenne primes	1.0
+784	thesaurus.topn3.replace	mersenne primes	1.0
+784	word2vec.topn3	mersenne primes non primes repunit pseudoprimes	1.0
+784	word2vec.topn3.replace	mersenne non primes repunit pseudoprimes	1.0
+784	wordnet.topn3	mersenne primes blossom ground bloom	1.0
+785	-1	Ivory-billed woodpecker	1.0
+785	anchor.topn3	ivory billed woodpecker	1.0
+785	anchor.topn3.replace	ivory billed woodpecker	1.0
+785	conceptluster.topn5.3.qld	ivory billed woodpecker	1.0
+785	conceptnet.topn3	ivory billed woodpecker redheaded woodpecker	1.0
+785	conceptnet.topn3.replace	ivory billed redheaded woodpecker	1.0
+785	docluster.topn10.3.qld	ivory billed woodpecker woodpeck	1.0
+785	glove.topn3	ivory billed woodpecker cw mangxamba pileated red cockaded	1.0
+785	relevancefeedback.topn10.qld	ivory billed woodpecker woodpeck caviti e bird s warbler our	1.0
+785	rm3.topn10.10.0.5.bm25	ivory billed woodpecker woodpeck caviti e program our	1.0
+785	rm3.topn10.10.0.5.qld	ivory billed woodpecker woodpeck caviti e bird s	1.0
+785	sensedisambiguation	Ivory billed woodpecker	1.0
+785	sensedisambiguation.replace	Ivory billed woodpecker	1.0
+785	stem.krovetz	ivory bill woodpecker	1.0
+785	stem.lovins	ivor bil woodpecker	1.0
+785	stem.porter	ivori bill woodpeck	1.0
+785	stem.porter2	ivori bill woodpeck	1.0
+785	stem.sstemmer	ivory billed woodpecker	1.0
+785	stem.trunc5	ivory bille woodp	1.0
+785	tagmee.topn3	ivory billed woodpecker Ivory billed woodpecker	1.0
+785	tagmee.topn3.replace	Ivory billed woodpecker	1.0
+785	termluster.topn5.3.qld	ivory billed woodpecker wood tree speci	1.0
+785	thesaurus.topn3	ivory billed woodpecker	1.0
+785	thesaurus.topn3.replace	ivory billed woodpecker	1.0
+785	wiki.topn3	ivory billed woodpecker carolina parakeet labrador duck passenger pigeon ivory billed woodpecker	1.0
+785	wiki.topn3.replace	carolina parakeet labrador duck passenger pigeon ivory billed woodpecker	1.0
+785	word2vec.topn3	ivory billed woodpecker pileated pileated	1.0
+785	wordnet.topn3	ivory billed woodpecker peckerwood pecker	1.0
+785	wordnet.topn3.replace	ivory billed pecker peckerwood	1.0
+786	-1	Yew trees	0.5
+786	anchor.topn3	yew trees taxu floridana marsiling baleu osch os delhez	1.0
+786	conceptluster.topn5.3.qld	yew trees taxus baccata	1.0
+786	rm3.topn10.10.0.5.bm25	yew trees from new cancer paclitaxel	1.0
+786	rm3.topn10.10.0.5.qld	yew trees environment taxol zone herb tree forest would	1.0
+786	sensedisambiguation	Yew trees tree	1.0
+786	tagmee.topn3	yew trees Taxus baccata Taxus baccata	1.0
+786	tagmee.topn3.replace	Taxus baccata Taxus baccata	1.0
+786	wordnet.topn3.replace	yew tree diagram corner	1.0
+786	conceptnet.topn3	yew trees wood Pacific yew leaves squirrel	0.5
+786	conceptnet.topn3.replace	wood Pacific yew leaves squirrel	0.5
+786	docluster.topn10.3.qld	yew trees	0.5
+786	sensedisambiguation.replace	yew tree	0.5
+786	stem.krovetz	yew tree	0.5
+786	stem.lovins	yew tree	0.5
+786	stem.porter	yew tree	0.5
+786	stem.porter2	yew tree	0.5
+786	stem.sstemmer	yew tree	0.5
+786	stem.trunc4	yew tree	0.5
+786	stem.trunc5	yew trees	0.5
+786	thesaurus.topn3	yew trees	0.5
+786	thesaurus.topn3.replace	yew trees	0.5
+787	-1	Sunflower Cultivation	1.0
+787	anchor.topn3	sunflower cultivation	1.0
+787	anchor.topn3.replace	sunflower cultivation	1.0
+787	bertqe.topn10.bm25	wild sunflow potenti sourc diseas	1.0
+787	bertqe.topn10.qld	cultiv sunflow tektran wild sunflow	1.0
+787	conceptluster.topn5.3.qld	sunflower cultivation cotton helianthus	1.0
+787	conceptnet.topn3	sunflower cultivation culture	1.0
+787	conceptnet.topn3.replace	sunflower culture	1.0
+787	docluster.topn10.3.qld	sunflower cultivation sunflow	1.0
+787	relevancefeedback.topn10.qld	sunflower cultivation sunflow c	1.0
+787	rm3.topn10.10.0.5.bm25	sunflower cultivation sunflow speci gene	1.0
+787	rm3.topn10.10.0.5.qld	sunflower cultivation sunflow j c speci gene	1.0
+787	stem.krovetz	sunflower cultivation	1.0
+787	stem.lovins	sunflower cultiv	1.0
+787	stem.paicehusk	sunflow cult	1.0
+787	stem.porter	sunflow cultiv	1.0
+787	stem.porter2	sunflow cultiv	1.0
+787	stem.sstemmer	sunflower cultivation	1.0
+787	tagmee.topn3	sunflower cultivation Helianthus Cotton	1.0
+787	tagmee.topn3.replace	Helianthus Cotton	1.0
+787	termluster.topn5.3.qld	sunflower cultivation resist cultiv sunflow resist	1.0
+787	thesaurus.topn3	sunflower cultivation	1.0
+787	thesaurus.topn3.replace	sunflower cultivation	1.0
+787	word2vec.topn3	sunflower cultivation rapeseed	1.0
+787	word2vec.topn3.replace	rapeseed cultivation	1.0
+787	wordnet.topn3	sunflower cultivation helianthus finish polish	1.0
+788	-1	Reverse mortgages	1.0
+788	anchor.topn3	reverse mortgages	1.0
+788	anchor.topn3.replace	reverse mortgages	1.0
+788	conceptluster.topn5.3.qld	reverse mortgages mortgage loan	1.0
+788	docluster.topn10.3.qld	reverse mortgages you mortgag	1.0
+788	glove.topn3.replace	reverse subprime	1.0
+788	relevancefeedback.topn10.qld	reverse mortgages loan mortgag you hud	1.0
+788	rm3.topn10.10.0.5.bm25	reverse mortgages you hud mortgag home	1.0
+788	rm3.topn10.10.0.5.qld	reverse mortgages you loan mortgag hud home	1.0
+788	sensedisambiguation	Reverse mortgages mortgage	1.0
+788	sensedisambiguation.replace	reverse mortgage	1.0
+788	stem.krovetz	reverse mortgage	1.0
+788	stem.sstemmer	reverse mortgage	1.0
+788	tagmee.topn3	reverse mortgages Mortgage loan	1.0
+788	tagmee.topn3.replace	Mortgage loan	1.0
+788	termluster.topn5.3.qld	reverse mortgages secur program mortgag secur revers program	1.0
+788	thesaurus.topn3	reverse mortgages	1.0
+788	thesaurus.topn3.replace	reverse mortgages	1.0
+788	wiki.topn3	reverse mortgages loan mortgage collateral finance mortgage loan	1.0
+788	wiki.topn3.replace	loan mortgage collateral finance mortgage loan	1.0
+789	-1	abandoned mine reclamation	0.5
+789	conceptluster.topn5.3.qld	abandoned mine reclamation mining mine reclamation	1.0
+789	stem.trunc4	aban mine recl	1.0
+789	tagmee.topn3	abandoned mine reclamation Mining Mine reclamation	1.0
+789	tagmee.topn3.replace	Mining Mine reclamation	1.0
+789	termluster.topn5.3.qld	abandoned mine reclamation site reclam project abandon coal reclam site project pennsylvania	1.0
+789	wordnet.topn3	abandoned mine reclamation derelict deserted give up reformation renewal	1.0
+789	anchor.topn3	abandoned mine reclamation tavarua hakkari стрезовце	0.5
+789	conceptnet.topn3	abandoned mine reclamation coal reformation	0.5
+789	relevancefeedback.topn10.qld	abandoned mine reclamation part reclam	0.5
+789	sensedisambiguation	abandoned vacate mine reclamation	0.5
+789	stem.krovetz	abandoned mine reclamation	0.5
+789	stem.lovins	abandon min reclam	0.5
+789	stem.paicehusk	abandon min reclam	0.5
+789	stem.porter	abandon mine reclam	0.5
+789	stem.porter2	abandon mine reclam	0.5
+789	stem.sstemmer	abandoned mine reclamation	0.5
+789	thesaurus.topn3	abandoned mine reclamation	0.5
+789	thesaurus.topn3.replace	abandoned mine reclamation	0.5
+790	-1	women's rights in Saudi Arabia	1.0
+790	bertqe.topn10.bm25	saudi arabia intern parent child	1.0
+790	conceptluster.topn5.3.qld	women s rights saudi arabia women s rights saudi arabia	1.0
+790	conceptnet.topn3	women s rights saudi arabia dress recklessly Saudi Arabian Saudi Arabian Arabian Peninsula	1.0
+790	docluster.topn10.3.qld	women s rights in saudi arabia govern	1.0
+790	glove.topn3	women s rights saudi arabia men girls s whose human freedom arabia riyadh saudi oman	1.0
+790	glove.topn3.replace	men girls s whose human freedom arabia riyadh saudi oman	1.0
+790	relevancefeedback.topn10.qld	women s rights in saudi arabia govern	1.0
+790	rm3.topn10.10.0.5.bm25	women s rights in saudi arabia govern her	1.0
+790	rm3.topn10.10.0.5.qld	women s rights in saudi arabia govern	1.0
+790	sensedisambiguation	women womanhood s rights right field in Saudi Arabia arabian peninsula	1.0
+790	stem.krovetz	women s rights in saudi arabia	1.0
+790	stem.porter	women s right in saudi arabia	1.0
+790	stem.porter2	women s right in saudi arabia	1.0
+790	stem.sstemmer	women s right in saudi arabia	1.0
+790	stem.trunc5	women s right in saudi arabi	1.0
+790	tagmee.topn3	women s rights saudi arabia Women s rights in Saudi Arabia Saudi Arabia	1.0
+790	tagmee.topn3.replace	Women s rights in Saudi Arabia Saudi Arabia	1.0
+790	termluster.topn5.3.qld	women s rights saudi arabia arabia countri onli women state saudi arabia countri onli countri onli right	1.0
+790	thesaurus.topn3	women s rights saudi arabia	1.0
+790	thesaurus.topn3.replace	women s rights saudi arabia	1.0
+790	wordnet.topn3	women s rights saudi arabia char charwoman cleaning woman compensate Saudi Arabian Saudi Arabian Arabian Peninsula	1.0
+791	-1	Gullah geechee language culture	1.0
+791	anchor.topn3	gullah geechee language culture gullah island binyah ambelau	1.0
+791	anchor.topn3.replace	gullah island binyah ambelau geechee language culture	1.0
+791	bertqe.topn10.bm25	island marsh moss like lace	1.0
+791	bertqe.topn10.qld	queen quet from island marsh	1.0
+791	conceptluster.topn5.3.qld	gullah geechee language culture culture gullah language	1.0
+791	conceptnet.topn3	gullah geechee language culture Spanish english Kalashnikov culture	1.0
+791	conceptnet.topn3.replace	geechee gullah Spanish english Kalashnikov culture	1.0
+791	docluster.topn10.3.qld	gullah geechee language culture cultur altern comment	1.0
+791	glove.topn3	gullah geechee language culture geechee ooooooooooooooooooooooooooooooooooooooo peesk localweather word	1.0
+791	glove.topn3.replace	geechee ooooooooooooooooooooooooooooooooooooooo peesk localweather word culture	1.0
+791	relevancefeedback.topn10.qld	gullah geechee language culture studi african cultur peopl comment award altern countri	1.0
+791	rm3.topn10.10.0.5.bm25	gullah geechee language culture studi peopl cultur comment african award countri slide	1.0
+791	rm3.topn10.10.0.5.qld	gullah geechee language culture studi cultur peopl african comment award altern	1.0
+791	sensedisambiguation	Gullah geechee language terminology culture polish	1.0
+791	sensedisambiguation.replace	Gullah geechee terminology polish	1.0
+791	stem.krovetz	gullah geechee language culture	1.0
+791	stem.lovins	gullah geeche langu cultur	1.0
+791	stem.porter	gullah geeche languag cultur	1.0
+791	stem.porter2	gullah geeche languag cultur	1.0
+791	stem.sstemmer	gullah geechee language culture	1.0
+791	tagmee.topn3	gullah geechee language culture Gullah Gullah Gullah language Culture	1.0
+791	tagmee.topn3.replace	Gullah Gullah Gullah language Culture	1.0
+791	termluster.topn5.3.qld	gullah geechee language culture countri geeche nation site nation gullah studi special public	1.0
+791	thesaurus.topn3	gullah geechee language culture	1.0
+791	thesaurus.topn3.replace	gullah geechee language culture	1.0
+791	wiki.topn3	gullah geechee language culture gullah language igbo landing africanisms gullah gullah language igbo landing africanisms gullah languages african diaspora liberian english merico language gullah language sociology culture society counterculture culture	1.0
+791	wiki.topn3.replace	gullah language igbo landing africanisms gullah gullah language igbo landing africanisms gullah languages african diaspora liberian english merico language gullah language sociology culture society counterculture culture	1.0
+791	word2vec.topn3	gullah geechee language culture langauge traditions	1.0
+791	word2vec.topn3.replace	gullah geechee langauge traditions	1.0
+791	wordnet.topn3	gullah geechee language culture speech communication linguistic process terminology cultivation civilisation finish	1.0
+791	wordnet.topn3.replace	gullah geechee voice communication spoken language cultivation finish	1.0
+792	-1	Social Security means test	0.2
+792	relevancefeedback.topn10.qld	social security means test program secur benefit earn	1.0
+792	rm3.topn10.10.0.5.qld	social security means test secur earn program benefit	1.0
+792	conceptluster.topn5.3.qld	social security means test social security united states means test	0.5
+792	docluster.topn10.3.qld	social security means test secur earn benefit	0.5
+792	tagmee.topn3	social security means test Social Security United States Means test	0.5
+792	glove.topn3	social security means test welfare context adding ensure hence	0.25
+792	termluster.topn5.3.qld	social security means test benefit individu mean year work test year work test benefit individu mean	0.25
+792	stem.krovetz	social security means test	0.2
+792	stem.porter	social secur mean test	0.2
+792	stem.porter2	social secur mean test	0.2
+792	stem.sstemmer	social security mean test	0.2
+792	thesaurus.topn3	social security means test	0.2
+792	thesaurus.topn3.replace	social security means test	0.2
+792	wiki.topn3.replace	internal revenucode medicaid social security act social security united states poverty law incomsupport employment support allowance means test	0.2
+793	-1	Bagpipe Bands	1.0
+793	anchor.topn3	bagpipe bands	1.0
+793	anchor.topn3.replace	bagpipe bands	1.0
+793	docluster.topn10.3.qld	bagpipe bands band	1.0
+793	sensedisambiguation	Bagpipe Bands set	1.0
+793	sensedisambiguation.replace	bagpipe set	1.0
+793	stem.krovetz	bagpipe band	1.0
+793	stem.lovins	bagpip band	1.0
+793	stem.paicehusk	bagpip band	1.0
+793	stem.porter	bagpip band	1.0
+793	stem.porter2	bagpip band	1.0
+793	stem.sstemmer	bagpipe band	1.0
+793	termluster.topn5.3.qld	bagpipe bands pipe	1.0
+793	thesaurus.topn3	bagpipe bands	1.0
+793	thesaurus.topn3.replace	bagpipe bands	1.0
+793	wiki.topn3	bagpipe bands tin whistle great highland bagpipe chanter bagpipes military bands bugle military tattoo military band	1.0
+793	wiki.topn3.replace	tin whistle great highland bagpipe chanter bagpipes military bands bugle military tattoo military band	1.0
+793	word2vec.topn3	bagpipe bands pipers musicians	1.0
+793	word2vec.topn3.replace	pipers musicians	1.0
+793	wordnet.topn3.replace	bagpipe lot isthmus	1.0
+794	-1	pet therapy	0.5
+794	conceptluster.topn5.3.qld	pet therapy animal assisted therapy	1.0
+794	conceptnet.topn3	pet therapy dog a dog	1.0
+794	glove.topn3	pet therapy dog treatments	1.0
+794	tagmee.topn3	pet therapy Animal assisted therapy	1.0
+794	termluster.topn5.3.qld	pet therapy follow therapi activ work set section	1.0
+794	conceptnet.topn3.replace	dog a dog therapy	0.5
+794	docluster.topn10.3.qld	pet therapy imag	0.5
+794	stem.krovetz	pet therapy	0.5
+794	stem.paicehusk	pet therapy	0.5
+794	stem.porter	pet therapi	0.5
+794	stem.porter2	pet therapi	0.5
+794	stem.sstemmer	pet therapy	0.5
+794	tagmee.topn3.replace	Animal assisted therapy	0.5
+794	thesaurus.topn3	pet therapy	0.5
+794	thesaurus.topn3.replace	pet therapy	0.5
+795	-1	notable cocker spaniels	0.0278
+795	conceptnet.topn3	notable cocker spaniels luminary noteworthy far famed pamper cocker spaniel indulge	1.0
+795	conceptnet.topn3.replace	luminary noteworthy far famed pamper cocker spaniel indulge spaniels	1.0
+795	stem.krovetz	notable cock spaniel	0.5
+795	stem.paicehusk	not cock spaniel	0.5
+795	termluster.topn5.3.qld	notable cocker spaniels english spaniel english cocker	0.0625
+795	word2vec.topn3.replace	noteworthy noteable note worthy spaniel spaniels spaniels	0.05
+795	wordnet.topn3	notable cocker spaniels noteworthy luminary English cocker spaniel mollycoddle indulge	0.05
+795	wordnet.topn3.replace	leading light noteworthy famous mollycoddle English cocker spaniel cocker spaniel spaniels	0.0455
+795	word2vec.topn3	notable cocker spaniels noteworthy noteable note worthy spaniel spaniels	0.0435
+795	glove.topn3	notable cocker spaniels noteworthy well known jarvis rw cocker	0.0357
+795	conceptluster.topn5.3.qld	notable cocker spaniels cocker spaniel spaniel	0.0312
+795	stem.lovins	not cocker spaniel	0.0312
+795	tagmee.topn3	notable cocker spaniels Cocker Spaniel Spaniel	0.0312
+795	sensedisambiguation	notable noteworthy cocker cocker spaniel spaniels spaniel	0.0303
+795	tagmee.topn3.replace	Cocker Spaniel Spaniel	0.0303
+795	wiki.topn3.replace	labradoodle pointer dog breed show dog cocker spaniel foxhound basset fauvdbretagne welsh springer spaniel spaniel	0.0303
+795	sensedisambiguation.replace	noteworthy cocker spaniel spaniel	0.0294
+795	stem.porter	notabl cocker spaniel	0.0278
+795	stem.porter2	notabl cocker spaniel	0.0278
+795	stem.sstemmer	notable cocker spaniel	0.0278
+795	thesaurus.topn3	notable cocker spaniels	0.0278
+795	thesaurus.topn3.replace	notable cocker spaniels	0.0278
+796	-1	Blue Grass Music Festival history	0.5
+796	conceptluster.topn5.3.qld	blue grass music festival history bluegrass music	1.0
+796	conceptnet.topn3	blue grass music festival history color sky colour the park lawn dance record rock christmas past subject school	1.0
+796	glove.topn3	blue grass music festival history red bright lawn pasture songs fest historical ever	1.0
+796	rm3.topn10.10.0.5.bm25	blue grass music festival history festiv	1.0
+796	tagmee.topn3	blue grass music festival history Bluegrass music	1.0
+796	termluster.topn5.3.qld	blue grass music festival history also art artist also art artist young well univers young well univers	1.0
+796	wiki.topn3	blue grass music festival history old time music bluegrass music americana music bluegrass music	1.0
+796	wiki.topn3.replace	old time music bluegrass music americana music bluegrass music	1.0
+796	word2vec.topn3	blue grass music festival history red yellow purple lawn music history	1.0
+796	word2vec.topn3.replace	red yellow purple lawn music festival history	1.0
+796	docluster.topn10.3.qld	blue grass music festival history	0.5
+796	relevancefeedback.topn10.qld	blue grass music festival history mississippi	0.5
+796	rm3.topn10.10.0.5.qld	blue grass music festival history	0.5
+796	stem.krovetz	blue grass music festival history	0.5
+796	stem.porter	blue grass music festiv histori	0.5
+796	stem.porter2	blue grass music festiv histori	0.5
+796	stem.sstemmer	blue grass music festival history	0.5
+796	stem.trunc5	blue grass music festi histo	0.5
+796	tagmee.topn3.replace	Bluegrass music	0.5
+796	thesaurus.topn3	blue grass music festival history	0.5
+796	thesaurus.topn3.replace	blue grass music festival history	0.5
+797	-1	reintroduction of gray wolves	1.0
+797	conceptluster.topn5.3.qld	reintroduction gray wolves species reintroduction gray wolf	1.0
+797	conceptnet.topn3	reintroduction gray wolves silver squirrel color wolf circle a flock of sheep wolfkind	1.0
+797	docluster.topn10.3.qld	reintroduction of gray wolves wolv wolf	1.0
+797	relevancefeedback.topn10.qld	reintroduction of gray wolves wolv wolf	1.0
+797	rm3.topn10.10.0.5.bm25	reintroduction of gray wolves wolv wolf	1.0
+797	rm3.topn10.10.0.5.qld	reintroduction of gray wolves wolf wolv	1.0
+797	stem.krovetz	reintroduction of gray wolf	1.0
+797	stem.paicehusk	reintroduc of gray wolv	1.0
+797	stem.porter	reintroduct of grai wolv	1.0
+797	stem.porter2	reintroduct of gray wolv	1.0
+797	stem.sstemmer	reintroduction of gray wolve	1.0
+797	stem.trunc5	reint of gray wolve	1.0
+797	tagmee.topn3	reintroduction gray wolves Species reintroduction Gray wolf	1.0
+797	tagmee.topn3.replace	Species reintroduction Gray wolf	1.0
+797	termluster.topn5.3.qld	reintroduction gray wolves yellowston wolv wolf yellowston wolf wildlif	1.0
+797	thesaurus.topn3	reintroduction gray wolves	1.0
+797	thesaurus.topn3.replace	reintroduction gray wolves	1.0
+797	wiki.topn3	reintroduction gray wolves species reintroduction weasel wolves wolverine gray wolf	1.0
+797	wordnet.topn3	reintroduction gray wolves Asa Gray Gy gray headed brute skirt chaser wolf	1.0
+798	-1	Massachusetts textile mills	0.5
+798	wiki.topn3	massachusetts textile mills provincof new hampshire colonial new hampshire dominion new england province massachusetts bay textile mills spinning mule worsted textile manufacturing textile mills spinning mule worsted textile manufacturing	1.0
+798	word2vec.topn3	massachusetts textile mills connecticut wisconsin pennsylvania fabrics factories millers	1.0
+798	wordnet.topn3	massachusetts textile mills Old Colony MA cloth fabric John Mill pulverisation	1.0
+798	anchor.topn3	massachusetts textile mills	0.5
+798	anchor.topn3.replace	massachusetts textile mills	0.5
+798	stem.krovetz	massachusetts textile mill	0.5
+798	stem.porter	massachusett textil mill	0.5
+798	stem.porter2	massachusett textil mill	0.5
+798	stem.sstemmer	massachusett textile mill	0.5
+798	thesaurus.topn3	massachusetts textile mills	0.5
+798	thesaurus.topn3.replace	massachusetts textile mills	0.5
+798	wiki.topn3.replace	provincof new hampshire colonial new hampshire dominion new england province massachusetts bay textile mills spinning mule worsted textile manufacturing textile mills spinning mule worsted textile manufacturing	0.5
+799	-1	Animals in Alzheimer's research	1.0
+799	docluster.topn10.3.qld	animals in alzheimer s research ag alzheim	1.0
+799	glove.topn3	animals alzheimer s research humans dementia parkinson s whose study institute	1.0
+799	glove.topn3.replace	humans dementia parkinson s whose study institute	1.0
+799	relevancefeedback.topn10.qld	animals in alzheimer s research ag applic alzheim	1.0
+799	rm3.topn10.10.0.5.bm25	animals in alzheimer s research ad ag tau	1.0
+799	rm3.topn10.10.0.5.qld	animals in alzheimer s research ag	1.0
+799	sensedisambiguation	Animals animal in Alzheimer s research	1.0
+799	sensedisambiguation.replace	animal in Alzheimer s research	1.0
+799	stem.krovetz	animal in alzheimer s research	1.0
+799	stem.lovins	anim in alzheimer s research	1.0
+799	stem.paicehusk	anim in alzheim s research	1.0
+799	stem.porter	anim in alzheim s research	1.0
+799	stem.porter2	anim in alzheim s research	1.0
+799	stem.sstemmer	animal in alzheimer s research	1.0
+799	thesaurus.topn3	animals alzheimer s research	1.0
+799	thesaurus.topn3.replace	animals alzheimer s research	1.0
+799	word2vec.topn3	animals alzheimer s research humans parkinsons parkinson s of s s reseach reasearch reserach	1.0
+799	word2vec.topn3.replace	humans parkinsons parkinson s of s s reseach reasearch reserach	1.0
+800	-1	Ovarian Cancer Treatment	0.0909
+800	anchor.topn3	ovarian cancer treatment ohss cryopreservation natur ovary institute upmc insulinoma cancercent tretman poseban treatment	1.0
+800	bertqe.topn10.bm25	cancer survivor quilt shirle mohiuddin	0.3333
+800	stem.lovins	ovar cancer treatm	0.3333
+800	word2vec.topn3	ovarian cancer treatment endometrial ovary leukemia lymphoma treament treatement	0.25
+800	conceptnet.topn3	ovarian cancer treatment smoking a disease cigarette smoking handling chiropractic	0.2
+800	tagmee.topn3.replace	Ovarian cancer Management of cancer	0.2
+800	glove.topn3	ovarian cancer treatment colorectal pancreatic prostate breast treated treat	0.1667
+800	wiki.topn3	ovarian cancer treatment ovarian cancer lymphoma metastasis ovarian cancer lymphomatoid granulomatosis brentuximab vedotin treatment lung cancer management cancer	0.1667
+800	wordnet.topn3	ovarian cancer treatment genus Cancer Cancer the Crab discourse handling intervention	0.125
+800	wordnet.topn3.replace	ovarian malignant neoplastic disease handling discussion discourse	0.125
+800	conceptluster.topn5.3.qld	ovarian cancer treatment ovarian cancer management cancer	0.1111
+800	tagmee.topn3	ovarian cancer treatment Ovarian cancer Management of cancer	0.1111
+800	wiki.topn3.replace	ovarian cancer lymphoma metastasis ovarian cancer lymphomatoid granulomatosis brentuximab vedotin treatment lung cancer management cancer	0.1111
+800	docluster.topn10.3.qld	ovarian cancer treatment	0.0909
+800	relevancefeedback.topn10.qld	ovarian cancer treatment	0.0909
+800	sensedisambiguation	Ovarian Cancer Treatment	0.0909
+800	sensedisambiguation.replace	ovarian cancer treatment	0.0909
+800	stem.krovetz	ovarian cancer treatment	0.0909
+800	stem.porter	ovarian cancer treatment	0.0909
+800	stem.porter2	ovarian cancer treatment	0.0909
+800	stem.sstemmer	ovarian cancer treatment	0.0909
+800	thesaurus.topn3	ovarian cancer treatment	0.0909
+800	thesaurus.topn3.replace	ovarian cancer treatment	0.0909
+801	-1	Kudzu Pueraria lobata	1.0
+801	anchor.topn3	kudzu pueraria lobata nonborn ring beetle cnesmocarpon jasion vernicia ofwegeni delautouri oriolina	1.0
+801	bertqe.topn10.bm25	class weed kudzu pueraria lobata	1.0
+801	conceptluster.topn5.3.qld	kudzu pueraria lobata	1.0
+801	conceptnet.topn3	kudzu pueraria lobata Pueraria lobata vine order Lobata	1.0
+801	conceptnet.topn3.replace	Pueraria lobata vine pueraria order Lobata	1.0
+801	docluster.topn10.3.qld	kudzu pueraria lobata sourc	1.0
+801	glove.topn3	kudzu pueraria lobata js ooooooooooooooooooooooooooooooooooooooo mirifica lobata pueraria filiformis	1.0
+801	relevancefeedback.topn10.qld	kudzu pueraria lobata sourc	1.0
+801	rm3.topn10.10.0.5.bm25	kudzu pueraria lobata sourc	1.0
+801	rm3.topn10.10.0.5.qld	kudzu pueraria lobata sourc	1.0
+801	sensedisambiguation	Kudzu Pueraria lobata	1.0
+801	sensedisambiguation.replace	kudzu pueraria lobata	1.0
+801	stem.krovetz	kudzu pueraria lobata	1.0
+801	stem.lovins	kudzu puerar lob	1.0
+801	stem.porter	kudzu pueraria lobata	1.0
+801	stem.porter2	kudzu pueraria lobata	1.0
+801	stem.sstemmer	kudzu pueraria lobata	1.0
+801	tagmee.topn3	kudzu pueraria lobata Kudzu Kudzu	1.0
+801	tagmee.topn3.replace	Kudzu Kudzu	1.0
+801	thesaurus.topn3	kudzu pueraria lobata	1.0
+801	thesaurus.topn3.replace	kudzu pueraria lobata	1.0
+801	wiki.topn3	kudzu pueraria lobata pueraria strongyloides stercoralis edamame kudzu pueraria strongyloides stercoralis edamame kudzu	1.0
+801	wordnet.topn3	kudzu pueraria lobata kudzu vine Pueraria lobata genus Pueraria order Lobata	1.0
+801	wordnet.topn3.replace	kudzu vine Pueraria lobata genus Pueraria order Lobata	1.0
+802	-1	Volcano eruptions global temperature	1.0
+802	anchor.topn3	volcano eruptions global temperature kudryavyi ndiayen idmaax global eliahu learjet kiwin	1.0
+802	conceptluster.topn5.3.qld	volcano eruptions global temperature climate temperature	1.0
+802	conceptnet.topn3	volcano eruptions global temperature lava solar prominence worldwide degree heat cold	1.0
+802	docluster.topn10.3.qld	volcano eruptions global temperature	1.0
+802	glove.topn3	volcano eruptions global temperature eruption volcanic volcanic worldwide emerging humidity	1.0
+802	relevancefeedback.topn10.qld	volcano eruptions global temperature erupt can model	1.0
+802	rm3.topn10.10.0.5.bm25	volcano eruptions global temperature erupt can plate	1.0
+802	rm3.topn10.10.0.5.qld	volcano eruptions global temperature erupt can	1.0
+802	sensedisambiguation	Volcano eruptions eruption global temperature	1.0
+802	sensedisambiguation.replace	volcano eruption global temperature	1.0
+802	stem.krovetz	volcano eruption global temperature	1.0
+802	stem.porter	volcano erupt global temperatur	1.0
+802	stem.porter2	volcano erupt global temperatur	1.0
+802	stem.sstemmer	volcano eruption global temperature	1.0
+802	tagmee.topn3	volcano eruptions global temperature Volcano Volcano Climate Temperature	1.0
+802	termluster.topn5.3.qld	volcano eruptions global temperature climat erupt global year volcano volcan climat erupt stratospher year volcano volcan	1.0
+802	thesaurus.topn3	volcano eruptions global temperature	1.0
+802	thesaurus.topn3.replace	volcano eruptions global temperature	1.0
+802	word2vec.topn3	volcano eruptions global temperature eruption volcanoes international worldwide termperature	1.0
+803	-1	May Day	0.0
+803	wiki.topn3	may day publiholidays republiof ireland international workers day parade may day	0.2
+803	wiki.topn3.replace	publiholidays republiof ireland international workers day parade may day	0.0909
+804	-1	ban on human cloning	0.3333
+804	conceptluster.topn5.3.qld	ban human cloning ban law human cloning	1.0
+804	sensedisambiguation	ban prohibition on human cloning	1.0
+804	sensedisambiguation.replace	prohibition on human cloning	1.0
+804	stem.trunc5	ban on human cloni	1.0
+804	tagmee.topn3	ban human cloning Ban law Human cloning	1.0
+804	tagmee.topn3.replace	Ban law Human cloning	1.0
+804	termluster.topn5.3.qld	ban human cloning act activ addit act activ addit would woman without	1.0
+804	wordnet.topn3	ban human cloning ostracise Bachelor of Arts in Nursing homo human being	1.0
+804	stem.trunc4	ban on huma clon	0.5
+804	wordnet.topn3.replace	ostracise homo man human being cloning	0.5
+804	docluster.topn10.3.qld	ban on human cloning clone	0.3333
+804	glove.topn3	ban human cloning rights beings	0.3333
+804	glove.topn3.replace	ban rights beings cloning	0.3333
+804	relevancefeedback.topn10.qld	ban on human cloning clone	0.3333
+804	rm3.topn10.10.0.5.qld	ban on human cloning clone	0.3333
+804	stem.krovetz	ban on human clone	0.3333
+804	stem.porter	ban on human clone	0.3333
+804	stem.porter2	ban on human clone	0.3333
+804	stem.sstemmer	ban on human cloning	0.3333
+804	thesaurus.topn3	ban human cloning	0.3333
+804	thesaurus.topn3.replace	ban human cloning	0.3333
+804	word2vec.topn3	ban human cloning non human nonhuman	0.3333
+805	-1	Identity Theft Passport	0.0909
+805	stem.paicehusk	id theft passport	0.5
+805	sensedisambiguation	Identity Theft larceny Passport recommendation	0.1429
+805	termluster.topn5.3.qld	identity theft passport virginia victim theft attornei crime gener attornei crime gener	0.125
+805	word2vec.topn3	identity theft passport indentity thievery larceny	0.1111
+805	docluster.topn10.3.qld	identity theft passport ident	0.0909
+805	relevancefeedback.topn10.qld	identity theft passport ident	0.0909
+805	rm3.topn10.10.0.5.qld	identity theft passport ident	0.0909
+805	stem.krovetz	identity theft passport	0.0909
+805	stem.porter	ident theft passport	0.0909
+805	stem.porter2	ident theft passport	0.0909
+805	stem.sstemmer	identity theft passport	0.0909
+805	tagmee.topn3	identity theft passport Identity theft Passport	0.0909
+805	tagmee.topn3.replace	Identity theft Passport	0.0909
+805	thesaurus.topn3	identity theft passport	0.0909
+805	thesaurus.topn3.replace	identity theft passport	0.0909
+806	-1	Doctors Without Borders	1.0
+806	conceptluster.topn5.3.qld	doctors without borders médecins sans frontières	1.0
+806	docluster.topn10.3.qld	doctors without borders	1.0
+806	relevancefeedback.topn10.qld	doctors without borders hilton new doctor border td humanitarian drug polici care	1.0
+806	rm3.topn10.10.0.5.bm25	doctors without borders hilton drug new humanitarian polici he	1.0
+806	rm3.topn10.10.0.5.qld	doctors without borders hilton new drug mg polici	1.0
+806	stem.krovetz	doctor without border	1.0
+806	stem.lovins	doctor without border	1.0
+806	stem.porter	doctor without border	1.0
+806	stem.porter2	doctor without border	1.0
+806	stem.sstemmer	doctor without border	1.0
+806	tagmee.topn3	doctors without borders Médecins Sans Frontières	1.0
+806	termluster.topn5.3.qld	doctors without borders new border new doctor	1.0
+806	thesaurus.topn3	doctors without borders	1.0
+806	thesaurus.topn3.replace	doctors without borders	1.0
+806	word2vec.topn3	doctors without borders physicians wihtout wihout boundaries frontiers	1.0
+807	-1	Sugar tariff-rate quotas	1.0
+807	anchor.topn3	sugar tariff rate quotas sugariin tamanua navua	1.0
+807	anchor.topn3.replace	sugariin tamanua navua tariff rate quotas	1.0
+807	conceptluster.topn5.3.qld	sugar tariff rate quotas import quota	1.0
+807	docluster.topn10.3.qld	sugar tariff rate quotas quota	1.0
+807	glove.topn3	sugar tariff rate quotas cane syrup import	1.0
+807	glove.topn3.replace	cane syrup tariff rate import	1.0
+807	relevancefeedback.topn10.qld	sugar tariff rate quotas quota	1.0
+807	rm3.topn10.10.0.5.bm25	sugar tariff rate quotas quota	1.0
+807	rm3.topn10.10.0.5.qld	sugar tariff rate quotas quota	1.0
+807	sensedisambiguation	Sugar tariff rate quotas quota	1.0
+807	sensedisambiguation.replace	sugar tariff rate quota	1.0
+807	stem.krovetz	sugar tariff rate quota	1.0
+807	stem.lovins	sugar tariff rat quot	1.0
+807	stem.paicehusk	sug tariff rat quota	1.0
+807	stem.porter	sugar tariff rate quota	1.0
+807	stem.porter2	sugar tariff rate quota	1.0
+807	stem.sstemmer	sugar tariff rate quota	1.0
+807	tagmee.topn3	sugar tariff rate quotas Sugar Import quota	1.0
+807	tagmee.topn3.replace	Sugar Import quota	1.0
+807	termluster.topn5.3.qld	sugar tariff rate quotas alloc cane contain trq tariff sugar	1.0
+807	thesaurus.topn3	sugar tariff rate quotas	1.0
+807	thesaurus.topn3.replace	sugar tariff rate quotas	1.0
+807	wiki.topn3	sugar tariff rate quotas carbohydrates sweeteners excipients sugar tradbarrier tax holiday pricsupport import quota	1.0
+807	wiki.topn3.replace	carbohydrates sweeteners excipients sugar tradbarrier tax holiday pricsupport import quota	1.0
+807	word2vec.topn3	sugar tariff rate quotas sucrose in quota TRQs tariffication	1.0
+807	word2vec.topn3.replace	sucrose in quota TRQs tariffication quotas	1.0
+807	wordnet.topn3	sugar tariff rate quotas boodle pelf refined sugar	1.0
+808	-1	North Korean Counterfeiting	1.0
+808	anchor.topn3	north korean counterfeiting south mankachar n c tipgo japanes vietnames	1.0
+808	conceptluster.topn5.3.qld	north korean counterfeiting korean language	1.0
+808	conceptnet.topn3	north korean counterfeiting direction	1.0
+808	conceptnet.topn3.replace	direction korean counterfeiting	1.0
+808	docluster.topn10.3.qld	north korean counterfeiting	1.0
+808	glove.topn3	north korean counterfeiting south northeast korea laundering	1.0
+808	relevancefeedback.topn10.qld	north korean counterfeiting	1.0
+808	rm3.topn10.10.0.5.bm25	north korean counterfeiting	1.0
+808	rm3.topn10.10.0.5.qld	north korean counterfeiting	1.0
+808	sensedisambiguation	North Korean Counterfeiting forge	1.0
+808	stem.krovetz	north korea counterfeit	1.0
+808	stem.lovins	north korean counterfeit	1.0
+808	stem.porter	north korean counterfeit	1.0
+808	stem.porter2	north korean counterfeit	1.0
+808	stem.sstemmer	north korean counterfeiting	1.0
+808	tagmee.topn3	north korean counterfeiting North Korea Korean language Counterfeit	1.0
+808	tagmee.topn3.replace	North Korea Korean language Counterfeit	1.0
+808	termluster.topn5.3.qld	north korean counterfeiting abroad accord abroad accord year would wholesal	1.0
+808	thesaurus.topn3	north korean counterfeiting	1.0
+808	thesaurus.topn3.replace	north korean counterfeiting	1.0
+808	wiki.topn3	north korean counterfeiting north korea pyongyang directly governed cities special administrative regions north korea north korea languages north korea languages korea buyeo languages korean language counterfeiters forgery theft counterfeit	1.0
+808	wiki.topn3.replace	north korea pyongyang directly governed cities special administrative regions north korea north korea languages north korea languages korea buyeo languages korean language counterfeiters forgery theft counterfeit	1.0
+808	word2vec.topn3	north korean counterfeiting south west east korea	1.0
+808	wordnet.topn3	north korean counterfeiting due north Frederick North fake forge	1.0
+809	-1	wetlands wastewater treatment	1.0
+809	bertqe.topn10.qld	happen black diamond gregori zentner	1.0
+809	conceptluster.topn5.3.qld	wetlands wastewater treatment wastewater treatment wetland wastewater	1.0
+809	conceptnet.topn3	wetlands wastewater treatment effluent handling chiropractic	1.0
+809	docluster.topn10.3.qld	wetlands wastewater treatment wetland	1.0
+809	glove.topn3	wetlands wastewater treatment marshes sewage effluent treated treat	1.0
+809	relevancefeedback.topn10.qld	wetlands wastewater treatment wetland na	1.0
+809	rm3.topn10.10.0.5.bm25	wetlands wastewater treatment wetland nal	1.0
+809	rm3.topn10.10.0.5.qld	wetlands wastewater treatment wetland na	1.0
+809	sensedisambiguation	wetlands wetland wastewater effluent treatment	1.0
+809	sensedisambiguation.replace	wetland effluent treatment	1.0
+809	stem.krovetz	wetland wastewater treatment	1.0
+809	stem.lovins	wetland wastewater treatm	1.0
+809	stem.porter	wetland wastewat treatment	1.0
+809	stem.porter2	wetland wastewat treatment	1.0
+809	stem.sstemmer	wetland wastewater treatment	1.0
+809	tagmee.topn3	wetlands wastewater treatment Wetland Wastewater Wastewater treatment	1.0
+809	tagmee.topn3.replace	Wetland Wastewater Wastewater treatment	1.0
+809	termluster.topn5.3.qld	wetlands wastewater treatment year wildlif water year wildlif wetland addit biolog commun	1.0
+809	thesaurus.topn3	wetlands wastewater treatment	1.0
+809	thesaurus.topn3.replace	wetlands wastewater treatment	1.0
+809	wiki.topn3	wetlands wastewater treatment terrestrial biomes freshwater ecology marsh wetland water treatment industrial waste municipal solid waste wastewater wastewater treatment	1.0
+809	wiki.topn3.replace	terrestrial biomes freshwater ecology marsh wetland water treatment industrial waste municipal solid waste wastewater wastewater treatment	1.0
+809	word2vec.topn3	wetlands wastewater treatment marshes sewage waste water effluent treament treatement	1.0
+809	wordnet.topn3.replace	wetlands sewer water effluent handling discussion discourse	1.0
+810	-1	timeshare resales	1.0
+810	anchor.topn3	timeshare resales	1.0
+810	anchor.topn3.replace	timeshare resales	1.0
+810	conceptluster.topn5.3.qld	timeshare resales timeshare	1.0
+810	glove.topn3	timeshare resales js ooooooooooooooooooooooooooooooooooooooo realtors runs thome	1.0
+810	relevancefeedback.topn10.qld	timeshare resales timeshar illinoi applic you consum site ftc	1.0
+810	rm3.topn10.10.0.5.bm25	timeshare resales timeshar you illinoi applic consum ftc defend	1.0
+810	sensedisambiguation.replace	timeshare resale	1.0
+810	stem.krovetz	timeshare resale	1.0
+810	stem.lovins	timeshar resal	1.0
+810	stem.porter	timeshar resal	1.0
+810	stem.porter2	timeshar resal	1.0
+810	stem.sstemmer	timeshare resale	1.0
+810	tagmee.topn3	timeshare resales Timeshare	1.0
+810	thesaurus.topn3	timeshare resales	1.0
+810	thesaurus.topn3.replace	timeshare resales	1.0
+810	wordnet.topn3	timeshare resales	1.0
+810	wordnet.topn3.replace	timeshare resales	1.0
+811	-1	handwriting recognition	0.5
+811	bertqe.topn10.bm25	p perron yorktown n y us	1.0
+811	bertqe.topn10.qld	spatial sort format handwrit recognit	1.0
+811	conceptnet.topn3	handwriting recognition perform	1.0
+811	conceptnet.topn3.replace	handwriting perform	1.0
+811	docluster.topn10.3.qld	handwriting recognition project handwrit	1.0
+811	rm3.topn10.10.0.5.bm25	handwriting recognition handwrit project technolog comput chines tablet inform	1.0
+811	rm3.topn10.10.0.5.qld	handwriting recognition handwrit project technolog comput chines inform	1.0
+811	sensedisambiguation	handwriting handwrite recognition	1.0
+811	conceptluster.topn5.3.qld	handwriting recognition handwriting recognition	0.5
+811	relevancefeedback.topn10.qld	handwriting recognition inform handwrit signal project charact	0.5
+811	sensedisambiguation.replace	handwrite recognition	0.5
+811	stem.krovetz	handwriting recognition	0.5
+811	stem.lovins	handwrit recognit	0.5
+811	stem.paicehusk	handwrit recognit	0.5
+811	stem.porter	handwrit recognit	0.5
+811	stem.porter2	handwrit recognit	0.5
+811	stem.sstemmer	handwriting recognition	0.5
+811	tagmee.topn3	handwriting recognition Handwriting recognition	0.5
+811	tagmee.topn3.replace	Handwriting recognition	0.5
+811	termluster.topn5.3.qld	handwriting recognition system recognit recogn system recogn handwrit	0.5
+811	thesaurus.topn3	handwriting recognition	0.5
+811	thesaurus.topn3.replace	handwriting recognition	0.5
+811	wiki.topn3	handwriting recognition end of transmission character graffiti palm os ibm websphere handwriting recognition	0.5
+812	-1	total knee replacement surgery	1.0
+812	conceptnet.topn3	total knee replacement surgery amount leg joint operation	1.0
+812	docluster.topn10.3.qld	total knee replacement surgery you	1.0
+812	rm3.topn10.10.0.5.qld	total knee replacement surgery claimant patient	1.0
+812	sensedisambiguation	total full knee stifle replacement surrogate surgery	1.0
+812	stem.krovetz	total knee replacement surgery	1.0
+812	stem.paicehusk	tot kne replac surgery	1.0
+812	stem.porter	total knee replac surgeri	1.0
+812	stem.porter2	total knee replac surgeri	1.0
+812	stem.sstemmer	total knee replacement surgery	1.0
+812	stem.trunc4	tota knee repl surg	1.0
+812	termluster.topn5.3.qld	total knee replacement surgery care function includ need physic physician year total surgic time therapi reason	1.0
+812	thesaurus.topn3	total knee replacement surgery	1.0
+812	thesaurus.topn3.replace	total knee replacement surgery	1.0
+812	wordnet.topn3	total knee replacement surgery summate add up entire articulatio genus human knee surrogate substitute operating theatre surgical operation operating room	1.0
+813	-1	Atlantic Intracoastal Waterway	1.0
+813	anchor.topn3.replace	spa hydromash kinderscoutian intracoastal waterway divide cut tschipey waterway hadeln	1.0
+813	conceptluster.topn5.3.qld	atlantic intracoastal waterway	1.0
+813	conceptnet.topn3	atlantic intracoastal waterway ocean canal river	1.0
+813	docluster.topn10.3.qld	atlantic intracoastal waterway river waterwai florida	1.0
+813	glove.topn3	atlantic intracoastal waterway ocean pacific waterway skaht intracoastal	1.0
+813	glove.topn3.replace	ocean pacific waterway skaht intracoastal	1.0
+813	relevancefeedback.topn10.qld	atlantic intracoastal waterway florida river waterwai associ mile barg port	1.0
+813	rm3.topn10.10.0.5.bm25	atlantic intracoastal waterway florida waterwai river port barg mile	1.0
+813	rm3.topn10.10.0.5.qld	atlantic intracoastal waterway florida waterwai river barg port mile	1.0
+813	sensedisambiguation	Atlantic Intracoastal Waterway	1.0
+813	sensedisambiguation.replace	atlantic Intracoastal waterway	1.0
+813	stem.krovetz	atlantic intracoastal waterway	1.0
+813	stem.porter	atlant intracoast waterwai	1.0
+813	stem.porter2	atlant intracoast waterway	1.0
+813	stem.sstemmer	atlantic intracoastal waterway	1.0
+813	tagmee.topn3	atlantic intracoastal waterway Intracoastal Waterway Intracoastal Waterway	1.0
+813	tagmee.topn3.replace	Intracoastal Waterway Intracoastal Waterway	1.0
+813	termluster.topn5.3.qld	atlantic intracoastal waterway waterwai water total waterwai water total	1.0
+813	thesaurus.topn3	atlantic intracoastal waterway	1.0
+813	thesaurus.topn3.replace	atlantic intracoastal waterway	1.0
+813	wordnet.topn3	atlantic intracoastal waterway Atlantic Ocean watercourse	1.0
+813	wordnet.topn3.replace	Atlantic Ocean intracoastal watercourse	1.0
+814	-1	Johnstown flood	1.0
+814	conceptluster.topn5.3.qld	johnstown flood johnstown flood	1.0
+814	conceptnet.topn3	johnstown flood fulton county flood tide	1.0
+814	docluster.topn10.3.qld	johnstown flood tour	1.0
+814	relevancefeedback.topn10.qld	johnstown flood tour you	1.0
+814	rm3.topn10.10.0.5.bm25	johnstown flood park tour you nation	1.0
+814	rm3.topn10.10.0.5.qld	johnstown flood park tour you	1.0
+814	sensedisambiguation	Johnstown flood flood tide	1.0
+814	sensedisambiguation.replace	Johnstown flood tide	1.0
+814	stem.krovetz	johnstown flood	1.0
+814	stem.lovins	johnstown flood	1.0
+814	stem.paicehusk	johnstown flood	1.0
+814	stem.porter	johnstown flood	1.0
+814	stem.porter2	johnstown flood	1.0
+814	stem.sstemmer	johnstown flood	1.0
+814	tagmee.topn3	johnstown flood Johnstown Flood	1.0
+814	tagmee.topn3.replace	Johnstown Flood	1.0
+814	termluster.topn5.3.qld	johnstown flood flood call johnstown call	1.0
+814	thesaurus.topn3	johnstown flood	1.0
+814	thesaurus.topn3.replace	johnstown flood	1.0
+814	wiki.topn3	johnstown flood meteorology pennsylvania south fork dam johnstown flood	1.0
+814	wiki.topn3.replace	meteorology pennsylvania south fork dam johnstown flood	1.0
+814	word2vec.topn3	johnstown flood deluge	1.0
+814	word2vec.topn3.replace	johnstown deluge	1.0
+815	-1	Coast Guard rescues	0.125
+815	glove.topn3.replace	coastal guard rescues	1.0
+815	rm3.topn10.10.0.5.bm25	coast guard rescues i boat oper	1.0
+815	stem.trunc4	coas guar resc	1.0
+815	wordnet.topn3	coast guard rescues seacoast slide hold precaution guard duty deliverance deliver delivery	1.0
+815	wordnet.topn3.replace	seacoast glide sea coast hold safeguard guard duty deliverance deliver	1.0
+815	conceptnet.topn3	coast guard rescues beach ocean edge security person	0.5
+815	glove.topn3	coast guard rescues coastal	0.5
+815	sensedisambiguation	Coast slide Guard precaution rescues rescue	0.5
+815	word2vec.topn3	coast guard rescues coastline coastal gaurd	0.25
+815	relevancefeedback.topn10.qld	coast guard rescues search	0.2
+815	conceptluster.topn5.3.qld	coast guard rescues	0.125
+815	docluster.topn10.3.qld	coast guard rescues	0.125
+815	rm3.topn10.10.0.5.qld	coast guard rescues	0.125
+815	stem.krovetz	coast guard rescue	0.125
+815	stem.lovins	coast guard rescu	0.125
+815	stem.paicehusk	coast guard rescu	0.125
+815	stem.porter	coast guard rescu	0.125
+815	stem.porter2	coast guard rescu	0.125
+815	stem.sstemmer	coast guard rescue	0.125
+815	stem.trunc5	coast guard rescu	0.125
+815	tagmee.topn3	coast guard rescues	0.125
+815	thesaurus.topn3	coast guard rescues	0.125
+815	thesaurus.topn3.replace	coast guard rescues	0.125
+815	wiki.topn3	coast guard rescues	0.125
+816	-1	USAID assistance to Galapagos	1.0
+816	anchor.topn3	usaid assistance galapagos development research awards busi gisma	1.0
+816	bertqe.topn10.bm25	usaid assist ecuador u agenc	1.0
+816	conceptluster.topn5.3.qld	usaid assistance galapagos galápagos islands united states agency international development	1.0
+816	docluster.topn10.3.qld	usaid assistance to galapagos	1.0
+816	glove.topn3	usaid assistance galapagos undp unicef aid providing galápagos kd	1.0
+816	relevancefeedback.topn10.qld	usaid assistance to galapagos doi conserv fy	1.0
+816	rm3.topn10.10.0.5.bm25	usaid assistance to galapagos doi conserv fy activ ecuador	1.0
+816	rm3.topn10.10.0.5.qld	usaid assistance to galapagos fy conserv doi	1.0
+816	sensedisambiguation	USAID assistance aid to Galapagos galapagos islands	1.0
+816	sensedisambiguation.replace	USAID aid to galapagos islands	1.0
+816	stem.krovetz	usaid assistance to galapago	1.0
+816	stem.lovins	usaid assist to galapago	1.0
+816	stem.paicehusk	usaid assist to galapago	1.0
+816	stem.porter	usaid assist to galapago	1.0
+816	stem.porter2	usaid assist to galapago	1.0
+816	stem.sstemmer	usaid assistance to galapago	1.0
+816	tagmee.topn3	usaid assistance galapagos United States Agency for International Development Galápagos Islands	1.0
+816	termluster.topn5.3.qld	usaid assistance galapagos activ area assist year work water year work water	1.0
+816	thesaurus.topn3	usaid assistance galapagos	1.0
+816	thesaurus.topn3.replace	usaid assistance galapagos	1.0
+816	wiki.topn3	usaid assistance galapagos united states agency international development international fund agricultural development international fund agricultural development united states agency international development islands ecuador biosphere reserves ecuador surfing locations ecuador galápagos islands	1.0
+816	wordnet.topn3	usaid assistance galapagos help Galapagos Islands	1.0
+816	wordnet.topn3.replace	usaid aid help Galapagos Islands	1.0
+817	-1	sports stadium naming rights	1.0
+817	conceptluster.topn5.3.qld	sports stadium naming rights naming rights stadium	1.0
+817	docluster.topn10.3.qld	sports stadium naming rights sport contract franchis tax	1.0
+817	glove.topn3	sports stadium naming rights ballpark arena mo k human freedom	1.0
+817	sensedisambiguation.replace	sport stadium name right field	1.0
+817	stem.krovetz	sports stadium name rights	1.0
+817	stem.porter	sport stadium name right	1.0
+817	stem.porter2	sport stadium name right	1.0
+817	stem.sstemmer	sport stadium naming right	1.0
+817	tagmee.topn3	sports stadium naming rights Stadium Naming rights	1.0
+817	tagmee.topn3.replace	Stadium Naming rights	1.0
+817	thesaurus.topn3	sports stadium naming rights	1.0
+817	thesaurus.topn3.replace	sports stadium naming rights	1.0
+818	-1	Chaco Culture National Park	1.0
+818	anchor.topn3	chaco culture national park chilensis large lip semiárido sozialisten national noodzaak paris span magee 박찬욱 phokasomboun	1.0
+818	conceptnet.topn3	chaco culture national park shako Kalashnikov culture flag	1.0
+818	docluster.topn10.3.qld	chaco culture national park mr cultur nation	1.0
+818	relevancefeedback.topn10.qld	chaco culture national park cultur nation mr	1.0
+818	rm3.topn10.10.0.5.bm25	chaco culture national park cultur mr	1.0
+818	rm3.topn10.10.0.5.qld	chaco culture national park mr cultur nation	1.0
+818	sensedisambiguation	Chaco Culture polish National Park parking lot	1.0
+818	sensedisambiguation.replace	Chaco polish national parking lot	1.0
+818	stem.krovetz	chaco culture national park	1.0
+818	stem.porter	chaco cultur nation park	1.0
+818	stem.porter2	chaco cultur nation park	1.0
+818	stem.sstemmer	chaco culture national park	1.0
+818	termluster.topn5.3.qld	chaco culture national park american canyon cultur site park nativ site park nativ american canyon chaco	1.0
+818	thesaurus.topn3	chaco culture national park	1.0
+818	thesaurus.topn3.replace	chaco culture national park	1.0
+818	wordnet.topn3.replace	chaco cultivation finish subject home commons green	1.0
+819	-1	1890 Census	0.0175
+819	word2vec.topn3	census censuses Censuses	1.0
+819	conceptluster.topn5.3.qld	census united states census	0.3333
+819	tagmee.topn3	census United States Census	0.3333
+819	wiki.topn3	census united states census united states census united states census united states census	0.3333
+819	word2vec.topn3.replace	censuses Censuses	0.3333
+819	tagmee.topn3.replace	United States Census	0.25
+819	wiki.topn3.replace	united states census united states census united states census united states census	0.25
+819	conceptnet.topn3	census population	0.1429
+819	rm3.topn10.10.0.5.qld	census censu record	0.1429
+819	docluster.topn10.3.qld	census censu popul	0.0667
+819	rm3.topn10.10.0.5.bm25	census censu veteran	0.0625
+819	glove.topn3	census population inhabitants	0.0588
+819	termluster.topn5.3.qld	census januari unit	0.0294
+819	relevancefeedback.topn10.qld	census censu tract popul record	0.0204
+819	sensedisambiguation	Census	0.0175
+819	sensedisambiguation.replace	census	0.0175
+819	stem.krovetz	census	0.0175
+819	stem.lovins	census	0.0175
+819	stem.porter	censu	0.0175
+819	stem.porter2	census	0.0175
+819	stem.sstemmer	census	0.0175
+819	stem.trunc5	censu	0.0175
+819	thesaurus.topn3	census	0.0175
+819	thesaurus.topn3.replace	census	0.0175
+820	-1	imported fire ants	0.5
+820	anchor.topn3	imported fire ants illyrio championship ba ad	1.0
+820	bertqe.topn10.bm25	california alreadi tini d estruct	1.0
+820	conceptluster.topn5.3.qld	imported fire ants fire ant introduced species	1.0
+820	conceptnet.topn3	imported fire ants lighting a match smoke burn things insects colony social insects	1.0
+820	glove.topn3	imported fire ants exported termites	1.0
+820	sensedisambiguation	imported spell fire ants ant	1.0
+820	sensedisambiguation.replace	spell fire ant	1.0
+820	stem.trunc4	impo fire ants	1.0
+820	stem.trunc5	impor fire ants	1.0
+820	tagmee.topn3	imported fire ants Introduced species Fire ant	1.0
+820	tagmee.topn3.replace	Introduced species Fire ant	1.0
+820	wiki.topn3	imported fire ants invasivspecies introduced species cyperaceae introduced species leafcutter ant red imported firant queen ant fire ant	1.0
+820	wiki.topn3.replace	invasivspecies introduced species cyperaceae introduced species leafcutter ant red imported firant queen ant fire ant	1.0
+820	glove.topn3.replace	exported fire termites	0.5
+820	rm3.topn10.10.0.5.bm25	imported fire ants ant bait infect	0.5
+820	stem.krovetz	import fire ant	0.5
+820	stem.lovins	import fir ant	0.5
+820	stem.paicehusk	import fir ant	0.5
+820	stem.porter	import fire ant	0.5
+820	stem.porter2	import fire ant	0.5
+820	stem.sstemmer	imported fire ant	0.5
+820	thesaurus.topn3	imported fire ants	0.5
+820	thesaurus.topn3.replace	imported fire ants	0.5
+820	word2vec.topn3	imported fire ants exported flames wasps insects	0.5
+821	-1	Internet work-at-home scams	0.3333
+821	docluster.topn10.3.qld	internet work at home scams you work consum credit	1.0
+821	glove.topn3	internet work at home scams web online frauds	1.0
+821	glove.topn3.replace	web online work at home frauds	1.0
+821	rm3.topn10.10.0.5.bm25	internet work at home scams consum fraud credit s	1.0
+821	rm3.topn10.10.0.5.qld	internet work at home scams consum fraud credit s home	1.0
+821	relevancefeedback.topn10.qld	internet work at home scams work you home consum credit text s	0.5
+821	stem.lovins	internet work at hom scam	0.5
+821	stem.paicehusk	internet work at hom scam	0.5
+821	conceptnet.topn3	internet work at home scams	0.3333
+821	conceptnet.topn3.replace	internet work at home scams	0.3333
+821	sensedisambiguation	Internet work at home scams scam	0.3333
+821	sensedisambiguation.replace	internet work at home scam	0.3333
+821	stem.krovetz	internet work at home scam	0.3333
+821	stem.porter	internet work at home scam	0.3333
+821	stem.porter2	internet work at home scam	0.3333
+821	stem.sstemmer	internet work at home scam	0.3333
+821	thesaurus.topn3	internet work at home scams	0.3333
+821	thesaurus.topn3.replace	internet work at home scams	0.3333
+821	word2vec.topn3	internet work at home scams online intenet work from home telecommuting telecommuter scammers frauds	0.3333
+822	-1	Custer's Last Stand	0.3333
+822	bertqe.topn10.qld	sit bull detail david fr barri	0.5
+822	docluster.topn10.3.qld	custer s last stand custer american	0.5
+822	sensedisambiguation	Custer s Last Stand	0.3333
+822	sensedisambiguation.replace	custer s last stand	0.3333
+822	stem.krovetz	custer s last stand	0.3333
+822	stem.lovins	custer s last stand	0.3333
+822	stem.porter	custer s last stand	0.3333
+822	stem.porter2	custer s last stand	0.3333
+822	stem.sstemmer	custer s last stand	0.3333
+822	thesaurus.topn3	custer s last stand	0.3333
+822	thesaurus.topn3.replace	custer s last stand	0.3333
+822	wordnet.topn3	custer s last stand George Armstrong Custer General Custer in conclusion final cobbler s last put up sales booth tie up	0.3333
+823	-1	Continuing care retirement communities	1.0
+823	bertqe.topn10.qld	continu care contract found chapter	1.0
+823	conceptluster.topn5.3.qld	continuing care retirement communities continuing care retirement communities united states	1.0
+823	docluster.topn10.3.qld	continuing care retirement communities provid	1.0
+823	relevancefeedback.topn10.qld	continuing care retirement communities oper provid ccrc	1.0
+823	rm3.topn10.10.0.5.bm25	continuing care retirement communities oper	1.0
+823	rm3.topn10.10.0.5.qld	continuing care retirement communities oper provid ccrc	1.0
+823	sensedisambiguation	Continuing stay care worry retirement communities residential district	1.0
+823	stem.krovetz	continue care retirement community	1.0
+823	stem.porter	continu care retir commun	1.0
+823	stem.porter2	continu care retir communiti	1.0
+823	stem.sstemmer	continuing care retirement community	1.0
+823	tagmee.topn3	continuing care retirement communities Continuing care retirement communities in the United States	1.0
+823	tagmee.topn3.replace	Continuing care retirement communities in the United States	1.0
+823	thesaurus.topn3	continuing care retirement communities	1.0
+823	thesaurus.topn3.replace	continuing care retirement communities	1.0
+823	wiki.topn3	continuing care retirement communities continuing care retirement communities united states	1.0
+823	wiki.topn3.replace	continuing care retirement communities united states	1.0
+824	-1	Civil Air Patrol	1.0
+824	anchor.topn3	civil air patrol eforia ordinance spitalelor montasim dabatuyski foot nuship vessels	1.0
+824	conceptluster.topn5.3.qld	civil air patrol	1.0
+824	docluster.topn10.3.qld	civil air patrol	1.0
+824	glove.topn3	civil air patrol conflict brought force flying	1.0
+824	glove.topn3.replace	conflict brought force flying patrol	1.0
+824	relevancefeedback.topn10.qld	civil air patrol aerospac	1.0
+824	rm3.topn10.10.0.5.bm25	civil air patrol cap aerospac	1.0
+824	rm3.topn10.10.0.5.qld	civil air patrol cap	1.0
+824	sensedisambiguation	Civil Air tune Patrol	1.0
+824	sensedisambiguation.replace	civil tune patrol	1.0
+824	stem.krovetz	civil air patrol	1.0
+824	stem.lovins	civil air patrol	1.0
+824	stem.paicehusk	civil air patrol	1.0
+824	stem.porter	civil air patrol	1.0
+824	stem.porter2	civil air patrol	1.0
+824	stem.sstemmer	civil air patrol	1.0
+824	tagmee.topn3	civil air patrol Civil Air Patrol	1.0
+824	tagmee.topn3.replace	Civil Air Patrol	1.0
+824	termluster.topn5.3.qld	civil air patrol air nation patrol civil nation patrol air civil nation	1.0
+824	thesaurus.topn3	civil air patrol	1.0
+824	thesaurus.topn3.replace	civil air patrol	1.0
+824	wiki.topn3	civil air patrol civil air patrol american military youth groups air cadet organisations civil air patrol	1.0
+824	wiki.topn3.replace	civil air patrol american military youth groups air cadet organisations civil air patrol	1.0
+824	wordnet.topn3	civil air patrol civic polite send publicise melodic line police	1.0
+825	-1	National Guard Involvement in Iraq	0.1429
+825	stem.paicehusk	nat guard involv in iraq	0.25
+825	rm3.topn10.10.0.5.bm25	national guard involvement in iraq	0.1429
+825	stem.krovetz	national guard involve in iraq	0.1429
+825	stem.porter	nation guard involv in iraq	0.1429
+825	stem.porter2	nation guard involv in iraq	0.1429
+825	stem.sstemmer	national guard involvement in iraq	0.1429
+825	thesaurus.topn3	national guard involvement iraq	0.1429
+825	thesaurus.topn3.replace	national guard involvement iraq	0.1429
+826	-1	Florida Seminole Indians	0.25
+826	conceptnet.topn3	florida seminole indians a condominium a state the United States Muskhogean Muskogean western sleep in tents	1.0
+826	bertqe.topn10.bm25	ugrr america spanish north america	0.5
+826	conceptluster.topn5.3.qld	florida seminole indians seminole tribe florida	0.5
+826	tagmee.topn3.replace	Florida Seminole Tribe of Florida Seminole Seminole	0.5
+826	wiki.topn3	florida seminole indians peninsulas united states southeastern united states florida florida miccosukeindian reservation brighton seminolindian reservation american indian reservations florida seminole tribe florida uchebilly seminolwars billy bowlegs seminole uchebilly seminolwars billy bowlegs seminole	0.5
+826	wiki.topn3.replace	peninsulas united states southeastern united states florida florida miccosukeindian reservation brighton seminolindian reservation american indian reservations florida seminole tribe florida uchebilly seminolwars billy bowlegs seminole uchebilly seminolwars billy bowlegs seminole	0.5
+826	docluster.topn10.3.qld	florida seminole indians seminol	0.3333
+826	relevancefeedback.topn10.qld	florida seminole indians fla seminol fiction game	0.3333
+826	rm3.topn10.10.0.5.bm25	florida seminole indians seminol fla water game	0.3333
+826	rm3.topn10.10.0.5.qld	florida seminole indians seminol fla game fiction	0.3333
+826	tagmee.topn3	florida seminole indians Florida Seminole Tribe of Florida Seminole Seminole	0.3333
+826	termluster.topn5.3.qld	florida seminole indians indian seminol histori land indian histori seminol land histori	0.3333
+826	wordnet.topn3.replace	Everglade State Sunshine State seminole Red Indian American Indian language	0.3333
+826	sensedisambiguation.replace	florida seminole indian	0.25
+826	stem.krovetz	florida seminole indian	0.25
+826	stem.porter	florida seminol indian	0.25
+826	stem.porter2	florida seminol indian	0.25
+826	stem.sstemmer	florida seminole indian	0.25
+826	thesaurus.topn3	florida seminole indians	0.25
+826	thesaurus.topn3.replace	florida seminole indians	0.25
+827	-1	Hidden Markov Modeling HMM	1.0
+827	anchor.topn3	hidden markov modeling hmm hidden hidden br treasur predict chain process ctmc deribeev wall cross ktarian svk br r	1.0
+827	conceptnet.topn3.replace	concealed Andre Markoff markov number markov s inequality modeling hmm	1.0
+827	docluster.topn10.3.qld	hidden markov modeling hmm sequenc	1.0
+827	glove.topn3	hidden markov modeling hmm hiding hid continuous time bb simulation hmmm nope	1.0
+827	relevancefeedback.topn10.qld	hidden markov modeling hmm profil sequenc	1.0
+827	rm3.topn10.10.0.5.bm25	hidden markov modeling hmm sequenc profil	1.0
+827	rm3.topn10.10.0.5.qld	hidden markov modeling hmm profil sequenc	1.0
+827	sensedisambiguation	Hidden obscure Markov Modeling mold HMM	1.0
+827	stem.krovetz	hidden markov model hmm	1.0
+827	stem.paicehusk	hid markov model hmm	1.0
+827	stem.porter	hidden markov model hmm	1.0
+827	stem.porter2	hidden markov model hmm	1.0
+827	stem.sstemmer	hidden markov modeling hmm	1.0
+827	stem.trunc4	hidd mark mode hmm	1.0
+827	stem.trunc5	hidde marko model hmm	1.0
+827	termluster.topn5.3.qld	hidden markov modeling hmm exampl gener hmm exampl gener hidden type sequenc repres exampl gener hidden	1.0
+827	thesaurus.topn3	hidden markov modeling hmm	1.0
+827	thesaurus.topn3.replace	hidden markov modeling hmm	1.0
+827	wiki.topn3	hidden markov modeling hmm càdlàg feigenbaum constants central limit theorem markov process power law statistical model parameter mathematical model unsupervised learning support vector machine markov model hidden markov model	1.0
+828	-1	secret shoppers	1.0
+828	conceptluster.topn5.3.qld	secret shoppers	1.0
+828	docluster.topn10.3.qld	secret shoppers vendor wic lotteri store	1.0
+828	relevancefeedback.topn10.qld	secret shoppers interview vendor forest counterfeit lotteri center store wic recruit	1.0
+828	rm3.topn10.10.0.5.bm25	secret shoppers interview forest vendor recruit lotteri store counterfeit wic	1.0
+828	rm3.topn10.10.0.5.qld	secret shoppers vendor interview forest wic recruit lotteri store	1.0
+828	sensedisambiguation	secret unavowed shoppers shopper	1.0
+828	stem.porter	secret shopper	1.0
+828	stem.porter2	secret shopper	1.0
+828	stem.sstemmer	secret shopper	1.0
+828	tagmee.topn3	secret shoppers	1.0
+828	termluster.topn5.3.qld	secret shoppers shopper secret	1.0
+828	thesaurus.topn3	secret shoppers	1.0
+828	thesaurus.topn3.replace	secret shoppers	1.0
+828	wiki.topn3	secret shoppers	1.0
+829	-1	Spanish Civil War support	0.3333
+829	conceptluster.topn5.3.qld	spanish civil war support close air support	1.0
+829	tagmee.topn3	spanish civil war support Spanish Civil War Close air support	1.0
+829	tagmee.topn3.replace	Spanish Civil War Close air support	1.0
+829	wiki.topn3	spanish civil war support s spain s conflicts wars involving states peoples europe spanish civil war squadron aviation combat search rescue military rescue aircraft close air support	1.0
+829	anchor.topn3	spanish civil war support portugues palingenet autónoma eforia ordinance spitalelor war theori wars jeanlucjosset tnr mfi icsf	0.5
+829	glove.topn3	spanish civil war support spain portuguese conflict brought conflict	0.5
+829	stem.krovetz	spain civil war support	0.5
+829	docluster.topn10.3.qld	spanish civil war support	0.3333
+829	sensedisambiguation	Spanish Civil War support	0.3333
+829	sensedisambiguation.replace	spanish civil war support	0.3333
+829	stem.porter	spanish civil war support	0.3333
+829	stem.porter2	spanish civil war support	0.3333
+829	stem.sstemmer	spanish civil war support	0.3333
+829	thesaurus.topn3	spanish civil war support	0.3333
+829	thesaurus.topn3.replace	spanish civil war support	0.3333
+829	wiki.topn3.replace	s spain s conflicts wars involving states peoples europe spanish civil war squadron aviation combat search rescue military rescue aircraft close air support	0.3333
+830	-1	model railroads	0.5
+830	wordnet.topn3	model railroads pattern role model sandbag railway system dragoon	1.0
+830	conceptluster.topn5.3.qld	model railroads	0.5
+830	docluster.topn10.3.qld	model railroads	0.5
+830	stem.krovetz	model railroad	0.5
+830	stem.lovins	model railroad	0.5
+830	stem.paicehusk	model railroad	0.5
+830	stem.porter	model railroad	0.5
+830	stem.porter2	model railroad	0.5
+830	stem.sstemmer	model railroad	0.5
+830	tagmee.topn3	model railroads	0.5
+830	termluster.topn5.3.qld	model railroads railroad model	0.5
+830	thesaurus.topn3	model railroads	0.5
+830	thesaurus.topn3.replace	model railroads	0.5
+830	wiki.topn3	model railroads	0.5
+831	-1	Dulles Airport security	1.0
+831	anchor.topn3	dulles airport security hvöt tumushuke persilaki	1.0
+831	bertqe.topn10.qld	secur screener washington dull airport	1.0
+831	relevancefeedback.topn10.qld	dulles airport security van secur said	1.0
+831	rm3.topn10.10.0.5.bm25	dulles airport security secur in i said	1.0
+831	rm3.topn10.10.0.5.qld	dulles airport security secur tsa	1.0
+831	stem.krovetz	dulles airport security	1.0
+831	stem.porter	dull airport secur	1.0
+831	stem.porter2	dull airport secur	1.0
+831	stem.sstemmer	dulle airport security	1.0
+831	thesaurus.topn3	dulles airport security	1.0
+831	thesaurus.topn3.replace	dulles airport security	1.0
+831	wordnet.topn3	dulles airport security pall damp aerodrome airdrome security department certificate security measure	1.0
+832	-1	labor union activity	1.0
+832	rm3.topn10.10.0.5.bm25	labor union activity author provis arbitr time lwop agenc	1.0
+832	stem.krovetz	labor union activity	1.0
+832	stem.porter	labor union activ	1.0
+832	stem.porter2	labor union activ	1.0
+832	stem.sstemmer	labor union activity	1.0
+832	stem.trunc5	labor union activ	1.0
+832	termluster.topn5.3.qld	labor union activity law nation section labor law nation relat member employe	1.0
+832	thesaurus.topn3	labor union activity	1.0
+832	thesaurus.topn3.replace	labor union activity	1.0
+833	-1	Iceland government	1.0
+833	conceptluster.topn5.3.qld	iceland government politics iceland	1.0
+833	docluster.topn10.3.qld	iceland government	1.0
+833	rm3.topn10.10.0.5.qld	iceland government govern right	1.0
+833	sensedisambiguation	Iceland government politics	1.0
+833	sensedisambiguation.replace	iceland politics	1.0
+833	stem.krovetz	iceland government	1.0
+833	stem.paicehusk	iceland govern	1.0
+833	stem.porter	iceland govern	1.0
+833	stem.porter2	iceland govern	1.0
+833	stem.sstemmer	iceland government	1.0
+833	tagmee.topn3	iceland government Politics of Iceland	1.0
+833	tagmee.topn3.replace	Politics of Iceland	1.0
+833	termluster.topn5.3.qld	iceland government govern intern depart state site presid	1.0
+833	thesaurus.topn3	iceland government	1.0
+833	thesaurus.topn3.replace	iceland government	1.0
+833	wordnet.topn3	iceland government Republic of Iceland regime political science	1.0
+834	-1	Global positioning system earthquakes	0.2
+834	conceptnet.topn3	global positioning system earthquakes worldwide social organization shake the ground external risk	1.0
+834	conceptnet.topn3.replace	worldwide positioning social organization shake the ground external risk	1.0
+834	docluster.topn10.3.qld	global positioning system earthquakes posit earthquak	1.0
+834	glove.topn3	global positioning system earthquakes worldwide emerging gps which quakes	1.0
+834	glove.topn3.replace	worldwide emerging gps which quakes	1.0
+834	rm3.topn10.10.0.5.bm25	global positioning system earthquakes scign gp earthquak earth california	1.0
+834	rm3.topn10.10.0.5.qld	global positioning system earthquakes gp volcano earthquak scign earth see	1.0
+834	sensedisambiguation	Global positioning placement system earthquakes earthquake	1.0
+834	sensedisambiguation.replace	global placement system earthquake	1.0
+834	word2vec.topn3	global positioning system earthquakes international worldwide repositioning placement sytem system quakes temblors	1.0
+834	wordnet.topn3	global positioning system earthquakes globose world place location aligning system of rules scheme organisation temblor quake	1.0
+834	relevancefeedback.topn10.qld	global positioning system earthquakes posit gp volcano earthquak	0.3333
+834	stem.krovetz	global position system earthquake	0.2
+834	stem.porter	global posit system earthquak	0.2
+834	stem.porter2	global posit system earthquak	0.2
+834	stem.sstemmer	global positioning system earthquake	0.2
+834	thesaurus.topn3	global positioning system earthquakes	0.2
+834	thesaurus.topn3.replace	global positioning system earthquakes	0.2
+835	-1	Big Dig pork	1.0
+835	docluster.topn10.3.qld	big dig pork	1.0
+835	stem.krovetz	big dig pork	1.0
+835	stem.lovins	big dig pork	1.0
+835	stem.paicehusk	big dig pork	1.0
+835	stem.porter	big dig pork	1.0
+835	stem.porter2	big dig pork	1.0
+835	stem.sstemmer	big dig pork	1.0
+835	stem.trunc4	big dig pork	1.0
+835	stem.trunc5	big dig pork	1.0
+835	termluster.topn5.3.qld	big dig pork find servic state	1.0
+835	thesaurus.topn3	big dig pork	1.0
+835	thesaurus.topn3.replace	big dig pork	1.0
+836	-1	illegal immigrant wages	0.1429
+836	anchor.topn3	illegal immigrant wages voofoo grumpyfac noodlecak fyn lorri nord	1.0
+836	glove.topn3	illegal immigrant wages smuggling migrant salaries	1.0
+836	rm3.topn10.10.0.5.qld	illegal immigrant wages immigr illeg	1.0
+836	stem.lovins	illeg immigr wag	0.5
+836	stem.paicehusk	illeg immigr wag	0.5
+836	word2vec.topn3	illegal immigrant wages unlawful migrant salaries salary	0.5
+836	conceptnet.topn3	illegal immigrant wages Marijuana cocain misappropriated	0.25
+836	relevancefeedback.topn10.qld	illegal immigrant wages immigr illeg employ	0.25
+836	rm3.topn10.10.0.5.bm25	illegal immigrant wages illeg kwong in page chines law immigr	0.25
+836	wiki.topn3	illegal immigrant wages illegal immigration family reunification immigration law illegal immigration good economics labour market flexibility social insurance wage	0.2
+836	wordnet.topn3	illegal immigrant wages reward pay engage	0.2
+836	sensedisambiguation	illegal immigrant wages wage	0.1667
+836	conceptluster.topn5.3.qld	illegal immigrant wages illegal immigration wage	0.1429
+836	docluster.topn10.3.qld	illegal immigrant wages immigr	0.1429
+836	sensedisambiguation.replace	illegal immigrant wage	0.1429
+836	stem.krovetz	illegal immigrant wages	0.1429
+836	stem.porter	illeg immigr wage	0.1429
+836	stem.porter2	illeg immigr wage	0.1429
+836	stem.sstemmer	illegal immigrant wage	0.1429
+836	tagmee.topn3	illegal immigrant wages Illegal immigration Wage	0.1429
+836	tagmee.topn3.replace	Illegal immigration Wage	0.1429
+836	thesaurus.topn3	illegal immigrant wages	0.1429
+836	thesaurus.topn3.replace	illegal immigrant wages	0.1429
+837	-1	Eskimo History	0.0714
+837	conceptluster.topn5.3.qld	eskimo history eskimo kinship	1.0
+837	tagmee.topn3	eskimo history Eskimo kinship History	1.0
+837	tagmee.topn3.replace	Eskimo kinship History	1.0
+837	glove.topn3.replace	aleut inupiaq historical ever	0.5
+837	wiki.topn3	eskimo history crow kinship hawaiian kinship classificatory kinship eskimo kinship history academidisciplines literature history	0.5
+837	wiki.topn3.replace	crow kinship hawaiian kinship classificatory kinship eskimo kinship history academidisciplines literature history	0.5
+837	conceptnet.topn3.replace	eskimo past subject school	0.25
+837	stem.paicehusk	eskimo hist	0.25
+837	word2vec.topn3	eskimo history inuit history	0.25
+837	anchor.topn3	eskimo history charza ashevak sireniki recuyel seeg théodrat	0.2
+837	glove.topn3	eskimo history aleut inupiaq historical ever	0.2
+837	word2vec.topn3.replace	inuit history	0.1429
+837	anchor.topn3.replace	charza ashevak sireniki recuyel seeg théodrat	0.125
+837	relevancefeedback.topn10.qld	eskimo history bird curlew whale alaska	0.1
+837	rm3.topn10.10.0.5.qld	eskimo history whale bird alaska curlew	0.1
+837	rm3.topn10.10.0.5.bm25	eskimo history whale alaska bird	0.0833
+837	sensedisambiguation	Eskimo History	0.0714
+837	sensedisambiguation.replace	eskimo history	0.0714
+837	stem.krovetz	eskimo history	0.0714
+837	stem.porter	eskimo histori	0.0714
+837	stem.porter2	eskimo histori	0.0714
+837	stem.sstemmer	eskimo history	0.0714
+837	thesaurus.topn3	eskimo history	0.0714
+837	thesaurus.topn3.replace	eskimo history	0.0714
+838	-1	urban suburban coyotes	1.0
+838	bertqe.topn10.qld	wdfw live wildlif washington coyot	1.0
+838	conceptluster.topn5.3.qld	urban suburban coyotes	1.0
+838	docluster.topn10.3.qld	urban suburban coyotes coyot forest	1.0
+838	relevancefeedback.topn10.qld	urban suburban coyotes coyot forest food	1.0
+838	rm3.topn10.10.0.5.qld	urban suburban coyotes coyot food	1.0
+838	sensedisambiguation	urban suburban coyotes coyote	1.0
+838	sensedisambiguation.replace	urban suburban coyote	1.0
+838	stem.krovetz	urban suburban coyote	1.0
+838	stem.lovins	urban suburban coyot	1.0
+838	stem.porter	urban suburban coyote	1.0
+838	stem.porter2	urban suburban coyot	1.0
+838	stem.sstemmer	urban suburban coyote	1.0
+838	tagmee.topn3	urban suburban coyotes	1.0
+838	termluster.topn5.3.qld	urban suburban coyotes also anim area urban time state	1.0
+838	thesaurus.topn3	urban suburban coyotes	1.0
+838	thesaurus.topn3.replace	urban suburban coyotes	1.0
+838	wiki.topn3	urban suburban coyotes	1.0
+838	wordnet.topn3	urban suburban coyotes brush wolf Canis latrans	1.0
+839	-1	textile dyeing techniques	1.0
+839	anchor.topn3	textile dyeing techniques	1.0
+839	anchor.topn3.replace	textile dyeing techniques	1.0
+839	conceptnet.topn3	textile dyeing techniques	1.0
+839	conceptnet.topn3.replace	textile dyeing techniques	1.0
+839	docluster.topn10.3.qld	textile dyeing techniques dye us wast	1.0
+839	glove.topn3	textile dyeing techniques garment yarn methods	1.0
+839	glove.topn3.replace	garment yarn methods	1.0
+839	relevancefeedback.topn10.qld	textile dyeing techniques dye us color apparel textil chemic wast dyebath	1.0
+839	rm3.topn10.10.0.5.bm25	textile dyeing techniques us chemic wast dye color water	1.0
+839	rm3.topn10.10.0.5.qld	textile dyeing techniques us dye wast color textil chemic	1.0
+839	sensedisambiguation	textile fabric dyeing dye techniques technique	1.0
+839	sensedisambiguation.replace	fabric dye technique	1.0
+839	stem.krovetz	textile dye technique	1.0
+839	stem.lovins	textil dye techniqu	1.0
+839	stem.paicehusk	textil dye techn	1.0
+839	stem.porter	textil dye techniqu	1.0
+839	stem.porter2	textil dye techniqu	1.0
+839	stem.sstemmer	textile dyeing technique	1.0
+839	termluster.topn5.3.qld	textile dyeing techniques unit typic solut unit typic textil work well two	1.0
+839	thesaurus.topn3	textile dyeing techniques	1.0
+839	thesaurus.topn3.replace	textile dyeing techniques	1.0
+839	word2vec.topn3	textile dyeing techniques fabrics methods strategies	1.0
+839	word2vec.topn3.replace	fabrics dyeing methods strategies	1.0
+839	wordnet.topn3	textile dyeing techniques cloth fabric proficiency	1.0
+839	wordnet.topn3.replace	fabric material cloth dyeing proficiency	1.0
+840	-1	Geysers	1.0
+840	anchor.topn3	geysers	1.0
+840	anchor.topn3.replace	geysers	1.0
+840	conceptluster.topn5.3.qld	geysers	1.0
+840	conceptnet.topn3	geysers physical phenomena	1.0
+840	docluster.topn10.3.qld	geysers geyser	1.0
+840	rm3.topn10.10.0.5.bm25	geysers	1.0
+840	rm3.topn10.10.0.5.qld	geysers	1.0
+840	sensedisambiguation	Geysers geyser	1.0
+840	sensedisambiguation.replace	geyser	1.0
+840	stem.krovetz	geyser	1.0
+840	stem.lovins	geyser	1.0
+840	stem.porter	geyser	1.0
+840	stem.porter2	geyser	1.0
+840	stem.sstemmer	geyser	1.0
+840	tagmee.topn3	geysers Geyser	1.0
+840	tagmee.topn3.replace	Geyser	1.0
+840	termluster.topn5.3.qld	geysers within water veri	1.0
+840	thesaurus.topn3	geysers	1.0
+840	thesaurus.topn3.replace	geysers	1.0
+840	wordnet.topn3	geysers	1.0
+840	wordnet.topn3.replace	geysers	1.0
+841	-1	camel North America	1.0
+841	conceptluster.topn5.3.qld	camel north america camel	1.0
+841	docluster.topn10.3.qld	camel north america	1.0
+841	relevancefeedback.topn10.qld	camel north america anim ic poebrotherium student fossil yarn	1.0
+841	rm3.topn10.10.0.5.qld	camel north america anim fossil student ic peopl ag volcan	1.0
+841	stem.krovetz	camel north america	1.0
+841	stem.porter	camel north america	1.0
+841	stem.porter2	camel north america	1.0
+841	stem.sstemmer	camel north america	1.0
+841	stem.trunc5	camel north ameri	1.0
+841	tagmee.topn3	camel north america Camel North America	1.0
+841	tagmee.topn3.replace	Camel North America	1.0
+841	termluster.topn5.3.qld	camel north america histori america extinct fossil extinct fossil hors	1.0
+841	thesaurus.topn3	camel north america	1.0
+841	thesaurus.topn3.replace	camel north america	1.0
+841	word2vec.topn3	camel north america dromedary one humped south west east usa americans	1.0
+841	word2vec.topn3.replace	dromedary one humped south west east usa americans	1.0
+842	-1	David McCullough	0.0769
+842	wiki.topn3	david mccullough books john adams john adams book joseph sabin david mccullough	1.0
+842	wiki.topn3.replace	books john adams john adams book joseph sabin david mccullough	1.0
+842	conceptnet.topn3.replace	Saint David Old Testament mccullough	0.2
+842	wordnet.topn3	david mccullough St David Saint David	0.1429
+842	conceptnet.topn3	david mccullough Saint David Old Testament	0.0833
+842	conceptluster.topn5.3.qld	david mccullough	0.0769
+842	docluster.topn10.3.qld	david mccullough	0.0769
+842	glove.topn3	david mccullough rohch rohsh bulletinyyy	0.0769
+842	relevancefeedback.topn10.qld	david mccullough	0.0769
+842	rm3.topn10.10.0.5.bm25	david mccullough	0.0769
+842	rm3.topn10.10.0.5.qld	david mccullough	0.0769
+842	sensedisambiguation	David McCullough	0.0769
+842	sensedisambiguation.replace	david McCullough	0.0769
+842	stem.krovetz	david mccullough	0.0769
+842	stem.lovins	david mccullough	0.0769
+842	stem.paicehusk	david mccullough	0.0769
+842	stem.porter	david mccullough	0.0769
+842	stem.porter2	david mccullough	0.0769
+842	stem.sstemmer	david mccullough	0.0769
+842	tagmee.topn3	david mccullough David McCullough	0.0769
+842	tagmee.topn3.replace	David McCullough	0.0769
+842	thesaurus.topn3	david mccullough	0.0769
+842	thesaurus.topn3.replace	david mccullough	0.0769
+843	-1	Pol Pot	1.0
+843	conceptluster.topn5.3.qld	pol pot	1.0
+843	conceptnet.topn3	pol pot politician military	1.0
+843	docluster.topn10.3.qld	pol pot servic we i you rd	1.0
+843	glove.topn3	pol pot rouge maj boiling	1.0
+843	relevancefeedback.topn10.qld	pol pot were servic we you rd i o	1.0
+843	rm3.topn10.10.0.5.bm25	pol pot we you servic were prison cambodian rubin	1.0
+843	rm3.topn10.10.0.5.qld	pol pot were we you servic rubin prison i	1.0
+843	stem.krovetz	pol pot	1.0
+843	stem.lovins	pol pot	1.0
+843	stem.paicehusk	pol pot	1.0
+843	stem.porter	pol pot	1.0
+843	stem.porter2	pol pot	1.0
+843	stem.sstemmer	pol pot	1.0
+843	stem.trunc4	pol pot	1.0
+843	stem.trunc5	pol pot	1.0
+843	tagmee.topn3	pol pot Pol Pot	1.0
+843	tagmee.topn3.replace	Pol Pot	1.0
+843	termluster.topn5.3.qld	pol pot cambodia khmer pot cambodia khmer pol	1.0
+843	thesaurus.topn3	pol pot	1.0
+843	thesaurus.topn3.replace	pol pot	1.0
+843	wiki.topn3	pol pot people kampong thom province cambodian people convicted murder cambodian genocide pol pot	1.0
+843	wiki.topn3.replace	people kampong thom province cambodian people convicted murder cambodian genocide pol pot	1.0
+844	-1	segmental duplications	0.1
+844	stem.lovins	segm duplic	1.0
+844	stem.paicehusk	seg duply	1.0
+844	conceptluster.topn5.3.qld	segmental duplications segmentation biology gene duplication	0.3333
+844	stem.trunc5	segme dupli	0.3333
+844	tagmee.topn3	segmental duplications Segmentation biology Gene duplication	0.3333
+844	tagmee.topn3.replace	Segmentation biology Gene duplication	0.3333
+844	glove.topn3	segmental duplications semi circular js deletions insertions	0.1429
+844	sensedisambiguation	segmental duplications duplication	0.1429
+844	anchor.topn3	segmental duplications	0.1
+844	anchor.topn3.replace	segmental duplications	0.1
+844	sensedisambiguation.replace	segmental duplication	0.1
+844	stem.krovetz	segment duplicate	0.1
+844	stem.porter	segment duplic	0.1
+844	stem.porter2	segment duplic	0.1
+844	stem.sstemmer	segmental duplication	0.1
+844	thesaurus.topn3	segmental duplications	0.1
+844	thesaurus.topn3.replace	segmental duplications	0.1
+845	-1	New Jersey tomato	1.0
+845	conceptluster.topn5.3.qld	new jersey tomato jersey tomato	1.0
+845	conceptnet.topn3	new jersey tomato city modern old red love apple	1.0
+845	docluster.topn10.3.qld	new jersey tomato	1.0
+845	relevancefeedback.topn10.qld	new jersey tomato plant jersei d program	1.0
+845	rm3.topn10.10.0.5.bm25	new jersey tomato area acr harvest million percent	1.0
+845	rm3.topn10.10.0.5.qld	new jersey tomato plant program grade jersei milk dairi	1.0
+845	sensedisambiguation	New newly Jersey new jersey tomato	1.0
+845	sensedisambiguation.replace	newly new jersey tomato	1.0
+845	stem.krovetz	new jersey tomato	1.0
+845	stem.paicehusk	new jersey tomato	1.0
+845	stem.porter	new jersei tomato	1.0
+845	stem.porter2	new jersey tomato	1.0
+845	stem.sstemmer	new jersey tomato	1.0
+845	tagmee.topn3	new jersey tomato New Jersey Jersey Tomato	1.0
+845	tagmee.topn3.replace	New Jersey Jersey Tomato	1.0
+845	termluster.topn5.3.qld	new jersey tomato jersei state	1.0
+845	thesaurus.topn3	new jersey tomato	1.0
+845	thesaurus.topn3.replace	new jersey tomato	1.0
+846	-1	heredity and obesity	1.0
+846	anchor.topn3	heredity obesity	1.0
+846	anchor.topn3.replace	heredity obesity	1.0
+846	conceptluster.topn5.3.qld	heredity obesity obesity heredity	1.0
+846	conceptnet.topn3	heredity obesity organic process exercise	1.0
+846	stem.krovetz	heredity and obese	1.0
+846	stem.sstemmer	heredity and obesity	1.0
+846	tagmee.topn3	heredity obesity Heredity Obesity	1.0
+846	tagmee.topn3.replace	Heredity Obesity	1.0
+846	termluster.topn5.3.qld	heredity obesity weight problem person	1.0
+846	thesaurus.topn3	heredity obesity	1.0
+846	thesaurus.topn3.replace	heredity obesity	1.0
+846	wiki.topn3	heredity obesity teratology somatic ontogeny heredity bariatrics overweight body shape obesity	1.0
+847	-1	Portugal World War II	0.25
+847	glove.topn3	portugal world war ii spain lisbon time ever conflict iii iv	1.0
+847	rm3.topn10.10.0.5.bm25	portugal world war ii alli gold we	1.0
+847	rm3.topn10.10.0.5.qld	portugal world war ii gold alli bank	1.0
+847	sensedisambiguation	Portugal World worldly concern War II two	1.0
+847	sensedisambiguation.replace	portugal worldly concern war two	1.0
+847	stem.paicehusk	portug world war iy	1.0
+847	wiki.topn3	portugal world war ii portugal world war ii wars involving luxembourg wars involving poland wars involving netherlands world war ii	1.0
+847	wiki.topn3.replace	portugal world war ii wars involving luxembourg wars involving poland wars involving netherlands world war ii	1.0
+847	wordnet.topn3	portugal world war ii Portuguese Republic mankind domain human race warfare state of war deuce two	1.0
+847	wordnet.topn3.replace	Portuguese Republic Earth domain warfare state of war deuce	1.0
+847	glove.topn3.replace	spain lisbon time ever conflict iii iv	0.5
+847	anchor.topn3	portugal world war ii mieder bosbach strödter world list pekōrya mou war theori wars jeanlucjosset ii kara ḫardaš nazi bugaš and the events at end of his reign iii	0.3333
+847	tagmee.topn3	portugal world war ii Portugal during World War II World War II	0.3333
+847	conceptluster.topn5.3.qld	portugal world war ii portugal world war ii	0.25
+847	relevancefeedback.topn10.qld	portugal world war ii fiction alli	0.25
+847	stem.krovetz	portugal world war ii	0.25
+847	stem.lovins	portug world war ii	0.25
+847	stem.porter	portug world war ii	0.25
+847	stem.porter2	portug world war ii	0.25
+847	stem.sstemmer	portugal world war ii	0.25
+847	thesaurus.topn3	portugal world war ii	0.25
+847	thesaurus.topn3.replace	portugal world war ii	0.25
+848	-1	radio station call letters	1.0
+848	anchor.topn3	radio station call letters wcmz tv a radio televis radyjo shimoyashiki station bird negeori xenotaenia mean wennef	1.0
+848	anchor.topn3.replace	wcmz tv a radio televis radyjo shimoyashiki station bird negeori xenotaenia mean wennef letters	1.0
+848	conceptluster.topn5.3.qld	radio station call letters call sign radio station	1.0
+848	docluster.topn10.3.qld	radio station call letters fm	1.0
+848	glove.topn3	radio station call letters broadcast broadcasts operated correspondence	1.0
+848	relevancefeedback.topn10.qld	radio station call letters fm l your ham report	1.0
+848	rm3.topn10.10.0.5.qld	radio station call letters fm letter	1.0
+848	sensedisambiguation	radio radio receiver station call margin call letters letter	1.0
+848	stem.krovetz	radio station call letters	1.0
+848	stem.porter	radio station call letter	1.0
+848	stem.porter2	radio station call letter	1.0
+848	stem.sstemmer	radio station call letter	1.0
+848	tagmee.topn3	radio station call letters Radio station Call sign	1.0
+848	termluster.topn5.3.qld	radio station call letters call letter station call letter radio letter radio station station radio locat	1.0
+848	thesaurus.topn3	radio station call letters	1.0
+848	thesaurus.topn3.replace	radio station call letters	1.0
+848	wiki.topn3	radio station call letters radio station call signs amateur radio call signs telecommunications law call sign	1.0
+849	-1	Scalable Vector Graphics	1.0
+849	anchor.topn3	scalable vector graphics hyperslic self record animation focused	1.0
+849	conceptluster.topn5.3.qld	scalable vector graphics	1.0
+849	conceptnet.topn3	scalable vector graphics gyrovector gdi artwork	1.0
+849	conceptnet.topn3.replace	scalable gyrovector gdi artwork	1.0
+849	docluster.topn10.3.qld	scalable vector graphics	1.0
+849	relevancefeedback.topn10.qld	scalable vector graphics imag svg graphic visual file render t	1.0
+849	rm3.topn10.10.0.5.bm25	scalable vector graphics svg imag render file download graphic system visual	1.0
+849	rm3.topn10.10.0.5.qld	scalable vector graphics svg graphic imag file cwt visual	1.0
+849	sensedisambiguation.replace	scalable vector graphic	1.0
+849	stem.porter	scalabl vector graphic	1.0
+849	stem.porter2	scalabl vector graphic	1.0
+849	stem.sstemmer	scalable vector graphic	1.0
+849	tagmee.topn3	scalable vector graphics Scalable Vector Graphics	1.0
+849	tagmee.topn3.replace	Scalable Vector Graphics	1.0
+849	termluster.topn5.3.qld	scalable vector graphics vector graphic format graphic scalabl format vector scalabl format	1.0
+849	thesaurus.topn3	scalable vector graphics	1.0
+849	thesaurus.topn3.replace	scalable vector graphics	1.0
+849	wiki.topn3	scalable vector graphics mathml web browser engine konqueror scalable vector graphics	1.0
+849	wiki.topn3.replace	mathml web browser engine konqueror scalable vector graphics	1.0
+850	-1	Mississippi River flood	0.25
+850	rm3.topn10.10.0.5.bm25	mississippi river flood sediment leve	1.0
+850	stem.trunc5	missi river flood	1.0
+850	termluster.topn5.3.qld	mississippi river flood flood river leve flood mississippi leve mississippi river leve	1.0
+850	wiki.topn3	mississippi river flood borders minnesota borders iowa borders louisiana mississippi river drought levee flash flood flood	1.0
+850	wiki.topn3.replace	borders minnesota borders iowa borders louisiana mississippi river drought levee flash flood flood	1.0
+850	word2vec.topn3	mississippi river flood missouri delaware louisiana creek deluge	1.0
+850	sensedisambiguation	Mississippi River flood flood tide	0.5
+850	wordnet.topn3	mississippi river flood Mississippi River Magnolia State photoflood inundation flood tide	0.5
+850	rm3.topn10.10.0.5.qld	mississippi river flood plate near sediment	0.3333
+850	sensedisambiguation.replace	mississippi river flood tide	0.3333
+850	anchor.topn3.replace	mississippi histori mississippi person mississippi educ gogra river drain phalguni sint elisabethsvlo california decemb flood	0.25
+850	docluster.topn10.3.qld	mississippi river flood	0.25
+850	stem.krovetz	mississippi river flood	0.25
+850	stem.porter	mississippi river flood	0.25
+850	stem.porter2	mississippi river flood	0.25
+850	stem.sstemmer	mississippi river flood	0.25
+850	tagmee.topn3	mississippi river flood Mississippi River Flood	0.25
+850	tagmee.topn3.replace	Mississippi River Flood	0.25
+850	thesaurus.topn3	mississippi river flood	0.25
+850	thesaurus.topn3.replace	mississippi river flood	0.25

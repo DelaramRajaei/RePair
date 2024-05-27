@@ -1,0 +1,228 @@
+qid	order	query	qld.recip_rank
+701	-1	U.S. oil industry history	0.2
+701	bt_nllb_arabic	The history of the American oil industry	1.0
+701	bt_nllb_french	The history of the American oil industry	1.0
+701	bt_nllb_german	The history of the US oil industry	0.3333
+702	-1	Pearl farming	1.0
+704	-1	Green party political views	0.5
+705	-1	Iraq foreign debt reduction	1.0
+706	-1	Controlling type II diabetes	0.2
+706	bt_nllb_malay	Managing type diabetes	0.3333
+707	-1	Aspirin cancer prevention	1.0
+708	-1	Decorative slate sources	1.0
+709	-1	Horse racing jockey weight	1.0
+710	-1	Prostate cancer treatments	1.0
+711	-1	Train station security measures	0.5
+712	-1	Pyramid scheme	1.0
+713	-1	Chesapeake Bay Maryland clean	0.3333
+714	-1	License restrictions older drivers	1.0
+715	-1	Schizophrenia drugs	1.0
+716	-1	Spammer arrest sue	0.125
+716	bt_nllb_chinese_yue	Arrest and prosecution of spam	1.0
+716	bt_nllb_german	Spammer arrest lawsuit	1.0
+716	bt_nllb_korean	Spammers arresting lawsuit	1.0
+716	bt_nllb_swahili	Spammer arrested trial	1.0
+716	bt_nllb_tamil	The case of the arrest of the spammers	1.0
+717	-1	Gifted talented student programs	1.0
+718	-1	Controlling acid rain	1.0
+719	-1	Cruise ship damage sea life	1.0
+720	-1	Federal welfare reform	0.3333
+721	-1	Census data applications	0.25
+721	bt_nllb_korean	Apply for census data	1.0
+722	-1	Iran terrorism	1.0
+723	-1	Executive privilege	1.0
+724	-1	Iran Contra	1.0
+725	-1	Low white blood cell count	0.5
+725	bt_nllb_chinese_yue	Low blood cell count	1.0
+725	bt_nllb_german	Low blood protein counts	1.0
+726	-1	Hubble telescope repairs	1.0
+727	-1	Church arson	1.0
+728	-1	whales save endangered	1.0
+729	-1	Whistle blower department of defense	0.0159
+729	bt_nllb_korean	The Department of Defense is blowing a whistle	0.2
+730	-1	Gastric bypass complications	0.5
+730	bt_nllb_swahili	Problems with gastric surgery	1.0
+731	-1	Kurds history	0.1111
+731	bt_nllb_chinese_yue	Kurdish history	1.0
+731	bt_nllb_german	Kurdish history	1.0
+731	bt_nllb_malay	Kurdish history	1.0
+731	bt_nllb_persian	The history of Kurdistan	0.2
+732	-1	U.S. cheese production	0.25
+732	bt_nllb_german	The production of cheese in the USA	1.0
+732	bt_nllb_russian	Cheese production in the US	0.5
+733	-1	Airline overbooking	1.0
+734	-1	Recycling successes	0.5
+735	-1	Afghan women condition	1.0
+736	-1	location BSE infections	1.0
+737	-1	Enron California energy crisis	1.0
+738	-1	Anthrax hoaxes	1.0
+739	-1	Habitat for Humanity	0.3333
+740	-1	regulate assisted living Maryland	1.0
+741	-1	Artificial Intelligence	0.125
+742	-1	hedge funds fraud protection	1.0
+743	-1	Freighter ship registration	0.2
+743	bt_nllb_french	Register of freight vessels	1.0
+743	bt_nllb_chinese_yue	The cargo ship is registered	0.5
+743	bt_nllb_persian	Register of ships	0.5
+744	-1	Counterfeit ID punishments	0.0
+744	bt_nllb_russian	Penalties for counterfeiting identity card	0.3333
+744	bt_nllb_chinese_yue	The punishment for fake ID	0.1111
+744	bt_nllb_korean	The punishment for fake ID	0.1111
+744	bt_nllb_german	Penalties for counterfeit identification	0.1
+744	bt_nllb_arabic	The penalties for a fake identity	0.0455
+744	bt_nllb_swahili	False identity judgments	0.0278
+744	bt_nllb_persian	The penalties for false identity	0.0227
+745	-1	Doomsday cults	1.0
+746	-1	Outsource job India	1.0
+747	-1	Library computer oversight	0.5
+748	-1	Nuclear reactor types	0.5
+749	-1	Puerto Rico state	0.2
+750	-1	John Edwards womens issues	0.0588
+751	-1	Scrabble Players	1.0
+752	-1	Dam removal	1.0
+753	-1	bullying prevention programs	1.0
+754	-1	domestic adoption laws	0.25
+754	bt_nllb_korean	Adoption laws in the country	1.0
+754	bt_nllb_persian	The rules of domestic adoption	1.0
+754	bt_nllb_tamil	The adoption laws are the same as the national laws	0.5
+754	bt_nllb_french	national laws on adoption	0.3333
+754	bt_nllb_german	National adoption laws	0.3333
+754	bt_nllb_russian	national laws on adoption	0.3333
+755	-1	Scottish Highland Games	1.0
+756	-1	Volcanic Activity	0.5
+757	-1	Murals	0.3333
+758	-1	Embryonic stem cells	1.0
+759	-1	civil war battle reenactments	1.0
+760	-1	american muslim mosques schools	1.0
+761	-1	Problems of Hmong Immigrants	1.0
+762	-1	History of Physicians in America	0.0833
+763	-1	Hunting deaths	0.5
+763	bt_nllb_arabic	The deaths from hunting	1.0
+763	bt_nllb_korean	Deaths from Hunting	1.0
+763	bt_nllb_russian	Death from Hunting	1.0
+764	-1	Increase mass transit use	1.0
+765	-1	ephedra ma huang deaths	1.0
+766	-1	diamond smuggling	1.0
+767	-1	Pharmacist License requirements	1.0
+768	-1	Women in state legislatures	0.5
+769	-1	Kroll Associates Employees	0.1111
+770	-1	Kyrgyzstan-United States relations	1.0
+771	-1	deformed leopard frogs	1.0
+772	-1	flag display rules	1.0
+773	-1	Pennsylvania slot machine gambling	1.0
+774	-1	Causes of Homelessness	1.0
+775	-1	Commercial candy makers	1.0
+776	-1	Magnet schools success	0.25
+777	-1	hybrid alternative fuel cars	0.25
+777	bt_nllb_persian	Hybrid fuel cars are replacing them	1.0
+777	bt_nllb_malay	hybrid alternative fuels	0.3333
+778	-1	golden ratio	1.0
+779	-1	Javelinas range and description	1.0
+780	-1	Arable land	1.0
+781	-1	Squirrel control and protections	0.5
+782	-1	Orange varieties seasons	1.0
+783	-1	school mercury poisoning	0.3333
+784	-1	mersenne primes	1.0
+785	-1	Ivory-billed woodpecker	1.0
+786	-1	Yew trees	0.5
+787	-1	Sunflower Cultivation	1.0
+788	-1	Reverse mortgages	1.0
+789	-1	abandoned mine reclamation	0.5
+790	-1	women's rights in Saudi Arabia	1.0
+791	-1	Gullah geechee language culture	1.0
+792	-1	Social Security means test	0.2
+792	bt_nllb_chinese_yue	Social Security is a test	0.5
+792	bt_nllb_persian	Social Security is a test	0.5
+792	bt_nllb_tamil	Social security testing	0.5
+793	-1	Bagpipe Bands	1.0
+794	-1	pet therapy	0.5
+794	bt_nllb_russian	therapy of domestic animals	1.0
+795	-1	notable cocker spaniels	0.0278
+795	bt_nllb_korean	A remarkable Coker Spaniel	0.3333
+795	bt_nllb_arabic	Cockroaches are remarkable Spaniels	0.125
+795	bt_nllb_persian	Notable spaniels	0.0588
+795	bt_nllb_malay	The famous spaniel cocker	0.04
+795	bt_nllb_swahili	The famous cocker Spaniels	0.04
+795	bt_nllb_french	the remarkable cocker Spaniels	0.0294
+796	-1	Blue Grass Music Festival history	0.5
+797	-1	reintroduction of gray wolves	1.0
+798	-1	Massachusetts textile mills	0.5
+799	-1	Animals in Alzheimer's research	1.0
+800	-1	Ovarian Cancer Treatment	0.0909
+801	-1	Kudzu Pueraria lobata	1.0
+802	-1	Volcano eruptions global temperature	1.0
+803	-1	May Day	0.0
+804	-1	ban on human cloning	0.3333
+804	bt_nllb_arabic	Prohibit human cloning	1.0
+804	bt_nllb_french	prohibition on cloning humans	1.0
+804	bt_nllb_german	Prohibition of cloning of humans	1.0
+804	bt_nllb_korean	Prohibition of human reproduction	1.0
+804	bt_nllb_malay	Prohibition of human cloning	1.0
+805	-1	Identity Theft Passport	0.0909
+806	-1	Doctors Without Borders	1.0
+807	-1	Sugar tariff-rate quotas	1.0
+808	-1	North Korean Counterfeiting	1.0
+809	-1	wetlands wastewater treatment	1.0
+810	-1	timeshare resales	1.0
+811	-1	handwriting recognition	0.5
+812	-1	total knee replacement surgery	1.0
+813	-1	Atlantic Intracoastal Waterway	1.0
+814	-1	Johnstown flood	1.0
+815	-1	Coast Guard rescues	0.125
+815	bt_nllb_korean	Coast Guard rescued him	1.0
+815	bt_nllb_arabic	Saving the Coast Guard	0.3333
+815	bt_nllb_russian	Coast Guard is saving	0.3333
+816	-1	USAID assistance to Galapagos	1.0
+817	-1	sports stadium naming rights	1.0
+818	-1	Chaco Culture National Park	1.0
+819	-1	1890 Census	0.0175
+820	-1	imported fire ants	0.5
+820	bt_nllb_persian	Fire ants are in	1.0
+821	-1	Internet work-at-home scams	0.3333
+821	bt_nllb_german	Internet work to home fraud	1.0
+821	bt_nllb_malay	Internet fraud works at home	1.0
+821	bt_nllb_persian	Internet scams at work	1.0
+821	bt_nllb_french	Internet scams at work from home	0.5
+822	-1	Custer's Last Stand	0.3333
+822	bt_nllb_malay	Custer s last defense	0.5
+822	bt_nllb_russian	Custer s last shot	0.5
+823	-1	Continuing care retirement communities	1.0
+824	-1	Civil Air Patrol	1.0
+825	-1	National Guard Involvement in Iraq	0.1429
+825	bt_nllb_swahili	The National Guard s Co operation in Iraq	0.2
+826	-1	Florida Seminole Indians	0.25
+827	-1	Hidden Markov Modeling HMM	1.0
+828	-1	secret shoppers	1.0
+829	-1	Spanish Civil War support	0.3333
+830	-1	model railroads	0.5
+831	-1	Dulles Airport security	1.0
+832	-1	labor union activity	1.0
+833	-1	Iceland government	1.0
+834	-1	Global positioning system earthquakes	0.2
+834	bt_nllb_malay	Earthquake global placement system	1.0
+835	-1	Big Dig pork	1.0
+836	-1	illegal immigrant wages	0.1429
+837	-1	Eskimo History	0.0714
+838	-1	urban suburban coyotes	1.0
+839	-1	textile dyeing techniques	1.0
+840	-1	Geysers	1.0
+841	-1	camel North America	1.0
+842	-1	David McCullough	0.0769
+842	bt_nllb_persian	I m going to see David McCullough	1.0
+842	bt_nllb_chinese_yue	David McCullough is the author of this book	0.2
+843	-1	Pol Pot	1.0
+844	-1	segmental duplications	0.1
+845	-1	New Jersey tomato	1.0
+846	-1	heredity and obesity	1.0
+847	-1	Portugal World War II	0.25
+847	bt_nllb_chinese_yue	Portugal during the Second World War	1.0
+847	bt_nllb_french	Portugal The Second World War	1.0
+847	bt_nllb_german	Portugal Second World War	1.0
+847	bt_nllb_korean	Portugal during the Second World War	1.0
+847	bt_nllb_persian	Portugal during World War II	1.0
+847	bt_nllb_russian	Portugal Second world war	1.0
+847	bt_nllb_swahili	Portugal during World War II	1.0
+847	bt_nllb_tamil	Portugal during World War II	1.0
+848	-1	radio station call letters	1.0
+849	-1	Scalable Vector Graphics	1.0
+850	-1	Mississippi River flood	0.25

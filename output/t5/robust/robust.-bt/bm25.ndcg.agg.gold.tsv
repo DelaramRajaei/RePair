@@ -1,0 +1,2635 @@
+qid	order	query	bm25.ndcg
+301	-1	international organized crime	0.0586
+301	pred.bt.1	international organized crime constitutional law public international law criminal law international law extortion mafia money laundering organized crime	0.1324
+301	pred.bt.10	international organized crime constitutional law public international law criminal law international law extortion mafia money laundering organized crime	0.1324
+301	pred.bt.2	international organized crime constitutional law public international law criminal law international law extortion mafia money laundering organized crime	0.1324
+301	pred.bt.3	international organized crime constitutional law public international law criminal law international law extortion mafia money laundering organized crime	0.1324
+301	pred.bt.4	international organized crime constitutional law public international law criminal law international law extortion mafia money laundering organized crime	0.1324
+301	pred.bt.5	international organized crime constitutional law public international law criminal law international law extortion mafia money laundering organized crime	0.1324
+301	pred.bt.6	international organized crime constitutional law public international law criminal law international law extortion mafia money laundering organized crime	0.1324
+301	pred.bt.7	international organized crime constitutional law public international law criminal law international law extortion mafia money laundering organized crime	0.1324
+301	pred.bt.8	international organized crime constitutional law public international law criminal law international law extortion mafia money laundering organized crime	0.1324
+301	pred.bt.9	international organized crime constitutional law public international law criminal law international law extortion mafia money laundering organized crime	0.1324
+302	-1	poliomyelitis and post-polio	0.7405
+302	pred.bt.1	poliomyelitis and post polio case polio i health hi vaccin china percent	0.7535
+302	pred.bt.10	poliomyelitis and post polio case polio i health hi vaccin china percent	0.7535
+302	pred.bt.2	poliomyelitis and post polio case polio i health hi vaccin china percent	0.7535
+302	pred.bt.3	poliomyelitis and post polio case polio i health hi vaccin china percent	0.7535
+302	pred.bt.4	poliomyelitis and post polio case polio i health hi vaccin china percent	0.7535
+302	pred.bt.5	poliomyelitis and post polio case polio i health hi vaccin china percent	0.7535
+302	pred.bt.6	poliomyelitis and post polio case polio i health hi vaccin china percent	0.7535
+302	pred.bt.7	poliomyelitis and post polio case polio i health hi vaccin china percent	0.7535
+302	pred.bt.8	poliomyelitis and post polio case polio i health hi vaccin china percent	0.7535
+302	pred.bt.9	poliomyelitis and post polio case polio i health hi vaccin china percent	0.7535
+303	-1	hubble telescope achievements	0.5126
+303	pred.bt.1	hubble telescope achievements great observatories program hubble space telescope standard candles hubble space telescope	0.6668
+303	pred.bt.10	hubble telescope achievements great observatories program hubble space telescope standard candles hubble space telescope	0.6668
+303	pred.bt.2	hubble telescope achievements great observatories program hubble space telescope standard candles hubble space telescope	0.6668
+303	pred.bt.3	hubble telescope achievements great observatories program hubble space telescope standard candles hubble space telescope	0.6668
+303	pred.bt.4	hubble telescope achievements great observatories program hubble space telescope standard candles hubble space telescope	0.6668
+303	pred.bt.5	hubble telescope achievements great observatories program hubble space telescope standard candles hubble space telescope	0.6668
+303	pred.bt.6	hubble telescope achievements great observatories program hubble space telescope standard candles hubble space telescope	0.6668
+303	pred.bt.7	hubble telescope achievements great observatories program hubble space telescope standard candles hubble space telescope	0.6668
+303	pred.bt.8	hubble telescope achievements great observatories program hubble space telescope standard candles hubble space telescope	0.6668
+303	pred.bt.9	hubble telescope achievements great observatories program hubble space telescope standard candles hubble space telescope	0.6668
+304	-1	endangered species (mammals)	0.2081
+304	pred.bt.1	endangered species mammals endangered species	0.2202
+304	pred.bt.10	endangered species mammals endangered species	0.2202
+304	pred.bt.2	endangered species mammals endangered species	0.2202
+304	pred.bt.3	endangered species mammals endangered species	0.2202
+304	pred.bt.4	endangered species mammals endangered species	0.2202
+304	pred.bt.5	endangered species mammals endangered species	0.2202
+304	pred.bt.6	endangered species mammals endangered species	0.2202
+304	pred.bt.7	endangered species mammals endangered species	0.2202
+304	pred.bt.8	endangered species mammals endangered species	0.2202
+304	pred.bt.9	endangered species mammals endangered species	0.2202
+305	-1	most dangerous vehicles	0.0323
+305	pred.bt.1	risk vehicle	0.0425
+305	pred.bt.10	risk vehicle	0.0425
+305	pred.bt.2	risk vehicle	0.0425
+305	pred.bt.3	risk vehicle	0.0425
+305	pred.bt.4	risk vehicle	0.0425
+305	pred.bt.5	risk vehicle	0.0425
+305	pred.bt.6	risk vehicle	0.0425
+305	pred.bt.7	risk vehicle	0.0425
+305	pred.bt.8	risk vehicle	0.0425
+305	pred.bt.9	risk vehicle	0.0425
+306	-1	african civilian deaths	0.1539
+306	pred.bt.1	african civilian deaths end	0.1639
+306	pred.bt.10	african civilian deaths end	0.1639
+306	pred.bt.2	african civilian deaths end	0.1639
+306	pred.bt.3	african civilian deaths end	0.1639
+306	pred.bt.4	african civilian deaths end	0.1639
+306	pred.bt.5	african civilian deaths end	0.1639
+306	pred.bt.6	african civilian deaths end	0.1639
+306	pred.bt.7	african civilian deaths end	0.1639
+306	pred.bt.8	african civilian deaths end	0.1639
+306	pred.bt.9	african civilian deaths end	0.1639
+307	-1	new hydroelectric projects	0.3366
+308	-1	implant dentistry	0.488
+308	pred.bt.1	implant dentistry dental implant	0.5856
+308	pred.bt.10	implant dentistry dental implant	0.5856
+308	pred.bt.2	implant dentistry dental implant	0.5856
+308	pred.bt.3	implant dentistry dental implant	0.5856
+308	pred.bt.4	implant dentistry dental implant	0.5856
+308	pred.bt.5	implant dentistry dental implant	0.5856
+308	pred.bt.6	implant dentistry dental implant	0.5856
+308	pred.bt.7	implant dentistry dental implant	0.5856
+308	pred.bt.8	implant dentistry dental implant	0.5856
+308	pred.bt.9	implant dentistry dental implant	0.5856
+309	-1	rap and crime	0.0
+309	pred.bt.1	rap crime music hip hop	0.0771
+309	pred.bt.10	rap crime music hip hop	0.0771
+309	pred.bt.2	rap crime music hip hop	0.0771
+309	pred.bt.3	rap crime music hip hop	0.0771
+309	pred.bt.4	rap crime music hip hop	0.0771
+309	pred.bt.5	rap crime music hip hop	0.0771
+309	pred.bt.6	rap crime music hip hop	0.0771
+309	pred.bt.7	rap crime music hip hop	0.0771
+309	pred.bt.8	rap crime music hip hop	0.0771
+309	pred.bt.9	rap crime music hip hop	0.0771
+310	-1	radio waves and brain cancer	0.3509
+310	pred.bt.1	radio waves brain cancer television brain leukemia lymphoma	0.377
+310	pred.bt.10	radio waves brain cancer television brain leukemia lymphoma	0.377
+310	pred.bt.2	radio waves brain cancer television brain leukemia lymphoma	0.377
+310	pred.bt.3	radio waves brain cancer television brain leukemia lymphoma	0.377
+310	pred.bt.4	radio waves brain cancer television brain leukemia lymphoma	0.377
+310	pred.bt.5	radio waves brain cancer television brain leukemia lymphoma	0.377
+310	pred.bt.6	radio waves brain cancer television brain leukemia lymphoma	0.377
+310	pred.bt.7	radio waves brain cancer television brain leukemia lymphoma	0.377
+310	pred.bt.8	radio waves brain cancer television brain leukemia lymphoma	0.377
+310	pred.bt.9	radio waves brain cancer television brain leukemia lymphoma	0.377
+311	-1	industrial espionage	0.4199
+311	pred.bt.1	industrial espionage factory postindustrial	0.4481
+311	pred.bt.10	industrial espionage factory postindustrial	0.4481
+311	pred.bt.2	industrial espionage factory postindustrial	0.4481
+311	pred.bt.3	industrial espionage factory postindustrial	0.4481
+311	pred.bt.4	industrial espionage factory postindustrial	0.4481
+311	pred.bt.5	industrial espionage factory postindustrial	0.4481
+311	pred.bt.6	industrial espionage factory postindustrial	0.4481
+311	pred.bt.7	industrial espionage factory postindustrial	0.4481
+311	pred.bt.8	industrial espionage factory postindustrial	0.4481
+311	pred.bt.9	industrial espionage factory postindustrial	0.4481
+312	-1	hydroponics	0.9559
+312	pred.bt.1	hydroponics	0.9559
+312	pred.bt.10	hydroponics	0.9559
+312	pred.bt.2	hydroponics	0.9559
+312	pred.bt.3	hydroponics	0.9559
+312	pred.bt.4	hydroponics	0.9559
+312	pred.bt.5	hydroponics	0.9559
+312	pred.bt.6	hydroponics	0.9559
+312	pred.bt.7	hydroponics	0.9559
+312	pred.bt.8	hydroponics	0.9559
+312	pred.bt.9	hydroponics	0.9559
+313	-1	magnetic levitation-maglev	0.8249
+313	pred.bt.1	magnetic levitation maglev magnet train railwai la said would project	0.8496
+313	pred.bt.10	magnetic levitation maglev magnet train railwai la said would project	0.8496
+313	pred.bt.2	magnetic levitation maglev magnet train railwai la said would project	0.8496
+313	pred.bt.3	magnetic levitation maglev magnet train railwai la said would project	0.8496
+313	pred.bt.4	magnetic levitation maglev magnet train railwai la said would project	0.8496
+313	pred.bt.5	magnetic levitation maglev magnet train railwai la said would project	0.8496
+313	pred.bt.6	magnetic levitation maglev magnet train railwai la said would project	0.8496
+313	pred.bt.7	magnetic levitation maglev magnet train railwai la said would project	0.8496
+313	pred.bt.8	magnetic levitation maglev magnet train railwai la said would project	0.8496
+313	pred.bt.9	magnetic levitation maglev magnet train railwai la said would project	0.8496
+314	-1	marine vegetation	0.0168
+314	pred.bt.1	marine vegetation ocean vegetation	0.1268
+314	pred.bt.10	marine vegetation ocean vegetation	0.1268
+314	pred.bt.2	marine vegetation ocean vegetation	0.1268
+314	pred.bt.3	marine vegetation ocean vegetation	0.1268
+314	pred.bt.4	marine vegetation ocean vegetation	0.1268
+314	pred.bt.5	marine vegetation ocean vegetation	0.1268
+314	pred.bt.6	marine vegetation ocean vegetation	0.1268
+314	pred.bt.7	marine vegetation ocean vegetation	0.1268
+314	pred.bt.8	marine vegetation ocean vegetation	0.1268
+314	pred.bt.9	marine vegetation ocean vegetation	0.1268
+315	-1	unexplained highway accidents	0.1104
+315	pred.bt.1	unexplained highway accidents main road chance event stroke	0.1225
+315	pred.bt.10	unexplained highway accidents main road chance event stroke	0.1225
+315	pred.bt.2	unexplained highway accidents main road chance event stroke	0.1225
+315	pred.bt.3	unexplained highway accidents main road chance event stroke	0.1225
+315	pred.bt.4	unexplained highway accidents main road chance event stroke	0.1225
+315	pred.bt.5	unexplained highway accidents main road chance event stroke	0.1225
+315	pred.bt.6	unexplained highway accidents main road chance event stroke	0.1225
+315	pred.bt.7	unexplained highway accidents main road chance event stroke	0.1225
+315	pred.bt.8	unexplained highway accidents main road chance event stroke	0.1225
+315	pred.bt.9	unexplained highway accidents main road chance event stroke	0.1225
+316	-1	polygamy polyandry polygyny	0.7496
+316	pred.bt.1	polygamy polyandry polygyny	0.7496
+316	pred.bt.10	polygamy polyandry polygyny	0.7496
+316	pred.bt.2	polygamy polyandry polygyny	0.7496
+316	pred.bt.3	polygamy polyandry polygyny	0.7496
+316	pred.bt.4	polygamy polyandry polygyny	0.7496
+316	pred.bt.5	polygamy polyandry polygyny	0.7496
+316	pred.bt.6	polygamy polyandry polygyny	0.7496
+316	pred.bt.7	polygamy polyandry polygyny	0.7496
+316	pred.bt.8	polygamy polyandry polygyny	0.7496
+316	pred.bt.9	polygamy polyandry polygyny	0.7496
+317	-1	unsolicited faxes	0.7129
+317	pred.bt.1	unsolicited unasked faxes facsimile	0.7799
+317	pred.bt.10	unsolicited unasked faxes facsimile	0.7799
+317	pred.bt.2	unsolicited unasked faxes facsimile	0.7799
+317	pred.bt.3	unsolicited unasked faxes facsimile	0.7799
+317	pred.bt.4	unsolicited unasked faxes facsimile	0.7799
+317	pred.bt.5	unsolicited unasked faxes facsimile	0.7799
+317	pred.bt.6	unsolicited unasked faxes facsimile	0.7799
+317	pred.bt.7	unsolicited unasked faxes facsimile	0.7799
+317	pred.bt.8	unsolicited unasked faxes facsimile	0.7799
+317	pred.bt.9	unsolicited unasked faxes facsimile	0.7799
+318	-1	best retirement country	0.0276
+318	pred.bt.1	best retirement country well better nation already	0.064
+318	pred.bt.10	best retirement country well better nation already	0.064
+318	pred.bt.2	best retirement country well better nation already	0.064
+318	pred.bt.3	best retirement country well better nation already	0.064
+318	pred.bt.4	best retirement country well better nation already	0.064
+318	pred.bt.5	best retirement country well better nation already	0.064
+318	pred.bt.6	best retirement country well better nation already	0.064
+318	pred.bt.7	best retirement country well better nation already	0.064
+318	pred.bt.8	best retirement country well better nation already	0.064
+318	pred.bt.9	best retirement country well better nation already	0.064
+319	-1	new fuel sources	0.1447
+319	pred.bt.1	new fuel sources bibalayeva forms new yappin fuel inject mixed oxid gas motor	0.183
+319	pred.bt.10	new fuel sources bibalayeva forms new yappin fuel inject mixed oxid gas motor	0.183
+319	pred.bt.2	new fuel sources bibalayeva forms new yappin fuel inject mixed oxid gas motor	0.183
+319	pred.bt.3	new fuel sources bibalayeva forms new yappin fuel inject mixed oxid gas motor	0.183
+319	pred.bt.4	new fuel sources bibalayeva forms new yappin fuel inject mixed oxid gas motor	0.183
+319	pred.bt.5	new fuel sources bibalayeva forms new yappin fuel inject mixed oxid gas motor	0.183
+319	pred.bt.6	new fuel sources bibalayeva forms new yappin fuel inject mixed oxid gas motor	0.183
+319	pred.bt.7	new fuel sources bibalayeva forms new yappin fuel inject mixed oxid gas motor	0.183
+319	pred.bt.8	new fuel sources bibalayeva forms new yappin fuel inject mixed oxid gas motor	0.183
+319	pred.bt.9	new fuel sources bibalayeva forms new yappin fuel inject mixed oxid gas motor	0.183
+320	-1	undersea fiber optic cable	0.2138
+320	pred.bt.1	uuv samayamaayi adventure queu fibr cable nowiki disappearing fila itmo spbsu cable	0.2885
+320	pred.bt.10	uuv samayamaayi adventure queu fibr cable nowiki disappearing fila itmo spbsu cable	0.2885
+320	pred.bt.2	uuv samayamaayi adventure queu fibr cable nowiki disappearing fila itmo spbsu cable	0.2885
+320	pred.bt.3	uuv samayamaayi adventure queu fibr cable nowiki disappearing fila itmo spbsu cable	0.2885
+320	pred.bt.4	uuv samayamaayi adventure queu fibr cable nowiki disappearing fila itmo spbsu cable	0.2885
+320	pred.bt.5	uuv samayamaayi adventure queu fibr cable nowiki disappearing fila itmo spbsu cable	0.2885
+320	pred.bt.6	uuv samayamaayi adventure queu fibr cable nowiki disappearing fila itmo spbsu cable	0.2885
+320	pred.bt.7	uuv samayamaayi adventure queu fibr cable nowiki disappearing fila itmo spbsu cable	0.2885
+320	pred.bt.8	uuv samayamaayi adventure queu fibr cable nowiki disappearing fila itmo spbsu cable	0.2885
+320	pred.bt.9	uuv samayamaayi adventure queu fibr cable nowiki disappearing fila itmo spbsu cable	0.2885
+321	-1	women in parliaments	0.3349
+321	pred.bt.1	women in parliaments	0.3349
+321	pred.bt.10	women in parliaments	0.3349
+321	pred.bt.2	women in parliaments	0.3349
+321	pred.bt.3	women in parliaments	0.3349
+321	pred.bt.4	women in parliaments	0.3349
+321	pred.bt.5	women in parliaments	0.3349
+321	pred.bt.6	women in parliaments	0.3349
+321	pred.bt.7	women in parliaments	0.3349
+321	pred.bt.8	women in parliaments	0.3349
+321	pred.bt.9	women in parliaments	0.3349
+322	-1	international art crime	0.016
+322	pred.bt.1	international art crime national global domestic artwork artworks criminality	0.1352
+322	pred.bt.10	international art crime national global domestic artwork artworks criminality	0.1352
+322	pred.bt.2	international art crime national global domestic artwork artworks criminality	0.1352
+322	pred.bt.3	international art crime national global domestic artwork artworks criminality	0.1352
+322	pred.bt.4	international art crime national global domestic artwork artworks criminality	0.1352
+322	pred.bt.5	international art crime national global domestic artwork artworks criminality	0.1352
+322	pred.bt.6	international art crime national global domestic artwork artworks criminality	0.1352
+322	pred.bt.7	international art crime national global domestic artwork artworks criminality	0.1352
+322	pred.bt.8	international art crime national global domestic artwork artworks criminality	0.1352
+322	pred.bt.9	international art crime national global domestic artwork artworks criminality	0.1352
+323	-1	literary/journalistic plagiarism	0.435
+323	pred.bt.1	liter journ plagiar	0.52
+323	pred.bt.10	liter journ plagiar	0.52
+323	pred.bt.2	liter journ plagiar	0.52
+323	pred.bt.3	liter journ plagiar	0.52
+323	pred.bt.4	liter journ plagiar	0.52
+323	pred.bt.5	liter journ plagiar	0.52
+323	pred.bt.6	liter journ plagiar	0.52
+323	pred.bt.7	liter journ plagiar	0.52
+323	pred.bt.8	liter journ plagiar	0.52
+323	pred.bt.9	liter journ plagiar	0.52
+324	-1	argentine/british relations	0.4965
+324	pred.bt.1	argentina britain relations	0.5434
+324	pred.bt.10	argentina britain relations	0.5434
+324	pred.bt.2	argentina britain relations	0.5434
+324	pred.bt.3	argentina britain relations	0.5434
+324	pred.bt.4	argentina britain relations	0.5434
+324	pred.bt.5	argentina britain relations	0.5434
+324	pred.bt.6	argentina britain relations	0.5434
+324	pred.bt.7	argentina britain relations	0.5434
+324	pred.bt.8	argentina britain relations	0.5434
+324	pred.bt.9	argentina britain relations	0.5434
+325	-1	cult lifestyles	0.2437
+325	pred.bt.1	cult lifestyles genestealer reproduct cult tsumbubura	0.2773
+325	pred.bt.10	cult lifestyles genestealer reproduct cult tsumbubura	0.2773
+325	pred.bt.2	cult lifestyles genestealer reproduct cult tsumbubura	0.2773
+325	pred.bt.3	cult lifestyles genestealer reproduct cult tsumbubura	0.2773
+325	pred.bt.4	cult lifestyles genestealer reproduct cult tsumbubura	0.2773
+325	pred.bt.5	cult lifestyles genestealer reproduct cult tsumbubura	0.2773
+325	pred.bt.6	cult lifestyles genestealer reproduct cult tsumbubura	0.2773
+325	pred.bt.7	cult lifestyles genestealer reproduct cult tsumbubura	0.2773
+325	pred.bt.8	cult lifestyles genestealer reproduct cult tsumbubura	0.2773
+325	pred.bt.9	cult lifestyles genestealer reproduct cult tsumbubura	0.2773
+326	-1	ferry sinkings	0.7257
+326	pred.bt.1	ferry sinkings last ship safeti titan estonia ferri pound	0.813
+326	pred.bt.10	ferry sinkings last ship safeti titan estonia ferri pound	0.813
+326	pred.bt.2	ferry sinkings last ship safeti titan estonia ferri pound	0.813
+326	pred.bt.3	ferry sinkings last ship safeti titan estonia ferri pound	0.813
+326	pred.bt.4	ferry sinkings last ship safeti titan estonia ferri pound	0.813
+326	pred.bt.5	ferry sinkings last ship safeti titan estonia ferri pound	0.813
+326	pred.bt.6	ferry sinkings last ship safeti titan estonia ferri pound	0.813
+326	pred.bt.7	ferry sinkings last ship safeti titan estonia ferri pound	0.813
+326	pred.bt.8	ferry sinkings last ship safeti titan estonia ferri pound	0.813
+326	pred.bt.9	ferry sinkings last ship safeti titan estonia ferri pound	0.813
+327	-1	modern slavery	0.3936
+327	pred.bt.1	burdah jardot originalité slavery	0.5799
+327	pred.bt.10	burdah jardot originalité slavery	0.5799
+327	pred.bt.2	burdah jardot originalité slavery	0.5799
+327	pred.bt.3	burdah jardot originalité slavery	0.5799
+327	pred.bt.4	burdah jardot originalité slavery	0.5799
+327	pred.bt.5	burdah jardot originalité slavery	0.5799
+327	pred.bt.6	burdah jardot originalité slavery	0.5799
+327	pred.bt.7	burdah jardot originalité slavery	0.5799
+327	pred.bt.8	burdah jardot originalité slavery	0.5799
+327	pred.bt.9	burdah jardot originalité slavery	0.5799
+328	-1	pope beatifications	0.784
+328	pred.bt.1	pope beatifications beatification	0.8358
+328	pred.bt.10	pope beatifications beatification	0.8358
+328	pred.bt.2	pope beatifications beatification	0.8358
+328	pred.bt.3	pope beatifications beatification	0.8358
+328	pred.bt.4	pope beatifications beatification	0.8358
+328	pred.bt.5	pope beatifications beatification	0.8358
+328	pred.bt.6	pope beatifications beatification	0.8358
+328	pred.bt.7	pope beatifications beatification	0.8358
+328	pred.bt.8	pope beatifications beatification	0.8358
+328	pred.bt.9	pope beatifications beatification	0.8358
+329	-1	mexican air pollution	0.4808
+329	pred.bt.1	mexico air pollution	0.6167
+329	pred.bt.10	mexico air pollution	0.6167
+329	pred.bt.2	mexico air pollution	0.6167
+329	pred.bt.3	mexico air pollution	0.6167
+329	pred.bt.4	mexico air pollution	0.6167
+329	pred.bt.5	mexico air pollution	0.6167
+329	pred.bt.6	mexico air pollution	0.6167
+329	pred.bt.7	mexico air pollution	0.6167
+329	pred.bt.8	mexico air pollution	0.6167
+329	pred.bt.9	mexico air pollution	0.6167
+330	-1	iran-iraq cooperation	0.1171
+330	pred.bt.1	iran iraq coop	0.3424
+330	pred.bt.10	iran iraq coop	0.3424
+330	pred.bt.2	iran iraq coop	0.3424
+330	pred.bt.3	iran iraq coop	0.3424
+330	pred.bt.4	iran iraq coop	0.3424
+330	pred.bt.5	iran iraq coop	0.3424
+330	pred.bt.6	iran iraq coop	0.3424
+330	pred.bt.7	iran iraq coop	0.3424
+330	pred.bt.8	iran iraq coop	0.3424
+330	pred.bt.9	iran iraq coop	0.3424
+331	-1	world bank criticism	0.3363
+331	pred.bt.1	world bank criticism	0.3363
+331	pred.bt.10	world bank criticism	0.3363
+331	pred.bt.2	world bank criticism	0.3363
+331	pred.bt.3	world bank criticism	0.3363
+331	pred.bt.4	world bank criticism	0.3363
+331	pred.bt.5	world bank criticism	0.3363
+331	pred.bt.6	world bank criticism	0.3363
+331	pred.bt.7	world bank criticism	0.3363
+331	pred.bt.8	world bank criticism	0.3363
+331	pred.bt.9	world bank criticism	0.3363
+332	-1	income tax evasion	0.1474
+332	pred.bt.1	tax evas connect j david	0.2481
+332	pred.bt.10	tax evas connect j david	0.2481
+332	pred.bt.2	tax evas connect j david	0.2481
+332	pred.bt.3	tax evas connect j david	0.2481
+332	pred.bt.4	tax evas connect j david	0.2481
+332	pred.bt.5	tax evas connect j david	0.2481
+332	pred.bt.6	tax evas connect j david	0.2481
+332	pred.bt.7	tax evas connect j david	0.2481
+332	pred.bt.8	tax evas connect j david	0.2481
+332	pred.bt.9	tax evas connect j david	0.2481
+333	-1	antibiotics bacteria disease	0.4352
+333	pred.bt.1	antibiotics antibiotic bacteria disease	0.4898
+333	pred.bt.10	antibiotics antibiotic bacteria disease	0.4898
+333	pred.bt.2	antibiotics antibiotic bacteria disease	0.4898
+333	pred.bt.3	antibiotics antibiotic bacteria disease	0.4898
+333	pred.bt.4	antibiotics antibiotic bacteria disease	0.4898
+333	pred.bt.5	antibiotics antibiotic bacteria disease	0.4898
+333	pred.bt.6	antibiotics antibiotic bacteria disease	0.4898
+333	pred.bt.7	antibiotics antibiotic bacteria disease	0.4898
+333	pred.bt.8	antibiotics antibiotic bacteria disease	0.4898
+333	pred.bt.9	antibiotics antibiotic bacteria disease	0.4898
+334	-1	export controls cryptography	0.235
+334	pred.bt.1	export controls cryptography import encryption cryptographic cryptology	0.6087
+334	pred.bt.10	export controls cryptography import encryption cryptographic cryptology	0.6087
+334	pred.bt.2	export controls cryptography import encryption cryptographic cryptology	0.6087
+334	pred.bt.3	export controls cryptography import encryption cryptographic cryptology	0.6087
+334	pred.bt.4	export controls cryptography import encryption cryptographic cryptology	0.6087
+334	pred.bt.5	export controls cryptography import encryption cryptographic cryptology	0.6087
+334	pred.bt.6	export controls cryptography import encryption cryptographic cryptology	0.6087
+334	pred.bt.7	export controls cryptography import encryption cryptographic cryptology	0.6087
+334	pred.bt.8	export controls cryptography import encryption cryptographic cryptology	0.6087
+334	pred.bt.9	export controls cryptography import encryption cryptographic cryptology	0.6087
+335	-1	adoptive biological parents	0.503
+335	pred.bt.1	adoptive biological parents surrogate name children name their babies family	0.7355
+335	pred.bt.10	adoptive biological parents surrogate name children name their babies family	0.7355
+335	pred.bt.2	adoptive biological parents surrogate name children name their babies family	0.7355
+335	pred.bt.3	adoptive biological parents surrogate name children name their babies family	0.7355
+335	pred.bt.4	adoptive biological parents surrogate name children name their babies family	0.7355
+335	pred.bt.5	adoptive biological parents surrogate name children name their babies family	0.7355
+335	pred.bt.6	adoptive biological parents surrogate name children name their babies family	0.7355
+335	pred.bt.7	adoptive biological parents surrogate name children name their babies family	0.7355
+335	pred.bt.8	adoptive biological parents surrogate name children name their babies family	0.7355
+335	pred.bt.9	adoptive biological parents surrogate name children name their babies family	0.7355
+336	-1	black bear attacks	0.1371
+336	pred.bt.1	black bear attacks oil coal color animal grizzly polar	0.2264
+336	pred.bt.10	black bear attacks oil coal color animal grizzly polar	0.2264
+336	pred.bt.2	black bear attacks oil coal color animal grizzly polar	0.2264
+336	pred.bt.3	black bear attacks oil coal color animal grizzly polar	0.2264
+336	pred.bt.4	black bear attacks oil coal color animal grizzly polar	0.2264
+336	pred.bt.5	black bear attacks oil coal color animal grizzly polar	0.2264
+336	pred.bt.6	black bear attacks oil coal color animal grizzly polar	0.2264
+336	pred.bt.7	black bear attacks oil coal color animal grizzly polar	0.2264
+336	pred.bt.8	black bear attacks oil coal color animal grizzly polar	0.2264
+336	pred.bt.9	black bear attacks oil coal color animal grizzly polar	0.2264
+337	-1	viral hepatitis	0.3693
+337	pred.bt.1	viral hepatitis percent omit caus diseas individu vaccinia liver hepat	0.4355
+337	pred.bt.10	viral hepatitis percent omit caus diseas individu vaccinia liver hepat	0.4355
+337	pred.bt.2	viral hepatitis percent omit caus diseas individu vaccinia liver hepat	0.4355
+337	pred.bt.3	viral hepatitis percent omit caus diseas individu vaccinia liver hepat	0.4355
+337	pred.bt.4	viral hepatitis percent omit caus diseas individu vaccinia liver hepat	0.4355
+337	pred.bt.5	viral hepatitis percent omit caus diseas individu vaccinia liver hepat	0.4355
+337	pred.bt.6	viral hepatitis percent omit caus diseas individu vaccinia liver hepat	0.4355
+337	pred.bt.7	viral hepatitis percent omit caus diseas individu vaccinia liver hepat	0.4355
+337	pred.bt.8	viral hepatitis percent omit caus diseas individu vaccinia liver hepat	0.4355
+337	pred.bt.9	viral hepatitis percent omit caus diseas individu vaccinia liver hepat	0.4355
+338	-1	risk of aspirin	0.5585
+338	pred.bt.1	risk of aspirin sai stroke peopl kidnei your	0.6367
+338	pred.bt.10	risk of aspirin sai stroke peopl kidnei your	0.6367
+338	pred.bt.2	risk of aspirin sai stroke peopl kidnei your	0.6367
+338	pred.bt.3	risk of aspirin sai stroke peopl kidnei your	0.6367
+338	pred.bt.4	risk of aspirin sai stroke peopl kidnei your	0.6367
+338	pred.bt.5	risk of aspirin sai stroke peopl kidnei your	0.6367
+338	pred.bt.6	risk of aspirin sai stroke peopl kidnei your	0.6367
+338	pred.bt.7	risk of aspirin sai stroke peopl kidnei your	0.6367
+338	pred.bt.8	risk of aspirin sai stroke peopl kidnei your	0.6367
+338	pred.bt.9	risk of aspirin sai stroke peopl kidnei your	0.6367
+339	-1	alzheimer's drug treatment	0.463
+339	pred.bt.1	alzheimer s drug treatment psychoactive drug addiction alzheimer s disease	0.5631
+339	pred.bt.10	alzheimer s drug treatment psychoactive drug addiction alzheimer s disease	0.5631
+339	pred.bt.2	alzheimer s drug treatment psychoactive drug addiction alzheimer s disease	0.5631
+339	pred.bt.3	alzheimer s drug treatment psychoactive drug addiction alzheimer s disease	0.5631
+339	pred.bt.4	alzheimer s drug treatment psychoactive drug addiction alzheimer s disease	0.5631
+339	pred.bt.5	alzheimer s drug treatment psychoactive drug addiction alzheimer s disease	0.5631
+339	pred.bt.6	alzheimer s drug treatment psychoactive drug addiction alzheimer s disease	0.5631
+339	pred.bt.7	alzheimer s drug treatment psychoactive drug addiction alzheimer s disease	0.5631
+339	pred.bt.8	alzheimer s drug treatment psychoactive drug addiction alzheimer s disease	0.5631
+339	pred.bt.9	alzheimer s drug treatment psychoactive drug addiction alzheimer s disease	0.5631
+340	-1	land mine ban	0.2795
+340	pred.bt.1	land mine ban	0.2795
+340	pred.bt.10	land mine ban	0.2795
+340	pred.bt.2	land mine ban	0.2795
+340	pred.bt.3	land mine ban	0.2795
+340	pred.bt.4	land mine ban	0.2795
+340	pred.bt.5	land mine ban	0.2795
+340	pred.bt.6	land mine ban	0.2795
+340	pred.bt.7	land mine ban	0.2795
+340	pred.bt.8	land mine ban	0.2795
+340	pred.bt.9	land mine ban	0.2795
+341	-1	airport security	0.4103
+341	pred.bt.1	airport security security system	0.4509
+341	pred.bt.10	airport security security system	0.4509
+341	pred.bt.3	airport security security system	0.4509
+341	pred.bt.4	airport security security system	0.4509
+341	pred.bt.5	airport security security system	0.4509
+341	pred.bt.6	airport security security system	0.4509
+341	pred.bt.2	airport security	0.4103
+341	pred.bt.7	airport security	0.4103
+341	pred.bt.8	airport security	0.4103
+341	pred.bt.9	airport security	0.4103
+342	-1	diplomatic expulsion	0.2892
+342	pred.bt.1	diplomatic expulsion relations expelled expel	0.5237
+342	pred.bt.10	diplomatic expulsion relations expelled expel	0.5237
+342	pred.bt.2	diplomatic expulsion relations expelled expel	0.5237
+342	pred.bt.3	diplomatic expulsion relations expelled expel	0.5237
+342	pred.bt.4	diplomatic expulsion relations expelled expel	0.5237
+342	pred.bt.5	diplomatic expulsion relations expelled expel	0.5237
+342	pred.bt.6	diplomatic expulsion relations expelled expel	0.5237
+342	pred.bt.7	diplomatic expulsion relations expelled expel	0.5237
+342	pred.bt.8	diplomatic expulsion relations expelled expel	0.5237
+342	pred.bt.9	diplomatic expulsion relations expelled expel	0.5237
+343	-1	police deaths	0.0191
+343	pred.bt.1	cops policemen fatalities killings	0.1325
+343	pred.bt.10	cops policemen fatalities killings	0.1325
+343	pred.bt.2	cops policemen fatalities killings	0.1325
+343	pred.bt.3	cops policemen fatalities killings	0.1325
+343	pred.bt.4	cops policemen fatalities killings	0.1325
+343	pred.bt.5	cops policemen fatalities killings	0.1325
+343	pred.bt.6	cops policemen fatalities killings	0.1325
+343	pred.bt.7	cops policemen fatalities killings	0.1325
+343	pred.bt.8	cops policemen fatalities killings	0.1325
+343	pred.bt.9	cops policemen fatalities killings	0.1325
+344	-1	abuses of e-mail	0.4393
+344	pred.bt.1	abuses misuse of e mail electronic mail	0.7732
+344	pred.bt.10	abuses misuse of e mail electronic mail	0.7732
+344	pred.bt.2	abuses misuse of e mail electronic mail	0.7732
+344	pred.bt.3	abuses misuse of e mail electronic mail	0.7732
+344	pred.bt.4	abuses misuse of e mail electronic mail	0.7732
+344	pred.bt.5	abuses misuse of e mail electronic mail	0.7732
+344	pred.bt.6	abuses misuse of e mail electronic mail	0.7732
+344	pred.bt.7	abuses misuse of e mail electronic mail	0.7732
+344	pred.bt.8	abuses misuse of e mail electronic mail	0.7732
+344	pred.bt.9	abuses misuse of e mail electronic mail	0.7732
+345	-1	overseas tobacco sales	0.2642
+345	pred.bt.1	overseas tobacco sales compani rate dollar per	0.3846
+345	pred.bt.10	overseas tobacco sales compani rate dollar per	0.3846
+345	pred.bt.2	overseas tobacco sales compani rate dollar per	0.3846
+345	pred.bt.3	overseas tobacco sales compani rate dollar per	0.3846
+345	pred.bt.4	overseas tobacco sales compani rate dollar per	0.3846
+345	pred.bt.5	overseas tobacco sales compani rate dollar per	0.3846
+345	pred.bt.6	overseas tobacco sales compani rate dollar per	0.3846
+345	pred.bt.7	overseas tobacco sales compani rate dollar per	0.3846
+345	pred.bt.8	overseas tobacco sales compani rate dollar per	0.3846
+345	pred.bt.9	overseas tobacco sales compani rate dollar per	0.3846
+346	-1	educational standards	0.1869
+346	pred.bt.1	educational standards school	0.2713
+346	pred.bt.10	educational standards school	0.2713
+346	pred.bt.2	educational standards school	0.2713
+346	pred.bt.3	educational standards school	0.2713
+346	pred.bt.4	educational standards school	0.2713
+346	pred.bt.5	educational standards school	0.2713
+346	pred.bt.6	educational standards school	0.2713
+346	pred.bt.7	educational standards school	0.2713
+346	pred.bt.8	educational standards school	0.2713
+346	pred.bt.9	educational standards school	0.2713
+347	-1	wildlife extinction	0.1563
+347	pred.bt.1	wildlife extinction wildlife quaternary extinction event	0.1662
+347	pred.bt.10	wildlife extinction wildlife quaternary extinction event	0.1662
+347	pred.bt.2	wildlife extinction wildlife quaternary extinction event	0.1662
+347	pred.bt.3	wildlife extinction wildlife quaternary extinction event	0.1662
+347	pred.bt.4	wildlife extinction wildlife quaternary extinction event	0.1662
+347	pred.bt.5	wildlife extinction wildlife quaternary extinction event	0.1662
+347	pred.bt.6	wildlife extinction wildlife quaternary extinction event	0.1662
+347	pred.bt.7	wildlife extinction wildlife quaternary extinction event	0.1662
+347	pred.bt.8	wildlife extinction wildlife quaternary extinction event	0.1662
+347	pred.bt.9	wildlife extinction wildlife quaternary extinction event	0.1662
+348	-1	agoraphobia	0.9068
+348	pred.bt.1	agoraphobia	0.9068
+348	pred.bt.10	agoraphobia	0.9068
+348	pred.bt.2	agoraphobia	0.9068
+348	pred.bt.3	agoraphobia	0.9068
+348	pred.bt.4	agoraphobia	0.9068
+348	pred.bt.5	agoraphobia	0.9068
+348	pred.bt.6	agoraphobia	0.9068
+348	pred.bt.7	agoraphobia	0.9068
+348	pred.bt.8	agoraphobia	0.9068
+348	pred.bt.9	agoraphobia	0.9068
+349	-1	metabolism	0.3448
+349	pred.bt.1	metabolism	0.3448
+349	pred.bt.10	metabolism	0.3448
+349	pred.bt.2	metabolism	0.3448
+349	pred.bt.3	metabolism	0.3448
+349	pred.bt.4	metabolism	0.3448
+349	pred.bt.5	metabolism	0.3448
+349	pred.bt.6	metabolism	0.3448
+349	pred.bt.7	metabolism	0.3448
+349	pred.bt.8	metabolism	0.3448
+349	pred.bt.9	metabolism	0.3448
+350	-1	health and computer terminals	0.2143
+350	pred.bt.1	health and computer terminals	0.2143
+350	pred.bt.10	health and computer terminals	0.2143
+350	pred.bt.2	health and computer terminals	0.2143
+350	pred.bt.3	health and computer terminals	0.2143
+350	pred.bt.4	health and computer terminals	0.2143
+350	pred.bt.5	health and computer terminals	0.2143
+350	pred.bt.6	health and computer terminals	0.2143
+350	pred.bt.7	health and computer terminals	0.2143
+350	pred.bt.8	health and computer terminals	0.2143
+350	pred.bt.9	health and computer terminals	0.2143
+351	-1	falkland petroleum exploration	0.5303
+351	pred.bt.1	falkland petroleum exploration island oil argentina ga	0.7521
+351	pred.bt.10	falkland petroleum exploration island oil argentina ga	0.7521
+351	pred.bt.2	falkland petroleum exploration island oil argentina ga	0.7521
+351	pred.bt.3	falkland petroleum exploration island oil argentina ga	0.7521
+351	pred.bt.4	falkland petroleum exploration island oil argentina ga	0.7521
+351	pred.bt.5	falkland petroleum exploration island oil argentina ga	0.7521
+351	pred.bt.6	falkland petroleum exploration island oil argentina ga	0.7521
+351	pred.bt.7	falkland petroleum exploration island oil argentina ga	0.7521
+351	pred.bt.8	falkland petroleum exploration island oil argentina ga	0.7521
+351	pred.bt.9	falkland petroleum exploration island oil argentina ga	0.7521
+352	-1	british chunnel impact	0.1282
+352	pred.bt.1	british chunnel impact tunnel i freight govern ha de hous project	0.2879
+352	pred.bt.10	british chunnel impact tunnel i freight govern ha de hous project	0.2879
+352	pred.bt.2	british chunnel impact tunnel i freight govern ha de hous project	0.2879
+352	pred.bt.3	british chunnel impact tunnel i freight govern ha de hous project	0.2879
+352	pred.bt.4	british chunnel impact tunnel i freight govern ha de hous project	0.2879
+352	pred.bt.5	british chunnel impact tunnel i freight govern ha de hous project	0.2879
+352	pred.bt.6	british chunnel impact tunnel i freight govern ha de hous project	0.2879
+352	pred.bt.7	british chunnel impact tunnel i freight govern ha de hous project	0.2879
+352	pred.bt.8	british chunnel impact tunnel i freight govern ha de hous project	0.2879
+352	pred.bt.9	british chunnel impact tunnel i freight govern ha de hous project	0.2879
+353	-1	antarctica exploration	0.4228
+353	pred.bt.1	antarctic expl	0.4963
+353	pred.bt.10	antarctic expl	0.4963
+353	pred.bt.2	antarctic expl	0.4963
+353	pred.bt.3	antarctic expl	0.4963
+353	pred.bt.4	antarctic expl	0.4963
+353	pred.bt.5	antarctic expl	0.4963
+353	pred.bt.6	antarctic expl	0.4963
+353	pred.bt.7	antarctic expl	0.4963
+353	pred.bt.8	antarctic expl	0.4963
+353	pred.bt.9	antarctic expl	0.4963
+354	-1	journalist risks	0.0584
+354	pred.bt.1	journalist risks wrigley mil faj journalists	0.0881
+354	pred.bt.10	journalist risks wrigley mil faj journalists	0.0881
+354	pred.bt.2	journalist risks wrigley mil faj journalists	0.0881
+354	pred.bt.3	journalist risks wrigley mil faj journalists	0.0881
+354	pred.bt.4	journalist risks wrigley mil faj journalists	0.0881
+354	pred.bt.5	journalist risks wrigley mil faj journalists	0.0881
+354	pred.bt.6	journalist risks wrigley mil faj journalists	0.0881
+354	pred.bt.7	journalist risks wrigley mil faj journalists	0.0881
+354	pred.bt.8	journalist risks wrigley mil faj journalists	0.0881
+354	pred.bt.9	journalist risks wrigley mil faj journalists	0.0881
+355	-1	ocean remote sensing	0.3238
+355	pred.bt.1	ocean remote sensing satellit studi observ develop m system research stone	0.5167
+355	pred.bt.10	ocean remote sensing satellit studi observ develop m system research stone	0.5167
+355	pred.bt.2	ocean remote sensing satellit studi observ develop m system research stone	0.5167
+355	pred.bt.3	ocean remote sensing satellit studi observ develop m system research stone	0.5167
+355	pred.bt.4	ocean remote sensing satellit studi observ develop m system research stone	0.5167
+355	pred.bt.5	ocean remote sensing satellit studi observ develop m system research stone	0.5167
+355	pred.bt.6	ocean remote sensing satellit studi observ develop m system research stone	0.5167
+355	pred.bt.7	ocean remote sensing satellit studi observ develop m system research stone	0.5167
+355	pred.bt.8	ocean remote sensing satellit studi observ develop m system research stone	0.5167
+355	pred.bt.9	ocean remote sensing satellit studi observ develop m system research stone	0.5167
+356	-1	postmenopausal estrogen britain	0.0665
+356	pred.bt.1	post menopausal premenopausal pre menopausal oestrogen progesterone britian britian british	0.3833
+356	pred.bt.10	post menopausal premenopausal pre menopausal oestrogen progesterone britian britian british	0.3833
+356	pred.bt.2	post menopausal premenopausal pre menopausal oestrogen progesterone britian britian british	0.3833
+356	pred.bt.3	post menopausal premenopausal pre menopausal oestrogen progesterone britian britian british	0.3833
+356	pred.bt.4	post menopausal premenopausal pre menopausal oestrogen progesterone britian britian british	0.3833
+356	pred.bt.5	post menopausal premenopausal pre menopausal oestrogen progesterone britian britian british	0.3833
+356	pred.bt.6	post menopausal premenopausal pre menopausal oestrogen progesterone britian britian british	0.3833
+356	pred.bt.7	post menopausal premenopausal pre menopausal oestrogen progesterone britian britian british	0.3833
+356	pred.bt.8	post menopausal premenopausal pre menopausal oestrogen progesterone britian britian british	0.3833
+356	pred.bt.9	post menopausal premenopausal pre menopausal oestrogen progesterone britian britian british	0.3833
+357	-1	territorial waters dispute	0.2927
+357	pred.bt.1	territorial waters dispute	0.2927
+357	pred.bt.10	territorial waters dispute	0.2927
+357	pred.bt.2	territorial waters dispute	0.2927
+357	pred.bt.3	territorial waters dispute	0.2927
+357	pred.bt.4	territorial waters dispute	0.2927
+357	pred.bt.5	territorial waters dispute	0.2927
+357	pred.bt.6	territorial waters dispute	0.2927
+357	pred.bt.7	territorial waters dispute	0.2927
+357	pred.bt.8	territorial waters dispute	0.2927
+357	pred.bt.9	territorial waters dispute	0.2927
+358	-1	blood-alcohol fatalities	0.4478
+358	pred.bt.1	blood alcohol content death	0.605
+358	pred.bt.10	blood alcohol content death	0.605
+358	pred.bt.2	blood alcohol content death	0.605
+358	pred.bt.3	blood alcohol content death	0.605
+358	pred.bt.4	blood alcohol content death	0.605
+358	pred.bt.5	blood alcohol content death	0.605
+358	pred.bt.6	blood alcohol content death	0.605
+358	pred.bt.7	blood alcohol content death	0.605
+358	pred.bt.8	blood alcohol content death	0.605
+358	pred.bt.9	blood alcohol content death	0.605
+359	-1	mutual fund predictors	0.1173
+359	pred.bt.1	mutual fund predictors fixed income assets management exchange traded fund mutual fund	0.1364
+359	pred.bt.10	mutual fund predictors fixed income assets management exchange traded fund mutual fund	0.1364
+359	pred.bt.2	mutual fund predictors fixed income assets management exchange traded fund mutual fund	0.1364
+359	pred.bt.3	mutual fund predictors fixed income assets management exchange traded fund mutual fund	0.1364
+359	pred.bt.4	mutual fund predictors fixed income assets management exchange traded fund mutual fund	0.1364
+359	pred.bt.5	mutual fund predictors fixed income assets management exchange traded fund mutual fund	0.1364
+359	pred.bt.6	mutual fund predictors fixed income assets management exchange traded fund mutual fund	0.1364
+359	pred.bt.7	mutual fund predictors fixed income assets management exchange traded fund mutual fund	0.1364
+359	pred.bt.8	mutual fund predictors fixed income assets management exchange traded fund mutual fund	0.1364
+359	pred.bt.9	mutual fund predictors fixed income assets management exchange traded fund mutual fund	0.1364
+360	-1	drug legalization benefits	0.1964
+360	pred.bt.1	drug legal benef	0.4361
+360	pred.bt.10	drug legal benef	0.4361
+360	pred.bt.2	drug legal benef	0.4361
+360	pred.bt.3	drug legal benef	0.4361
+360	pred.bt.4	drug legal benef	0.4361
+360	pred.bt.5	drug legal benef	0.4361
+360	pred.bt.6	drug legal benef	0.4361
+360	pred.bt.7	drug legal benef	0.4361
+360	pred.bt.8	drug legal benef	0.4361
+360	pred.bt.9	drug legal benef	0.4361
+361	-1	clothing sweatshops	0.5154
+361	pred.bt.1	clothing sweatshops labor said cloth home our bill sew	0.6356
+361	pred.bt.10	clothing sweatshops labor said cloth home our bill sew	0.6356
+361	pred.bt.2	clothing sweatshops labor said cloth home our bill sew	0.6356
+361	pred.bt.3	clothing sweatshops labor said cloth home our bill sew	0.6356
+361	pred.bt.4	clothing sweatshops labor said cloth home our bill sew	0.6356
+361	pred.bt.5	clothing sweatshops labor said cloth home our bill sew	0.6356
+361	pred.bt.6	clothing sweatshops labor said cloth home our bill sew	0.6356
+361	pred.bt.7	clothing sweatshops labor said cloth home our bill sew	0.6356
+361	pred.bt.8	clothing sweatshops labor said cloth home our bill sew	0.6356
+361	pred.bt.9	clothing sweatshops labor said cloth home our bill sew	0.6356
+362	-1	human smuggling	0.206
+362	pred.bt.1	human smuggling non human nonhuman smugglers smuggler	0.3701
+362	pred.bt.10	human smuggling non human nonhuman smugglers smuggler	0.3701
+362	pred.bt.2	human smuggling non human nonhuman smugglers smuggler	0.3701
+362	pred.bt.3	human smuggling non human nonhuman smugglers smuggler	0.3701
+362	pred.bt.4	human smuggling non human nonhuman smugglers smuggler	0.3701
+362	pred.bt.5	human smuggling non human nonhuman smugglers smuggler	0.3701
+362	pred.bt.6	human smuggling non human nonhuman smugglers smuggler	0.3701
+362	pred.bt.7	human smuggling non human nonhuman smugglers smuggler	0.3701
+362	pred.bt.8	human smuggling non human nonhuman smugglers smuggler	0.3701
+362	pred.bt.9	human smuggling non human nonhuman smugglers smuggler	0.3701
+363	-1	transportation tunnel disasters	0.0904
+363	pred.bt.1	transportation tunnel disasters	0.0904
+363	pred.bt.10	transportation tunnel disasters	0.0904
+363	pred.bt.2	transportation tunnel disasters	0.0904
+363	pred.bt.3	transportation tunnel disasters	0.0904
+363	pred.bt.4	transportation tunnel disasters	0.0904
+363	pred.bt.5	transportation tunnel disasters	0.0904
+363	pred.bt.6	transportation tunnel disasters	0.0904
+363	pred.bt.7	transportation tunnel disasters	0.0904
+363	pred.bt.8	transportation tunnel disasters	0.0904
+363	pred.bt.9	transportation tunnel disasters	0.0904
+364	-1	rabies	0.8024
+364	pred.bt.1	rabies	0.8024
+364	pred.bt.10	rabies	0.8024
+364	pred.bt.2	rabies	0.8024
+364	pred.bt.3	rabies	0.8024
+364	pred.bt.4	rabies	0.8024
+364	pred.bt.5	rabies	0.8024
+364	pred.bt.6	rabies	0.8024
+364	pred.bt.7	rabies	0.8024
+364	pred.bt.8	rabies	0.8024
+364	pred.bt.9	rabies	0.8024
+365	-1	el nino	0.7619
+365	pred.bt.1	el nino	0.7619
+365	pred.bt.10	el nino	0.7619
+365	pred.bt.2	el nino	0.7619
+365	pred.bt.3	el nino	0.7619
+365	pred.bt.4	el nino	0.7619
+365	pred.bt.5	el nino	0.7619
+365	pred.bt.6	el nino	0.7619
+365	pred.bt.7	el nino	0.7619
+365	pred.bt.8	el nino	0.7619
+365	pred.bt.9	el nino	0.7619
+366	-1	commercial cyanide uses	0.5668
+366	pred.bt.1	commercial cyanide uses	0.5668
+366	pred.bt.10	commercial cyanide uses	0.5668
+366	pred.bt.2	commercial cyanide uses	0.5668
+366	pred.bt.3	commercial cyanide uses	0.5668
+366	pred.bt.4	commercial cyanide uses	0.5668
+366	pred.bt.5	commercial cyanide uses	0.5668
+366	pred.bt.6	commercial cyanide uses	0.5668
+366	pred.bt.7	commercial cyanide uses	0.5668
+366	pred.bt.8	commercial cyanide uses	0.5668
+366	pred.bt.9	commercial cyanide uses	0.5668
+367	-1	piracy	0.1046
+368	-1	in vitro fertilization	0.5288
+368	pred.bt.1	in vitro fertilization center fertil he she york have david sai embryo said	0.6327
+368	pred.bt.10	in vitro fertilization center fertil he she york have david sai embryo said	0.6327
+368	pred.bt.2	in vitro fertilization center fertil he she york have david sai embryo said	0.6327
+368	pred.bt.3	in vitro fertilization center fertil he she york have david sai embryo said	0.6327
+368	pred.bt.4	in vitro fertilization center fertil he she york have david sai embryo said	0.6327
+368	pred.bt.5	in vitro fertilization center fertil he she york have david sai embryo said	0.6327
+368	pred.bt.6	in vitro fertilization center fertil he she york have david sai embryo said	0.6327
+368	pred.bt.7	in vitro fertilization center fertil he she york have david sai embryo said	0.6327
+368	pred.bt.8	in vitro fertilization center fertil he she york have david sai embryo said	0.6327
+368	pred.bt.9	in vitro fertilization center fertil he she york have david sai embryo said	0.6327
+369	-1	anorexia nervosa bulimia	0.5514
+369	pred.bt.1	anorexia nervosa bulimia an eating disorder eating disorder	0.8396
+369	pred.bt.10	anorexia nervosa bulimia an eating disorder eating disorder	0.8396
+369	pred.bt.2	anorexia nervosa bulimia an eating disorder eating disorder	0.8396
+369	pred.bt.3	anorexia nervosa bulimia an eating disorder eating disorder	0.8396
+369	pred.bt.4	anorexia nervosa bulimia an eating disorder eating disorder	0.8396
+369	pred.bt.5	anorexia nervosa bulimia an eating disorder eating disorder	0.8396
+369	pred.bt.6	anorexia nervosa bulimia an eating disorder eating disorder	0.8396
+369	pred.bt.7	anorexia nervosa bulimia an eating disorder eating disorder	0.8396
+369	pred.bt.8	anorexia nervosa bulimia an eating disorder eating disorder	0.8396
+369	pred.bt.9	anorexia nervosa bulimia an eating disorder eating disorder	0.8396
+370	-1	food/drug laws	0.0337
+370	pred.bt.1	food drug regulations	0.0838
+370	pred.bt.10	food drug regulations	0.0838
+370	pred.bt.2	food drug regulations	0.0838
+370	pred.bt.3	food drug regulations	0.0838
+370	pred.bt.4	food drug regulations	0.0838
+370	pred.bt.5	food drug regulations	0.0838
+370	pred.bt.6	food drug regulations	0.0838
+370	pred.bt.7	food drug regulations	0.0838
+370	pred.bt.8	food drug regulations	0.0838
+370	pred.bt.9	food drug regulations	0.0838
+371	-1	health insurance holistic	0.0
+371	pred.bt.1	health insurance holistic health insurance types insurance medicar united states health insurance integrativmedicine mindfulness based stress reduction psychiatric times holistic health	0.0348
+371	pred.bt.10	health insurance holistic health insurance types insurance medicar united states health insurance integrativmedicine mindfulness based stress reduction psychiatric times holistic health	0.0348
+371	pred.bt.2	health insurance holistic health insurance types insurance medicar united states health insurance integrativmedicine mindfulness based stress reduction psychiatric times holistic health	0.0348
+371	pred.bt.3	health insurance holistic health insurance types insurance medicar united states health insurance integrativmedicine mindfulness based stress reduction psychiatric times holistic health	0.0348
+371	pred.bt.4	health insurance holistic health insurance types insurance medicar united states health insurance integrativmedicine mindfulness based stress reduction psychiatric times holistic health	0.0348
+371	pred.bt.5	health insurance holistic health insurance types insurance medicar united states health insurance integrativmedicine mindfulness based stress reduction psychiatric times holistic health	0.0348
+371	pred.bt.6	health insurance holistic health insurance types insurance medicar united states health insurance integrativmedicine mindfulness based stress reduction psychiatric times holistic health	0.0348
+371	pred.bt.7	health insurance holistic health insurance types insurance medicar united states health insurance integrativmedicine mindfulness based stress reduction psychiatric times holistic health	0.0348
+371	pred.bt.8	health insurance holistic health insurance types insurance medicar united states health insurance integrativmedicine mindfulness based stress reduction psychiatric times holistic health	0.0348
+371	pred.bt.9	health insurance holistic health insurance types insurance medicar united states health insurance integrativmedicine mindfulness based stress reduction psychiatric times holistic health	0.0348
+372	-1	native american casino	0.2904
+372	pred.bt.1	indian chief person dollar casino	0.5899
+372	pred.bt.10	indian chief person dollar casino	0.5899
+372	pred.bt.2	indian chief person dollar casino	0.5899
+372	pred.bt.3	indian chief person dollar casino	0.5899
+372	pred.bt.4	indian chief person dollar casino	0.5899
+372	pred.bt.5	indian chief person dollar casino	0.5899
+372	pred.bt.6	indian chief person dollar casino	0.5899
+372	pred.bt.7	indian chief person dollar casino	0.5899
+372	pred.bt.8	indian chief person dollar casino	0.5899
+372	pred.bt.9	indian chief person dollar casino	0.5899
+373	-1	encryption equipment export	0.3178
+373	pred.bt.1	encrypt equipm export	0.3378
+373	pred.bt.10	encrypt equipm export	0.3378
+373	pred.bt.2	encrypt equipm export	0.3378
+373	pred.bt.3	encrypt equipm export	0.3378
+373	pred.bt.4	encrypt equipm export	0.3378
+373	pred.bt.5	encrypt equipm export	0.3378
+373	pred.bt.6	encrypt equipm export	0.3378
+373	pred.bt.7	encrypt equipm export	0.3378
+373	pred.bt.8	encrypt equipm export	0.3378
+373	pred.bt.9	encrypt equipm export	0.3378
+374	-1	nobel prize winners	0.2025
+374	pred.bt.1	nobel prize	0.3698
+374	pred.bt.10	nobel prize	0.3698
+374	pred.bt.2	nobel prize	0.3698
+374	pred.bt.3	nobel prize	0.3698
+374	pred.bt.4	nobel prize	0.3698
+374	pred.bt.5	nobel prize	0.3698
+374	pred.bt.6	nobel prize	0.3698
+374	pred.bt.7	nobel prize	0.3698
+374	pred.bt.8	nobel prize	0.3698
+374	pred.bt.9	nobel prize	0.3698
+375	-1	hydrogen energy	0.3653
+375	pred.bt.1	hydrogen energy helium deuterium enery	0.5251
+375	pred.bt.10	hydrogen energy helium deuterium enery	0.5251
+375	pred.bt.2	hydrogen energy helium deuterium enery	0.5251
+375	pred.bt.3	hydrogen energy helium deuterium enery	0.5251
+375	pred.bt.4	hydrogen energy helium deuterium enery	0.5251
+375	pred.bt.5	hydrogen energy helium deuterium enery	0.5251
+375	pred.bt.6	hydrogen energy helium deuterium enery	0.5251
+375	pred.bt.7	hydrogen energy helium deuterium enery	0.5251
+375	pred.bt.8	hydrogen energy helium deuterium enery	0.5251
+375	pred.bt.9	hydrogen energy helium deuterium enery	0.5251
+376	-1	world court	0.0981
+376	pred.bt.1	world court international court justice	0.2184
+376	pred.bt.10	world court international court justice	0.2184
+376	pred.bt.2	world court international court justice	0.2184
+376	pred.bt.3	world court international court justice	0.2184
+376	pred.bt.4	world court international court justice	0.2184
+376	pred.bt.5	world court international court justice	0.2184
+376	pred.bt.6	world court international court justice	0.2184
+376	pred.bt.7	world court international court justice	0.2184
+376	pred.bt.8	world court international court justice	0.2184
+376	pred.bt.9	world court international court justice	0.2184
+377	-1	cigar smoking	0.5449
+377	pred.bt.1	cigar smok	0.6012
+377	pred.bt.10	cigar smok	0.6012
+377	pred.bt.2	cigar smok	0.6012
+377	pred.bt.3	cigar smok	0.6012
+377	pred.bt.4	cigar smok	0.6012
+377	pred.bt.5	cigar smok	0.6012
+377	pred.bt.6	cigar smok	0.6012
+377	pred.bt.7	cigar smok	0.6012
+377	pred.bt.8	cigar smok	0.6012
+377	pred.bt.9	cigar smok	0.6012
+378	-1	euro opposition	0.0149
+378	pred.bt.1	euro opposition currency european supporters opponents	0.1554
+378	pred.bt.10	euro opposition currency european supporters opponents	0.1554
+378	pred.bt.2	euro opposition currency european supporters opponents	0.1554
+378	pred.bt.3	euro opposition currency european supporters opponents	0.1554
+378	pred.bt.4	euro opposition currency european supporters opponents	0.1554
+378	pred.bt.5	euro opposition currency european supporters opponents	0.1554
+378	pred.bt.6	euro opposition currency european supporters opponents	0.1554
+378	pred.bt.7	euro opposition currency european supporters opponents	0.1554
+378	pred.bt.8	euro opposition currency european supporters opponents	0.1554
+378	pred.bt.9	euro opposition currency european supporters opponents	0.1554
+379	-1	mainstreaming	0.1962
+379	pred.bt.1	mainstreaming	0.1962
+379	pred.bt.10	mainstreaming	0.1962
+379	pred.bt.2	mainstreaming	0.1962
+379	pred.bt.3	mainstreaming	0.1962
+379	pred.bt.4	mainstreaming	0.1962
+379	pred.bt.5	mainstreaming	0.1962
+379	pred.bt.6	mainstreaming	0.1962
+379	pred.bt.7	mainstreaming	0.1962
+379	pred.bt.8	mainstreaming	0.1962
+379	pred.bt.9	mainstreaming	0.1962
+380	-1	obesity medical treatment	0.4656
+380	pred.bt.1	obesity medical treatment plan drug diet children clinic obes weight exercis healthcar cent	0.6079
+380	pred.bt.10	obesity medical treatment plan drug diet children clinic obes weight exercis healthcar cent	0.6079
+380	pred.bt.2	obesity medical treatment plan drug diet children clinic obes weight exercis healthcar cent	0.6079
+380	pred.bt.3	obesity medical treatment plan drug diet children clinic obes weight exercis healthcar cent	0.6079
+380	pred.bt.4	obesity medical treatment plan drug diet children clinic obes weight exercis healthcar cent	0.6079
+380	pred.bt.5	obesity medical treatment plan drug diet children clinic obes weight exercis healthcar cent	0.6079
+380	pred.bt.6	obesity medical treatment plan drug diet children clinic obes weight exercis healthcar cent	0.6079
+380	pred.bt.7	obesity medical treatment plan drug diet children clinic obes weight exercis healthcar cent	0.6079
+380	pred.bt.8	obesity medical treatment plan drug diet children clinic obes weight exercis healthcar cent	0.6079
+380	pred.bt.9	obesity medical treatment plan drug diet children clinic obes weight exercis healthcar cent	0.6079
+381	-1	alternative medicine	0.1839
+381	pred.bt.1	holistic health homeopathy alternative traditional medicine journals alternative medicine	0.2843
+381	pred.bt.10	holistic health homeopathy alternative traditional medicine journals alternative medicine	0.2843
+381	pred.bt.2	holistic health homeopathy alternative traditional medicine journals alternative medicine	0.2843
+381	pred.bt.3	holistic health homeopathy alternative traditional medicine journals alternative medicine	0.2843
+381	pred.bt.4	holistic health homeopathy alternative traditional medicine journals alternative medicine	0.2843
+381	pred.bt.5	holistic health homeopathy alternative traditional medicine journals alternative medicine	0.2843
+381	pred.bt.6	holistic health homeopathy alternative traditional medicine journals alternative medicine	0.2843
+381	pred.bt.7	holistic health homeopathy alternative traditional medicine journals alternative medicine	0.2843
+381	pred.bt.8	holistic health homeopathy alternative traditional medicine journals alternative medicine	0.2843
+381	pred.bt.9	holistic health homeopathy alternative traditional medicine journals alternative medicine	0.2843
+382	-1	hydrogen fuel automobiles	0.7232
+382	pred.bt.1	hydrogen fuel automobiles hydrogen vehicle car	0.7701
+382	pred.bt.10	hydrogen fuel automobiles hydrogen vehicle car	0.7701
+382	pred.bt.2	hydrogen fuel automobiles hydrogen vehicle car	0.7701
+382	pred.bt.3	hydrogen fuel automobiles hydrogen vehicle car	0.7701
+382	pred.bt.4	hydrogen fuel automobiles hydrogen vehicle car	0.7701
+382	pred.bt.5	hydrogen fuel automobiles hydrogen vehicle car	0.7701
+382	pred.bt.6	hydrogen fuel automobiles hydrogen vehicle car	0.7701
+382	pred.bt.7	hydrogen fuel automobiles hydrogen vehicle car	0.7701
+382	pred.bt.8	hydrogen fuel automobiles hydrogen vehicle car	0.7701
+382	pred.bt.9	hydrogen fuel automobiles hydrogen vehicle car	0.7701
+383	-1	mental illness drugs	0.0837
+383	pred.bt.1	mental illness drugs psychoactive drug mental disorder	0.1239
+383	pred.bt.10	mental illness drugs psychoactive drug mental disorder	0.1239
+383	pred.bt.2	mental illness drugs psychoactive drug mental disorder	0.1239
+383	pred.bt.3	mental illness drugs psychoactive drug mental disorder	0.1239
+383	pred.bt.4	mental illness drugs psychoactive drug mental disorder	0.1239
+383	pred.bt.5	mental illness drugs psychoactive drug mental disorder	0.1239
+383	pred.bt.6	mental illness drugs psychoactive drug mental disorder	0.1239
+383	pred.bt.7	mental illness drugs psychoactive drug mental disorder	0.1239
+383	pred.bt.8	mental illness drugs psychoactive drug mental disorder	0.1239
+383	pred.bt.9	mental illness drugs psychoactive drug mental disorder	0.1239
+384	-1	space station moon	0.3348
+384	pred.bt.1	space station moon	0.3348
+384	pred.bt.10	space station moon	0.3348
+384	pred.bt.2	space station moon	0.3348
+384	pred.bt.3	space station moon	0.3348
+384	pred.bt.4	space station moon	0.3348
+384	pred.bt.5	space station moon	0.3348
+384	pred.bt.6	space station moon	0.3348
+384	pred.bt.7	space station moon	0.3348
+384	pred.bt.8	space station moon	0.3348
+384	pred.bt.9	space station moon	0.3348
+385	-1	hybrid fuel cars	0.4636
+385	pred.bt.1	hybrid fuel cars hydrogen engin electr cm car daimler drive seed batteri research	0.6303
+385	pred.bt.10	hybrid fuel cars hydrogen engin electr cm car daimler drive seed batteri research	0.6303
+385	pred.bt.2	hybrid fuel cars hydrogen engin electr cm car daimler drive seed batteri research	0.6303
+385	pred.bt.3	hybrid fuel cars hydrogen engin electr cm car daimler drive seed batteri research	0.6303
+385	pred.bt.4	hybrid fuel cars hydrogen engin electr cm car daimler drive seed batteri research	0.6303
+385	pred.bt.5	hybrid fuel cars hydrogen engin electr cm car daimler drive seed batteri research	0.6303
+385	pred.bt.6	hybrid fuel cars hydrogen engin electr cm car daimler drive seed batteri research	0.6303
+385	pred.bt.7	hybrid fuel cars hydrogen engin electr cm car daimler drive seed batteri research	0.6303
+385	pred.bt.8	hybrid fuel cars hydrogen engin electr cm car daimler drive seed batteri research	0.6303
+385	pred.bt.9	hybrid fuel cars hydrogen engin electr cm car daimler drive seed batteri research	0.6303
+386	-1	teaching disabled children	0.1252
+386	pred.bt.1	teaching disabled children us center school program he lesson learn music	0.2859
+386	pred.bt.10	teaching disabled children us center school program he lesson learn music	0.2859
+386	pred.bt.2	teaching disabled children us center school program he lesson learn music	0.2859
+386	pred.bt.3	teaching disabled children us center school program he lesson learn music	0.2859
+386	pred.bt.4	teaching disabled children us center school program he lesson learn music	0.2859
+386	pred.bt.5	teaching disabled children us center school program he lesson learn music	0.2859
+386	pred.bt.6	teaching disabled children us center school program he lesson learn music	0.2859
+386	pred.bt.7	teaching disabled children us center school program he lesson learn music	0.2859
+386	pred.bt.8	teaching disabled children us center school program he lesson learn music	0.2859
+386	pred.bt.9	teaching disabled children us center school program he lesson learn music	0.2859
+387	-1	radioactive waste	0.2274
+387	pred.bt.1	radioactive waste	0.2274
+387	pred.bt.10	radioactive waste	0.2274
+387	pred.bt.2	radioactive waste	0.2274
+387	pred.bt.3	radioactive waste	0.2274
+387	pred.bt.4	radioactive waste	0.2274
+387	pred.bt.5	radioactive waste	0.2274
+387	pred.bt.6	radioactive waste	0.2274
+387	pred.bt.7	radioactive waste	0.2274
+387	pred.bt.8	radioactive waste	0.2274
+387	pred.bt.9	radioactive waste	0.2274
+388	-1	organic soil enhancement	0.1132
+388	pred.bt.1	organic soil enhancement organic fertilizer constitutional constitutive land bemire filth sweetening	0.1659
+388	pred.bt.10	organic soil enhancement organic fertilizer constitutional constitutive land bemire filth sweetening	0.1659
+388	pred.bt.2	organic soil enhancement organic fertilizer constitutional constitutive land bemire filth sweetening	0.1659
+388	pred.bt.3	organic soil enhancement organic fertilizer constitutional constitutive land bemire filth sweetening	0.1659
+388	pred.bt.4	organic soil enhancement organic fertilizer constitutional constitutive land bemire filth sweetening	0.1659
+388	pred.bt.5	organic soil enhancement organic fertilizer constitutional constitutive land bemire filth sweetening	0.1659
+388	pred.bt.6	organic soil enhancement organic fertilizer constitutional constitutive land bemire filth sweetening	0.1659
+388	pred.bt.7	organic soil enhancement organic fertilizer constitutional constitutive land bemire filth sweetening	0.1659
+388	pred.bt.8	organic soil enhancement organic fertilizer constitutional constitutive land bemire filth sweetening	0.1659
+388	pred.bt.9	organic soil enhancement organic fertilizer constitutional constitutive land bemire filth sweetening	0.1659
+389	-1	illegal technology transfer	0.0935
+389	pred.bt.1	illeg technolog transf	0.1095
+389	pred.bt.10	illeg technolog transf	0.1095
+389	pred.bt.2	illeg technolog transf	0.1095
+389	pred.bt.3	illeg technolog transf	0.1095
+389	pred.bt.4	illeg technolog transf	0.1095
+389	pred.bt.5	illeg technolog transf	0.1095
+389	pred.bt.6	illeg technolog transf	0.1095
+389	pred.bt.7	illeg technolog transf	0.1095
+389	pred.bt.8	illeg technolog transf	0.1095
+389	pred.bt.9	illeg technolog transf	0.1095
+390	-1	orphan drugs	0.1861
+390	pred.bt.1	orphan drugs drug research aid amgen joe	0.536
+390	pred.bt.10	orphan drugs drug research aid amgen joe	0.536
+390	pred.bt.2	orphan drugs drug research aid amgen joe	0.536
+390	pred.bt.3	orphan drugs drug research aid amgen joe	0.536
+390	pred.bt.4	orphan drugs drug research aid amgen joe	0.536
+390	pred.bt.5	orphan drugs drug research aid amgen joe	0.536
+390	pred.bt.6	orphan drugs drug research aid amgen joe	0.536
+390	pred.bt.7	orphan drugs drug research aid amgen joe	0.536
+390	pred.bt.8	orphan drugs drug research aid amgen joe	0.536
+390	pred.bt.9	orphan drugs drug research aid amgen joe	0.536
+391	-1	r&d drug prices	0.3673
+391	pred.bt.1	r drug prices research development pharmaceutical drug price	0.5144
+391	pred.bt.10	r drug prices research development pharmaceutical drug price	0.5144
+391	pred.bt.2	r drug prices research development pharmaceutical drug price	0.5144
+391	pred.bt.3	r drug prices research development pharmaceutical drug price	0.5144
+391	pred.bt.4	r drug prices research development pharmaceutical drug price	0.5144
+391	pred.bt.5	r drug prices research development pharmaceutical drug price	0.5144
+391	pred.bt.6	r drug prices research development pharmaceutical drug price	0.5144
+391	pred.bt.7	r drug prices research development pharmaceutical drug price	0.5144
+391	pred.bt.8	r drug prices research development pharmaceutical drug price	0.5144
+391	pred.bt.9	r drug prices research development pharmaceutical drug price	0.5144
+392	-1	robotics	0.5104
+392	pred.bt.1	robotics	0.5104
+392	pred.bt.10	robotics	0.5104
+392	pred.bt.2	robotics	0.5104
+392	pred.bt.3	robotics	0.5104
+392	pred.bt.4	robotics	0.5104
+392	pred.bt.5	robotics	0.5104
+392	pred.bt.6	robotics	0.5104
+392	pred.bt.7	robotics	0.5104
+392	pred.bt.8	robotics	0.5104
+392	pred.bt.9	robotics	0.5104
+393	-1	mercy killing	0.2064
+393	pred.bt.1	mercy killing suicide types terminal illness eugenics euthanasia	0.3856
+393	pred.bt.10	mercy killing suicide types terminal illness eugenics euthanasia	0.3856
+393	pred.bt.2	mercy killing suicide types terminal illness eugenics euthanasia	0.3856
+393	pred.bt.3	mercy killing suicide types terminal illness eugenics euthanasia	0.3856
+393	pred.bt.4	mercy killing suicide types terminal illness eugenics euthanasia	0.3856
+393	pred.bt.5	mercy killing suicide types terminal illness eugenics euthanasia	0.3856
+393	pred.bt.6	mercy killing suicide types terminal illness eugenics euthanasia	0.3856
+393	pred.bt.7	mercy killing suicide types terminal illness eugenics euthanasia	0.3856
+393	pred.bt.8	mercy killing suicide types terminal illness eugenics euthanasia	0.3856
+393	pred.bt.9	mercy killing suicide types terminal illness eugenics euthanasia	0.3856
+394	-1	home schooling	0.0797
+394	pred.bt.1	home schooling	0.0797
+394	pred.bt.10	home schooling	0.0797
+394	pred.bt.2	home schooling	0.0797
+394	pred.bt.3	home schooling	0.0797
+394	pred.bt.4	home schooling	0.0797
+394	pred.bt.5	home schooling	0.0797
+394	pred.bt.6	home schooling	0.0797
+394	pred.bt.7	home schooling	0.0797
+394	pred.bt.8	home schooling	0.0797
+394	pred.bt.9	home schooling	0.0797
+395	-1	tourism	0.1378
+395	pred.bt.1	tourist industry	0.1578
+395	pred.bt.10	tourist industry	0.1578
+395	pred.bt.2	tourist industry	0.1578
+395	pred.bt.3	tourist industry	0.1578
+395	pred.bt.4	tourist industry	0.1578
+395	pred.bt.5	tourist industry	0.1578
+395	pred.bt.6	tourist industry	0.1578
+395	pred.bt.7	tourist industry	0.1578
+395	pred.bt.8	tourist industry	0.1578
+395	pred.bt.9	tourist industry	0.1578
+396	-1	sick building syndrome	0.2999
+396	pred.bt.1	sick building syndrome green cleaning greenguard environmental institute biomedical waste sick building syndrome	0.3255
+396	pred.bt.10	sick building syndrome green cleaning greenguard environmental institute biomedical waste sick building syndrome	0.3255
+396	pred.bt.2	sick building syndrome green cleaning greenguard environmental institute biomedical waste sick building syndrome	0.3255
+396	pred.bt.3	sick building syndrome green cleaning greenguard environmental institute biomedical waste sick building syndrome	0.3255
+396	pred.bt.4	sick building syndrome green cleaning greenguard environmental institute biomedical waste sick building syndrome	0.3255
+396	pred.bt.5	sick building syndrome green cleaning greenguard environmental institute biomedical waste sick building syndrome	0.3255
+396	pred.bt.6	sick building syndrome green cleaning greenguard environmental institute biomedical waste sick building syndrome	0.3255
+396	pred.bt.7	sick building syndrome green cleaning greenguard environmental institute biomedical waste sick building syndrome	0.3255
+396	pred.bt.8	sick building syndrome green cleaning greenguard environmental institute biomedical waste sick building syndrome	0.3255
+396	pred.bt.9	sick building syndrome green cleaning greenguard environmental institute biomedical waste sick building syndrome	0.3255
+397	-1	automobile recalls	0.0659
+397	pred.bt.1	car recalls	0.7193
+397	pred.bt.10	car recalls	0.7193
+397	pred.bt.2	car recalls	0.7193
+397	pred.bt.3	car recalls	0.7193
+397	pred.bt.4	car recalls	0.7193
+397	pred.bt.5	car recalls	0.7193
+397	pred.bt.6	car recalls	0.7193
+397	pred.bt.7	car recalls	0.7193
+397	pred.bt.8	car recalls	0.7193
+397	pred.bt.9	car recalls	0.7193
+398	-1	dismantling europe's arsenal	0.0466
+398	pred.bt.1	dismantling europe s arsenal demolishing germany european europe s of s s armoury weapon	0.1871
+398	pred.bt.10	dismantling europe s arsenal demolishing germany european europe s of s s armoury weapon	0.1871
+398	pred.bt.2	dismantling europe s arsenal demolishing germany european europe s of s s armoury weapon	0.1871
+398	pred.bt.3	dismantling europe s arsenal demolishing germany european europe s of s s armoury weapon	0.1871
+398	pred.bt.4	dismantling europe s arsenal demolishing germany european europe s of s s armoury weapon	0.1871
+398	pred.bt.5	dismantling europe s arsenal demolishing germany european europe s of s s armoury weapon	0.1871
+398	pred.bt.6	dismantling europe s arsenal demolishing germany european europe s of s s armoury weapon	0.1871
+398	pred.bt.7	dismantling europe s arsenal demolishing germany european europe s of s s armoury weapon	0.1871
+398	pred.bt.8	dismantling europe s arsenal demolishing germany european europe s of s s armoury weapon	0.1871
+398	pred.bt.9	dismantling europe s arsenal demolishing germany european europe s of s s armoury weapon	0.1871
+399	-1	oceanographic vessels	0.2946
+399	pred.bt.1	oceanographic vessels ocean	0.3286
+399	pred.bt.10	oceanographic vessels ocean	0.3286
+399	pred.bt.2	oceanographic vessels ocean	0.3286
+399	pred.bt.3	oceanographic vessels ocean	0.3286
+399	pred.bt.4	oceanographic vessels ocean	0.3286
+399	pred.bt.5	oceanographic vessels ocean	0.3286
+399	pred.bt.6	oceanographic vessels ocean	0.3286
+399	pred.bt.7	oceanographic vessels ocean	0.3286
+399	pred.bt.8	oceanographic vessels ocean	0.3286
+399	pred.bt.9	oceanographic vessels ocean	0.3286
+400	-1	amazon rain forest	0.4859
+400	pred.bt.1	amazon rain forest amazon rainforest	0.5594
+400	pred.bt.10	amazon rain forest amazon rainforest	0.5594
+400	pred.bt.2	amazon rain forest amazon rainforest	0.5594
+400	pred.bt.3	amazon rain forest amazon rainforest	0.5594
+400	pred.bt.4	amazon rain forest amazon rainforest	0.5594
+400	pred.bt.5	amazon rain forest amazon rainforest	0.5594
+400	pred.bt.6	amazon rain forest amazon rainforest	0.5594
+400	pred.bt.7	amazon rain forest amazon rainforest	0.5594
+400	pred.bt.8	amazon rain forest amazon rainforest	0.5594
+400	pred.bt.9	amazon rain forest amazon rainforest	0.5594
+401	-1	foreign minorities, germany	0.0777
+401	pred.bt.1	foreign minorities, germany	0.0777
+401	pred.bt.10	foreign minorities, germany	0.0777
+401	pred.bt.2	foreign minorities, germany	0.0777
+401	pred.bt.3	foreign minorities, germany	0.0777
+401	pred.bt.4	foreign minorities, germany	0.0777
+401	pred.bt.5	foreign minorities, germany	0.0777
+401	pred.bt.6	foreign minorities, germany	0.0777
+401	pred.bt.7	foreign minorities, germany	0.0777
+401	pred.bt.8	foreign minorities, germany	0.0777
+401	pred.bt.9	foreign minorities, germany	0.0777
+402	-1	behavioral genetics	0.2505
+402	pred.bt.1	behavioral genetics behavior genetics association eysenck personality questionnaire evolutionary developmental psychology behavioural genetics	0.3377
+402	pred.bt.10	behavioral genetics behavior genetics association eysenck personality questionnaire evolutionary developmental psychology behavioural genetics	0.3377
+402	pred.bt.2	behavioral genetics behavior genetics association eysenck personality questionnaire evolutionary developmental psychology behavioural genetics	0.3377
+402	pred.bt.3	behavioral genetics behavior genetics association eysenck personality questionnaire evolutionary developmental psychology behavioural genetics	0.3377
+402	pred.bt.4	behavioral genetics behavior genetics association eysenck personality questionnaire evolutionary developmental psychology behavioural genetics	0.3377
+402	pred.bt.5	behavioral genetics behavior genetics association eysenck personality questionnaire evolutionary developmental psychology behavioural genetics	0.3377
+402	pred.bt.6	behavioral genetics behavior genetics association eysenck personality questionnaire evolutionary developmental psychology behavioural genetics	0.3377
+402	pred.bt.7	behavioral genetics behavior genetics association eysenck personality questionnaire evolutionary developmental psychology behavioural genetics	0.3377
+402	pred.bt.8	behavioral genetics behavior genetics association eysenck personality questionnaire evolutionary developmental psychology behavioural genetics	0.3377
+402	pred.bt.9	behavioral genetics behavior genetics association eysenck personality questionnaire evolutionary developmental psychology behavioural genetics	0.3377
+403	-1	osteoporosis	0.661
+403	pred.bt.1	osteoporosis bone fractur decemb	0.6868
+403	pred.bt.10	osteoporosis bone fractur decemb	0.6868
+403	pred.bt.2	osteoporosis bone fractur decemb	0.6868
+403	pred.bt.3	osteoporosis bone fractur decemb	0.6868
+403	pred.bt.4	osteoporosis bone fractur decemb	0.6868
+403	pred.bt.5	osteoporosis bone fractur decemb	0.6868
+403	pred.bt.6	osteoporosis bone fractur decemb	0.6868
+403	pred.bt.7	osteoporosis bone fractur decemb	0.6868
+403	pred.bt.8	osteoporosis bone fractur decemb	0.6868
+403	pred.bt.9	osteoporosis bone fractur decemb	0.6868
+404	-1	ireland, peace talks	0.1501
+404	pred.bt.1	ireland peace talks killeevi donaghcump i	0.2002
+404	pred.bt.10	ireland peace talks killeevi donaghcump i	0.2002
+404	pred.bt.2	ireland peace talks killeevi donaghcump i	0.2002
+404	pred.bt.3	ireland peace talks killeevi donaghcump i	0.2002
+404	pred.bt.4	ireland peace talks killeevi donaghcump i	0.2002
+404	pred.bt.5	ireland peace talks killeevi donaghcump i	0.2002
+404	pred.bt.6	ireland peace talks killeevi donaghcump i	0.2002
+404	pred.bt.7	ireland peace talks killeevi donaghcump i	0.2002
+404	pred.bt.8	ireland peace talks killeevi donaghcump i	0.2002
+404	pred.bt.9	ireland peace talks killeevi donaghcump i	0.2002
+405	-1	cosmic events	0.1929
+405	pred.bt.1	cosmic events	0.1929
+405	pred.bt.10	cosmic events	0.1929
+405	pred.bt.2	cosmic events	0.1929
+405	pred.bt.3	cosmic events	0.1929
+405	pred.bt.4	cosmic events	0.1929
+405	pred.bt.5	cosmic events	0.1929
+405	pred.bt.6	cosmic events	0.1929
+405	pred.bt.7	cosmic events	0.1929
+405	pred.bt.8	cosmic events	0.1929
+405	pred.bt.9	cosmic events	0.1929
+406	-1	parkinson's disease	0.6893
+406	pred.bt.1	parkinson s disease brain research parkinson cell ban diseas i he	0.834
+406	pred.bt.10	parkinson s disease brain research parkinson cell ban diseas i he	0.834
+406	pred.bt.2	parkinson s disease brain research parkinson cell ban diseas i he	0.834
+406	pred.bt.3	parkinson s disease brain research parkinson cell ban diseas i he	0.834
+406	pred.bt.4	parkinson s disease brain research parkinson cell ban diseas i he	0.834
+406	pred.bt.5	parkinson s disease brain research parkinson cell ban diseas i he	0.834
+406	pred.bt.6	parkinson s disease brain research parkinson cell ban diseas i he	0.834
+406	pred.bt.7	parkinson s disease brain research parkinson cell ban diseas i he	0.834
+406	pred.bt.8	parkinson s disease brain research parkinson cell ban diseas i he	0.834
+406	pred.bt.9	parkinson s disease brain research parkinson cell ban diseas i he	0.834
+407	-1	poaching, wildlife preserves	0.4172
+407	pred.bt.1	poaching wildlife preserves wildlif eleph tiger have fish campfir mr phinda ivori	0.4705
+407	pred.bt.10	poaching wildlife preserves wildlif eleph tiger have fish campfir mr phinda ivori	0.4705
+407	pred.bt.2	poaching wildlife preserves wildlif eleph tiger have fish campfir mr phinda ivori	0.4705
+407	pred.bt.3	poaching wildlife preserves wildlif eleph tiger have fish campfir mr phinda ivori	0.4705
+407	pred.bt.4	poaching wildlife preserves wildlif eleph tiger have fish campfir mr phinda ivori	0.4705
+407	pred.bt.5	poaching wildlife preserves wildlif eleph tiger have fish campfir mr phinda ivori	0.4705
+407	pred.bt.6	poaching wildlife preserves wildlif eleph tiger have fish campfir mr phinda ivori	0.4705
+407	pred.bt.7	poaching wildlife preserves wildlif eleph tiger have fish campfir mr phinda ivori	0.4705
+407	pred.bt.8	poaching wildlife preserves wildlif eleph tiger have fish campfir mr phinda ivori	0.4705
+407	pred.bt.9	poaching wildlife preserves wildlif eleph tiger have fish campfir mr phinda ivori	0.4705
+408	-1	tropical storms	0.2473
+408	pred.bt.1	tropical storms storm cyclone floods	0.3321
+408	pred.bt.10	tropical storms storm cyclone floods	0.3321
+408	pred.bt.2	tropical storms storm cyclone floods	0.3321
+408	pred.bt.3	tropical storms storm cyclone floods	0.3321
+408	pred.bt.4	tropical storms storm cyclone floods	0.3321
+408	pred.bt.5	tropical storms storm cyclone floods	0.3321
+408	pred.bt.6	tropical storms storm cyclone floods	0.3321
+408	pred.bt.7	tropical storms storm cyclone floods	0.3321
+408	pred.bt.8	tropical storms storm cyclone floods	0.3321
+408	pred.bt.9	tropical storms storm cyclone floods	0.3321
+409	-1	legal, pan am, 103	0.4161
+409	pred.bt.1	legal, pan am, 103	0.4161
+409	pred.bt.10	legal, pan am, 103	0.4161
+409	pred.bt.2	legal, pan am, 103	0.4161
+409	pred.bt.3	legal, pan am, 103	0.4161
+409	pred.bt.4	legal, pan am, 103	0.4161
+409	pred.bt.5	legal, pan am, 103	0.4161
+409	pred.bt.6	legal, pan am, 103	0.4161
+409	pred.bt.7	legal, pan am, 103	0.4161
+409	pred.bt.8	legal, pan am, 103	0.4161
+409	pred.bt.9	legal, pan am, 103	0.4161
+410	-1	schengen agreement	0.9459
+410	pred.bt.1	schengen agreement	0.9459
+410	pred.bt.10	schengen agreement	0.9459
+410	pred.bt.2	schengen agreement	0.9459
+410	pred.bt.3	schengen agreement	0.9459
+410	pred.bt.4	schengen agreement	0.9459
+410	pred.bt.5	schengen agreement	0.9459
+410	pred.bt.6	schengen agreement	0.9459
+410	pred.bt.7	schengen agreement	0.9459
+410	pred.bt.8	schengen agreement	0.9459
+410	pred.bt.9	schengen agreement	0.9459
+411	-1	salvaging, shipwreck, treasure	0.4451
+411	pred.bt.1	salvaging shipwreck treasure scavenge relieve save wreck value gem hoarded wealth	0.475
+411	pred.bt.10	salvaging shipwreck treasure scavenge relieve save wreck value gem hoarded wealth	0.475
+411	pred.bt.2	salvaging shipwreck treasure scavenge relieve save wreck value gem hoarded wealth	0.475
+411	pred.bt.3	salvaging shipwreck treasure scavenge relieve save wreck value gem hoarded wealth	0.475
+411	pred.bt.4	salvaging shipwreck treasure scavenge relieve save wreck value gem hoarded wealth	0.475
+411	pred.bt.5	salvaging shipwreck treasure scavenge relieve save wreck value gem hoarded wealth	0.475
+411	pred.bt.6	salvaging shipwreck treasure scavenge relieve save wreck value gem hoarded wealth	0.475
+411	pred.bt.7	salvaging shipwreck treasure scavenge relieve save wreck value gem hoarded wealth	0.475
+411	pred.bt.8	salvaging shipwreck treasure scavenge relieve save wreck value gem hoarded wealth	0.475
+411	pred.bt.9	salvaging shipwreck treasure scavenge relieve save wreck value gem hoarded wealth	0.475
+412	-1	airport security	0.4362
+412	pred.bt.1	airport security	0.4362
+412	pred.bt.10	airport security	0.4362
+412	pred.bt.5	airport security	0.4362
+412	pred.bt.7	airport security	0.4362
+412	pred.bt.8	airport security	0.4362
+413	-1	steel production	0.1188
+413	pred.bt.1	steel steel	0.2333
+413	pred.bt.10	steel steel	0.2333
+413	pred.bt.2	steel steel	0.2333
+413	pred.bt.3	steel steel	0.2333
+413	pred.bt.4	steel steel	0.2333
+413	pred.bt.5	steel steel	0.2333
+413	pred.bt.6	steel steel	0.2333
+413	pred.bt.7	steel steel	0.2333
+413	pred.bt.8	steel steel	0.2333
+413	pred.bt.9	steel steel	0.2333
+414	-1	cuba, sugar, exports	0.4941
+414	pred.bt.1	cuba sugar exports republic of cuba loot bread	0.5348
+414	pred.bt.10	cuba sugar exports republic of cuba loot bread	0.5348
+414	pred.bt.2	cuba sugar exports republic of cuba loot bread	0.5348
+414	pred.bt.3	cuba sugar exports republic of cuba loot bread	0.5348
+414	pred.bt.4	cuba sugar exports republic of cuba loot bread	0.5348
+414	pred.bt.5	cuba sugar exports republic of cuba loot bread	0.5348
+414	pred.bt.6	cuba sugar exports republic of cuba loot bread	0.5348
+414	pred.bt.7	cuba sugar exports republic of cuba loot bread	0.5348
+414	pred.bt.8	cuba sugar exports republic of cuba loot bread	0.5348
+414	pred.bt.9	cuba sugar exports republic of cuba loot bread	0.5348
+415	-1	drugs, golden triangle	0.4272
+415	pred.bt.1	drugs golden triangle said fundamentalist drug heroin sa	0.546
+415	pred.bt.10	drugs golden triangle said fundamentalist drug heroin sa	0.546
+415	pred.bt.2	drugs golden triangle said fundamentalist drug heroin sa	0.546
+415	pred.bt.3	drugs golden triangle said fundamentalist drug heroin sa	0.546
+415	pred.bt.4	drugs golden triangle said fundamentalist drug heroin sa	0.546
+415	pred.bt.5	drugs golden triangle said fundamentalist drug heroin sa	0.546
+415	pred.bt.6	drugs golden triangle said fundamentalist drug heroin sa	0.546
+415	pred.bt.7	drugs golden triangle said fundamentalist drug heroin sa	0.546
+415	pred.bt.8	drugs golden triangle said fundamentalist drug heroin sa	0.546
+415	pred.bt.9	drugs golden triangle said fundamentalist drug heroin sa	0.546
+416	-1	three gorges project	0.5569
+416	pred.bt.1	three gorges project li area capac dig gener gorg	0.6436
+416	pred.bt.10	three gorges project li area capac dig gener gorg	0.6436
+416	pred.bt.2	three gorges project li area capac dig gener gorg	0.6436
+416	pred.bt.3	three gorges project li area capac dig gener gorg	0.6436
+416	pred.bt.4	three gorges project li area capac dig gener gorg	0.6436
+416	pred.bt.5	three gorges project li area capac dig gener gorg	0.6436
+416	pred.bt.6	three gorges project li area capac dig gener gorg	0.6436
+416	pred.bt.7	three gorges project li area capac dig gener gorg	0.6436
+416	pred.bt.8	three gorges project li area capac dig gener gorg	0.6436
+416	pred.bt.9	three gorges project li area capac dig gener gorg	0.6436
+417	-1	creativity	0.4366
+417	pred.bt.1	creativity creative thinking	0.4366
+417	pred.bt.10	creativity creative thinking	0.4366
+417	pred.bt.2	creativity creative thinking	0.4366
+417	pred.bt.3	creativity creative thinking	0.4366
+417	pred.bt.4	creativity creative thinking	0.4366
+417	pred.bt.5	creativity creative thinking	0.4366
+417	pred.bt.6	creativity creative thinking	0.4366
+417	pred.bt.7	creativity creative thinking	0.4366
+417	pred.bt.8	creativity creative thinking	0.4366
+417	pred.bt.9	creativity creative thinking	0.4366
+418	-1	quilts, income	0.4374
+418	pred.bt.1	quilts quilt income	0.4462
+418	pred.bt.10	quilts quilt income	0.4462
+418	pred.bt.2	quilts quilt income	0.4462
+418	pred.bt.3	quilts quilt income	0.4462
+418	pred.bt.4	quilts quilt income	0.4462
+418	pred.bt.5	quilts quilt income	0.4462
+418	pred.bt.6	quilts quilt income	0.4462
+418	pred.bt.7	quilts quilt income	0.4462
+418	pred.bt.8	quilts quilt income	0.4462
+418	pred.bt.9	quilts quilt income	0.4462
+419	-1	recycle, automobile tires	0.1466
+419	pred.bt.1	recycle car tyres	0.4379
+419	pred.bt.10	recycle car tyres	0.4379
+419	pred.bt.2	recycle car tyres	0.4379
+419	pred.bt.3	recycle car tyres	0.4379
+419	pred.bt.4	recycle car tyres	0.4379
+419	pred.bt.5	recycle car tyres	0.4379
+419	pred.bt.6	recycle car tyres	0.4379
+419	pred.bt.7	recycle car tyres	0.4379
+419	pred.bt.8	recycle car tyres	0.4379
+419	pred.bt.9	recycle car tyres	0.4379
+420	-1	carbon monoxide poisoning	0.6868
+420	pred.bt.1	carbon monoxide poisoning an element physiological state	0.7059
+420	pred.bt.10	carbon monoxide poisoning an element physiological state	0.7059
+420	pred.bt.2	carbon monoxide poisoning an element physiological state	0.7059
+420	pred.bt.3	carbon monoxide poisoning an element physiological state	0.7059
+420	pred.bt.4	carbon monoxide poisoning an element physiological state	0.7059
+420	pred.bt.5	carbon monoxide poisoning an element physiological state	0.7059
+420	pred.bt.6	carbon monoxide poisoning an element physiological state	0.7059
+420	pred.bt.7	carbon monoxide poisoning an element physiological state	0.7059
+420	pred.bt.8	carbon monoxide poisoning an element physiological state	0.7059
+420	pred.bt.9	carbon monoxide poisoning an element physiological state	0.7059
+421	-1	industrial waste disposal	0.0971
+421	pred.bt.1	industri wast dispos	0.1979
+421	pred.bt.10	industri wast dispos	0.1979
+421	pred.bt.2	industri wast dispos	0.1979
+421	pred.bt.3	industri wast dispos	0.1979
+421	pred.bt.4	industri wast dispos	0.1979
+421	pred.bt.5	industri wast dispos	0.1979
+421	pred.bt.6	industri wast dispos	0.1979
+421	pred.bt.7	industri wast dispos	0.1979
+421	pred.bt.8	industri wast dispos	0.1979
+421	pred.bt.9	industri wast dispos	0.1979
+422	-1	art, stolen, forged	0.4123
+422	pred.bt.1	art stolen forged forgery art art theft	0.5356
+422	pred.bt.10	art stolen forged forgery art art theft	0.5356
+422	pred.bt.2	art stolen forged forgery art art theft	0.5356
+422	pred.bt.3	art stolen forged forgery art art theft	0.5356
+422	pred.bt.4	art stolen forged forgery art art theft	0.5356
+422	pred.bt.5	art stolen forged forgery art art theft	0.5356
+422	pred.bt.6	art stolen forged forgery art art theft	0.5356
+422	pred.bt.7	art stolen forged forgery art art theft	0.5356
+422	pred.bt.8	art stolen forged forgery art art theft	0.5356
+422	pred.bt.9	art stolen forged forgery art art theft	0.5356
+423	-1	milosevic, mirjana markovic	0.7777
+423	pred.bt.1	milosevic, mirjana markovic	0.7777
+423	pred.bt.10	milosevic, mirjana markovic	0.7777
+423	pred.bt.2	milosevic, mirjana markovic	0.7777
+423	pred.bt.3	milosevic, mirjana markovic	0.7777
+423	pred.bt.4	milosevic, mirjana markovic	0.7777
+423	pred.bt.5	milosevic, mirjana markovic	0.7777
+423	pred.bt.6	milosevic, mirjana markovic	0.7777
+423	pred.bt.7	milosevic, mirjana markovic	0.7777
+423	pred.bt.8	milosevic, mirjana markovic	0.7777
+423	pred.bt.9	milosevic, mirjana markovic	0.7777
+424	-1	suicides	0.1503
+424	pred.bt.1	murder suicides	0.2813
+424	pred.bt.10	murder suicides	0.2813
+424	pred.bt.2	murder suicides	0.2813
+424	pred.bt.3	murder suicides	0.2813
+424	pred.bt.4	murder suicides	0.2813
+424	pred.bt.5	murder suicides	0.2813
+424	pred.bt.6	murder suicides	0.2813
+424	pred.bt.7	murder suicides	0.2813
+424	pred.bt.8	murder suicides	0.2813
+424	pred.bt.9	murder suicides	0.2813
+425	-1	counterfeiting money	0.4447
+425	pred.bt.1	counterfeiting forge money	0.4696
+425	pred.bt.10	counterfeiting forge money	0.4696
+425	pred.bt.2	counterfeiting forge money	0.4696
+425	pred.bt.3	counterfeiting forge money	0.4696
+425	pred.bt.4	counterfeiting forge money	0.4696
+425	pred.bt.5	counterfeiting forge money	0.4696
+425	pred.bt.6	counterfeiting forge money	0.4696
+425	pred.bt.7	counterfeiting forge money	0.4696
+425	pred.bt.8	counterfeiting forge money	0.4696
+425	pred.bt.9	counterfeiting forge money	0.4696
+426	-1	law enforcement, dogs	0.1406
+426	pred.bt.1	police police dog	0.3457
+426	pred.bt.10	police police dog	0.3457
+426	pred.bt.2	police police dog	0.3457
+426	pred.bt.3	police police dog	0.3457
+426	pred.bt.4	police police dog	0.3457
+426	pred.bt.5	police police dog	0.3457
+426	pred.bt.6	police police dog	0.3457
+426	pred.bt.7	police police dog	0.3457
+426	pred.bt.8	police police dog	0.3457
+426	pred.bt.9	police police dog	0.3457
+427	-1	uv damage, eyes	0.3693
+427	pred.bt.1	uv damage eyes protect pound ozon star ash america ey characterist	0.5453
+427	pred.bt.10	uv damage eyes protect pound ozon star ash america ey characterist	0.5453
+427	pred.bt.2	uv damage eyes protect pound ozon star ash america ey characterist	0.5453
+427	pred.bt.3	uv damage eyes protect pound ozon star ash america ey characterist	0.5453
+427	pred.bt.4	uv damage eyes protect pound ozon star ash america ey characterist	0.5453
+427	pred.bt.5	uv damage eyes protect pound ozon star ash america ey characterist	0.5453
+427	pred.bt.6	uv damage eyes protect pound ozon star ash america ey characterist	0.5453
+427	pred.bt.7	uv damage eyes protect pound ozon star ash america ey characterist	0.5453
+427	pred.bt.8	uv damage eyes protect pound ozon star ash america ey characterist	0.5453
+427	pred.bt.9	uv damage eyes protect pound ozon star ash america ey characterist	0.5453
+428	-1	declining birth rates	0.3223
+428	pred.bt.1	declining birth rates	0.3223
+428	pred.bt.10	declining birth rates	0.3223
+428	pred.bt.2	declining birth rates	0.3223
+428	pred.bt.3	declining birth rates	0.3223
+428	pred.bt.4	declining birth rates	0.3223
+428	pred.bt.5	declining birth rates	0.3223
+428	pred.bt.6	declining birth rates	0.3223
+428	pred.bt.7	declining birth rates	0.3223
+428	pred.bt.8	declining birth rates	0.3223
+428	pred.bt.9	declining birth rates	0.3223
+429	-1	legionnaires' disease	0.6606
+429	pred.bt.1	legionnaires disease illness	0.725
+429	pred.bt.10	legionnaires disease illness	0.725
+429	pred.bt.2	legionnaires disease illness	0.725
+429	pred.bt.3	legionnaires disease illness	0.725
+429	pred.bt.4	legionnaires disease illness	0.725
+429	pred.bt.5	legionnaires disease illness	0.725
+429	pred.bt.6	legionnaires disease illness	0.725
+429	pred.bt.7	legionnaires disease illness	0.725
+429	pred.bt.8	legionnaires disease illness	0.725
+429	pred.bt.9	legionnaires disease illness	0.725
+430	-1	killer bee attacks	0.7607
+430	pred.bt.1	kil bee attack	0.8981
+430	pred.bt.10	kil bee attack	0.8981
+430	pred.bt.2	kil bee attack	0.8981
+430	pred.bt.3	kil bee attack	0.8981
+430	pred.bt.4	kil bee attack	0.8981
+430	pred.bt.5	kil bee attack	0.8981
+430	pred.bt.6	kil bee attack	0.8981
+430	pred.bt.7	kil bee attack	0.8981
+430	pred.bt.8	kil bee attack	0.8981
+430	pred.bt.9	kil bee attack	0.8981
+431	-1	robotic technology	0.5211
+431	pred.bt.1	robotic technology	0.5211
+431	pred.bt.10	robotic technology	0.5211
+431	pred.bt.2	robotic technology	0.5211
+431	pred.bt.3	robotic technology	0.5211
+431	pred.bt.4	robotic technology	0.5211
+431	pred.bt.5	robotic technology	0.5211
+431	pred.bt.6	robotic technology	0.5211
+431	pred.bt.7	robotic technology	0.5211
+431	pred.bt.8	robotic technology	0.5211
+431	pred.bt.9	robotic technology	0.5211
+432	-1	profiling, motorists, police	0.0179
+432	pred.bt.1	profiling motorists police percent puls drug genet warden polic i road court citi	0.0407
+432	pred.bt.10	profiling motorists police percent puls drug genet warden polic i road court citi	0.0407
+432	pred.bt.2	profiling motorists police percent puls drug genet warden polic i road court citi	0.0407
+432	pred.bt.3	profiling motorists police percent puls drug genet warden polic i road court citi	0.0407
+432	pred.bt.4	profiling motorists police percent puls drug genet warden polic i road court citi	0.0407
+432	pred.bt.5	profiling motorists police percent puls drug genet warden polic i road court citi	0.0407
+432	pred.bt.6	profiling motorists police percent puls drug genet warden polic i road court citi	0.0407
+432	pred.bt.7	profiling motorists police percent puls drug genet warden polic i road court citi	0.0407
+432	pred.bt.8	profiling motorists police percent puls drug genet warden polic i road court citi	0.0407
+432	pred.bt.9	profiling motorists police percent puls drug genet warden polic i road court citi	0.0407
+433	-1	greek, philosophy, stoicism	0.1845
+433	pred.bt.1	greek philo stoic	0.2352
+433	pred.bt.10	greek philo stoic	0.2352
+433	pred.bt.2	greek philo stoic	0.2352
+433	pred.bt.3	greek philo stoic	0.2352
+433	pred.bt.4	greek philo stoic	0.2352
+433	pred.bt.5	greek philo stoic	0.2352
+433	pred.bt.6	greek philo stoic	0.2352
+433	pred.bt.7	greek philo stoic	0.2352
+433	pred.bt.8	greek philo stoic	0.2352
+433	pred.bt.9	greek philo stoic	0.2352
+434	-1	estonia, economy	0.3195
+434	pred.bt.1	estonia, economy	0.3195
+434	pred.bt.10	estonia, economy	0.3195
+434	pred.bt.2	estonia, economy	0.3195
+434	pred.bt.3	estonia, economy	0.3195
+434	pred.bt.4	estonia, economy	0.3195
+434	pred.bt.5	estonia, economy	0.3195
+434	pred.bt.6	estonia, economy	0.3195
+434	pred.bt.7	estonia, economy	0.3195
+434	pred.bt.8	estonia, economy	0.3195
+434	pred.bt.9	estonia, economy	0.3195
+435	-1	curbing population growth	0.0551
+435	pred.bt.1	curbi popul growt	0.2505
+435	pred.bt.10	curbi popul growt	0.2505
+435	pred.bt.2	curbi popul growt	0.2505
+435	pred.bt.3	curbi popul growt	0.2505
+435	pred.bt.4	curbi popul growt	0.2505
+435	pred.bt.5	curbi popul growt	0.2505
+435	pred.bt.6	curbi popul growt	0.2505
+435	pred.bt.7	curbi popul growt	0.2505
+435	pred.bt.8	curbi popul growt	0.2505
+435	pred.bt.9	curbi popul growt	0.2505
+436	-1	railway accidents	0.1827
+436	pred.bt.1	railway accidents railroad happen anytime cause injury happen to anyone	0.2447
+436	pred.bt.10	railway accidents railroad happen anytime cause injury happen to anyone	0.2447
+436	pred.bt.2	railway accidents railroad happen anytime cause injury happen to anyone	0.2447
+436	pred.bt.3	railway accidents railroad happen anytime cause injury happen to anyone	0.2447
+436	pred.bt.4	railway accidents railroad happen anytime cause injury happen to anyone	0.2447
+436	pred.bt.5	railway accidents railroad happen anytime cause injury happen to anyone	0.2447
+436	pred.bt.6	railway accidents railroad happen anytime cause injury happen to anyone	0.2447
+436	pred.bt.7	railway accidents railroad happen anytime cause injury happen to anyone	0.2447
+436	pred.bt.8	railway accidents railroad happen anytime cause injury happen to anyone	0.2447
+436	pred.bt.9	railway accidents railroad happen anytime cause injury happen to anyone	0.2447
+437	-1	deregulation, gas, electric	0.091
+437	pred.bt.1	deregulation, gas, electric	0.091
+437	pred.bt.10	deregulation, gas, electric	0.091
+437	pred.bt.2	deregulation, gas, electric	0.091
+437	pred.bt.3	deregulation, gas, electric	0.091
+437	pred.bt.4	deregulation, gas, electric	0.091
+437	pred.bt.5	deregulation, gas, electric	0.091
+437	pred.bt.6	deregulation, gas, electric	0.091
+437	pred.bt.7	deregulation, gas, electric	0.091
+437	pred.bt.8	deregulation, gas, electric	0.091
+437	pred.bt.9	deregulation, gas, electric	0.091
+438	-1	tourism, increase	0.3067
+438	pred.bt.1	tourism, increase	0.3067
+438	pred.bt.10	tourism, increase	0.3067
+438	pred.bt.2	tourism, increase	0.3067
+438	pred.bt.3	tourism, increase	0.3067
+438	pred.bt.4	tourism, increase	0.3067
+438	pred.bt.5	tourism, increase	0.3067
+438	pred.bt.6	tourism, increase	0.3067
+438	pred.bt.7	tourism, increase	0.3067
+438	pred.bt.8	tourism, increase	0.3067
+438	pred.bt.9	tourism, increase	0.3067
+439	-1	inventions, scientific discoveries	0.0632
+439	pred.bt.1	inventions, scientific discoveries	0.0632
+439	pred.bt.10	inventions, scientific discoveries	0.0632
+439	pred.bt.2	inventions, scientific discoveries	0.0632
+439	pred.bt.3	inventions, scientific discoveries	0.0632
+439	pred.bt.4	inventions, scientific discoveries	0.0632
+439	pred.bt.5	inventions, scientific discoveries	0.0632
+439	pred.bt.6	inventions, scientific discoveries	0.0632
+439	pred.bt.7	inventions, scientific discoveries	0.0632
+439	pred.bt.8	inventions, scientific discoveries	0.0632
+439	pred.bt.9	inventions, scientific discoveries	0.0632
+440	-1	child labor	0.3615
+441	-1	lyme disease	0.5683
+441	pred.bt.1	lyme disease lyme disease tick borne diseases neurodegenerative disorders lyme disease	0.659
+441	pred.bt.10	lyme disease lyme disease tick borne diseases neurodegenerative disorders lyme disease	0.659
+441	pred.bt.2	lyme disease lyme disease tick borne diseases neurodegenerative disorders lyme disease	0.659
+441	pred.bt.3	lyme disease lyme disease tick borne diseases neurodegenerative disorders lyme disease	0.659
+441	pred.bt.4	lyme disease lyme disease tick borne diseases neurodegenerative disorders lyme disease	0.659
+441	pred.bt.5	lyme disease lyme disease tick borne diseases neurodegenerative disorders lyme disease	0.659
+441	pred.bt.6	lyme disease lyme disease tick borne diseases neurodegenerative disorders lyme disease	0.659
+441	pred.bt.7	lyme disease lyme disease tick borne diseases neurodegenerative disorders lyme disease	0.659
+441	pred.bt.8	lyme disease lyme disease tick borne diseases neurodegenerative disorders lyme disease	0.659
+441	pred.bt.9	lyme disease lyme disease tick borne diseases neurodegenerative disorders lyme disease	0.659
+442	-1	heroic acts	0.0358
+442	pred.bt.1	heroism hero such	0.2437
+442	pred.bt.10	heroism hero such	0.2437
+442	pred.bt.2	heroism hero such	0.2437
+442	pred.bt.3	heroism hero such	0.2437
+442	pred.bt.4	heroism hero such	0.2437
+442	pred.bt.5	heroism hero such	0.2437
+442	pred.bt.6	heroism hero such	0.2437
+442	pred.bt.7	heroism hero such	0.2437
+442	pred.bt.8	heroism hero such	0.2437
+442	pred.bt.9	heroism hero such	0.2437
+443	-1	u.s., investment, africa	0.2297
+443	pred.bt.1	united states government investment africa	0.29
+443	pred.bt.10	united states government investment africa	0.29
+443	pred.bt.2	united states government investment africa	0.29
+443	pred.bt.3	united states government investment africa	0.29
+443	pred.bt.4	united states government investment africa	0.29
+443	pred.bt.5	united states government investment africa	0.29
+443	pred.bt.6	united states government investment africa	0.29
+443	pred.bt.7	united states government investment africa	0.29
+443	pred.bt.8	united states government investment africa	0.29
+443	pred.bt.9	united states government investment africa	0.29
+444	-1	supercritical fluids	0.5804
+444	pred.bt.1	supercritical fluids	0.5804
+444	pred.bt.10	supercritical fluids	0.5804
+444	pred.bt.2	supercritical fluids	0.5804
+444	pred.bt.3	supercritical fluids	0.5804
+444	pred.bt.4	supercritical fluids	0.5804
+444	pred.bt.5	supercritical fluids	0.5804
+444	pred.bt.6	supercritical fluids	0.5804
+444	pred.bt.7	supercritical fluids	0.5804
+444	pred.bt.8	supercritical fluids	0.5804
+444	pred.bt.9	supercritical fluids	0.5804
+445	-1	women clergy	0.3194
+445	pred.bt.1	women clergy priest pound church which confer clergi magazin synod	0.4629
+445	pred.bt.10	women clergy priest pound church which confer clergi magazin synod	0.4629
+445	pred.bt.2	women clergy priest pound church which confer clergi magazin synod	0.4629
+445	pred.bt.3	women clergy priest pound church which confer clergi magazin synod	0.4629
+445	pred.bt.4	women clergy priest pound church which confer clergi magazin synod	0.4629
+445	pred.bt.5	women clergy priest pound church which confer clergi magazin synod	0.4629
+445	pred.bt.6	women clergy priest pound church which confer clergi magazin synod	0.4629
+445	pred.bt.7	women clergy priest pound church which confer clergi magazin synod	0.4629
+445	pred.bt.8	women clergy priest pound church which confer clergi magazin synod	0.4629
+445	pred.bt.9	women clergy priest pound church which confer clergi magazin synod	0.4629
+446	-1	tourists, violence	0.3033
+446	pred.bt.1	tourists violence public new violenc st belgian tourist al wing said	0.3351
+446	pred.bt.10	tourists violence public new violenc st belgian tourist al wing said	0.3351
+446	pred.bt.2	tourists violence public new violenc st belgian tourist al wing said	0.3351
+446	pred.bt.3	tourists violence public new violenc st belgian tourist al wing said	0.3351
+446	pred.bt.4	tourists violence public new violenc st belgian tourist al wing said	0.3351
+446	pred.bt.5	tourists violence public new violenc st belgian tourist al wing said	0.3351
+446	pred.bt.6	tourists violence public new violenc st belgian tourist al wing said	0.3351
+446	pred.bt.7	tourists violence public new violenc st belgian tourist al wing said	0.3351
+446	pred.bt.8	tourists violence public new violenc st belgian tourist al wing said	0.3351
+446	pred.bt.9	tourists violence public new violenc st belgian tourist al wing said	0.3351
+447	-1	stirling engine	0.1618
+447	pred.bt.1	stirling engine hi solar commiss group util	0.255
+447	pred.bt.10	stirling engine hi solar commiss group util	0.255
+447	pred.bt.2	stirling engine hi solar commiss group util	0.255
+447	pred.bt.3	stirling engine hi solar commiss group util	0.255
+447	pred.bt.4	stirling engine hi solar commiss group util	0.255
+447	pred.bt.5	stirling engine hi solar commiss group util	0.255
+447	pred.bt.6	stirling engine hi solar commiss group util	0.255
+447	pred.bt.7	stirling engine hi solar commiss group util	0.255
+447	pred.bt.8	stirling engine hi solar commiss group util	0.255
+447	pred.bt.9	stirling engine hi solar commiss group util	0.255
+448	-1	ship losses	0.0825
+448	pred.bt.1	ship losses vessel result	0.1029
+448	pred.bt.10	ship losses vessel result	0.1029
+448	pred.bt.2	ship losses vessel result	0.1029
+448	pred.bt.3	ship losses vessel result	0.1029
+448	pred.bt.4	ship losses vessel result	0.1029
+448	pred.bt.5	ship losses vessel result	0.1029
+448	pred.bt.6	ship losses vessel result	0.1029
+448	pred.bt.7	ship losses vessel result	0.1029
+448	pred.bt.8	ship losses vessel result	0.1029
+448	pred.bt.9	ship losses vessel result	0.1029
+449	-1	antibiotics ineffectiveness	0.1815
+449	pred.bt.1	antibiotics	0.2355
+449	pred.bt.10	antibiotics	0.2355
+449	pred.bt.2	antibiotics	0.2355
+449	pred.bt.3	antibiotics	0.2355
+449	pred.bt.4	antibiotics	0.2355
+449	pred.bt.5	antibiotics	0.2355
+449	pred.bt.6	antibiotics	0.2355
+449	pred.bt.7	antibiotics	0.2355
+449	pred.bt.8	antibiotics	0.2355
+449	pred.bt.9	antibiotics	0.2355
+450	-1	king hussein, peace	0.303
+450	pred.bt.1	king hussein peace hussein ha jerusalem peac agreement isra jordan	0.3412
+450	pred.bt.10	king hussein peace hussein ha jerusalem peac agreement isra jordan	0.3412
+450	pred.bt.2	king hussein peace hussein ha jerusalem peac agreement isra jordan	0.3412
+450	pred.bt.3	king hussein peace hussein ha jerusalem peac agreement isra jordan	0.3412
+450	pred.bt.4	king hussein peace hussein ha jerusalem peac agreement isra jordan	0.3412
+450	pred.bt.5	king hussein peace hussein ha jerusalem peac agreement isra jordan	0.3412
+450	pred.bt.6	king hussein peace hussein ha jerusalem peac agreement isra jordan	0.3412
+450	pred.bt.7	king hussein peace hussein ha jerusalem peac agreement isra jordan	0.3412
+450	pred.bt.8	king hussein peace hussein ha jerusalem peac agreement isra jordan	0.3412
+450	pred.bt.9	king hussein peace hussein ha jerusalem peac agreement isra jordan	0.3412
+601	-1	turkey iraq water	0.6209
+601	pred.bt.1	turkey iraq water bomb republic of turkey al iraq irak irrigate pee water system	0.8908
+601	pred.bt.10	turkey iraq water bomb republic of turkey al iraq irak irrigate pee water system	0.8908
+601	pred.bt.2	turkey iraq water bomb republic of turkey al iraq irak irrigate pee water system	0.8908
+601	pred.bt.3	turkey iraq water bomb republic of turkey al iraq irak irrigate pee water system	0.8908
+601	pred.bt.4	turkey iraq water bomb republic of turkey al iraq irak irrigate pee water system	0.8908
+601	pred.bt.5	turkey iraq water bomb republic of turkey al iraq irak irrigate pee water system	0.8908
+601	pred.bt.6	turkey iraq water bomb republic of turkey al iraq irak irrigate pee water system	0.8908
+601	pred.bt.7	turkey iraq water bomb republic of turkey al iraq irak irrigate pee water system	0.8908
+601	pred.bt.8	turkey iraq water bomb republic of turkey al iraq irak irrigate pee water system	0.8908
+601	pred.bt.9	turkey iraq water bomb republic of turkey al iraq irak irrigate pee water system	0.8908
+602	-1	czech, slovak sovereignty	0.3969
+602	pred.bt.1	czech slovak sovereignt	0.4412
+602	pred.bt.10	czech slovak sovereignt	0.4412
+602	pred.bt.2	czech slovak sovereignt	0.4412
+602	pred.bt.3	czech slovak sovereignt	0.4412
+602	pred.bt.4	czech slovak sovereignt	0.4412
+602	pred.bt.5	czech slovak sovereignt	0.4412
+602	pred.bt.6	czech slovak sovereignt	0.4412
+602	pred.bt.7	czech slovak sovereignt	0.4412
+602	pred.bt.8	czech slovak sovereignt	0.4412
+602	pred.bt.9	czech slovak sovereignt	0.4412
+603	-1	tobacco cigarette lawsuit	0.4847
+603	pred.bt.1	tobacco cigarette lawsuit baccy tobacco plant cigaret butt suit case causa	0.6351
+603	pred.bt.10	tobacco cigarette lawsuit baccy tobacco plant cigaret butt suit case causa	0.6351
+603	pred.bt.2	tobacco cigarette lawsuit baccy tobacco plant cigaret butt suit case causa	0.6351
+603	pred.bt.3	tobacco cigarette lawsuit baccy tobacco plant cigaret butt suit case causa	0.6351
+603	pred.bt.4	tobacco cigarette lawsuit baccy tobacco plant cigaret butt suit case causa	0.6351
+603	pred.bt.5	tobacco cigarette lawsuit baccy tobacco plant cigaret butt suit case causa	0.6351
+603	pred.bt.6	tobacco cigarette lawsuit baccy tobacco plant cigaret butt suit case causa	0.6351
+603	pred.bt.7	tobacco cigarette lawsuit baccy tobacco plant cigaret butt suit case causa	0.6351
+603	pred.bt.8	tobacco cigarette lawsuit baccy tobacco plant cigaret butt suit case causa	0.6351
+603	pred.bt.9	tobacco cigarette lawsuit baccy tobacco plant cigaret butt suit case causa	0.6351
+604	-1	lyme disease arthritis	0.9399
+604	pred.bt.1	lyme disease arthritis jamaica connecticut newcastle under lyme illness spondylarthritis	0.9418
+604	pred.bt.10	lyme disease arthritis jamaica connecticut newcastle under lyme illness spondylarthritis	0.9418
+604	pred.bt.2	lyme disease arthritis jamaica connecticut newcastle under lyme illness spondylarthritis	0.9418
+604	pred.bt.3	lyme disease arthritis jamaica connecticut newcastle under lyme illness spondylarthritis	0.9418
+604	pred.bt.4	lyme disease arthritis jamaica connecticut newcastle under lyme illness spondylarthritis	0.9418
+604	pred.bt.5	lyme disease arthritis jamaica connecticut newcastle under lyme illness spondylarthritis	0.9418
+604	pred.bt.6	lyme disease arthritis jamaica connecticut newcastle under lyme illness spondylarthritis	0.9418
+604	pred.bt.7	lyme disease arthritis jamaica connecticut newcastle under lyme illness spondylarthritis	0.9418
+604	pred.bt.8	lyme disease arthritis jamaica connecticut newcastle under lyme illness spondylarthritis	0.9418
+604	pred.bt.9	lyme disease arthritis jamaica connecticut newcastle under lyme illness spondylarthritis	0.9418
+605	-1	great britain health care	0.1966
+605	pred.bt.1	great britain health care	0.1966
+605	pred.bt.10	great britain health care	0.1966
+605	pred.bt.2	great britain health care	0.1966
+605	pred.bt.3	great britain health care	0.1966
+605	pred.bt.4	great britain health care	0.1966
+605	pred.bt.5	great britain health care	0.1966
+605	pred.bt.6	great britain health care	0.1966
+605	pred.bt.7	great britain health care	0.1966
+605	pred.bt.8	great britain health care	0.1966
+605	pred.bt.9	great britain health care	0.1966
+606	-1	leg traps ban	0.653
+607	-1	human genetic code	0.4954
+607	pred.bt.1	human genetic code gene genet dna would apo map	0.78
+607	pred.bt.10	human genetic code gene genet dna would apo map	0.78
+607	pred.bt.2	human genetic code gene genet dna would apo map	0.78
+607	pred.bt.3	human genetic code gene genet dna would apo map	0.78
+607	pred.bt.4	human genetic code gene genet dna would apo map	0.78
+607	pred.bt.5	human genetic code gene genet dna would apo map	0.78
+607	pred.bt.6	human genetic code gene genet dna would apo map	0.78
+607	pred.bt.7	human genetic code gene genet dna would apo map	0.78
+607	pred.bt.8	human genetic code gene genet dna would apo map	0.78
+607	pred.bt.9	human genetic code gene genet dna would apo map	0.78
+608	-1	taxing social security	0.227
+608	pred.bt.1	taxing social security	0.227
+608	pred.bt.10	taxing social security	0.227
+608	pred.bt.2	taxing social security	0.227
+608	pred.bt.3	taxing social security	0.227
+608	pred.bt.4	taxing social security	0.227
+608	pred.bt.5	taxing social security	0.227
+608	pred.bt.6	taxing social security	0.227
+608	pred.bt.7	taxing social security	0.227
+608	pred.bt.8	taxing social security	0.227
+608	pred.bt.9	taxing social security	0.227
+609	-1	per capita alcohol consumption	0.5551
+609	pred.bt.1	per capita alcohol consumption wine diet product coffe increas beer grain	0.6395
+609	pred.bt.10	per capita alcohol consumption wine diet product coffe increas beer grain	0.6395
+609	pred.bt.2	per capita alcohol consumption wine diet product coffe increas beer grain	0.6395
+609	pred.bt.3	per capita alcohol consumption wine diet product coffe increas beer grain	0.6395
+609	pred.bt.4	per capita alcohol consumption wine diet product coffe increas beer grain	0.6395
+609	pred.bt.5	per capita alcohol consumption wine diet product coffe increas beer grain	0.6395
+609	pred.bt.6	per capita alcohol consumption wine diet product coffe increas beer grain	0.6395
+609	pred.bt.7	per capita alcohol consumption wine diet product coffe increas beer grain	0.6395
+609	pred.bt.8	per capita alcohol consumption wine diet product coffe increas beer grain	0.6395
+609	pred.bt.9	per capita alcohol consumption wine diet product coffe increas beer grain	0.6395
+610	-1	minimum wage adverse impact	0.1659
+610	pred.bt.1	minimum wage advers impact	0.1902
+610	pred.bt.10	minimum wage advers impact	0.1902
+610	pred.bt.2	minimum wage advers impact	0.1902
+610	pred.bt.3	minimum wage advers impact	0.1902
+610	pred.bt.4	minimum wage advers impact	0.1902
+610	pred.bt.5	minimum wage advers impact	0.1902
+610	pred.bt.6	minimum wage advers impact	0.1902
+610	pred.bt.7	minimum wage advers impact	0.1902
+610	pred.bt.8	minimum wage advers impact	0.1902
+610	pred.bt.9	minimum wage advers impact	0.1902
+611	-1	kurds germany violence	0.348
+611	pred.bt.1	kurds germany violence kurdish sunnis german berlin violent bloodshed	0.5216
+611	pred.bt.10	kurds germany violence kurdish sunnis german berlin violent bloodshed	0.5216
+611	pred.bt.2	kurds germany violence kurdish sunnis german berlin violent bloodshed	0.5216
+611	pred.bt.3	kurds germany violence kurdish sunnis german berlin violent bloodshed	0.5216
+611	pred.bt.4	kurds germany violence kurdish sunnis german berlin violent bloodshed	0.5216
+611	pred.bt.5	kurds germany violence kurdish sunnis german berlin violent bloodshed	0.5216
+611	pred.bt.6	kurds germany violence kurdish sunnis german berlin violent bloodshed	0.5216
+611	pred.bt.7	kurds germany violence kurdish sunnis german berlin violent bloodshed	0.5216
+611	pred.bt.8	kurds germany violence kurdish sunnis german berlin violent bloodshed	0.5216
+611	pred.bt.9	kurds germany violence kurdish sunnis german berlin violent bloodshed	0.5216
+612	-1	tibet protesters	0.4725
+612	pred.bt.1	tibet protesters percent u hi dollar tibetan from artist polic	0.678
+612	pred.bt.10	tibet protesters percent u hi dollar tibetan from artist polic	0.678
+612	pred.bt.2	tibet protesters percent u hi dollar tibetan from artist polic	0.678
+612	pred.bt.3	tibet protesters percent u hi dollar tibetan from artist polic	0.678
+612	pred.bt.4	tibet protesters percent u hi dollar tibetan from artist polic	0.678
+612	pred.bt.5	tibet protesters percent u hi dollar tibetan from artist polic	0.678
+612	pred.bt.6	tibet protesters percent u hi dollar tibetan from artist polic	0.678
+612	pred.bt.7	tibet protesters percent u hi dollar tibetan from artist polic	0.678
+612	pred.bt.8	tibet protesters percent u hi dollar tibetan from artist polic	0.678
+612	pred.bt.9	tibet protesters percent u hi dollar tibetan from artist polic	0.678
+613	-1	berlin wall disposal	0.3724
+613	pred.bt.1	along berlin wall rang clang	0.4368
+613	pred.bt.10	along berlin wall rang clang	0.4368
+613	pred.bt.2	along berlin wall rang clang	0.4368
+613	pred.bt.3	along berlin wall rang clang	0.4368
+613	pred.bt.4	along berlin wall rang clang	0.4368
+613	pred.bt.5	along berlin wall rang clang	0.4368
+613	pred.bt.6	along berlin wall rang clang	0.4368
+613	pred.bt.7	along berlin wall rang clang	0.4368
+613	pred.bt.8	along berlin wall rang clang	0.4368
+613	pred.bt.9	along berlin wall rang clang	0.4368
+614	-1	flavr savr tomato	0.3143
+614	pred.bt.1	flavr savr tomato	0.3143
+614	pred.bt.10	flavr savr tomato	0.3143
+614	pred.bt.2	flavr savr tomato	0.3143
+614	pred.bt.3	flavr savr tomato	0.3143
+614	pred.bt.4	flavr savr tomato	0.3143
+614	pred.bt.5	flavr savr tomato	0.3143
+614	pred.bt.6	flavr savr tomato	0.3143
+614	pred.bt.7	flavr savr tomato	0.3143
+614	pred.bt.8	flavr savr tomato	0.3143
+614	pred.bt.9	flavr savr tomato	0.3143
+615	-1	timber exports asia	0.2518
+615	pred.bt.1	timber exports asia logging lumber imports asian europe	0.5676
+615	pred.bt.10	timber exports asia logging lumber imports asian europe	0.5676
+615	pred.bt.2	timber exports asia logging lumber imports asian europe	0.5676
+615	pred.bt.3	timber exports asia logging lumber imports asian europe	0.5676
+615	pred.bt.4	timber exports asia logging lumber imports asian europe	0.5676
+615	pred.bt.5	timber exports asia logging lumber imports asian europe	0.5676
+615	pred.bt.6	timber exports asia logging lumber imports asian europe	0.5676
+615	pred.bt.7	timber exports asia logging lumber imports asian europe	0.5676
+615	pred.bt.8	timber exports asia logging lumber imports asian europe	0.5676
+615	pred.bt.9	timber exports asia logging lumber imports asian europe	0.5676
+616	-1	volkswagen mexico	0.8196
+616	pred.bt.1	volkswagen mexico	0.8196
+616	pred.bt.10	volkswagen mexico	0.8196
+616	pred.bt.2	volkswagen mexico	0.8196
+616	pred.bt.3	volkswagen mexico	0.8196
+616	pred.bt.4	volkswagen mexico	0.8196
+616	pred.bt.5	volkswagen mexico	0.8196
+616	pred.bt.6	volkswagen mexico	0.8196
+616	pred.bt.7	volkswagen mexico	0.8196
+616	pred.bt.8	volkswagen mexico	0.8196
+616	pred.bt.9	volkswagen mexico	0.8196
+617	-1	russia cuba economy	0.3386
+617	pred.bt.1	soviet union cuba economy	0.545
+617	pred.bt.10	soviet union cuba economy	0.545
+617	pred.bt.2	soviet union cuba economy	0.545
+617	pred.bt.3	soviet union cuba economy	0.545
+617	pred.bt.4	soviet union cuba economy	0.545
+617	pred.bt.5	soviet union cuba economy	0.545
+617	pred.bt.6	soviet union cuba economy	0.545
+617	pred.bt.7	soviet union cuba economy	0.545
+617	pred.bt.8	soviet union cuba economy	0.545
+617	pred.bt.9	soviet union cuba economy	0.545
+618	-1	ayatollah khomeini death	0.2551
+618	pred.bt.1	ayatollah khomeini death marja khomeni khamenei khomenei dying	0.5373
+618	pred.bt.10	ayatollah khomeini death marja khomeni khamenei khomenei dying	0.5373
+618	pred.bt.2	ayatollah khomeini death marja khomeni khamenei khomenei dying	0.5373
+618	pred.bt.3	ayatollah khomeini death marja khomeni khamenei khomenei dying	0.5373
+618	pred.bt.4	ayatollah khomeini death marja khomeni khamenei khomenei dying	0.5373
+618	pred.bt.5	ayatollah khomeini death marja khomeni khamenei khomenei dying	0.5373
+618	pred.bt.6	ayatollah khomeini death marja khomeni khamenei khomenei dying	0.5373
+618	pred.bt.7	ayatollah khomeini death marja khomeni khamenei khomenei dying	0.5373
+618	pred.bt.8	ayatollah khomeini death marja khomeni khamenei khomenei dying	0.5373
+618	pred.bt.9	ayatollah khomeini death marja khomeni khamenei khomenei dying	0.5373
+619	-1	winnie mandela scandal	0.8293
+620	-1	france nuclear testing	0.1688
+620	pred.bt.1	france nuclear testing country paris biology	0.2315
+620	pred.bt.10	france nuclear testing country paris biology	0.2315
+620	pred.bt.2	france nuclear testing country paris biology	0.2315
+620	pred.bt.3	france nuclear testing country paris biology	0.2315
+620	pred.bt.4	france nuclear testing country paris biology	0.2315
+620	pred.bt.5	france nuclear testing country paris biology	0.2315
+620	pred.bt.6	france nuclear testing country paris biology	0.2315
+620	pred.bt.7	france nuclear testing country paris biology	0.2315
+620	pred.bt.8	france nuclear testing country paris biology	0.2315
+620	pred.bt.9	france nuclear testing country paris biology	0.2315
+621	-1	women ordained church of england	0.7184
+621	pred.bt.1	women ordained church england ordination church of england	0.7876
+621	pred.bt.10	women ordained church england ordination church of england	0.7876
+621	pred.bt.2	women ordained church england ordination church of england	0.7876
+621	pred.bt.3	women ordained church england ordination church of england	0.7876
+621	pred.bt.4	women ordained church england ordination church of england	0.7876
+621	pred.bt.5	women ordained church england ordination church of england	0.7876
+621	pred.bt.6	women ordained church england ordination church of england	0.7876
+621	pred.bt.7	women ordained church england ordination church of england	0.7876
+621	pred.bt.8	women ordained church england ordination church of england	0.7876
+621	pred.bt.9	women ordained church england ordination church of england	0.7876
+622	-1	price fixing	0.2017
+622	pred.bt.1	price fixing	0.2017
+622	pred.bt.10	price fixing	0.2017
+622	pred.bt.2	price fixing	0.2017
+622	pred.bt.3	price fixing	0.2017
+622	pred.bt.4	price fixing	0.2017
+622	pred.bt.5	price fixing	0.2017
+622	pred.bt.6	price fixing	0.2017
+622	pred.bt.7	price fixing	0.2017
+622	pred.bt.8	price fixing	0.2017
+622	pred.bt.9	price fixing	0.2017
+623	-1	toxic chemical weapon	0.3958
+623	pred.bt.1	lethal dose precursor chemistry intraperitoneal injection toxicity male mediated teratogens sarin chemical weapons convention chemical weapon	0.5023
+623	pred.bt.10	lethal dose precursor chemistry intraperitoneal injection toxicity male mediated teratogens sarin chemical weapons convention chemical weapon	0.5023
+623	pred.bt.2	lethal dose precursor chemistry intraperitoneal injection toxicity male mediated teratogens sarin chemical weapons convention chemical weapon	0.5023
+623	pred.bt.3	lethal dose precursor chemistry intraperitoneal injection toxicity male mediated teratogens sarin chemical weapons convention chemical weapon	0.5023
+623	pred.bt.4	lethal dose precursor chemistry intraperitoneal injection toxicity male mediated teratogens sarin chemical weapons convention chemical weapon	0.5023
+623	pred.bt.5	lethal dose precursor chemistry intraperitoneal injection toxicity male mediated teratogens sarin chemical weapons convention chemical weapon	0.5023
+623	pred.bt.6	lethal dose precursor chemistry intraperitoneal injection toxicity male mediated teratogens sarin chemical weapons convention chemical weapon	0.5023
+623	pred.bt.7	lethal dose precursor chemistry intraperitoneal injection toxicity male mediated teratogens sarin chemical weapons convention chemical weapon	0.5023
+623	pred.bt.8	lethal dose precursor chemistry intraperitoneal injection toxicity male mediated teratogens sarin chemical weapons convention chemical weapon	0.5023
+623	pred.bt.9	lethal dose precursor chemistry intraperitoneal injection toxicity male mediated teratogens sarin chemical weapons convention chemical weapon	0.5023
+624	-1	sdi star wars	0.4203
+624	pred.bt.1	strategic defense initiative star wars	0.6095
+624	pred.bt.10	strategic defense initiative star wars	0.6095
+624	pred.bt.2	strategic defense initiative star wars	0.6095
+624	pred.bt.3	strategic defense initiative star wars	0.6095
+624	pred.bt.4	strategic defense initiative star wars	0.6095
+624	pred.bt.5	strategic defense initiative star wars	0.6095
+624	pred.bt.6	strategic defense initiative star wars	0.6095
+624	pred.bt.7	strategic defense initiative star wars	0.6095
+624	pred.bt.8	strategic defense initiative star wars	0.6095
+624	pred.bt.9	strategic defense initiative star wars	0.6095
+625	-1	arrests bombing wtc	0.1774
+625	pred.bt.1	arrest bomb world trade center	0.4381
+625	pred.bt.10	arrest bomb world trade center	0.4381
+625	pred.bt.2	arrest bomb world trade center	0.4381
+625	pred.bt.3	arrest bomb world trade center	0.4381
+625	pred.bt.4	arrest bomb world trade center	0.4381
+625	pred.bt.5	arrest bomb world trade center	0.4381
+625	pred.bt.6	arrest bomb world trade center	0.4381
+625	pred.bt.7	arrest bomb world trade center	0.4381
+625	pred.bt.8	arrest bomb world trade center	0.4381
+625	pred.bt.9	arrest bomb world trade center	0.4381
+626	-1	human stampede	0.5022
+626	pred.bt.1	stampede	0.6674
+626	pred.bt.10	stampede	0.6674
+626	pred.bt.2	stampede	0.6674
+626	pred.bt.3	stampede	0.6674
+626	pred.bt.4	stampede	0.6674
+626	pred.bt.5	stampede	0.6674
+626	pred.bt.6	stampede	0.6674
+626	pred.bt.7	stampede	0.6674
+626	pred.bt.8	stampede	0.6674
+626	pred.bt.9	stampede	0.6674
+627	-1	russian food crisis	0.0627
+627	pred.bt.1	russian food crisis food security russian cuisine	0.1224
+627	pred.bt.10	russian food crisis food security russian cuisine	0.1224
+627	pred.bt.2	russian food crisis food security russian cuisine	0.1224
+627	pred.bt.3	russian food crisis food security russian cuisine	0.1224
+627	pred.bt.4	russian food crisis food security russian cuisine	0.1224
+627	pred.bt.5	russian food crisis food security russian cuisine	0.1224
+627	pred.bt.6	russian food crisis food security russian cuisine	0.1224
+627	pred.bt.7	russian food crisis food security russian cuisine	0.1224
+627	pred.bt.8	russian food crisis food security russian cuisine	0.1224
+627	pred.bt.9	russian food crisis food security russian cuisine	0.1224
+628	-1	u.s. invasion of panama	0.4123
+628	pred.bt.1	u s invasion of panama u noriega said have forc american	0.5629
+628	pred.bt.10	u s invasion of panama u noriega said have forc american	0.5629
+628	pred.bt.2	u s invasion of panama u noriega said have forc american	0.5629
+628	pred.bt.3	u s invasion of panama u noriega said have forc american	0.5629
+628	pred.bt.4	u s invasion of panama u noriega said have forc american	0.5629
+628	pred.bt.5	u s invasion of panama u noriega said have forc american	0.5629
+628	pred.bt.6	u s invasion of panama u noriega said have forc american	0.5629
+628	pred.bt.7	u s invasion of panama u noriega said have forc american	0.5629
+628	pred.bt.8	u s invasion of panama u noriega said have forc american	0.5629
+628	pred.bt.9	u s invasion of panama u noriega said have forc american	0.5629
+629	-1	abortion clinic attack	0.4979
+630	-1	gulf war syndrome	0.9232
+630	pred.bt.1	gulf war syndrome gulf war syndrome borden institute united states army medical research institutof chemical defense gulf war syndrome	0.9313
+630	pred.bt.10	gulf war syndrome gulf war syndrome borden institute united states army medical research institutof chemical defense gulf war syndrome	0.9313
+630	pred.bt.2	gulf war syndrome gulf war syndrome borden institute united states army medical research institutof chemical defense gulf war syndrome	0.9313
+630	pred.bt.3	gulf war syndrome gulf war syndrome borden institute united states army medical research institutof chemical defense gulf war syndrome	0.9313
+630	pred.bt.4	gulf war syndrome gulf war syndrome borden institute united states army medical research institutof chemical defense gulf war syndrome	0.9313
+630	pred.bt.5	gulf war syndrome gulf war syndrome borden institute united states army medical research institutof chemical defense gulf war syndrome	0.9313
+630	pred.bt.6	gulf war syndrome gulf war syndrome borden institute united states army medical research institutof chemical defense gulf war syndrome	0.9313
+630	pred.bt.7	gulf war syndrome gulf war syndrome borden institute united states army medical research institutof chemical defense gulf war syndrome	0.9313
+630	pred.bt.8	gulf war syndrome gulf war syndrome borden institute united states army medical research institutof chemical defense gulf war syndrome	0.9313
+630	pred.bt.9	gulf war syndrome gulf war syndrome borden institute united states army medical research institutof chemical defense gulf war syndrome	0.9313
+631	-1	mandela south africa president	0.2383
+631	pred.bt.1	mandela south africa president nelson mandela union south africa president mexico	0.2512
+631	pred.bt.10	mandela south africa president nelson mandela union south africa president mexico	0.2512
+631	pred.bt.2	mandela south africa president nelson mandela union south africa president mexico	0.2512
+631	pred.bt.3	mandela south africa president nelson mandela union south africa president mexico	0.2512
+631	pred.bt.4	mandela south africa president nelson mandela union south africa president mexico	0.2512
+631	pred.bt.5	mandela south africa president nelson mandela union south africa president mexico	0.2512
+631	pred.bt.6	mandela south africa president nelson mandela union south africa president mexico	0.2512
+631	pred.bt.7	mandela south africa president nelson mandela union south africa president mexico	0.2512
+631	pred.bt.8	mandela south africa president nelson mandela union south africa president mexico	0.2512
+631	pred.bt.9	mandela south africa president nelson mandela union south africa president mexico	0.2512
+632	-1	southeast asia tin mining	0.3905
+632	pred.bt.1	southeast asia tin tin mining	0.5032
+632	pred.bt.10	southeast asia tin tin mining	0.5032
+632	pred.bt.2	southeast asia tin tin mining	0.5032
+632	pred.bt.3	southeast asia tin tin mining	0.5032
+632	pred.bt.4	southeast asia tin tin mining	0.5032
+632	pred.bt.5	southeast asia tin tin mining	0.5032
+632	pred.bt.6	southeast asia tin tin mining	0.5032
+632	pred.bt.7	southeast asia tin tin mining	0.5032
+632	pred.bt.8	southeast asia tin tin mining	0.5032
+632	pred.bt.9	southeast asia tin tin mining	0.5032
+633	-1	welsh devolution	0.544
+633	pred.bt.1	welsh devolution wale ireland mr parti he cent would labour major	0.7098
+633	pred.bt.10	welsh devolution wale ireland mr parti he cent would labour major	0.7098
+633	pred.bt.2	welsh devolution wale ireland mr parti he cent would labour major	0.7098
+633	pred.bt.3	welsh devolution wale ireland mr parti he cent would labour major	0.7098
+633	pred.bt.4	welsh devolution wale ireland mr parti he cent would labour major	0.7098
+633	pred.bt.5	welsh devolution wale ireland mr parti he cent would labour major	0.7098
+633	pred.bt.6	welsh devolution wale ireland mr parti he cent would labour major	0.7098
+633	pred.bt.7	welsh devolution wale ireland mr parti he cent would labour major	0.7098
+633	pred.bt.8	welsh devolution wale ireland mr parti he cent would labour major	0.7098
+633	pred.bt.9	welsh devolution wale ireland mr parti he cent would labour major	0.7098
+634	-1	l-tryptophan deaths	0.8506
+634	pred.bt.1	l tryptophan deaths tyrosine methionine acidiamino acids tryptophan lifexpectancy disease herd immunity mortality rate	0.9236
+634	pred.bt.10	l tryptophan deaths tyrosine methionine acidiamino acids tryptophan lifexpectancy disease herd immunity mortality rate	0.9236
+634	pred.bt.2	l tryptophan deaths tyrosine methionine acidiamino acids tryptophan lifexpectancy disease herd immunity mortality rate	0.9236
+634	pred.bt.3	l tryptophan deaths tyrosine methionine acidiamino acids tryptophan lifexpectancy disease herd immunity mortality rate	0.9236
+634	pred.bt.4	l tryptophan deaths tyrosine methionine acidiamino acids tryptophan lifexpectancy disease herd immunity mortality rate	0.9236
+634	pred.bt.5	l tryptophan deaths tyrosine methionine acidiamino acids tryptophan lifexpectancy disease herd immunity mortality rate	0.9236
+634	pred.bt.6	l tryptophan deaths tyrosine methionine acidiamino acids tryptophan lifexpectancy disease herd immunity mortality rate	0.9236
+634	pred.bt.7	l tryptophan deaths tyrosine methionine acidiamino acids tryptophan lifexpectancy disease herd immunity mortality rate	0.9236
+634	pred.bt.8	l tryptophan deaths tyrosine methionine acidiamino acids tryptophan lifexpectancy disease herd immunity mortality rate	0.9236
+634	pred.bt.9	l tryptophan deaths tyrosine methionine acidiamino acids tryptophan lifexpectancy disease herd immunity mortality rate	0.9236
+635	-1	doctor assisted suicides	0.7932
+635	pred.bt.1	doctor assisted suicides said he suicid she kevorkian assist adkin	0.8885
+635	pred.bt.10	doctor assisted suicides said he suicid she kevorkian assist adkin	0.8885
+635	pred.bt.2	doctor assisted suicides said he suicid she kevorkian assist adkin	0.8885
+635	pred.bt.3	doctor assisted suicides said he suicid she kevorkian assist adkin	0.8885
+635	pred.bt.4	doctor assisted suicides said he suicid she kevorkian assist adkin	0.8885
+635	pred.bt.5	doctor assisted suicides said he suicid she kevorkian assist adkin	0.8885
+635	pred.bt.6	doctor assisted suicides said he suicid she kevorkian assist adkin	0.8885
+635	pred.bt.7	doctor assisted suicides said he suicid she kevorkian assist adkin	0.8885
+635	pred.bt.8	doctor assisted suicides said he suicid she kevorkian assist adkin	0.8885
+635	pred.bt.9	doctor assisted suicides said he suicid she kevorkian assist adkin	0.8885
+636	-1	jury duty exemptions	0.2679
+636	pred.bt.1	jury duty exemptions jurors obligation	0.4686
+636	pred.bt.10	jury duty exemptions jurors obligation	0.4686
+636	pred.bt.2	jury duty exemptions jurors obligation	0.4686
+636	pred.bt.3	jury duty exemptions jurors obligation	0.4686
+636	pred.bt.4	jury duty exemptions jurors obligation	0.4686
+636	pred.bt.5	jury duty exemptions jurors obligation	0.4686
+636	pred.bt.6	jury duty exemptions jurors obligation	0.4686
+636	pred.bt.7	jury duty exemptions jurors obligation	0.4686
+636	pred.bt.8	jury duty exemptions jurors obligation	0.4686
+636	pred.bt.9	jury duty exemptions jurors obligation	0.4686
+637	-1	human growth hormone (hgh)	0.6219
+637	pred.bt.1	human growth hormone (hgh)	0.6219
+637	pred.bt.10	human growth hormone (hgh)	0.6219
+637	pred.bt.2	human growth hormone (hgh)	0.6219
+637	pred.bt.3	human growth hormone (hgh)	0.6219
+637	pred.bt.4	human growth hormone (hgh)	0.6219
+637	pred.bt.5	human growth hormone (hgh)	0.6219
+637	pred.bt.6	human growth hormone (hgh)	0.6219
+637	pred.bt.7	human growth hormone (hgh)	0.6219
+637	pred.bt.8	human growth hormone (hgh)	0.6219
+637	pred.bt.9	human growth hormone (hgh)	0.6219
+638	-1	wrongful convictions	0.0936
+638	pred.bt.1	wrongful convictions conviction	0.1203
+638	pred.bt.10	wrongful convictions conviction	0.1203
+638	pred.bt.2	wrongful convictions conviction	0.1203
+638	pred.bt.3	wrongful convictions conviction	0.1203
+638	pred.bt.4	wrongful convictions conviction	0.1203
+638	pred.bt.5	wrongful convictions conviction	0.1203
+638	pred.bt.6	wrongful convictions conviction	0.1203
+638	pred.bt.7	wrongful convictions conviction	0.1203
+638	pred.bt.8	wrongful convictions conviction	0.1203
+638	pred.bt.9	wrongful convictions conviction	0.1203
+639	-1	consumer on-line shopping	0.3113
+639	pred.bt.1	consumer on line shopping consumer online shopping	0.4278
+639	pred.bt.10	consumer on line shopping consumer online shopping	0.4278
+639	pred.bt.2	consumer on line shopping consumer online shopping	0.4278
+639	pred.bt.3	consumer on line shopping consumer online shopping	0.4278
+639	pred.bt.4	consumer on line shopping consumer online shopping	0.4278
+639	pred.bt.5	consumer on line shopping consumer online shopping	0.4278
+639	pred.bt.6	consumer on line shopping consumer online shopping	0.4278
+639	pred.bt.7	consumer on line shopping consumer online shopping	0.4278
+639	pred.bt.8	consumer on line shopping consumer online shopping	0.4278
+639	pred.bt.9	consumer on line shopping consumer online shopping	0.4278
+640	-1	maternity leave policies	0.4766
+640	pred.bt.1	maternity leave policies nurs matern week pai her benefit	0.6165
+640	pred.bt.10	maternity leave policies nurs matern week pai her benefit	0.6165
+640	pred.bt.2	maternity leave policies nurs matern week pai her benefit	0.6165
+640	pred.bt.3	maternity leave policies nurs matern week pai her benefit	0.6165
+640	pred.bt.4	maternity leave policies nurs matern week pai her benefit	0.6165
+640	pred.bt.5	maternity leave policies nurs matern week pai her benefit	0.6165
+640	pred.bt.6	maternity leave policies nurs matern week pai her benefit	0.6165
+640	pred.bt.7	maternity leave policies nurs matern week pai her benefit	0.6165
+640	pred.bt.8	maternity leave policies nurs matern week pai her benefit	0.6165
+640	pred.bt.9	maternity leave policies nurs matern week pai her benefit	0.6165
+641	-1	valdez wildlife marine life	0.4989
+641	pred.bt.1	valdez wildlife marine life said exxon otter oil	0.795
+641	pred.bt.10	valdez wildlife marine life said exxon otter oil	0.795
+641	pred.bt.2	valdez wildlife marine life said exxon otter oil	0.795
+641	pred.bt.3	valdez wildlife marine life said exxon otter oil	0.795
+641	pred.bt.4	valdez wildlife marine life said exxon otter oil	0.795
+641	pred.bt.5	valdez wildlife marine life said exxon otter oil	0.795
+641	pred.bt.6	valdez wildlife marine life said exxon otter oil	0.795
+641	pred.bt.7	valdez wildlife marine life said exxon otter oil	0.795
+641	pred.bt.8	valdez wildlife marine life said exxon otter oil	0.795
+641	pred.bt.9	valdez wildlife marine life said exxon otter oil	0.795
+642	-1	tiananmen square protesters	0.3147
+642	pred.bt.1	tiananmen foursquare lame demonstrator dissident objector	0.4785
+642	pred.bt.10	tiananmen foursquare lame demonstrator dissident objector	0.4785
+642	pred.bt.2	tiananmen foursquare lame demonstrator dissident objector	0.4785
+642	pred.bt.3	tiananmen foursquare lame demonstrator dissident objector	0.4785
+642	pred.bt.4	tiananmen foursquare lame demonstrator dissident objector	0.4785
+642	pred.bt.5	tiananmen foursquare lame demonstrator dissident objector	0.4785
+642	pred.bt.6	tiananmen foursquare lame demonstrator dissident objector	0.4785
+642	pred.bt.7	tiananmen foursquare lame demonstrator dissident objector	0.4785
+642	pred.bt.8	tiananmen foursquare lame demonstrator dissident objector	0.4785
+642	pred.bt.9	tiananmen foursquare lame demonstrator dissident objector	0.4785
+643	-1	salmon dams pacific northwest	0.274
+643	pred.bt.1	salmon dams pacific northwest food fish control rivers ocean	0.3024
+643	pred.bt.10	salmon dams pacific northwest food fish control rivers ocean	0.3024
+643	pred.bt.2	salmon dams pacific northwest food fish control rivers ocean	0.3024
+643	pred.bt.3	salmon dams pacific northwest food fish control rivers ocean	0.3024
+643	pred.bt.4	salmon dams pacific northwest food fish control rivers ocean	0.3024
+643	pred.bt.5	salmon dams pacific northwest food fish control rivers ocean	0.3024
+643	pred.bt.6	salmon dams pacific northwest food fish control rivers ocean	0.3024
+643	pred.bt.7	salmon dams pacific northwest food fish control rivers ocean	0.3024
+643	pred.bt.8	salmon dams pacific northwest food fish control rivers ocean	0.3024
+643	pred.bt.9	salmon dams pacific northwest food fish control rivers ocean	0.3024
+644	-1	exotic animals import	0.1662
+645	-1	software piracy	0.8485
+645	pred.bt.1	software piracy softwar compani	0.8779
+645	pred.bt.10	software piracy softwar compani	0.8779
+645	pred.bt.2	software piracy softwar compani	0.8779
+645	pred.bt.3	software piracy softwar compani	0.8779
+645	pred.bt.4	software piracy softwar compani	0.8779
+645	pred.bt.5	software piracy softwar compani	0.8779
+645	pred.bt.6	software piracy softwar compani	0.8779
+645	pred.bt.7	software piracy softwar compani	0.8779
+645	pred.bt.8	software piracy softwar compani	0.8779
+645	pred.bt.9	software piracy softwar compani	0.8779
+646	-1	food stamps increase	0.4112
+646	pred.bt.1	food stamps increase solid food food for thought nutrient pigeonhole revenue stamp boss step up gain	0.536
+646	pred.bt.10	food stamps increase solid food food for thought nutrient pigeonhole revenue stamp boss step up gain	0.536
+646	pred.bt.2	food stamps increase solid food food for thought nutrient pigeonhole revenue stamp boss step up gain	0.536
+646	pred.bt.3	food stamps increase solid food food for thought nutrient pigeonhole revenue stamp boss step up gain	0.536
+646	pred.bt.4	food stamps increase solid food food for thought nutrient pigeonhole revenue stamp boss step up gain	0.536
+646	pred.bt.5	food stamps increase solid food food for thought nutrient pigeonhole revenue stamp boss step up gain	0.536
+646	pred.bt.6	food stamps increase solid food food for thought nutrient pigeonhole revenue stamp boss step up gain	0.536
+646	pred.bt.7	food stamps increase solid food food for thought nutrient pigeonhole revenue stamp boss step up gain	0.536
+646	pred.bt.8	food stamps increase solid food food for thought nutrient pigeonhole revenue stamp boss step up gain	0.536
+646	pred.bt.9	food stamps increase solid food food for thought nutrient pigeonhole revenue stamp boss step up gain	0.536
+647	-1	windmill electricity	0.4231
+647	pred.bt.1	windmill electricity wind generator aerogenerator electrical energy	0.7306
+647	pred.bt.10	windmill electricity wind generator aerogenerator electrical energy	0.7306
+647	pred.bt.2	windmill electricity wind generator aerogenerator electrical energy	0.7306
+647	pred.bt.3	windmill electricity wind generator aerogenerator electrical energy	0.7306
+647	pred.bt.4	windmill electricity wind generator aerogenerator electrical energy	0.7306
+647	pred.bt.5	windmill electricity wind generator aerogenerator electrical energy	0.7306
+647	pred.bt.6	windmill electricity wind generator aerogenerator electrical energy	0.7306
+647	pred.bt.7	windmill electricity wind generator aerogenerator electrical energy	0.7306
+647	pred.bt.8	windmill electricity wind generator aerogenerator electrical energy	0.7306
+647	pred.bt.9	windmill electricity wind generator aerogenerator electrical energy	0.7306
+648	-1	family leave law	0.3074
+648	pred.bt.1	family leave law law parental leave	0.3324
+648	pred.bt.10	family leave law law parental leave	0.3324
+648	pred.bt.2	family leave law law parental leave	0.3324
+648	pred.bt.3	family leave law law parental leave	0.3324
+648	pred.bt.4	family leave law law parental leave	0.3324
+648	pred.bt.5	family leave law law parental leave	0.3324
+648	pred.bt.6	family leave law law parental leave	0.3324
+648	pred.bt.7	family leave law law parental leave	0.3324
+648	pred.bt.8	family leave law law parental leave	0.3324
+648	pred.bt.9	family leave law law parental leave	0.3324
+649	-1	computer viruses	0.7526
+649	pred.bt.1	computer viruses comput viru softwar network	0.8537
+649	pred.bt.10	computer viruses comput viru softwar network	0.8537
+649	pred.bt.2	computer viruses comput viru softwar network	0.8537
+649	pred.bt.3	computer viruses comput viru softwar network	0.8537
+649	pred.bt.4	computer viruses comput viru softwar network	0.8537
+649	pred.bt.5	computer viruses comput viru softwar network	0.8537
+649	pred.bt.6	computer viruses comput viru softwar network	0.8537
+649	pred.bt.7	computer viruses comput viru softwar network	0.8537
+649	pred.bt.8	computer viruses comput viru softwar network	0.8537
+649	pred.bt.9	computer viruses comput viru softwar network	0.8537
+650	-1	tax evasion indicted	0.198
+650	pred.bt.1	tax evasion indicted hunter mr tripp feder yuan hoff milken i	0.4222
+650	pred.bt.10	tax evasion indicted hunter mr tripp feder yuan hoff milken i	0.4222
+650	pred.bt.2	tax evasion indicted hunter mr tripp feder yuan hoff milken i	0.4222
+650	pred.bt.3	tax evasion indicted hunter mr tripp feder yuan hoff milken i	0.4222
+650	pred.bt.4	tax evasion indicted hunter mr tripp feder yuan hoff milken i	0.4222
+650	pred.bt.5	tax evasion indicted hunter mr tripp feder yuan hoff milken i	0.4222
+650	pred.bt.6	tax evasion indicted hunter mr tripp feder yuan hoff milken i	0.4222
+650	pred.bt.7	tax evasion indicted hunter mr tripp feder yuan hoff milken i	0.4222
+650	pred.bt.8	tax evasion indicted hunter mr tripp feder yuan hoff milken i	0.4222
+650	pred.bt.9	tax evasion indicted hunter mr tripp feder yuan hoff milken i	0.4222
+651	-1	u.s. ethnic population	0.0971
+651	pred.bt.1	u s ethnic population asian albanian educ state citi peopl aidayev hispan	0.2801
+651	pred.bt.10	u s ethnic population asian albanian educ state citi peopl aidayev hispan	0.2801
+651	pred.bt.2	u s ethnic population asian albanian educ state citi peopl aidayev hispan	0.2801
+651	pred.bt.3	u s ethnic population asian albanian educ state citi peopl aidayev hispan	0.2801
+651	pred.bt.4	u s ethnic population asian albanian educ state citi peopl aidayev hispan	0.2801
+651	pred.bt.5	u s ethnic population asian albanian educ state citi peopl aidayev hispan	0.2801
+651	pred.bt.6	u s ethnic population asian albanian educ state citi peopl aidayev hispan	0.2801
+651	pred.bt.7	u s ethnic population asian albanian educ state citi peopl aidayev hispan	0.2801
+651	pred.bt.8	u s ethnic population asian albanian educ state citi peopl aidayev hispan	0.2801
+651	pred.bt.9	u s ethnic population asian albanian educ state citi peopl aidayev hispan	0.2801
+652	-1	oic balkans 1990s	0.5096
+653	-1	eta basque terrorism	0.724
+653	pred.bt.1	eta basqu terro	0.8053
+653	pred.bt.10	eta basqu terro	0.8053
+653	pred.bt.2	eta basqu terro	0.8053
+653	pred.bt.3	eta basqu terro	0.8053
+653	pred.bt.4	eta basqu terro	0.8053
+653	pred.bt.5	eta basqu terro	0.8053
+653	pred.bt.6	eta basqu terro	0.8053
+653	pred.bt.7	eta basqu terro	0.8053
+653	pred.bt.8	eta basqu terro	0.8053
+653	pred.bt.9	eta basqu terro	0.8053
+654	-1	same-sex schools	0.3568
+654	pred.bt.1	same sex schools school	0.4886
+654	pred.bt.10	same sex schools school	0.4886
+654	pred.bt.2	same sex schools school	0.4886
+654	pred.bt.3	same sex schools school	0.4886
+654	pred.bt.4	same sex schools school	0.4886
+654	pred.bt.5	same sex schools school	0.4886
+654	pred.bt.6	same sex schools school	0.4886
+654	pred.bt.7	same sex schools school	0.4886
+654	pred.bt.8	same sex schools school	0.4886
+654	pred.bt.9	same sex schools school	0.4886
+655	-1	add diagnosis treatment	0.0
+655	pred.bt.1	add attention deficit disorder diagnosis treatment	0.7071
+655	pred.bt.10	add attention deficit disorder diagnosis treatment	0.7071
+655	pred.bt.2	add attention deficit disorder diagnosis treatment	0.7071
+655	pred.bt.3	add attention deficit disorder diagnosis treatment	0.7071
+655	pred.bt.4	add attention deficit disorder diagnosis treatment	0.7071
+655	pred.bt.5	add attention deficit disorder diagnosis treatment	0.7071
+655	pred.bt.6	add attention deficit disorder diagnosis treatment	0.7071
+655	pred.bt.7	add attention deficit disorder diagnosis treatment	0.7071
+655	pred.bt.8	add attention deficit disorder diagnosis treatment	0.7071
+655	pred.bt.9	add attention deficit disorder diagnosis treatment	0.7071
+656	-1	lead poisoning children	0.1347
+656	pred.bt.1	lead poisoning children	0.1347
+656	pred.bt.10	lead poisoning children	0.1347
+656	pred.bt.2	lead poisoning children	0.1347
+656	pred.bt.3	lead poisoning children	0.1347
+656	pred.bt.4	lead poisoning children	0.1347
+656	pred.bt.5	lead poisoning children	0.1347
+656	pred.bt.6	lead poisoning children	0.1347
+656	pred.bt.7	lead poisoning children	0.1347
+656	pred.bt.8	lead poisoning children	0.1347
+656	pred.bt.9	lead poisoning children	0.1347
+657	-1	school prayer banned	0.706
+657	pred.bt.1	school prayer banned school prayer censorship	0.7452
+657	pred.bt.10	school prayer banned school prayer censorship	0.7452
+657	pred.bt.2	school prayer banned school prayer censorship	0.7452
+657	pred.bt.3	school prayer banned school prayer censorship	0.7452
+657	pred.bt.4	school prayer banned school prayer censorship	0.7452
+657	pred.bt.5	school prayer banned school prayer censorship	0.7452
+657	pred.bt.6	school prayer banned school prayer censorship	0.7452
+657	pred.bt.7	school prayer banned school prayer censorship	0.7452
+657	pred.bt.8	school prayer banned school prayer censorship	0.7452
+657	pred.bt.9	school prayer banned school prayer censorship	0.7452
+658	-1	teenage pregnancy	0.0973
+658	pred.bt.1	teenage pregnancy teen age teen preganancy	0.4713
+658	pred.bt.10	teenage pregnancy teen age teen preganancy	0.4713
+658	pred.bt.2	teenage pregnancy teen age teen preganancy	0.4713
+658	pred.bt.3	teenage pregnancy teen age teen preganancy	0.4713
+658	pred.bt.4	teenage pregnancy teen age teen preganancy	0.4713
+658	pred.bt.5	teenage pregnancy teen age teen preganancy	0.4713
+658	pred.bt.6	teenage pregnancy teen age teen preganancy	0.4713
+658	pred.bt.7	teenage pregnancy teen age teen preganancy	0.4713
+658	pred.bt.8	teenage pregnancy teen age teen preganancy	0.4713
+658	pred.bt.9	teenage pregnancy teen age teen preganancy	0.4713
+659	-1	cruise health safety	0.658
+659	pred.bt.1	cruise health safety	0.658
+659	pred.bt.10	cruise health safety	0.658
+659	pred.bt.2	cruise health safety	0.658
+659	pred.bt.3	cruise health safety	0.658
+659	pred.bt.4	cruise health safety	0.658
+659	pred.bt.5	cruise health safety	0.658
+659	pred.bt.6	cruise health safety	0.658
+659	pred.bt.7	cruise health safety	0.658
+659	pred.bt.8	cruise health safety	0.658
+659	pred.bt.9	cruise health safety	0.658
+660	-1	whale watching california	0.7518
+660	pred.bt.1	whale watching watch california	0.7926
+660	pred.bt.10	whale watching watch california	0.7926
+660	pred.bt.2	whale watching watch california	0.7926
+660	pred.bt.3	whale watching watch california	0.7926
+660	pred.bt.4	whale watching watch california	0.7926
+660	pred.bt.5	whale watching watch california	0.7926
+660	pred.bt.6	whale watching watch california	0.7926
+660	pred.bt.7	whale watching watch california	0.7926
+660	pred.bt.8	whale watching watch california	0.7926
+660	pred.bt.9	whale watching watch california	0.7926
+661	-1	melanoma treatment causes	0.763
+661	pred.bt.1	melanoma treatment causes malignant melanoma discourse discussion intervention case grounds causal agent	0.821
+661	pred.bt.10	melanoma treatment causes malignant melanoma discourse discussion intervention case grounds causal agent	0.821
+661	pred.bt.2	melanoma treatment causes malignant melanoma discourse discussion intervention case grounds causal agent	0.821
+661	pred.bt.3	melanoma treatment causes malignant melanoma discourse discussion intervention case grounds causal agent	0.821
+661	pred.bt.4	melanoma treatment causes malignant melanoma discourse discussion intervention case grounds causal agent	0.821
+661	pred.bt.5	melanoma treatment causes malignant melanoma discourse discussion intervention case grounds causal agent	0.821
+661	pred.bt.6	melanoma treatment causes malignant melanoma discourse discussion intervention case grounds causal agent	0.821
+661	pred.bt.7	melanoma treatment causes malignant melanoma discourse discussion intervention case grounds causal agent	0.821
+661	pred.bt.8	melanoma treatment causes malignant melanoma discourse discussion intervention case grounds causal agent	0.821
+661	pred.bt.9	melanoma treatment causes malignant melanoma discourse discussion intervention case grounds causal agent	0.821
+662	-1	telemarketer protection	0.6828
+662	pred.bt.1	telemarketer protection security	0.7135
+662	pred.bt.10	telemarketer protection security	0.7135
+662	pred.bt.2	telemarketer protection security	0.7135
+662	pred.bt.3	telemarketer protection security	0.7135
+662	pred.bt.4	telemarketer protection security	0.7135
+662	pred.bt.5	telemarketer protection security	0.7135
+662	pred.bt.6	telemarketer protection security	0.7135
+662	pred.bt.7	telemarketer protection security	0.7135
+662	pred.bt.8	telemarketer protection security	0.7135
+662	pred.bt.9	telemarketer protection security	0.7135
+663	-1	agent orange exposure	0.427
+663	pred.bt.1	agent orange exposure veteran studi said toronto orang astra olema secur	0.5423
+663	pred.bt.10	agent orange exposure veteran studi said toronto orang astra olema secur	0.5423
+663	pred.bt.2	agent orange exposure veteran studi said toronto orang astra olema secur	0.5423
+663	pred.bt.3	agent orange exposure veteran studi said toronto orang astra olema secur	0.5423
+663	pred.bt.4	agent orange exposure veteran studi said toronto orang astra olema secur	0.5423
+663	pred.bt.5	agent orange exposure veteran studi said toronto orang astra olema secur	0.5423
+663	pred.bt.6	agent orange exposure veteran studi said toronto orang astra olema secur	0.5423
+663	pred.bt.7	agent orange exposure veteran studi said toronto orang astra olema secur	0.5423
+663	pred.bt.8	agent orange exposure veteran studi said toronto orang astra olema secur	0.5423
+663	pred.bt.9	agent orange exposure veteran studi said toronto orang astra olema secur	0.5423
+664	-1	american indian museum	0.9334
+664	pred.bt.1	american indian museum	0.9334
+664	pred.bt.10	american indian museum	0.9334
+664	pred.bt.2	american indian museum	0.9334
+664	pred.bt.3	american indian museum	0.9334
+664	pred.bt.4	american indian museum	0.9334
+664	pred.bt.5	american indian museum	0.9334
+664	pred.bt.6	american indian museum	0.9334
+664	pred.bt.7	american indian museum	0.9334
+664	pred.bt.8	american indian museum	0.9334
+664	pred.bt.9	american indian museum	0.9334
+665	-1	poverty africa sub-sahara	0.3978
+665	pred.bt.1	poverty africa sub sahara debt hi bank educ minist per land	0.4496
+665	pred.bt.10	poverty africa sub sahara debt hi bank educ minist per land	0.4496
+665	pred.bt.2	poverty africa sub sahara debt hi bank educ minist per land	0.4496
+665	pred.bt.3	poverty africa sub sahara debt hi bank educ minist per land	0.4496
+665	pred.bt.4	poverty africa sub sahara debt hi bank educ minist per land	0.4496
+665	pred.bt.5	poverty africa sub sahara debt hi bank educ minist per land	0.4496
+665	pred.bt.6	poverty africa sub sahara debt hi bank educ minist per land	0.4496
+665	pred.bt.7	poverty africa sub sahara debt hi bank educ minist per land	0.4496
+665	pred.bt.8	poverty africa sub sahara debt hi bank educ minist per land	0.4496
+665	pred.bt.9	poverty africa sub sahara debt hi bank educ minist per land	0.4496
+666	-1	thatcher resignation impact	0.0785
+666	pred.bt.1	thatcher resignation impact shock	0.2961
+666	pred.bt.10	thatcher resignation impact shock	0.2961
+666	pred.bt.2	thatcher resignation impact shock	0.2961
+666	pred.bt.3	thatcher resignation impact shock	0.2961
+666	pred.bt.4	thatcher resignation impact shock	0.2961
+666	pred.bt.5	thatcher resignation impact shock	0.2961
+666	pred.bt.6	thatcher resignation impact shock	0.2961
+666	pred.bt.7	thatcher resignation impact shock	0.2961
+666	pred.bt.8	thatcher resignation impact shock	0.2961
+666	pred.bt.9	thatcher resignation impact shock	0.2961
+667	-1	unmarried-partner households	0.5452
+667	pred.bt.1	unmarried partner families residing	0.6895
+667	pred.bt.10	unmarried partner families residing	0.6895
+667	pred.bt.2	unmarried partner families residing	0.6895
+667	pred.bt.3	unmarried partner families residing	0.6895
+667	pred.bt.4	unmarried partner families residing	0.6895
+667	pred.bt.5	unmarried partner families residing	0.6895
+667	pred.bt.6	unmarried partner families residing	0.6895
+667	pred.bt.7	unmarried partner families residing	0.6895
+667	pred.bt.8	unmarried partner families residing	0.6895
+667	pred.bt.9	unmarried partner families residing	0.6895
+668	-1	poverty, disease	0.5612
+668	pred.bt.1	poverty, disease	0.5612
+668	pred.bt.10	poverty, disease	0.5612
+668	pred.bt.2	poverty, disease	0.5612
+668	pred.bt.3	poverty, disease	0.5612
+668	pred.bt.4	poverty, disease	0.5612
+668	pred.bt.5	poverty, disease	0.5612
+668	pred.bt.6	poverty, disease	0.5612
+668	pred.bt.7	poverty, disease	0.5612
+668	pred.bt.8	poverty, disease	0.5612
+668	pred.bt.9	poverty, disease	0.5612
+669	-1	islamic revolution	0.1767
+669	pred.bt.1	islamic revolution muslim takaful change society	0.1969
+669	pred.bt.10	islamic revolution muslim takaful change society	0.1969
+669	pred.bt.2	islamic revolution muslim takaful change society	0.1969
+669	pred.bt.3	islamic revolution muslim takaful change society	0.1969
+669	pred.bt.4	islamic revolution muslim takaful change society	0.1969
+669	pred.bt.5	islamic revolution muslim takaful change society	0.1969
+669	pred.bt.6	islamic revolution muslim takaful change society	0.1969
+669	pred.bt.7	islamic revolution muslim takaful change society	0.1969
+669	pred.bt.8	islamic revolution muslim takaful change society	0.1969
+669	pred.bt.9	islamic revolution muslim takaful change society	0.1969
+670	-1	u.s. elections apathy	0.2165
+670	pred.bt.1	u.s. elections apathy	0.2165
+670	pred.bt.10	u.s. elections apathy	0.2165
+670	pred.bt.2	u.s. elections apathy	0.2165
+670	pred.bt.3	u.s. elections apathy	0.2165
+670	pred.bt.4	u.s. elections apathy	0.2165
+670	pred.bt.5	u.s. elections apathy	0.2165
+670	pred.bt.6	u.s. elections apathy	0.2165
+670	pred.bt.7	u.s. elections apathy	0.2165
+670	pred.bt.8	u.s. elections apathy	0.2165
+670	pred.bt.9	u.s. elections apathy	0.2165
+671	-1	salvation army benefits	0.4617
+673	-1	soviet withdrawal afghanistan	0.4638
+673	pred.bt.1	soviet withdrawal afghanistan retreat disinvestment	0.5693
+673	pred.bt.10	soviet withdrawal afghanistan retreat disinvestment	0.5693
+673	pred.bt.2	soviet withdrawal afghanistan retreat disinvestment	0.5693
+673	pred.bt.3	soviet withdrawal afghanistan retreat disinvestment	0.5693
+673	pred.bt.4	soviet withdrawal afghanistan retreat disinvestment	0.5693
+673	pred.bt.5	soviet withdrawal afghanistan retreat disinvestment	0.5693
+673	pred.bt.6	soviet withdrawal afghanistan retreat disinvestment	0.5693
+673	pred.bt.7	soviet withdrawal afghanistan retreat disinvestment	0.5693
+673	pred.bt.8	soviet withdrawal afghanistan retreat disinvestment	0.5693
+673	pred.bt.9	soviet withdrawal afghanistan retreat disinvestment	0.5693
+674	-1	greenpeace prosecuted	0.3148
+674	pred.bt.1	greenpeace prosecuted greenpeace anti nuclear organizations united states friends thearth greenpeace prosecutors appeal indictment prosecutor	0.3958
+674	pred.bt.10	greenpeace prosecuted greenpeace anti nuclear organizations united states friends thearth greenpeace prosecutors appeal indictment prosecutor	0.3958
+674	pred.bt.2	greenpeace prosecuted greenpeace anti nuclear organizations united states friends thearth greenpeace prosecutors appeal indictment prosecutor	0.3958
+674	pred.bt.3	greenpeace prosecuted greenpeace anti nuclear organizations united states friends thearth greenpeace prosecutors appeal indictment prosecutor	0.3958
+674	pred.bt.4	greenpeace prosecuted greenpeace anti nuclear organizations united states friends thearth greenpeace prosecutors appeal indictment prosecutor	0.3958
+674	pred.bt.5	greenpeace prosecuted greenpeace anti nuclear organizations united states friends thearth greenpeace prosecutors appeal indictment prosecutor	0.3958
+674	pred.bt.6	greenpeace prosecuted greenpeace anti nuclear organizations united states friends thearth greenpeace prosecutors appeal indictment prosecutor	0.3958
+674	pred.bt.7	greenpeace prosecuted greenpeace anti nuclear organizations united states friends thearth greenpeace prosecutors appeal indictment prosecutor	0.3958
+674	pred.bt.8	greenpeace prosecuted greenpeace anti nuclear organizations united states friends thearth greenpeace prosecutors appeal indictment prosecutor	0.3958
+674	pred.bt.9	greenpeace prosecuted greenpeace anti nuclear organizations united states friends thearth greenpeace prosecutors appeal indictment prosecutor	0.3958
+675	-1	olympics training swimming	0.4867
+675	pred.bt.1	olympic train swimm	0.5355
+675	pred.bt.10	olympic train swimm	0.5355
+675	pred.bt.2	olympic train swimm	0.5355
+675	pred.bt.3	olympic train swimm	0.5355
+675	pred.bt.4	olympic train swimm	0.5355
+675	pred.bt.5	olympic train swimm	0.5355
+675	pred.bt.6	olympic train swimm	0.5355
+675	pred.bt.7	olympic train swimm	0.5355
+675	pred.bt.8	olympic train swimm	0.5355
+675	pred.bt.9	olympic train swimm	0.5355
+676	-1	poppy cultivation	0.3903
+676	pred.bt.1	poppy cultivation poppi opium cultiv drug bill	0.403
+676	pred.bt.10	poppy cultivation poppi opium cultiv drug bill	0.403
+676	pred.bt.2	poppy cultivation poppi opium cultiv drug bill	0.403
+676	pred.bt.3	poppy cultivation poppi opium cultiv drug bill	0.403
+676	pred.bt.4	poppy cultivation poppi opium cultiv drug bill	0.403
+676	pred.bt.5	poppy cultivation poppi opium cultiv drug bill	0.403
+676	pred.bt.6	poppy cultivation poppi opium cultiv drug bill	0.403
+676	pred.bt.7	poppy cultivation poppi opium cultiv drug bill	0.403
+676	pred.bt.8	poppy cultivation poppi opium cultiv drug bill	0.403
+676	pred.bt.9	poppy cultivation poppi opium cultiv drug bill	0.403
+677	-1	leaning tower of pisa	0.9802
+677	pred.bt.1	leaning tower of pisa ha year further art cours have	0.9865
+677	pred.bt.10	leaning tower of pisa ha year further art cours have	0.9865
+677	pred.bt.2	leaning tower of pisa ha year further art cours have	0.9865
+677	pred.bt.3	leaning tower of pisa ha year further art cours have	0.9865
+677	pred.bt.4	leaning tower of pisa ha year further art cours have	0.9865
+677	pred.bt.5	leaning tower of pisa ha year further art cours have	0.9865
+677	pred.bt.6	leaning tower of pisa ha year further art cours have	0.9865
+677	pred.bt.7	leaning tower of pisa ha year further art cours have	0.9865
+677	pred.bt.8	leaning tower of pisa ha year further art cours have	0.9865
+677	pred.bt.9	leaning tower of pisa ha year further art cours have	0.9865
+678	-1	joint custody impact	0.4074
+678	pred.bt.1	california child support guidelinreview noncustodial parent solcustody joint custody	0.5171
+678	pred.bt.10	california child support guidelinreview noncustodial parent solcustody joint custody	0.5171
+678	pred.bt.2	california child support guidelinreview noncustodial parent solcustody joint custody	0.5171
+678	pred.bt.3	california child support guidelinreview noncustodial parent solcustody joint custody	0.5171
+678	pred.bt.4	california child support guidelinreview noncustodial parent solcustody joint custody	0.5171
+678	pred.bt.5	california child support guidelinreview noncustodial parent solcustody joint custody	0.5171
+678	pred.bt.6	california child support guidelinreview noncustodial parent solcustody joint custody	0.5171
+678	pred.bt.7	california child support guidelinreview noncustodial parent solcustody joint custody	0.5171
+678	pred.bt.8	california child support guidelinreview noncustodial parent solcustody joint custody	0.5171
+678	pred.bt.9	california child support guidelinreview noncustodial parent solcustody joint custody	0.5171
+679	-1	opening adoption records	0.7929
+679	pred.bt.1	opening adoption records	0.7929
+679	pred.bt.10	opening adoption records	0.7929
+679	pred.bt.2	opening adoption records	0.7929
+679	pred.bt.3	opening adoption records	0.7929
+679	pred.bt.4	opening adoption records	0.7929
+679	pred.bt.5	opening adoption records	0.7929
+679	pred.bt.6	opening adoption records	0.7929
+679	pred.bt.7	opening adoption records	0.7929
+679	pred.bt.8	opening adoption records	0.7929
+679	pred.bt.9	opening adoption records	0.7929
+680	-1	immigrants spanish school	0.1428
+680	pred.bt.1	critic sai dearth bilingu teacher	0.5712
+680	pred.bt.10	critic sai dearth bilingu teacher	0.5712
+680	pred.bt.2	critic sai dearth bilingu teacher	0.5712
+680	pred.bt.3	critic sai dearth bilingu teacher	0.5712
+680	pred.bt.4	critic sai dearth bilingu teacher	0.5712
+680	pred.bt.5	critic sai dearth bilingu teacher	0.5712
+680	pred.bt.6	critic sai dearth bilingu teacher	0.5712
+680	pred.bt.7	critic sai dearth bilingu teacher	0.5712
+680	pred.bt.8	critic sai dearth bilingu teacher	0.5712
+680	pred.bt.9	critic sai dearth bilingu teacher	0.5712
+681	-1	wind power location	0.4835
+681	pred.bt.1	wind power location wind turbine wind farm renewablenergy wind power binomial distribution quantilfunction scalparameter location parameter	0.7429
+681	pred.bt.10	wind power location wind turbine wind farm renewablenergy wind power binomial distribution quantilfunction scalparameter location parameter	0.7429
+681	pred.bt.2	wind power location wind turbine wind farm renewablenergy wind power binomial distribution quantilfunction scalparameter location parameter	0.7429
+681	pred.bt.3	wind power location wind turbine wind farm renewablenergy wind power binomial distribution quantilfunction scalparameter location parameter	0.7429
+681	pred.bt.4	wind power location wind turbine wind farm renewablenergy wind power binomial distribution quantilfunction scalparameter location parameter	0.7429
+681	pred.bt.5	wind power location wind turbine wind farm renewablenergy wind power binomial distribution quantilfunction scalparameter location parameter	0.7429
+681	pred.bt.6	wind power location wind turbine wind farm renewablenergy wind power binomial distribution quantilfunction scalparameter location parameter	0.7429
+681	pred.bt.7	wind power location wind turbine wind farm renewablenergy wind power binomial distribution quantilfunction scalparameter location parameter	0.7429
+681	pred.bt.8	wind power location wind turbine wind farm renewablenergy wind power binomial distribution quantilfunction scalparameter location parameter	0.7429
+681	pred.bt.9	wind power location wind turbine wind farm renewablenergy wind power binomial distribution quantilfunction scalparameter location parameter	0.7429
+682	-1	adult immigrants english	0.4806
+682	pred.bt.1	adult immigrants english	0.4806
+682	pred.bt.10	adult immigrants english	0.4806
+682	pred.bt.2	adult immigrants english	0.4806
+682	pred.bt.3	adult immigrants english	0.4806
+682	pred.bt.4	adult immigrants english	0.4806
+682	pred.bt.5	adult immigrants english	0.4806
+682	pred.bt.6	adult immigrants english	0.4806
+682	pred.bt.7	adult immigrants english	0.4806
+682	pred.bt.8	adult immigrants english	0.4806
+682	pred.bt.9	adult immigrants english	0.4806
+683	-1	czechoslovakia breakup	0.1186
+683	pred.bt.1	czech break	0.3772
+683	pred.bt.10	czech break	0.3772
+683	pred.bt.2	czech break	0.3772
+683	pred.bt.3	czech break	0.3772
+683	pred.bt.4	czech break	0.3772
+683	pred.bt.5	czech break	0.3772
+683	pred.bt.6	czech break	0.3772
+683	pred.bt.7	czech break	0.3772
+683	pred.bt.8	czech break	0.3772
+683	pred.bt.9	czech break	0.3772
+684	-1	part-time benefits	0.2632
+684	pred.bt.1	part-time benefits	0.2632
+684	pred.bt.10	part-time benefits	0.2632
+684	pred.bt.2	part-time benefits	0.2632
+684	pred.bt.3	part-time benefits	0.2632
+684	pred.bt.4	part-time benefits	0.2632
+684	pred.bt.5	part-time benefits	0.2632
+684	pred.bt.6	part-time benefits	0.2632
+684	pred.bt.7	part-time benefits	0.2632
+684	pred.bt.8	part-time benefits	0.2632
+684	pred.bt.9	part-time benefits	0.2632
+685	-1	oscar winner selection	0.4361
+685	pred.bt.1	oscar winner selection academy award success achiever victor natural selection survival of the fittest choice	0.6035
+685	pred.bt.10	oscar winner selection academy award success achiever victor natural selection survival of the fittest choice	0.6035
+685	pred.bt.2	oscar winner selection academy award success achiever victor natural selection survival of the fittest choice	0.6035
+685	pred.bt.3	oscar winner selection academy award success achiever victor natural selection survival of the fittest choice	0.6035
+685	pred.bt.4	oscar winner selection academy award success achiever victor natural selection survival of the fittest choice	0.6035
+685	pred.bt.5	oscar winner selection academy award success achiever victor natural selection survival of the fittest choice	0.6035
+685	pred.bt.6	oscar winner selection academy award success achiever victor natural selection survival of the fittest choice	0.6035
+685	pred.bt.7	oscar winner selection academy award success achiever victor natural selection survival of the fittest choice	0.6035
+685	pred.bt.8	oscar winner selection academy award success achiever victor natural selection survival of the fittest choice	0.6035
+685	pred.bt.9	oscar winner selection academy award success achiever victor natural selection survival of the fittest choice	0.6035
+686	-1	argentina pegging dollar	0.4744
+686	pred.bt.1	argentina pegging dollar argentina fixed exchange rate system united states dollar	0.6145
+686	pred.bt.10	argentina pegging dollar argentina fixed exchange rate system united states dollar	0.6145
+686	pred.bt.2	argentina pegging dollar argentina fixed exchange rate system united states dollar	0.6145
+686	pred.bt.3	argentina pegging dollar argentina fixed exchange rate system united states dollar	0.6145
+686	pred.bt.4	argentina pegging dollar argentina fixed exchange rate system united states dollar	0.6145
+686	pred.bt.5	argentina pegging dollar argentina fixed exchange rate system united states dollar	0.6145
+686	pred.bt.6	argentina pegging dollar argentina fixed exchange rate system united states dollar	0.6145
+686	pred.bt.7	argentina pegging dollar argentina fixed exchange rate system united states dollar	0.6145
+686	pred.bt.8	argentina pegging dollar argentina fixed exchange rate system united states dollar	0.6145
+686	pred.bt.9	argentina pegging dollar argentina fixed exchange rate system united states dollar	0.6145
+687	-1	northern ireland industry	0.4648
+687	pred.bt.1	northern ireland industry	0.4648
+687	pred.bt.10	northern ireland industry	0.4648
+687	pred.bt.2	northern ireland industry	0.4648
+687	pred.bt.3	northern ireland industry	0.4648
+687	pred.bt.4	northern ireland industry	0.4648
+687	pred.bt.5	northern ireland industry	0.4648
+687	pred.bt.6	northern ireland industry	0.4648
+687	pred.bt.7	northern ireland industry	0.4648
+687	pred.bt.8	northern ireland industry	0.4648
+687	pred.bt.9	northern ireland industry	0.4648
+688	-1	non-u.s. media bias	0.1141
+688	pred.bt.1	media bias	0.2118
+688	pred.bt.10	media bias	0.2118
+688	pred.bt.2	media bias	0.2118
+688	pred.bt.3	media bias	0.2118
+688	pred.bt.4	media bias	0.2118
+688	pred.bt.5	media bias	0.2118
+688	pred.bt.6	media bias	0.2118
+688	pred.bt.7	media bias	0.2118
+688	pred.bt.8	media bias	0.2118
+688	pred.bt.9	media bias	0.2118
+689	-1	family-planning aid	0.2374
+689	pred.bt.1	family planning aid united nations population fund reproductivhealth family planning family planning development assistanccommittee cash transfers aid agency aid	0.4438
+689	pred.bt.10	family planning aid united nations population fund reproductivhealth family planning family planning development assistanccommittee cash transfers aid agency aid	0.4438
+689	pred.bt.2	family planning aid united nations population fund reproductivhealth family planning family planning development assistanccommittee cash transfers aid agency aid	0.4438
+689	pred.bt.3	family planning aid united nations population fund reproductivhealth family planning family planning development assistanccommittee cash transfers aid agency aid	0.4438
+689	pred.bt.4	family planning aid united nations population fund reproductivhealth family planning family planning development assistanccommittee cash transfers aid agency aid	0.4438
+689	pred.bt.5	family planning aid united nations population fund reproductivhealth family planning family planning development assistanccommittee cash transfers aid agency aid	0.4438
+689	pred.bt.6	family planning aid united nations population fund reproductivhealth family planning family planning development assistanccommittee cash transfers aid agency aid	0.4438
+689	pred.bt.7	family planning aid united nations population fund reproductivhealth family planning family planning development assistanccommittee cash transfers aid agency aid	0.4438
+689	pred.bt.8	family planning aid united nations population fund reproductivhealth family planning family planning development assistanccommittee cash transfers aid agency aid	0.4438
+689	pred.bt.9	family planning aid united nations population fund reproductivhealth family planning family planning development assistanccommittee cash transfers aid agency aid	0.4438
+690	-1	college education advantage	0.0
+690	pred.bt.1	college education advantage degree school seeing art further your career superiority reward	0.2334
+690	pred.bt.10	college education advantage degree school seeing art further your career superiority reward	0.2334
+690	pred.bt.2	college education advantage degree school seeing art further your career superiority reward	0.2334
+690	pred.bt.3	college education advantage degree school seeing art further your career superiority reward	0.2334
+690	pred.bt.4	college education advantage degree school seeing art further your career superiority reward	0.2334
+690	pred.bt.5	college education advantage degree school seeing art further your career superiority reward	0.2334
+690	pred.bt.6	college education advantage degree school seeing art further your career superiority reward	0.2334
+690	pred.bt.7	college education advantage degree school seeing art further your career superiority reward	0.2334
+690	pred.bt.8	college education advantage degree school seeing art further your career superiority reward	0.2334
+690	pred.bt.9	college education advantage degree school seeing art further your career superiority reward	0.2334
+691	-1	clear-cutting forests	0.5893
+691	pred.bt.1	clear-cutting forests	0.5893
+691	pred.bt.10	clear-cutting forests	0.5893
+691	pred.bt.2	clear-cutting forests	0.5893
+691	pred.bt.3	clear-cutting forests	0.5893
+691	pred.bt.4	clear-cutting forests	0.5893
+691	pred.bt.5	clear-cutting forests	0.5893
+691	pred.bt.6	clear-cutting forests	0.5893
+691	pred.bt.7	clear-cutting forests	0.5893
+691	pred.bt.8	clear-cutting forests	0.5893
+691	pred.bt.9	clear-cutting forests	0.5893
+692	-1	prostate cancer detection treatment	0.6337
+692	pred.bt.1	prostate cancer detection treatment block beam prostat zoladex he aid	0.7838
+692	pred.bt.10	prostate cancer detection treatment block beam prostat zoladex he aid	0.7838
+692	pred.bt.2	prostate cancer detection treatment block beam prostat zoladex he aid	0.7838
+692	pred.bt.3	prostate cancer detection treatment block beam prostat zoladex he aid	0.7838
+692	pred.bt.4	prostate cancer detection treatment block beam prostat zoladex he aid	0.7838
+692	pred.bt.5	prostate cancer detection treatment block beam prostat zoladex he aid	0.7838
+692	pred.bt.6	prostate cancer detection treatment block beam prostat zoladex he aid	0.7838
+692	pred.bt.7	prostate cancer detection treatment block beam prostat zoladex he aid	0.7838
+692	pred.bt.8	prostate cancer detection treatment block beam prostat zoladex he aid	0.7838
+692	pred.bt.9	prostate cancer detection treatment block beam prostat zoladex he aid	0.7838
+693	-1	newspapers electronic media	0.5365
+693	pred.bt.1	newspapers newspaper electronic media metier	0.5458
+693	pred.bt.10	newspapers newspaper electronic media metier	0.5458
+693	pred.bt.2	newspapers newspaper electronic media metier	0.5458
+693	pred.bt.3	newspapers newspaper electronic media metier	0.5458
+693	pred.bt.4	newspapers newspaper electronic media metier	0.5458
+693	pred.bt.5	newspapers newspaper electronic media metier	0.5458
+693	pred.bt.6	newspapers newspaper electronic media metier	0.5458
+693	pred.bt.7	newspapers newspaper electronic media metier	0.5458
+693	pred.bt.8	newspapers newspaper electronic media metier	0.5458
+693	pred.bt.9	newspapers newspaper electronic media metier	0.5458
+694	-1	compost pile	0.546
+694	pred.bt.1	compost compost	0.5606
+694	pred.bt.10	compost compost	0.5606
+694	pred.bt.2	compost compost	0.5606
+694	pred.bt.3	compost compost	0.5606
+694	pred.bt.4	compost compost	0.5606
+694	pred.bt.5	compost compost	0.5606
+694	pred.bt.6	compost compost	0.5606
+694	pred.bt.7	compost compost	0.5606
+694	pred.bt.8	compost compost	0.5606
+694	pred.bt.9	compost compost	0.5606
+695	-1	white collar crime sentence	0.3922
+695	pred.bt.1	white collar crime sentence bloom spurrier hi contra sentenc plea mr guidelin minkow	0.4563
+695	pred.bt.10	white collar crime sentence bloom spurrier hi contra sentenc plea mr guidelin minkow	0.4563
+695	pred.bt.2	white collar crime sentence bloom spurrier hi contra sentenc plea mr guidelin minkow	0.4563
+695	pred.bt.3	white collar crime sentence bloom spurrier hi contra sentenc plea mr guidelin minkow	0.4563
+695	pred.bt.4	white collar crime sentence bloom spurrier hi contra sentenc plea mr guidelin minkow	0.4563
+695	pred.bt.5	white collar crime sentence bloom spurrier hi contra sentenc plea mr guidelin minkow	0.4563
+695	pred.bt.6	white collar crime sentence bloom spurrier hi contra sentenc plea mr guidelin minkow	0.4563
+695	pred.bt.7	white collar crime sentence bloom spurrier hi contra sentenc plea mr guidelin minkow	0.4563
+695	pred.bt.8	white collar crime sentence bloom spurrier hi contra sentenc plea mr guidelin minkow	0.4563
+695	pred.bt.9	white collar crime sentence bloom spurrier hi contra sentenc plea mr guidelin minkow	0.4563
+696	-1	safety plastic surgery	0.5338
+696	pred.bt.1	safety plastic surgery surgeri doerr implant corn offic said you	0.7724
+696	pred.bt.10	safety plastic surgery surgeri doerr implant corn offic said you	0.7724
+696	pred.bt.2	safety plastic surgery surgeri doerr implant corn offic said you	0.7724
+696	pred.bt.3	safety plastic surgery surgeri doerr implant corn offic said you	0.7724
+696	pred.bt.4	safety plastic surgery surgeri doerr implant corn offic said you	0.7724
+696	pred.bt.5	safety plastic surgery surgeri doerr implant corn offic said you	0.7724
+696	pred.bt.6	safety plastic surgery surgeri doerr implant corn offic said you	0.7724
+696	pred.bt.7	safety plastic surgery surgeri doerr implant corn offic said you	0.7724
+696	pred.bt.8	safety plastic surgery surgeri doerr implant corn offic said you	0.7724
+696	pred.bt.9	safety plastic surgery surgeri doerr implant corn offic said you	0.7724
+697	-1	air traffic controller	0.217
+697	pred.bt.1	air traffic controller	0.217
+697	pred.bt.10	air traffic controller	0.217
+697	pred.bt.2	air traffic controller	0.217
+697	pred.bt.3	air traffic controller	0.217
+697	pred.bt.4	air traffic controller	0.217
+697	pred.bt.5	air traffic controller	0.217
+697	pred.bt.6	air traffic controller	0.217
+697	pred.bt.7	air traffic controller	0.217
+697	pred.bt.8	air traffic controller	0.217
+697	pred.bt.9	air traffic controller	0.217
+698	-1	literacy rates africa	0.7058
+698	pred.bt.1	literacy rates africa social studies reading process society literacy bathtub curve timderivative propagation uncertainty rate mathematics africa asia regions africa africa	0.7458
+698	pred.bt.10	literacy rates africa social studies reading process society literacy bathtub curve timderivative propagation uncertainty rate mathematics africa asia regions africa africa	0.7458
+698	pred.bt.2	literacy rates africa social studies reading process society literacy bathtub curve timderivative propagation uncertainty rate mathematics africa asia regions africa africa	0.7458
+698	pred.bt.3	literacy rates africa social studies reading process society literacy bathtub curve timderivative propagation uncertainty rate mathematics africa asia regions africa africa	0.7458
+698	pred.bt.4	literacy rates africa social studies reading process society literacy bathtub curve timderivative propagation uncertainty rate mathematics africa asia regions africa africa	0.7458
+698	pred.bt.5	literacy rates africa social studies reading process society literacy bathtub curve timderivative propagation uncertainty rate mathematics africa asia regions africa africa	0.7458
+698	pred.bt.6	literacy rates africa social studies reading process society literacy bathtub curve timderivative propagation uncertainty rate mathematics africa asia regions africa africa	0.7458
+698	pred.bt.7	literacy rates africa social studies reading process society literacy bathtub curve timderivative propagation uncertainty rate mathematics africa asia regions africa africa	0.7458
+698	pred.bt.8	literacy rates africa social studies reading process society literacy bathtub curve timderivative propagation uncertainty rate mathematics africa asia regions africa africa	0.7458
+698	pred.bt.9	literacy rates africa social studies reading process society literacy bathtub curve timderivative propagation uncertainty rate mathematics africa asia regions africa africa	0.7458
+699	-1	term limits	0.5581
+699	pred.bt.1	term limits	0.5581
+699	pred.bt.10	term limits	0.5581
+699	pred.bt.2	term limits	0.5581
+699	pred.bt.3	term limits	0.5581
+699	pred.bt.4	term limits	0.5581
+699	pred.bt.5	term limits	0.5581
+699	pred.bt.6	term limits	0.5581
+699	pred.bt.7	term limits	0.5581
+699	pred.bt.8	term limits	0.5581
+699	pred.bt.9	term limits	0.5581
+700	-1	gasoline tax u.s.	0.2472

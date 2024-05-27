@@ -1,0 +1,1320 @@
+qid	order	query	bm25.ndcg
+301	-1	International Organized Crime	0.0586
+301	wiki.topn3	international organized crime constitutional law public international law criminal law international law extortion mafia money laundering organized crime	0.1324
+301	wiki.topn3.replace	constitutional law public international law criminal law international law extortion mafia money laundering organized crime	0.1232
+301	anchor.topn3	international organized crime confédérat föderat kanusport anti corruption anti econom drug	0.1047
+301	glove.topn3	international organized crime global which organised criminal	0.091
+301	word2vec.topn3	international organized crime national global domestic organised criminality	0.0847
+302	-1	Poliomyelitis and Post-Polio	0.7405
+302	relevancefeedback.topn10.qld	poliomyelitis and post polio case polio i health hi vaccin china percent	0.7535
+302	wordnet.topn3	poliomyelitis post polio polio acute anterior poliomyelitis	0.7491
+302	relevancefeedback.topn10.bm25	poliomyelitis and post polio case polio i health vaccin china aid	0.7482
+303	-1	Hubble Telescope Achievements	0.5126
+303	wiki.topn3	hubble telescope achievements great observatories program hubble space telescope standard candles hubble space telescope	0.6668
+303	wiki.topn3.replace	great observatories program hubble space telescope standard candles hubble space telescope	0.6633
+303	conceptnet.topn3	hubble telescope achievements Edwin Powell Hubble scotland heap	0.5226
+304	-1	Endangered Species (Mammals)	0.2081
+304	conceptluster.topn5.3.bm25	endangered species mammals endangered species	0.2202
+304	conceptluster.topn5.3.qld	endangered species mammals endangered species	0.2202
+305	-1	Most Dangerous Vehicles	0.0323
+305	wordnet.topn3	dangerous vehicles life threatening unsafe fomite	0.0493
+305	conceptnet.topn3	dangerous vehicles Explosives driving Some people	0.049
+305	wiki.topn3.replace	risk assessment optimism bias risk management risk truck semi trailer motor vehicle vehicle	0.0486
+305	wiki.topn3	dangerous vehicles risk assessment optimism bias risk management risk truck semi trailer motor vehicle vehicle	0.0457
+305	tagmee.topn3.replace	Risk Vehicle	0.0425
+305	conceptluster.topn5.3.bm25	dangerous vehicles risk	0.0377
+305	conceptluster.topn5.3.qld	dangerous vehicles risk	0.0377
+305	sensedisambiguation	Most Dangerous Vehicles vehicle	0.0375
+305	tagmee.topn3	dangerous vehicles Risk Vehicle	0.0375
+305	glove.topn3	dangerous vehicles potentially difficult cars	0.0351
+306	-1	African Civilian Deaths	0.1539
+306	sensedisambiguation	African Civilian Deaths end	0.1639
+307	-1	New Hydroelectric Projects	0.3366
+307	tagmee.topn3.replace	Hydroelectricity Project	0.3394
+308	-1	Implant Dentistry	0.488
+308	conceptluster.topn5.3.bm25	implant dentistry dental implant	0.5856
+308	conceptluster.topn5.3.qld	implant dentistry dental implant	0.5856
+308	wiki.topn3	implant dentistry soft tissue sinus lift sinus surgery dental implant cardiology physical therapy otolaryngology dentistry	0.5585
+308	wiki.topn3.replace	soft tissue sinus lift sinus surgery dental implant cardiology physical therapy otolaryngology dentistry	0.5032
+309	-1	Rap and Crime	0.0
+309	conceptnet.topn3	rap crime music hip hop	0.0771
+309	word2vec.topn3	rap crime hip hop hiphop criminality	0.0753
+309	wiki.topn3.replace	reggaeton underground hip hop gangsta rap rapping	0.0744
+310	-1	Radio Waves and Brain Cancer	0.3509
+310	word2vec.topn3	radio waves brain cancer television brain leukemia lymphoma	0.377
+311	-1	Industrial Espionage	0.4199
+311	conceptnet.topn3	industrial espionage factory postindustrial	0.4481
+312	-1	Hydroponics	0.9559
+313	-1	Magnetic Levitation-Maglev	0.8249
+313	relevancefeedback.topn10.bm25	magnetic levitation maglev magnet la would railwai project train car said	0.8553
+313	relevancefeedback.topn10.qld	magnetic levitation maglev magnet train railwai la said would project	0.8496
+314	-1	Marine Vegetation	0.0168
+314	conceptluster.topn5.3.bm25	marine vegetation ocean	0.1318
+314	conceptluster.topn5.3.qld	marine vegetation ocean	0.1318
+314	tagmee.topn3	marine vegetation Ocean Vegetation	0.1268
+314	wiki.topn3	marine vegetation ocean current seabed continental shelf ocean ecosystem biome biomes vegetation	0.117
+314	tagmee.topn3.replace	Ocean Vegetation	0.1112
+314	wiki.topn3.replace	ocean current seabed continental shelf ocean ecosystem biome biomes vegetation	0.0653
+315	-1	Unexplained Highway Accidents	0.1104
+315	tagmee.topn3	unexplained highway accidents Highway Traffic collision	0.1337
+315	conceptluster.topn5.3.bm25	unexplained highway accidents traffic collision	0.1313
+315	conceptluster.topn5.3.qld	unexplained highway accidents traffic collision	0.1313
+315	wordnet.topn3	unexplained highway accidents main road chance event stroke	0.1225
+316	-1	Polygamy Polyandry Polygyny	0.7496
+317	-1	Unsolicited Faxes	0.7129
+317	sensedisambiguation	Unsolicited unasked Faxes facsimile	0.7799
+318	-1	Best Retirement Country	0.0276
+318	glove.topn3	best retirement country well better nation already	0.064
+318	sensedisambiguation	Best Retirement Country state	0.0365
+319	-1	New Fuel Sources	0.1447
+319	anchor.topn3	new fuel sources bibalayeva forms new yappin fuel inject mixed oxid gas motor	0.183
+319	anchor.topn3.replace	bibalayeva forms new yappin fuel inject mixed oxid gas motor sources	0.1574
+320	-1	Undersea Fiber Optic Cable	0.2138
+320	relevancefeedback.topn10.qld	undersea fiber optic cable system cabl sprint data stc	0.3285
+320	anchor.topn3	undersea fiber optic cable uuv samayamaayi adventure queu fibr cable nowiki disappearing fila itmo spbsu	0.3231
+320	sensedisambiguation	Undersea submarine Fiber roughage Optic eye Cable cable television	0.3169
+320	relevancefeedback.topn10.bm25	undersea fiber optic cable system sprint cabl data	0.3011
+320	wordnet.topn3.replace	submarine fibre vulcanized fiber ocular eye overseas telegram telegraph cable length	0.2922
+320	anchor.topn3.replace	uuv samayamaayi adventure queu fibr cable nowiki disappearing fila itmo spbsu cable	0.2885
+320	tagmee.topn3.replace	Submarine communications cable Optical fiber	0.2599
+320	wordnet.topn3	undersea fiber optic cable submarine fibre vulcanized fiber ocular eye overseas telegram telegraph cable length	0.2333
+320	word2vec.topn3	undersea fiber optic cable deep sea underwater fibre cable TV	0.223
+321	-1	Women in Parliaments	0.3349
+322	-1	International Art Crime	0.016
+322	word2vec.topn3	international art crime national global domestic artwork artworks criminality	0.1352
+322	word2vec.topn3.replace	national global domestic artwork artworks criminality	0.0909
+322	sensedisambiguation	International Art artwork Crime	0.0888
+322	wordnet.topn3	international art crime external artwork artistry artistic creation criminal offense criminal offence law breaking	0.0724
+322	sensedisambiguation.replace	international artwork crime	0.0524
+322	wordnet.topn3.replace	external artwork artistry artistic creation criminal offense criminal offence law breaking	0.0485
+322	conceptnet.topn3	international art crime painting paint paintings	0.0198
+323	-1	Literary/Journalistic Plagiarism	0.435
+323	stem.lovins	liter journ plagiar	0.52
+323	tagmee.topn3	literary journalistic plagiarism Literature Journalism Plagiarism	0.4947
+324	-1	Argentine/British Relations	0.4965
+324	stem.krovetz	argentina britain relations	0.5434
+324	word2vec.topn3.replace	argentine british relationships	0.4977
+325	-1	Cult Lifestyles	0.2437
+325	wiki.topn3	cult lifestyles cults anti cult terms concepts occult cult lifestyle lifestylmagazine travel lifestyle sociology	0.2808
+325	anchor.topn3	cult lifestyles genestealer reproduct cult tsumbubura	0.2773
+326	-1	Ferry Sinkings	0.7257
+326	relevancefeedback.topn10.qld	ferry sinkings last ship safeti titan estonia ferri pound	0.813
+326	relevancefeedback.topn10.bm25	ferry sinkings estonia safeti titan ro ferri ship	0.8027
+327	-1	Modern Slavery	0.3936
+327	anchor.topn3.replace	burdah jardot originalité slavery	0.5799
+327	wordnet.topn3	modern slavery Bodoni modernistic bondage slaveholding	0.5423
+327	tagmee.topn3.replace	Slavery Slavery in the United States	0.5413
+327	tagmee.topn3	modern slavery Slavery Slavery in the United States	0.4725
+327	conceptluster.topn5.3.bm25	modern slavery slavery united states	0.43
+327	conceptluster.topn5.3.qld	modern slavery slavery united states	0.43
+327	relevancefeedback.topn10.bm25	modern slavery murder india iv econom slaveri our westwood r rep d	0.3944
+328	-1	Pope Beatifications	0.784
+328	sensedisambiguation	Pope Beatifications beatification	0.8358
+329	-1	Mexican Air Pollution	0.4808
+329	stem.krovetz	mexico air pollution	0.6167
+329	glove.topn3	mexican air pollution mexico force flying environmental	0.5112
+329	word2vec.topn3	mexican air pollution mexico air water	0.5037
+330	-1	Iran-Iraq Cooperation	0.1171
+330	stem.trunc4	iran iraq coop	0.3424
+330	stem.trunc5	iran iraq coope	0.3424
+330	anchor.topn3	iran iraq cooperation iran iraq iran iraq eritrean ethiopian	0.2918
+330	anchor.topn3.replace	iran iraq iran iraq eritrean ethiopian cooperation	0.2559
+330	relevancefeedback.topn10.qld	iran iraq cooperation turkei islam iran we countri contain iraq iraqi	0.1889
+330	glove.topn3	iran iraq cooperation iraq iran soviet afghan bilateral strengthen	0.1434
+330	word2vec.topn3	iran iraq cooperation co operation collaboration	0.1178
+331	-1	World Bank Criticism	0.3363
+332	-1	Income Tax Evasion	0.1474
+332	bertqe.topn10.bm25	tax evas connect j david	0.2481
+332	wiki.topn3	income tax evasion bank fraud arrest warrant plea bargain tax evasion bank fraud arrest warrant plea bargain tax evasion	0.2452
+332	relevancefeedback.topn10.bm25	income tax evasion both yuan incom rmb hunter sturman	0.1774
+332	tagmee.topn3	income tax evasion Tax evasion Tax evasion	0.1537
+332	wiki.topn3.replace	bank fraud arrest warrant plea bargain tax evasion bank fraud arrest warrant plea bargain tax evasion	0.1531
+332	conceptluster.topn5.3.bm25	income tax evasion tax evasion	0.1507
+332	conceptluster.topn5.3.qld	income tax evasion tax evasion	0.1507
+333	-1	Antibiotics Bacteria Disease	0.4352
+333	word2vec.topn3	antibiotics bacteria disease anti biotics antimicrobials microbes microorganisms bacterium infection	0.4938
+333	sensedisambiguation	Antibiotics antibiotic Bacteria Disease	0.4898
+333	tagmee.topn3	antibiotics bacteria disease Antibiotics Bacteria Infection	0.4828
+333	stem.porter	antibiot bacteria diseas	0.4811
+333	stem.porter2	antibiot bacteria diseas	0.4811
+333	relevancefeedback.topn10.qld	antibiotics bacteria disease antibiot biosensor pneumonia diseas syndrom tb strep tick plagu	0.4735
+333	conceptluster.topn5.3.bm25	antibiotics bacteria disease infection	0.455
+333	conceptluster.topn5.3.qld	antibiotics bacteria disease infection	0.455
+333	wiki.topn3	antibiotics bacteria disease bactericides staphylococcus pancreas antibiotics prokaryotes bacteriology bacteria bacteria antibiotics urinary bladder pancreas infection	0.4505
+333	relevancefeedback.topn10.bm25	antibiotics bacteria disease antibiot pneumonia plagu strep syndrom diseas infect cancer	0.4495
+333	tagmee.topn3.replace	Antibiotics Bacteria Infection	0.4425
+333	stem.lovins	antibiot bacter diseas	0.4367
+333	stem.paicehusk	antibiot bacter diseas	0.4367
+334	-1	Export Controls Cryptography	0.235
+334	word2vec.topn3	export controls cryptography import encryption cryptographic cryptology	0.6087
+334	word2vec.topn3.replace	import controls encryption cryptographic cryptology	0.5098
+334	wiki.topn3	export controls cryptography outlinof cryptography glossary cryptographic keys plaintext cryptography	0.2741
+335	-1	Adoptive Biological Parents	0.503
+335	conceptnet.topn3	adoptive biological parents surrogate name children name their babies family	0.7355
+335	conceptnet.topn3.replace	surrogate biological name children name their babies family	0.6174
+335	tagmee.topn3	adoptive biological parents Adoption Biology Parent	0.5537
+335	relevancefeedback.topn10.qld	adoptive biological parents adopt her anim child sabol	0.5509
+335	sensedisambiguation	Adoptive Biological Parents parent	0.5485
+335	relevancefeedback.topn10.bm25	adoptive biological parents child her adopt kiefer sabol plant program	0.5331
+336	-1	Black Bear Attacks	0.1371
+336	conceptnet.topn3	black bear attacks oil coal color animal grizzly polar	0.2264
+336	conceptnet.topn3.replace	oil coal color animal grizzly polar attacks	0.1964
+336	conceptluster.topn5.3.bm25	black bear attacks american black bear bear attack	0.1741
+336	conceptluster.topn5.3.qld	black bear attacks american black bear bear attack	0.1741
+336	tagmee.topn3	black bear attacks American black bear Bear attack	0.1741
+336	tagmee.topn3.replace	American black bear Bear attack	0.1489
+337	-1	Viral Hepatitis	0.3693
+337	relevancefeedback.topn10.bm25	viral hepatitis percent omit caus diseas individu vaccinia liver hepat	0.4355
+337	relevancefeedback.topn10.qld	viral hepatitis hepat diseas worker region health individu percent omit	0.4021
+337	word2vec.topn3	viral hepatitis bacterial phylodynamics HCV anti hepatitis	0.3948
+337	wiki.topn3	viral hepatitis opportunistic infection attenuated vaccine rapid plasma reagin viral hepatitis	0.3907
+338	-1	Risk of Aspirin	0.5585
+338	relevancefeedback.topn10.qld	risk of aspirin sai stroke peopl kidnei your	0.6367
+338	relevancefeedback.topn10.bm25	risk of aspirin stroke sai vaccin bayer kidnei	0.5856
+339	-1	Alzheimer's Drug Treatment	0.4573
+339	conceptluster.topn5.3.bm25	alzheimer s drug treatment psychoactive drug addiction alzheimer s disease	0.5631
+339	conceptluster.topn5.3.qld	alzheimer s drug treatment psychoactive drug addiction alzheimer s disease	0.5631
+339	relevancefeedback.topn10.bm25	alzheimer s drug treatment alzheim dollar group diseas summer	0.5419
+339	wiki.topn3	alzheimer s drug treatment dementia aphasias unsolved problems neuroscience alzheimer s disease dementia aphasias unsolved problems neuroscience alzheimer s disease opiate empathogen entactogen antidepressant psychoactive drug substancusdisorder behavioral addiction stress psychological addiction	0.4913
+339	rm3.topn10.10.0.5.bm25	Alzheimers Drug Treatment	0.463
+339	rm3.topn10.10.0.5.qld	Alzheimers Drug Treatment	0.463
+339	stem.lovins	alzheimer s drug treatm	0.4625
+340	-1	Land Mine Ban	0.2795
+341	-1	Airport Security	0.4103
+341	sensedisambiguation	Airport Security security system	0.4509
+341	wiki.topn3	airport security computer assisted passenger prescreening system shobomb plot richard reid airport security	0.4226
+342	-1	Diplomatic Expulsion	0.2892
+342	glove.topn3	diplomatic expulsion relations expelled expel	0.5237
+342	conceptnet.topn3	diplomatic expulsion forcing out ejection	0.3354
+342	wordnet.topn3	diplomatic expulsion extrusion projection forcing out	0.3313
+343	-1	Police Deaths	0.0191
+343	word2vec.topn3.replace	cops policemen fatalities killings	0.1325
+343	word2vec.topn3	police deaths cops policemen fatalities killings	0.0687
+343	glove.topn3.replace	officers policemen fatalities	0.0586
+343	wiki.topn3	police deaths publisafety crime prevention law enforcement police life senescence disease death	0.0481
+343	sensedisambiguation	Police Deaths end	0.0436
+343	glove.topn3	police deaths officers policemen fatalities	0.0405
+343	wordnet.topn3	police deaths patrol police force dying last	0.0392
+343	conceptnet.topn3	police deaths chief fighting war love	0.0366
+343	relevancefeedback.topn10.bm25	police deaths he constitut ingel freewai hanson shoot were hi i	0.0354
+343	wiki.topn3.replace	publisafety crime prevention law enforcement police life senescence disease death	0.0282
+344	-1	Abuses of E-Mail	0.4393
+344	sensedisambiguation	Abuses misuse of E Mail electronic mail	0.7732
+344	stem.lovins	abus of e mail	0.5788
+344	stem.paicehusk	abus of e mail	0.5788
+344	stem.porter	abus of e mail	0.5788
+344	stem.porter2	abus of e mail	0.5788
+344	stem.trunc4	abus of e mail	0.5788
+344	sensedisambiguation.replace	misuse of electronic mail	0.5728
+345	-1	Overseas Tobacco Sales	0.2642
+345	relevancefeedback.topn10.bm25	overseas tobacco sales compani rate dollar per	0.3846
+345	word2vec.topn3	overseas tobacco sales abroad stateside cigarettes smoking marketing	0.3212
+345	tagmee.topn3	overseas tobacco sales Tobacco Sales tax	0.2977
+345	conceptluster.topn5.3.bm25	overseas tobacco sales sales tax	0.2965
+345	conceptluster.topn5.3.qld	overseas tobacco sales sales tax	0.2965
+345	glove.topn3	overseas tobacco sales abroad elsewhere cigarette cigarettes retail selling	0.2849
+345	glove.topn3.replace	abroad elsewhere cigarette cigarettes retail selling	0.2733
+346	-1	Educational Standards	0.1869
+346	conceptnet.topn3	educational standards school	0.2713
+346	conceptnet.topn3.replace	school standards	0.2226
+346	relevancefeedback.topn10.bm25	educational standards hungarian class admiss educ children standard x stonehil test railroad	0.1878
+347	-1	Wildlife Extinction	0.1563
+347	tagmee.topn3	wildlife extinction Wildlife Quaternary extinction event	0.1662
+347	wordnet.topn3.replace	wildlife experimental extinction extermination	0.1642
+348	-1	Agoraphobia	0.9068
+349	-1	Metabolism	0.3448
+350	-1	Health and Computer Terminals	0.2143
+351	-1	Falkland petroleum exploration	0.5303
+351	relevancefeedback.topn10.bm25	falkland petroleum exploration island oil argentina ga	0.7521
+351	wiki.topn3.replace	falkland islands list falkland islands related topics index falkland islands related articles falkland islands glassforming liquids melts oil natural gas petroleum extraction petroleum tight oil oil place hydrocarbon exploration	0.729
+351	relevancefeedback.topn10.qld	falkland petroleum exploration island argentina oil dollar ga	0.7198
+351	wiki.topn3	falkland petroleum exploration falkland islands list falkland islands related topics index falkland islands related articles falkland islands glassforming liquids melts oil natural gas petroleum extraction petroleum tight oil oil place hydrocarbon exploration	0.714
+351	anchor.topn3.replace	okino tori shima dispute post war malvinas falkland shahne petroleum oil exploration	0.6822
+351	conceptluster.topn5.3.bm25	falkland petroleum exploration falkland islands hydrocarbon exploration petroleum	0.6417
+351	conceptluster.topn5.3.qld	falkland petroleum exploration falkland islands hydrocarbon exploration petroleum	0.6417
+351	tagmee.topn3	falkland petroleum exploration Falkland Islands Petroleum Hydrocarbon exploration	0.6417
+351	anchor.topn3	falkland petroleum exploration okino tori shima dispute post war malvinas falkland shahne petroleum oil	0.6408
+351	tagmee.topn3.replace	Falkland Islands Petroleum Hydrocarbon exploration	0.6248
+352	-1	British Chunnel impact	0.1282
+352	relevancefeedback.topn10.qld	british chunnel impact tunnel i freight govern ha de hous project	0.2879
+352	wordnet.topn3	british chunnel impact British people Brits Channel Tunnel affect touch bear on	0.2765
+352	relevancefeedback.topn10.bm25	british chunnel impact tunnel freight project life govern have telex i dollar	0.269
+352	wordnet.topn3.replace	British people Brits Channel Tunnel affect touch bear on	0.2466
+353	-1	Antarctica exploration	0.4228
+353	stem.paicehusk	antarctic expl	0.4963
+353	stem.lovins	antarctic explor	0.4572
+353	glove.topn3	antarctica exploration antarctic greenland	0.4571
+353	word2vec.topn3.replace	antarctic antartica antartic exploratory	0.4477
+354	-1	journalist risks	0.0584
+354	anchor.topn3	journalist risks wrigley mil faj journalists	0.0881
+354	glove.topn3	journalist risks reporter photographer dangers	0.0818
+355	-1	ocean remote sensing	0.3238
+355	relevancefeedback.topn10.bm25	ocean remote sensing satellit studi observ develop m system research stone	0.5167
+355	relevancefeedback.topn10.qld	ocean remote sensing satellit observ research expens studi system technolog feinstein	0.5011
+356	-1	postmenopausal estrogen Britain	0.0665
+356	word2vec.topn3.replace	post menopausal premenopausal pre menopausal oestrogen progesterone britian Britian british	0.3833
+356	glove.topn3.replace	premenopausal post menopausal progesterone hormone british uk	0.3174
+356	word2vec.topn3	postmenopausal estrogen britain post menopausal premenopausal pre menopausal oestrogen progesterone britian Britian british	0.2675
+356	glove.topn3	postmenopausal estrogen britain premenopausal post menopausal progesterone hormone british uk	0.2535
+356	tagmee.topn3.replace	Menopause Estrogen	0.2416
+356	wiki.topn3.replace	endometriosis hormontherapy fragilx syndrome menopause hormones brain androgen receptor follicle stimulating hormone estrogen	0.2353
+356	conceptluster.topn5.3.bm25	postmenopausal estrogen britain estrogen menopause	0.2245
+356	conceptluster.topn5.3.qld	postmenopausal estrogen britain estrogen menopause	0.2245
+356	tagmee.topn3	postmenopausal estrogen britain Menopause Estrogen	0.2245
+356	wiki.topn3	postmenopausal estrogen britain endometriosis hormontherapy fragilx syndrome menopause hormones brain androgen receptor follicle stimulating hormone estrogen	0.1953
+356	relevancefeedback.topn10.bm25	postmenopausal estrogen britain women calcium medic treatment	0.1449
+356	relevancefeedback.topn10.qld	postmenopausal estrogen britain women calcium medic treatment mr	0.1439
+356	bertqe.topn10.bm25	studi sai calcium supplement mai	0.0771
+356	bertqe.topn10.qld	studi sai calcium supplement mai	0.0771
+356	stem.porter	postmenopaus estrogen britain	0.0681
+356	stem.porter2	postmenopaus estrogen britain	0.0681
+357	-1	territorial waters dispute	0.2927
+358	-1	blood-alcohol fatalities	0.4478
+358	tagmee.topn3.replace	Blood alcohol content Death	0.605
+358	wordnet.topn3.replace	blood alcohol human death	0.585
+358	conceptluster.topn5.3.bm25	blood alcohol fatalities blood alcohol content death	0.5348
+358	conceptluster.topn5.3.qld	blood alcohol fatalities blood alcohol content death	0.5348
+358	tagmee.topn3	blood alcohol fatalities Blood alcohol content Death	0.5348
+358	wiki.topn3	blood alcohol fatalities corporattitle driving thinfluence amway blood alcohol content life senescence disease death	0.5202
+358	wiki.topn3.replace	corporattitle driving thinfluence amway blood alcohol content life senescence disease death	0.4951
+358	word2vec.topn3	blood alcohol fatalities breath alcohol BrAC deaths casualties	0.4589
+359	-1	mutual fund predictors	0.1173
+359	conceptluster.topn5.3.bm25	mutual fund predictors mutual fund	0.1437
+359	conceptluster.topn5.3.qld	mutual fund predictors mutual fund	0.1437
+359	tagmee.topn3	mutual fund predictors Mutual fund	0.1437
+359	tagmee.topn3.replace	Mutual fund	0.1437
+359	wiki.topn3	mutual fund predictors fixed income assets management exchange traded fund mutual fund	0.1364
+360	-1	drug legalization benefits	0.1964
+360	stem.trunc5	drug legal benef	0.4361
+360	word2vec.topn3	drug legalization benefits narcotics legalisation decriminalization advantages detriments	0.3432
+360	wordnet.topn3	drug legalization benefits dose do drugs legitimation legalisation do good welfare gain	0.3191
+360	glove.topn3	drug legalization benefits trafficking decriminalization moreover	0.3142
+360	word2vec.topn3.replace	narcotics legalisation decriminalization advantages detriments	0.2883
+360	conceptluster.topn5.3.bm25	drug legalization benefits drug liberalization welfare	0.2859
+360	conceptluster.topn5.3.qld	drug legalization benefits drug liberalization welfare	0.2859
+360	tagmee.topn3	drug legalization benefits Drug liberalization Welfare	0.2859
+360	glove.topn3.replace	trafficking decriminalization moreover	0.2508
+360	wordnet.topn3.replace	dose do drugs legitimation legalisation do good welfare gain	0.2077
+361	-1	clothing sweatshops	0.5154
+361	word2vec.topn3	clothing sweatshops apparel garments sweat shops	0.6766
+361	conceptnet.topn3.replace	the closet dress a person sweatshops	0.6376
+361	relevancefeedback.topn10.bm25	clothing sweatshops labor said cloth home our bill sew	0.6356
+361	relevancefeedback.topn10.qld	clothing sweatshops labor said cloth sew home bill our	0.6356
+361	wiki.topn3	clothing sweatshops footwear fashion accessory sewing clothing big business exploitation rent control sweatshop	0.6273
+361	wiki.topn3.replace	footwear fashion accessory sewing clothing big business exploitation rent control sweatshop	0.5889
+361	conceptnet.topn3	clothing sweatshops the closet dress a person	0.5521
+361	sensedisambiguation	clothing sweatshops sweatshop	0.5205
+362	-1	human smuggling	0.206
+362	word2vec.topn3	human smuggling non human nonhuman smugglers smuggler	0.3701
+362	word2vec.topn3.replace	non human nonhuman smugglers smuggler	0.328
+362	relevancefeedback.topn10.bm25	human smuggling peru polic have cuban smuggler x iraq fujian from case	0.2678
+362	conceptnet.topn3	human smuggling body smuggler	0.2619
+362	conceptluster.topn5.3.bm25	human smuggling people smuggling	0.2347
+362	conceptluster.topn5.3.qld	human smuggling people smuggling	0.2347
+362	tagmee.topn3	human smuggling People smuggling	0.2347
+362	glove.topn3	human smuggling rights beings trafficking smugglers	0.2239
+362	sensedisambiguation	human smuggling smuggle	0.2181
+363	-1	transportation tunnel disasters	0.0904
+363	sensedisambiguation.replace	transportation system tunnel disaster	0.114
+364	-1	rabies	0.8024
+365	-1	El Nino	0.7619
+366	-1	commercial cyanide uses	0.5668
+367	-1	piracy	0.1046
+368	-1	in vitro fertilization	0.5288
+368	relevancefeedback.topn10.qld	in vitro fertilization center fertil he she york have david sai embryo said	0.6327
+368	anchor.topn3.replace	vitro oocyte fertilisation embryo fertilization	0.6315
+368	relevancefeedback.topn10.bm25	in vitro fertilization david fertil he center egg york davi hertig kit	0.6115
+368	anchor.topn3	vitro fertilization vitro oocyte fertilisation embryo	0.6028
+368	wiki.topn3	vitro fertilization vasectomy ectopic pregnancy sudden infant death syndrome vitro fertilisation	0.5664
+368	glove.topn3	vitro fertilization fertilization ivf vitro fertilisation	0.55
+369	-1	anorexia nervosa bulimia	0.5514
+369	conceptnet.topn3	anorexia nervosa bulimia an eating disorder eating disorder	0.8396
+369	conceptnet.topn3.replace	an eating disorder eating disorder nervosa bulimia	0.825
+369	wiki.topn3	anorexia nervosa bulimia anorexia nervosa eating disorder major depressivdisorder anorexia nervosa eating disorder bingeating oophorectomy bulimia nervosa	0.7499
+369	wiki.topn3.replace	anorexia nervosa eating disorder major depressivdisorder anorexia nervosa eating disorder bingeating oophorectomy bulimia nervosa	0.7449
+369	wordnet.topn3	anorexia nervosa bulimia binge eating syndrome	0.6295
+369	word2vec.topn3	anorexia nervosa bulimia bulimia anorexic Orthorexia Anorexia orthorexia anorexia bulimic	0.5805
+369	conceptluster.topn5.3.bm25	anorexia nervosa bulimia bulimia nervosa anorexia nervosa	0.558
+369	conceptluster.topn5.3.qld	anorexia nervosa bulimia bulimia nervosa anorexia nervosa	0.558
+369	tagmee.topn3	anorexia nervosa bulimia Anorexia nervosa Bulimia nervosa	0.558
+369	tagmee.topn3.replace	Anorexia nervosa Bulimia nervosa	0.557
+370	-1	food/drug laws	0.0337
+370	glove.topn3.replace	food drug regulations	0.0838
+370	wiki.topn3	food drug laws foods cuisine meat food marihuana tax act buprenorphine purfood drug act prohibition drugs	0.0633
+370	glove.topn3	food drug laws regulations	0.0625
+370	wiki.topn3.replace	foods cuisine meat food marihuana tax act buprenorphine purfood drug act prohibition drugs	0.0541
+370	word2vec.topn3.replace	food drug statutes regulations	0.0511
+370	conceptluster.topn5.3.bm25	food drug laws prohibition drugs food	0.0475
+370	conceptluster.topn5.3.qld	food drug laws prohibition drugs food	0.0475
+370	tagmee.topn3	food drug laws Food Prohibition of drugs	0.0475
+370	relevancefeedback.topn10.qld	food drug laws drug object calori crimin said discount nation index	0.0406
+371	-1	health insurance holistic	0.0
+371	word2vec.topn3	health insurance holistic well being wellbeing nutrition premiums wholistic integrative	0.0485
+371	wiki.topn3	health insurance holistic health insurance types insurance medicar united states health insurance integrativmedicine mindfulness based stress reduction psychiatric times holistic health	0.0348
+371	wiki.topn3.replace	health insurance types insurance medicar united states health insurance integrativmedicine mindfulness based stress reduction psychiatric times holistic health	0.0348
+371	wordnet.topn3	health insurance holistic wellness indemnity insurance policy policy	0.0318
+371	sensedisambiguation	health insurance policy holistic	0.0276
+371	conceptnet.topn3	health insurance holistic eating vegetables a mineral maintaining muscle strength expensive health insurance	0.0274
+371	relevancefeedback.topn10.bm25	health insurance holistic you trade group alvarez he ab	0.0247
+372	-1	Native American casino	0.2904
+372	conceptnet.topn3.replace	indian chief person dollar casino	0.5899
+372	conceptnet.topn3	native american casino indian chief person dollar	0.5159
+372	relevancefeedback.topn10.qld	native american casino indian market dollar pequot new deauvil	0.5052
+372	relevancefeedback.topn10.bm25	native american casino indian dollar pequot eea alcohol who	0.4532
+372	glove.topn3	native american casino u s gambling	0.3628
+373	-1	encryption equipment export	0.3178
+373	stem.lovins	encrypt equipm export	0.3378
+374	-1	Nobel prize winners	0.2025
+374	tagmee.topn3.replace	Nobel Prize	0.3698
+374	stem.trunc5	nobel prize winne	0.3695
+374	wiki.topn3	nobel prize winners awards established nobel prizin physics maricurie nobel prize	0.36
+374	wiki.topn3.replace	awards established nobel prizin physics maricurie nobel prize	0.3554
+374	glove.topn3	nobel prize winners laureate prize nobel finalists	0.3145
+374	conceptluster.topn5.3.bm25	nobel prize winners nobel prize	0.2926
+374	conceptluster.topn5.3.qld	nobel prize winners nobel prize	0.2926
+374	tagmee.topn3	nobel prize winners Nobel Prize	0.2926
+374	conceptnet.topn3	nobel prize winners Alfred Bernhard Nobel nobelist reward happy	0.292
+374	wordnet.topn3	nobel prize winners Alfred Bernhard Nobel Alfred Nobel lever loot appreciate succeeder achiever	0.2804
+374	relevancefeedback.topn10.qld	nobel prize winners diet award de juli ca clock	0.2791
+374	relevancefeedback.topn10.bm25	nobel prize winners diet award cern hi ca	0.2719
+374	glove.topn3.replace	laureate prize nobel finalists	0.2624
+374	anchor.topn3	nobel prize winners nobel exaucé starodubka friedebert sødringsk	0.2532
+374	stem.paicehusk	nobel priz win	0.2174
+375	-1	hydrogen energy	0.3653
+375	word2vec.topn3	hydrogen energy helium deuterium enery	0.5251
+375	relevancefeedback.topn10.bm25	hydrogen energy energi fuel research gener batteri	0.3824
+375	conceptnet.topn3	hydrogen energy an element water Exercising power heat	0.3667
+376	-1	World Court	0.0981
+376	conceptluster.topn5.3.bm25	world court international court justice	0.2184
+376	conceptluster.topn5.3.qld	world court international court justice	0.2184
+376	tagmee.topn3	world court International Court of Justice	0.2184
+376	tagmee.topn3.replace	International Court of Justice	0.1837
+376	wiki.topn3	world court international court justice international law international criminal court international court justice	0.1269
+377	-1	cigar smoking	0.5449
+377	stem.lovins	cigar smok	0.6012
+377	wiki.topn3	cigar smoking cigars cigarette quaker oats company cigar addiction habits tobacco smoking smoking	0.5666
+378	-1	euro opposition	0.0149
+378	wiki.topn3	euro opposition currencies caribbean symbols european union economics euro election boycott clientelism electoral list opposition politics	0.1594
+378	glove.topn3	euro opposition currency european supporters opponents	0.1554
+378	wiki.topn3.replace	currencies caribbean symbols european union economics euro election boycott clientelism electoral list opposition politics	0.1467
+378	glove.topn3.replace	currency european supporters opponents	0.0978
+378	relevancefeedback.topn10.qld	euro opposition direct incom dollar vote state	0.0646
+378	conceptnet.topn3	euro opposition europe against tertium quid	0.0606
+378	word2vec.topn3	euro opposition opponents	0.0541
+378	wordnet.topn3	euro opposition opponent	0.0541
+378	word2vec.topn3.replace	euro opponents	0.0446
+378	wordnet.topn3.replace	euro opponent	0.0446
+378	tagmee.topn3.replace	Euro Opposition politics	0.0335
+378	conceptluster.topn5.3.bm25	euro opposition opposition politics euro	0.0241
+378	conceptluster.topn5.3.qld	euro opposition opposition politics euro	0.0241
+378	tagmee.topn3	euro opposition Euro Opposition politics	0.0241
+378	relevancefeedback.topn10.bm25	euro opposition govern labour region export disnei deal mp citi	0.0165
+379	-1	mainstreaming	0.1962
+380	-1	obesity medical treatment	0.4656
+380	conceptluster.topn5.3.bm25	obesity medical treatment therapy obesity	0.6769
+380	conceptluster.topn5.3.qld	obesity medical treatment obesity therapy	0.6769
+380	tagmee.topn3	obesity medical treatment Obesity Therapy	0.6769
+380	anchor.topn3.replace	obesity zéphire prehistoriqu infirmièr tretman poseban treatment	0.6705
+380	tagmee.topn3.replace	Obesity Therapy	0.6274
+380	relevancefeedback.topn10.bm25	obesity medical treatment plan drug diet children clinic obes weight exercis healthcar cent	0.6079
+380	word2vec.topn3	obesity medical treatment obesity related non medical medicine treament treatement	0.5457
+380	relevancefeedback.topn10.qld	obesity medical treatment diet healthcar drug plan clinic weight cholesterol children have	0.5352
+380	wiki.topn3	obesity medical treatment bariatrics overweight body shape obesity diagnosis hyperkinetic disorder symptom therapy	0.4731
+381	-1	alternative medicine	0.1839
+381	wiki.topn3.replace	holistic health homeopathy alternative traditional medicine journals alternative medicine	0.2843
+381	wiki.topn3	alternative medicine holistic health homeopathy alternative traditional medicine journals alternative medicine	0.2681
+381	word2vec.topn3	alternative medicine medical	0.2296
+382	-1	hydrogen fuel automobiles	0.7232
+382	conceptluster.topn5.3.bm25	hydrogen fuel automobiles hydrogen vehicle car	0.7701
+382	conceptluster.topn5.3.qld	hydrogen fuel automobiles hydrogen vehicle car	0.7701
+382	tagmee.topn3	hydrogen fuel automobiles Hydrogen vehicle Hydrogen vehicle Car	0.7264
+382	sensedisambiguation	hydrogen fuel automobiles car	0.726
+382	wiki.topn3	hydrogen fuel automobiles hydrogen vehicles fuel efficiency green car congress hydrogen vehicle hydrogen vehicles fuel efficiency green car congress hydrogen vehicle wheeled vehicles automobiles assembly line car	0.725
+382	relevancefeedback.topn10.qld	hydrogen fuel automobiles cell vehicl research batteri launch energi	0.7237
+383	-1	mental illness drugs	0.0837
+383	conceptluster.topn5.3.bm25	mental illness drugs psychoactive drug mental disorder	0.1239
+383	conceptluster.topn5.3.qld	mental illness drugs psychoactive drug mental disorder	0.1239
+383	tagmee.topn3	mental illness drugs Mental disorder Psychoactive drug	0.1239
+383	wiki.topn3	mental illness drugs mania personality disorder psychosis mental disorder opiate empathogen entactogen antidepressant psychoactive drug	0.1226
+383	relevancefeedback.topn10.qld	mental illness drugs patient said program research we drug	0.1181
+383	sensedisambiguation	mental illness drugs drug	0.1141
+383	wordnet.topn3	mental illness drugs genial sickness unwellness do drugs dose	0.1137
+383	relevancefeedback.topn10.bm25	mental illness drugs patient said cent program research trupp drug	0.1119
+383	wiki.topn3.replace	mania personality disorder psychosis mental disorder opiate empathogen entactogen antidepressant psychoactive drug	0.1046
+383	glove.topn3	mental illness drugs physical psychiatric suffering medications	0.1007
+383	tagmee.topn3.replace	Mental disorder Psychoactive drug	0.096
+384	-1	space station moon	0.3348
+385	-1	hybrid fuel cars	0.4636
+385	relevancefeedback.topn10.bm25	hybrid fuel cars hydrogen engin electr cm car daimler drive seed batteri research	0.6303
+385	relevancefeedback.topn10.qld	hybrid fuel cars cm vehicl technolog car hydrogen batteri seed engin	0.6173
+385	tagmee.topn3.replace	Hybrid vehicle Fuel Car	0.5404
+385	conceptluster.topn5.3.bm25	hybrid fuel cars fuel car hybrid vehicle	0.5316
+385	conceptluster.topn5.3.qld	hybrid fuel cars hybrid vehicle car fuel	0.5316
+385	tagmee.topn3	hybrid fuel cars Hybrid vehicle Fuel Car	0.5316
+385	word2vec.topn3	hybrid fuel cars non hybrid gasoline automobiles vehicles	0.5056
+385	wiki.topn3	hybrid fuel cars powertrain ac propulsion automotivaerodynamics hybrid vehicle lubricant hydrocarbon biogas fuel wheeled vehicles automobiles assembly line car	0.4828
+385	sensedisambiguation	hybrid fuel cars car	0.4728
+386	-1	teaching disabled children	0.1252
+386	relevancefeedback.topn10.qld	teaching disabled children us center school program he lesson learn music	0.2859
+386	wordnet.topn3	teaching disabled children learn education incapacitate handicapped fry youngster baby	0.2836
+386	wordnet.topn3.replace	learn education incapacitate handicapped fry youngster baby	0.2799
+386	wiki.topn3	teaching disabled children knowledge sharing philosophy education education education advocacy special needs learning disability disability childhood adoption overweight child	0.1902
+386	word2vec.topn3	teaching disabled children learning instruction handicapped kids adults parents	0.1704
+386	relevancefeedback.topn10.bm25	teaching disabled children center buckei orang he barsch protest school learn read music	0.165
+386	conceptluster.topn5.3.bm25	teaching disabled children education disability child	0.1576
+386	conceptluster.topn5.3.qld	teaching disabled children education disability child	0.1576
+386	tagmee.topn3	teaching disabled children Education Disability Child	0.1576
+386	wiki.topn3.replace	knowledge sharing philosophy education education education advocacy special needs learning disability disability childhood adoption overweight child	0.1556
+386	word2vec.topn3.replace	learning instruction handicapped kids adults parents	0.1352
+387	-1	radioactive waste	0.2274
+388	-1	organic soil enhancement	0.1132
+388	wordnet.topn3	organic soil enhancement organic fertilizer constitutional constitutive land bemire filth sweetening	0.1659
+388	stem.trunc5	organ soil enhan	0.1575
+388	glove.topn3	organic soil enhancement inorganic produce surface	0.147
+388	conceptluster.topn5.3.bm25	organic soil enhancement soil	0.1392
+388	conceptluster.topn5.3.qld	organic soil enhancement soil	0.1392
+388	tagmee.topn3	organic soil enhancement Soil Soil	0.1276
+389	-1	illegal technology transfer	0.0935
+389	stem.paicehusk	illeg technolog transf	0.1095
+390	-1	orphan drugs	0.1861
+390	relevancefeedback.topn10.qld	orphan drugs drug research aid amgen joe	0.536
+390	relevancefeedback.topn10.bm25	orphan drugs joe drug market aid children	0.277
+390	wordnet.topn3	orphan drugs do drugs dose	0.2364
+390	wordnet.topn3.replace	orphan do drugs dose	0.2272
+390	sensedisambiguation	orphan drugs drug	0.2055
+390	glove.topn3	orphan drugs medications	0.1996
+390	word2vec.topn3	orphan drugs medications	0.1996
+390	wiki.topn3	orphan drugs pantoprazole proteasinhibitor pharmacology ambrisentan orphan drug	0.1918
+391	-1	R&D drug prices	0.3673
+391	conceptluster.topn5.3.bm25	r drug prices research development pharmaceutical drug price	0.5144
+391	conceptluster.topn5.3.qld	r drug prices pharmaceutical drug research development price	0.5144
+391	tagmee.topn3	r drug prices Research and development Pharmaceutical drug Price	0.5144
+391	tagmee.topn3.replace	Research and development Pharmaceutical drug Price	0.4892
+391	wiki.topn3	r drug prices research development quality assurance microelectronics research development musclrelaxant bupropion paracetamol pharmaceutical drug demand markup business marginal cost price	0.4764
+391	termluster.topn5.3.bm25	r drug prices	0.3905
+391	termluster.topn5.3.qld	r drug prices	0.3905
+391	thesaurus.topn3	r drug prices	0.3905
+391	thesaurus.topn3.replace	r drug prices	0.3905
+391	sensedisambiguation	R roentgen D drug prices price	0.3685
+392	-1	robotics	0.5104
+393	-1	mercy killing	0.2064
+393	wiki.topn3	mercy killing suicide types terminal illness eugenics euthanasia	0.3856
+393	wiki.topn3.replace	suicide types terminal illness eugenics euthanasia	0.3321
+393	conceptluster.topn5.3.bm25	mercy killing euthanasia	0.3196
+393	conceptluster.topn5.3.qld	mercy killing euthanasia	0.3196
+393	tagmee.topn3	mercy killing Euthanasia	0.3196
+393	tagmee.topn3.replace	Euthanasia	0.2805
+394	-1	home schooling	0.0797
+395	-1	tourism	0.1378
+395	word2vec.topn3	tourism tourist tourism related	0.1592
+395	glove.topn3.replace	tourist industry	0.1578
+395	glove.topn3	tourism tourist industry	0.1524
+395	word2vec.topn3.replace	tourist tourism related	0.1435
+396	-1	sick building syndrome	0.2999
+396	wiki.topn3	sick building syndrome green cleaning greenguard environmental institute biomedical waste sick building syndrome	0.3255
+396	sensedisambiguation	sick building construction syndrome	0.3195
+397	-1	automobile recalls	0.0659
+397	conceptnet.topn3.replace	car recalls	0.7193
+397	sensedisambiguation.replace	car recall	0.7193
+397	sensedisambiguation	automobile car recalls recall	0.5638
+397	glove.topn3.replace	auto recalls	0.2949
+397	stem.paicehusk	automobl recal	0.1834
+397	glove.topn3	automobile recalls auto	0.0937
+397	conceptnet.topn3	automobile recalls car	0.0786
+398	-1	dismantling Europe's arsenal	0.0868
+398	word2vec.topn3	dismantling europe s arsenal demolishing germany european europe s of s s armoury weapon	0.1871
+398	stem.trunc5	disma europ s arsen	0.1525
+398	tagmee.topn3.replace	Europe Arsenal	0.1455
+398	wiki.topn3	dismantling europe s arsenal cultural concepts peninsulas asia europe europe armories military arsenals embrasure arsenal	0.1409
+398	sensedisambiguation	dismantling strip Europe european union s arsenal	0.1351
+398	word2vec.topn3.replace	demolishing germany european europe s of s s armoury weapon	0.119
+398	wiki.topn3.replace	cultural concepts peninsulas asia europe europe armories military arsenals embrasure arsenal	0.1149
+398	tagmee.topn3	dismantling europe s arsenal Europe Arsenal	0.1093
+398	sensedisambiguation.replace	strip european union s arsenal	0.1083
+398	conceptnet.topn3	dismantling europe s arsenal a kingdom continent a castle armoury	0.0952
+399	-1	oceanographic vessels	0.2946
+399	conceptnet.topn3	oceanographic vessels ocean	0.3286
+400	-1	Amazon rain forest	0.4859
+400	conceptluster.topn5.3.bm25	amazon rain forest amazon rainforest	0.5594
+400	conceptluster.topn5.3.qld	amazon rain forest amazon rainforest	0.5594
+400	tagmee.topn3	amazon rain forest Amazon rainforest	0.5594
+400	glove.topn3	amazon rain forest amazonian amazon com downpour woodland	0.5288
+400	word2vec.topn3	amazon rain forest amazon com downpour forestry woods	0.5255
+400	relevancefeedback.topn10.qld	amazon rain forest have mend club debt	0.5159
+400	wiki.topn3	amazon rain forest natural history ecuador forestry south america natural history peru amazon rainforest	0.5154
+400	conceptnet.topn3.replace	amazon water drop forest	0.5138
+401	-1	foreign minorities, Germany	0.0777
+402	-1	behavioral genetics	0.2505
+402	wiki.topn3	behavioral genetics behavior genetics association eysenck personality questionnaire evolutionary developmental psychology behavioural genetics	0.3377
+402	wiki.topn3.replace	behavior genetics association eysenck personality questionnaire evolutionary developmental psychology behavioural genetics	0.3125
+402	relevancefeedback.topn10.qld	behavioral genetics studi on research meat i dog schizophrenia he diseas test	0.3029
+402	conceptluster.topn5.3.bm25	behavioral genetics behavioural genetics	0.2697
+402	conceptluster.topn5.3.qld	behavioral genetics behavioural genetics	0.2697
+402	tagmee.topn3	behavioral genetics Behavioural genetics	0.2697
+403	-1	osteoporosis	0.661
+403	relevancefeedback.topn10.qld	osteoporosis bone fractur decemb	0.6868
+403	relevancefeedback.topn10.bm25	osteoporosis bone fractur daughter risk hrt studi women safeguard	0.6733
+404	-1	Ireland, peace talks	0.1501
+404	anchor.topn3	ireland peace talks killeevi donaghcump i	0.2002
+404	sensedisambiguation	Ireland peace talks talk	0.1575
+405	-1	cosmic events	0.1929
+405	word2vec.topn3	cosmic events galactic celestial happenings	0.2321
+405	wordnet.topn3.replace	cosmic upshot issue result	0.2286
+405	relevancefeedback.topn10.bm25	cosmic events energi univers particl radiat space earth yard	0.2016
+406	-1	Parkinson's disease	0.69
+406	relevancefeedback.topn10.bm25	parkinson s disease brain research parkinson cell ban diseas i he	0.834
+406	relevancefeedback.topn10.qld	parkinson s disease parkinson diseas brain he i abort cell drug	0.8167
+407	-1	poaching, wildlife preserves	0.4172
+407	relevancefeedback.topn10.qld	poaching wildlife preserves wildlif eleph tiger have fish campfir mr phinda ivori	0.4705
+407	relevancefeedback.topn10.bm25	poaching wildlife preserves wildlif mr eleph campfir protect forc arrest tiger ivori fish	0.4566
+407	glove.topn3	poaching wildlife preserves poachers shmahn conservation wetlands	0.4398
+407	conceptluster.topn5.3.bm25	poaching wildlife preserves wildlife food preservation poaching cooking	0.4302
+407	conceptluster.topn5.3.qld	poaching wildlife preserves wildlife poaching cooking food preservation	0.4302
+407	tagmee.topn3	poaching wildlife preserves Poaching cooking Wildlife Food preservation	0.4302
+408	-1	tropical storms	0.2473
+408	glove.topn3	tropical storms storm cyclone floods	0.3321
+408	relevancefeedback.topn10.bm25	tropical storms storm hurrican tropic louisiana	0.3216
+408	word2vec.topn3	tropical storms subtropical hurricanes cyclones	0.309
+408	word2vec.topn3.replace	subtropical hurricanes cyclones	0.302
+408	bertqe.topn10.bm25	out sea tropic storm klau	0.2863
+408	glove.topn3.replace	storm cyclone floods	0.2785
+408	sensedisambiguation	tropical storms storm	0.2651
+408	conceptluster.topn5.3.bm25	tropical storms tropical cyclone	0.2563
+408	conceptluster.topn5.3.qld	tropical storms tropical cyclone	0.2563
+409	-1	legal, Pan Am, 103	0.2795
+409	rm3.topn10.10.0.5.bm25	legal, Pan Am, 103	0.4161
+409	rm3.topn10.10.0.5.qld	legal, Pan Am, 103	0.4161
+410	-1	Schengen agreement	0.9459
+411	-1	salvaging, shipwreck, treasure	0.4451
+411	wordnet.topn3	salvaging shipwreck treasure scavenge relieve save wreck value gem hoarded wealth	0.475
+412	-1	airport security	0.4362
+413	-1	steel production	0.1188
+413	tagmee.topn3.replace	Steel Steel	0.2333
+413	stem.trunc5	steel produ	0.2081
+413	tagmee.topn3	steel production Steel Steel	0.1688
+413	conceptluster.topn5.3.bm25	steel production steel	0.1341
+413	conceptluster.topn5.3.qld	steel production steel	0.1341
+413	stem.lovins	steel produc	0.1316
+413	stem.paicehusk	steel produc	0.1316
+414	-1	Cuba, sugar, exports	0.4941
+414	wordnet.topn3	cuba sugar exports Republic of Cuba loot bread	0.5348
+414	stem.trunc5	cuba sugar expor	0.5012
+415	-1	drugs, Golden Triangle	0.4272
+415	relevancefeedback.topn10.qld	drugs golden triangle said fundamentalist drug heroin sa	0.546
+416	-1	Three Gorges Project	0.5569
+416	relevancefeedback.topn10.qld	three gorges project li area capac dig gener gorg	0.6436
+416	anchor.topn3	three gorges project thr two ringz pr publeak aquen	0.5802
+417	-1	creativity	0.4366
+418	-1	quilts, income	0.4374
+418	sensedisambiguation	quilts quilt income	0.4462
+418	conceptnet.topn3.replace	quilts tax profit	0.4458
+418	word2vec.topn3.replace	quilts earnings	0.4437
+419	-1	recycle, automobile tires	0.1466
+419	word2vec.topn3.replace	recycle car tyres	0.4379
+419	word2vec.topn3	recycle automobile tires car tyres	0.2765
+419	wordnet.topn3	recycle automobile tires reuse reprocess machine auto tyre wear out wear	0.2611
+419	glove.topn3	recycle automobile tires reuse auto tyres	0.2125
+419	relevancefeedback.topn10.qld	recycle automobile tires tire recycl renault electr car batteri bill wast	0.2117
+419	wiki.topn3	recycle automobile tires waste management concepts environmental health recycling recycling wheeled vehicles automobiles assembly line car truck chassis vehicle tire	0.1796
+419	sensedisambiguation	recycle automobile car tires tire	0.1682
+419	glove.topn3.replace	reuse auto tyres	0.1518
+420	-1	carbon monoxide poisoning	0.6868
+420	conceptnet.topn3	carbon monoxide poisoning an element physiological state	0.7059
+420	sensedisambiguation.replace	carbon paper monoxide poisoning	0.688
+421	-1	industrial waste disposal	0.0971
+421	stem.porter	industri wast dispos	0.1979
+421	stem.porter2	industri wast dispos	0.1979
+421	glove.topn3	industrial waste disposal manufacturing disposal waste	0.1734
+421	tagmee.topn3.replace	Industrial waste Waste management	0.1469
+421	stem.lovins	industr wast dispos	0.1467
+421	wiki.topn3	industrial waste disposal surfacwater wasttreatment list wasttypes industrial waste landfill landfill gas water treatment waste management	0.1388
+421	glove.topn3.replace	manufacturing disposal waste	0.1366
+421	wiki.topn3.replace	surfacwater wasttreatment list wasttypes industrial waste landfill landfill gas water treatment waste management	0.1244
+421	conceptluster.topn5.3.bm25	industrial waste disposal waste management industrial waste	0.1168
+421	conceptluster.topn5.3.qld	industrial waste disposal industrial waste waste management	0.1168
+421	tagmee.topn3	industrial waste disposal Industrial waste Waste management	0.1168
+421	word2vec.topn3	industrial waste disposal agricultural non industrial waster waste	0.1162
+421	stem.paicehusk	indust wast dispos	0.1127
+421	bertqe.topn10.bm25	among repres industri wast manag	0.1123
+421	relevancefeedback.topn10.qld	industrial waste disposal compost wast nuclear recycl been materi water paper	0.11
+422	-1	art, stolen, forged	0.4123
+422	conceptluster.topn5.3.bm25	art stolen forged forgery art art theft	0.5356
+422	conceptluster.topn5.3.qld	art stolen forged art theft forgery art	0.5356
+422	tagmee.topn3	art stolen forged Art Art theft Forgery	0.5356
+422	conceptnet.topn3.replace	painting paint paintings stolen forged	0.4959
+422	conceptnet.topn3	art stolen forged painting paint paintings	0.4598
+422	tagmee.topn3.replace	Art Art theft Forgery	0.4545
+423	-1	Milosevic, Mirjana Markovic	0.7777
+424	-1	suicides	0.1503
+424	word2vec.topn3.replace	murder suicides	0.2813
+424	word2vec.topn3	suicides murder suicides	0.2665
+424	glove.topn3	suicides homicides deaths	0.1796
+425	-1	counterfeiting money	0.4447
+425	sensedisambiguation	counterfeiting forge money	0.4696
+425	wiki.topn3	counterfeiting money counterfeit money counterfeit money forgery counterfeit money counterfeit money counterfeit money forgery counterfeit money	0.4535
+425	wiki.topn3.replace	counterfeit money counterfeit money forgery counterfeit money counterfeit money counterfeit money forgery counterfeit money	0.4489
+426	-1	law enforcement, dogs	0.1406
+426	tagmee.topn3.replace	Police Police dog	0.3457
+426	conceptluster.topn5.3.bm25	law enforcement dogs police police dog	0.2657
+426	conceptluster.topn5.3.qld	law enforcement dogs police police dog	0.2657
+426	tagmee.topn3	law enforcement dogs Police Police dog	0.2657
+426	relevancefeedback.topn10.qld	law enforcement dogs beach governor dog drug gorbachev committe	0.1586
+426	wordnet.topn3	law enforcement dogs police law of nature jurisprudence dog iron wiener frank	0.1558
+426	relevancefeedback.topn10.bm25	law enforcement dogs beach dog drug citi	0.1529
+426	sensedisambiguation	law police enforcement dogs pawl	0.1463
+427	-1	UV damage, eyes	0.3693
+427	relevancefeedback.topn10.qld	uv damage eyes protect pound ozon star ash america ey characterist	0.5453
+427	sensedisambiguation	UV ultraviolet damage wrong eyes eye	0.4691
+427	relevancefeedback.topn10.bm25	uv damage eyes protect america ozon star characterist pound ash	0.466
+427	sensedisambiguation.replace	ultraviolet wrong eye	0.4422
+427	glove.topn3	uv damage eyes ultraviolet sunlight caused lips	0.441
+427	word2vec.topn3	uv damage eyes ultra violet ultraviolet damange harm ears half shut	0.434
+427	anchor.topn3	uv damage eyes photocycl irradiation ultraviolet	0.4208
+427	wordnet.topn3	uv damage eyes ultraviolet ultraviolet light harm impairment legal injury center	0.4168
+427	conceptluster.topn5.3.bm25	uv damage eyes ultraviolet diabetic retinopathy	0.3988
+427	conceptluster.topn5.3.qld	uv damage eyes diabetic retinopathy ultraviolet	0.3988
+427	tagmee.topn3	uv damage eyes Ultraviolet Diabetic retinopathy	0.3988
+428	-1	declining birth rates	0.3223
+429	-1	Legionnaires' disease	0.6606
+429	conceptnet.topn3.replace	legionnaires disease illness	0.725
+429	glove.topn3	legionnaires disease ooooooooooooooooooooooooooooooooooooooo illness	0.725
+429	conceptnet.topn3	legionnaires disease legionnaires disease illness	0.7015
+429	sensedisambiguation	Legionnaires legionnaire disease	0.6845
+430	-1	killer bee attacks	0.7607
+430	tagmee.topn3.replace	Africanized bee September attacks	0.9007
+430	stem.paicehusk	kil bee attack	0.8981
+430	anchor.topn3	killer bee attacks obrechyonnykh pre retir organized cormansi jongrachatawiboon dahliatown	0.8619
+430	glove.topn3	killer bee attacks murderer gees bombings	0.7924
+430	wiki.topn3	killer bee attacks hybrid animals invasive animal species united states corn snake africanized bee aviation accidents incidents united states crime virginia murders united states september attacks	0.7653
+431	-1	robotic technology	0.5211
+432	-1	profiling, motorists, police	0.0179
+432	wiki.topn3	profiling motorists police findlaw hatcrime mumia abu jamal racial profiling seat belt auto mechanic moped driving publisafety crime prevention law enforcement police	0.0632
+432	tagmee.topn3.replace	Racial profiling Driving Police	0.0572
+432	word2vec.topn3	profiling motorists police pedestrians cops policemen	0.0415
+432	word2vec.topn3.replace	profiling pedestrians cops policemen	0.0409
+432	relevancefeedback.topn10.qld	profiling motorists police percent puls drug genet warden polic i road court citi	0.0407
+432	glove.topn3	profiling motorists police stereotyping k pedestrians drivers officers policemen	0.0381
+432	sensedisambiguation	profiling motorists motorist police	0.0352
+432	conceptnet.topn3	profiling motorists police identification chief	0.024
+432	relevancefeedback.topn10.bm25	profiling motorists police freewai warden said insur checkpoint black deleon speed nunn	0.0218
+432	conceptnet.topn3.replace	identification motorists chief	0.0188
+432	wiki.topn3.replace	findlaw hatcrime mumia abu jamal racial profiling seat belt auto mechanic moped driving publisafety crime prevention law enforcement police	0.0188
+432	wordnet.topn3	profiling motorists police automobilist police force constabulary law	0.0186
+433	-1	Greek, philosophy, stoicism	0.1845
+433	stem.krovetz	greece philosophy stoicism	0.24
+433	stem.trunc5	greek philo stoic	0.2352
+434	-1	Estonia, economy	0.3195
+435	-1	curbing population growth	0.0551
+435	stem.trunc5	curbi popul growt	0.2505
+435	conceptnet.topn3	curbing population growth people number psychosexual development juvenescence	0.144
+435	glove.topn3	curbing population growth curtailing inhabitants slowing increase	0.0697
+435	sensedisambiguation	curbing suppress population growth increase	0.0572
+436	-1	railway accidents	0.1827
+436	conceptnet.topn3	railway accidents railroad happen anytime cause injury happen to anyone	0.2447
+436	glove.topn3	railway accidents rail railroad fatalities	0.2297
+436	sensedisambiguation	railway accidents accident	0.1943
+437	-1	deregulation, gas, electric	0.091
+438	-1	tourism, increase	0.3067
+439	-1	inventions, scientific discoveries	0.0632
+439	tagmee.topn3.replace	Invention Science Discovery observation	0.0661
+440	-1	child labor	0.3615
+440	conceptluster.topn5.3.bm25	child labor child labour	0.3802
+440	conceptluster.topn5.3.qld	child labor child labour	0.3802
+440	tagmee.topn3	child labor Child labour	0.3802
+441	-1	Lyme disease	0.5683
+441	wiki.topn3	lyme disease lyme disease tick borne diseases neurodegenerative disorders lyme disease	0.659
+441	wiki.topn3.replace	lyme disease tick borne diseases neurodegenerative disorders lyme disease	0.6542
+441	relevancefeedback.topn10.qld	lyme disease tick diseas percent arthriti repel blood	0.6404
+441	relevancefeedback.topn10.bm25	lyme disease percent tick diseas arthriti repel were blood	0.6393
+441	word2vec.topn3	lyme disease borreliosis borrelia infection	0.5799
+442	-1	heroic acts	0.0358
+442	glove.topn3.replace	heroism hero such	0.2437
+442	glove.topn3	heroic acts heroism hero such	0.1932
+442	stem.lovins	hero act	0.0832
+442	stem.paicehusk	hero act	0.0832
+442	stem.trunc4	hero acts	0.0832
+442	word2vec.topn3.replace	heroism courageous valiant actions crimes	0.0702
+442	word2vec.topn3	heroic acts heroism courageous valiant actions crimes	0.0635
+442	sensedisambiguation	heroic heroic verse acts act	0.0467
+443	-1	U.S., investment, Africa	0.0486
+443	sensedisambiguation.replace	united states government investment africa	0.29
+443	tagmee.topn3	u s investment africa United States dollar Foreign direct investment Africa	0.2391
+443	rm3.topn10.10.0.5.bm25	U.S., investment, Africa	0.2297
+443	rm3.topn10.10.0.5.qld	U.S., investment, Africa	0.2297
+443	tagmee.topn3.replace	United States dollar Foreign direct investment Africa	0.1764
+443	conceptluster.topn5.3.bm25	u s investment africa united states dollar foreign direct investment	0.166
+443	conceptluster.topn5.3.qld	u s investment africa foreign direct investment united states dollar	0.166
+443	wiki.topn3	u s investment africa introductions currencies kingdom netherlands historical currencies united states united states dollar economic policy international financcorporation capital market foreign direct investment africa asia regions africa africa	0.1447
+443	word2vec.topn3.replace	usa u s american investment african africans africa	0.123
+443	glove.topn3.replace	us u s investment african continent	0.1036
+443	word2vec.topn3	u s investment africa usa u s american african africans africa	0.0875
+443	wiki.topn3.replace	introductions currencies kingdom netherlands historical currencies united states united states dollar economic policy international financcorporation capital market foreign direct investment africa asia regions africa africa	0.0694
+444	-1	supercritical fluids	0.5804
+445	-1	women clergy	0.3194
+445	relevancefeedback.topn10.bm25	women clergy priest pound church which confer clergi magazin synod	0.4629
+446	-1	tourists, violence	0.3033
+446	relevancefeedback.topn10.qld	tourists violence public new violenc st belgian tourist al wing said	0.3351
+447	-1	Stirling engine	0.1618
+447	relevancefeedback.topn10.bm25	stirling engine hi solar commiss group util	0.255
+447	conceptnet.topn3	stirling engine central ashfield motor	0.2324
+448	-1	ship losses	0.0825
+448	glove.topn3	ship losses vessel result	0.1029
+449	-1	antibiotics ineffectiveness	0.1815
+449	relevancefeedback.topn10.bm25	antibiotics ineffectiveness dollar medicin pneumonia administr antibiot aminoglycosid resist score phosphomycin	0.2396
+449	tagmee.topn3.replace	Antibiotics	0.2355
+449	wordnet.topn3	antibiotics ineffectiveness antibiotic drug ineffectuality ineffectualness	0.2188
+449	conceptluster.topn5.3.bm25	antibiotics ineffectiveness antibiotics	0.2012
+449	conceptluster.topn5.3.qld	antibiotics ineffectiveness antibiotics	0.2012
+449	sensedisambiguation	antibiotics antibiotic ineffectiveness	0.2012
+449	tagmee.topn3	antibiotics ineffectiveness Antibiotics	0.2012
+449	conceptnet.topn3	antibiotics ineffectiveness kill bacteria a cabinet	0.1967
+450	-1	King Hussein, peace	0.303
+450	relevancefeedback.topn10.bm25	king hussein peace hussein ha jerusalem peac agreement isra jordan	0.3412
+450	tagmee.topn3.replace	Hussein of Jordan Peace	0.3309
+450	conceptluster.topn5.3.bm25	king hussein peace hussein jordan peace	0.323
+450	conceptluster.topn5.3.qld	king hussein peace peace hussein jordan	0.323
+450	tagmee.topn3	king hussein peace Hussein of Jordan Peace	0.323
+601	-1	Turkey Iraq water	0.6209
+601	wordnet.topn3	turkey iraq water bomb Republic of Turkey Al Iraq Irak irrigate pee water system	0.8908
+601	relevancefeedback.topn10.qld	turkey iraq water arian he turkei we syria project	0.6837
+601	sensedisambiguation	Turkey Iraq water water system	0.64
+602	-1	Czech, Slovak sovereignty	0.3969
+602	stem.lovins	czech slovak sovereignt	0.4412
+603	-1	Tobacco cigarette lawsuit	0.4847
+603	conceptnet.topn3.replace	tobacco smoke lawsuit	0.6573
+603	stem.paicehusk	tobacco cigaret lawsuit	0.6501
+603	wordnet.topn3	tobacco cigarette lawsuit baccy tobacco plant cigaret butt suit case causa	0.6351
+603	conceptnet.topn3	tobacco cigarette lawsuit smoke	0.6164
+603	glove.topn3	tobacco cigarette lawsuit cigarette cigarettes tobacco filed sued	0.6086
+603	relevancefeedback.topn10.bm25	tobacco cigarette lawsuit cigarett court morri us smoke suit nicotin	0.5883
+603	glove.topn3.replace	cigarette cigarettes tobacco filed sued	0.5254
+603	word2vec.topn3	tobacco cigarette lawsuit cigarettes smoking cigar countersuit litigation	0.5046
+604	-1	Lyme disease arthritis	0.9399
+604	conceptnet.topn3	lyme disease arthritis jamaica connecticut newcastle under lyme illness spondylarthritis	0.9418
+605	-1	Great Britain health care	0.1966
+606	-1	leg traps ban	0.653
+607	-1	human genetic code	0.4954
+607	relevancefeedback.topn10.bm25	human genetic code gene genet dna would apo map	0.78
+607	wiki.topn3	human genetic code apes humans tool using species human epigenetics genetic epidemiology human genetic clustering human genetics lambda phage nucleic acid mutagenesis genetic code	0.6077
+607	anchor.topn3	human genetic code placentophagy human hmpv full bodi peykulah dha hanu atcvet бч	0.5728
+607	tagmee.topn3.replace	Human Human genetics Genetic code	0.5555
+607	wiki.topn3.replace	apes humans tool using species human epigenetics genetic epidemiology human genetic clustering human genetics lambda phage nucleic acid mutagenesis genetic code	0.5435
+607	conceptluster.topn5.3.bm25	human genetic code human human genetics genetic code	0.5249
+607	conceptluster.topn5.3.qld	human genetic code human genetic code human genetics	0.5249
+607	tagmee.topn3	human genetic code Human Human genetics Genetic code	0.5249
+607	relevancefeedback.topn10.qld	human genetic code genet modul gene dna apo technolog	0.514
+608	-1	taxing social security	0.227
+609	-1	per capita alcohol consumption	0.5551
+609	relevancefeedback.topn10.bm25	per capita alcohol consumption wine diet product coffe increas beer grain	0.6395
+610	-1	minimum wage adverse impact	0.1659
+610	stem.porter	minimum wage advers impact	0.1902
+610	stem.porter2	minimum wage advers impact	0.1902
+610	conceptluster.topn5.3.bm25	minimum wage adverse impact minimum wage	0.1775
+610	conceptluster.topn5.3.qld	minimum wage adverse impact minimum wage	0.1775
+610	tagmee.topn3	minimum wage adverse impact Minimum wage	0.1775
+611	-1	Kurds Germany violence	0.348
+611	glove.topn3	kurds germany violence kurdish sunnis german berlin violent bloodshed	0.5216
+611	glove.topn3.replace	kurdish sunnis german berlin violent bloodshed	0.4613
+611	tagmee.topn3.replace	Kurds in Germany	0.4542
+611	wiki.topn3.replace	kurds germany	0.4542
+611	stem.lovins	kurd german viol	0.4504
+611	stem.paicehusk	kurd germany viol	0.4448
+611	sensedisambiguation	Kurds kurd Germany violence	0.3941
+611	conceptluster.topn5.3.bm25	kurds germany violence kurds germany	0.3834
+611	conceptluster.topn5.3.qld	kurds germany violence kurds germany	0.3834
+611	tagmee.topn3	kurds germany violence Kurds in Germany	0.3834
+611	wiki.topn3	kurds germany violence kurds germany	0.3834
+611	word2vec.topn3	kurds germany violence kurdish europe france germany bloodshed counter violence	0.351
+612	-1	Tibet protesters	0.4725
+612	relevancefeedback.topn10.qld	tibet protesters percent u hi dollar tibetan from artist polic	0.678
+612	relevancefeedback.topn10.bm25	tibet protesters u tibetan chines polic china danc lama	0.6738
+612	glove.topn3	tibet protesters tibetan tibetans demonstrators protestors	0.6599
+612	word2vec.topn3	tibet protesters tibetan tibetans xinjiang protestors demonstrators	0.6482
+612	conceptnet.topn3	tibet protesters Himalayas a demonstration obstructing justice	0.6116
+612	glove.topn3.replace	tibetan tibetans demonstrators protestors	0.57
+612	word2vec.topn3.replace	tibetan tibetans xinjiang protestors demonstrators	0.4819
+613	-1	Berlin wall disposal	0.3724
+613	bertqe.topn10.qld	along berlin wall rang clang	0.4368
+614	-1	Flavr Savr tomato	0.3143
+615	-1	timber exports Asia	0.2518
+615	glove.topn3	timber exports asia logging lumber imports asian europe	0.5676
+615	conceptluster.topn5.3.bm25	timber exports asia lumber export	0.4703
+615	conceptluster.topn5.3.qld	timber exports asia export lumber	0.4703
+615	glove.topn3.replace	logging lumber imports asian europe	0.4653
+615	wordnet.topn3	timber exports asia timberland forest timbre	0.4001
+615	tagmee.topn3	timber exports asia Lumber Export Asia	0.3724
+615	wiki.topn3	timber exports asia logging sawmill hay lumber import servic economics food processing export north america africa north america asia	0.3491
+615	word2vec.topn3	timber exports asia lumber wood imports asia europe asian	0.3247
+615	sensedisambiguation	timber timbre exports export Asia	0.2918
+615	tagmee.topn3.replace	Lumber Export Asia	0.2796
+616	-1	Volkswagen Mexico	0.8196
+616	anchor.topn3	volkswagen mexico vw t t golf volkswagen mexico histori mexoamerica mexico govern	0.8281
+617	-1	Russia Cuba economy	0.3386
+617	sensedisambiguation.replace	soviet union cuba economy	0.545
+617	sensedisambiguation	Russia soviet union Cuba economy	0.5123
+617	relevancefeedback.topn10.bm25	russia cuba economy petroleum associ societi oil sugar dollar	0.3953
+617	glove.topn3	russia cuba economy russian ukraine cuban havana economic	0.387
+617	conceptluster.topn5.3.bm25	russia cuba economy economy cuba	0.3425
+617	conceptluster.topn5.3.qld	russia cuba economy economy cuba	0.3425
+618	-1	Ayatollah Khomeini death	0.2551
+618	word2vec.topn3	ayatollah khomeini death marja Khomeni khamenei Khomenei dying	0.5373
+618	word2vec.topn3.replace	marja Khomeni khamenei Khomenei dying	0.4492
+618	glove.topn3.replace	khamenei khomeini ruhollah ayatollah died dead	0.3311
+618	sensedisambiguation	Ayatollah Khomeini death end	0.3137
+618	conceptnet.topn3	ayatollah khomeini death Ayatollah Ruholla Khomeini killing life a war	0.3058
+618	sensedisambiguation.replace	ayatollah khomeini end	0.3044
+618	wiki.topn3.replace	supreme leaders iran supremleader iran iranian people indian descent ruhollah khomeini personifications death mictlan lucifer death personification	0.3044
+618	glove.topn3	ayatollah khomeini death khamenei khomeini ruhollah ayatollah died dead	0.3034
+618	conceptnet.topn3.replace	ayatollah Ayatollah Ruholla Khomeini killing life a war	0.2981
+618	anchor.topn3	ayatollah khomeini death khooyi ayahtolla abd os samad ghods e iran khoemini khomeini al jamadi phonphanit qorayshi	0.2941
+618	wiki.topn3	ayatollah khomeini death supreme leaders iran supremleader iran iranian people indian descent ruhollah khomeini personifications death mictlan lucifer death personification	0.2927
+618	wordnet.topn3	ayatollah khomeini death Ayatollah Ruholla Khomeini Ayatollah Khomeini dying last	0.2628
+619	-1	Winnie Mandela scandal	0.8293
+619	conceptluster.topn5.3.bm25	winnie mandela scandal winnie madikizela mandela scandal tv series	0.8411
+619	conceptluster.topn5.3.qld	winnie mandela scandal winnie madikizela mandela scandal tv series	0.8411
+619	tagmee.topn3	winnie mandela scandal Winnie Madikizela Mandela Scandal TV series	0.8411
+620	-1	France nuclear testing	0.1688
+620	conceptnet.topn3	france nuclear testing country Paris biology	0.2315
+621	-1	women ordained Church of England	0.7184
+621	tagmee.topn3	women ordained church england Ordination Church of England	0.7876
+621	conceptluster.topn5.3.bm25	women ordained church england ordination	0.7494
+621	conceptluster.topn5.3.qld	women ordained church england ordination	0.7494
+622	-1	price fixing	0.2017
+623	-1	toxic chemical weapon	0.3958
+623	wiki.topn3.replace	lethal dose precursor chemistry intraperitoneal injection toxicity male mediated teratogens sarin chemical weapons convention chemical weapon	0.5023
+623	wiki.topn3	toxic chemical weapon lethal dose precursor chemistry intraperitoneal injection toxicity male mediated teratogens sarin chemical weapons convention chemical weapon	0.4868
+623	wordnet.topn3	toxic chemical weapon chemical substance weapon system artillery	0.4711
+623	relevancefeedback.topn10.qld	toxic chemical weapon convent chemic	0.4225
+624	-1	SDI Star Wars	0.4203
+624	relevancefeedback.topn10.qld	sdi star wars said comput program technolog rockwel billion beryllium soviet missil	0.6265
+624	conceptnet.topn3	sdi star wars strategic defense initiative sun violence force	0.6247
+624	tagmee.topn3.replace	Strategic Defense Initiative Star Wars	0.6095
+624	conceptluster.topn5.3.bm25	sdi star wars strategic defense initiative	0.5886
+624	conceptluster.topn5.3.qld	sdi star wars strategic defense initiative	0.5886
+624	tagmee.topn3	sdi star wars Strategic Defense Initiative Star Wars	0.5869
+624	sensedisambiguation	SDI Star star topology Wars war	0.4552
+624	wiki.topn3	sdi star wars neutron bomb counterforce mutual assured destruction strategic defense initiative politics fiction r d monomyths star wars	0.4361
+625	-1	arrests bombing WTC	0.1774
+625	tagmee.topn3.replace	Arrest Bomb World Trade Center	0.4381
+625	anchor.topn3.replace	arrests bombing pilishvili aldeobaldia towers phas	0.3558
+625	wiki.topn3	arrests bombing wtc law enforcement agency powers assault trial arrest trinitrotoluene dynamite bombs bomb world trade center	0.3245
+625	conceptluster.topn5.3.bm25	arrests bombing wtc world trade center arrest bomb	0.3025
+625	conceptluster.topn5.3.qld	arrests bombing wtc world trade center arrest bomb	0.3025
+625	tagmee.topn3	arrests bombing wtc Arrest Bomb World Trade Center	0.3025
+625	sensedisambiguation	arrests arrest bombing fail WTC world trade center	0.2866
+625	anchor.topn3	arrests bombing wtc pilishvili aldeobaldia towers phas	0.2832
+625	wordnet.topn3	arrests bombing wtc check stay turn back bombard bombardment flush it twin towers World Trade Center	0.2536
+625	relevancefeedback.topn10.qld	arrests bombing wtc arhu jordan new exchang trade report mr compani drug	0.22
+626	-1	human stampede	0.5022
+626	tagmee.topn3.replace	Stampede	0.6674
+626	conceptluster.topn5.3.bm25	human stampede stampede	0.6273
+626	conceptluster.topn5.3.qld	human stampede stampede	0.6273
+626	tagmee.topn3	human stampede Stampede	0.6273
+626	conceptnet.topn3	human stampede body run	0.5699
+627	-1	Russian food crisis	0.0627
+627	conceptluster.topn5.3.bm25	russian food crisis food security russian cuisine	0.1224
+627	conceptluster.topn5.3.qld	russian food crisis russian cuisine food security	0.1224
+627	tagmee.topn3	russian food crisis Russian cuisine Food security	0.1224
+627	glove.topn3	russian food crisis russia moscow supplies turmoil crises	0.0634
+628	-1	U.S. invasion of Panama	0.3406
+628	relevancefeedback.topn10.qld	u s invasion of panama u noriega said have forc american	0.5629
+628	wiki.topn3	u s invasion panama panama panama operation golden pheasant united states invasion panama	0.5158
+628	relevancefeedback.topn10.bm25	u s invasion of panama u noriega said forc women presid	0.515
+628	conceptluster.topn5.3.bm25	u s invasion panama united states invasion panama	0.4705
+628	conceptluster.topn5.3.qld	u s invasion panama united states invasion panama	0.4705
+628	tagmee.topn3	u s invasion panama United States invasion of Panama	0.4705
+628	tagmee.topn3.replace	United States invasion of Panama	0.4599
+628	sensedisambiguation	U S united states government invasion of Panama	0.4468
+628	wiki.topn3.replace	panama panama operation golden pheasant united states invasion panama	0.4385
+628	sensedisambiguation.replace	united states government invasion of panama	0.4265
+628	conceptnet.topn3	u s invasion panama canal	0.421
+628	rm3.topn10.10.0.5.bm25	U.S. invasion of Panama	0.4123
+628	rm3.topn10.10.0.5.qld	U.S. invasion of Panama	0.4123
+628	bertqe.topn10.qld	panama all object have now	0.3809
+628	anchor.topn3	u s invasion panama us c alphabet elongatopothyn chlorotocella sorosporium tusia panama histori guatemala	0.3602
+629	-1	abortion clinic attack	0.4979
+630	-1	Gulf War Syndrome	0.9232
+630	wiki.topn3	gulf war syndrome gulf war syndrome borden institute united states army medical research institutof chemical defense gulf war syndrome	0.9313
+631	-1	Mandela South Africa President	0.2383
+631	conceptluster.topn5.3.bm25	mandela south africa president nelson mandela union south africa president mexico	0.2512
+631	conceptluster.topn5.3.qld	mandela south africa president nelson mandela union south africa president mexico	0.2512
+631	tagmee.topn3	mandela south africa president Nelson Mandela Union of South Africa President of Mexico	0.2512
+632	-1	southeast Asia tin mining	0.3905
+632	tagmee.topn3.replace	Southeast Asia Tin Tin mining	0.5032
+632	sensedisambiguation.replace	southeasterly asia tin mining	0.4572
+632	wiki.topn3	southeast asia tin mining southeast asia brunei laos southeast asia tin manganese iron tin tin sources tradin ancient times traditional mining capcornwall mine tin mining	0.4506
+632	relevancefeedback.topn10.bm25	southeast asia tin mining mine tonn dollar arrest rubi pound yen countri vietnam	0.4474
+632	conceptluster.topn5.3.bm25	southeast asia tin mining southeast asia tin tin mining	0.439
+632	conceptluster.topn5.3.qld	southeast asia tin mining tin tin mining southeast asia	0.439
+632	tagmee.topn3	southeast asia tin mining Southeast Asia Tin Tin mining	0.439
+632	wiki.topn3.replace	southeast asia brunei laos southeast asia tin manganese iron tin tin sources tradin ancient times traditional mining capcornwall mine tin mining	0.4327
+633	-1	Welsh devolution	0.544
+633	relevancefeedback.topn10.qld	welsh devolution wale ireland mr parti he cent would labour major	0.7098
+633	relevancefeedback.topn10.bm25	welsh devolution wale mr cent ireland he would scottish labour parti	0.7014
+633	conceptluster.topn5.3.bm25	welsh devolution devolution united kingdom wales	0.612
+633	conceptluster.topn5.3.qld	welsh devolution devolution united kingdom wales	0.612
+633	glove.topn3	welsh devolution wales scottish decentralization decentralisation	0.61
+634	-1	L-tryptophan deaths	0.8506
+634	wiki.topn3	l tryptophan deaths tyrosine methionine acidiamino acids tryptophan lifexpectancy disease herd immunity mortality rate	0.9236
+634	wordnet.topn3	l tryptophan deaths dying last	0.8903
+634	glove.topn3	l tryptophan deaths l cysteine spermidine fatalities	0.8851
+634	conceptnet.topn3.replace	l tryptophan fighting war love	0.866
+634	word2vec.topn3	l tryptophan deaths fatalities killings	0.8589
+634	conceptnet.topn3	l tryptophan deaths fighting war love	0.8523
+634	conceptluster.topn5.3.bm25	l tryptophan deaths tryptophan mortality rate	0.8507
+634	conceptluster.topn5.3.qld	l tryptophan deaths tryptophan mortality rate	0.8507
+634	tagmee.topn3	l tryptophan deaths Tryptophan Mortality rate	0.8507
+635	-1	doctor assisted suicides	0.7932
+635	relevancefeedback.topn10.bm25	doctor assisted suicides said he suicid she kevorkian assist adkin	0.8885
+635	relevancefeedback.topn10.qld	doctor assisted suicides he said she harper suicid kevorkian adkin can	0.8789
+635	conceptluster.topn5.3.bm25	doctor assisted suicides assisted suicide physician suicide	0.8066
+635	conceptluster.topn5.3.qld	doctor assisted suicides suicide assisted suicide physician	0.8066
+635	tagmee.topn3	doctor assisted suicides Physician Assisted suicide Suicide	0.8066
+636	-1	jury duty exemptions	0.2679
+636	word2vec.topn3	jury duty exemptions jurors obligation	0.4686
+636	relevancefeedback.topn10.bm25	jury duty exemptions juri should travel he wine human soviet duti militari	0.3244
+636	stem.trunc4	jury duty exem	0.3116
+636	stem.trunc5	jury duty exemp	0.3116
+637	-1	human growth hormone (HGH)	0.6219
+638	-1	wrongful convictions	0.0936
+638	sensedisambiguation	wrongful convictions conviction	0.1203
+639	-1	consumer on-line shopping	0.3113
+639	conceptluster.topn5.3.bm25	consumer on line shopping consumer online shopping	0.4278
+639	conceptluster.topn5.3.qld	consumer on line shopping online shopping consumer	0.4278
+639	tagmee.topn3	consumer on line shopping Consumer Online shopping	0.4278
+639	wordnet.topn3	consumer on line shopping online shit give away grass	0.3837
+639	wiki.topn3	consumer on line shopping return investment business plan formal statements consumer point sale business to business digital marketing online shopping	0.3706
+639	relevancefeedback.topn10.bm25	consumer on line shopping line price multimedia paper presid akihabara shop were cent promot	0.3555
+639	tagmee.topn3.replace	Consumer Online shopping	0.3396
+639	word2vec.topn3	consumer on line shopping customer online off line web based mall malls	0.3261
+639	glove.topn3	consumer on line shopping retail internet based off line malls mall	0.3205
+640	-1	maternity leave policies	0.4766
+640	relevancefeedback.topn10.qld	maternity leave policies nurs matern week pai her benefit	0.6165
+640	relevancefeedback.topn10.bm25	maternity leave policies matern pai benefit week nurs comrad	0.523
+641	-1	Valdez wildlife marine life	0.4989
+641	relevancefeedback.topn10.bm25	valdez wildlife marine life said exxon otter oil	0.795
+641	relevancefeedback.topn10.qld	valdez wildlife marine life said oil exxon tanker otter	0.7288
+641	conceptnet.topn3.replace	valdez wildlife United States nautical death water	0.577
+641	conceptnet.topn3	valdez wildlife marine life United States nautical death water	0.5764
+641	wiki.topn3	valdez wildlife marine life alyeska pipelinserviccompany exxon valdez oil spill controversies exxon valdez wildlife habitat conservation birdwatching wildlife plankton oceanography ocean current marine biology plankton oceanography ocean current marine biology	0.558
+641	conceptluster.topn5.3.bm25	valdez wildlife marine life wildlife marine biology exxon valdez	0.5275
+641	conceptluster.topn5.3.qld	valdez wildlife marine life exxon valdez wildlife marine biology	0.5275
+641	stem.lovins	valdez wildlif mar lif	0.5192
+641	tagmee.topn3.replace	Exxon Valdez Wildlife Marine biology Marine biology	0.5069
+641	wiki.topn3.replace	alyeska pipelinserviccompany exxon valdez oil spill controversies exxon valdez wildlife habitat conservation birdwatching wildlife plankton oceanography ocean current marine biology plankton oceanography ocean current marine biology	0.5064
+642	-1	Tiananmen Square protesters	0.3147
+642	wordnet.topn3.replace	tiananmen foursquare lame demonstrator dissident objector	0.4785
+642	relevancefeedback.topn10.bm25	tiananmen square protesters prison leaflet protest report ha polic here beij student zhou	0.3355
+642	wiki.topn3	tiananmen square protesters student protests china china socialism china tiananmen square protests	0.3318
+642	relevancefeedback.topn10.qld	tiananmen square protesters prison leaflet polic beij ha protest he parliament student	0.3171
+643	-1	salmon dams Pacific northwest	0.274
+643	wiki.topn3	salmon dams pacific northwest alaskan cuisine salmon trout salmon hydraulistructures dams barrages dam geography pacifinorthwest puget sound bodies water washington state pacific northwest	0.3174
+643	conceptnet.topn3	salmon dams pacific northwest food fish control rivers ocean	0.3024
+643	relevancefeedback.topn10.qld	salmon dams pacific northwest forest speci court dam power sea net inn	0.2748
+644	-1	exotic animals import	0.1662
+645	-1	software piracy	0.8485
+645	relevancefeedback.topn10.qld	software piracy softwar compani	0.8779
+646	-1	food stamps increase	0.4112
+646	wordnet.topn3	food stamps increase solid food food for thought nutrient pigeonhole revenue stamp boss step up gain	0.536
+646	bertqe.topn10.bm25	food stamp mai worsen problem	0.4396
+647	-1	windmill electricity	0.4231
+647	wordnet.topn3	windmill electricity wind generator aerogenerator electrical energy	0.7306
+647	wordnet.topn3.replace	wind generator aerogenerator electrical energy	0.6969
+647	relevancefeedback.topn10.qld	windmill electricity wind i share drug class power	0.6309
+647	relevancefeedback.topn10.bm25	windmill electricity wind i power class she publish calcul	0.574
+648	-1	family leave law	0.3074
+648	conceptluster.topn5.3.bm25	family leave law law parental leave	0.3324
+648	conceptluster.topn5.3.qld	family leave law law parental leave	0.3324
+648	tagmee.topn3	family leave law Parental leave Law	0.3324
+649	-1	computer viruses	0.7526
+649	relevancefeedback.topn10.bm25	computer viruses comput viru softwar network	0.8537
+649	relevancefeedback.topn10.qld	computer viruses viru comput network	0.8424
+649	conceptluster.topn5.3.bm25	computer viruses computer virus	0.8151
+649	conceptluster.topn5.3.qld	computer viruses computer virus	0.8151
+649	word2vec.topn3	computer viruses software virus malware	0.8074
+649	sensedisambiguation.replace	computer virus	0.8038
+649	stem.krovetz	computer virus	0.8038
+649	stem.lovins	computer virus	0.8038
+649	stem.paicehusk	comput virus	0.8038
+649	stem.porter	comput virus	0.8038
+649	stem.porter2	comput virus	0.8038
+649	tagmee.topn3.replace	Computer virus Computer virus	0.8038
+649	tagmee.topn3	computer viruses Computer virus Computer virus	0.7951
+649	wordnet.topn3.replace	computing device electronic computer figurer computer virus virus	0.7882
+649	wordnet.topn3	computer viruses computing machine computing device electronic computer virus computer virus	0.785
+649	glove.topn3	computer viruses software virus infect	0.7696
+649	word2vec.topn3.replace	software virus malware	0.7686
+650	-1	tax evasion indicted	0.198
+650	relevancefeedback.topn10.qld	tax evasion indicted hunter mr tripp feder yuan hoff milken i	0.4222
+650	relevancefeedback.topn10.bm25	tax evasion indicted i feder mr ftc gioiosa gotti hunter charg hoff her	0.4204
+650	word2vec.topn3	tax evasion indicted taxation evading convicted arrested acquitted	0.2672
+650	wiki.topn3	tax evasion indicted bank fraud arrest warrant plea bargain tax evasion appeal felony contempt court indictment	0.2013
+651	-1	U.S. ethnic population	0.0
+651	relevancefeedback.topn10.bm25	u s ethnic population asian albanian educ state citi peopl aidayev hispan	0.2801
+651	tagmee.topn3.replace	Ethnic group Demographics of India	0.1202
+651	conceptluster.topn5.3.bm25	u s ethnic population demographics india ethnic group	0.116
+651	conceptluster.topn5.3.qld	u s ethnic population demographics india ethnic group	0.116
+651	tagmee.topn3	u s ethnic population Ethnic group Demographics of India	0.116
+651	rm3.topn10.10.0.5.bm25	U.S. ethnic population	0.0971
+651	rm3.topn10.10.0.5.qld	U.S. ethnic population	0.0971
+651	wiki.topn3	u s ethnic population ethnigroups cultural assimilation human migration ethnic group dravidian languages ayodhya list scheduled tribes india demographics india	0.052
+651	conceptnet.topn3	u s ethnic population person people number	0.0223
+652	-1	OIC Balkans 1990s	0.5084
+652	stem.trunc5	oic balka s	0.5378
+652	sensedisambiguation.replace	OIC balkans nineties	0.515
+652	rm3.topn10.10.0.5.bm25	OIC Balkans 1990s	0.5096
+652	rm3.topn10.10.0.5.qld	OIC Balkans 1990s	0.5096
+653	-1	ETA Basque terrorism	0.724
+653	stem.trunc5	eta basqu terro	0.8053
+653	wiki.topn3.replace	eta separatist group eta s ceasefirdeclaration santiago brouard plaza república dominicana bombing basque conflict	0.7834
+653	glove.topn3	eta basque terrorism basque batasuna eta catalan terrorist	0.7632
+653	conceptnet.topn3	eta basque terrorism Basque Homeland and Freedom a person	0.7599
+653	sensedisambiguation	ETA basque homeland and freedom Basque terrorism	0.7566
+653	wiki.topn3	eta basque terrorism eta separatist group eta s ceasefirdeclaration santiago brouard plaza república dominicana bombing basque conflict	0.7469
+653	tagmee.topn3.replace	ETA separatist group Basque conflict	0.7452
+653	conceptluster.topn5.3.bm25	eta basque terrorism basque conflict eta separatist group	0.7448
+653	conceptluster.topn5.3.qld	eta basque terrorism basque conflict eta separatist group	0.7448
+653	tagmee.topn3	eta basque terrorism ETA separatist group Basque conflict	0.7448
+654	-1	same-sex schools	0.3568
+654	sensedisambiguation	same sex schools school	0.4886
+655	-1	ADD diagnosis treatment	0.0
+655	sensedisambiguation	ADD attention deficit disorder diagnosis treatment	0.7071
+655	sensedisambiguation.replace	attention deficit disorder diagnosis treatment	0.6817
+655	glove.topn3.replace	adding combine diagnoses diagnostic treated treat	0.0486
+655	glove.topn3	add diagnosis treatment adding combine diagnoses diagnostic treated treat	0.038
+656	-1	lead poisoning children	0.1347
+657	-1	school prayer banned	0.706
+657	conceptluster.topn5.3.bm25	school prayer banned school prayer censorship	0.7452
+657	conceptluster.topn5.3.qld	school prayer banned school prayer censorship	0.7452
+657	tagmee.topn3	school prayer banned School prayer Censorship	0.7452
+658	-1	teenage pregnancy	0.0973
+658	glove.topn3.replace	teen pregnant	0.4885
+658	word2vec.topn3	teenage pregnancy teen age teen preganancy	0.4713
+658	glove.topn3	teenage pregnancy teen pregnant	0.4324
+658	word2vec.topn3.replace	teen age teen preganancy	0.3361
+658	relevancefeedback.topn10.qld	teenage pregnancy he curriculum program marriag abort carter foundat school music plan	0.2922
+658	wordnet.topn3	teenage pregnancy teen adolescent maternity gestation	0.2906
+658	bertqe.topn10.bm25	becom pregnant again group high	0.2724
+658	sensedisambiguation.replace	adolescent pregnancy	0.2174
+658	stem.lovins	teen pregn	0.1946
+658	stem.paicehusk	teen pregn	0.1946
+658	stem.trunc4	teen preg	0.1809
+658	sensedisambiguation	teenage adolescent pregnancy	0.1678
+658	wiki.topn3	teenage pregnancy singlparent sexual identity sex work teenage pregnancy	0.1668
+658	wiki.topn3.replace	singlparent sexual identity sex work teenage pregnancy	0.1568
+658	relevancefeedback.topn10.bm25	teenage pregnancy bbc curriculum bottomlei program marriag teacher plan radio music he	0.1103
+658	conceptnet.topn3	teenage pregnancy sex copulating procreating	0.1045
+659	-1	cruise health safety	0.658
+659	glove.topn3	cruise health safety ship care healthcare protection ensure	0.6988
+660	-1	whale watching California	0.7518
+660	sensedisambiguation	whale watching watch California	0.7926
+660	anchor.topn3	whale watching california peponocephala balaenoptera ex whale california economi california histori california educ	0.7749
+660	relevancefeedback.topn10.bm25	whale watching california i dana a m	0.7701
+660	relevancefeedback.topn10.qld	whale watching california i a m	0.757
+661	-1	melanoma treatment causes	0.763
+661	wordnet.topn3	melanoma treatment causes malignant melanoma discourse discussion intervention case grounds causal agent	0.821
+661	word2vec.topn3	melanoma treatment causes cancer treament treatement	0.7873
+661	conceptluster.topn5.3.bm25	melanoma treatment causes melanoma etiology therapy	0.7835
+661	conceptluster.topn5.3.qld	melanoma treatment causes melanoma etiology therapy	0.7835
+661	tagmee.topn3	melanoma treatment causes Melanoma Therapy Etiology	0.7835
+662	-1	telemarketer protection	0.6828
+662	sensedisambiguation	telemarketer protection security	0.7135
+662	sensedisambiguation.replace	telemarketer security	0.7003
+662	conceptluster.topn5.3.bm25	telemarketer protection consumer protection telemarketing	0.6993
+662	conceptluster.topn5.3.qld	telemarketer protection consumer protection telemarketing	0.6993
+662	tagmee.topn3	telemarketer protection Telemarketing Consumer protection	0.6993
+663	-1	Agent Orange exposure	0.427
+663	relevancefeedback.topn10.qld	agent orange exposure veteran studi said toronto orang astra olema secur	0.5423
+663	relevancefeedback.topn10.bm25	agent orange exposure studi rule orang veteran astra children said homeless insur	0.4888
+664	-1	American Indian Museum	0.9334
+665	-1	poverty Africa sub-Sahara	0.3978
+665	relevancefeedback.topn10.qld	poverty africa sub sahara debt hi bank educ minist per land	0.4496
+665	relevancefeedback.topn10.bm25	poverty africa sub sahara debt hi per said bank oil educ desert	0.4385
+665	wordnet.topn3	poverty africa sub sahara poorness impoverishment	0.4373
+666	-1	Thatcher resignation impact	0.0785
+666	sensedisambiguation	Thatcher resignation impact shock	0.2961
+666	sensedisambiguation.replace	thatcher resignation shock	0.2961
+666	wiki.topn3	thatcher resignation impact people educated kesteven grantham girls school ladies companion garter john major margaret thatcher united kingdom general election united kingdom general election united kingdom general election resignation british house commons	0.1594
+666	tagmee.topn3.replace	Margaret Thatcher Resignation from the British House of Commons	0.1233
+666	conceptluster.topn5.3.bm25	thatcher resignation impact margaret thatcher resignation british house commons	0.1105
+666	conceptluster.topn5.3.qld	thatcher resignation impact margaret thatcher resignation british house commons	0.1105
+666	glove.topn3	thatcher resignation impact margaret blair affect	0.1086
+666	tagmee.topn3	thatcher resignation impact Margaret Thatcher Resignation from the British House of Commons	0.1068
+666	anchor.topn3	thatcher resignation impact danison thatcher thatcher pendulum astroblem chicxulub	0.0966
+666	anchor.topn3.replace	danison thatcher thatcher resignation pendulum astroblem chicxulub	0.0939
+666	wordnet.topn3	thatcher resignation impact Baroness Thatcher of Kesteven Margaret Hilda Thatcher surrender wallop affect bear on	0.093
+666	relevancefeedback.topn10.qld	thatcher resignation impact some her hi	0.0915
+666	word2vec.topn3	thatcher resignation impact maggie Tatcher dismissal effect influence	0.0808
+667	-1	unmarried-partner households	0.5452
+667	sensedisambiguation.replace	unmarried partner family	0.692
+667	word2vec.topn3.replace	unmarried partner families	0.692
+667	glove.topn3.replace	unmarried partner families residing	0.6895
+667	wordnet.topn3.replace	unmarried partner family house home	0.6572
+667	sensedisambiguation	unmarried partner households family	0.603
+667	word2vec.topn3	unmarried partner households families	0.603
+667	wordnet.topn3	unmarried partner households menage home family	0.5913
+667	glove.topn3	unmarried partner households families residing	0.5898
+667	relevancefeedback.topn10.bm25	unmarried partner households unmarri famili estat product citi cent said us	0.5674
+667	relevancefeedback.topn10.qld	unmarried partner households unmarri famili estat like product cent citi said farwest	0.5532
+668	-1	poverty, disease	0.5612
+669	-1	Islamic Revolution	0.1767
+669	wiki.topn3	islamic revolution iran pahlavi dynasty murder iran iranian revolution	0.2189
+669	conceptnet.topn3	islamic revolution Muslim takaful change society	0.1969
+669	conceptluster.topn5.3.bm25	islamic revolution iranian revolution	0.1958
+669	conceptluster.topn5.3.qld	islamic revolution iranian revolution	0.1958
+669	tagmee.topn3	islamic revolution Iranian Revolution	0.1958
+670	-1	U.S. elections apathy	0.0518
+670	rm3.topn10.10.0.5.bm25	U.S. elections apathy	0.2165
+670	rm3.topn10.10.0.5.qld	U.S. elections apathy	0.2165
+670	anchor.topn3.replace	us c alphabet elections apathy	0.1822
+670	sensedisambiguation.replace	united states government election apathy	0.1805
+670	relevancefeedback.topn10.bm25	u s elections apathy congress you administr educ angel zone dollar elect cent	0.1441
+670	relevancefeedback.topn10.qld	u s elections apathy we krajina congress ballot vote hi mr administr polish elect	0.1415
+670	sensedisambiguation	U S united states government elections election apathy	0.0857
+671	-1	Salvation Army benefits	0.4617
+671	conceptluster.topn5.3.bm25	salvation army benefits salvation army welfare	0.4681
+671	conceptluster.topn5.3.qld	salvation army benefits salvation army welfare	0.4681
+671	tagmee.topn3	salvation army benefits The Salvation Army Welfare	0.4681
+673	-1	Soviet withdrawal Afghanistan	0.4638
+673	conceptnet.topn3	soviet withdrawal afghanistan retreat disinvestment	0.5693
+673	tagmee.topn3	soviet withdrawal afghanistan Soviet withdrawal from Afghanistan Kingdom of Afghanistan	0.541
+673	tagmee.topn3.replace	Soviet withdrawal from Afghanistan Kingdom of Afghanistan	0.538
+673	conceptluster.topn5.3.bm25	soviet withdrawal afghanistan kingdom afghanistan soviet withdrawal afghanistan	0.4976
+673	conceptluster.topn5.3.qld	soviet withdrawal afghanistan kingdom afghanistan soviet withdrawal afghanistan	0.4976
+674	-1	Greenpeace prosecuted	0.3148
+674	wiki.topn3	greenpeace prosecuted greenpeace anti nuclear organizations united states friends thearth greenpeace prosecutors appeal indictment prosecutor	0.3958
+674	wiki.topn3.replace	greenpeace anti nuclear organizations united states friends thearth greenpeace prosecutors appeal indictment prosecutor	0.377
+674	tagmee.topn3.replace	Greenpeace Prosecutor	0.3339
+674	tagmee.topn3	greenpeace prosecuted Greenpeace Prosecutor	0.3304
+674	glove.topn3	greenpeace prosecuted activists http www statoil com investigated punished	0.3227
+674	wordnet.topn3.replace	greenpeace engage pursue	0.3201
+675	-1	Olympics training swimming	0.4867
+675	sensedisambiguation	Olympics olympic games training train swimming	0.6005
+675	stem.porter	olympic train swimm	0.5355
+675	stem.trunc5	olymp train swimm	0.5355
+675	sensedisambiguation.replace	olympic games train swimming	0.5279
+675	conceptluster.topn5.3.bm25	olympics training swimming swimming sport athletic training olympic games	0.5241
+675	conceptluster.topn5.3.qld	olympics training swimming swimming sport athletic training olympic games	0.5241
+675	tagmee.topn3	olympics training swimming Olympic Games Athletic training Swimming sport	0.5241
+675	tagmee.topn3.replace	Olympic Games Athletic training Swimming sport	0.4982
+676	-1	poppy cultivation	0.3903
+676	conceptnet.topn3	poppy cultivation Welsh poppy culture	0.4045
+676	relevancefeedback.topn10.bm25	poppy cultivation poppi opium cultiv drug bill	0.403
+677	-1	Leaning Tower of Pisa	0.9802
+677	relevancefeedback.topn10.qld	leaning tower of pisa ha year further art cours have	0.9865
+677	wiki.topn3	leaning tower pisa buildings structures completed visitor attractions pisa filippo brunelleschi leaning tower pisa	0.9828
+677	sensedisambiguation	Leaning tend Tower tugboat of Pisa	0.9817
+678	-1	joint custody impact	0.4074
+678	wiki.topn3.replace	california child support guidelinreview noncustodial parent solcustody joint custody	0.5171
+678	wiki.topn3	joint custody impact california child support guidelinreview noncustodial parent solcustody joint custody	0.4999
+679	-1	opening adoption records	0.7929
+680	-1	immigrants Spanish school	0.1428
+680	bertqe.topn10.bm25	critic sai dearth bilingu teacher	0.5712
+680	relevancefeedback.topn10.bm25	immigrants spanish school cathol latino english student catalan	0.4748
+680	wordnet.topn3	immigrants spanish school Spanish people civilize educate train	0.3046
+680	conceptnet.topn3	immigrants spanish school stream to a new land language class	0.3028
+680	glove.topn3	immigrants spanish school migrants spain portuguese students	0.2383
+680	word2vec.topn3	immigrants spanish school migrants english Spainish college	0.2347
+680	relevancefeedback.topn10.qld	immigrants spanish school popul citi student cathol v c	0.186
+680	sensedisambiguation	immigrants immigrant Spanish school	0.144
+681	-1	wind power location	0.4835
+681	wiki.topn3.replace	wind turbine wind farm renewablenergy wind power binomial distribution quantilfunction scalparameter location parameter	0.7594
+681	wiki.topn3	wind power location wind turbine wind farm renewablenergy wind power binomial distribution quantilfunction scalparameter location parameter	0.7429
+681	sensedisambiguation	wind wind instrument power world power location placement	0.6172
+682	-1	adult immigrants English	0.4806
+683	-1	Czechoslovakia breakup	0.1186
+683	stem.trunc5	czech break	0.3772
+683	wiki.topn3.replace	normalization czechoslovakia communist party czechoslovakia praguspring czechoslovak socialist republic czechoslovakia czech republic slovakia dissolution czechoslovakia	0.3572
+683	wiki.topn3	czechoslovakia breakup normalization czechoslovakia communist party czechoslovakia praguspring czechoslovak socialist republic czechoslovakia czech republic slovakia dissolution czechoslovakia	0.3324
+683	tagmee.topn3.replace	Czechoslovak Socialist Republic Dissolution of Czechoslovakia	0.2608
+683	conceptluster.topn5.3.bm25	czechoslovakia breakup czechoslovak socialist republic dissolution czechoslovakia	0.2518
+683	conceptluster.topn5.3.qld	czechoslovakia breakup czechoslovak socialist republic dissolution czechoslovakia	0.2518
+683	tagmee.topn3	czechoslovakia breakup Czechoslovak Socialist Republic Dissolution of Czechoslovakia	0.2518
+683	word2vec.topn3.replace	yugoslavia sudetenland slovakia break up post breakup	0.2495
+683	word2vec.topn3	czechoslovakia breakup yugoslavia sudetenland slovakia break up post breakup	0.2494
+683	wordnet.topn3.replace	czechoslovakia detachment separation dissolution	0.2388
+683	sensedisambiguation	Czechoslovakia breakup separation	0.1966
+683	glove.topn3	czechoslovakia breakup czechoslovak ussr break up disintegration	0.1787
+683	wordnet.topn3	czechoslovakia breakup detachment dissolution	0.1768
+683	sensedisambiguation.replace	czechoslovakia separation	0.1594
+684	-1	part-time benefits	0.2632
+685	-1	Oscar winner selection	0.4361
+685	sensedisambiguation	Oscar academy award winner selection survival	0.6503
+685	wordnet.topn3	oscar winner selection Academy Award success achiever victor natural selection survival of the fittest choice	0.6035
+685	glove.topn3	oscar winner selection nominated winning	0.5617
+685	conceptluster.topn5.3.bm25	oscar winner selection academy awards	0.5414
+685	conceptluster.topn5.3.qld	oscar winner selection academy awards	0.5414
+685	conceptnet.topn3	oscar winner selection Academy Award	0.5414
+685	relevancefeedback.topn10.bm25	oscar winner selection million dga present breu film book best bank	0.5005
+685	relevancefeedback.topn10.qld	oscar winner selection dga present film breu cal from million dress	0.4839
+685	sensedisambiguation.replace	academy award winner survival	0.4678
+685	tagmee.topn3	oscar winner selection Academy Awards Academy Awards	0.4539
+685	wiki.topn3	oscar winner selection academy motion picturarts sciences american film institute featurlength academy awards academy motion picturarts sciences american film institute featurlength academy awards	0.4468
+686	-1	Argentina pegging dollar	0.4744
+686	tagmee.topn3	argentina pegging dollar Argentina Fixed exchange rate system United States dollar	0.6145
+687	-1	Northern Ireland industry	0.4648
+688	-1	non-U.S. media bias	0.0327
+688	tagmee.topn3.replace	Media bias	0.2118
+688	conceptluster.topn5.3.bm25	non u s media bias media bias	0.1824
+688	conceptluster.topn5.3.qld	non u s media bias media bias	0.1824
+688	tagmee.topn3	non u s media bias Media bias	0.1824
+688	word2vec.topn3	non u s media bias press biases biased	0.1413
+688	wiki.topn3	non u s media bias godwin s law spin public relations susan faludi media bias	0.1265
+688	rm3.topn10.10.0.5.bm25	non-U.S. media bias	0.1141
+688	rm3.topn10.10.0.5.qld	non-U.S. media bias	0.1141
+688	conceptnet.topn3	non u s media bias press oblique tendentiousness	0.0915
+688	wiki.topn3.replace	godwin s law spin public relations susan faludi media bias	0.0721
+688	glove.topn3	non u s media bias non us js press reports perceived prejudice	0.0402
+689	-1	family-planning aid	0.2374
+689	wiki.topn3	family planning aid united nations population fund reproductivhealth family planning family planning development assistanccommittee cash transfers aid agency aid	0.4438
+689	wiki.topn3.replace	united nations population fund reproductivhealth family planning family planning development assistanccommittee cash transfers aid agency aid	0.4398
+690	-1	college education advantage	0.0
+690	conceptnet.topn3	college education advantage degree school seeing art further your career superiority reward	0.2334
+690	conceptnet.topn3.replace	degree school seeing art further your career superiority reward	0.1782
+690	relevancefeedback.topn10.qld	college education advantage said worker modul educ he project school	0.1253
+690	wiki.topn3	college education advantage university college education higher education knowledge sharing philosophy education education education	0.0696
+690	wordnet.topn3.replace	college Education Department teaching reward vantage	0.0635
+690	conceptluster.topn5.3.bm25	college education advantage education higher education	0.061
+690	conceptluster.topn5.3.qld	college education advantage education higher education	0.061
+690	tagmee.topn3	college education advantage Higher education Education	0.061
+690	wiki.topn3.replace	university college education higher education knowledge sharing philosophy education education education	0.0468
+690	wordnet.topn3	college education advantage teaching instruction didactics vantage reward	0.04
+690	glove.topn3	college education advantage graduate school teaching giving	0.0313
+690	stem.lovins	colleg educ advant	0.0281
+690	stem.paicehusk	colleg educ adv	0.0272
+691	-1	clear-cutting forests	0.5893
+692	-1	prostate cancer detection treatment	0.6337
+692	relevancefeedback.topn10.qld	prostate cancer detection treatment block beam prostat zoladex he aid	0.7838
+692	conceptluster.topn5.3.bm25	prostate cancer detection treatment therapy prostate cancer	0.7119
+692	conceptluster.topn5.3.qld	prostate cancer detection treatment therapy prostate cancer	0.7119
+692	tagmee.topn3	prostate cancer detection treatment Prostate cancer Therapy	0.7119
+692	relevancefeedback.topn10.bm25	prostate cancer detection treatment block prostat zoladex actor hi hospit	0.689
+692	anchor.topn3	prostate cancer detection treatment institute upmc insulinoma cancercent tretman poseban treatment	0.6746
+693	-1	newspapers electronic media	0.5365
+693	sensedisambiguation	newspapers newspaper electronic media metier	0.5458
+694	-1	compost pile	0.546
+694	tagmee.topn3.replace	Compost Compost	0.5606
+694	tagmee.topn3	compost pile Compost Compost	0.551
+694	conceptluster.topn5.3.bm25	compost pile compost	0.5502
+694	conceptluster.topn5.3.qld	compost pile compost	0.5502
+695	-1	white collar crime sentence	0.3922
+695	relevancefeedback.topn10.bm25	white collar crime sentence bloom spurrier hi contra sentenc plea mr guidelin minkow	0.4563
+695	relevancefeedback.topn10.qld	white collar crime sentence spurrier fraud plea minkow said bloom sentenc obermai i	0.4353
+696	-1	safety plastic surgery	0.5338
+696	relevancefeedback.topn10.qld	safety plastic surgery surgeri doerr implant corn offic said you	0.7724
+696	relevancefeedback.topn10.bm25	safety plastic surgery surgeri implant corn said you i offic	0.7676
+697	-1	air traffic controller	0.217
+698	-1	literacy rates Africa	0.7058
+698	wiki.topn3	literacy rates africa social studies reading process society literacy bathtub curve timderivative propagation uncertainty rate mathematics africa asia regions africa africa	0.7458
+699	-1	term limits	0.5581
+700	-1	gasoline tax U.S.	0.0498
+700	rm3.topn10.10.0.5.bm25	gasoline tax U.S.	0.2472
+700	rm3.topn10.10.0.5.qld	gasoline tax U.S.	0.2472
+700	conceptluster.topn5.3.bm25	gasoline tax u s united states dollar fuel tax	0.2101
+700	conceptluster.topn5.3.qld	gasoline tax u s united states dollar fuel tax	0.2101
+700	tagmee.topn3	gasoline tax u s Fuel tax United States dollar	0.2101
+700	relevancefeedback.topn10.qld	gasoline tax u s increas said gasolin over farm we	0.199
+700	wordnet.topn3	gasoline tax u s gas gasolene assess taxation revenue enhancement	0.1889
+700	wiki.topn3	gasoline tax u s fuel taxes payroll tax corporatization fuel tax introductions currencies kingdom netherlands historical currencies united states united states dollar	0.0675
+700	anchor.topn3	gasoline tax u s puissanc e technic	0.0582
+700	conceptnet.topn3	gasoline tax u s oil power a car a liquid government money payment	0.0521

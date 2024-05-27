@@ -1,0 +1,1006 @@
+qid	order	query	bm25.recip_rank
+INEX_LD-2009022	-1	Szechwan dish food cuisine	1.0
+INEX_LD-2009039	-1	roman architecture	1.0
+INEX_LD-2009053	-1	finland car industry manufacturer saab sisu	0.3333
+INEX_LD-2009053	bt_nllb_arabic	Finnish car manufacturing plant Sap Sisu	1.0
+INEX_LD-2009053	bt_nllb_russian	Finnish manufacturer of automotive industry Saab Suzi	1.0
+INEX_LD-2009053	bt_nllb_tamil	Sappha Sysu Finnish automotive manufacturer	0.5
+INEX_LD-2009061	-1	france second world war normandy	1.0
+INEX_LD-2009062	-1	social network group selection	0.1
+INEX_LD-2009063	-1	D-Day normandy invasion	1.0
+INEX_LD-2009074	-1	web ranking scoring algorithm	0.2
+INEX_LD-2009074	bt_nllb_chinese_yue	The ranking algorithm for websites	1.0
+INEX_LD-2009074	bt_nllb_french	web ranking algorithm	1.0
+INEX_LD-2009074	bt_nllb_korean	Web ranking algorithm	1.0
+INEX_LD-2009074	bt_nllb_malay	algorithm for ranking the web	1.0
+INEX_LD-2009074	bt_nllb_arabic	The algorithm for registering rankings on the Internet	0.5
+INEX_LD-2009096	-1	Eiffel	1.0
+INEX_LD-2009111	-1	europe solar power facility	0.5
+INEX_LD-2009111	bt_nllb_malay	European solar power facilities	1.0
+INEX_LD-2009115	-1	virtual museums	1.0
+INEX_LD-2010004	-1	Indian food	0.3333
+INEX_LD-2010014	-1	composer museum	0.5
+INEX_LD-2010019	-1	gallo roman architecture in paris	0.0185
+INEX_LD-2010019	bt_nllb_chinese_yue	Ancient Roman architecture in Paris	0.5
+INEX_LD-2010020	-1	electricity source in France	0.0714
+INEX_LD-2010020	bt_nllb_tamil	Electricity in France	1.0
+INEX_LD-2010037	-1	social network API	1.0
+INEX_LD-2010043	-1	List of films from the surrealist category	1.0
+INEX_LD-2010057	-1	Einstein Relativity theory	1.0
+INEX_LD-2010069	-1	summer flowers	1.0
+INEX_LD-2010100	-1	house concrete wood	0.5
+INEX_LD-2010106	-1	organic food advantages disadvantages	0.0
+INEX_LD-2010106	bt_nllb_persian	The benefits of organic food	0.0172
+INEX_LD-2010106	bt_nllb_swahili	benefits of organic food loss	0.0108
+INEX_LD-20120111	-1	vietnam war movie	1.0
+INEX_LD-20120112	-1	vietnam war facts	0.5
+INEX_LD-20120121	-1	vietnam food recipes	0.25
+INEX_LD-20120122	-1	vietnamese food blog	0.0588
+INEX_LD-20120131	-1	vietnam travel national park	0.0145
+INEX_LD-20120131	bt_nllb_chinese_yue	Vietnamese National Park for tourism	0.3333
+INEX_LD-20120131	bt_nllb_arabic	Vietnamese national park	0.125
+INEX_LD-20120131	bt_nllb_french	Vietnamese national park	0.125
+INEX_LD-20120131	bt_nllb_malay	Vietnamese Travel National Park	0.037
+INEX_LD-20120132	-1	vietnam travel airports	1.0
+INEX_LD-20120211	-1	guitar chord tuning	1.0
+INEX_LD-20120212	-1	guitar chord minor	1.0
+INEX_LD-20120221	-1	guitar classical flamenco	1.0
+INEX_LD-20120222	-1	guitar classical bach	1.0
+INEX_LD-20120231	-1	guitar origin Russia	0.05
+INEX_LD-20120231	bt_nllb_arabic	The origin of the guitar is Russian	1.0
+INEX_LD-20120231	bt_nllb_malay	Russian guitar origin	1.0
+INEX_LD-20120231	bt_nllb_persian	The origins of the Russian guitar	1.0
+INEX_LD-20120231	bt_nllb_swahili	the origin of the Russian guitar	1.0
+INEX_LD-20120232	-1	guitar origin blues	1.0
+INEX_LD-20120311	-1	tango culture movies	1.0
+INEX_LD-20120312	-1	tango culture countries	0.2
+INEX_LD-20120312	bt_nllb_german	Countries with tangos	1.0
+INEX_LD-20120312	bt_nllb_korean	Tangos culture nation	0.3333
+INEX_LD-20120321	-1	tango music  composers	1.0
+INEX_LD-20120322	-1	tango music instruments	0.5
+INEX_LD-20120322	bt_nllb_arabic	Tangos and instruments	1.0
+INEX_LD-20120322	bt_nllb_russian	Tangos and other musical instruments	1.0
+INEX_LD-20120331	-1	tango dance styles	1.0
+INEX_LD-20120332	-1	tango dance history	1.0
+INEX_LD-20120411	-1	bicycle sport races	1.0
+INEX_LD-20120412	-1	bicycle sport disciplines	0.5
+INEX_LD-20120412	bt_nllb_french	cycling sports	1.0
+INEX_LD-20120412	bt_nllb_german	Cycling disciplines	1.0
+INEX_LD-20120412	bt_nllb_korean	Cycling sports	1.0
+INEX_LD-20120412	bt_nllb_malay	cycling discipline	1.0
+INEX_LD-20120412	bt_nllb_persian	Cycling sports	1.0
+INEX_LD-20120412	bt_nllb_russian	bicycle sports	1.0
+INEX_LD-20120421	-1	bicycle holiday towns	0.0526
+INEX_LD-20120421	bt_nllb_swahili	bicycle holiday villages	0.0833
+INEX_LD-20120422	-1	bicycle holiday nature	0.1111
+INEX_LD-20120422	bt_nllb_arabic	The nature of the bike holiday	1.0
+INEX_LD-20120422	bt_nllb_persian	The nature of the bike holiday	1.0
+INEX_LD-20120422	bt_nllb_russian	nature of cycling	1.0
+INEX_LD-20120422	bt_nllb_tamil	Cycling holiday nature	0.5
+INEX_LD-20120431	-1	bicycle benefits health	0.1111
+INEX_LD-20120432	-1	bicycle benefits environment	1.0
+INEX_LD-20120511	-1	female rock singers	1.0
+INEX_LD-20120512	-1	south korean girl groups	1.0
+INEX_LD-20120521	-1	electronic music genres	1.0
+INEX_LD-20120522	-1	digital music notation formats	0.25
+INEX_LD-20120531	-1	music conferences	1.0
+INEX_LD-20120532	-1	intellectual property rights lobby	0.0667
+INEX_LD-20120532	bt_nllb_tamil	Promotion of intellectual property rights	1.0
+INEX_LD-20120532	bt_nllb_korean	Intellectual property lobby	0.25
+INEX_LD-20120532	bt_nllb_chinese_yue	The intellectual property guerrilla group	0.0909
+INEX_LD-2012301	-1	Niagara falls origin lake	1.0
+INEX_LD-2012303	-1	 Valley fever fungal infection San Joaquin	0.3333
+INEX_LD-2012303	bt_nllb_tamil	San Joaquin Valley Fever Fungus	0.5
+INEX_LD-2012305	-1	North Dakota's lowest river of another colour	0.0
+INEX_LD-2012305	bt_nllb_chinese_yue	Lower rivers in North Dakota	1.0
+INEX_LD-2012305	bt_nllb_malay	The lower North Dakota River is of a different color	0.1667
+INEX_LD-2012307	-1	 July, 1850  president died Millard Fillmore sworn following day	0.1
+INEX_LD-2012307	bt_nllb_french	The President of the Republic died the day after Millard Fillmore died	1.0
+INEX_LD-2012307	bt_nllb_chinese_yue	In July President Millard Fillmore died	0.3333
+INEX_LD-2012307	bt_nllb_persian	July President Millard Fillmore was sworn in the next day	0.2
+INEX_LD-2012307	bt_nllb_tamil	July President Millard Fillmore died and was sworn in the next day	0.1111
+INEX_LD-2012309	-1	residents small island city-state  Malay Peninsula Chinese	0.0476
+INEX_LD-2012309	bt_nllb_swahili	residents of a small island town in the Malay Peninsula Chinese	0.25
+INEX_LD-2012309	bt_nllb_tamil	Residents of the small island city malaya peninsula of china	0.2
+INEX_LD-2012309	bt_nllb_french	residents of small island city state peninsula malaysia chinese	0.1429
+INEX_LD-2012309	bt_nllb_german	Inhabitants of small island city state Malay Peninsula Chinese	0.0625
+INEX_LD-2012311	-1	John Lennon Yoko Ono album Starting Over	1.0
+INEX_LD-2012313	-1	John Turturro 1991 Coen Brothers film	1.0
+INEX_LD-2012315	-1	Baguio Quezon City  Manila official independence 1945	0.0
+INEX_LD-2012315	bt_nllb_russian	Baguio Keson City Manila official independence	0.0588
+INEX_LD-2012315	bt_nllb_chinese_yue	The city of Quezon in Paraguay Manila officially became independent in	0.0108
+INEX_LD-2012317	-1	daggeroso inclined to use a dagger novel Sons and Lovers	0.0909
+INEX_LD-2012317	bt_nllb_russian	Dageroso is inclined to use the knife of the novel Sons and Lovers	0.3333
+INEX_LD-2012317	bt_nllb_french	The daggeroso used to use a dagger novel Sons and Lovers	0.1
+INEX_LD-2012318	-1	Directed Bela Glen Glenda Bride Monster Plan 9 Outer Space	0.2
+INEX_LD-2012318	bt_nllb_korean	Bella Glen directed by Glenda is a beautiful monster from Plan Nine	0.5
+INEX_LD-2012318	bt_nllb_chinese_yue	Bela Glen Glenda director of the Married Monsters Project is working on Space	0.3333
+INEX_LD-2012318	bt_nllb_russian	Directed by Bela Glenn Glenda Woman Monster Plan External space	0.3333
+INEX_LD-2012318	bt_nllb_tamil	Directed by Bella Klein Glenda Bride Animal Project outer space	0.3333
+INEX_LD-2012318	bt_nllb_french	Directed by Bela Glen Glenda The Bride s Monster Plan	0.25
+INEX_LD-2012318	bt_nllb_german	Directed by Bela Glen Glenda Bride Monster Plan Space	0.25
+INEX_LD-2012318	bt_nllb_malay	Directed by Bela Glen Glenda Plan Monster Bride Space	0.25
+INEX_LD-2012318	bt_nllb_swahili	Directed by Bela Glen Glenda Bride Monster Plan	0.25
+INEX_LD-2012319	-1	 1994 short story collection Alice Munro is Open	1.0
+INEX_LD-2012321	-1	Asian port state-city Sir Stamford Raffles	0.25
+INEX_LD-2012321	bt_nllb_german	The port city of Asia Sir Stamford Raffles	1.0
+INEX_LD-2012321	bt_nllb_swahili	Asia port city city Sir Stamford Raffles	1.0
+INEX_LD-2012323	-1	Large glaciers island nation Langjokull Hofsjokull Vatnajokull	1.0
+INEX_LD-2012325	-1	successor James G. Blaine studied law	0.5
+INEX_LD-2012327	-1	Beloved author African-American Nobel Prize Literature	0.3333
+INEX_LD-2012327	bt_nllb_korean	The beloved African American writer the Nobel Prize for Literature	0.5
+INEX_LD-2012327	bt_nllb_malay	Beloved writer African American Nobel Prize in Literature	0.5
+INEX_LD-2012327	bt_nllb_swahili	Beloved African American writer Nobel Prize in Literature	0.5
+INEX_LD-2012329	-1	Sweden Iceland currency	1.0
+INEX_LD-2012331	-1	Seoul Korea river name ethnic group China	0.0
+INEX_LD-2012331	bt_nllb_arabic	Seoul Korea is the name of the river	0.5
+INEX_LD-2012331	bt_nllb_persian	Seoul Korea named after the Chinese ethnic group s river	0.0222
+INEX_LD-2012333	-1	Prime minister Canada nicknamed Silver-Tongued Laurier longest unbroken term	1.0
+INEX_LD-2012335	-1	U.S. president authorise nuclear weapons against Japan	1.0
+INEX_LD-2012336	-1	1906 territory Papua island Australian	0.5
+INEX_LD-2012337	-1	Texas city Baylor University tornado 1953	0.1429
+INEX_LD-2012337	bt_nllb_korean	Baylor University in Texas located in the city of Tornado Texas in	0.2
+INEX_LD-2012339	-1	Nelson Mandela John Dube	0.2
+INEX_LD-2012339	bt_nllb_tamil	The first is that of Nelson Mandela	1.0
+INEX_LD-2012341	-1	1997  Houston airport president	1.0
+INEX_LD-2012343	-1	The Heart of a Woman poet's autobiography	0.5
+INEX_LD-2012343	bt_nllb_chinese_yue	The autobiography of the poet The Heart of a Woman	1.0
+INEX_LD-2012343	bt_nllb_german	The Heart of a Woman Autobiography of the Poet	1.0
+INEX_LD-2012343	bt_nllb_russian	Autobiography of the poet The Heart of a Woman	1.0
+INEX_LD-2012343	bt_nllb_swahili	The Heart of a Woman Biography of a poet	1.0
+INEX_LD-2012345	-1	Kennedy assassination governor of Texas seriously injured	1.0
+INEX_LD-2012347	-1	seat Florida country Dade	1.0
+INEX_LD-2012349	-1	Alexander Nevsky Cathedral Bulgarian city liberation Turks	0.1667
+INEX_LD-2012349	bt_nllb_arabic	Alexander Nevsky Cathedral of the Bulgarian Freedom of the Turkish City	0.3333
+INEX_LD-2012349	bt_nllb_malay	Alexander Nevsky Cathedral The exodus from the Bulgarian city of Turkey	0.3333
+INEX_LD-2012349	bt_nllb_swahili	Alexander Nevsky Cathedral Turkey Bulgaria city of redemption	0.3333
+INEX_LD-2012349	bt_nllb_korean	Alexander Nevsky Cathedral Bulgaria city liberation Turkey	0.25
+INEX_LD-2012349	bt_nllb_chinese_yue	Alexander Nevsky Cathedral the liberated city of Bulgaria by the Turks	0.2
+INEX_LD-2012349	bt_nllb_russian	Alexander Nevsky Cathedral The Bulgarian liberation of the city of Turki	0.2
+INEX_LD-2012351	-1	Indian Cuisine dish rice dhal vegetables roti papad	1.0
+INEX_LD-2012353	-1	country German language	1.0
+INEX_LD-2012354	-1	greatest guitarist	1.0
+INEX_LD-2012355	-1	England football player highest paid	0.25
+INEX_LD-2012357	-1	 prima ballerina Bolshoi Theatre 1960	0.1429
+INEX_LD-2012357	bt_nllb_korean	The Bolshoi Theatre in	1.0
+INEX_LD-2012357	bt_nllb_tamil	The Bram Ballarina Bolshoi Theatre	0.25
+INEX_LD-2012359	-1	 Bob Ricker Executive Director the latest front group for the anti-gun movement	1.0
+INEX_LD-2012361	-1	most famous award winning actor singer	0.5
+INEX_LD-2012363	-1	American twins famous  American professional tennis double players	1.0
+INEX_LD-2012365	-1	mathematician computer scientist MIT's six inaugural MacVicar Faculty Fellows	0.125
+INEX_LD-2012365	bt_nllb_french	The first six MacVicar faculty fellows	0.5
+INEX_LD-2012365	bt_nllb_swahili	mathematician computer scientist mit six inaugural macvicar college associates	0.5
+INEX_LD-2012365	bt_nllb_russian	Mathematician computer scientist at MIT first six MacVicar faculty fellows	0.2
+INEX_LD-2012367	-1	invented telescope	1.0
+INEX_LD-2012369	-1	most famous civic-military airports	0.3333
+INEX_LD-2012369	bt_nllb_arabic	The most famous civil and military airports	1.0
+INEX_LD-2012369	bt_nllb_french	the most famous civil and military airports	1.0
+INEX_LD-2012369	bt_nllb_german	The most famous civil and military airports	1.0
+INEX_LD-2012369	bt_nllb_persian	The most famous civil and military airports	1.0
+INEX_LD-2012369	bt_nllb_russian	The most famous civil military airports	1.0
+INEX_LD-2012369	bt_nllb_tamil	The most famous civil military airports	1.0
+INEX_LD-2012371	-1	most beautiful railway stations world cities located	0.05
+INEX_LD-2012371	bt_nllb_russian	The world s most beautiful railway stations are located in the city	0.1667
+INEX_LD-2012371	bt_nllb_tamil	The world s most beautiful railway stations are located in cities	0.1667
+INEX_LD-2012371	bt_nllb_chinese_yue	The most beautiful train station in the world	0.1
+INEX_LD-2012371	bt_nllb_french	The most beautiful train stations in the world are located	0.1
+INEX_LD-2012371	bt_nllb_arabic	The most beautiful railway stations in the world	0.0667
+INEX_LD-2012371	bt_nllb_korean	The most beautiful railway station in the world	0.0667
+INEX_LD-2012372	-1	famous historical battlefields opponents fought	0.1
+INEX_LD-2012372	bt_nllb_persian	Famous historical battlefields where their opponents fought	0.3333
+INEX_LD-2012372	bt_nllb_korean	A famous historic battlefield	0.2
+INEX_LD-2012372	bt_nllb_russian	The famous historical battlefields were fought by the enemy	0.2
+INEX_LD-2012373	-1	birds cannot fly	1.0
+INEX_LD-2012375	-1	animals lay eggs mammals	1.0
+INEX_LD-2012377	-1	allegedly caused World War I	0.0164
+INEX_LD-2012377	bt_nllb_french	would have caused World War I	0.3333
+INEX_LD-2012377	bt_nllb_russian	It was supposed to have caused World War I	0.037
+INEX_LD-2012381	-1	movie directors directed a block buster	1.0
+INEX_LD-2012383	-1	famous computer scientists disappeared at sea	0.5
+INEX_LD-2012385	-1	famous politicians vegetarians	0.25
+INEX_LD-2012387	-1	famous river confluence dam constructed	0.1111
+INEX_LD-2012389	-1	frequently visited sharks gulf Indian Ocean	0.0556
+INEX_LD-2012389	bt_nllb_german	Common shark in the Indian Ocean	1.0
+INEX_LD-2012389	bt_nllb_tamil	The most frequented sharks are the Indian Ocean Gulf	0.1429
+INEX_LD-2012389	bt_nllb_persian	The Indian Gulf s frequent sharks	0.1
+INEX_LD-2012389	bt_nllb_korean	The most frequent shark is the Indian Ocean	0.0833
+INEX_LD-2012389	bt_nllb_swahili	often visiting the fish gulf Indian Ocean	0.0667
+INEX_LD-2012390	-1	baseball player most homeruns national league	0.05
+INEX_LD-2012390	bt_nllb_arabic	Baseball player most of the home runs of the National League	1.0
+INEX_LD-2012390	bt_nllb_french	baseball player with the most home runs in the national league	1.0
+INEX_LD-2012390	bt_nllb_malay	Most home runs by a baseball player in the national league	1.0
+INEX_LD-2012390	bt_nllb_russian	Major league baseball player with the most home runs in the National League	1.0
+INEX_LD-2012390	bt_nllb_swahili	baseball player home runs most of the national league	1.0
+INEX_LD-2012390	bt_nllb_tamil	Baseball player with most home runs in the National League	1.0
+INEX_LD-2012390	bt_nllb_chinese_yue	Baseball players are the most dominant players in the National League	0.1
+INEX_LD-2012390	bt_nllb_persian	The most hated baseball player in the National League	0.0769
+INEX_XER-100	-1	Operating systems to which Steve Jobs related	1.0
+INEX_XER-106	-1	Noble english person from the Hundred Years' War	0.2
+INEX_XER-106	bt_nllb_chinese_yue	The English nobility of the Hundred Years War	0.25
+INEX_XER-106	bt_nllb_korean	The English nobility of the Hundred Years War	0.25
+INEX_XER-108	-1	State capitals of the United States of America	0.0
+INEX_XER-108	bt_nllb_malay	Capital of the United States	0.5
+INEX_XER-108	bt_nllb_swahili	The capital of the United States	0.5
+INEX_XER-108	bt_nllb_tamil	The capitals of the United States	0.5
+INEX_XER-108	bt_nllb_french	Capital cities of the States of the United States of America	0.0385
+INEX_XER-108	bt_nllb_german	Capital cities of the United States of America	0.0312
+INEX_XER-108	bt_nllb_persian	Capital cities of the United States of America	0.0312
+INEX_XER-108	bt_nllb_russian	Capital cities of the United States of America	0.0312
+INEX_XER-109	-1	National capitals situated on islands	0.0417
+INEX_XER-109	bt_nllb_arabic	National capitals on the islands	0.3333
+INEX_XER-109	bt_nllb_chinese_yue	The capital of the island nation	0.3333
+INEX_XER-109	bt_nllb_french	National capitals located on islands	0.3333
+INEX_XER-109	bt_nllb_german	National capitals located in islands	0.3333
+INEX_XER-109	bt_nllb_malay	The capital of the island nation	0.3333
+INEX_XER-109	bt_nllb_persian	National capitals on the islands	0.3333
+INEX_XER-109	bt_nllb_russian	National capitals located on the islands	0.3333
+INEX_XER-109	bt_nllb_tamil	National capitals located on the islands	0.3333
+INEX_XER-109	bt_nllb_korean	The capital of the country is located on the island	0.1667
+INEX_XER-110	-1	Nobel Prize in Literature winners who were also poets	1.0
+INEX_XER-113	-1	Formula 1 drivers that won the Monaco Grand Prix	1.0
+INEX_XER-114	-1	Formula one races in Europe	1.0
+INEX_XER-115	-1	Formula One World Constructors' Champions	1.0
+INEX_XER-116	-1	Italian nobel prize winners	1.0
+INEX_XER-117	-1	Musicians who appeared in the Blues Brothers movies	0.5
+INEX_XER-117	bt_nllb_chinese_yue	Musicians from the Blue Brothers movies	1.0
+INEX_XER-117	bt_nllb_german	Musicians who have appeared in the Blues Brothers films	1.0
+INEX_XER-117	bt_nllb_malay	Musicians appearing in the Blues Brothers films	1.0
+INEX_XER-117	bt_nllb_russian	Musicians who appeared in the Blues Brothers films	1.0
+INEX_XER-117	bt_nllb_swahili	Musicians who appeared in the Blues Brothers films	1.0
+INEX_XER-117	bt_nllb_tamil	The musicians who appeared in the Blues Brothers films	1.0
+INEX_XER-118	-1	French car models in 1960's	0.05
+INEX_XER-119	-1	Swiss cantons where they speak German	1.0
+INEX_XER-121	-1	US presidents since 1960	0.0
+INEX_XER-121	bt_nllb_arabic	Presidents of the United States since	0.025
+INEX_XER-121	bt_nllb_chinese_yue	President of the United States since	0.025
+INEX_XER-121	bt_nllb_french	Presidents of the United States since	0.025
+INEX_XER-121	bt_nllb_korean	President of the United States since	0.025
+INEX_XER-121	bt_nllb_malay	President of the United States since	0.025
+INEX_XER-121	bt_nllb_persian	President of the United States since	0.025
+INEX_XER-121	bt_nllb_russian	President of the United States since	0.025
+INEX_XER-121	bt_nllb_swahili	Presidents of the United States since	0.025
+INEX_XER-121	bt_nllb_tamil	Presidents of the United States since	0.025
+INEX_XER-122	-1	Movies with eight or more Academy Awards	0.0244
+INEX_XER-122	bt_nllb_arabic	Movies that have won eight or more Academy Awards	0.0435
+INEX_XER-122	bt_nllb_tamil	Movies that have won eight or more Academy Awards	0.0435
+INEX_XER-123	-1	FIFA world cup national team winners since 1974	0.5
+INEX_XER-124	-1	Novels that won the Booker Prize	1.0
+INEX_XER-125	-1	countries which have won the FIFA world cup	0.3333
+INEX_XER-126	-1	toy train manufacturers that are still in business	1.0
+INEX_XER-127	-1	german female politicians	1.0
+INEX_XER-128	-1	Bond girls	1.0
+INEX_XER-129	-1	Science fiction book written in the 1980	0.037
+INEX_XER-130	-1	Star Trek Captains	1.0
+INEX_XER-132	-1	living nordic classical composers	1.0
+INEX_XER-133	-1	EU countries	1.0
+INEX_XER-134	-1	record-breaking sprinters in male 100-meter sprints	0.3333
+INEX_XER-135	-1	professional baseball team in Japan	1.0
+INEX_XER-136	-1	Japanese players in Major League Baseball	1.0
+INEX_XER-138	-1	National Parks East Coast Canada US	0.05
+INEX_XER-138	bt_nllb_russian	National parks of the Eastern coast of Canada	1.0
+INEX_XER-138	bt_nllb_korean	National Park on the east coast of Canada	0.5
+INEX_XER-138	bt_nllb_swahili	National Parks on the East Coast of Canada	0.5
+INEX_XER-138	bt_nllb_malay	The U S Canadian East Coast National Park	0.3333
+INEX_XER-138	bt_nllb_arabic	National parks east coast Canada United States	0.125
+INEX_XER-138	bt_nllb_chinese_yue	National Parks Canada the east coast of the United States	0.125
+INEX_XER-138	bt_nllb_french	National parks East coast of Canada United States	0.125
+INEX_XER-138	bt_nllb_persian	National parks on the east coast of Canada United States	0.125
+INEX_XER-138	bt_nllb_tamil	National parks east coast Canada United States	0.125
+INEX_XER-139	-1	Films directed by Akira Kurosawa	1.0
+INEX_XER-140	-1	Airports in Germany	1.0
+INEX_XER-141	-1	Universities in Catalunya	1.0
+INEX_XER-143	-1	Hanseatic league in Germany in the Netherlands Circle	0.2
+INEX_XER-143	bt_nllb_tamil	The Hanseatic League in Germany in the Netherlands	0.3333
+INEX_XER-144	-1	chess world champions	1.0
+INEX_XER-147	-1	Chemical elements that are named after people	0.0833
+INEX_XER-60	-1	olympic classes dinghy sailing	1.0
+INEX_XER-62	-1	Neil Gaiman novels	1.0
+INEX_XER-63	-1	Hugo awarded best novels	1.0
+INEX_XER-64	-1	Alan Moore graphic novels adapted to film	0.5
+INEX_XER-64	bt_nllb_chinese_yue	Alan Moore s graphic novel was made into a movie	1.0
+INEX_XER-64	bt_nllb_swahili	Alan Moore graphic novels related to film	1.0
+INEX_XER-65	-1	Pacific navigators Australia explorers	0.5
+INEX_XER-65	bt_nllb_arabic	The Pacific sailors are exploring Australia	1.0
+INEX_XER-65	bt_nllb_chinese_yue	Pacific seafarers Australian explorers	1.0
+INEX_XER-67	-1	Ferris and observation wheels	1.0
+INEX_XER-72	-1	films shot in Venice	1.0
+INEX_XER-73	-1	magazines about indie-music	1.0
+INEX_XER-74	-1	circus mammals	0.0526
+INEX_XER-79	-1	Works by Charles Rennie Mackintosh	1.0
+INEX_XER-81	-1	Movies about English hooligans	1.0
+INEX_XER-86	-1	List of countries in World War Two	0.0192
+INEX_XER-86	bt_nllb_arabic	List of countries in World War II	1.0
+INEX_XER-86	bt_nllb_chinese_yue	List of countries in World War II	1.0
+INEX_XER-86	bt_nllb_french	List of countries of World War II	1.0
+INEX_XER-86	bt_nllb_german	List of countries in World War II	1.0
+INEX_XER-86	bt_nllb_korean	List of countries that fought in World War II	1.0
+INEX_XER-86	bt_nllb_malay	List of countries in World War II	1.0
+INEX_XER-86	bt_nllb_persian	List of countries involved in World War II	0.0455
+INEX_XER-86	bt_nllb_tamil	List of countries involved in World War II	0.0455
+INEX_XER-86	bt_nllb_swahili	List of countries that participated in World War II	0.0357
+INEX_XER-87	-1	Axis powers of World War II	1.0
+INEX_XER-88	-1	Nordic authors who are known for children's literature	1.0
+INEX_XER-91	-1	Paul Auster novels	1.0
+INEX_XER-94	-1	Hybrid cars sold in Europe	1.0
+INEX_XER-95	-1	Tom Hanks movies where he plays a leading role.	0.5
+INEX_XER-95	bt_nllb_chinese_yue	Tom Hanks is the main character in the movie	1.0
+INEX_XER-95	bt_nllb_malay	Tom Hanks film in which he plays the lead role	1.0
+INEX_XER-96	-1	Pure object-oriented programing languages	0.25
+INEX_XER-96	bt_nllb_persian	Purely directed programming languages	0.5
+INEX_XER-96	bt_nllb_russian	Clean object oriented programming languages	0.3333
+INEX_XER-97	-1	Compilers that can compile both C and C++	1.0
+INEX_XER-98	-1	Makers of lawn tennis rackets	0.0667
+INEX_XER-98	bt_nllb_french	Manufacturers of lawn tennis rackets	1.0
+INEX_XER-98	bt_nllb_german	Manufacturers of lawn tennis rackets	1.0
+INEX_XER-98	bt_nllb_korean	We re a manufacturer of lawn tennis rackets	1.0
+INEX_XER-98	bt_nllb_malay	Manufacturer of lawn tennis rackets	1.0
+INEX_XER-98	bt_nllb_swahili	Manufacturers of lawn tennis rackets	1.0
+INEX_XER-98	bt_nllb_tamil	The manufacturers of lawn tennis rackets	1.0
+INEX_XER-98	bt_nllb_russian	Manufacturers of lawn tennis rockets	0.3333
+INEX_XER-98	bt_nllb_arabic	The manufacturer of tennis racquets for the fatigued	0.1667
+INEX_XER-99	-1	Computer systems that have a recursive acronym for the name	1.0
+QALD2_te-1	-1	Which German cities have more than 250000 inhabitants?	0.1429
+QALD2_te-1	bt_nllb_chinese_yue	Which city in Germany has more than people	1.0
+QALD2_te-1	bt_nllb_persian	Which German cities have a population of more than	0.3333
+QALD2_te-1	bt_nllb_malay	Which city in Germany has more than inhabitants	0.25
+QALD2_te-1	bt_nllb_arabic	What German city has more than inhabitants	0.2
+QALD2_te-100	-1	Who produces Orangina?	1.0
+QALD2_te-11	-1	Who is the Formula 1 race driver with the most races?	0.0116
+QALD2_te-11	bt_nllb_arabic	Who s the Formula One driver with the most races	0.0125
+QALD2_te-11	bt_nllb_french	Who s the most raced Formula One driver	0.0125
+QALD2_te-11	bt_nllb_german	Who s the Formula One driver with the most races	0.0125
+QALD2_te-11	bt_nllb_korean	Who s the Formula One driver with the most races	0.0125
+QALD2_te-11	bt_nllb_malay	Who s the most raced Formula One driver	0.0125
+QALD2_te-12	-1	Give me all world heritage sites designated within the past five years.	0.05
+QALD2_te-12	bt_nllb_korean	Give me all the World Heritage sites you ve designated in the last five years	0.3333
+QALD2_te-13	-1	Who is the youngest player in the Premier League?	0.25
+QALD2_te-14	-1	Give me all members of Prodigy.	0.0714
+QALD2_te-15	-1	What is the longest river?	1.0
+QALD2_te-17	-1	Give me all cars that are produced in Germany.	0.25
+QALD2_te-19	-1	Give me all people that were born in Vienna and died in Berlin.	0.0323
+QALD2_te-2	-1	Who was the successor of John F. Kennedy?	0.0
+QALD2_te-21	-1	What is the capital of Canada?	0.0
+QALD2_te-22	-1	Who is the governor of Texas?	0.5
+QALD2_te-24	-1	Who was the father of Queen Elizabeth II?	0.02
+QALD2_te-25	-1	Which U.S. state has been admitted latest?	0.0
+QALD2_te-25	bt_nllb_malay	Which state was the last to be admitted	0.0139
+QALD2_te-27	-1	Sean Parnell is the governor of which U.S. state?	0.5
+QALD2_te-27	bt_nllb_chinese_yue	Which state is Sean Parnell governor of	1.0
+QALD2_te-27	bt_nllb_french	Sean Parnell is the governor of what state	1.0
+QALD2_te-27	bt_nllb_german	Sean Parnell is governor of which state	1.0
+QALD2_te-27	bt_nllb_malay	Sean Parnell is governor of which state	1.0
+QALD2_te-27	bt_nllb_russian	Sean Parnell is governor of what state	1.0
+QALD2_te-28	-1	Give me all movies directed by Francis Ford Coppola.	0.3333
+QALD2_te-28	bt_nllb_chinese_yue	Show me all the films directed by Francis Ford Coppola	0.5
+QALD2_te-28	bt_nllb_french	Give me all the films directed by Francis Ford Coppola	0.5
+QALD2_te-28	bt_nllb_german	Give me all the films of Francis Ford Coppola	0.5
+QALD2_te-28	bt_nllb_korean	Give me all the films directed by Francis Ford Coppola	0.5
+QALD2_te-28	bt_nllb_malay	Give me all the films directed by Francis Ford Coppola	0.5
+QALD2_te-28	bt_nllb_persian	Give me all the films directed by Francis Ford Coppola	0.5
+QALD2_te-28	bt_nllb_russian	Give me all the films directed by Francis Ford Coppola	0.5
+QALD2_te-28	bt_nllb_swahili	Give me all the films directed by Francis Ford Coppola	0.5
+QALD2_te-28	bt_nllb_tamil	Give me all the films directed by Francis Ford Coppola	0.5
+QALD2_te-29	-1	Give me all actors starring in movies directed by and starring William Shatner.	0.3333
+QALD2_te-3	-1	Who is the mayor of Berlin?	0.5
+QALD2_te-31	-1	Give me all current Methodist national leaders.	0.1667
+QALD2_te-31	bt_nllb_tamil	Give me all the current national leaders of the Methodist Church	0.3333
+QALD2_te-33	-1	Give me all Australian nonprofit organizations.	0.0333
+QALD2_te-33	bt_nllb_tamil	Give me the Australian non profit organizations	0.0833
+QALD2_te-33	bt_nllb_korean	Listen to all the non profit organizations in Australia	0.0556
+QALD2_te-33	bt_nllb_french	Give me all the Australian non profit organizations	0.0385
+QALD2_te-34	-1	In which military conflicts did Lawrence of Arabia participate?	0.3333
+QALD2_te-34	bt_nllb_chinese_yue	What war did Lawrence of Arabia fight	1.0
+QALD2_te-35	-1	Who developed Skype?	0.2
+QALD2_te-35	bt_nllb_tamil	Who created Skype	0.5
+QALD2_te-39	-1	Give me all companies in Munich.	0.0
+QALD2_te-40	-1	List all boardgames by GMT.	1.0
+QALD2_te-41	-1	Who founded Intel?	0.0179
+QALD2_te-41	bt_nllb_tamil	Who is the founder of Intel	0.0208
+QALD2_te-42	-1	Who is the husband of Amanda Palmer?	0.0323
+QALD2_te-43	-1	Give me all breeds of the German Shepherd dog.	1.0
+QALD2_te-44	-1	Which cities does the Weser flow through?	1.0
+QALD2_te-45	-1	Which countries are connected by the Rhine?	1.0
+QALD2_te-46	-1	Which professional surfers were born on the Philippines?	0.0667
+QALD2_te-46	bt_nllb_korean	Who are the Filipino born professional surfers	0.5
+QALD2_te-46	bt_nllb_persian	What professional surfer was born in the Philippines	0.25
+QALD2_te-46	bt_nllb_tamil	What professional surfer was born in the Philippines	0.25
+QALD2_te-46	bt_nllb_german	What kind of professional surfers are born in the Philippines	0.1667
+QALD2_te-46	bt_nllb_russian	What professional surfers were born in the Philippines	0.125
+QALD2_te-46	bt_nllb_swahili	Where are the professional surfers born in the Philippines	0.0833
+QALD2_te-46	bt_nllb_french	What kind of professional surfers were born in the Philippines	0.0769
+QALD2_te-46	bt_nllb_chinese_yue	Who was born a professional surfer in the Philippines	0.0714
+QALD2_te-48	-1	In which UK city are the headquarters of the MI6?	0.0
+QALD2_te-49	-1	Which other weapons did the designer of the Uzi develop?	0.3333
+QALD2_te-49	bt_nllb_malay	Another weapon made by Uzi s designer	0.5
+QALD2_te-49	bt_nllb_russian	What other weapons did Uzi design	0.5
+QALD2_te-5	-1	What is the second highest mountain on Earth?	0.3333
+QALD2_te-51	-1	Give me all Frisian islands that belong to the Netherlands.	1.0
+QALD2_te-53	-1	What is the ruling party in Lisbon?	0.0
+QALD2_te-53	bt_nllb_malay	What party is in power in Lisbon	0.0145
+QALD2_te-55	-1	Which Greek goddesses dwelt on Mount Olympus?	1.0
+QALD2_te-57	-1	Give me the Apollo 14 astronauts.	0.0714
+QALD2_te-57	bt_nllb_french	Give me the astronauts from Apollo	0.0833
+QALD2_te-58	-1	What is the time zone of Salt Lake City?	0.0149
+QALD2_te-58	bt_nllb_french	What s the time zone for Salt Lake City	0.0189
+QALD2_te-58	bt_nllb_german	What s the time zone of Salt Lake City	0.0189
+QALD2_te-58	bt_nllb_malay	What s the time zone of Salt Lake City	0.0189
+QALD2_te-58	bt_nllb_persian	What s the time zone in Salt Lake City	0.0189
+QALD2_te-59	-1	Which U.S. states are in the same timezone as Utah?	0.0
+QALD2_te-6	-1	Give me all professional skateboarders from Sweden.	0.1667
+QALD2_te-6	bt_nllb_chinese_yue	To all the professional skateboarders from Sweden	1.0
+QALD2_te-6	bt_nllb_korean	Give me all the Swedish professional skateboards	0.3333
+QALD2_te-6	bt_nllb_persian	Give me all the professional Swedish skateboards	0.3333
+QALD2_te-6	bt_nllb_french	Give me all the professional skateboarders in Sweden	0.2
+QALD2_te-60	-1	Give me a list of all lakes in Denmark.	0.0323
+QALD2_te-60	bt_nllb_tamil	Give me a list of lakes in Denmark	0.2
+QALD2_te-63	-1	Give me all Argentine films.	0.3333
+QALD2_te-63	bt_nllb_arabic	Give me all the Argentine movies	0.5
+QALD2_te-63	bt_nllb_chinese_yue	Give me all the Argentine movies	0.5
+QALD2_te-63	bt_nllb_german	Give me all the Argentine movies	0.5
+QALD2_te-63	bt_nllb_korean	Give me all the Argentine movies	0.5
+QALD2_te-63	bt_nllb_malay	Give me all the Argentine movies	0.5
+QALD2_te-63	bt_nllb_persian	Give me all the Argentine movies	0.5
+QALD2_te-63	bt_nllb_swahili	Give me all the Argentine movies	0.5
+QALD2_te-64	-1	Give me all launch pads operated by NASA.	1.0
+QALD2_te-65	-1	Which instruments did John Lennon play?	0.5
+QALD2_te-66	-1	Which ships were called after Benjamin Franklin?	0.0769
+QALD2_te-66	bt_nllb_french	Which ships were named after Benjamin Franklin	0.2
+QALD2_te-66	bt_nllb_german	Which ships were named after Benjamin Franklin	0.2
+QALD2_te-66	bt_nllb_swahili	What ships were named after Benjamin Franklin	0.1429
+QALD2_te-66	bt_nllb_tamil	What ships were named after Benjamin Franklin	0.1429
+QALD2_te-66	bt_nllb_arabic	Which ship is named after Benjamin Franklin	0.1111
+QALD2_te-66	bt_nllb_chinese_yue	Which ship is named after Benjamin Franklin	0.1111
+QALD2_te-66	bt_nllb_korean	Which ships are named after Benjamin Franklin	0.1111
+QALD2_te-66	bt_nllb_malay	Which ship is named after Benjamin Franklin	0.1111
+QALD2_te-66	bt_nllb_persian	What ships are named after Benjamin Franklin	0.0833
+QALD2_te-66	bt_nllb_russian	What ships are named after Benjamin Franklin	0.0833
+QALD2_te-67	-1	Who are the parents of the wife of Juan Carlos I?	0.0769
+QALD2_te-72	-1	In which U.S. state is Area 51 located?	0.0
+QALD2_te-75	-1	Which daughters of British earls died in the same place they were born in?	0.0217
+QALD2_te-76	-1	List the children of Margaret Thatcher.	1.0
+QALD2_te-77	-1	Who was called Scarface?	0.0909
+QALD2_te-77	bt_nllb_chinese_yue	Who is Scarface	1.0
+QALD2_te-77	bt_nllb_french	Who was Scarface	1.0
+QALD2_te-77	bt_nllb_german	Who was Scarface	1.0
+QALD2_te-77	bt_nllb_korean	Who called you Scarface	1.0
+QALD2_te-77	bt_nllb_russian	Who was Scarface	1.0
+QALD2_te-77	bt_nllb_swahili	Who was Scarface	1.0
+QALD2_te-8	-1	To which countries does the Himalayan mountain system extend?	1.0
+QALD2_te-80	-1	Give me all books by William Goldman with more than 300 pages.	1.0
+QALD2_te-81	-1	Which books by Kerouac were published by Viking Press?	1.0
+QALD2_te-82	-1	Give me a list of all American inventions.	0.0137
+QALD2_te-82	bt_nllb_korean	Give me a list of American inventions	0.0385
+QALD2_te-82	bt_nllb_tamil	Give me a list of American inventions	0.0385
+QALD2_te-84	-1	Who created the comic Captain America?	0.0909
+QALD2_te-84	bt_nllb_french	Who created the comic book Captain America	0.2
+QALD2_te-84	bt_nllb_german	Who created the comic book Captain America	0.2
+QALD2_te-84	bt_nllb_korean	Who made the comic Captain America	0.2
+QALD2_te-84	bt_nllb_tamil	Who created the comic book Captain America	0.2
+QALD2_te-86	-1	What is the largest city in Australia?	0.0169
+QALD2_te-87	-1	Who composed the music for Harold and Maude?	0.3333
+QALD2_te-88	-1	Which films starring Clint Eastwood did he direct himself?	0.25
+QALD2_te-88	bt_nllb_chinese_yue	What movies did Clint Eastwood star in	1.0
+QALD2_te-88	bt_nllb_malay	Which movie is Clint Eastwood starring in that he directed himself	0.5
+QALD2_te-88	bt_nllb_tamil	What films did he direct with Clint Eastwood	0.5
+QALD2_te-88	bt_nllb_arabic	Which Clint Eastwood movies did he put in himself	0.3333
+QALD2_te-88	bt_nllb_french	What films with Clint Eastwood did he direct himself	0.3333
+QALD2_te-88	bt_nllb_german	What movies did he direct with Clint Eastwood himself	0.3333
+QALD2_te-88	bt_nllb_korean	What are the movies that Clint Eastwood starred in	0.3333
+QALD2_te-88	bt_nllb_persian	What original movies did Clint Eastwood direct	0.3333
+QALD2_te-88	bt_nllb_russian	What Clint Eastwood movies did he direct himself	0.3333
+QALD2_te-88	bt_nllb_swahili	What films with Clint Eastwood did he direct himself	0.3333
+QALD2_te-89	-1	In which city was the former Dutch queen Juliana buried?	0.125
+QALD2_te-89	bt_nllb_french	In what city was the former Dutch Queen Juliana buried	0.25
+QALD2_te-89	bt_nllb_malay	Where is the former Dutch queen Juliana buried	0.25
+QALD2_te-89	bt_nllb_swahili	In what city was the former Queen Juliana of the Netherlands buried	0.1429
+QALD2_te-9	-1	Give me a list of all trumpet players that were bandleaders.	1.0
+QALD2_te-90	-1	Where is the residence of the prime minister of Spain?	0.3333
+QALD2_te-90	bt_nllb_french	Where is the residence of the Spanish Prime Minister	0.5
+QALD2_te-90	bt_nllb_german	Where is the residence of the Spanish Prime Minister	0.5
+QALD2_te-90	bt_nllb_malay	Where is the residence of the Spanish prime minister	0.5
+QALD2_te-91	-1	Which U.S. State has the abbreviation MN?	0.3333
+QALD2_te-92	-1	Show me all songs from Bruce Springsteen released between 1980 and 1990.	1.0
+QALD2_te-93	-1	Which movies did Sam Raimi direct after Army of Darkness?	0.5
+QALD2_te-93	bt_nllb_arabic	What movies did Sam Raimi direct after Dark Army	1.0
+QALD2_te-93	bt_nllb_chinese_yue	What movies did Sam Raimi direct after the Dark Ages	1.0
+QALD2_te-93	bt_nllb_french	What movies did Sam Raimi direct after Army of Darkness	1.0
+QALD2_te-93	bt_nllb_german	What movies did Sam Raimi direct to Army of Darkness	1.0
+QALD2_te-93	bt_nllb_korean	Are the films that Ram Raimi made about the army of darkness	1.0
+QALD2_te-93	bt_nllb_russian	What movies did Sam Raimi direct after the Army of Darkness	1.0
+QALD2_te-93	bt_nllb_swahili	What films did Sam Raimi direct after the Army of Darkness	1.0
+QALD2_te-93	bt_nllb_tamil	What movies did Sam Raimi direct after the Army went dark	1.0
+QALD2_te-95	-1	Who wrote the lyrics for the Polish national anthem?	0.0417
+QALD2_te-97	-1	Who painted The Storm on the Sea of Galilee?	1.0
+QALD2_te-98	-1	Which country does the creator of Miffy come from?	1.0
+QALD2_te-99	-1	For which label did Elvis record his first album?	0.037
+QALD2_tr-1	-1	Give me all female Russian astronauts.	0.25
+QALD2_tr-1	bt_nllb_korean	Call all the Russian women astronauts	0.5
+QALD2_tr-10	-1	In which country does the Nile start?	0.0
+QALD2_tr-10	bt_nllb_german	Which country is the source of the Nile	0.2
+QALD2_tr-10	bt_nllb_swahili	From what country does the Nile River begin	0.1429
+QALD2_tr-10	bt_nllb_persian	In which country does the Nile River begin	0.0667
+QALD2_tr-10	bt_nllb_malay	In what country does the Nile begin	0.0278
+QALD2_tr-10	bt_nllb_tamil	What country does the Nile begin in	0.0278
+QALD2_tr-10	bt_nllb_chinese_yue	From which country does the Nile begin	0.0204
+QALD2_tr-10	bt_nllb_arabic	In which country does the Nile River start	0.0167
+QALD2_tr-10	bt_nllb_korean	Which country does the Nile River start in	0.0167
+QALD2_tr-11	-1	Which countries have places with more than two caves?	0.5
+QALD2_tr-13	-1	Which classis does the Millepede belong to?	1.0
+QALD2_tr-15	-1	Who created Goofy?	0.25
+QALD2_tr-16	-1	Give me the capitals of all countries in Africa.	0.0
+QALD2_tr-17	-1	Give me all cities in New Jersey with more than 100000 inhabitants.	0.0
+QALD2_tr-18	-1	Which museum exhibits The Scream by Munch?	0.0
+QALD2_tr-18	bt_nllb_swahili	What museum is the Munch Declaration testimony to	0.0192
+QALD2_tr-18	bt_nllb_french	What museum is showing Munch s Cry	0.0149
+QALD2_tr-21	-1	Which states border Illinois?	1.0
+QALD2_tr-22	-1	In which country is the Limerick Lake?	0.5
+QALD2_tr-23	-1	Which television shows were created by Walt Disney?	1.0
+QALD2_tr-24	-1	Which mountain is the highest after the Annapurna?	1.0
+QALD2_tr-25	-1	In which films directed by Garry Marshall was Julia Roberts starring?	1.0
+QALD2_tr-26	-1	Which bridges are of the same type as the Manhattan Bridge?	0.1429
+QALD2_tr-26	bt_nllb_chinese_yue	Which bridge is the same as the Manhattan Bridge	0.25
+QALD2_tr-26	bt_nllb_malay	Which bridge is the same as the Manhattan Bridge	0.25
+QALD2_tr-26	bt_nllb_arabic	What bridges are the same as the Manhattan Bridge	0.2
+QALD2_tr-28	-1	Which European countries have a constitutional monarchy?	0.125
+QALD2_tr-29	-1	Which awards did WikiLeaks win?	0.25
+QALD2_tr-29	bt_nllb_german	What awards has WikiLeaks won	1.0
+QALD2_tr-29	bt_nllb_malay	Which prize has WikiLeaks won	0.5
+QALD2_tr-3	-1	Who is the daughter of Bill Clinton married to?	0.0
+QALD2_tr-30	-1	Which state of the USA has the highest population density?	0.0909
+QALD2_tr-31	-1	What is the currency of the Czech Republic?	0.25
+QALD2_tr-32	-1	Which countries in the European Union adopted the Euro?	1.0
+QALD2_tr-34	-1	Which countries have more than two official languages?	0.25
+QALD2_tr-34	bt_nllb_chinese_yue	Which country has more than two official languages	0.5
+QALD2_tr-34	bt_nllb_malay	Which country has more than two official languages	0.5
+QALD2_tr-35	-1	Who is the owner of Universal Studios?	0.0
+QALD2_tr-36	-1	Through which countries does the Yenisei river flow?	0.5
+QALD2_tr-38	-1	Which monarchs of the United Kingdom were married to a German?	0.0132
+QALD2_tr-38	bt_nllb_arabic	Which queen of the United Kingdom married a German	0.0303
+QALD2_tr-38	bt_nllb_russian	Which British monarchs were married to a German	0.0175
+QALD2_tr-38	bt_nllb_malay	Which kings in the United Kingdom marry a German	0.0145
+QALD2_tr-4	-1	Which river does the Brooklyn Bridge cross?	0.25
+QALD2_tr-4	bt_nllb_arabic	Which river crosses the Brooklyn Bridge	0.5
+QALD2_tr-4	bt_nllb_malay	Which river is the Brooklyn Bridge	0.3333
+QALD2_tr-40	-1	What is the highest mountain in Australia?	0.2
+QALD2_tr-41	-1	Give me all soccer clubs in Spain.	0.0
+QALD2_tr-41	bt_nllb_arabic	Give me every football club in Spain	0.0156
+QALD2_tr-41	bt_nllb_swahili	Give me every football club in Spain	0.0156
+QALD2_tr-42	-1	What are the official languages of the Philippines?	0.1429
+QALD2_tr-42	bt_nllb_russian	What are the official languages spoken in the Philippines	1.0
+QALD2_tr-43	-1	Who is the mayor of New York City?	0.5
+QALD2_tr-44	-1	Who designed the Brooklyn Bridge?	1.0
+QALD2_tr-45	-1	Which telecommunications organizations are located in Belgium?	0.5
+QALD2_tr-45	bt_nllb_malay	Which telecommunications company is located in Belgium	1.0
+QALD2_tr-45	bt_nllb_persian	What telecommunications organisations are located in Belgium	1.0
+QALD2_tr-45	bt_nllb_russian	What telecommunications organisations are located in Belgium	1.0
+QALD2_tr-45	bt_nllb_swahili	What are the telephone companies in Belgium	1.0
+QALD2_tr-47	-1	What is the highest place of Karakoram?	0.25
+QALD2_tr-47	bt_nllb_arabic	What s the highest place in Karakoram	1.0
+QALD2_tr-47	bt_nllb_persian	Where is the highest point of Karakoram	1.0
+QALD2_tr-47	bt_nllb_malay	What is the highest point in Karakoram	0.3333
+QALD2_tr-47	bt_nllb_swahili	What is the highest point in Karakoram	0.3333
+QALD2_tr-47	bt_nllb_tamil	What is the highest point in the city of Karakoram	0.3333
+QALD2_tr-49	-1	Give me all companies in the advertising industry.	1.0
+QALD2_tr-50	-1	What did Bruce Carver die from?	0.0769
+QALD2_tr-50	bt_nllb_malay	What caused Bruce Carver s death	1.0
+QALD2_tr-50	bt_nllb_swahili	What caused Bruce Carver s death	1.0
+QALD2_tr-50	bt_nllb_tamil	What caused Bruce Carver s death	1.0
+QALD2_tr-51	-1	Give me all school types.	0.0
+QALD2_tr-52	-1	Which presidents were born in 1945?	0.0
+QALD2_tr-53	-1	Give me all presidents of the United States.	0.0
+QALD2_tr-54	-1	Who was the wife of U.S. president Lincoln?	0.0556
+QALD2_tr-54	bt_nllb_chinese_yue	Who was President Lincoln s wife	0.1111
+QALD2_tr-54	bt_nllb_korean	Who was President Lincoln s wife	0.1111
+QALD2_tr-54	bt_nllb_malay	Who was the wife of President Lincoln of the United States	0.1111
+QALD2_tr-54	bt_nllb_russian	Who was the wife of President Lincoln of the United States	0.1111
+QALD2_tr-54	bt_nllb_arabic	Who was the wife of President Lincoln	0.0667
+QALD2_tr-54	bt_nllb_french	Who was the wife of President Lincoln	0.0667
+QALD2_tr-54	bt_nllb_german	Who was the wife of President Lincoln	0.0667
+QALD2_tr-54	bt_nllb_persian	Who was the wife of President Lincoln	0.0667
+QALD2_tr-55	-1	Who developed the video game World of Warcraft?	0.125
+QALD2_tr-55	bt_nllb_persian	Who made the video game World of Warcraft	0.5
+QALD2_tr-55	bt_nllb_german	Who created the video game World of Warcraft	0.1667
+QALD2_tr-55	bt_nllb_tamil	Who created the World Warcraft video game	0.1667
+QALD2_tr-57	-1	List all episodes of the first season of the HBO television series The Sopranos!	1.0
+QALD2_tr-58	-1	Who produced the most films?	0.0
+QALD2_tr-59	-1	Give me all people with first name Jimmy.	0.0476
+QALD2_tr-59	bt_nllb_malay	Tell me everyone by the first name Jimmy	1.0
+QALD2_tr-59	bt_nllb_persian	Tell everyone the first name is Jimmy	0.25
+QALD2_tr-59	bt_nllb_tamil	Tell anyone who has the name Jimmy	0.2
+QALD2_tr-59	bt_nllb_russian	Give me all the people named Jimmy	0.0909
+QALD2_tr-6	-1	Where did Abraham Lincoln die?	0.037
+QALD2_tr-6	bt_nllb_tamil	Abraham Lincoln died in what place	0.1429
+QALD2_tr-61	-1	Which mountains are higher than the Nanga Parbat?	1.0
+QALD2_tr-62	-1	Who created Wikipedia?	0.0526
+QALD2_tr-63	-1	Give me all actors starring in Batman Begins.	0.2
+QALD2_tr-63	bt_nllb_french	Give me all the actors who play in Batman Begins	0.25
+QALD2_tr-63	bt_nllb_russian	Give me all the actors who play Batman Begins	0.25
+QALD2_tr-64	-1	Which software has been developed by organizations founded in California?	0.5
+QALD2_tr-65	-1	Which companies work in the aerospace industry as well as on nuclear reactor technology?	1.0
+QALD2_tr-68	-1	Which actors were born in Germany?	1.0
+QALD2_tr-69	-1	Which caves have more than 3 entrances?	0.5
+QALD2_tr-70	-1	Give me all films produced by Hal Roach.	1.0
+QALD2_tr-71	-1	Give me all video games published by Mean Hamster Software.	1.0
+QALD2_tr-72	-1	Which languages are spoken in Estonia?	1.0
+QALD2_tr-73	-1	Who owns Aldi?	1.0
+QALD2_tr-74	-1	Which capitals in Europe were host cities of the summer olympic games?	0.0769
+QALD2_tr-75	-1	Who has been the 5th president of the United States of America?	0.0
+QALD2_tr-75	bt_nllb_arabic	Who was the fifth president of the United States of America	0.0909
+QALD2_tr-75	bt_nllb_french	Who was the fifth president of the United States of America	0.0909
+QALD2_tr-75	bt_nllb_german	Who was the fifth president of the United States of America	0.0909
+QALD2_tr-75	bt_nllb_russian	Who was the fifth president of the United States of America	0.0909
+QALD2_tr-77	-1	Which music albums contain the song Last Christmas?	0.125
+QALD2_tr-78	-1	Give me all books written by Danielle Steel.	0.0455
+QALD2_tr-78	bt_nllb_chinese_yue	Give me all the books by Danielle Steel	0.0909
+QALD2_tr-78	bt_nllb_german	Give me all the books by Danielle Steel	0.0909
+QALD2_tr-78	bt_nllb_swahili	Give me all the books by Danielle Steel	0.0909
+QALD2_tr-79	-1	Which airports are located in California, USA?	0.5
+QALD2_tr-79	bt_nllb_malay	Which airport is located in California United States	1.0
+QALD2_tr-8	-1	Which states of Germany are governed by the Social Democratic Party?	0.1111
+QALD2_tr-8	bt_nllb_arabic	Which states in Germany are ruled by the Social Democratic Party	1.0
+QALD2_tr-8	bt_nllb_chinese_yue	Which state in Germany is ruled by the Social Democratic Party	1.0
+QALD2_tr-8	bt_nllb_french	Which states in Germany are ruled by the Social Democratic Party	1.0
+QALD2_tr-8	bt_nllb_korean	Which states in Germany are ruled by the Social Democratic Party	1.0
+QALD2_tr-8	bt_nllb_tamil	Which states of Germany are ruled by the Social Democratic Party	1.0
+QALD2_tr-8	bt_nllb_german	Which states are ruled by the Social Democratic Party	0.3333
+QALD2_tr-80	-1	Give me all Canadian Grunge record labels.	0.0
+QALD2_tr-81	-1	Which country has the most official languages?	0.5
+QALD2_tr-82	-1	In which programming language is GIMP written?	0.1
+QALD2_tr-83	-1	Who produced films starring Natalie Portman?	0.5
+QALD2_tr-83	bt_nllb_chinese_yue	Who made the film starring Natalie Portman	1.0
+QALD2_tr-83	bt_nllb_french	Who made movies with Natalie Portman	1.0
+QALD2_tr-83	bt_nllb_german	Who made movies with Natalie Portman	1.0
+QALD2_tr-83	bt_nllb_korean	Who made the movie starring Natalie Portman	1.0
+QALD2_tr-83	bt_nllb_malay	Who made the movie starring Natalie Portman	1.0
+QALD2_tr-83	bt_nllb_persian	Who made the movies with Natalie Portman	1.0
+QALD2_tr-83	bt_nllb_russian	Who made the Natalie Portman movies	1.0
+QALD2_tr-84	-1	Give me all movies with Tom Cruise.	0.0625
+QALD2_tr-84	bt_nllb_tamil	Give me all the Tom Cruise pictures	0.5
+QALD2_tr-85	-1	In which films did Julia Roberts as well as Richard Gere play?	1.0
+QALD2_tr-86	-1	Give me all female German chancellors.	0.0833
+QALD2_tr-86	bt_nllb_chinese_yue	To all the female German prime ministers	0.2
+QALD2_tr-86	bt_nllb_persian	Give me all the women of the Chancellor of Germany	0.0909
+QALD2_tr-86	bt_nllb_russian	Give me all the women chancellors of Germany	0.0909
+QALD2_tr-87	-1	Who wrote the book The pillars of the Earth?	0.25
+QALD2_tr-89	-1	Give me all soccer clubs in the Premier League.	0.0333
+QALD2_tr-9	-1	Which U.S. states possess gold minerals?	0.0
+QALD2_tr-9	bt_nllb_french	Which states have gold minerals	1.0
+QALD2_tr-9	bt_nllb_arabic	Which US states have gold minerals	0.5
+QALD2_tr-9	bt_nllb_korean	Which US states have gold mines	0.3333
+QALD2_tr-9	bt_nllb_malay	Which country in the United States has gold minerals	0.0588
+QALD2_tr-9	bt_nllb_chinese_yue	Which state in the United States has gold	0.0333
+QALD2_tr-9	bt_nllb_german	Which U S states have gold minerals	0.0312
+QALD2_tr-9	bt_nllb_russian	Which U S states have gold minerals	0.0312
+QALD2_tr-9	bt_nllb_swahili	What U S states have gold deposits	0.0227
+QALD2_tr-9	bt_nllb_persian	Which U S states have gold mines	0.0161
+QALD2_tr-91	-1	Which organizations were founded in 1950?	0.0
+QALD2_tr-92	-1	What is the highest mountain?	0.0
+QALD2_tr-92	bt_nllb_persian	What is the tallest mountain	0.0345
+QALD2_tr-92	bt_nllb_swahili	What is the tallest mountain	0.0345
+QALD2_tr-92	bt_nllb_arabic	What s the highest mountain	0.011
+QALD2_tr-92	bt_nllb_german	What s the highest mountain	0.011
+QALD2_tr-92	bt_nllb_russian	What s the highest mountain	0.011
+SemSearch_ES-1	-1	44 magnum hunting	0.3333
+SemSearch_ES-1	bt_nllb_malay	magnum hunters	1.0
+SemSearch_ES-10	-1	asheville north carolina	1.0
+SemSearch_ES-100	-1	YMCA Tampa	0.0769
+SemSearch_ES-101	-1	ashley wagner	1.0
+SemSearch_ES-102	-1	beach flowers	1.0
+SemSearch_ES-104	-1	bourbonnais il	0.5
+SemSearch_ES-106	-1	chase masterson	1.0
+SemSearch_ES-107	-1	concord steel	1.0
+SemSearch_ES-108	-1	danielia cotton	1.0
+SemSearch_ES-109	-1	david hewlett	1.0
+SemSearch_ES-11	-1	austin powers	1.0
+SemSearch_ES-111	-1	eagle rock, ca	1.0
+SemSearch_ES-114	-1	glenn frey	1.0
+SemSearch_ES-115	-1	goodwill of michigan	0.0204
+SemSearch_ES-118	-1	iowa energy	0.5
+SemSearch_ES-118	bt_nllb_arabic	Iowa s energy	1.0
+SemSearch_ES-118	bt_nllb_french	Iowa s energy	1.0
+SemSearch_ES-119	-1	john elliott	1.0
+SemSearch_ES-12	-1	austin texas	0.5
+SemSearch_ES-120	-1	lawrence general hospital	0.5
+SemSearch_ES-123	-1	michael zimmerman	1.0
+SemSearch_ES-124	-1	motorola bluetooth hs850	0.0909
+SemSearch_ES-124	bt_nllb_russian	Motorola Bluetooth hs is not available	0.2
+SemSearch_ES-125	-1	nokia e73	1.0
+SemSearch_ES-127	-1	palm tungsten e2 handheld	1.0
+SemSearch_ES-128	-1	philadelphia neufchatel cheese	1.0
+SemSearch_ES-129	-1	pizza populous detroit mi	0.125
+SemSearch_ES-129	bt_nllb_korean	Pizza population in Detroit is	1.0
+SemSearch_ES-129	bt_nllb_german	Pizza with a large population in Detroit	0.5
+SemSearch_ES-129	bt_nllb_malay	The Detroiters are my pizza	0.3333
+SemSearch_ES-129	bt_nllb_swahili	My populous Detroit pizza	0.3333
+SemSearch_ES-129	bt_nllb_chinese_yue	Pizza is the densely populated Detroit	0.1667
+SemSearch_ES-129	bt_nllb_french	Pizza is very crowded in Detroit	0.1667
+SemSearch_ES-129	bt_nllb_russian	Pizza is inhabited by Detroit Mi	0.1667
+SemSearch_ES-13	-1	banana paper making	0.1111
+SemSearch_ES-13	bt_nllb_arabic	He made banana paper	1.0
+SemSearch_ES-13	bt_nllb_french	Manufacture of banana paper	1.0
+SemSearch_ES-13	bt_nllb_german	Manufacture of banana paper	1.0
+SemSearch_ES-13	bt_nllb_korean	Manufacturing banana paper	1.0
+SemSearch_ES-13	bt_nllb_malay	banana paper manufacture	1.0
+SemSearch_ES-13	bt_nllb_russian	banana paper manufacturing	1.0
+SemSearch_ES-130	-1	plymouth police department	0.0588
+SemSearch_ES-130	bt_nllb_german	Plymouth Police	1.0
+SemSearch_ES-131	-1	scpa san diego	0.5
+SemSearch_ES-132	-1	sealy mattress co	0.5
+SemSearch_ES-135	-1	spring shoes canada	0.025
+SemSearch_ES-136	-1	sri lanka government gazette	1.0
+SemSearch_ES-137	-1	steak express	0.0159
+SemSearch_ES-139	-1	the big texan steak house	0.5
+SemSearch_ES-139	bt_nllb_korean	The big Texas steakhouse	1.0
+SemSearch_ES-139	bt_nllb_malay	Big house of Texas steaks	1.0
+SemSearch_ES-139	bt_nllb_persian	Big house of Texas meat	1.0
+SemSearch_ES-139	bt_nllb_russian	Big Texas steakhouse	1.0
+SemSearch_ES-139	bt_nllb_swahili	Big Texas steak house	1.0
+SemSearch_ES-14	-1	ben franklin	1.0
+SemSearch_ES-141	-1	ventura county court	1.0
+SemSearch_ES-15	-1	bradley center	0.3333
+SemSearch_ES-16	-1	brooklyn bridge	1.0
+SemSearch_ES-17	-1	butte montana	1.0
+SemSearch_ES-18	-1	canasta cards	1.0
+SemSearch_ES-19	-1	carl lewis	1.0
+SemSearch_ES-2	-1	B. F. Skinner	1.0
+SemSearch_ES-20	-1	carolina	1.0
+SemSearch_ES-21	-1	charles darwin	1.0
+SemSearch_ES-22	-1	city of charlotte	1.0
+SemSearch_ES-23	-1	city of virginia beach	1.0
+SemSearch_ES-24	-1	coastal carolina	1.0
+SemSearch_ES-25	-1	david suchet	0.3333
+SemSearch_ES-26	-1	disney orlando	1.0
+SemSearch_ES-28	-1	el salvador	1.0
+SemSearch_ES-29	-1	ellis college	0.0103
+SemSearch_ES-3	-1	Bookwork	0.2
+SemSearch_ES-30	-1	eloan line of credit	0.25
+SemSearch_ES-30	bt_nllb_french	line of credit	1.0
+SemSearch_ES-30	bt_nllb_russian	credit line	1.0
+SemSearch_ES-30	bt_nllb_swahili	line of credit	1.0
+SemSearch_ES-31	-1	emery	1.0
+SemSearch_ES-32	-1	fitzgerald auto mall chambersburg pa	0.1667
+SemSearch_ES-32	bt_nllb_arabic	Fitzgerald car dealership in camberburg	1.0
+SemSearch_ES-32	bt_nllb_malay	Fitzgerald auto mall Chambersburg is the	0.5
+SemSearch_ES-32	bt_nllb_swahili	fitzgerald auto mall chambersburg by	0.5
+SemSearch_ES-32	bt_nllb_french	the automobile shopping centre in fitzgerald chambersburg pa	0.25
+SemSearch_ES-33	-1	harry potter	1.0
+SemSearch_ES-34	-1	harry potter movie	1.0
+SemSearch_ES-36	-1	imdb batman returns	0.3333
+SemSearch_ES-37	-1	jack johnson	1.0
+SemSearch_ES-38	-1	jack the ripper	1.0
+SemSearch_ES-39	-1	james caldwell high school	1.0
+SemSearch_ES-4	-1	NAACP Image Awards	1.0
+SemSearch_ES-40	-1	james clayton md	0.0222
+SemSearch_ES-40	bt_nllb_arabic	James Clayton	0.0714
+SemSearch_ES-41	-1	joan of arc	1.0
+SemSearch_ES-42	-1	john maxwell	1.0
+SemSearch_ES-45	-1	keith urban	1.0
+SemSearch_ES-47	-1	king arthur	1.0
+SemSearch_ES-49	-1	laura bush	1.0
+SemSearch_ES-5	-1	Scott County	1.0
+SemSearch_ES-50	-1	laura steele bob and tom	0.0
+SemSearch_ES-52	-1	lincoln park	0.5
+SemSearch_ES-53	-1	lynchburg virginia	1.0
+SemSearch_ES-54	-1	marc anthony	0.5
+SemSearch_ES-56	-1	mario bros	0.5
+SemSearch_ES-57	-1	martin luther king	1.0
+SemSearch_ES-58	-1	mason ohio	0.0714
+SemSearch_ES-59	-1	mercy hospital in des moines, ia	1.0
+SemSearch_ES-6	-1	air wisconsin	0.5
+SemSearch_ES-60	-1	michael douglas	1.0
+SemSearch_ES-61	-1	mr rourke fantasy island	0.0435
+SemSearch_ES-61	bt_nllb_arabic	Mr Roark is a fantasy island	0.5
+SemSearch_ES-61	bt_nllb_chinese_yue	Mr Roark s fantasy island is the only one that is not	0.5
+SemSearch_ES-61	bt_nllb_korean	Mr Roark the island of Fantasy	0.5
+SemSearch_ES-61	bt_nllb_persian	Mr Roark the Island of Fantasy	0.5
+SemSearch_ES-61	bt_nllb_german	Mr Rourke Fantasy Island is the only place where you can find it	0.2
+SemSearch_ES-63	-1	old winchester shotguns	0.5
+SemSearch_ES-63	bt_nllb_arabic	The old Winchester rifle	1.0
+SemSearch_ES-63	bt_nllb_chinese_yue	The old Winchester gun	1.0
+SemSearch_ES-63	bt_nllb_french	The old Winchester hunting rifles	1.0
+SemSearch_ES-63	bt_nllb_korean	The old Winchester gun	1.0
+SemSearch_ES-63	bt_nllb_malay	The old Winchester rifle	1.0
+SemSearch_ES-63	bt_nllb_persian	The old Winchester guns	1.0
+SemSearch_ES-63	bt_nllb_russian	Old Winchester guns	1.0
+SemSearch_ES-63	bt_nllb_swahili	old Winchester guns	1.0
+SemSearch_ES-63	bt_nllb_tamil	The old Winchester rifles	1.0
+SemSearch_ES-65	-1	orlando florida	1.0
+SemSearch_ES-66	-1	overeaters anonymous	1.0
+SemSearch_ES-67	-1	ovguide movies	0.5
+SemSearch_ES-68	-1	pierce county washington	0.5
+SemSearch_ES-7	-1	airsoft glock	0.25
+SemSearch_ES-7	bt_nllb_french	Airsoft glue	0.5
+SemSearch_ES-70	-1	radio italia online	0.0769
+SemSearch_ES-71	-1	richmond virginia	1.0
+SemSearch_ES-72	-1	rock 103 memphis	0.5
+SemSearch_ES-73	-1	rowan university	1.0
+SemSearch_ES-74	-1	sacred heart u	0.04
+SemSearch_ES-74	bt_nllb_arabic	The Sacred Heart	0.5
+SemSearch_ES-74	bt_nllb_chinese_yue	The Sacred Heart	0.5
+SemSearch_ES-74	bt_nllb_french	the sacred heart	0.5
+SemSearch_ES-74	bt_nllb_german	The Sacred Heart	0.5
+SemSearch_ES-74	bt_nllb_korean	The Sacred Heart	0.5
+SemSearch_ES-74	bt_nllb_persian	The Sacred Heart	0.5
+SemSearch_ES-74	bt_nllb_russian	The Sacred Heart	0.5
+SemSearch_ES-74	bt_nllb_swahili	holy heart	0.0909
+SemSearch_ES-75	-1	sagemont church houston tx	0.0
+SemSearch_ES-75	bt_nllb_chinese_yue	Sagemont Church Houston is located in the heart of downtown Houston	0.25
+SemSearch_ES-75	bt_nllb_persian	The Church of the Sacred Heart of Houston Tx	0.1111
+SemSearch_ES-75	bt_nllb_french	Church of Sagemont Houston	0.0101
+SemSearch_ES-76	-1	san antonio	0.5
+SemSearch_ES-76	bt_nllb_tamil	San Antonio is a city in the United States	1.0
+SemSearch_ES-77	-1	savannah tech	1.0
+SemSearch_ES-78	-1	sharp pc	1.0
+SemSearch_ES-79	-1	shobana masala	0.1111
+SemSearch_ES-79	bt_nllb_french	masala from shobana	0.1667
+SemSearch_ES-80	-1	sonny and cher	1.0
+SemSearch_ES-81	-1	south dakota state university	1.0
+SemSearch_ES-82	-1	st lucia	1.0
+SemSearch_ES-83	-1	st paul saints	0.25
+SemSearch_ES-84	-1	the dish danielle fishel	1.0
+SemSearch_ES-85	-1	the longest yard sale	1.0
+SemSearch_ES-86	-1	the morning call lehigh valley pa	0.1667
+SemSearch_ES-86	bt_nllb_arabic	The morning call to Yeog Valley	1.0
+SemSearch_ES-86	bt_nllb_french	The morning call to Lehigh Valley	1.0
+SemSearch_ES-86	bt_nllb_swahili	morning call Lehigh Valley on	1.0
+SemSearch_ES-86	bt_nllb_tamil	Morning call to the Lehigh Valley	1.0
+SemSearch_ES-88	-1	thomas jefferson	1.0
+SemSearch_ES-89	-1	university of north dakota	1.0
+SemSearch_ES-9	-1	american embassy nairobi	0.1667
+SemSearch_ES-9	bt_nllb_chinese_yue	The US Embassy in Nairobi	1.0
+SemSearch_ES-9	bt_nllb_german	The US Embassy in Nairobi	1.0
+SemSearch_ES-9	bt_nllb_arabic	The U S Embassy in Nairobi	0.3333
+SemSearch_ES-9	bt_nllb_french	U S Embassy in Nairobi	0.3333
+SemSearch_ES-9	bt_nllb_malay	The U S Embassy in Nairobi	0.3333
+SemSearch_ES-9	bt_nllb_persian	The U S Embassy in Nairobi	0.3333
+SemSearch_ES-9	bt_nllb_russian	The U S Embassy in Nairobi	0.3333
+SemSearch_ES-9	bt_nllb_swahili	U S Embassy in Nairobi	0.3333
+SemSearch_ES-9	bt_nllb_tamil	The U S Embassy in Nairobi	0.3333
+SemSearch_ES-90	-1	university of phoenix	1.0
+SemSearch_ES-91	-1	westminster abbey	1.0
+SemSearch_ES-93	-1	08 toyota tundra	1.0
+SemSearch_ES-94	-1	Hugh Downs	0.1111
+SemSearch_ES-95	-1	MADRID	0.5
+SemSearch_ES-95	bt_nllb_chinese_yue	Madrid is the city of Madrid	1.0
+SemSearch_ES-95	bt_nllb_french	The city of Madrid	1.0
+SemSearch_ES-95	bt_nllb_malay	The city of Madrid	1.0
+SemSearch_ES-96	-1	New England Coffee	1.0
+SemSearch_ES-97	-1	PINK PANTHER 2	1.0
+SemSearch_ES-98	-1	University of Texas at Austin	1.0
+SemSearch_ES-99	-1	University of York	1.0
+SemSearch_LS-1	-1	Apollo astronauts who walked on the Moon	1.0
+SemSearch_LS-10	-1	did nicole kidman have any siblings	0.0323
+SemSearch_LS-10	bt_nllb_persian	Nicole Kidman had a sister and a brother	0.3333
+SemSearch_LS-10	bt_nllb_swahili	Did Nicole Kidman have a brother and sister	0.2
+SemSearch_LS-10	bt_nllb_arabic	Did Nicole Kidman have any brothers and sisters	0.1429
+SemSearch_LS-10	bt_nllb_russian	Did Nicole Kidman have any brothers and sisters	0.1429
+SemSearch_LS-10	bt_nllb_tamil	Nicole Kidman had no siblings	0.0909
+SemSearch_LS-10	bt_nllb_french	Does Nicole Kidman have any siblings	0.0345
+SemSearch_LS-10	bt_nllb_german	Does Nicole Kidman have any siblings	0.0345
+SemSearch_LS-10	bt_nllb_malay	Does Nicole Kidman have any siblings	0.0345
+SemSearch_LS-11	-1	dioceses of the church of ireland	1.0
+SemSearch_LS-12	-1	first targets of the atomic bomb	0.5
+SemSearch_LS-13	-1	five great epics of Tamil literature	1.0
+SemSearch_LS-14	-1	gods who dwelt on Mount Olympus	1.0
+SemSearch_LS-16	-1	hijackers in the September 11 attacks	1.0
+SemSearch_LS-17	-1	houses of the Russian parliament	1.0
+SemSearch_LS-18	-1	john lennon, parents	0.5
+SemSearch_LS-18	bt_nllb_korean	John Lennon my parents	1.0
+SemSearch_LS-19	-1	kenya's captain in cricket	0.25
+SemSearch_LS-19	bt_nllb_arabic	Captain Kenya in cricket	1.0
+SemSearch_LS-19	bt_nllb_chinese_yue	The Kenyan captain is in cricket	1.0
+SemSearch_LS-19	bt_nllb_french	Kenya captain in cricket	1.0
+SemSearch_LS-19	bt_nllb_german	Kenya captain in cricket	1.0
+SemSearch_LS-19	bt_nllb_malay	Kenya captain in cricket	1.0
+SemSearch_LS-19	bt_nllb_persian	Kenya captain in cricket	1.0
+SemSearch_LS-19	bt_nllb_russian	Kenya captain in cricket	1.0
+SemSearch_LS-19	bt_nllb_tamil	Kenya captain in cricket	1.0
+SemSearch_LS-2	-1	Arab states of the Persian Gulf	1.0
+SemSearch_LS-20	-1	kublai khan siblings	0.25
+SemSearch_LS-20	bt_nllb_arabic	The brothers of Kublai Khan	1.0
+SemSearch_LS-20	bt_nllb_chinese_yue	The Kublai Khan brothers	1.0
+SemSearch_LS-20	bt_nllb_korean	Brother Kublai Khan	1.0
+SemSearch_LS-20	bt_nllb_malay	The Kublai Khan brothers	1.0
+SemSearch_LS-20	bt_nllb_russian	The Kublai han brothers	1.0
+SemSearch_LS-20	bt_nllb_tamil	The brothers Kublai Khan	1.0
+SemSearch_LS-20	bt_nllb_french	brothers and sisters of Kublai Khan	0.5
+SemSearch_LS-20	bt_nllb_swahili	Brother and sister of Kublai Khan	0.5
+SemSearch_LS-21	-1	lilly allen parents	0.5
+SemSearch_LS-22	-1	major leagues in the united states	1.0
+SemSearch_LS-24	-1	matt berry tv series	1.0
+SemSearch_LS-25	-1	members of u2?	0.0
+SemSearch_LS-26	-1	movies starring erykah badu	0.3333
+SemSearch_LS-26	bt_nllb_arabic	The movies that represent Erica Badu	1.0
+SemSearch_LS-26	bt_nllb_chinese_yue	Starring Erika Badu	1.0
+SemSearch_LS-26	bt_nllb_french	films with Erika Badu	1.0
+SemSearch_LS-26	bt_nllb_german	Movies with Erikah Badu	1.0
+SemSearch_LS-26	bt_nllb_malay	film starring erika badu	1.0
+SemSearch_LS-26	bt_nllb_persian	The films of the lead actor Eric Badu	1.0
+SemSearch_LS-26	bt_nllb_russian	films with Erica Badu	1.0
+SemSearch_LS-29	-1	nations where Portuguese is an official language	0.5
+SemSearch_LS-29	bt_nllb_arabic	Countries where Portuguese is the official language	1.0
+SemSearch_LS-29	bt_nllb_chinese_yue	Portuguese is the official language	1.0
+SemSearch_LS-29	bt_nllb_french	countries where Portuguese is the official language	1.0
+SemSearch_LS-29	bt_nllb_german	Countries where Portuguese is the official language	1.0
+SemSearch_LS-29	bt_nllb_korean	A country where Portuguese is the official language	1.0
+SemSearch_LS-29	bt_nllb_malay	countries where Portuguese is the official language	1.0
+SemSearch_LS-29	bt_nllb_persian	Countries whose official language is Portuguese	1.0
+SemSearch_LS-29	bt_nllb_russian	countries where Portuguese is the official language	1.0
+SemSearch_LS-29	bt_nllb_swahili	countries where Portuguese is the official language	1.0
+SemSearch_LS-29	bt_nllb_tamil	Countries where Portuguese is the official language	1.0
+SemSearch_LS-3	-1	astronauts who landed on the Moon	1.0
+SemSearch_LS-30	-1	orders (or 'choirs') of angels	0.0286
+SemSearch_LS-30	bt_nllb_chinese_yue	The Angel Choir	0.1667
+SemSearch_LS-31	-1	permanent members of the UN Security Council	1.0
+SemSearch_LS-32	-1	presidents depicted on mount rushmore who died of shooting	0.5
+SemSearch_LS-33	-1	provinces and territories of Canada	1.0
+SemSearch_LS-34	-1	ratt albums	1.0
+SemSearch_LS-35	-1	republics of the former Yugoslavia	1.0
+SemSearch_LS-36	-1	revolutionaries of 1959 in Cuba	0.1667
+SemSearch_LS-36	bt_nllb_korean	In the Cuban revolutionary	1.0
+SemSearch_LS-36	bt_nllb_persian	The revolution in Cuba	1.0
+SemSearch_LS-36	bt_nllb_chinese_yue	The Cuban revolution of	0.5
+SemSearch_LS-36	bt_nllb_swahili	Rebels in Cuba in	0.5
+SemSearch_LS-37	-1	standard axioms of set theory	0.5
+SemSearch_LS-37	bt_nllb_swahili	axioms of set theory	1.0
+SemSearch_LS-38	-1	states that border oklahoma	0.0115
+SemSearch_LS-39	-1	ten ancient Greek city-kingdoms of Cyprus	1.0
+SemSearch_LS-4	-1	Axis powers of World War II	1.0
+SemSearch_LS-40	-1	the first 13 american states	0.0
+SemSearch_LS-41	-1	the four of the companions of the prophet	1.0
+SemSearch_LS-42	-1	twelve tribes or sons of Israel	0.3333
+SemSearch_LS-42	bt_nllb_arabic	Twelve tribes or the Israelites	1.0
+SemSearch_LS-42	bt_nllb_chinese_yue	The tribes of Israel	1.0
+SemSearch_LS-42	bt_nllb_german	Twelve tribes or the children of Israel	1.0
+SemSearch_LS-42	bt_nllb_malay	the twelve tribes or the children of Israel	1.0
+SemSearch_LS-42	bt_nllb_russian	The Twelve Tribes of Israel	1.0
+SemSearch_LS-42	bt_nllb_tamil	The twelve tribes of Israel or sons were to be called the sons of the nations	1.0
+SemSearch_LS-42	bt_nllb_french	Twelve tribes of Israel or the sons of Israel	0.5
+SemSearch_LS-43	-1	what books did paul of tarsus write?	0.0
+SemSearch_LS-44	-1	what languages do they speak in afghanistan	0.5
+SemSearch_LS-44	bt_nllb_chinese_yue	What languages do Afghans speak	1.0
+SemSearch_LS-46	-1	where the British monarch is also head of state	0.0345
+SemSearch_LS-46	bt_nllb_chinese_yue	The monarch of England is also the head of state	1.0
+SemSearch_LS-46	bt_nllb_persian	Where the British monarch is also head of government	0.1
+SemSearch_LS-49	-1	who invented the python programming language	0.1429
+SemSearch_LS-49	bt_nllb_chinese_yue	Python is a programming language	1.0
+SemSearch_LS-49	bt_nllb_swahili	who developed the Python programming language	0.3333
+SemSearch_LS-5	-1	books of the Jewish canon	1.0
+SemSearch_LS-50	-1	wonders of the ancient world	1.0
+SemSearch_LS-6	-1	boroughs of New York City	1.0
+SemSearch_LS-7	-1	Branches of the US military	0.3333
+SemSearch_LS-8	-1	continents in the world	1.0
+SemSearch_LS-9	-1	degrees of Eastern Orthodox monasticism	1.0
+TREC_Entity-1	-1	Carriers that Blackberry makes phones for.	0.1429
+TREC_Entity-10	-1	Campuses of Indiana University.	0.25
+TREC_Entity-10	bt_nllb_tamil	at the University of Indiana	1.0
+TREC_Entity-10	bt_nllb_chinese_yue	The campus of Indiana University	0.3333
+TREC_Entity-10	bt_nllb_korean	The Indiana University campus	0.3333
+TREC_Entity-10	bt_nllb_malay	The campus of Indiana University	0.3333
+TREC_Entity-10	bt_nllb_russian	On the campus of Indiana University	0.3333
+TREC_Entity-11	-1	Donors to the Home Depot Foundation.	0.1111
+TREC_Entity-12	-1	Airlines that Air Canada has code share flights with.	1.0
+TREC_Entity-14	-1	Authors awarded an Anthony Award at Bouchercon in 2007.	1.0
+TREC_Entity-15	-1	Universities that are members of the SEC conference for football.	0.2
+TREC_Entity-16	-1	Sponsors of the Mancuso quilt festivals.	0.0
+TREC_Entity-17	-1	Chefs with a show on the Food Network.	0.5
+TREC_Entity-18	-1	Members of the band Jefferson Airplane.	1.0
+TREC_Entity-19	-1	Companies that John Hennessey serves on the board of.	0.125
+TREC_Entity-19	bt_nllb_german	A company whose CEO is John Hennessey	0.3333
+TREC_Entity-2	-1	Winners of the ACM Athena award.	1.0
+TREC_Entity-20	-1	Scotch whisky distilleries on the island of Islay.	1.0
+TREC_Entity-4	-1	Professional sports teams in Philadelphia.	1.0
+TREC_Entity-5	-1	Products of Medimmune, Inc.	1.0
+TREC_Entity-6	-1	Organizations that award Nobel prizes.	0.5
+TREC_Entity-7	-1	Airlines that currently use Boeing 747 planes.	0.0119
+TREC_Entity-7	bt_nllb_korean	The airline that currently operates Boeing aircraft	0.1429
+TREC_Entity-7	bt_nllb_swahili	Airlines that currently operate Boeing aircraft	0.1429
+TREC_Entity-7	bt_nllb_tamil	Airlines currently operating Boeing aircraft	0.1429
+TREC_Entity-7	bt_nllb_arabic	Airlines currently using Boeing s	0.1
+TREC_Entity-7	bt_nllb_russian	Airlines that currently use Boeing s	0.1
+TREC_Entity-7	bt_nllb_french	Airlines currently using Boeing aircraft	0.0909
+TREC_Entity-7	bt_nllb_persian	Airlines that already use Boeing s	0.0909
+TREC_Entity-7	bt_nllb_german	Airlines currently operating Boeing	0.0588
+TREC_Entity-7	bt_nllb_malay	Airlines that currently operate Boeing	0.0588
+TREC_Entity-7	bt_nllb_chinese_yue	The airline that currently operates the Boeing s	0.04
+TREC_Entity-9	-1	Members of The Beaux Arts Trio.	1.0

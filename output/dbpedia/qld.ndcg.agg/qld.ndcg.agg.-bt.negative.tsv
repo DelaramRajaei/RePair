@@ -1,0 +1,468 @@
+qid	order	query	qld.ndcg
+INEX_LD-2009022	-1	Szechwan dish food cuisine	0.2251
+INEX_LD-2009039	-1	roman architecture	0.3549
+INEX_LD-2009053	-1	finland car industry manufacturer saab sisu	0.5735
+INEX_LD-2009061	-1	france second world war normandy	0.4079
+INEX_LD-2009062	-1	social network group selection	0.3438
+INEX_LD-2009063	-1	D-Day normandy invasion	0.327
+INEX_LD-2009074	-1	web ranking scoring algorithm	0.5827
+INEX_LD-2009096	-1	Eiffel	0.6355
+INEX_LD-2009111	-1	europe solar power facility	0.2883
+INEX_LD-2009115	-1	virtual museums	0.6456
+INEX_LD-2010004	-1	Indian food	0.3536
+INEX_LD-2010014	-1	composer museum	0.2239
+INEX_LD-2010019	-1	gallo roman architecture in paris	0.0536
+INEX_LD-2010020	-1	electricity source in France	0.1984
+INEX_LD-2010037	-1	social network API	0.5758
+INEX_LD-2010043	-1	List of films from the surrealist category	0.4581
+INEX_LD-2010057	-1	Einstein Relativity theory	0.6154
+INEX_LD-2010069	-1	summer flowers	0.0852
+INEX_LD-2010100	-1	house concrete wood	0.2998
+INEX_LD-2010106	-1	organic food advantages disadvantages	0.0
+INEX_LD-20120111	-1	vietnam war movie	0.5383
+INEX_LD-20120112	-1	vietnam war facts	0.3156
+INEX_LD-20120121	-1	vietnam food recipes	0.2655
+INEX_LD-20120122	-1	vietnamese food blog	0.2796
+INEX_LD-20120131	-1	vietnam travel national park	0.2734
+INEX_LD-20120132	-1	vietnam travel airports	0.6812
+INEX_LD-20120211	-1	guitar chord tuning	0.6585
+INEX_LD-20120212	-1	guitar chord minor	0.5358
+INEX_LD-20120221	-1	guitar classical flamenco	0.6115
+INEX_LD-20120222	-1	guitar classical bach	0.6441
+INEX_LD-20120231	-1	guitar origin Russia	0.216
+INEX_LD-20120232	-1	guitar origin blues	0.398
+INEX_LD-20120311	-1	tango culture movies	0.3664
+INEX_LD-20120312	-1	tango culture countries	0.5576
+INEX_LD-20120321	-1	tango music  composers	0.5574
+INEX_LD-20120322	-1	tango music instruments	0.6516
+INEX_LD-20120331	-1	tango dance styles	0.7199
+INEX_LD-20120332	-1	tango dance history	0.6823
+INEX_LD-20120411	-1	bicycle sport races	0.3798
+INEX_LD-20120412	-1	bicycle sport disciplines	0.3957
+INEX_LD-20120421	-1	bicycle holiday towns	0.1501
+INEX_LD-20120422	-1	bicycle holiday nature	0.154
+INEX_LD-20120431	-1	bicycle benefits health	0.1846
+INEX_LD-20120432	-1	bicycle benefits environment	0.4977
+INEX_LD-20120511	-1	female rock singers	0.3961
+INEX_LD-20120512	-1	south korean girl groups	0.713
+INEX_LD-20120521	-1	electronic music genres	0.4225
+INEX_LD-20120522	-1	digital music notation formats	0.6069
+INEX_LD-20120531	-1	music conferences	0.7807
+INEX_LD-20120532	-1	intellectual property rights lobby	0.3885
+INEX_LD-2012301	-1	Niagara falls origin lake	0.6809
+INEX_LD-2012303	-1	 Valley fever fungal infection San Joaquin	0.507
+INEX_LD-2012305	-1	North Dakota's lowest river of another colour	0.1175
+INEX_LD-2012307	-1	 July, 1850  president died Millard Fillmore sworn following day	0.3837
+INEX_LD-2012309	-1	residents small island city-state  Malay Peninsula Chinese	0.2907
+INEX_LD-2012311	-1	John Lennon Yoko Ono album Starting Over	0.7828
+INEX_LD-2012313	-1	John Turturro 1991 Coen Brothers film	0.8796
+INEX_LD-2012315	-1	Baguio Quezon City  Manila official independence 1945	0.0854
+INEX_LD-2012317	-1	daggeroso inclined to use a dagger novel Sons and Lovers	0.3961
+INEX_LD-2012318	-1	Directed Bela Glen Glenda Bride Monster Plan 9 Outer Space	0.4516
+INEX_LD-2012319	-1	 1994 short story collection Alice Munro is Open	0.8655
+INEX_LD-2012321	-1	Asian port state-city Sir Stamford Raffles	0.5658
+INEX_LD-2012323	-1	Large glaciers island nation Langjokull Hofsjokull Vatnajokull	0.608
+INEX_LD-2012325	-1	successor James G. Blaine studied law	0.858
+INEX_LD-2012327	-1	Beloved author African-American Nobel Prize Literature	0.3551
+INEX_LD-2012329	-1	Sweden Iceland currency	0.5492
+INEX_LD-2012331	-1	Seoul Korea river name ethnic group China	0.1731
+INEX_LD-2012333	-1	Prime minister Canada nicknamed Silver-Tongued Laurier longest unbroken term	0.6594
+INEX_LD-2012335	-1	U.S. president authorise nuclear weapons against Japan	0.5896
+INEX_LD-2012336	-1	1906 territory Papua island Australian	0.4696
+INEX_LD-2012337	-1	Texas city Baylor University tornado 1953	0.2139
+INEX_LD-2012339	-1	Nelson Mandela John Dube	0.5023
+INEX_LD-2012341	-1	1997  Houston airport president	0.7531
+INEX_LD-2012343	-1	The Heart of a Woman poet's autobiography	0.8055
+INEX_LD-2012345	-1	Kennedy assassination governor of Texas seriously injured	0.5945
+INEX_LD-2012347	-1	seat Florida country Dade	0.8319
+INEX_LD-2012349	-1	Alexander Nevsky Cathedral Bulgarian city liberation Turks	0.6532
+INEX_LD-2012351	-1	Indian Cuisine dish rice dhal vegetables roti papad	0.7085
+INEX_LD-2012353	-1	country German language	0.5706
+INEX_LD-2012354	-1	greatest guitarist	0.487
+INEX_LD-2012355	-1	England football player highest paid	0.3397
+INEX_LD-2012357	-1	 prima ballerina Bolshoi Theatre 1960	0.2925
+INEX_LD-2012359	-1	 Bob Ricker Executive Director the latest front group for the anti-gun movement	1.0
+INEX_LD-2012361	-1	most famous award winning actor singer	0.3164
+INEX_LD-2012363	-1	American twins famous  American professional tennis double players	0.8254
+INEX_LD-2012365	-1	mathematician computer scientist MIT's six inaugural MacVicar Faculty Fellows	0.3306
+INEX_LD-2012367	-1	invented telescope	0.5226
+INEX_LD-2012369	-1	most famous civic-military airports	0.1357
+INEX_LD-2012371	-1	most beautiful railway stations world cities located	0.2916
+INEX_LD-2012372	-1	famous historical battlefields opponents fought	0.4596
+INEX_LD-2012373	-1	birds cannot fly	0.6013
+INEX_LD-2012375	-1	animals lay eggs mammals	0.5251
+INEX_LD-2012377	-1	allegedly caused World War I	0.357
+INEX_LD-2012381	-1	movie directors directed a block buster	0.2125
+INEX_LD-2012383	-1	famous computer scientists disappeared at sea	1.0
+INEX_LD-2012385	-1	famous politicians vegetarians	0.3273
+INEX_LD-2012387	-1	famous river confluence dam constructed	0.4552
+INEX_LD-2012389	-1	frequently visited sharks gulf Indian Ocean	0.4062
+INEX_LD-2012390	-1	baseball player most homeruns national league	0.25
+INEX_XER-100	-1	Operating systems to which Steve Jobs related	0.4009
+INEX_XER-106	-1	Noble english person from the Hundred Years' War	0.3824
+INEX_XER-108	-1	State capitals of the United States of America	0.0477
+INEX_XER-109	-1	National capitals situated on islands	0.0808
+INEX_XER-110	-1	Nobel Prize in Literature winners who were also poets	0.3396
+INEX_XER-113	-1	Formula 1 drivers that won the Monaco Grand Prix	0.2733
+INEX_XER-114	-1	Formula one races in Europe	0.4931
+INEX_XER-115	-1	Formula One World Constructors' Champions	0.5792
+INEX_XER-116	-1	Italian nobel prize winners	0.4498
+INEX_XER-117	-1	Musicians who appeared in the Blues Brothers movies	0.2811
+INEX_XER-118	-1	French car models in 1960's	0.0383
+INEX_XER-119	-1	Swiss cantons where they speak German	0.324
+INEX_XER-121	-1	US presidents since 1960	0.1067
+INEX_XER-122	-1	Movies with eight or more Academy Awards	0.1379
+INEX_XER-123	-1	FIFA world cup national team winners since 1974	0.2017
+INEX_XER-124	-1	Novels that won the Booker Prize	0.6076
+INEX_XER-125	-1	countries which have won the FIFA world cup	0.2648
+INEX_XER-126	-1	toy train manufacturers that are still in business	0.3884
+INEX_XER-127	-1	german female politicians	0.4617
+INEX_XER-128	-1	Bond girls	0.5185
+INEX_XER-129	-1	Science fiction book written in the 1980	0.0298
+INEX_XER-130	-1	Star Trek Captains	0.6442
+INEX_XER-132	-1	living nordic classical composers	0.4021
+INEX_XER-133	-1	EU countries	0.2146
+INEX_XER-134	-1	record-breaking sprinters in male 100-meter sprints	0.2237
+INEX_XER-135	-1	professional baseball team in Japan	0.514
+INEX_XER-136	-1	Japanese players in Major League Baseball	0.5964
+INEX_XER-138	-1	National Parks East Coast Canada US	0.3486
+INEX_XER-139	-1	Films directed by Akira Kurosawa	0.8887
+INEX_XER-140	-1	Airports in Germany	0.6855
+INEX_XER-141	-1	Universities in Catalunya	0.3905
+INEX_XER-143	-1	Hanseatic league in Germany in the Netherlands Circle	0.2643
+INEX_XER-144	-1	chess world champions	0.588
+INEX_XER-147	-1	Chemical elements that are named after people	0.4432
+INEX_XER-60	-1	olympic classes dinghy sailing	0.519
+INEX_XER-62	-1	Neil Gaiman novels	0.9022
+INEX_XER-63	-1	Hugo awarded best novels	0.4886
+INEX_XER-64	-1	Alan Moore graphic novels adapted to film	0.6992
+INEX_XER-65	-1	Pacific navigators Australia explorers	0.571
+INEX_XER-67	-1	Ferris and observation wheels	0.8421
+INEX_XER-72	-1	films shot in Venice	0.5682
+INEX_XER-73	-1	magazines about indie-music	0.442
+INEX_XER-74	-1	circus mammals	0.1971
+INEX_XER-79	-1	Works by Charles Rennie Mackintosh	0.8942
+INEX_XER-81	-1	Movies about English hooligans	0.598
+INEX_XER-86	-1	List of countries in World War Two	0.106
+INEX_XER-87	-1	Axis powers of World War II	0.4308
+INEX_XER-88	-1	Nordic authors who are known for children's literature	0.4213
+INEX_XER-91	-1	Paul Auster novels	0.9012
+INEX_XER-94	-1	Hybrid cars sold in Europe	0.5269
+INEX_XER-95	-1	Tom Hanks movies where he plays a leading role.	0.3383
+INEX_XER-96	-1	Pure object-oriented programing languages	0.2376
+INEX_XER-97	-1	Compilers that can compile both C and C++	0.554
+INEX_XER-98	-1	Makers of lawn tennis rackets	0.1709
+INEX_XER-99	-1	Computer systems that have a recursive acronym for the name	0.634
+QALD2_te-1	-1	Which German cities have more than 250000 inhabitants?	0.0616
+QALD2_te-100	-1	Who produces Orangina?	0.7872
+QALD2_te-11	-1	Who is the Formula 1 race driver with the most races?	0.0582
+QALD2_te-12	-1	Give me all world heritage sites designated within the past five years.	0.4245
+QALD2_te-13	-1	Who is the youngest player in the Premier League?	0.5672
+QALD2_te-14	-1	Give me all members of Prodigy.	0.0925
+QALD2_te-15	-1	What is the longest river?	0.3513
+QALD2_te-17	-1	Give me all cars that are produced in Germany.	0.0053
+QALD2_te-19	-1	Give me all people that were born in Vienna and died in Berlin.	0.0439
+QALD2_te-2	-1	Who was the successor of John F. Kennedy?	0.1876
+QALD2_te-21	-1	What is the capital of Canada?	0.0437
+QALD2_te-22	-1	Who is the governor of Texas?	0.6455
+QALD2_te-24	-1	Who was the father of Queen Elizabeth II?	0.4682
+QALD2_te-25	-1	Which U.S. state has been admitted latest?	0.0505
+QALD2_te-27	-1	Sean Parnell is the governor of which U.S. state?	0.8441
+QALD2_te-28	-1	Give me all movies directed by Francis Ford Coppola.	0.7548
+QALD2_te-29	-1	Give me all actors starring in movies directed by and starring William Shatner.	0.3389
+QALD2_te-3	-1	Who is the mayor of Berlin?	0.5941
+QALD2_te-31	-1	Give me all current Methodist national leaders.	0.1546
+QALD2_te-33	-1	Give me all Australian nonprofit organizations.	0.0101
+QALD2_te-34	-1	In which military conflicts did Lawrence of Arabia participate?	0.1934
+QALD2_te-35	-1	Who developed Skype?	0.3377
+QALD2_te-39	-1	Give me all companies in Munich.	0.0144
+QALD2_te-40	-1	List all boardgames by GMT.	0.4264
+QALD2_te-41	-1	Who founded Intel?	0.4693
+QALD2_te-42	-1	Who is the husband of Amanda Palmer?	0.1144
+QALD2_te-43	-1	Give me all breeds of the German Shepherd dog.	0.7707
+QALD2_te-44	-1	Which cities does the Weser flow through?	0.3424
+QALD2_te-45	-1	Which countries are connected by the Rhine?	0.1039
+QALD2_te-46	-1	Which professional surfers were born on the Philippines?	0.1637
+QALD2_te-48	-1	In which UK city are the headquarters of the MI6?	0.0
+QALD2_te-49	-1	Which other weapons did the designer of the Uzi develop?	0.5194
+QALD2_te-5	-1	What is the second highest mountain on Earth?	0.3576
+QALD2_te-51	-1	Give me all Frisian islands that belong to the Netherlands.	0.7754
+QALD2_te-53	-1	What is the ruling party in Lisbon?	0.0
+QALD2_te-55	-1	Which Greek goddesses dwelt on Mount Olympus?	0.6438
+QALD2_te-57	-1	Give me the Apollo 14 astronauts.	0.4464
+QALD2_te-58	-1	What is the time zone of Salt Lake City?	0.1404
+QALD2_te-59	-1	Which U.S. states are in the same timezone as Utah?	0.0
+QALD2_te-6	-1	Give me all professional skateboarders from Sweden.	0.317
+QALD2_te-60	-1	Give me a list of all lakes in Denmark.	0.1284
+QALD2_te-63	-1	Give me all Argentine films.	0.0185
+QALD2_te-64	-1	Give me all launch pads operated by NASA.	0.6121
+QALD2_te-65	-1	Which instruments did John Lennon play?	0.5429
+QALD2_te-66	-1	Which ships were called after Benjamin Franklin?	0.3257
+QALD2_te-67	-1	Who are the parents of the wife of Juan Carlos I?	0.0481
+QALD2_te-72	-1	In which U.S. state is Area 51 located?	0.0
+QALD2_te-75	-1	Which daughters of British earls died in the same place they were born in?	0.1649
+QALD2_te-76	-1	List the children of Margaret Thatcher.	0.7497
+QALD2_te-77	-1	Who was called Scarface?	0.4589
+QALD2_te-8	-1	To which countries does the Himalayan mountain system extend?	0.3048
+QALD2_te-80	-1	Give me all books by William Goldman with more than 300 pages.	0.4791
+QALD2_te-81	-1	Which books by Kerouac were published by Viking Press?	0.6434
+QALD2_te-82	-1	Give me a list of all American inventions.	0.0214
+QALD2_te-84	-1	Who created the comic Captain America?	0.3925
+QALD2_te-86	-1	What is the largest city in Australia?	0.4299
+QALD2_te-87	-1	Who composed the music for Harold and Maude?	0.19
+QALD2_te-88	-1	Which films starring Clint Eastwood did he direct himself?	0.8086
+QALD2_te-89	-1	In which city was the former Dutch queen Juliana buried?	1.0
+QALD2_te-9	-1	Give me a list of all trumpet players that were bandleaders.	0.5149
+QALD2_te-90	-1	Where is the residence of the prime minister of Spain?	0.8597
+QALD2_te-91	-1	Which U.S. State has the abbreviation MN?	0.1288
+QALD2_te-92	-1	Show me all songs from Bruce Springsteen released between 1980 and 1990.	0.3887
+QALD2_te-93	-1	Which movies did Sam Raimi direct after Army of Darkness?	0.7262
+QALD2_te-95	-1	Who wrote the lyrics for the Polish national anthem?	0.0727
+QALD2_te-97	-1	Who painted The Storm on the Sea of Galilee?	0.6277
+QALD2_te-98	-1	Which country does the creator of Miffy come from?	0.6155
+QALD2_te-99	-1	For which label did Elvis record his first album?	0.1673
+QALD2_tr-1	-1	Give me all female Russian astronauts.	0.544
+QALD2_tr-10	-1	In which country does the Nile start?	0.09
+QALD2_tr-11	-1	Which countries have places with more than two caves?	0.1119
+QALD2_tr-13	-1	Which classis does the Millepede belong to?	1.0
+QALD2_tr-15	-1	Who created Goofy?	0.4609
+QALD2_tr-16	-1	Give me the capitals of all countries in Africa.	0.0
+QALD2_tr-17	-1	Give me all cities in New Jersey with more than 100000 inhabitants.	0.1171
+QALD2_tr-18	-1	Which museum exhibits The Scream by Munch?	0.0
+QALD2_tr-21	-1	Which states border Illinois?	0.1324
+QALD2_tr-22	-1	In which country is the Limerick Lake?	0.5967
+QALD2_tr-23	-1	Which television shows were created by Walt Disney?	0.6009
+QALD2_tr-24	-1	Which mountain is the highest after the Annapurna?	0.5852
+QALD2_tr-25	-1	In which films directed by Garry Marshall was Julia Roberts starring?	0.919
+QALD2_tr-26	-1	Which bridges are of the same type as the Manhattan Bridge?	0.0788
+QALD2_tr-28	-1	Which European countries have a constitutional monarchy?	0.3287
+QALD2_tr-29	-1	Which awards did WikiLeaks win?	0.4356
+QALD2_tr-3	-1	Who is the daughter of Bill Clinton married to?	0.1104
+QALD2_tr-30	-1	Which state of the USA has the highest population density?	0.4975
+QALD2_tr-31	-1	What is the currency of the Czech Republic?	0.5052
+QALD2_tr-32	-1	Which countries in the European Union adopted the Euro?	0.4659
+QALD2_tr-34	-1	Which countries have more than two official languages?	0.1878
+QALD2_tr-35	-1	Who is the owner of Universal Studios?	0.312
+QALD2_tr-36	-1	Through which countries does the Yenisei river flow?	0.4413
+QALD2_tr-38	-1	Which monarchs of the United Kingdom were married to a German?	0.1635
+QALD2_tr-4	-1	Which river does the Brooklyn Bridge cross?	0.3722
+QALD2_tr-40	-1	What is the highest mountain in Australia?	0.4073
+QALD2_tr-41	-1	Give me all soccer clubs in Spain.	0.0
+QALD2_tr-42	-1	What are the official languages of the Philippines?	0.7636
+QALD2_tr-43	-1	Who is the mayor of New York City?	0.4602
+QALD2_tr-44	-1	Who designed the Brooklyn Bridge?	0.5474
+QALD2_tr-45	-1	Which telecommunications organizations are located in Belgium?	0.4996
+QALD2_tr-47	-1	What is the highest place of Karakoram?	0.6265
+QALD2_tr-49	-1	Give me all companies in the advertising industry.	0.0964
+QALD2_tr-50	-1	What did Bruce Carver die from?	0.2641
+QALD2_tr-51	-1	Give me all school types.	0.0
+QALD2_tr-52	-1	Which presidents were born in 1945?	0.0
+QALD2_tr-53	-1	Give me all presidents of the United States.	0.0301
+QALD2_tr-54	-1	Who was the wife of U.S. president Lincoln?	0.3736
+QALD2_tr-55	-1	Who developed the video game World of Warcraft?	0.6203
+QALD2_tr-57	-1	List all episodes of the first season of the HBO television series The Sopranos!	0.6742
+QALD2_tr-58	-1	Who produced the most films?	0.0
+QALD2_tr-59	-1	Give me all people with first name Jimmy.	0.003
+QALD2_tr-6	-1	Where did Abraham Lincoln die?	0.3052
+QALD2_tr-61	-1	Which mountains are higher than the Nanga Parbat?	0.1921
+QALD2_tr-62	-1	Who created Wikipedia?	0.3195
+QALD2_tr-63	-1	Give me all actors starring in Batman Begins.	0.3404
+QALD2_tr-64	-1	Which software has been developed by organizations founded in California?	0.0909
+QALD2_tr-65	-1	Which companies work in the aerospace industry as well as on nuclear reactor technology?	0.5579
+QALD2_tr-68	-1	Which actors were born in Germany?	0.2412
+QALD2_tr-69	-1	Which caves have more than 3 entrances?	0.2342
+QALD2_tr-70	-1	Give me all films produced by Hal Roach.	0.2327
+QALD2_tr-71	-1	Give me all video games published by Mean Hamster Software.	0.8402
+QALD2_tr-72	-1	Which languages are spoken in Estonia?	0.7365
+QALD2_tr-73	-1	Who owns Aldi?	0.5122
+QALD2_tr-74	-1	Which capitals in Europe were host cities of the summer olympic games?	0.2875
+QALD2_tr-75	-1	Who has been the 5th president of the United States of America?	0.3743
+QALD2_tr-77	-1	Which music albums contain the song Last Christmas?	0.2273
+QALD2_tr-78	-1	Give me all books written by Danielle Steel.	0.1383
+QALD2_tr-79	-1	Which airports are located in California, USA?	0.6658
+QALD2_tr-8	-1	Which states of Germany are governed by the Social Democratic Party?	0.3782
+QALD2_tr-80	-1	Give me all Canadian Grunge record labels.	0.1086
+QALD2_tr-81	-1	Which country has the most official languages?	0.4703
+QALD2_tr-82	-1	In which programming language is GIMP written?	0.2258
+QALD2_tr-83	-1	Who produced films starring Natalie Portman?	0.4064
+QALD2_tr-84	-1	Give me all movies with Tom Cruise.	0.1514
+QALD2_tr-85	-1	In which films did Julia Roberts as well as Richard Gere play?	0.8541
+QALD2_tr-86	-1	Give me all female German chancellors.	0.3166
+QALD2_tr-87	-1	Who wrote the book The pillars of the Earth?	0.5241
+QALD2_tr-89	-1	Give me all soccer clubs in the Premier League.	0.0107
+QALD2_tr-9	-1	Which U.S. states possess gold minerals?	0.0753
+QALD2_tr-91	-1	Which organizations were founded in 1950?	0.0
+QALD2_tr-92	-1	What is the highest mountain?	0.4093
+SemSearch_ES-1	-1	44 magnum hunting	0.5276
+SemSearch_ES-10	-1	asheville north carolina	0.6352
+SemSearch_ES-100	-1	YMCA Tampa	0.4509
+SemSearch_ES-101	-1	ashley wagner	0.8393
+SemSearch_ES-102	-1	beach flowers	0.4297
+SemSearch_ES-104	-1	bourbonnais il	0.6793
+SemSearch_ES-106	-1	chase masterson	0.7526
+SemSearch_ES-107	-1	concord steel	1.0
+SemSearch_ES-108	-1	danielia cotton	1.0
+SemSearch_ES-109	-1	david hewlett	0.8027
+SemSearch_ES-11	-1	austin powers	0.9426
+SemSearch_ES-111	-1	eagle rock, ca	0.574
+SemSearch_ES-114	-1	glenn frey	0.8876
+SemSearch_ES-115	-1	goodwill of michigan	0.3041
+SemSearch_ES-118	-1	iowa energy	0.6407
+SemSearch_ES-119	-1	john elliott	0.8291
+SemSearch_ES-12	-1	austin texas	0.4172
+SemSearch_ES-120	-1	lawrence general hospital	0.8259
+SemSearch_ES-123	-1	michael zimmerman	1.0
+SemSearch_ES-124	-1	motorola bluetooth hs850	0.519
+SemSearch_ES-125	-1	nokia e73	0.7522
+SemSearch_ES-127	-1	palm tungsten e2 handheld	0.6173
+SemSearch_ES-128	-1	philadelphia neufchatel cheese	0.7261
+SemSearch_ES-129	-1	pizza populous detroit mi	0.5
+SemSearch_ES-13	-1	banana paper making	0.6309
+SemSearch_ES-130	-1	plymouth police department	0.4803
+SemSearch_ES-131	-1	scpa san diego	1.0
+SemSearch_ES-132	-1	sealy mattress co	0.8876
+SemSearch_ES-135	-1	spring shoes canada	0.1879
+SemSearch_ES-136	-1	sri lanka government gazette	0.6896
+SemSearch_ES-137	-1	steak express	0.195
+SemSearch_ES-139	-1	the big texan steak house	0.6129
+SemSearch_ES-14	-1	ben franklin	0.8161
+SemSearch_ES-141	-1	ventura county court	0.5642
+SemSearch_ES-15	-1	bradley center	0.7174
+SemSearch_ES-16	-1	brooklyn bridge	0.7542
+SemSearch_ES-17	-1	butte montana	0.6042
+SemSearch_ES-18	-1	canasta cards	0.9538
+SemSearch_ES-19	-1	carl lewis	0.4431
+SemSearch_ES-2	-1	B. F. Skinner	0.9119
+SemSearch_ES-20	-1	carolina	0.3805
+SemSearch_ES-21	-1	charles darwin	0.9255
+SemSearch_ES-22	-1	city of charlotte	0.7684
+SemSearch_ES-23	-1	city of virginia beach	0.6544
+SemSearch_ES-24	-1	coastal carolina	0.6311
+SemSearch_ES-25	-1	david suchet	0.6833
+SemSearch_ES-26	-1	disney orlando	0.7914
+SemSearch_ES-28	-1	el salvador	0.5203
+SemSearch_ES-29	-1	ellis college	0.0
+SemSearch_ES-3	-1	Bookwork	0.4838
+SemSearch_ES-30	-1	eloan line of credit	0.2636
+SemSearch_ES-31	-1	emery	0.7461
+SemSearch_ES-32	-1	fitzgerald auto mall chambersburg pa	0.4307
+SemSearch_ES-33	-1	harry potter	0.8034
+SemSearch_ES-34	-1	harry potter movie	0.7826
+SemSearch_ES-36	-1	imdb batman returns	0.5653
+SemSearch_ES-37	-1	jack johnson	0.8048
+SemSearch_ES-38	-1	jack the ripper	0.8447
+SemSearch_ES-39	-1	james caldwell high school	0.7205
+SemSearch_ES-4	-1	NAACP Image Awards	0.7201
+SemSearch_ES-40	-1	james clayton md	0.1738
+SemSearch_ES-41	-1	joan of arc	0.9227
+SemSearch_ES-42	-1	john maxwell	0.7604
+SemSearch_ES-45	-1	keith urban	0.8398
+SemSearch_ES-47	-1	king arthur	0.8372
+SemSearch_ES-49	-1	laura bush	0.6882
+SemSearch_ES-5	-1	Scott County	0.8545
+SemSearch_ES-50	-1	laura steele bob and tom	0.1419
+SemSearch_ES-52	-1	lincoln park	0.7812
+SemSearch_ES-53	-1	lynchburg virginia	0.7003
+SemSearch_ES-54	-1	marc anthony	0.8269
+SemSearch_ES-56	-1	mario bros	0.9035
+SemSearch_ES-57	-1	martin luther king	0.835
+SemSearch_ES-58	-1	mason ohio	0.3453
+SemSearch_ES-59	-1	mercy hospital in des moines, ia	0.7019
+SemSearch_ES-6	-1	air wisconsin	0.4207
+SemSearch_ES-60	-1	michael douglas	0.8042
+SemSearch_ES-61	-1	mr rourke fantasy island	0.2052
+SemSearch_ES-63	-1	old winchester shotguns	0.7863
+SemSearch_ES-65	-1	orlando florida	0.6224
+SemSearch_ES-66	-1	overeaters anonymous	0.8575
+SemSearch_ES-67	-1	ovguide movies	0.5
+SemSearch_ES-68	-1	pierce county washington	0.4242
+SemSearch_ES-7	-1	airsoft glock	0.6633
+SemSearch_ES-70	-1	radio italia online	0.7183
+SemSearch_ES-71	-1	richmond virginia	0.6958
+SemSearch_ES-72	-1	rock 103 memphis	0.3869
+SemSearch_ES-73	-1	rowan university	0.8957
+SemSearch_ES-74	-1	sacred heart u	0.4484
+SemSearch_ES-75	-1	sagemont church houston tx	0.0
+SemSearch_ES-76	-1	san antonio	0.5556
+SemSearch_ES-77	-1	savannah tech	0.8391
+SemSearch_ES-78	-1	sharp pc	0.2722
+SemSearch_ES-79	-1	shobana masala	0.3155
+SemSearch_ES-80	-1	sonny and cher	0.8682
+SemSearch_ES-81	-1	south dakota state university	0.3742
+SemSearch_ES-82	-1	st lucia	0.7032
+SemSearch_ES-83	-1	st paul saints	0.3617
+SemSearch_ES-84	-1	the dish danielle fishel	0.8597
+SemSearch_ES-85	-1	the longest yard sale	1.0
+SemSearch_ES-86	-1	the morning call lehigh valley pa	0.381
+SemSearch_ES-88	-1	thomas jefferson	0.7067
+SemSearch_ES-89	-1	university of north dakota	0.3992
+SemSearch_ES-9	-1	american embassy nairobi	0.5015
+SemSearch_ES-90	-1	university of phoenix	0.7387
+SemSearch_ES-91	-1	westminster abbey	0.8881
+SemSearch_ES-93	-1	08 toyota tundra	0.8617
+SemSearch_ES-94	-1	Hugh Downs	0.3267
+SemSearch_ES-95	-1	MADRID	0.5668
+SemSearch_ES-96	-1	New England Coffee	0.7632
+SemSearch_ES-97	-1	PINK PANTHER 2	0.8216
+SemSearch_ES-98	-1	University of Texas at Austin	0.6565
+SemSearch_ES-99	-1	University of York	0.3278
+SemSearch_LS-1	-1	Apollo astronauts who walked on the Moon	0.8105
+SemSearch_LS-10	-1	did nicole kidman have any siblings	0.2849
+SemSearch_LS-11	-1	dioceses of the church of ireland	0.739
+SemSearch_LS-12	-1	first targets of the atomic bomb	0.4154
+SemSearch_LS-13	-1	five great epics of Tamil literature	0.714
+SemSearch_LS-14	-1	gods who dwelt on Mount Olympus	0.4412
+SemSearch_LS-16	-1	hijackers in the September 11 attacks	0.8108
+SemSearch_LS-17	-1	houses of the Russian parliament	0.5568
+SemSearch_LS-18	-1	john lennon, parents	0.5377
+SemSearch_LS-19	-1	kenya's captain in cricket	0.5141
+SemSearch_LS-2	-1	Arab states of the Persian Gulf	0.5106
+SemSearch_LS-20	-1	kublai khan siblings	0.5412
+SemSearch_LS-21	-1	lilly allen parents	1.0
+SemSearch_LS-22	-1	major leagues in the united states	0.3843
+SemSearch_LS-24	-1	matt berry tv series	0.6292
+SemSearch_LS-25	-1	members of u2?	0.0
+SemSearch_LS-26	-1	movies starring erykah badu	0.5429
+SemSearch_LS-29	-1	nations where Portuguese is an official language	0.5569
+SemSearch_LS-3	-1	astronauts who landed on the Moon	0.4491
+SemSearch_LS-30	-1	orders (or 'choirs') of angels	0.1018
+SemSearch_LS-31	-1	permanent members of the UN Security Council	0.6356
+SemSearch_LS-32	-1	presidents depicted on mount rushmore who died of shooting	0.397
+SemSearch_LS-33	-1	provinces and territories of Canada	0.5851
+SemSearch_LS-34	-1	ratt albums	0.8264
+SemSearch_LS-35	-1	republics of the former Yugoslavia	0.5326
+SemSearch_LS-36	-1	revolutionaries of 1959 in Cuba	0.6059
+SemSearch_LS-37	-1	standard axioms of set theory	0.5675
+SemSearch_LS-38	-1	states that border oklahoma	0.0725
+SemSearch_LS-39	-1	ten ancient Greek city-kingdoms of Cyprus	0.736
+SemSearch_LS-4	-1	Axis powers of World War II	0.5204
+SemSearch_LS-40	-1	the first 13 american states	0.0
+SemSearch_LS-41	-1	the four of the companions of the prophet	0.512
+SemSearch_LS-42	-1	twelve tribes or sons of Israel	0.6498
+SemSearch_LS-43	-1	what books did paul of tarsus write?	0.0
+SemSearch_LS-44	-1	what languages do they speak in afghanistan	0.3287
+SemSearch_LS-46	-1	where the British monarch is also head of state	0.2178
+SemSearch_LS-49	-1	who invented the python programming language	0.3854
+SemSearch_LS-5	-1	books of the Jewish canon	0.6139
+SemSearch_LS-50	-1	wonders of the ancient world	0.7984
+SemSearch_LS-6	-1	boroughs of New York City	0.5731
+SemSearch_LS-7	-1	Branches of the US military	0.4024
+SemSearch_LS-8	-1	continents in the world	0.3072
+SemSearch_LS-9	-1	degrees of Eastern Orthodox monasticism	0.5495
+TREC_Entity-1	-1	Carriers that Blackberry makes phones for.	0.1607
+TREC_Entity-10	-1	Campuses of Indiana University.	0.1502
+TREC_Entity-11	-1	Donors to the Home Depot Foundation.	0.3327
+TREC_Entity-12	-1	Airlines that Air Canada has code share flights with.	0.1213
+TREC_Entity-14	-1	Authors awarded an Anthony Award at Bouchercon in 2007.	0.5934
+TREC_Entity-15	-1	Universities that are members of the SEC conference for football.	0.1407
+TREC_Entity-16	-1	Sponsors of the Mancuso quilt festivals.	0.0
+TREC_Entity-17	-1	Chefs with a show on the Food Network.	0.5568
+TREC_Entity-18	-1	Members of the band Jefferson Airplane.	0.7418
+TREC_Entity-19	-1	Companies that John Hennessey serves on the board of.	0.2346
+TREC_Entity-2	-1	Winners of the ACM Athena award.	0.2755
+TREC_Entity-20	-1	Scotch whisky distilleries on the island of Islay.	0.7717
+TREC_Entity-4	-1	Professional sports teams in Philadelphia.	0.5066
+TREC_Entity-5	-1	Products of Medimmune, Inc.	0.548
+TREC_Entity-6	-1	Organizations that award Nobel prizes.	0.6453
+TREC_Entity-7	-1	Airlines that currently use Boeing 747 planes.	0.0606
+TREC_Entity-9	-1	Members of The Beaux Arts Trio.	0.5946

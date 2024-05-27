@@ -1,0 +1,199 @@
+qid	order	query	bm25.recip_rank
+1	-1	obama family tree	0.5
+10	-1	cheap internet	0.25
+11	-1	gmat prep classes	1.0
+12	-1	djs	0.3333
+13	-1	map	0.0204
+14	-1	dinosaurs	0.0476
+15	-1	espn sports	1.0
+16	-1	arizona game and fish	1.0
+17	-1	poker tournaments	0.1429
+18	-1	wedding budget calculator	0.3333
+19	-1	the current	0.0
+2	-1	french lick resort and casino	1.0
+20	-1	defender	0.0
+21	-1	volvo	0.3333
+22	-1	rick warren	1.0
+23	-1	yahoo	0.1
+24	-1	diversity	0.125
+25	-1	euclid	0.5
+26	-1	lower heart rate	1.0
+27	-1	starbucks	0.0625
+28	-1	inuyasha	0.3333
+29	-1	ps 2 games	0.0526
+3	-1	getting organized	1.0
+30	-1	diabetes education	1.0
+31	-1	atari	1.0
+32	-1	website design hosting	1.0
+33	-1	elliptical trainer	0.3333
+34	-1	cell phones	0.1111
+35	-1	hoboken	0.5
+36	-1	gps	0.2
+37	-1	pampered chef	0.1111
+38	-1	dogs for adoption	0.5
+39	-1	disneyland hotel	0.3333
+4	-1	toilet	0.0588
+40	-1	michworks	0.3333
+41	-1	orange county convention center	1.0
+42	-1	the music man	0.0
+43	-1	the secret garden	0.1
+44	-1	map of the united states	1.0
+45	-1	solar panels	1.0
+46	-1	alexian brothers hospital	0.3333
+47	-1	indexed annuity	1.0
+48	-1	wilson antenna	1.0
+49	-1	flame designs	0.5
+5	-1	mitchell college	0.2
+50	-1	dog heat	0.1111
+6	-1	kcs	0.0
+7	-1	air travel information	1.0
+8	-1	appraisals	0.0
+9	-1	used car parts	0.3333
+51	-1	horse hooves	1.0
+52	-1	avp	0.2
+53	-1	discovery channel store	1.0
+54	-1	president of the united states	0.5
+55	-1	iron	0.0182
+56	-1	uss yorktown charleston sc	0.0217
+57	-1	ct jobs	1.0
+58	-1	penguins	0.125
+59	-1	how to build a fence	0.25
+60	-1	bellevue	0.1
+61	-1	worm	0.0833
+62	-1	texas border patrol	1.0
+63	-1	flushing	0.04
+64	-1	moths	0.1429
+65	-1	korean language	1.0
+66	-1	income tax return online	0.0312
+67	-1	vldl levels	1.0
+68	-1	pvc	0.125
+69	-1	sewing instructions	1.0
+70	-1	to be or not to be that is the question	0.0
+71	-1	living in india	0.0278
+72	-1	the sun	0.0
+73	-1	neil young	1.0
+74	-1	kiwi	0.0357
+75	-1	tornadoes	0.125
+76	-1	raised gardens	0.5
+77	-1	bobcat	0.1429
+78	-1	dieting	0.0204
+79	-1	voyager	0.0345
+80	-1	keyboard reviews	1.0
+81	-1	afghanistan	0.0667
+82	-1	joints	0.0227
+83	-1	memory	0.0
+84	-1	continental plates	0.3333
+85	-1	milwaukee journal sentinel	1.0
+86	-1	bart sf	1.0
+87	-1	who invented music	1.0
+88	-1	forearm pain	1.0
+89	-1	ocd	0.3333
+90	-1	mgb	0.0714
+91	-1	er tv show	0.1111
+92	-1	the wall	0.0
+93	-1	raffles	0.2
+94	-1	titan	0.0167
+96	-1	rice	0.2
+97	-1	south africa	0.1667
+98	-1	sat	0.3333
+99	-1	satellite	0.0
+101	-1	ritz carlton lake las vegas	1.0
+102	-1	fickle creek farm	0.0333
+103	-1	madam cj walker	0.5
+104	-1	indiana child support	0.1111
+105	-1	sonoma county medical services	1.0
+106	-1	universal animal cuts reviews	0.25
+107	-1	cass county missouri	0.125
+108	-1	ralph owen brewster	1.0
+109	-1	mayo clinic jacksonville fl	0.0
+110	-1	map of brazil	1.0
+111	-1	lymphoma in dogs	1.0
+112	-1	kenmore gas water heater	0.0
+113	-1	hp mini 2140	0.0
+114	-1	adobe indian houses	0.2
+115	-1	pacific northwest laboratory	0.25
+116	-1	california franchise tax board	0.1667
+117	-1	dangers of asbestos	0.3333
+118	-1	poem in your pocket day	1.0
+119	-1	interview thank you	0.2
+120	-1	tv on computer	0.0909
+121	-1	sit and reach test	0.5
+122	-1	culpeper national cemetery	0.5
+123	-1	von willebrand disease	0.5
+124	-1	bowflex power pro	1.0
+125	-1	butter and margarine	0.5
+126	-1	us capitol map	0.0
+127	-1	dutchess county tourism	0.3333
+128	-1	atypical squamous cells	0.25
+129	-1	iowa food stamp program	0.1429
+130	-1	fact on uranus	1.0
+131	-1	equal opportunity employer	0.0476
+132	-1	mothers day songs	0.1429
+133	-1	all men are created equal	1.0
+134	-1	electronic skeet shoot	0.0172
+135	-1	source of the nile	0.0189
+136	-1	american military university	0.0
+137	-1	rock and gem shows	1.0
+138	-1	jax chemical company	1.0
+139	-1	rocky mountain news	0.0333
+140	-1	east ridge high school	0.25
+141	-1	va dmv registration	0.0714
+142	-1	illinois state tax	0.1667
+143	-1	arkadelphia health club	0.0
+144	-1	trombone for sale	1.0
+145	-1	vines for shade	0.3333
+146	-1	sherwood regional library	0.3333
+147	-1	tangible personal property tax	1.0
+148	-1	martha stewart and imclone	1.0
+149	-1	uplift at yellowstone national park	0.0625
+150	-1	tn highway patrol	0.0333
+151	-1	403b	0.0
+152	-1	angular cheilitis	0.0
+153	-1	pocono	0.3333
+154	-1	figs	0.0769
+155	-1	last supper painting	0.2
+156	-1	university of phoenix	1.0
+157	-1	the beatles rock band	0.1
+158	-1	septic system design	1.0
+159	-1	porterville	0.5
+160	-1	grilling	0.0
+161	-1	furniture for small spaces	0.0208
+162	-1	dnr	0.0667
+163	-1	arkansas	0.0286
+164	-1	hobby stores	0.0769
+165	-1	blue throated hummingbird	0.0909
+166	-1	computer programming	0.012
+167	-1	barbados	0.025
+168	-1	lipoma	1.0
+169	-1	battles in the civil war	0.1111
+170	-1	scooters	0.0
+171	-1	ron howard	1.0
+172	-1	becoming a paralegal	1.0
+173	-1	hip fractures	0.3333
+174	-1	rock art	0.25
+175	-1	signs of a heartattack	1.0
+176	-1	weather strip	0.0213
+177	-1	best long term care insurance	0.1111
+178	-1	pork tenderloin	0.2
+179	-1	black history	0.0417
+180	-1	newyork hotels	0.0263
+181	-1	old coins	1.0
+182	-1	quit smoking	0.1111
+183	-1	kansas city mo	0.0345
+184	-1	civil right movement	0.0588
+185	-1	credit report	0.0385
+186	-1	unc	0.0714
+187	-1	vanuatu	0.125
+188	-1	internet phone service	0.0213
+189	-1	gs pay rate	0.037
+190	-1	brooks brothers clearance	0.3333
+191	-1	churchill downs	0.2
+192	-1	condos in florida	0.25
+193	-1	dog clean up bags	1.0
+194	-1	designer dog breeds	1.0
+195	-1	pressure washers	0.0104
+196	-1	sore throat	0.1111
+197	-1	idaho state flower	1.0
+198	-1	indiana state fairgrounds	0.3333
+199	-1	fybromyalgia	0.25
+200	-1	ontario california airport	0.1

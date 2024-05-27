@@ -1,0 +1,554 @@
+qid	order	query	bm25.recip_rank
+701	-1	U.S. oil industry history	0.125
+701	relevancefeedback.topn10.qld	u s oil industry history industri counti ga	1.0
+701	docluster.topn10.3.qld	u s oil industry history industri counti	0.5
+701	termluster.topn5.3.qld	u s oil industry history industri field oil field state social region	0.5
+701	wiki.topn3	u s oil industry history glassforming liquids melts oil natural gas petroleum	0.5
+701	wordnet.topn3	u s oil industry history USA United States United States government rock oil petroleum oil color manufacture diligence account chronicle	0.25
+702	-1	Pearl farming	1.0
+704	-1	Green party political views	1.0
+705	-1	Iraq foreign debt reduction	1.0
+706	-1	Controlling type II diabetes	0.1667
+706	sensedisambiguation.replace	see type two diabetes	1.0
+706	sensedisambiguation	Controlling see type II two diabetes	0.5
+706	relevancefeedback.topn10.qld	controlling type ii diabetes diabet word	0.25
+706	conceptluster.topn5.3.qld	controlling type ii diabetes diabetes mellitus	0.2
+706	docluster.topn10.3.qld	controlling type ii diabetes diabet	0.2
+706	rm3.topn10.10.0.5.bm25	controlling type ii diabetes diabet	0.2
+706	tagmee.topn3	controlling type ii diabetes Diabetes mellitus	0.2
+706	termluster.topn5.3.qld	controlling type ii diabetes type trial studi control diabet diseas type trial studi	0.2
+707	-1	Aspirin cancer prevention	1.0
+708	-1	Decorative slate sources	1.0
+709	-1	Horse racing jockey weight	1.0
+710	-1	Prostate cancer treatments	1.0
+711	-1	Train station security measures	0.25
+711	relevancefeedback.topn10.qld	train station security measures measur naval amtrak secur transport	1.0
+711	rm3.topn10.10.0.5.bm25	train station security measures transport bart y emerg polic secur transit	1.0
+711	sensedisambiguation	Train station security measures standard	1.0
+711	rm3.topn10.10.0.5.qld	train station security measures measur transit transport naval amtrak y	0.5
+711	tagmee.topn3	train station security measures Train station Airport security	0.5
+711	docluster.topn10.3.qld	train station security measures secur	0.3333
+711	word2vec.topn3	train station security measures railway secuirty safety initiatives	0.3333
+712	-1	Pyramid scheme	1.0
+713	-1	Chesapeake Bay Maryland clean	1.0
+714	-1	License restrictions older drivers	1.0
+715	-1	Schizophrenia drugs	0.5
+715	docluster.topn10.3.qld	schizophrenia drugs patient	1.0
+716	-1	Spammer arrest sue	0.3333
+716	conceptluster.topn5.3.qld	spammer arrest sue arrest lawsuit spamming	1.0
+716	stem.lovins	spammer arrest su	1.0
+716	tagmee.topn3	spammer arrest sue Spamming Arrest Lawsuit	1.0
+716	sensedisambiguation.replace	spammer halt sue	0.5
+717	-1	Gifted talented student programs	1.0
+718	-1	Controlling acid rain	1.0
+719	-1	Cruise ship damage sea life	0.1429
+719	anchor.topn3	cruise ship damage sea life kommuna cunnari communa normalhöhennul trsa vega apicomplexan kdblife nánjīng small	1.0
+719	glove.topn3	cruise ship damage sea life ship vessel caused ocean waters lives even	1.0
+719	sensedisambiguation	Cruise ship damage wrong sea life liveliness	1.0
+719	wiki.topn3	cruise ship damage sea life cruisline cruise ship templates holland america line cruise ship plankton oceanography ocean current marine biology	1.0
+719	wordnet.topn3	cruise ship damage sea life sail transport embark harm impairment wrong ocean life story life history	1.0
+719	wiki.topn3.replace	cruisline cruise ship templates holland america line cruise ship plankton oceanography ocean current marine biology	0.5
+719	word2vec.topn3	cruise ship damage sea life small ship vessel warship damange harm ocean lives life life	0.5
+719	tagmee.topn3	cruise ship damage sea life Cruise ship Marine biology	0.3333
+719	conceptnet.topn3	cruise ship damage sea life ocean trip captain boat ocean water death	0.2
+719	sensedisambiguation.replace	cruise ship wrong sea liveliness	0.2
+720	-1	Federal welfare reform	0.2
+720	bertqe.topn10.bm25	welfar reform how we know	1.0
+720	relevancefeedback.topn10.qld	federal welfare reform welfar immigr state we	1.0
+720	rm3.topn10.10.0.5.qld	federal welfare reform state welfar immigr	1.0
+720	termluster.topn5.3.qld	federal welfare reform work welfar support work support state assist famili feder	1.0
+720	wiki.topn3	federal welfare reform constitutionalism representativdemocracy separation powers federalism manhattan institutfor policy research get thvote freto choose welfare reform	1.0
+720	wordnet.topn3	federal welfare reform Federal soldier wellbeing eudaimonia straighten out regenerate	1.0
+720	conceptnet.topn3	federal welfare reform national wellbeing	0.5
+720	sensedisambiguation	Federal welfare wellbeing reform	0.5
+720	sensedisambiguation.replace	federal wellbeing reform	0.5
+720	conceptnet.topn3.replace	national wellbeing reform	0.3333
+720	docluster.topn10.3.qld	federal welfare reform welfar state	0.25
+720	rm3.topn10.10.0.5.bm25	federal welfare reform state welfar	0.25
+720	word2vec.topn3	federal welfare reform government state well being wellfare	0.25
+721	-1	Census data applications	0.1111
+721	docluster.topn10.3.qld	census data applications d	1.0
+721	termluster.topn5.3.qld	census data applications area counti number ani total	1.0
+721	stem.trunc5	censu data appli	0.3333
+721	sensedisambiguation	Census data applications application	0.125
+722	-1	Iran terrorism	1.0
+723	-1	Executive privilege	1.0
+724	-1	Iran Contra	0.1667
+724	conceptnet.topn3	iran contra Nicaraguan	1.0
+724	conceptnet.topn3.replace	iran Nicaraguan	1.0
+724	relevancefeedback.topn10.qld	iran contra defend cia casei	1.0
+724	rm3.topn10.10.0.5.bm25	iran contra casei cia defend record	1.0
+724	rm3.topn10.10.0.5.qld	iran contra casei cia defend	1.0
+724	word2vec.topn3	iran contra iranian Iran iran naturam	0.3333
+725	-1	Low white blood cell count	0.3333
+725	conceptluster.topn5.3.qld	low white blood cell count white blood cell leukopenia	1.0
+725	docluster.topn10.3.qld	low white blood cell count platelet	1.0
+725	glove.topn3	low white blood cell count high higher black brown heart urine cellular	1.0
+725	relevancefeedback.topn10.qld	low white blood cell count platelet your	1.0
+725	tagmee.topn3	low white blood cell count Leukopenia White blood cell	1.0
+725	anchor.topn3	low white blood cell count wor ul hh h low chlorophyl model chunlaud citharin imitation high energi an xeromi kultschitzsky apud scaroth count kosmoi	0.5
+725	conceptnet.topn3	low white blood cell count high depressed baritone cloud rice snow red be coursing through your veins fluid phone room prison numbers	0.5
+725	glove.topn3.replace	high higher black brown heart urine cellular count	0.5
+725	rm3.topn10.10.0.5.bm25	low white blood cell count slide mai benzen	0.5
+725	wordnet.topn3	low white blood cell count small humble first whiten Edward Douglas White Jr White River pedigree rake cellphone mobile phone jail cell number weigh bet	0.5
+726	-1	Hubble telescope repairs	1.0
+727	-1	Church arson	1.0
+728	-1	whales save endangered	1.0
+729	-1	Whistle blower department of defense	0.0
+729	glove.topn3	whistle blower department defense blowing whistleblower administration defence	0.25
+729	tagmee.topn3.replace	Whistleblower United States Department of Defense	0.25
+729	word2vec.topn3	whistle blower department defense swanee whistle blowing dept defence	0.0588
+729	glove.topn3.replace	blowing whistleblower administration defence	0.037
+729	conceptluster.topn5.3.qld	whistle blower department defense whistleblower united states department defense	0.0357
+729	tagmee.topn3	whistle blower department defense Whistleblower United States Department of Defense	0.0357
+729	termluster.topn5.3.qld	whistle blower department defense said new govern depart govern said whistl said new	0.0323
+729	word2vec.topn3.replace	swanee whistle blowing dept defence	0.0185
+729	anchor.topn3.replace	whistle blowers journalist car siegel coop mayotte presid nano fifth gener defense	0.0172
+729	wiki.topn3	whistle blower department defense grounds termination employment insider trading conflict interest whistleblower nuclear weapons infrastructure united states military industrial complex government agencies established united states department defense	0.0118
+729	stem.paicehusk	whistl blow depart of defens	0.0115
+730	-1	Gastric bypass complications	1.0
+731	-1	Kurds history	0.0833
+731	conceptnet.topn3	kurds history past subject school	1.0
+731	conceptnet.topn3.replace	kurds past subject school	1.0
+731	glove.topn3	kurds history kurdish sunnis historical ever	1.0
+731	glove.topn3.replace	kurdish sunnis historical ever	1.0
+731	stem.lovins	kurd histor	1.0
+731	word2vec.topn3	kurds history kurdish history	1.0
+731	word2vec.topn3.replace	kurdish history	1.0
+731	wordnet.topn3.replace	kurds account chronicle	1.0
+731	wordnet.topn3	kurds history story chronicle	0.5
+731	stem.paicehusk	kurd hist	0.1
+731	stem.trunc4	kurd hist	0.1
+732	-1	U.S. cheese production	1.0
+733	-1	Airline overbooking	1.0
+734	-1	Recycling successes	0.5
+734	docluster.topn10.3.qld	recycling successes mr recycl	1.0
+734	glove.topn3	recycling successes waste accomplishments	1.0
+734	rm3.topn10.10.0.5.bm25	recycling successes project counti	1.0
+735	-1	Afghan women condition	0.3333
+735	bertqe.topn10.bm25	issu afghan reconstruct basic principl	1.0
+735	glove.topn3	afghan women condition afghanistan men girls although anonymity	1.0
+735	termluster.topn5.3.qld	afghan women condition afghanistan american bring afghan afghanistan american	1.0
+735	wiki.topn3	afghan women condition states territories established territories military occupation education afghanistan afghanistan women afghanistan afghan peacjirga afghan presidential election women s rights afghanistan	1.0
+735	wiki.topn3.replace	states territories established territories military occupation education afghanistan afghanistan women afghanistan afghan peacjirga afghan presidential election women s rights afghanistan	1.0
+735	word2vec.topn3	afghan women condition afghanistan men woman situation	1.0
+735	word2vec.topn3.replace	afghanistan men woman situation	1.0
+735	glove.topn3.replace	afghanistan men girls although anonymity	0.5
+736	-1	location BSE infections	1.0
+737	-1	Enron California energy crisis	1.0
+738	-1	Anthrax hoaxes	1.0
+739	-1	Habitat for Humanity	0.3333
+739	rm3.topn10.10.0.5.qld	habitat for humanity faith hous	1.0
+739	sensedisambiguation	Habitat for Humanity world	1.0
+739	termluster.topn5.3.qld	habitat humanity human servic servic habitat	1.0
+739	relevancefeedback.topn10.qld	habitat for humanity assess faith diseas	0.5
+739	sensedisambiguation.replace	habitat for world	0.5
+739	wiki.topn3	habitat humanity sumter county georgia united way america homeless shelter habitat humanity	0.5
+740	-1	regulate assisted living Maryland	1.0
+741	-1	Artificial Intelligence	0.04
+741	conceptnet.topn3	artificial intelligence learning United States intelligence agency	1.0
+741	conceptnet.topn3.replace	artificial learning United States intelligence agency	1.0
+741	wiki.topn3	artificial intelligence unsolved problems computer science computational neuroscience simulation artificial intelligence	1.0
+741	word2vec.topn3	artificial intelligence artifical synthetic intellegence intelligence	1.0
+741	wiki.topn3.replace	unsolved problems computer science computational neuroscience simulation artificial intelligence	0.5
+741	wordnet.topn3	artificial intelligence unreal hokey intelligence service tidings intelligence agency	0.3333
+741	sensedisambiguation	Artificial Intelligence news	0.0833
+741	glove.topn3	artificial intelligence furthermore hence cia operatives	0.0714
+741	stem.lovins	artific intellig	0.0714
+742	-1	hedge funds fraud protection	1.0
+743	-1	Freighter ship registration	0.0357
+743	bertqe.topn10.bm25	under flag conveni nation secur	1.0
+743	termluster.topn5.3.qld	freighter ship registration vessel	0.3333
+743	sensedisambiguation	Freighter bottom ship registration	0.25
+743	glove.topn3	freighter ship registration ship vessel voter identification	0.2
+743	wordnet.topn3	freighter ship registration merchantman bottom merchant ship transport embark enrolment adjustment readjustment	0.2
+743	tagmee.topn3	freighter ship registration Cargo ship Cargo ship Ship registration	0.1
+743	tagmee.topn3.replace	Cargo ship Cargo ship Ship registration	0.1
+743	word2vec.topn3	freighter ship registration cargo tanker vessel warship registering	0.1
+743	conceptluster.topn5.3.qld	freighter ship registration ship registration cargo ship	0.0833
+743	stem.paicehusk	freight ship reg	0.0556
+743	conceptnet.topn3	freighter ship registration cargo ship captain boat enrollment	0.05
+743	stem.lovins	freighter ship register	0.0435
+744	-1	Counterfeit ID punishments	0.0115
+744	glove.topn3	counterfeit id punishments fake identification meted	0.25
+744	glove.topn3.replace	fake identification meted	0.1111
+744	wiki.topn3.replace	counterfeiters forgery theft counterfeit transactional analysis brief reactivpsychosis neurosis id ego super ego necessity retributivjustice mobbing punishment	0.1
+744	wiki.topn3	counterfeit id punishments counterfeiters forgery theft counterfeit transactional analysis brief reactivpsychosis neurosis id ego super ego necessity retributivjustice mobbing punishment	0.0833
+744	stem.paicehusk	counterfeit id pun	0.0385
+744	conceptnet.topn3.replace	counterfeit Idaho buying a beer Sentences	0.0294
+744	sensedisambiguation.replace	counterfeit idaho punishment	0.0222
+744	conceptnet.topn3	counterfeit id punishments Idaho buying a beer Sentences	0.0217
+744	word2vec.topn3.replace	counterfeit iots penalties	0.0128
+744	wordnet.topn3	counterfeit id punishments forgery forge Idaho I D penalisation penalization	0.0125
+745	-1	Doomsday cults	0.1429
+745	conceptnet.topn3	doomsday cults Judgment Day doom synchromysticism	1.0
+745	glove.topn3	doomsday cults cult aum sects	1.0
+745	glove.topn3.replace	cult aum sects	1.0
+745	relevancefeedback.topn10.qld	doomsday cults cult religion religi	1.0
+745	rm3.topn10.10.0.5.bm25	doomsday cults cult religion religi	1.0
+745	sensedisambiguation	Doomsday judgment day cults fad	1.0
+745	word2vec.topn3	doomsday cults apocalypse apocalyptic end of the world sects	1.0
+745	wordnet.topn3	doomsday cults end of the world Last Judgement furor furore	1.0
+745	docluster.topn10.3.qld	doomsday cults cult	0.1667
+745	rm3.topn10.10.0.5.qld	doomsday cults cult religion biolog	0.1667
+745	termluster.topn5.3.qld	doomsday cults number new	0.1667
+746	-1	Outsource job India	1.0
+747	-1	Library computer oversight	1.0
+748	-1	Nuclear reactor types	0.5
+748	anchor.topn3	nuclear reactor types kernkraftwerk kkl union frussia reactor romawa reactor adam core	1.0
+748	anchor.topn3.replace	kernkraftwerk kkl union frussia reactor romawa reactor adam core types	1.0
+749	-1	Puerto Rico state	1.0
+750	-1	John Edwards womens issues	0.3333
+750	tagmee.topn3	john edwards womens issues John Edwards On the Issues	0.5
+751	-1	Scrabble Players	1.0
+752	-1	Dam removal	1.0
+753	-1	bullying prevention programs	0.5
+753	conceptluster.topn5.3.qld	bullying prevention programs bullying television program substance abuse	1.0
+753	rm3.topn10.10.0.5.bm25	bullying prevention programs bulli school	1.0
+753	rm3.topn10.10.0.5.qld	bullying prevention programs bulli program school	1.0
+753	tagmee.topn3	bullying prevention programs Bullying Substance abuse Television program	1.0
+753	tagmee.topn3.replace	Bullying Substance abuse Television program	1.0
+754	-1	domestic adoption laws	1.0
+755	-1	Scottish Highland Games	1.0
+756	-1	Volcanic Activity	0.1429
+756	glove.topn3	volcanic activity eruptions lava suggesting	1.0
+756	rm3.topn10.10.0.5.bm25	volcanic activity volcano lake helen mount lassen baker volcan	0.5
+756	sensedisambiguation	Volcanic Activity natural process	0.5
+756	glove.topn3.replace	eruptions lava suggesting	0.3333
+756	rm3.topn10.10.0.5.qld	volcanic activity volcano volcan mount lake lassen	0.3333
+756	sensedisambiguation.replace	volcanic natural process	0.3333
+756	termluster.topn5.3.qld	volcanic activity volcano three plume washington usg project	0.3333
+756	relevancefeedback.topn10.qld	volcanic activity volcan volcano lake erupt activ	0.25
+756	word2vec.topn3	volcanic activity volcanoes volcano basaltic acitivity	0.25
+756	stem.lovins	volcan act	0.2
+756	word2vec.topn3.replace	volcanoes volcano basaltic acitivity	0.2
+756	wiki.topn3	volcanic activity volcanoes magma volcanirocks volcano volcanoes magma volcanirocks volcano	0.1667
+757	-1	Murals	0.25
+757	docluster.topn10.3.qld	murals mural your	1.0
+757	glove.topn3	murals mosaics	1.0
+757	relevancefeedback.topn10.qld	murals mural your montana	1.0
+757	rm3.topn10.10.0.5.qld	murals mural your design montana art	1.0
+757	termluster.topn5.3.qld	murals panel artist	1.0
+757	word2vec.topn3	murals frescoes	1.0
+757	rm3.topn10.10.0.5.bm25	murals your mural design art commun	0.5
+757	wordnet.topn3	murals wall painting	0.5
+758	-1	Embryonic stem cells	1.0
+759	-1	civil war battle reenactments	1.0
+760	-1	american muslim mosques schools	1.0
+761	-1	Problems of Hmong Immigrants	1.0
+762	-1	History of Physicians in America	0.1667
+762	relevancefeedback.topn10.qld	history of physicians in america p ohio histori american women i	1.0
+763	-1	Hunting deaths	1.0
+764	-1	Increase mass transit use	1.0
+765	-1	ephedra ma huang deaths	1.0
+766	-1	diamond smuggling	1.0
+767	-1	Pharmacist License requirements	1.0
+768	-1	Women in state legislatures	1.0
+769	-1	Kroll Associates Employees	0.0333
+769	conceptnet.topn3.replace	kroll associates a company the office company	1.0
+769	relevancefeedback.topn10.qld	kroll associates employees train mr wage illinoi law fraser gepner	0.5
+769	wiki.topn3	kroll associates employees general atlantic wilson sonsini goodrich rosati asia kroll inc	0.5
+769	wordnet.topn3.replace	kroll familiar consort associate degree employees	0.1667
+769	wiki.topn3.replace	general atlantic wilson sonsini goodrich rosati asia kroll inc	0.1
+769	conceptluster.topn5.3.qld	kroll associates employees kroll inc	0.0909
+769	tagmee.topn3	kroll associates employees Kroll Inc	0.0909
+769	rm3.topn10.10.0.5.bm25	kroll associates employees order thaw mr i facil program train we	0.0833
+769	conceptnet.topn3	kroll associates employees a company the office company	0.0667
+769	tagmee.topn3.replace	Kroll Inc	0.0667
+769	stem.porter2	kroll associ employe	0.037
+770	-1	Kyrgyzstan-United States relations	1.0
+771	-1	deformed leopard frogs	1.0
+772	-1	flag display rules	1.0
+773	-1	Pennsylvania slot machine gambling	1.0
+774	-1	Causes of Homelessness	1.0
+775	-1	Commercial candy makers	0.5
+775	conceptnet.topn3	commercial candy makers commercialised chocolate sugar the movies	1.0
+775	conceptnet.topn3.replace	commercialised chocolate sugar the movies makers	1.0
+775	glove.topn3	commercial candy makers addition business chocolate manufacturers	1.0
+775	relevancefeedback.topn10.qld	commercial candy makers candi u all	1.0
+775	tagmee.topn3.replace	Candy	1.0
+775	wiki.topn3	commercial candy makers marshmallow caramel snack food candy	1.0
+775	wiki.topn3.replace	marshmallow caramel snack food candy	1.0
+775	word2vec.topn3	commercial candy makers commerical non commercial commericial sweets chocolate manufacturers manufacturer	1.0
+776	-1	Magnet schools success	1.0
+777	-1	hybrid alternative fuel cars	0.25
+777	conceptluster.topn5.3.qld	hybrid alternative fuel cars hybrid vehicle alternative fuel vehicle	1.0
+777	conceptnet.topn3	hybrid alternative fuel cars organism unconventional oil coal gas go fast driven	1.0
+777	tagmee.topn3	hybrid alternative fuel cars Hybrid vehicle Alternative fuel vehicle	1.0
+777	wiki.topn3	hybrid alternative fuel cars powertrain ac propulsion automotivaerodynamics hybrid vehicle alternative fuels miles per gallon gasolinequivalent hybrid vehicldrivetrain alternative fuel vehicle	1.0
+777	wiki.topn3.replace	powertrain ac propulsion automotivaerodynamics hybrid vehicle alternative fuels miles per gallon gasolinequivalent hybrid vehicldrivetrain alternative fuel vehicle	1.0
+777	word2vec.topn3	hybrid alternative fuel cars non hybrid gasoline automobiles vehicles	1.0
+777	word2vec.topn3.replace	non hybrid alternative gasoline automobiles vehicles	1.0
+777	glove.topn3	hybrid alternative fuel cars concept preferable gasoline vehicles	0.5
+777	rm3.topn10.10.0.5.qld	hybrid alternative fuel cars hydrogen vehicl	0.5
+777	stem.trunc4	hybr alte fuel cars	0.5
+777	stem.trunc5	hybri alter fuel cars	0.5
+777	anchor.topn3	hybrid alternative fuel cars reassoci arbutu hybrids goos fuel inject mixed oxid gas motor geilli idlicot schiedt	0.3333
+777	rm3.topn10.10.0.5.bm25	hybrid alternative fuel cars hydrogen transport ga vehicl	0.3333
+778	-1	golden ratio	1.0
+779	-1	Javelinas range and description	1.0
+780	-1	Arable land	1.0
+781	-1	Squirrel control and protections	1.0
+782	-1	Orange varieties seasons	1.0
+783	-1	school mercury poisoning	0.2
+783	tagmee.topn3.replace	Shoaling and schooling Mercury poisoning	1.0
+783	termluster.topn5.3.qld	school mercury poisoning also mercuri program work school program work school program	0.5
+783	glove.topn3	school mercury poisoning students piyanart srivalo contamination	0.3333
+783	rm3.topn10.10.0.5.bm25	school mercury poisoning new children health minnesota	0.25
+783	stem.lovins	school mercur poison	0.25
+783	word2vec.topn3	school mercury poisoning college methylmercury mercury containing arsenic	0.25
+784	-1	mersenne primes	1.0
+785	-1	Ivory-billed woodpecker	1.0
+786	-1	Yew trees	0.5
+786	anchor.topn3	yew trees taxu floridana marsiling baleu osch os delhez	1.0
+786	conceptluster.topn5.3.qld	yew trees taxus baccata	1.0
+786	conceptnet.topn3	yew trees wood Pacific yew leaves squirrel	1.0
+786	conceptnet.topn3.replace	wood Pacific yew leaves squirrel	1.0
+786	relevancefeedback.topn10.qld	yew trees tree herb taxol environment s gn	1.0
+786	rm3.topn10.10.0.5.bm25	yew trees from new cancer paclitaxel	1.0
+786	tagmee.topn3	yew trees Taxus baccata Taxus baccata	1.0
+786	tagmee.topn3.replace	Taxus baccata Taxus baccata	1.0
+786	word2vec.topn3	yew trees boxwood tress shrubs	1.0
+786	wordnet.topn3.replace	yew tree diagram corner	1.0
+787	-1	Sunflower Cultivation	1.0
+788	-1	Reverse mortgages	1.0
+789	-1	abandoned mine reclamation	1.0
+790	-1	women's rights in Saudi Arabia	1.0
+791	-1	Gullah geechee language culture	1.0
+792	-1	Social Security means test	1.0
+793	-1	Bagpipe Bands	1.0
+794	-1	pet therapy	1.0
+795	-1	notable cocker spaniels	0.037
+795	stem.krovetz	notable cock spaniel	0.5
+795	stem.paicehusk	not cock spaniel	0.5
+795	conceptnet.topn3.replace	luminary noteworthy far famed pamper cocker spaniel indulge spaniels	0.2
+795	word2vec.topn3.replace	noteworthy noteable note worthy spaniel spaniels spaniels	0.2
+795	conceptnet.topn3	notable cocker spaniels luminary noteworthy far famed pamper cocker spaniel indulge	0.1111
+795	wiki.topn3.replace	labradoodle pointer dog breed show dog cocker spaniel foxhound basset fauvdbretagne welsh springer spaniel spaniel	0.0667
+795	relevancefeedback.topn10.qld	notable cocker spaniels terrier p dog ye	0.0556
+795	rm3.topn10.10.0.5.bm25	notable cocker spaniels terrier ye dog	0.0556
+795	rm3.topn10.10.0.5.qld	notable cocker spaniels terrier ye dog	0.0556
+795	glove.topn3	notable cocker spaniels noteworthy well known jarvis rw cocker	0.0526
+795	docluster.topn10.3.qld	notable cocker spaniels terrier	0.05
+795	word2vec.topn3	notable cocker spaniels noteworthy noteable note worthy spaniel spaniels	0.0476
+795	termluster.topn5.3.qld	notable cocker spaniels english spaniel english cocker	0.0435
+795	wiki.topn3	notable cocker spaniels labradoodle pointer dog breed show dog cocker spaniel foxhound basset fauvdbretagne welsh springer spaniel spaniel	0.0417
+796	-1	Blue Grass Music Festival history	1.0
+797	-1	reintroduction of gray wolves	1.0
+798	-1	Massachusetts textile mills	0.5
+798	rm3.topn10.10.0.5.qld	massachusetts textile mills lowel mill	1.0
+798	wiki.topn3	massachusetts textile mills provincof new hampshire colonial new hampshire dominion new england province massachusetts bay textile mills spinning mule worsted textile manufacturing textile mills spinning mule worsted textile manufacturing	1.0
+798	wiki.topn3.replace	provincof new hampshire colonial new hampshire dominion new england province massachusetts bay textile mills spinning mule worsted textile manufacturing textile mills spinning mule worsted textile manufacturing	1.0
+799	-1	Animals in Alzheimer's research	0.2
+799	docluster.topn10.3.qld	animals in alzheimer s research ag alzheim	1.0
+799	rm3.topn10.10.0.5.bm25	animals in alzheimer s research ad ag tau	1.0
+799	rm3.topn10.10.0.5.qld	animals in alzheimer s research ag	1.0
+799	word2vec.topn3	animals alzheimer s research humans parkinsons parkinson s of s s reseach reasearch reserach	1.0
+800	-1	Ovarian Cancer Treatment	0.1667
+800	conceptluster.topn5.3.qld	ovarian cancer treatment ovarian cancer management cancer	0.25
+800	tagmee.topn3	ovarian cancer treatment Ovarian cancer Management of cancer	0.25
+800	tagmee.topn3.replace	Ovarian cancer Management of cancer	0.25
+800	glove.topn3	ovarian cancer treatment colorectal pancreatic prostate breast treated treat	0.2
+801	-1	Kudzu Pueraria lobata	0.5
+801	anchor.topn3	kudzu pueraria lobata nonborn ring beetle cnesmocarpon jasion vernicia ofwegeni delautouri oriolina	1.0
+801	docluster.topn10.3.qld	kudzu pueraria lobata sourc	1.0
+801	glove.topn3	kudzu pueraria lobata js ooooooooooooooooooooooooooooooooooooooo mirifica lobata pueraria filiformis	1.0
+801	glove.topn3.replace	js ooooooooooooooooooooooooooooooooooooooo mirifica lobata pueraria filiformis	1.0
+801	relevancefeedback.topn10.qld	kudzu pueraria lobata sourc	1.0
+801	rm3.topn10.10.0.5.bm25	kudzu pueraria lobata sourc	1.0
+801	rm3.topn10.10.0.5.qld	kudzu pueraria lobata sourc	1.0
+801	stem.lovins	kudzu puerar lob	1.0
+801	tagmee.topn3.replace	Kudzu Kudzu	1.0
+801	wordnet.topn3.replace	kudzu vine Pueraria lobata genus Pueraria order Lobata	1.0
+802	-1	Volcano eruptions global temperature	1.0
+803	-1	May Day	0.0
+803	wiki.topn3	may day publiholidays republiof ireland international workers day parade may day	0.5
+803	wiki.topn3.replace	publiholidays republiof ireland international workers day parade may day	0.25
+804	-1	ban on human cloning	0.25
+804	conceptluster.topn5.3.qld	ban human cloning ban law human cloning	1.0
+804	conceptnet.topn3	ban human cloning body	1.0
+804	conceptnet.topn3.replace	ban body cloning	1.0
+804	glove.topn3	ban human cloning rights beings	1.0
+804	glove.topn3.replace	ban rights beings cloning	1.0
+804	sensedisambiguation	ban prohibition on human cloning	1.0
+804	sensedisambiguation.replace	prohibition on human cloning	1.0
+804	tagmee.topn3	ban human cloning Ban law Human cloning	1.0
+804	tagmee.topn3.replace	Ban law Human cloning	1.0
+804	termluster.topn5.3.qld	ban human cloning act activ addit act activ addit would woman without	1.0
+804	wordnet.topn3	ban human cloning ostracise Bachelor of Arts in Nursing homo human being	1.0
+805	-1	Identity Theft Passport	0.25
+805	stem.paicehusk	id theft passport	0.3333
+806	-1	Doctors Without Borders	1.0
+807	-1	Sugar tariff-rate quotas	1.0
+808	-1	North Korean Counterfeiting	1.0
+809	-1	wetlands wastewater treatment	1.0
+810	-1	timeshare resales	0.5
+810	glove.topn3	timeshare resales js ooooooooooooooooooooooooooooooooooooooo realtors runs thome	1.0
+810	relevancefeedback.topn10.qld	timeshare resales timeshar illinoi applic you consum site ftc	1.0
+810	rm3.topn10.10.0.5.bm25	timeshare resales timeshar you illinoi applic consum ftc defend	1.0
+811	-1	handwriting recognition	1.0
+812	-1	total knee replacement surgery	1.0
+813	-1	Atlantic Intracoastal Waterway	1.0
+814	-1	Johnstown flood	1.0
+815	-1	Coast Guard rescues	0.25
+815	rm3.topn10.10.0.5.bm25	coast guard rescues i boat oper	1.0
+815	stem.trunc4	coas guar resc	1.0
+815	conceptnet.topn3	coast guard rescues beach ocean edge security person	0.5
+815	wordnet.topn3	coast guard rescues seacoast slide hold precaution guard duty deliverance deliver delivery	0.5
+815	wordnet.topn3.replace	seacoast glide sea coast hold safeguard guard duty deliverance deliver	0.5
+815	glove.topn3	coast guard rescues coastal	0.3333
+815	glove.topn3.replace	coastal guard rescues	0.3333
+815	word2vec.topn3	coast guard rescues coastline coastal gaurd	0.3333
+816	-1	USAID assistance to Galapagos	1.0
+817	-1	sports stadium naming rights	1.0
+818	-1	Chaco Culture National Park	1.0
+819	-1	1890 Census	0.011
+819	word2vec.topn3	census censuses Censuses	0.2
+819	conceptluster.topn5.3.qld	census united states census	0.1667
+819	tagmee.topn3	census United States Census	0.1667
+819	word2vec.topn3.replace	censuses Censuses	0.1667
+819	tagmee.topn3.replace	United States Census	0.0909
+819	wiki.topn3	census united states census united states census united states census united states census	0.0909
+819	wiki.topn3.replace	united states census united states census united states census united states census	0.0909
+819	rm3.topn10.10.0.5.qld	census censu record	0.0833
+819	conceptnet.topn3	census population	0.0385
+819	termluster.topn5.3.qld	census januari unit	0.037
+819	docluster.topn10.3.qld	census censu popul	0.0256
+819	rm3.topn10.10.0.5.bm25	census censu veteran	0.0156
+820	-1	imported fire ants	0.3333
+820	anchor.topn3	imported fire ants illyrio championship ba ad	1.0
+820	bertqe.topn10.bm25	california alreadi tini d estruct	1.0
+820	conceptluster.topn5.3.qld	imported fire ants fire ant introduced species	1.0
+820	sensedisambiguation	imported spell fire ants ant	1.0
+820	sensedisambiguation.replace	spell fire ant	1.0
+820	stem.trunc5	impor fire ants	1.0
+820	tagmee.topn3	imported fire ants Introduced species Fire ant	1.0
+820	tagmee.topn3.replace	Introduced species Fire ant	1.0
+820	wiki.topn3	imported fire ants invasivspecies introduced species cyperaceae introduced species leafcutter ant red imported firant queen ant fire ant	1.0
+820	stem.lovins	import fir ant	0.5
+820	stem.paicehusk	import fir ant	0.5
+820	termluster.topn5.3.qld	imported fire ants unit state red ant import red unit state red	0.5
+820	wiki.topn3.replace	invasivspecies introduced species cyperaceae introduced species leafcutter ant red imported firant queen ant fire ant	0.5
+821	-1	Internet work-at-home scams	0.5
+821	docluster.topn10.3.qld	internet work at home scams you work consum credit	1.0
+821	glove.topn3.replace	web online work at home frauds	1.0
+821	relevancefeedback.topn10.qld	internet work at home scams work you home consum credit text s	1.0
+821	rm3.topn10.10.0.5.bm25	internet work at home scams consum fraud credit s	1.0
+821	rm3.topn10.10.0.5.qld	internet work at home scams consum fraud credit s home	1.0
+821	word2vec.topn3	internet work at home scams online intenet work from home telecommuting telecommuter scammers frauds	1.0
+822	-1	Custer's Last Stand	0.3333
+822	docluster.topn10.3.qld	custer s last stand custer american	0.5
+823	-1	Continuing care retirement communities	0.3333
+823	conceptluster.topn5.3.qld	continuing care retirement communities continuing care retirement communities united states	1.0
+823	docluster.topn10.3.qld	continuing care retirement communities provid	1.0
+823	relevancefeedback.topn10.qld	continuing care retirement communities oper provid ccrc	1.0
+823	rm3.topn10.10.0.5.bm25	continuing care retirement communities oper	1.0
+823	rm3.topn10.10.0.5.qld	continuing care retirement communities oper provid ccrc	1.0
+823	tagmee.topn3	continuing care retirement communities Continuing care retirement communities in the United States	1.0
+823	tagmee.topn3.replace	Continuing care retirement communities in the United States	1.0
+823	termluster.topn5.3.qld	continuing care retirement communities year type time depart determin financi year type time year type time	1.0
+823	wiki.topn3	continuing care retirement communities continuing care retirement communities united states	1.0
+823	wiki.topn3.replace	continuing care retirement communities united states	1.0
+823	sensedisambiguation	Continuing stay care worry retirement communities residential district	0.5
+824	-1	Civil Air Patrol	1.0
+825	-1	National Guard Involvement in Iraq	0.5
+826	-1	Florida Seminole Indians	0.25
+826	anchor.topn3.replace	florida histori florida educ fl usa seminole indians	1.0
+826	conceptluster.topn5.3.qld	florida seminole indians seminole tribe florida	1.0
+826	tagmee.topn3	florida seminole indians Florida Seminole Tribe of Florida Seminole Seminole	1.0
+826	tagmee.topn3.replace	Florida Seminole Tribe of Florida Seminole Seminole	1.0
+826	wiki.topn3	florida seminole indians peninsulas united states southeastern united states florida florida miccosukeindian reservation brighton seminolindian reservation american indian reservations florida seminole tribe florida uchebilly seminolwars billy bowlegs seminole uchebilly seminolwars billy bowlegs seminole	1.0
+826	wiki.topn3.replace	peninsulas united states southeastern united states florida florida miccosukeindian reservation brighton seminolindian reservation american indian reservations florida seminole tribe florida uchebilly seminolwars billy bowlegs seminole uchebilly seminolwars billy bowlegs seminole	1.0
+826	word2vec.topn3	florida seminole indians california virginia orlando seneca selma carib americans	1.0
+826	wordnet.topn3.replace	Everglade State Sunshine State seminole Red Indian American Indian language	1.0
+826	anchor.topn3	florida seminole indians florida histori florida educ fl usa	0.5
+826	conceptnet.topn3	florida seminole indians a condominium a state the United States Muskhogean Muskogean western sleep in tents	0.5
+826	termluster.topn5.3.qld	florida seminole indians indian seminol histori land indian histori seminol land histori	0.5
+826	bertqe.topn10.bm25	ugrr america spanish north america	0.3333
+827	-1	Hidden Markov Modeling HMM	0.5
+827	docluster.topn10.3.qld	hidden markov modeling hmm sequenc	1.0
+827	relevancefeedback.topn10.qld	hidden markov modeling hmm profil sequenc	1.0
+827	rm3.topn10.10.0.5.bm25	hidden markov modeling hmm sequenc profil	1.0
+827	rm3.topn10.10.0.5.qld	hidden markov modeling hmm profil sequenc	1.0
+827	stem.trunc5	hidde marko model hmm	1.0
+827	termluster.topn5.3.qld	hidden markov modeling hmm exampl gener hmm exampl gener hidden type sequenc repres exampl gener hidden	1.0
+828	-1	secret shoppers	1.0
+829	-1	Spanish Civil War support	1.0
+830	-1	model railroads	0.3333
+830	sensedisambiguation	model railroads railway	0.5
+830	word2vec.topn3	model railroads railways	0.5
+830	wordnet.topn3	model railroads pattern role model sandbag railway system dragoon	0.5
+831	-1	Dulles Airport security	1.0
+832	-1	labor union activity	1.0
+833	-1	Iceland government	1.0
+834	-1	Global positioning system earthquakes	1.0
+835	-1	Big Dig pork	0.1429
+835	conceptluster.topn5.3.qld	big dig pork pork barrel	1.0
+835	wiki.topn3	big dig pork transport infrastructure completed battery park city heather fargo big dig osrox mission school voucher federal jurisdiction united states pork barrel	0.5
+835	wordnet.topn3	big dig pork with child crowing swelled slam labor porc pork barrel	0.5
+835	tagmee.topn3.replace	Big Dig Pork barrel	0.25
+835	termluster.topn5.3.qld	big dig pork find servic state	0.25
+835	wiki.topn3.replace	transport infrastructure completed battery park city heather fargo big dig osrox mission school voucher federal jurisdiction united states pork barrel	0.25
+835	sensedisambiguation	Big large Dig shot pork pork barrel	0.2
+836	-1	illegal immigrant wages	1.0
+837	-1	Eskimo History	0.0312
+837	glove.topn3.replace	aleut inupiaq historical ever	1.0
+837	glove.topn3	eskimo history aleut inupiaq historical ever	0.5
+837	tagmee.topn3	eskimo history Eskimo kinship History	0.5
+837	wordnet.topn3	eskimo history Inuit Esquimau story chronicle	0.5
+837	anchor.topn3	eskimo history charza ashevak sireniki recuyel seeg théodrat	0.3333
+837	conceptluster.topn5.3.qld	eskimo history eskimo kinship	0.3333
+837	stem.paicehusk	eskimo hist	0.3333
+837	tagmee.topn3.replace	Eskimo kinship History	0.3333
+837	rm3.topn10.10.0.5.bm25	eskimo history whale alaska bird	0.1667
+837	conceptnet.topn3	eskimo history past subject school	0.0833
+837	termluster.topn5.3.qld	eskimo history america anderson bai vanish texa territori	0.0769
+837	conceptnet.topn3.replace	eskimo past subject school	0.0714
+837	word2vec.topn3	eskimo history inuit history	0.0625
+837	anchor.topn3.replace	charza ashevak sireniki recuyel seeg théodrat	0.0588
+837	word2vec.topn3.replace	inuit history	0.0588
+837	wordnet.topn3.replace	Inuit Esquimau account chronicle	0.0385
+838	-1	urban suburban coyotes	1.0
+839	-1	textile dyeing techniques	1.0
+840	-1	Geysers	0.5
+840	termluster.topn5.3.qld	geysers within water veri	1.0
+841	-1	camel North America	1.0
+842	-1	David McCullough	0.0714
+842	wiki.topn3	david mccullough books john adams john adams book joseph sabin david mccullough	1.0
+842	wiki.topn3.replace	books john adams john adams book joseph sabin david mccullough	1.0
+842	wordnet.topn3	david mccullough St David Saint David	0.5
+842	conceptnet.topn3	david mccullough Saint David Old Testament	0.1429
+842	anchor.topn3	david mccullough x vikapita davith zeilli antowon o smeña	0.1111
+842	conceptnet.topn3.replace	Saint David Old Testament mccullough	0.1
+843	-1	Pol Pot	1.0
+844	-1	segmental duplications	0.2
+844	glove.topn3	segmental duplications semi circular js deletions insertions	1.0
+844	stem.paicehusk	seg duply	1.0
+844	tagmee.topn3.replace	Segmentation biology Gene duplication	0.5
+844	conceptluster.topn5.3.qld	segmental duplications segmentation biology gene duplication	0.3333
+844	tagmee.topn3	segmental duplications Segmentation biology Gene duplication	0.3333
+844	sensedisambiguation	segmental duplications duplication	0.25
+845	-1	New Jersey tomato	1.0
+846	-1	heredity and obesity	0.5
+846	conceptnet.topn3	heredity obesity organic process exercise	1.0
+846	docluster.topn10.3.qld	heredity and obesity weight cancer	1.0
+846	rm3.topn10.10.0.5.bm25	heredity and obesity weight overweight obes children	1.0
+846	termluster.topn5.3.qld	heredity obesity weight problem person	1.0
+846	wiki.topn3	heredity obesity teratology somatic ontogeny heredity bariatrics overweight body shape obesity	1.0
+847	-1	Portugal World War II	0.5
+847	glove.topn3	portugal world war ii spain lisbon time ever conflict iii iv	1.0
+847	glove.topn3.replace	spain lisbon time ever conflict iii iv	1.0
+847	rm3.topn10.10.0.5.bm25	portugal world war ii alli gold we	1.0
+847	rm3.topn10.10.0.5.qld	portugal world war ii gold alli bank	1.0
+847	stem.paicehusk	portug world war iy	1.0
+847	wiki.topn3	portugal world war ii portugal world war ii wars involving luxembourg wars involving poland wars involving netherlands world war ii	1.0
+847	wordnet.topn3	portugal world war ii Portuguese Republic mankind domain human race warfare state of war deuce two	1.0
+848	-1	radio station call letters	1.0
+849	-1	Scalable Vector Graphics	1.0
+850	-1	Mississippi River flood	0.1429
+850	rm3.topn10.10.0.5.bm25	mississippi river flood sediment leve	1.0
+850	termluster.topn5.3.qld	mississippi river flood flood river leve flood mississippi leve mississippi river leve	1.0
+850	wiki.topn3	mississippi river flood borders minnesota borders iowa borders louisiana mississippi river drought levee flash flood flood	0.5
+850	stem.trunc5	missi river flood	0.3333
+850	wiki.topn3.replace	borders minnesota borders iowa borders louisiana mississippi river drought levee flash flood flood	0.3333
+850	wordnet.topn3	mississippi river flood Mississippi River Magnolia State photoflood inundation flood tide	0.3333

@@ -1,0 +1,265 @@
+qid	order	query	qld.ndcg
+1	-1	obama family tree	0.0
+10	-1	cheap internet	0.0925
+11	-1	gmat prep classes	0.4591
+12	-1	djs	0.1453
+13	-1	map	0.1872
+14	-1	dinosaurs	0.1014
+15	-1	espn sports	0.2573
+16	-1	arizona game and fish	0.2218
+17	-1	poker tournaments	0.1685
+18	-1	wedding budget calculator	0.2013
+19	-1	the current	0.0
+2	-1	french lick resort and casino	0.3379
+20	-1	defender	0.0
+21	-1	volvo	0.3279
+22	-1	rick warren	0.4528
+23	-1	yahoo	0.0
+23	bt_nllb_chinese_yue	Yahoo is a website	0.0363
+24	-1	diversity	0.1965
+25	-1	euclid	0.1898
+26	-1	lower heart rate	0.2568
+27	-1	starbucks	0.1816
+28	-1	inuyasha	0.1451
+29	-1	ps 2 games	0.1463
+3	-1	getting organized	0.3127
+30	-1	diabetes education	0.21
+31	-1	atari	0.375
+32	-1	website design hosting	0.1555
+33	-1	elliptical trainer	0.3532
+34	-1	cell phones	0.0833
+35	-1	hoboken	0.4495
+36	-1	gps	0.1411
+37	-1	pampered chef	0.2212
+38	-1	dogs for adoption	0.1384
+39	-1	disneyland hotel	0.1621
+4	-1	toilet	0.1599
+40	-1	michworks	0.1695
+41	-1	orange county convention center	0.228
+42	-1	the music man	0.0
+43	-1	the secret garden	0.4045
+44	-1	map of the united states	0.0822
+45	-1	solar panels	0.278
+46	-1	alexian brothers hospital	0.5105
+47	-1	indexed annuity	0.3216
+48	-1	wilson antenna	0.1098
+48	bt_nllb_tamil	The first is the Wilson antenna	0.1187
+49	-1	flame designs	0.2795
+5	-1	mitchell college	0.0167
+50	-1	dog heat	0.0706
+50	bt_nllb_french	heat from the dog	0.0756
+6	-1	kcs	0.0
+7	-1	air travel information	0.308
+8	-1	appraisals	0.0147
+9	-1	used car parts	0.1166
+9	bt_nllb_chinese_yue	With car parts	0.1391
+9	bt_nllb_russian	parts for cars	0.1391
+51	-1	horse hooves	0.3072
+52	-1	avp	0.3249
+53	-1	discovery channel store	0.1131
+54	-1	president of the united states	0.1371
+55	-1	iron	0.0623
+56	-1	uss yorktown charleston sc	0.0945
+57	-1	ct jobs	0.2061
+58	-1	penguins	0.2528
+59	-1	how to build a fence	0.0471
+60	-1	bellevue	0.1587
+61	-1	worm	0.0951
+62	-1	texas border patrol	0.4564
+63	-1	flushing	0.2288
+64	-1	moths	0.2244
+65	-1	korean language	0.2702
+66	-1	income tax return online	0.0237
+66	bt_nllb_chinese_yue	Tax returns online	0.0257
+67	-1	vldl levels	0.2025
+68	-1	pvc	0.1471
+69	-1	sewing instructions	0.2965
+70	-1	to be or not to be that is the question	0.0
+71	-1	living in india	0.0
+71	bt_nllb_chinese_yue	I live in India	0.0059
+71	bt_nllb_korean	I live in India	0.0059
+72	-1	the sun	0.0
+73	-1	neil young	0.2861
+74	-1	kiwi	0.0177
+75	-1	tornadoes	0.3563
+76	-1	raised gardens	0.2611
+76	bt_nllb_french	and gardens raised high	0.2636
+77	-1	bobcat	0.1386
+78	-1	dieting	0.0082
+79	-1	voyager	0.0853
+80	-1	keyboard reviews	0.2048
+81	-1	afghanistan	0.1437
+81	bt_nllb_chinese_yue	Afghanistan is a country	0.2669
+82	-1	joints	0.0283
+83	-1	memory	0.0
+84	-1	continental plates	0.4898
+85	-1	milwaukee journal sentinel	0.1334
+86	-1	bart sf	0.58
+87	-1	who invented music	0.0262
+87	bt_nllb_chinese_yue	The people who invented music	0.0683
+88	-1	forearm pain	0.2156
+89	-1	ocd	0.2316
+90	-1	mgb	0.2852
+91	-1	er tv show	0.1105
+92	-1	the wall	0.0
+93	-1	raffles	0.157
+94	-1	titan	0.0466
+96	-1	rice	0.2104
+97	-1	south africa	0.0358
+98	-1	sat	0.1274
+99	-1	satellite	0.0
+101	-1	ritz carlton lake las vegas	0.2198
+101	bt_nllb_chinese_yue	The Ritz Carlton Lake in Las Vegas is a great place to visit	0.2225
+102	-1	fickle creek farm	0.023
+103	-1	madam cj walker	0.1324
+103	bt_nllb_russian	Madam K W Walker please	0.2621
+104	-1	indiana child support	0.1265
+104	bt_nllb_german	Child support from Indiana	0.1414
+105	-1	sonoma county medical services	0.2132
+105	bt_nllb_chinese_yue	Health services in Sonoma County	0.2285
+105	bt_nllb_korean	Sonoma County Health Services	0.2285
+106	-1	universal animal cuts reviews	0.0424
+107	-1	cass county missouri	0.0558
+108	-1	ralph owen brewster	0.6822
+109	-1	mayo clinic jacksonville fl	0.0313
+109	bt_nllb_arabic	The Mayo Jacksonville clinic in Florida	0.0324
+109	bt_nllb_french	The Mayo Clinic in Jacksonville Florida	0.0324
+110	-1	map of brazil	0.1879
+111	-1	lymphoma in dogs	0.3722
+112	-1	kenmore gas water heater	0.0
+113	-1	hp mini 2140	0.0
+114	-1	adobe indian houses	0.1213
+115	-1	pacific northwest laboratory	0.1505
+115	bt_nllb_arabic	Pacific Northwest lab	0.2385
+115	bt_nllb_persian	Pacific Northwest lab	0.2385
+116	-1	california franchise tax board	0.1688
+117	-1	dangers of asbestos	0.1322
+118	-1	poem in your pocket day	0.295
+119	-1	interview thank you	0.2578
+120	-1	tv on computer	0.1141
+121	-1	sit and reach test	0.1652
+122	-1	culpeper national cemetery	0.1004
+123	-1	von willebrand disease	0.4183
+123	bt_nllb_chinese_yue	Von Willebrand s disease is the most common	0.4295
+124	-1	bowflex power pro	0.1264
+124	bt_nllb_french	Power for bowflex	0.1341
+125	-1	butter and margarine	0.2259
+126	-1	us capitol map	0.0
+127	-1	dutchess county tourism	0.3107
+128	-1	atypical squamous cells	0.2142
+129	-1	iowa food stamp program	0.0077
+129	bt_nllb_swahili	Iowa s food hand program	0.0341
+130	-1	fact on uranus	0.2754
+131	-1	equal opportunity employer	0.0859
+132	-1	mothers day songs	0.1071
+133	-1	all men are created equal	0.1802
+134	-1	electronic skeet shoot	0.0
+135	-1	source of the nile	0.0
+136	-1	american military university	0.0
+137	-1	rock and gem shows	0.2403
+138	-1	jax chemical company	0.4203
+139	-1	rocky mountain news	0.0824
+139	bt_nllb_arabic	News from the Rockies	0.142
+140	-1	east ridge high school	0.0
+141	-1	va dmv registration	0.3043
+142	-1	illinois state tax	0.2587
+142	bt_nllb_chinese_yue	Illinois tax rate	0.345
+143	-1	arkadelphia health club	0.0
+144	-1	trombone for sale	0.1954
+145	-1	vines for shade	0.2233
+146	-1	sherwood regional library	0.4173
+147	-1	tangible personal property tax	0.4163
+148	-1	martha stewart and imclone	0.4285
+149	-1	uplift at yellowstone national park	0.2989
+150	-1	tn highway patrol	0.0724
+151	-1	403b	0.0
+152	-1	angular cheilitis	0.0
+153	-1	pocono	0.3123
+154	-1	figs	0.1267
+154	bt_nllb_tamil	The fig trees	0.1602
+155	-1	last supper painting	0.362
+156	-1	university of phoenix	0.1563
+157	-1	the beatles rock band	0.0155
+157	bt_nllb_chinese_yue	The Beatles are the band	0.2871
+157	bt_nllb_tamil	The Beatles were a rock band	0.061
+158	-1	septic system design	0.3821
+159	-1	porterville	0.4353
+160	-1	grilling	0.0494
+161	-1	furniture for small spaces	0.1227
+162	-1	dnr	0.1601
+163	-1	arkansas	0.015
+163	bt_nllb_chinese_yue	The state of Arkansas USA	0.0436
+164	-1	hobby stores	0.0477
+164	bt_nllb_korean	It s a hobby shop	0.0665
+164	bt_nllb_arabic	The hobby shop	0.0544
+164	bt_nllb_chinese_yue	The hobby shop	0.0544
+164	bt_nllb_german	Hobby shops	0.0544
+164	bt_nllb_malay	hobby shop	0.0544
+164	bt_nllb_russian	Hobby shops	0.0544
+165	-1	blue throated hummingbird	0.0274
+166	-1	computer programming	0.0196
+167	-1	barbados	0.0055
+168	-1	lipoma	0.4687
+169	-1	battles in the civil war	0.0781
+170	-1	scooters	0.0
+171	-1	ron howard	0.2538
+171	bt_nllb_chinese_yue	Ron Howard is the first	0.2695
+172	-1	becoming a paralegal	0.18
+173	-1	hip fractures	0.3976
+174	-1	rock art	0.2702
+175	-1	signs of a heartattack	0.1603
+175	bt_nllb_arabic	Signs of a heart attack	0.2186
+175	bt_nllb_chinese_yue	Signs of heart attack	0.2186
+175	bt_nllb_french	signs of heart attack	0.2186
+175	bt_nllb_german	Signs of a Heart Attack	0.2186
+175	bt_nllb_korean	Signs of a heart attack	0.2186
+175	bt_nllb_malay	Signs of a heart attack	0.2186
+175	bt_nllb_persian	Signs of a heart attack	0.2186
+175	bt_nllb_russian	signs of heart attack	0.2186
+175	bt_nllb_swahili	signs of heart attack	0.2186
+175	bt_nllb_tamil	The symptoms of a heart attack	0.216
+176	-1	weather strip	0.0
+177	-1	best long term care insurance	0.2121
+178	-1	pork tenderloin	0.2021
+179	-1	black history	0.0637
+180	-1	newyork hotels	0.0106
+180	bt_nllb_tamil	New York hotels are located in the city of New York	0.0258
+180	bt_nllb_arabic	The hotels in New York	0.0213
+180	bt_nllb_french	hotels in New York	0.0213
+180	bt_nllb_german	Hotels in New York	0.0213
+180	bt_nllb_korean	The New York Hotel	0.0213
+180	bt_nllb_malay	hotel in New York	0.0213
+180	bt_nllb_persian	The hotels in New York	0.0213
+180	bt_nllb_russian	hotels in New York	0.0213
+180	bt_nllb_swahili	hotels in New York	0.0213
+181	-1	old coins	0.1632
+182	-1	quit smoking	0.1915
+183	-1	kansas city mo	0.0077
+184	-1	civil right movement	0.1532
+185	-1	credit report	0.0077
+186	-1	unc	0.0324
+187	-1	vanuatu	0.0762
+188	-1	internet phone service	0.0
+189	-1	gs pay rate	0.0231
+189	bt_nllb_korean	Gs wage rate	0.119
+189	bt_nllb_malay	Gs wage rate	0.119
+189	bt_nllb_tamil	Gs wage rate	0.119
+189	bt_nllb_chinese_yue	Gs the salary rate	0.0966
+190	-1	brooks brothers clearance	0.1498
+190	bt_nllb_korean	The Brooks Brothers are promoted	0.1573
+191	-1	churchill downs	0.1921
+192	-1	condos in florida	0.0532
+193	-1	dog clean up bags	0.3287
+193	bt_nllb_tamil	Clean the dog s bag	0.3682
+194	-1	designer dog breeds	0.5869
+195	-1	pressure washers	0.0
+196	-1	sore throat	0.2388
+197	-1	idaho state flower	0.1479
+198	-1	indiana state fairgrounds	0.388
+199	-1	fybromyalgia	0.0355
+199	bt_nllb_french	fibromyalgia	0.2068
+199	bt_nllb_german	Fibromyalgia	0.2068
+199	bt_nllb_malay	Fibromyalgia	0.2068
+199	bt_nllb_persian	Fibromyalgia	0.2068
+199	bt_nllb_russian	Fibromyalgia	0.2068
+200	-1	ontario california airport	0.344

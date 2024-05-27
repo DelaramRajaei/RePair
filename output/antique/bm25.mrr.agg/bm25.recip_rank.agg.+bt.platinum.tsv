@@ -1,0 +1,704 @@
+qid	order	query	bm25.recip_rank
+100653	-1	how do I go about getting copies of letters of commendation prsented to me from city of san diego?	1.0
+1015624	-1	What's the Definition of a bloody mary?	1.0
+1017690	-1	what is the history of indian music?	1.0
+1035857	-1	Why are liberals so quick to defend Saddam?	1.0
+103830	-1	Why do man Arabs hate the west ?	1.0
+1063812	-1	How do I grow taller?	1.0
+1077370	-1	Why do only Humans have Finger prints?	1.0
+1082595	-1	what is meant by mobile technology?	0.5
+1082595	bertqe.topn10.qld	differ techlog than t mobil	1.0
+1082595	bt_nllb_arabic	What does mobile technology mean	1.0
+1082595	bt_nllb_chinese_yue	What does mobile technology mean	1.0
+1082595	bt_nllb_french	What does mobile technology mean	1.0
+1082595	bt_nllb_german	What does mobile technology mean	1.0
+1082595	bt_nllb_korean	What is mobile technology	1.0
+1082595	bt_nllb_malay	What does mobile technology mean	1.0
+1082595	bt_nllb_persian	What does mobile technology mean	1.0
+1082595	bt_nllb_russian	What does mobile technology mean	1.0
+1082595	bt_nllb_swahili	what is mobile technology	1.0
+1082595	bt_nllb_tamil	What is mobile technology	1.0
+1082595	conceptnet.topn3.replace	ploughland meaned cell Mobile River automotive technology	1.0
+1082595	glove.topn3	meant mobile technology intended merely phones phone tech	1.0
+1082595	relevancefeedback.topn10.bm25	what is meant by mobile technology develop mobil cellular can gsm cingular phone i featur	1.0
+1082595	relevancefeedback.topn10.qld	what is meant by mobile technology develop commerc bluetooth phone can gsm oil data cingular	1.0
+1082595	sensedisambiguation.replace	what is think of by mobile technology	1.0
+1119420	-1	Well the black light is UV light.So if it is "black" how can it be "light" ?	1.0
+1152934	-1	Why don't fat people have to pay more for air travel?	1.0
+1167882	-1	What are the different types of sins and how are they caused?	1.0
+1199639	-1	How to "LOSE"all body fat ?	1.0
+1254390	-1	how do i deap fry chicken?	0.5
+1254390	anchor.topn3	deap fry chicken nirgal shalbatana reull santandereana masala hồ	1.0
+1254390	bertqe.topn10.bm25	you need deap fryer lol	1.0
+1254390	bertqe.topn10.qld	i fry chicken without coat	1.0
+1254390	bt_nllb_french	How do you fry chicken	1.0
+1254390	bt_nllb_korean	How do you fry chicken	1.0
+1254390	bt_nllb_malay	How can I fry chicken	1.0
+1254390	bt_nllb_swahili	How do I deap fried chicken	1.0
+1254390	conceptluster.topn5.3.bm25	deap fry chicken chicken deap frying	1.0
+1254390	conceptluster.topn5.3.qld	deap fry chicken deap frying chicken	1.0
+1254390	relevancefeedback.topn10.bm25	how do i deap fry chicken buncha chicken good bean you	1.0
+1254390	relevancefeedback.topn10.qld	how do i deap fry chicken buncha you chicken breath danger oil	1.0
+1254390	stem.porter2	how do i deap fri chicken	1.0
+1254390	tagmee.topn3	deap fry chicken DEAP Frying Chicken	1.0
+1254390	tagmee.topn3.replace	DEAP Frying Chicken	1.0
+1254390	termluster.topn5.3.bm25	deap fry chicken	1.0
+1254390	termluster.topn5.3.qld	deap fry chicken	1.0
+1254390	thesaurus.topn3	deap fry chicken	1.0
+1254390	thesaurus.topn3.replace	deap fry chicken	1.0
+1254390	wiki.topn3	deap fry chicken canadian penning trap mass spectrometer myron l good fermilab e seaquest deap staling deep frying batter cooking frying junglefowls poultry pig chicken	1.0
+1254390	wiki.topn3.replace	canadian penning trap mass spectrometer myron l good fermilab e seaquest deap staling deep frying batter cooking frying junglefowls poultry pig chicken	1.0
+1262692	-1	How can I get rid of pimples on my back?	1.0
+1282199	-1	how can I hide the cuts on my wrists?	1.0
+1287437	-1	how can i lose 30 pounds by june3?	0.5
+1287437	glove.topn3	lose pounds june lost kilos kilograms	1.0
+1287437	relevancefeedback.topn10.bm25	how can i lose pounds by june control you good your	1.0
+1287437	rm3.topn10.10.0.5.bm25	how can i lose 30 pounds by june3?	1.0
+1287437	rm3.topn10.10.0.5.qld	how can i lose 30 pounds by june3?	1.0
+1287437	termluster.topn5.3.bm25	lose pounds june	1.0
+1287437	termluster.topn5.3.qld	lose pounds june	1.0
+1287437	thesaurus.topn3	lose pounds june	1.0
+1287437	thesaurus.topn3.replace	lose pounds june	1.0
+1290612	-1	why do anxiety and depression seem to coexist?	1.0
+1292734	-1	what color you like the most and why?	1.0
+1340574	-1	Why do some people only go to church on Easter Sunday and never go again until Christmas ?	1.0
+1351675	-1	Why must I have an uncracked winshield in order to for my car to pass a safety inspeciton?	1.0
+1364894	-1	Why do we need to tell customer service/operator about our sickness in order to make appointment w/ a doctor?	1.0
+1373069	-1	Freedom of Speech - why don't people understand how to use it?	0.5
+1373069	bt_nllb_chinese_yue	Freedom of speech Why can t people use it	1.0
+1373069	bt_nllb_french	Freedom of speech Why do people not understand how to use it	1.0
+1373069	bt_nllb_swahili	Freedom of Speech why do people not understand how to use it	1.0
+1373069	bt_nllb_tamil	Freedom of speech Why do people not understand how to use it	1.0
+1373069	conceptluster.topn5.3.bm25	freedom speech n t people understand use freedom speech	1.0
+1373069	conceptluster.topn5.3.qld	freedom speech n t people understand use freedom speech	1.0
+1373069	conceptnet.topn3	freedom speech n t people understand use liberty a universal right a belief talk voice address not No you crowd stupid talk to each other think interpret employment call writing	1.0
+1373069	relevancefeedback.topn10.bm25	freedom of speech why don t people understand how to use it like about we peopl your	1.0
+1373069	sensedisambiguation	Freedom of Speech why do n t people understand how to use it	1.0
+1373069	sensedisambiguation.replace	freedom of speech why do n t people understand how to use it	1.0
+1373069	stem.trunc5	freed of speec why don t peopl under how to use it	1.0
+1373069	tagmee.topn3	freedom speech n t people understand use Freedom of speech	1.0
+1373069	tagmee.topn3.replace	Freedom of speech	1.0
+1373069	termluster.topn5.3.bm25	freedom speech n t people understand use	1.0
+1373069	termluster.topn5.3.qld	freedom speech n t people understand use	1.0
+1373069	thesaurus.topn3	freedom speech n t people understand use	1.0
+1373069	thesaurus.topn3.replace	freedom speech n t people understand use	1.0
+143833	-1	What is the difference between coolant and anti-freeze?	1.0
+1459749	-1	Why don't I have an asthma attack during sex?	1.0
+1477322	-1	Why do people say Germans are racists?	1.0
+1502604	-1	how do crooks  make  fake   passports  ?	1.0
+1509982	-1	How is th Chemistry is a basic of Science?	1.0
+1582877	-1	why do we go to school if in the real world we dont use most of it?	1.0
+159716	-1	How do I find an Inmate at Southwest Detention Center 30755 Auld Rd., Murrieta, CA 92563?	1.0
+1607728	-1	what causes gray facial hair in men?	1.0
+1623623	-1	How do you improve fuel efficiency of a 2004, Ford Ikon?	1.0
+1663853	-1	what is a wet dream?	1.0
+1702151	-1	How patient a driver are you?	0.0435
+1702151	bt_nllb_french	Are you a patient driver	1.0
+1702151	glove.topn3	patient driver doctors car	1.0
+1702151	anchor.topn3	patient driver alunga patient deriv in a row appayyadora majumder chammak	0.5
+1702151	conceptluster.topn5.3.bm25	patient driver	0.5
+1702151	conceptluster.topn5.3.qld	patient driver	0.5
+1702151	tagmee.topn3	patient driver	0.5
+1702151	termluster.topn5.3.bm25	patient driver	0.5
+1702151	termluster.topn5.3.qld	patient driver	0.5
+1702151	thesaurus.topn3	patient driver	0.5
+1702151	thesaurus.topn3.replace	patient driver	0.5
+1702151	wiki.topn3	patient driver	0.5
+1702151	word2vec.topn3	patient driver physician truck	0.25
+1702151	bt_nllb_malay	How patient is your driver	0.1111
+1702151	relevancefeedback.topn10.qld	how patient a driver are you fibromyalgia organ infect lexapro you car sun look	0.0909
+172731	-1	how for is saturn from the sun?	1.0
+1783010	-1	What is Blaphsemy?	1.0
+1794677	-1	How can I treat my Acne Scars?	1.0
+1821193	-1	Why do people feed poison (sugar) to their kids on Easter, and why are there no chocolate Jesuses?	1.0
+1844896	-1	How to cook Angus burgers?	1.0
+1850323	-1	Why some men never wash their hands after using the Urinal/Toilet?	1.0
+1862795	-1	How does spending prolonged time in microgravity affect the bodies of astronauts?	0.5
+1862795	anchor.topn3.replace	spending prolonged byo yomi дрене netherwar microgravity macrogyria palalin cannabis respiratori bodies astronauts	1.0
+1862795	bt_nllb_chinese_yue	How does the long time spent in microgravity affect the astronaut s body	1.0
+1862795	bt_nllb_german	How does a long period of microgravity affect the bodies of astronauts	1.0
+1862795	bt_nllb_persian	How does spending a long time in the microgravity affect the astronauts bodies	1.0
+1862795	bt_nllb_russian	How long does microgravity affect astronaut bodies	1.0
+1862795	bt_nllb_tamil	How does spending long periods of time in microgravity affect the bodies of astronauts	1.0
+1862795	conceptluster.topn5.3.bm25	spending prolonged time microgravity affect bodies astronauts human body time weightlessness astronaut	1.0
+1862795	conceptluster.topn5.3.qld	spending prolonged time microgravity affect bodies astronauts human body time weightlessness astronaut	1.0
+1862795	conceptnet.topn3	spending prolonged time microgravity affect bodies astronauts lengthened protracted minute hour clock orbit hypogravity Animals all animals Mummies people the space shuttle journey to the moon	1.0
+1862795	sensedisambiguation	How does spending spend prolonged elongated time in microgravity affect involve the bodies torso of astronauts astronaut	1.0
+1862795	stem.lovins	how do spens prolong tim in micrograv affect th bod of astronaut	1.0
+1862795	tagmee.topn3	spending prolonged time microgravity affect bodies astronauts Time Weightlessness Human body Astronaut	1.0
+1862795	tagmee.topn3.replace	Time Weightlessness Human body Astronaut	1.0
+1862795	termluster.topn5.3.bm25	spending prolonged time microgravity affect bodies astronauts	1.0
+1862795	termluster.topn5.3.qld	spending prolonged time microgravity affect bodies astronauts	1.0
+1862795	thesaurus.topn3	spending prolonged time microgravity affect bodies astronauts	1.0
+1862795	thesaurus.topn3.replace	spending prolonged time microgravity affect bodies astronauts	1.0
+1866981	-1	I know how I got here, but how did you?	1.0
+1880028	-1	What does "see Leaflet" mean on Ept Pregnancy test?	1.0
+1937374	-1	how to get 277 V AC ?	1.0
+1944018	-1	Why can't teenagers vote?	0.5
+1944018	rm3.topn10.10.0.5.bm25	Why cant teenagers vote?	1.0
+1944018	rm3.topn10.10.0.5.qld	Why cant teenagers vote?	1.0
+1944018	stem.trunc4	why can t teen vote	1.0
+1957887	-1	How can I hunt down and punch the people that keep spamming me?	1.0
+1964316	-1	What do you mean by "weed"?	1.0
+1968489	-1	Which auto insurance do you use and why?	1.0
+1971899	-1	what is masturbat***?	1.0
+1977054	-1	Couscous is a food from what origin?	1.0
+2008017	-1	why do black people like fried chicken somuch?	1.0
+2018562	-1	Why does my Black Lab howl to "Law and Order" theme song?	1.0
+204633	-1	Why do you have memories?	0.3333
+204633	anchor.topn3	memories	1.0
+204633	anchor.topn3.replace	memories	1.0
+204633	conceptluster.topn5.3.bm25	memories	1.0
+204633	conceptluster.topn5.3.qld	memories	1.0
+204633	conceptnet.topn3	memories	1.0
+204633	conceptnet.topn3.replace	memories	1.0
+204633	relevancefeedback.topn10.qld	why do you have memories bank mai memori object hi	1.0
+204633	tagmee.topn3	memories	1.0
+204633	termluster.topn5.3.bm25	memories	1.0
+204633	termluster.topn5.3.qld	memories	1.0
+204633	thesaurus.topn3	memories	1.0
+204633	thesaurus.topn3.replace	memories	1.0
+204633	wiki.topn3	memories	1.0
+204963	-1	what does 5 by 5 mean?	0.0
+204963	bertqe.topn10.bm25	your town would whole rang	1.0
+204963	relevancefeedback.topn10.qld	what does by mean deviat mass resolut minut sin number	1.0
+204963	rm3.topn10.10.0.5.bm25	what does 5 by 5 mean?	1.0
+204963	rm3.topn10.10.0.5.qld	what does 5 by 5 mean?	1.0
+204963	relevancefeedback.topn10.bm25	what does by mean side i median you	0.5
+204963	bertqe.topn10.qld	you collect data about height	0.2
+204963	wordnet.topn3	mean quint Phoebe quint Phoebe have in mind miserly think of	0.05
+204963	conceptnet.topn3	mean cardinal People average	0.0208
+2142044	-1	What do you speculate happened to Natalie Holloway in Aruba?	1.0
+2180086	-1	what are mormens?	1.0
+2182052	-1	why is lemonade at restaurants sometimes different?	1.0
+2192891	-1	how are braces put on and do they hurt a lot?	1.0
+224109	-1	what is citriscidal?	0.0
+224109	bt_nllb_persian	What is citricidal	1.0
+224109	bt_nllb_russian	What is citricidal	1.0
+225575	-1	what does 'wet behind the ears' mean?	1.0
+2290758	-1	Why do people ask questions they know?	0.1429
+2290758	conceptluster.topn5.3.bm25	people ask questions know	1.0
+2290758	conceptluster.topn5.3.qld	people ask questions know	1.0
+2290758	tagmee.topn3	people ask questions know	1.0
+2290758	termluster.topn5.3.bm25	people ask questions know	1.0
+2290758	termluster.topn5.3.qld	people ask questions know	1.0
+2290758	thesaurus.topn3	people ask questions know	1.0
+2290758	thesaurus.topn3.replace	people ask questions know	1.0
+2290758	wiki.topn3	people ask questions know	1.0
+2290758	bt_nllb_chinese_yue	Why would people ask themselves questions about knowledge	0.5
+2290758	sensedisambiguation	Why do people ask questions question they know	0.5
+2290758	stem.porter2	whi do peopl ask question they know	0.5
+2290758	word2vec.topn3.replace	poeple peole persons ask answers questions know knwo tell	0.5
+2290758	wordnet.topn3	people ask questions know hoi polloi multitude need involve postulate query interrogative doubt get laid recognise bed	0.5
+2290758	bt_nllb_tamil	Why do people ask familiar questions	0.3333
+2290758	relevancefeedback.topn10.bm25	why do people ask questions they know question peopl us	0.3333
+2290758	relevancefeedback.topn10.qld	why do people ask questions they know you good theresnogod direct forc	0.3333
+2290758	word2vec.topn3	people ask questions know poeple peole persons answers questions know knwo tell	0.3333
+2290758	conceptnet.topn3	people ask questions know crowd stupid talk to each other get some money from someone question test interview answer read the news	0.25
+2290758	anchor.topn3	people ask questions know alaay kabold amplitude shift laboratory least valedictorian	0.1667
+2291272	-1	How is Catholicism not Christianity?	1.0
+229303	-1	Why  is  the   war continuing  in  Afghanistan?	1.0
+2307305	-1	Why do man rape little girls?	1.0
+2309774	-1	Why do I keep seeing people on here 'dissing' on the soldiers in Iraq?	1.0
+23464	-1	why girls are beautiful?	1.0
+2380990	-1	Why am I alive?	1.0
+2382487	-1	what do i do if i have not started my period in like almost 6 months?	0.5
+2382487	anchor.topn3	started period like almost months mya puthenpurack complications happens na independent ms pochti started	1.0
+2382487	conceptluster.topn5.3.bm25	started period like almost months	1.0
+2382487	conceptluster.topn5.3.qld	started period like almost months	1.0
+2382487	rm3.topn10.10.0.5.bm25	what do i do if i have not started my period in like almost 6 months?	1.0
+2382487	rm3.topn10.10.0.5.qld	what do i do if i have not started my period in like almost 6 months?	1.0
+2382487	sensedisambiguation	what do i do if i have not started startle my period time period in like comparable almost about six months calendar month	1.0
+2382487	sensedisambiguation.replace	what do i do if i have not startle my time period in comparable about six calendar month	1.0
+2382487	tagmee.topn3	started period like almost months	1.0
+2382487	termluster.topn5.3.bm25	started period like almost months	1.0
+2382487	termluster.topn5.3.qld	started period like almost months	1.0
+2382487	thesaurus.topn3	started period like almost months	1.0
+2382487	thesaurus.topn3.replace	started period like almost months	1.0
+2382487	wiki.topn3	started period like almost months	1.0
+2382487	wordnet.topn3	started period like almost months protrude set out lead off menses catamenia alike same near about nigh sixer vi calendar month	1.0
+2418598	-1	why do wisdom varies from person to person?	1.0
+2443586	-1	What is a Bro?	1.0
+2446614	-1	how could u get success?	0.3333
+2446614	bertqe.topn10.qld	achiev someth life concentr more	1.0
+2446614	glove.topn3	could u get success would might wrldcom got achieved	1.0
+2446614	relevancefeedback.topn10.qld	how could u get success curv fossil atmospher success you mechan self	1.0
+2446614	wordnet.topn3	could u get success uranium atomic number arrive bring forth bugger off succeeder achiever	1.0
+2446614	conceptluster.topn5.3.bm25	could u get success	0.5
+2446614	conceptluster.topn5.3.qld	could u get success	0.5
+2446614	tagmee.topn3	could u get success	0.5
+2446614	termluster.topn5.3.bm25	could u get success	0.5
+2446614	termluster.topn5.3.qld	could u get success	0.5
+2446614	thesaurus.topn3	could u get success	0.5
+2446614	thesaurus.topn3.replace	could u get success	0.5
+2446614	wiki.topn3	could u get success	0.5
+2452795	-1	How can I heat the water within a 150 gal tank that's open to the atmosphere in Feb.?	1.0
+2479423	-1	Why is there brail on the keypads at drive up ATM's?	1.0
+2484180	-1	why do people judge a dog by what he looks like?	1.0
+2528767	-1	How do I determine the charge of the iron ion in FeCl3?	0.5
+2528767	bertqe.topn10.bm25	charg so you have fe cl	1.0
+2528767	bt_nllb_arabic	How do I find the iron ion charge in Fickle	1.0
+2528767	conceptluster.topn5.3.bm25	determine charge iron ion fecl iron iii chloride iron ion	1.0
+2528767	conceptluster.topn5.3.qld	determine charge iron ion fecl iron iii chloride iron ion	1.0
+2528767	conceptnet.topn3	determine charge iron ion fecl credit tax card metal a metal steel	1.0
+2528767	relevancefeedback.topn10.bm25	how do i determine the charge of the iron ion in fecl electron you atom charg ha form	1.0
+2528767	rm3.topn10.10.0.5.bm25	How do I determine the charge of the iron ion in FeCl3?	1.0
+2528767	rm3.topn10.10.0.5.qld	How do I determine the charge of the iron ion in FeCl3?	1.0
+2528767	stem.paicehusk	how do i determin the charg of the iron ion in fec	1.0
+2528767	tagmee.topn3	determine charge iron ion fecl Ion Iron Ion Iron III chloride	1.0
+2528767	tagmee.topn3.replace	Ion Iron Ion Iron III chloride	1.0
+2528767	wordnet.topn3	determine charge iron ion fecl regulate find out influence billing turn on excite branding iron press Fe	1.0
+2529114	-1	since i have premature ejaculation problem, how to satisfy my girl?	1.0
+2539741	-1	what cause the car to have white smoke coming from the muffler and making a kicking or knocking sounds?	1.0
+2551845	-1	Why is GW dogged for not getting OBL yet killing Zarkawi is a non-event?	1.0
+2582920	-1	What is the difference in a dried plum and a dried prune?	1.0
+2592121	-1	how to rollover 401k into real estate?	0.25
+2592121	anchor.topn3	rollover k real estate demisay pension l nonsuffici reales cina upi mancha	1.0
+2592121	anchor.topn3.replace	rollover demisay pension l nonsuffici reales cina upi mancha estate	1.0
+2592121	bt_nllb_chinese_yue	How do you turn your k into real estate	1.0
+2592121	bt_nllb_malay	How do you turn your k into real estate	1.0
+2592121	bt_nllb_russian	How do you transfer your k to real estate	1.0
+2592121	conceptluster.topn5.3.bm25	rollover k real estate k real estate	1.0
+2592121	conceptluster.topn5.3.qld	rollover k real estate k real estate	1.0
+2592121	conceptnet.topn3	rollover k real estate k property documentary	1.0
+2592121	conceptnet.topn3.replace	rollover k property documentary estate	1.0
+2592121	relevancefeedback.topn10.bm25	how to rollover k into real estate invest estat call agent you	1.0
+2592121	relevancefeedback.topn10.qld	how to rollover k into real estate account i you invest http your	1.0
+2592121	rm3.topn10.10.0.5.bm25	how to rollover 401k into real estate?	1.0
+2592121	rm3.topn10.10.0.5.qld	how to rollover 401k into real estate?	1.0
+2592121	tagmee.topn3	rollover k real estate k Real estate	1.0
+2592121	tagmee.topn3.replace	k Real estate	1.0
+2592121	termluster.topn5.3.bm25	rollover k real estate	1.0
+2592121	termluster.topn5.3.qld	rollover k real estate	1.0
+2592121	thesaurus.topn3	rollover k real estate	1.0
+2592121	thesaurus.topn3.replace	rollover k real estate	1.0
+2592121	word2vec.topn3	rollover k real estate roll over actual imaginary genuine property	1.0
+2592121	bertqe.topn10.bm25	plan ira you cash out	0.5
+2592121	bt_nllb_arabic	How do you get your k back to real estate	0.5
+2592121	bt_nllb_german	How can I turn k into real estate	0.5
+2592121	bt_nllb_korean	How do you convert into real estate	0.3333
+2592121	bt_nllb_persian	How do I turn k into real estate	0.3333
+2592121	wiki.topn3	rollover k real estate federal employees retirement system individual retirement account thrift savings plan k insurance bank institutional investors real estate	0.3333
+2619912	-1	How were you saved from sin-and born again as Jesus says "Except you repent, and be born again..." How didYou?	1.0
+2634143	-1	what is direct borrowing, phonological borrowing, linguistic borrowing, cultural borrowing,intimate borrowing?	1.0
+2643507	-1	why does milk cost more than gas per gallon?	1.0
+2713171	-1	What does the sentence's mean?	1.0
+2722241	-1	why do some animals hide in a dark place b4 they die?	0.25
+2722241	anchor.topn3	animals hide dark place b die twelve hid hide hide book address spac axeripp cloud wcws place cdp place cdp dimer trim nefarian dscs iii sylva bruttianu meisterin	1.0
+2722241	anchor.topn3.replace	animals twelve hid hide hide book address spac axeripp cloud wcws place cdp place cdp dimer trim nefarian dscs iii sylva bruttianu meisterin	1.0
+2722241	bertqe.topn10.qld	revert back wild die alon	1.0
+2722241	bt_nllb_malay	Why are some animals hiding in the dark	1.0
+2722241	conceptluster.topn5.3.bm25	animals hide dark place b die hide musician animals	1.0
+2722241	conceptluster.topn5.3.qld	animals hide dark place b die hide musician animals	1.0
+2722241	sensedisambiguation	why do some animals animal hide shroud in a dark place topographic point b they die fail	1.0
+2722241	tagmee.topn3	animals hide dark place b die The Animals Hide musician	1.0
+2722241	tagmee.topn3.replace	The Animals Hide musician	1.0
+2722241	termluster.topn5.3.bm25	animals hide dark place b die	1.0
+2722241	termluster.topn5.3.qld	animals hide dark place b die	1.0
+2722241	thesaurus.topn3	animals hide dark place b die	1.0
+2722241	thesaurus.topn3.replace	animals hide dark place b die	1.0
+2722241	stem.porter2	whi do some anim hide in a dark place b they die	0.5
+2722241	word2vec.topn3	animals hide dark place b die humans conceal darker bright place place befor day be perish	0.5
+2722241	bt_nllb_arabic	Why are some animals hiding in a dark place	0.3333
+2722241	bt_nllb_german	Why are animals hiding in a dark place	0.3333
+2722241	bt_nllb_korean	Why do some animals hide in the dark	0.3333
+2722241	bt_nllb_persian	Why do some animals hide in the dark	0.3333
+2722241	bt_nllb_russian	Why do some animals hide in the dark	0.3333
+2722241	bt_nllb_tamil	Why do some animals hide in the dark	0.3333
+2722241	wiki.topn3	animals hide dark place b die barry jenkins marblarch records danny mcculloch animals pata musician say anything x japan song template hideto matsumoto hide musician	0.3333
+2783398	-1	What is a nucleus?	1.0
+2785579	-1	If you could be an element of weather, which would you choose, and why?	1.0
+2795030	-1	Why do people drink Cuervo when it tastes the same going down as coming up?	1.0
+2797224	-1	Muslims Are The Happiest People Ever, Why?	1.0
+2799913	-1	What's the proper way to express sorrow at a funeral?	1.0
+2814599	-1	what does the word remission mean when referring to cancer patients?	1.0
+2814722	-1	why is the new jersey smoking ban not considered unconstitutional?	1.0
+2815090	-1	how cloning will affects our community?	0.5
+2815090	anchor.topn3	cloning affects community devenyi preckwinkl forster larrinaga	1.0
+2815090	anchor.topn3.replace	devenyi preckwinkl forster larrinaga affects community	1.0
+2815090	conceptluster.topn5.3.bm25	cloning affects community affect philosophy free cloning	1.0
+2815090	conceptluster.topn5.3.qld	cloning affects community affect philosophy free cloning	1.0
+2815090	conceptnet.topn3	cloning affects community	1.0
+2815090	conceptnet.topn3.replace	cloning affects community	1.0
+2815090	relevancefeedback.topn10.qld	how cloning will affects our community life clone you dont u curv i heart	1.0
+2815090	sensedisambiguation	how cloning will affects involve our community residential district	1.0
+2815090	tagmee.topn3	cloning affects community Cloning Free will Affect philosophy	1.0
+2815090	termluster.topn5.3.bm25	cloning affects community	1.0
+2815090	termluster.topn5.3.qld	cloning affects community	1.0
+2815090	thesaurus.topn3	cloning affects community	1.0
+2815090	thesaurus.topn3.replace	cloning affects community	1.0
+2815090	wiki.topn3	cloning affects community genetic engineering symbiosis mutation cloning omnipotence morality philosophy free multiplicity philosophy planof immanence writing difference affect philosophy	1.0
+2815090	word2vec.topn3	cloning affects community communty	1.0
+2815090	word2vec.topn3.replace	cloning affects communty	1.0
+2838988	-1	How can I get a cork out of, not into, a wine bottle without a corkscrew?	1.0
+2847807	-1	How can I get rid of the hicups?	1.0
+2862887	-1	how to care for a spiked dragon and what to feed them?	1.0
+2864267	-1	what exemplifies effective customer service?	1.0
+2892478	-1	what factors cause the Earth to heat unevenly?	1.0
+2956570	-1	What are the words to write the sound of raindrops, moving train & scribbling w/ pencil on paper figuratively?	1.0
+2976644	-1	How amoeba catches its prey?	1.0
+3040435	-1	USA have Snow, Hurricanes, Flood, Earthquakes and politicians, Brazil only have politicians, why?	1.0
+3074429	-1	How can we understand Islam and Muslims better?	1.0
+3078448	-1	How do you prevent chicken from drying out when you cook it?	1.0
+312215	-1	how good is apple pie when it is cold?	1.0
+3155314	-1	we have pork chops, veal chops, lamb chops, why is there not any beef chops ?	1.0
+3206998	-1	how does disneyland make it snow?	1.0
+3239329	-1	Why do we wee a lot in the cold weather especially at night?	1.0
+3269759	-1	what is artificial intelligence?	1.0
+3278654	-1	Why do Kamikaze pilots wear helmets?	1.0
+3280768	-1	why is islam so hated in america?	1.0
+3295055	-1	What causes skin discoloration, specifically, whitening of the skin between fingers?	1.0
+3301173	-1	how to design road crust for national highways?	1.0
+3313308	-1	how can I enjoy my time alone?	0.1429
+3313308	anchor.topn3	enjoy time alone first and oxime longshot byo yomi дрене netherwar	1.0
+3313308	conceptluster.topn5.3.bm25	enjoy time alone time alone	1.0
+3313308	conceptluster.topn5.3.qld	enjoy time alone time alone	1.0
+3313308	glove.topn3	enjoy time alone when actually else	1.0
+3313308	relevancefeedback.topn10.qld	how can i enjoy my time alone person all you quasar do momentum	1.0
+3313308	tagmee.topn3	enjoy time alone By Time Alone	1.0
+3313308	termluster.topn5.3.bm25	enjoy time alone	1.0
+3313308	termluster.topn5.3.qld	enjoy time alone	1.0
+3313308	thesaurus.topn3	enjoy time alone	1.0
+3313308	thesaurus.topn3.replace	enjoy time alone	1.0
+3313308	wiki.topn3	enjoy time alone oblivion orphanagalbum driven orphanagalbum bart smits time alone	1.0
+3313308	word2vec.topn3	enjoy time alone moment time period alone alone	1.0
+3313308	wordnet.topn3	enjoy time alone savour relish bask fourth dimension prison term meter unequalled unparalleled lonely	1.0
+3313308	tagmee.topn3.replace	By Time Alone	0.5
+3313308	word2vec.topn3.replace	enjoy moment time period alone alone	0.5
+3313308	sensedisambiguation	how can I enjoy love my time alone entirely	0.25
+3313308	stem.trunc4	how can i enjo my time alon	0.2
+3313308	anchor.topn3.replace	first and oxime longshot byo yomi дрене netherwar alone	0.1667
+3363149	-1	Why do Arabs and Mexicans look alike?	1.0
+3369088	-1	how can we stop the spread of islam?	1.0
+3382736	-1	what is minimalist cubisium?	1.0
+3385681	-1	if red bull is soo bad for people ,then why is it soo popular?	1.0
+3389038	-1	why the media in US and Europe is always attacking the Arabs and Islam without finding the truth about them?	0.25
+3389038	bt_nllb_arabic	Why are the media in the United States and Europe attacking Arabs and Islam without finding the truth about them	1.0
+3389038	bt_nllb_chinese_yue	Why do the media in the United States and Europe always attack Arabs and Islam	1.0
+3389038	bt_nllb_korean	Why is it that the media in the United States and Europe always attacks the Arabs and Islam	1.0
+3389038	bt_nllb_malay	Why do the media in the United States and Europe always attack Arabs and Muslims without finding the truth about them	1.0
+3389038	glove.topn3	media us europe always attacking arabs islam without finding truth press reports u s u s european asia so sure egyptians christianity muslims even no discovering true fact	1.0
+3389038	relevancefeedback.topn10.qld	why the media in us and europe is always attacking the arabs and islam without finding the truth about them symbol jew you arab said	1.0
+3389038	sensedisambiguation	why the media metier in US uranium and Europe european union is always constantly attacking attack the Arabs arabian and Islam without finding witness the truth about them	1.0
+3389038	termluster.topn5.3.bm25	media us europe always attacking arabs islam without finding truth	1.0
+3389038	termluster.topn5.3.qld	media us europe always attacking arabs islam without finding truth	1.0
+3389038	thesaurus.topn3	media us europe always attacking arabs islam without finding truth	1.0
+3389038	thesaurus.topn3.replace	media us europe always attacking arabs islam without finding truth	1.0
+3389038	word2vec.topn3	media us europe always attacking arabs islam without finding truth press ourselves me us germany european europe never invariably often defending destroying palestinians jews muslims wihtout wihout discovering locating proving truth falsehood	1.0
+3389038	wordnet.topn3	media us europe always attacking arabs islam without finding truth medium spiritualist mass medium U S A u European Union European Economic Community EC constantly perpetually assaultive assault Arabian Muslimism witness incur come up accuracy trueness	1.0
+3389038	bt_nllb_french	Why do the American and European media still attack Arabs and Islam without finding the truth about them	0.5
+3389038	bt_nllb_persian	Why do the American and European media always attack Arabs and Islam without finding the truth about them	0.5
+3389038	bt_nllb_swahili	Why do the American and European media always attack Arabs and Islam without finding the truth about them	0.5
+3389038	conceptnet.topn3	media us europe always attacking arabs islam without finding truth press dollar sky a kingdom continent a castle time forever never assaultive arabophobia arab people a religion discover finding of law fact	0.5
+3389038	glove.topn3.replace	press reports u s u s european asia so sure attacking egyptians christianity muslims even no discovering true fact	0.5
+3389038	relevancefeedback.topn10.bm25	why the media in us and europe is always attacking the arabs and islam without finding the truth about them countri along all http i do american muslim god	0.5
+3389038	stem.trunc5	why the media in us and europ is alway attac the arabs and islam witho findi the truth about them	0.5
+3389038	anchor.topn3	media us europe always attacking arabs islam without finding truth media properti yaleogyna hr u s nzami sotrak ventotto e u accentr carnaudmetalbox bet shemesh sadbhav khazbulat azraqi fakhriddinov ejaze small rejection panic no twixters tv series dan transcendentals beauty speerin	0.3333
+3389038	bt_nllb_german	Why do the media in the US and Europe always attack Arabs and Islam without finding the truth about them	0.3333
+3389038	bt_nllb_russian	Why do the media in the US and Europe always attack Arabs and Islam without revealing the truth about them	0.3333
+3389038	bt_nllb_tamil	Why do the media in the United States and Europe always attack without finding out the truth about Arabs and Islam	0.3333
+3389038	conceptluster.topn5.3.bm25	media us europe always attacking arabs islam without finding truth truth united states dollar	0.3333
+3389038	conceptluster.topn5.3.qld	media us europe always attacking arabs islam without finding truth truth united states dollar	0.3333
+3389038	stem.paicehusk	why the med in us and europ is alway attack the arab and islam without find the tru about them	0.3333
+3396066	-1	Why do airplanes fly so high?	1.0
+34041	-1	what are the symptoms of strep throat?	1.0
+3411123	-1	Why does'nt America regard foriegn credentials?	1.0
+3496147	-1	Why was I punished for being christlike?	1.0
+3499881	-1	Why is Gordon Ramsey so popular?	1.0
+3507491	-1	Why is religious freedom more important today?	1.0
+354733	-1	What are the names of some famous photographers and why do their work stand up?	0.5
+354733	bertqe.topn10.bm25	mani famou art piec we	1.0
+354733	bt_nllb_chinese_yue	What are the names of some famous photographers	1.0
+354733	conceptluster.topn5.3.bm25	names famous photographers work stand photography	1.0
+354733	conceptluster.topn5.3.qld	names famous photographers work stand photography	1.0
+354733	relevancefeedback.topn10.bm25	what are the names of some famous photographers and why do their work stand up she adam photograph ask comfort ani even fly	1.0
+354733	sensedisambiguation.replace	What are the name of some celebrated photographer and why do their workplace stand up	1.0
+354733	stem.lovins	what ar th nam of som fam photographer and why do their work stand up	1.0
+354733	stem.paicehusk	what ar the nam of som fam photograph and why do their work stand up	1.0
+354733	stem.porter2	what are the name of some famous photograph and whi do their work stand up	1.0
+354733	tagmee.topn3	names famous photographers work stand Photography	1.0
+354733	termluster.topn5.3.bm25	names famous photographers work stand	1.0
+354733	termluster.topn5.3.qld	names famous photographers work stand	1.0
+354733	thesaurus.topn3	names famous photographers work stand	1.0
+354733	thesaurus.topn3.replace	names famous photographers work stand	1.0
+354733	wiki.topn3	names famous photographers work stand introductions photography optics photography	1.0
+3552010	-1	Why do parent put kids on restriction?	1.0
+3554263	-1	why some people behave so rude without reason,is it due to their own problem?	1.0
+3559048	-1	How do you sell a junk car without a title?	1.0
+3577501	-1	what are some signs that puberty is beginning?	1.0
+3639660	-1	Why do most cigarettes have the yellow filter?	1.0
+3640705	-1	what is the punishment for child molestors?	1.0
+3698636	-1	why do cats headbutt?	1.0
+3714728	-1	Why is the world so shallow?	1.0
+3723508	-1	What is the difference between an ox and a bull?	1.0
+3778229	-1	how were the witches tested in the salem witch trials?	1.0
+3825386	-1	How can I develop leanbody and muscles?	1.0
+3872395	-1	what are some easy ways to get a toddler to go to sleep without being mean?	0.3333
+3872395	relevancefeedback.topn10.qld	what are some easy ways to get a toddler to go to sleep without being mean problem child christma dog stroller alldai puppi bite we	1.0
+3872395	stem.porter	what ar some easi wai to get a toddler to go to sleep without be mean	1.0
+3872395	stem.porter2	what are some easi way to get a toddler to go to sleep without be mean	1.0
+3872395	word2vec.topn3	easy ways get toddler go sleep without mean straightforward quick easier things methods obtain give go infant baby come goes proceed dreamless wihtout wihout imply say	1.0
+3872395	stem.lovins	what ar som eas way to ges a toddler to go to sleep without being mean	0.5
+3874326	-1	How come Compton is only designated for black people?	0.5
+3874326	anchor.topn3	come compton designated black people uniplicatu pandaemonium a lov compton mill br compton lyvett kvinnen triplewart black cockatoo	1.0
+3874326	anchor.topn3.replace	uniplicatu pandaemonium a lov compton mill br compton lyvett designated kvinnen triplewart black cockatoo people	1.0
+3874326	bt_nllb_arabic	How come Compton was only for black people	1.0
+3874326	bt_nllb_chinese_yue	Why is Compton designed for black people	1.0
+3874326	bt_nllb_french	How come Compton is reserved for blacks	1.0
+3874326	bt_nllb_german	Why is Compton only for blacks	1.0
+3874326	bt_nllb_korean	Why is Compton for black people	1.0
+3874326	bt_nllb_malay	Why is Compton only for blacks	1.0
+3874326	bt_nllb_persian	Why is Compton only for blacks	1.0
+3874326	bt_nllb_russian	Why is Compton only for blacks	1.0
+3874326	bt_nllb_tamil	How is Compton only designated by black people	1.0
+3874326	conceptluster.topn5.3.bm25	come compton designated black people compton california	1.0
+3874326	conceptluster.topn5.3.qld	come compton designated black people compton california	1.0
+3874326	conceptnet.topn3	come compton designated black people return arrive Arthur Holly Compton united states combe twelfth man oil coal color crowd stupid talk to each other	1.0
+3874326	sensedisambiguation.replace	How total compton is only intend for black people	1.0
+3874326	stem.porter	how come compton is onli designat for black peopl	1.0
+3874326	stem.trunc5	how come compt is only desig for black peopl	1.0
+3874326	tagmee.topn3	come compton designated black people Compton California	1.0
+3874326	tagmee.topn3.replace	Compton California	1.0
+3874326	termluster.topn5.3.bm25	come compton designated black people	1.0
+3874326	termluster.topn5.3.qld	come compton designated black people	1.0
+3874326	thesaurus.topn3	come compton designated black people	1.0
+3874326	thesaurus.topn3.replace	come compton designated black people	1.0
+3874326	wiki.topn3	come compton designated black people gardena california hawthorne california pomona california compton california	1.0
+3874326	wordnet.topn3	come compton designated black people arrive cum come up Arthur Holly Compton Arthur Compton indicate destine show Negroid Shirley Temple Black Black person hoi polloi multitude	1.0
+3874326	wordnet.topn3.replace	arrive cum come up Arthur Holly Compton Arthur Compton indicate destine show Negroid Shirley Temple Black Black person hoi polloi multitude	1.0
+387874	-1	Why does asparugus make your pee stink?	1.0
+3910925	-1	Why is yawning contagious?	1.0
+3960080	-1	Why don't commercial planes fly over the North Pole?	1.0
+3971195	-1	How do i get my pitbull more agressive?	1.0
+3990512	-1	how can we get concentration onsomething?	0.0769
+3990512	conceptluster.topn5.3.bm25	get concentration onsomething	0.5
+3990512	conceptluster.topn5.3.qld	get concentration onsomething	0.5
+3990512	tagmee.topn3	get concentration onsomething	0.5
+3990512	termluster.topn5.3.bm25	get concentration onsomething	0.5
+3990512	termluster.topn5.3.qld	get concentration onsomething	0.5
+3990512	thesaurus.topn3	get concentration onsomething	0.5
+3990512	thesaurus.topn3.replace	get concentration onsomething	0.5
+3990512	wiki.topn3	get concentration onsomething	0.5
+3990512	anchor.topn3.replace	drive differences chak chak concentration onsomething	0.2
+3990512	anchor.topn3	get concentration onsomething drive differences chak chak	0.1667
+3990512	glove.topn3	get concentration onsomething got furthermore	0.125
+4003223	-1	What are the marketing gimmicks that will attract males?	1.0
+4012558	-1	what is the term milky way?	1.0
+4018891	-1	How do I know if a particular term or phrase is copyrighted?	1.0
+402514	-1	why do my baked potatos never taste near as good as when I get them in a nice restaurant?	1.0
+4126337	-1	Why does my friend buy...?	1.0
+4153592	-1	what can make someones ear's stink?	0.5
+4153592	bertqe.topn10.qld	might allow appreci it stinki	1.0
+4153592	conceptnet.topn3	make someones ear s stink create manufacture offer hearing organ listening farting	1.0
+4153592	rm3.topn10.10.0.5.bm25	what can make someones ears stink?	1.0
+4153592	rm3.topn10.10.0.5.qld	what can make someones ears stink?	1.0
+4153592	wordnet.topn3	make someones ear s stink shuffling stool seduce mortal soul capitulum auricle stench fetor mephitis	1.0
+4165406	-1	Why did the founder of Daewoo get a 10-year jail sentence?	1.0
+4185395	-1	how can i cure the std or the sexually transmitted disease?	1.0
+4185501	-1	why does the sun shine?	0.5
+4185501	anchor.topn3	sun shine syypää suanxu क श tengeriyn day uchiku ulaach	1.0
+4185501	bt_nllb_french	Why is the sun shining	1.0
+4185501	bt_nllb_german	Why is the sun shining	1.0
+4185501	bt_nllb_korean	Why is the sun shining	1.0
+4185501	bt_nllb_malay	Why is the sun shining	1.0
+4185501	bt_nllb_russian	Why is the sun shining	1.0
+4185501	bt_nllb_tamil	Why is the sun shining	1.0
+4185501	relevancefeedback.topn10.bm25	why does the sun shine graviti kelvin rain ani burn cloud avoid creat level	1.0
+4185501	sensedisambiguation	why does the sun sunlight shine radiance	1.0
+4185501	stem.porter2	whi doe the sun shine	1.0
+4185501	tagmee.topn3.replace	Why Does the Sun Shine The Sun Is a Mass of Incandescent Gas	1.0
+4185501	termluster.topn5.3.bm25	sun shine	1.0
+4185501	termluster.topn5.3.qld	sun shine	1.0
+4185501	thesaurus.topn3	sun shine	1.0
+4185501	thesaurus.topn3.replace	sun shine	1.0
+4185501	wiki.topn3.replace	best thearly years might bgiants album danny weinkauf back skull sun shine sun mass incandescent gas	1.0
+4190287	-1	Why is switching schools so depressing?	1.0
+4196421	-1	how can you be more brilliant?	0.5
+4196421	bertqe.topn10.bm25	femal read everyth twice studi	1.0
+4196421	conceptnet.topn3	brilliant	1.0
+4196421	conceptnet.topn3.replace	brilliant	1.0
+4196421	relevancefeedback.topn10.qld	how can you be more brilliant quasar lsd galileo your art custom brilliant	1.0
+4196421	termluster.topn5.3.bm25	brilliant	1.0
+4196421	termluster.topn5.3.qld	brilliant	1.0
+4196421	thesaurus.topn3	brilliant	1.0
+4196421	thesaurus.topn3.replace	brilliant	1.0
+4197214	-1	Why my GF feel like pissing during sexual intercourse?	1.0
+421753	-1	how to get rid of a skunk?	1.0
+4250296	-1	What do doctors do when a patient has a Do Nor Resuscitate Order?	0.5
+4250296	bt_nllb_chinese_yue	What happens when the patient is unable to do or restore order to life	1.0
+4250296	conceptluster.topn5.3.bm25	doctors patient resuscitate order religious order physician resuscitation	1.0
+4250296	conceptluster.topn5.3.qld	doctors patient resuscitate order religious order physician resuscitation	1.0
+4250296	conceptnet.topn3	doctors patient resuscitate order help sick people help patients doctor patients waiting on line command	1.0
+4250296	conceptnet.topn3.replace	help sick people help patients doctor patients waiting on line resuscitate command	1.0
+4250296	stem.trunc4	what do doct do when a pati has a do nor resu orde	1.0
+4250296	stem.trunc5	what do docto do when a patie has a do nor resus order	1.0
+4250296	tagmee.topn3	doctors patient resuscitate order Physician Resuscitation Religious order	1.0
+4250296	termluster.topn5.3.bm25	doctors patient resuscitate order	1.0
+4250296	termluster.topn5.3.qld	doctors patient resuscitate order	1.0
+4250296	thesaurus.topn3	doctors patient resuscitate order	1.0
+4250296	thesaurus.topn3.replace	doctors patient resuscitate order	1.0
+4250296	word2vec.topn3	doctors patient resuscitate order physicians physician revive resurrect order	1.0
+4250296	wordnet.topn3	doctors patient resuscitate order MD medico Doctor of the Church affected role patient role come to revive gild ordination society	1.0
+4256593	-1	How do I remove the SIMM card on a LG VX8300 Cell Phone?	1.0
+4278201	-1	how does Ultraviolet Light Affects Seed Germination and plant growth?	1.0
+4283542	-1	i have had loose stools for a week...how do i make it stop?	1.0
+4288761	-1	How can i stop my husband from exhuming my baby's body for compensation?	1.0
+4311093	-1	Why hot air rises up?	1.0
+4357460	-1	how to make my car faster?	1.0
+4365565	-1	How Does Water Pressure Change?	0.3333
+4365565	anchor.topn3	water pressure change parascombrop dialys softer	1.0
+4365565	glove.topn3	water pressure change drinking seawater push	1.0
+4365565	tagmee.topn3	water pressure change Pressure Calculus	1.0
+4365565	termluster.topn5.3.bm25	water pressure change	1.0
+4365565	termluster.topn5.3.qld	water pressure change	1.0
+4365565	thesaurus.topn3	water pressure change	1.0
+4365565	thesaurus.topn3.replace	water pressure change	1.0
+4365565	word2vec.topn3	water pressure change water The liquid presssure chnage	1.0
+4365565	wordnet.topn3	water pressure change piddle water system water supply pressure sensation pressure level blackmail vary modification alteration	1.0
+4365565	anchor.topn3.replace	parascombrop dialys softer pressure change	0.5
+4365565	conceptluster.topn5.3.bm25	water pressure change calculus	0.5
+4365565	conceptluster.topn5.3.qld	water pressure change calculus	0.5
+4365565	conceptnet.topn3	water pressure change a fish river steam Air distress coins money move	0.5
+4365565	relevancefeedback.topn10.bm25	how does water pressure change pressur densiti transport forc chang atmospher object mass	0.5
+4365565	stem.krovetz	how do water pressure change	0.5
+4365565	stem.lovins	how do water pressur chang	0.5
+4365565	wordnet.topn3.replace	piddle water system water supply pressure sensation pressure level blackmail vary modification alteration	0.5
+4367654	-1	Why is April 19th important?	0.25
+4367654	bt_nllb_arabic	Why is April important	0.5
+4367654	bt_nllb_french	Why is April important	0.5
+4367654	bt_nllb_german	Why is April important	0.5
+4367654	bt_nllb_persian	Why is April important	0.5
+4367654	bt_nllb_russian	Why is April important	0.5
+4367654	bt_nllb_swahili	Why is April special	0.5
+4367654	bt_nllb_tamil	Why April is Important	0.5
+4367654	conceptluster.topn5.3.bm25	april th important	0.5
+4367654	conceptluster.topn5.3.qld	april th important	0.5
+4367654	conceptnet.topn3	april th important may tax march ordinal capital valuable	0.5
+4367654	rm3.topn10.10.0.5.bm25	Why is April 19th important?	0.5
+4367654	rm3.topn10.10.0.5.qld	Why is April 19th important?	0.5
+4367654	tagmee.topn3	april th important	0.5
+4367654	termluster.topn5.3.bm25	april th important	0.5
+4367654	termluster.topn5.3.qld	april th important	0.5
+4367654	thesaurus.topn3	april th important	0.5
+4367654	thesaurus.topn3.replace	april th important	0.5
+4367654	wiki.topn3	april th important	0.5
+4367654	sensedisambiguation.replace	Why is april nineteenth significant	0.3333
+4372730	-1	Why doesn't the bible make any sense?	0.5
+4372730	bt_nllb_malay	Why does the Bible make sense	1.0
+4372730	conceptluster.topn5.3.bm25	n t bible make sense bible	1.0
+4372730	conceptluster.topn5.3.qld	n t bible make sense bible	1.0
+4372730	sensedisambiguation	Why does n t the bible make any sense common sense	1.0
+4372730	sensedisambiguation.replace	Why does n t the bible make any common sense	1.0
+4372730	tagmee.topn3	n t bible make sense Bible	1.0
+4377861	-1	how to handsew sequins?	1.0
+4385316	-1	How do I keep black birds out of my bar-b-que grill?	1.0
+4406669	-1	What do you order at Taco Bell?	1.0
+443848	-1	Does anybody know where i could get a free guide on how to train a siberian husky?	1.0
+4448097	-1	what is innate immunity?	1.0
+4462511	-1	How do i know if my gold fish is pregnant?	1.0
+4467100	-1	What does sholomister mean?	0.0
+4467100	bt_nllb_arabic	What do you mean Scholemster	1.0
+4467100	bt_nllb_russian	What do you mean Scholemister	1.0
+4467100	stem.krovetz	what do sholomister mean	1.0
+4467100	stem.lovins	what do sholomister mean	1.0
+4467100	conceptluster.topn5.3.bm25	sholomister mean	0.0278
+4467100	conceptluster.topn5.3.qld	sholomister mean	0.0278
+4467100	tagmee.topn3	sholomister mean	0.0278
+4467100	termluster.topn5.3.bm25	sholomister mean	0.0278
+4467100	termluster.topn5.3.qld	sholomister mean	0.0278
+4467100	thesaurus.topn3	sholomister mean	0.0278
+4467100	thesaurus.topn3.replace	sholomister mean	0.0278
+4467100	wiki.topn3	sholomister mean	0.0278
+4467100	word2vec.topn3	sholomister mean imply say	0.0127
+4473137	-1	Causes and effects of the rise of Christanity?	1.0
+4473331	-1	How can I keep my rabit indoors?	0.5
+4473331	conceptluster.topn5.3.bm25	keep rabit indoors rabbit	1.0
+4473331	conceptluster.topn5.3.qld	keep rabit indoors rabbit	1.0
+4473331	conceptnet.topn3	keep rabit indoors preserve	1.0
+4473331	conceptnet.topn3.replace	preserve rabit indoors	1.0
+4473331	glove.topn3	keep rabit indoors kept outdoors stay	1.0
+4473331	sensedisambiguation	How can I keep sustain my rabit indoors inside	1.0
+4473331	sensedisambiguation.replace	How can I sustain my rabit inside	1.0
+4473331	stem.paicehusk	how can i keep my rabit indo	1.0
+4473331	stem.trunc5	how can i keep my rabit indoo	1.0
+4473331	tagmee.topn3	keep rabit indoors Rabbit	1.0
+4473331	termluster.topn5.3.bm25	keep rabit indoors	1.0
+4473331	termluster.topn5.3.qld	keep rabit indoors	1.0
+4473331	thesaurus.topn3	keep rabit indoors	1.0
+4473331	thesaurus.topn3.replace	keep rabit indoors	1.0
+4473331	word2vec.topn3	keep rabit indoors kept smuck puddy wascally outdoors outdoor	1.0
+4473331	wordnet.topn3.replace	celebrate continue save rabit inside	1.0
+456214	-1	What is the importance of absolute zero temperature?	1.0
+474417	-1	what does the prefix "cyclo" mean in greek mythology?	1.0
+481173	-1	why live, when your in misery?	0.5
+481173	anchor.topn3	live misery live cast hiromi w	1.0
+481173	relevancefeedback.topn10.bm25	why live when your in misery our life light could you can ad sojourn her	1.0
+481173	stem.trunc5	why live when your in miser	1.0
+481173	termluster.topn5.3.bm25	live misery	1.0
+481173	termluster.topn5.3.qld	live misery	1.0
+481173	thesaurus.topn3	live misery	1.0
+481173	thesaurus.topn3.replace	live misery	1.0
+481173	wordnet.topn3	live misery survive last populate wretchedness miserableness	1.0
+484496	-1	Why a man float on water when he dies?	1.0
+551239	-1	how do i find out if someone left me a life insurance policy?	1.0
+558570	-1	My city just put a ban on pit bulls, how do we reverse the decision?	1.0
+654124	-1	Why am I not able to concentrate on my studies?	1.0
+667488	-1	how soon can you drive on a newly paved driveway?	0.5
+667488	anchor.topn3	soon drive newly paved driveway saasarachi shivrayachi laadki reko wagen ls driving sleep depriv redenbaugh berengaria mother	1.0
+667488	bertqe.topn10.bm25	you longer drive your drivewai	1.0
+667488	conceptluster.topn5.3.bm25	soon drive newly paved driveway driveway road surface	1.0
+667488	conceptluster.topn5.3.qld	soon drive newly paved driveway driveway road surface	1.0
+667488	glove.topn3	soon drive newly paved driveway eventually finally drove recently transformed asphalt sidewalk	1.0
+667488	relevancefeedback.topn10.qld	how soon can you drive on a newly paved driveway suv drivewai put i park black busi	1.0
+667488	tagmee.topn3	soon drive newly paved driveway Road surface Driveway	1.0
+667488	termluster.topn5.3.bm25	soon drive newly paved driveway	1.0
+667488	termluster.topn5.3.qld	soon drive newly paved driveway	1.0
+667488	thesaurus.topn3	soon drive newly paved driveway	1.0
+667488	thesaurus.topn3.replace	soon drive newly paved driveway	1.0
+667488	word2vec.topn3	soon drive newly paved driveway shortly eventually quickly driven freshly newly carport lawn	1.0
+667488	wordnet.topn3	soon drive newly paved driveway presently shortly ram crusade force fresh new private road drive	1.0
+676028	-1	Why do our elected federal senators and congressmen not have to live on regular S.S. like the rest of us?	1.0
+707303	-1	How do people get hiccups, what are they, and what exactly is the best way to cure them?	1.0
+714612	-1	Why doesn't the water fall off  earth if it's round?	1.0
+746920	-1	How do you get rid of wart on your hand a using home method?	1.0
+761742	-1	How can I become a playa?	1.0
+765138	-1	Why does loving someone hurts like hell?	1.0
+785823	-1	how is the library consider as a heart of university?	1.0
+78762	-1	why do i have pterofobia?	0.0
+788976	-1	Why did the Bush Admin cover up 9/11?	1.0
+821387	-1	I have mice.How do I get rid of them humanely?	1.0
+823384	-1	why did the army have personal cuts in the mid 1990's?	1.0
+8293	-1	Why do men fantasized about raping women?	1.0
+849221	-1	when it comes to religion why dont people realize history repeats itself?	0.5
+849221	bertqe.topn10.bm25	repeat itself christ return why	1.0
+849221	conceptluster.topn5.3.bm25	comes religion dont people realize history repeats people magazine	1.0
+849221	conceptluster.topn5.3.qld	comes religion dont people realize history repeats people magazine	1.0
+849221	relevancefeedback.topn10.bm25	when it comes to religion why dont people realize history repeats itself histori anymor tsk bibl chang repeat doe	1.0
+849221	relevancefeedback.topn10.qld	when it comes to religion why dont people realize history repeats itself all i you histori repeat happen chang peopl	1.0
+849221	tagmee.topn3	comes religion dont people realize history repeats People magazine	1.0
+849221	word2vec.topn3	comes religion dont people realize history repeats brings goes came relgion didnt doesnt wont poeple peole persons realise history	1.0
+849221	word2vec.topn3.replace	brings goes came relgion didnt doesnt wont poeple peole persons realise history repeats	1.0
+851124	-1	How is ego a part of our survival instincts?	1.0
+896725	-1	what are some good exercises to get rid of those love handles?	0.5
+896725	anchor.topn3	good exercises get rid love handles goshūshō sama hlengethwa luck drive differences chak chak stojkovićevo okruglica stojkovićeva jalg kalakaar utattemita	1.0
+896725	bt_nllb_chinese_yue	Some good exercise can help you get rid of the grip	1.0
+896725	bt_nllb_french	What are some good exercises to get rid of these love sleeves	1.0
+896725	bt_nllb_german	What are some good exercises to do to get rid of these love gloves	1.0
+896725	bt_nllb_korean	What are some good moves to get rid of love handles	1.0
+896725	bt_nllb_malay	What are some good exercises to get rid of that love grip	1.0
+896725	conceptluster.topn5.3.bm25	good exercises get rid love handles love love handles game show	1.0
+896725	conceptluster.topn5.3.qld	good exercises get rid love handles love love handles game show	1.0
+896725	glove.topn3	good exercises get rid love handles better well maneuvers got eliminate unfortunately passion	1.0
+896725	relevancefeedback.topn10.bm25	what are some good exercises to get rid of those love handles u cardio eat yoga ball fat i bag bodi	1.0
+896725	sensedisambiguation	what are some good exercises use to get receive rid of those love handles handle	1.0
+896725	sensedisambiguation.replace	what are some good use to receive rid of those love handle	1.0
+896725	stem.trunc5	what are some good exerc to get rid of those love handl	1.0
+896725	tagmee.topn3	good exercises get rid love handles For Those in Love Love Handles game show	1.0
+896725	termluster.topn5.3.bm25	good exercises get rid love handles	1.0
+896725	termluster.topn5.3.qld	good exercises get rid love handles	1.0
+896725	thesaurus.topn3	good exercises get rid love handles	1.0
+896725	thesaurus.topn3.replace	good exercises get rid love handles	1.0
+896725	wiki.topn3	good exercises get rid love handles mormusic thsoil blazing ballads mortears lady day love gamon gamshow blair murdoch brothers tv love handles game show	1.0
+922849	-1	why do some people take life so seriously?	1.0
+949154	-1	can anybody tell me what is a butler?	1.0
+953489	-1	Why do I have to dumb myself down all the time though I am highly undereducated?	1.0

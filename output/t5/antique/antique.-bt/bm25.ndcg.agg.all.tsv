@@ -1,0 +1,2201 @@
+qid	order	query	bm25.ndcg
+8293	-1	why do men fantasized about raping women?	0.7256
+8293	pred.bt.1	men fantasized raping women	0.8464
+8293	pred.bt.10	men fantasized raping women	0.8464
+8293	pred.bt.2	men fantasized raping women	0.8464
+8293	pred.bt.3	men fantasized raping women	0.8464
+8293	pred.bt.4	men fantasized raping women	0.8464
+8293	pred.bt.5	men fantasized raping women	0.8464
+8293	pred.bt.6	men fantasized raping women	0.8464
+8293	pred.bt.7	men fantasized raping women	0.8464
+8293	pred.bt.8	men fantasized raping women	0.8464
+8293	pred.bt.9	men fantasized raping women	0.8464
+23464	-1	why girls are beautiful?	0.7106
+23464	pred.bt.1	girls beautiful	0.7432
+23464	pred.bt.10	girls beautiful	0.7432
+23464	pred.bt.2	girls beautiful	0.7432
+23464	pred.bt.3	girls beautiful	0.7432
+23464	pred.bt.4	girls beautiful	0.7432
+23464	pred.bt.5	girls beautiful	0.7432
+23464	pred.bt.6	girls beautiful	0.7432
+23464	pred.bt.7	girls beautiful	0.7432
+23464	pred.bt.8	girls beautiful	0.7432
+23464	pred.bt.9	girls beautiful	0.7432
+34041	-1	what are the symptoms of strep throat?	0.8702
+34041	pred.bt.1	what are the symptoms of strep throat?	0.8702
+34041	pred.bt.10	what are the symptoms of strep throat?	0.8702
+34041	pred.bt.2	what are the symptoms of strep throat?	0.8702
+34041	pred.bt.3	what are the symptoms of strep throat?	0.8702
+34041	pred.bt.4	what are the symptoms of strep throat?	0.8702
+34041	pred.bt.5	what are the symptoms of strep throat?	0.8702
+34041	pred.bt.6	what are the symptoms of strep throat?	0.8702
+34041	pred.bt.7	what are the symptoms of strep throat?	0.8702
+34041	pred.bt.8	what are the symptoms of strep throat?	0.8702
+34041	pred.bt.9	what are the symptoms of strep throat?	0.8702
+78762	-1	why do i have pterofobia?	0.0
+78762	pred.bt.1	why do i have pterofobia?	0.0
+78762	pred.bt.10	why do i have pterofobia?	0.0
+78762	pred.bt.2	why do i have pterofobia?	0.0
+78762	pred.bt.3	why do i have pterofobia?	0.0
+78762	pred.bt.4	why do i have pterofobia?	0.0
+78762	pred.bt.5	why do i have pterofobia?	0.0
+78762	pred.bt.6	why do i have pterofobia?	0.0
+78762	pred.bt.7	why do i have pterofobia?	0.0
+78762	pred.bt.8	why do i have pterofobia?	0.0
+78762	pred.bt.9	why do i have pterofobia?	0.0
+100653	-1	how do i go about getting copies of letters of commendation prsented to me from city of san diego?	0.6356
+100653	pred.bt.1	go getting copies letters commendation prsented city san diego	0.5878
+100653	pred.bt.10	go getting copies letters commendation prsented city san diego	0.5878
+100653	pred.bt.2	go getting copies letters commendation prsented city san diego	0.5878
+100653	pred.bt.3	go getting copies letters commendation prsented city san diego	0.5878
+100653	pred.bt.4	go getting copies letters commendation prsented city san diego	0.5878
+100653	pred.bt.5	go getting copies letters commendation prsented city san diego	0.5878
+100653	pred.bt.6	go getting copies letters commendation prsented city san diego	0.5878
+100653	pred.bt.7	go getting copies letters commendation prsented city san diego	0.5878
+100653	pred.bt.8	go getting copies letters commendation prsented city san diego	0.5878
+100653	pred.bt.9	go getting copies letters commendation prsented city san diego	0.5878
+103830	-1	why do man arabs hate the west ?	0.6497
+103830	pred.bt.1	man arabs hate west	0.7359
+103830	pred.bt.10	man arabs hate west	0.7359
+103830	pred.bt.2	man arabs hate west	0.7359
+103830	pred.bt.3	man arabs hate west	0.7359
+103830	pred.bt.4	man arabs hate west	0.7359
+103830	pred.bt.5	man arabs hate west	0.7359
+103830	pred.bt.6	man arabs hate west	0.7359
+103830	pred.bt.7	man arabs hate west	0.7359
+103830	pred.bt.8	man arabs hate west	0.7359
+103830	pred.bt.9	man arabs hate west	0.7359
+143833	-1	what is the difference between coolant and anti-freeze?	0.6958
+143833	pred.bt.1	difference coolant anti freeze	0.7644
+143833	pred.bt.10	difference coolant anti freeze	0.7644
+143833	pred.bt.2	difference coolant anti freeze	0.7644
+143833	pred.bt.3	difference coolant anti freeze	0.7644
+143833	pred.bt.4	difference coolant anti freeze	0.7644
+143833	pred.bt.5	difference coolant anti freeze	0.7644
+143833	pred.bt.6	difference coolant anti freeze	0.7644
+143833	pred.bt.7	difference coolant anti freeze	0.7644
+143833	pred.bt.8	difference coolant anti freeze	0.7644
+143833	pred.bt.9	difference coolant anti freeze	0.7644
+159716	-1	how do i find an inmate at southwest detention center 30755 auld rd., murrieta, ca 92563?	0.4618
+159716	pred.bt.1	find inmate southwest detention center auld rd murrieta ca	0.6228
+159716	pred.bt.10	find inmate southwest detention center auld rd murrieta ca	0.6228
+159716	pred.bt.2	find inmate southwest detention center auld rd murrieta ca	0.6228
+159716	pred.bt.3	find inmate southwest detention center auld rd murrieta ca	0.6228
+159716	pred.bt.4	find inmate southwest detention center auld rd murrieta ca	0.6228
+159716	pred.bt.5	find inmate southwest detention center auld rd murrieta ca	0.6228
+159716	pred.bt.6	find inmate southwest detention center auld rd murrieta ca	0.6228
+159716	pred.bt.7	find inmate southwest detention center auld rd murrieta ca	0.6228
+159716	pred.bt.8	find inmate southwest detention center auld rd murrieta ca	0.6228
+159716	pred.bt.9	find inmate southwest detention center auld rd murrieta ca	0.6228
+172731	-1	how for is saturn from the sun?	0.5876
+172731	pred.bt.1	saturn sun sun saturn	0.6554
+172731	pred.bt.10	saturn sun sun saturn	0.6554
+172731	pred.bt.2	saturn sun sun saturn	0.6554
+172731	pred.bt.3	saturn sun sun saturn	0.6554
+172731	pred.bt.4	saturn sun sun saturn	0.6554
+172731	pred.bt.5	saturn sun sun saturn	0.6554
+172731	pred.bt.6	saturn sun sun saturn	0.6554
+172731	pred.bt.7	saturn sun sun saturn	0.6554
+172731	pred.bt.8	saturn sun sun saturn	0.6554
+172731	pred.bt.9	saturn sun sun saturn	0.6554
+204633	-1	why do you have memories?	0.1826
+204633	pred.bt.1	memories	0.6021
+204633	pred.bt.10	memories	0.6021
+204633	pred.bt.2	memories	0.6021
+204633	pred.bt.3	memories	0.6021
+204633	pred.bt.4	memories	0.6021
+204633	pred.bt.5	memories	0.6021
+204633	pred.bt.6	memories	0.6021
+204633	pred.bt.7	memories	0.6021
+204633	pred.bt.8	memories	0.6021
+204633	pred.bt.9	memories	0.6021
+204963	-1	what does 5 by 5 mean?	0.4942
+204963	pred.bt.1	what does 5 by 5 mean?	0.4942
+204963	pred.bt.10	what does 5 by 5 mean?	0.4942
+204963	pred.bt.2	what does 5 by 5 mean?	0.4942
+204963	pred.bt.3	what does 5 by 5 mean?	0.4942
+204963	pred.bt.4	what does 5 by 5 mean?	0.4942
+204963	pred.bt.5	what does 5 by 5 mean?	0.4942
+204963	pred.bt.6	what does 5 by 5 mean?	0.4942
+204963	pred.bt.7	what does 5 by 5 mean?	0.4942
+204963	pred.bt.8	what does 5 by 5 mean?	0.4942
+204963	pred.bt.9	what does 5 by 5 mean?	0.4942
+224109	-1	what is citriscidal?	0.0
+224109	pred.bt.1	what is citriscidal?	0.0
+224109	pred.bt.10	what is citriscidal?	0.0
+224109	pred.bt.2	what is citriscidal?	0.0
+224109	pred.bt.3	what is citriscidal?	0.0
+224109	pred.bt.4	what is citriscidal?	0.0
+224109	pred.bt.5	what is citriscidal?	0.0
+224109	pred.bt.6	what is citriscidal?	0.0
+224109	pred.bt.7	what is citriscidal?	0.0
+224109	pred.bt.8	what is citriscidal?	0.0
+224109	pred.bt.9	what is citriscidal?	0.0
+225575	-1	what does 'wet behind the ears' mean?	0.6266
+225575	pred.bt.1	wet behind ears mean	0.6489
+225575	pred.bt.10	wet behind ears mean	0.6489
+225575	pred.bt.2	wet behind ears mean	0.6489
+225575	pred.bt.3	wet behind ears mean	0.6489
+225575	pred.bt.4	wet behind ears mean	0.6489
+225575	pred.bt.5	wet behind ears mean	0.6489
+225575	pred.bt.6	wet behind ears mean	0.6489
+225575	pred.bt.7	wet behind ears mean	0.6489
+225575	pred.bt.8	wet behind ears mean	0.6489
+225575	pred.bt.9	wet behind ears mean	0.6489
+229303	-1	why  is  the   war continuing  in  afghanistan?	0.6851
+229303	pred.bt.1	war continuing afghanistan	0.7129
+229303	pred.bt.10	war continuing afghanistan	0.7129
+229303	pred.bt.2	war continuing afghanistan	0.7129
+229303	pred.bt.3	war continuing afghanistan	0.7129
+229303	pred.bt.4	war continuing afghanistan	0.7129
+229303	pred.bt.5	war continuing afghanistan	0.7129
+229303	pred.bt.6	war continuing afghanistan	0.7129
+229303	pred.bt.7	war continuing afghanistan	0.7129
+229303	pred.bt.8	war continuing afghanistan	0.7129
+229303	pred.bt.9	war continuing afghanistan	0.7129
+312215	-1	how good is apple pie when it is cold?	0.694
+312215	pred.bt.1	how good is apple pie when it is cold cold appl	0.6909
+312215	pred.bt.10	how good is apple pie when it is cold cold appl	0.6909
+312215	pred.bt.2	how good is apple pie when it is cold cold appl	0.6909
+312215	pred.bt.3	how good is apple pie when it is cold cold appl	0.6909
+312215	pred.bt.4	how good is apple pie when it is cold cold appl	0.6909
+312215	pred.bt.5	how good is apple pie when it is cold cold appl	0.6909
+312215	pred.bt.6	how good is apple pie when it is cold cold appl	0.6909
+312215	pred.bt.7	how good is apple pie when it is cold cold appl	0.6909
+312215	pred.bt.8	how good is apple pie when it is cold cold appl	0.6909
+312215	pred.bt.9	how good is apple pie when it is cold cold appl	0.6909
+354733	-1	what are the names of some famous photographers and why do their work stand up?	0.3598
+354733	pred.bt.1	names famous photographers work stand	0.4804
+354733	pred.bt.10	names famous photographers work stand	0.4804
+354733	pred.bt.2	names famous photographers work stand	0.4804
+354733	pred.bt.3	names famous photographers work stand	0.4804
+354733	pred.bt.4	names famous photographers work stand	0.4804
+354733	pred.bt.5	names famous photographers work stand	0.4804
+354733	pred.bt.6	names famous photographers work stand	0.4804
+354733	pred.bt.7	names famous photographers work stand	0.4804
+354733	pred.bt.8	names famous photographers work stand	0.4804
+354733	pred.bt.9	names famous photographers work stand	0.4804
+387874	-1	why does asparugus make your pee stink?	0.637
+387874	pred.bt.1	asparugus make pee stink	0.6796
+387874	pred.bt.10	asparugus make pee stink	0.6796
+387874	pred.bt.2	asparugus make pee stink	0.6796
+387874	pred.bt.3	asparugus make pee stink	0.6796
+387874	pred.bt.4	asparugus make pee stink	0.6796
+387874	pred.bt.5	asparugus make pee stink	0.6796
+387874	pred.bt.6	asparugus make pee stink	0.6796
+387874	pred.bt.7	asparugus make pee stink	0.6796
+387874	pred.bt.8	asparugus make pee stink	0.6796
+387874	pred.bt.9	asparugus make pee stink	0.6796
+402514	-1	why do my baked potatos never taste near as good as when i get them in a nice restaurant?	0.6275
+402514	pred.bt.1	baked potatos never taste near good get nice restaurant	0.7066
+402514	pred.bt.10	baked potatos never taste near good get nice restaurant	0.7066
+402514	pred.bt.2	baked potatos never taste near good get nice restaurant	0.7066
+402514	pred.bt.3	baked potatos never taste near good get nice restaurant	0.7066
+402514	pred.bt.4	baked potatos never taste near good get nice restaurant	0.7066
+402514	pred.bt.5	baked potatos never taste near good get nice restaurant	0.7066
+402514	pred.bt.6	baked potatos never taste near good get nice restaurant	0.7066
+402514	pred.bt.7	baked potatos never taste near good get nice restaurant	0.7066
+402514	pred.bt.8	baked potatos never taste near good get nice restaurant	0.7066
+402514	pred.bt.9	baked potatos never taste near good get nice restaurant	0.7066
+421753	-1	how to get rid of a skunk?	0.3789
+421753	pred.bt.1	get rid skunk skunk	0.5814
+421753	pred.bt.10	get rid skunk skunk	0.5814
+421753	pred.bt.2	get rid skunk skunk	0.5814
+421753	pred.bt.3	get rid skunk skunk	0.5814
+421753	pred.bt.4	get rid skunk skunk	0.5814
+421753	pred.bt.5	get rid skunk skunk	0.5814
+421753	pred.bt.6	get rid skunk skunk	0.5814
+421753	pred.bt.7	get rid skunk skunk	0.5814
+421753	pred.bt.8	get rid skunk skunk	0.5814
+421753	pred.bt.9	get rid skunk skunk	0.5814
+443848	-1	does anybody know where i could get a free guide on how to train a siberian husky?	0.6361
+443848	pred.bt.1	anybody know could get free guide train siberian husky	0.6417
+443848	pred.bt.10	anybody know could get free guide train siberian husky	0.6417
+443848	pred.bt.2	anybody know could get free guide train siberian husky	0.6417
+443848	pred.bt.3	anybody know could get free guide train siberian husky	0.6417
+443848	pred.bt.4	anybody know could get free guide train siberian husky	0.6417
+443848	pred.bt.5	anybody know could get free guide train siberian husky	0.6417
+443848	pred.bt.6	anybody know could get free guide train siberian husky	0.6417
+443848	pred.bt.7	anybody know could get free guide train siberian husky	0.6417
+443848	pred.bt.8	anybody know could get free guide train siberian husky	0.6417
+443848	pred.bt.9	anybody know could get free guide train siberian husky	0.6417
+456214	-1	what is the importance of absolute zero temperature?	0.9268
+456214	pred.bt.1	importance absolute zero temperature	0.9351
+456214	pred.bt.10	importance absolute zero temperature	0.9351
+456214	pred.bt.2	importance absolute zero temperature	0.9351
+456214	pred.bt.3	importance absolute zero temperature	0.9351
+456214	pred.bt.4	importance absolute zero temperature	0.9351
+456214	pred.bt.5	importance absolute zero temperature	0.9351
+456214	pred.bt.6	importance absolute zero temperature	0.9351
+456214	pred.bt.7	importance absolute zero temperature	0.9351
+456214	pred.bt.8	importance absolute zero temperature	0.9351
+456214	pred.bt.9	importance absolute zero temperature	0.9351
+474417	-1	what does the prefix "cyclo" mean in greek mythology?	0.7271
+474417	pred.bt.1	prefix cyclo mean greek mythology	0.7267
+474417	pred.bt.10	prefix cyclo mean greek mythology	0.7267
+474417	pred.bt.2	prefix cyclo mean greek mythology	0.7267
+474417	pred.bt.3	prefix cyclo mean greek mythology	0.7267
+474417	pred.bt.4	prefix cyclo mean greek mythology	0.7267
+474417	pred.bt.5	prefix cyclo mean greek mythology	0.7267
+474417	pred.bt.6	prefix cyclo mean greek mythology	0.7267
+474417	pred.bt.7	prefix cyclo mean greek mythology	0.7267
+474417	pred.bt.8	prefix cyclo mean greek mythology	0.7267
+474417	pred.bt.9	prefix cyclo mean greek mythology	0.7267
+481173	-1	why live, when your in misery?	0.5048
+481173	pred.bt.1	live misery	0.6145
+481173	pred.bt.10	live misery	0.6145
+481173	pred.bt.2	live misery	0.6145
+481173	pred.bt.3	live misery	0.6145
+481173	pred.bt.4	live misery	0.6145
+481173	pred.bt.5	live misery	0.6145
+481173	pred.bt.6	live misery	0.6145
+481173	pred.bt.7	live misery	0.6145
+481173	pred.bt.8	live misery	0.6145
+481173	pred.bt.9	live misery	0.6145
+484496	-1	why a man float on water when he dies?	0.4525
+484496	pred.bt.1	man float water dies	0.5659
+484496	pred.bt.10	man float water dies	0.5659
+484496	pred.bt.2	man float water dies	0.5659
+484496	pred.bt.3	man float water dies	0.5659
+484496	pred.bt.4	man float water dies	0.5659
+484496	pred.bt.5	man float water dies	0.5659
+484496	pred.bt.6	man float water dies	0.5659
+484496	pred.bt.7	man float water dies	0.5659
+484496	pred.bt.8	man float water dies	0.5659
+484496	pred.bt.9	man float water dies	0.5659
+551239	-1	how do i find out if someone left me a life insurance policy?	0.6601
+551239	pred.bt.1	find someone left life insurance policy	0.7367
+551239	pred.bt.10	find someone left life insurance policy	0.7367
+551239	pred.bt.2	find someone left life insurance policy	0.7367
+551239	pred.bt.3	find someone left life insurance policy	0.7367
+551239	pred.bt.4	find someone left life insurance policy	0.7367
+551239	pred.bt.5	find someone left life insurance policy	0.7367
+551239	pred.bt.6	find someone left life insurance policy	0.7367
+551239	pred.bt.7	find someone left life insurance policy	0.7367
+551239	pred.bt.8	find someone left life insurance policy	0.7367
+551239	pred.bt.9	find someone left life insurance policy	0.7367
+558570	-1	my city just put a ban on pit bulls, how do we reverse the decision?	0.6795
+558570	pred.bt.1	city put ban pit bulls reverse decision	0.6825
+558570	pred.bt.10	city put ban pit bulls reverse decision	0.6825
+558570	pred.bt.2	city put ban pit bulls reverse decision	0.6825
+558570	pred.bt.3	city put ban pit bulls reverse decision	0.6825
+558570	pred.bt.4	city put ban pit bulls reverse decision	0.6825
+558570	pred.bt.5	city put ban pit bulls reverse decision	0.6825
+558570	pred.bt.6	city put ban pit bulls reverse decision	0.6825
+558570	pred.bt.7	city put ban pit bulls reverse decision	0.6825
+558570	pred.bt.8	city put ban pit bulls reverse decision	0.6825
+558570	pred.bt.9	city put ban pit bulls reverse decision	0.6825
+654124	-1	why am i not able to concentrate on my studies?	0.4514
+654124	pred.bt.1	able concentrate studies	0.6602
+654124	pred.bt.10	able concentrate studies	0.6602
+654124	pred.bt.2	able concentrate studies	0.6602
+654124	pred.bt.3	able concentrate studies	0.6602
+654124	pred.bt.4	able concentrate studies	0.6602
+654124	pred.bt.5	able concentrate studies	0.6602
+654124	pred.bt.6	able concentrate studies	0.6602
+654124	pred.bt.7	able concentrate studies	0.6602
+654124	pred.bt.8	able concentrate studies	0.6602
+654124	pred.bt.9	able concentrate studies	0.6602
+667488	-1	how soon can you drive on a newly paved driveway?	0.5401
+667488	pred.bt.1	soon drive newly paved driveway	0.6591
+667488	pred.bt.10	soon drive newly paved driveway	0.6591
+667488	pred.bt.2	soon drive newly paved driveway	0.6591
+667488	pred.bt.3	soon drive newly paved driveway	0.6591
+667488	pred.bt.4	soon drive newly paved driveway	0.6591
+667488	pred.bt.5	soon drive newly paved driveway	0.6591
+667488	pred.bt.6	soon drive newly paved driveway	0.6591
+667488	pred.bt.7	soon drive newly paved driveway	0.6591
+667488	pred.bt.8	soon drive newly paved driveway	0.6591
+667488	pred.bt.9	soon drive newly paved driveway	0.6591
+676028	-1	why do our elected federal senators and congressmen not have to live on regular s.s. like the rest of us?	0.7032
+676028	pred.bt.1	why do our elected federal senators and congressmen not have to live on regular s.s. like the rest of us?	0.7032
+676028	pred.bt.10	why do our elected federal senators and congressmen not have to live on regular s.s. like the rest of us?	0.7032
+676028	pred.bt.2	why do our elected federal senators and congressmen not have to live on regular s.s. like the rest of us?	0.7032
+676028	pred.bt.3	why do our elected federal senators and congressmen not have to live on regular s.s. like the rest of us?	0.7032
+676028	pred.bt.4	why do our elected federal senators and congressmen not have to live on regular s.s. like the rest of us?	0.7032
+676028	pred.bt.5	why do our elected federal senators and congressmen not have to live on regular s.s. like the rest of us?	0.7032
+676028	pred.bt.6	why do our elected federal senators and congressmen not have to live on regular s.s. like the rest of us?	0.7032
+676028	pred.bt.7	why do our elected federal senators and congressmen not have to live on regular s.s. like the rest of us?	0.7032
+676028	pred.bt.8	why do our elected federal senators and congressmen not have to live on regular s.s. like the rest of us?	0.7032
+676028	pred.bt.9	why do our elected federal senators and congressmen not have to live on regular s.s. like the rest of us?	0.7032
+707303	-1	how do people get hiccups, what are they, and what exactly is the best way to cure them?	0.5712
+707303	pred.bt.1	people get hiccups exactly best way cure	0.8125
+707303	pred.bt.10	people get hiccups exactly best way cure	0.8125
+707303	pred.bt.2	people get hiccups exactly best way cure	0.8125
+707303	pred.bt.3	people get hiccups exactly best way cure	0.8125
+707303	pred.bt.4	people get hiccups exactly best way cure	0.8125
+707303	pred.bt.5	people get hiccups exactly best way cure	0.8125
+707303	pred.bt.6	people get hiccups exactly best way cure	0.8125
+707303	pred.bt.7	people get hiccups exactly best way cure	0.8125
+707303	pred.bt.8	people get hiccups exactly best way cure	0.8125
+707303	pred.bt.9	people get hiccups exactly best way cure	0.8125
+714612	-1	why doesn't the water fall off  earth if it's round?	0.6851
+714612	pred.bt.1	why doesnt the water fall off earth if its round?	0.6097
+714612	pred.bt.10	why doesnt the water fall off earth if its round?	0.6097
+714612	pred.bt.2	why doesnt the water fall off earth if its round?	0.6097
+714612	pred.bt.3	why doesnt the water fall off earth if its round?	0.6097
+714612	pred.bt.4	why doesnt the water fall off earth if its round?	0.6097
+714612	pred.bt.5	why doesnt the water fall off earth if its round?	0.6097
+714612	pred.bt.6	why doesnt the water fall off earth if its round?	0.6097
+714612	pred.bt.7	why doesnt the water fall off earth if its round?	0.6097
+714612	pred.bt.8	why doesnt the water fall off earth if its round?	0.6097
+714612	pred.bt.9	why doesnt the water fall off earth if its round?	0.6097
+746920	-1	how do you get rid of wart on your hand a using home method?	0.524
+746920	pred.bt.1	get rid wart hand using home method	0.6151
+746920	pred.bt.10	get rid wart hand using home method	0.6151
+746920	pred.bt.2	get rid wart hand using home method	0.6151
+746920	pred.bt.3	get rid wart hand using home method	0.6151
+746920	pred.bt.4	get rid wart hand using home method	0.6151
+746920	pred.bt.5	get rid wart hand using home method	0.6151
+746920	pred.bt.6	get rid wart hand using home method	0.6151
+746920	pred.bt.7	get rid wart hand using home method	0.6151
+746920	pred.bt.8	get rid wart hand using home method	0.6151
+746920	pred.bt.9	get rid wart hand using home method	0.6151
+761742	-1	how can i become a playa?	0.4813
+761742	pred.bt.1	become playa	0.5732
+761742	pred.bt.10	become playa	0.5732
+761742	pred.bt.2	become playa	0.5732
+761742	pred.bt.3	become playa	0.5732
+761742	pred.bt.4	become playa	0.5732
+761742	pred.bt.5	become playa	0.5732
+761742	pred.bt.6	become playa	0.5732
+761742	pred.bt.7	become playa	0.5732
+761742	pred.bt.8	become playa	0.5732
+761742	pred.bt.9	become playa	0.5732
+765138	-1	why does loving someone hurts like hell?	0.4322
+765138	pred.bt.1	loving someone hurts like hell	0.5174
+765138	pred.bt.10	loving someone hurts like hell	0.5174
+765138	pred.bt.2	loving someone hurts like hell	0.5174
+765138	pred.bt.3	loving someone hurts like hell	0.5174
+765138	pred.bt.4	loving someone hurts like hell	0.5174
+765138	pred.bt.5	loving someone hurts like hell	0.5174
+765138	pred.bt.6	loving someone hurts like hell	0.5174
+765138	pred.bt.7	loving someone hurts like hell	0.5174
+765138	pred.bt.8	loving someone hurts like hell	0.5174
+765138	pred.bt.9	loving someone hurts like hell	0.5174
+785823	-1	how is the library consider as a heart of university?	0.5127
+785823	pred.bt.1	library consider heart university	0.6084
+785823	pred.bt.10	library consider heart university	0.6084
+785823	pred.bt.2	library consider heart university	0.6084
+785823	pred.bt.3	library consider heart university	0.6084
+785823	pred.bt.4	library consider heart university	0.6084
+785823	pred.bt.5	library consider heart university	0.6084
+785823	pred.bt.6	library consider heart university	0.6084
+785823	pred.bt.7	library consider heart university	0.6084
+785823	pred.bt.8	library consider heart university	0.6084
+785823	pred.bt.9	library consider heart university	0.6084
+788976	-1	why did the bush admin cover up 9/11?	0.575
+788976	pred.bt.1	why did the bush admin cover up 9/11?	0.575
+788976	pred.bt.10	why did the bush admin cover up 9/11?	0.575
+788976	pred.bt.2	why did the bush admin cover up 9/11?	0.575
+788976	pred.bt.3	why did the bush admin cover up 9/11?	0.575
+788976	pred.bt.4	why did the bush admin cover up 9/11?	0.575
+788976	pred.bt.5	why did the bush admin cover up 9/11?	0.575
+788976	pred.bt.6	why did the bush admin cover up 9/11?	0.575
+788976	pred.bt.7	why did the bush admin cover up 9/11?	0.575
+788976	pred.bt.8	why did the bush admin cover up 9/11?	0.575
+788976	pred.bt.9	why did the bush admin cover up 9/11?	0.575
+821387	-1	i have mice.how do i get rid of them humanely?	0.0674
+821387	pred.bt.1	mice how get rid humanely	0.4227
+821387	pred.bt.10	mice how get rid humanely	0.4227
+821387	pred.bt.2	mice how get rid humanely	0.4227
+821387	pred.bt.3	mice how get rid humanely	0.4227
+821387	pred.bt.4	mice how get rid humanely	0.4227
+821387	pred.bt.5	mice how get rid humanely	0.4227
+821387	pred.bt.6	mice how get rid humanely	0.4227
+821387	pred.bt.7	mice how get rid humanely	0.4227
+821387	pred.bt.8	mice how get rid humanely	0.4227
+821387	pred.bt.9	mice how get rid humanely	0.4227
+823384	-1	why did the army have personal cuts in the mid 1990's?	0.4721
+823384	pred.bt.1	army personal cuts mid s	0.3901
+823384	pred.bt.10	army personal cuts mid s	0.3901
+823384	pred.bt.2	army personal cuts mid s	0.3901
+823384	pred.bt.3	army personal cuts mid s	0.3901
+823384	pred.bt.4	army personal cuts mid s	0.3901
+823384	pred.bt.5	army personal cuts mid s	0.3901
+823384	pred.bt.6	army personal cuts mid s	0.3901
+823384	pred.bt.7	army personal cuts mid s	0.3901
+823384	pred.bt.8	army personal cuts mid s	0.3901
+823384	pred.bt.9	army personal cuts mid s	0.3901
+849221	-1	when it comes to religion why dont people realize history repeats itself?	0.5459
+849221	pred.bt.1	when it comes to religion why dont people realize history repeats itself histori anymor tsk bibl chang repeat doe	0.5935
+849221	pred.bt.10	when it comes to religion why dont people realize history repeats itself histori anymor tsk bibl chang repeat doe	0.5935
+849221	pred.bt.2	when it comes to religion why dont people realize history repeats itself histori anymor tsk bibl chang repeat doe	0.5935
+849221	pred.bt.3	when it comes to religion why dont people realize history repeats itself histori anymor tsk bibl chang repeat doe	0.5935
+849221	pred.bt.4	when it comes to religion why dont people realize history repeats itself histori anymor tsk bibl chang repeat doe	0.5935
+849221	pred.bt.5	when it comes to religion why dont people realize history repeats itself histori anymor tsk bibl chang repeat doe	0.5935
+849221	pred.bt.6	when it comes to religion why dont people realize history repeats itself histori anymor tsk bibl chang repeat doe	0.5935
+849221	pred.bt.7	when it comes to religion why dont people realize history repeats itself histori anymor tsk bibl chang repeat doe	0.5935
+849221	pred.bt.8	when it comes to religion why dont people realize history repeats itself histori anymor tsk bibl chang repeat doe	0.5935
+849221	pred.bt.9	when it comes to religion why dont people realize history repeats itself histori anymor tsk bibl chang repeat doe	0.5935
+851124	-1	how is ego a part of our survival instincts?	0.6196
+851124	pred.bt.1	ego part survival instincts	0.6974
+851124	pred.bt.10	ego part survival instincts	0.6974
+851124	pred.bt.2	ego part survival instincts	0.6974
+851124	pred.bt.3	ego part survival instincts	0.6974
+851124	pred.bt.4	ego part survival instincts	0.6974
+851124	pred.bt.5	ego part survival instincts	0.6974
+851124	pred.bt.6	ego part survival instincts	0.6974
+851124	pred.bt.7	ego part survival instincts	0.6974
+851124	pred.bt.8	ego part survival instincts	0.6974
+851124	pred.bt.9	ego part survival instincts	0.6974
+896725	-1	what are some good exercises to get rid of those love handles?	0.4097
+896725	pred.bt.1	good exercises get rid love handles	0.5759
+896725	pred.bt.10	good exercises get rid love handles	0.5759
+896725	pred.bt.2	good exercises get rid love handles	0.5759
+896725	pred.bt.3	good exercises get rid love handles	0.5759
+896725	pred.bt.4	good exercises get rid love handles	0.5759
+896725	pred.bt.5	good exercises get rid love handles	0.5759
+896725	pred.bt.6	good exercises get rid love handles	0.5759
+896725	pred.bt.7	good exercises get rid love handles	0.5759
+896725	pred.bt.8	good exercises get rid love handles	0.5759
+896725	pred.bt.9	good exercises get rid love handles	0.5759
+922849	-1	why do some people take life so seriously?	0.3441
+922849	pred.bt.1	people take life seriously	0.5174
+922849	pred.bt.10	people take life seriously	0.5174
+922849	pred.bt.2	people take life seriously	0.5174
+922849	pred.bt.3	people take life seriously	0.5174
+922849	pred.bt.4	people take life seriously	0.5174
+922849	pred.bt.5	people take life seriously	0.5174
+922849	pred.bt.6	people take life seriously	0.5174
+922849	pred.bt.7	people take life seriously	0.5174
+922849	pred.bt.8	people take life seriously	0.5174
+922849	pred.bt.9	people take life seriously	0.5174
+949154	-1	can anybody tell me what is a butler?	0.3544
+949154	pred.bt.1	can anybody tell me what is a butler butler law you war alfr	0.5825
+949154	pred.bt.10	can anybody tell me what is a butler butler law you war alfr	0.5825
+949154	pred.bt.2	can anybody tell me what is a butler butler law you war alfr	0.5825
+949154	pred.bt.3	can anybody tell me what is a butler butler law you war alfr	0.5825
+949154	pred.bt.4	can anybody tell me what is a butler butler law you war alfr	0.5825
+949154	pred.bt.5	can anybody tell me what is a butler butler law you war alfr	0.5825
+949154	pred.bt.6	can anybody tell me what is a butler butler law you war alfr	0.5825
+949154	pred.bt.7	can anybody tell me what is a butler butler law you war alfr	0.5825
+949154	pred.bt.8	can anybody tell me what is a butler butler law you war alfr	0.5825
+949154	pred.bt.9	can anybody tell me what is a butler butler law you war alfr	0.5825
+953489	-1	why do i have to dumb myself down all the time though i am highly undereducated?	0.1463
+953489	pred.bt.1	dumb time though highly undereducated time magazine	0.0
+953489	pred.bt.10	dumb time though highly undereducated time magazine	0.0
+953489	pred.bt.2	dumb time though highly undereducated time magazine	0.0
+953489	pred.bt.3	dumb time though highly undereducated time magazine	0.0
+953489	pred.bt.4	dumb time though highly undereducated time magazine	0.0
+953489	pred.bt.5	dumb time though highly undereducated time magazine	0.0
+953489	pred.bt.6	dumb time though highly undereducated time magazine	0.0
+953489	pred.bt.7	dumb time though highly undereducated time magazine	0.0
+953489	pred.bt.8	dumb time though highly undereducated time magazine	0.0
+953489	pred.bt.9	dumb time though highly undereducated time magazine	0.0
+1015624	-1	what's the definition of a bloody mary?	0.7408
+1015624	pred.bt.1	whats the definition of a bloody mary?	0.7408
+1015624	pred.bt.10	whats the definition of a bloody mary?	0.7408
+1015624	pred.bt.2	whats the definition of a bloody mary?	0.7408
+1015624	pred.bt.3	whats the definition of a bloody mary?	0.7408
+1015624	pred.bt.4	whats the definition of a bloody mary?	0.7408
+1015624	pred.bt.5	whats the definition of a bloody mary?	0.7408
+1015624	pred.bt.6	whats the definition of a bloody mary?	0.7408
+1015624	pred.bt.7	whats the definition of a bloody mary?	0.7408
+1015624	pred.bt.8	whats the definition of a bloody mary?	0.7408
+1015624	pred.bt.9	whats the definition of a bloody mary?	0.7408
+1017690	-1	what is the history of indian music?	0.6874
+1017690	pred.bt.1	history indian music	0.729
+1017690	pred.bt.10	history indian music	0.729
+1017690	pred.bt.2	history indian music	0.729
+1017690	pred.bt.3	history indian music	0.729
+1017690	pred.bt.4	history indian music	0.729
+1017690	pred.bt.5	history indian music	0.729
+1017690	pred.bt.6	history indian music	0.729
+1017690	pred.bt.7	history indian music	0.729
+1017690	pred.bt.8	history indian music	0.729
+1017690	pred.bt.9	history indian music	0.729
+1035857	-1	why are liberals so quick to defend saddam?	0.544
+1035857	pred.bt.1	liberals quick defend saddam	0.6313
+1035857	pred.bt.10	liberals quick defend saddam	0.6313
+1035857	pred.bt.2	liberals quick defend saddam	0.6313
+1035857	pred.bt.3	liberals quick defend saddam	0.6313
+1035857	pred.bt.4	liberals quick defend saddam	0.6313
+1035857	pred.bt.5	liberals quick defend saddam	0.6313
+1035857	pred.bt.6	liberals quick defend saddam	0.6313
+1035857	pred.bt.7	liberals quick defend saddam	0.6313
+1035857	pred.bt.8	liberals quick defend saddam	0.6313
+1035857	pred.bt.9	liberals quick defend saddam	0.6313
+1063812	-1	how do i grow taller?	0.5694
+1063812	pred.bt.1	grow taller	0.5638
+1063812	pred.bt.10	grow taller	0.5638
+1063812	pred.bt.2	grow taller	0.5638
+1063812	pred.bt.3	grow taller	0.5638
+1063812	pred.bt.4	grow taller	0.5638
+1063812	pred.bt.5	grow taller	0.5638
+1063812	pred.bt.6	grow taller	0.5638
+1063812	pred.bt.7	grow taller	0.5638
+1063812	pred.bt.8	grow taller	0.5638
+1063812	pred.bt.9	grow taller	0.5638
+1077370	-1	why do only humans have finger prints?	0.6868
+1077370	pred.bt.1	humans finger prints	0.7206
+1077370	pred.bt.10	humans finger prints	0.7206
+1077370	pred.bt.2	humans finger prints	0.7206
+1077370	pred.bt.3	humans finger prints	0.7206
+1077370	pred.bt.4	humans finger prints	0.7206
+1077370	pred.bt.5	humans finger prints	0.7206
+1077370	pred.bt.6	humans finger prints	0.7206
+1077370	pred.bt.7	humans finger prints	0.7206
+1077370	pred.bt.8	humans finger prints	0.7206
+1077370	pred.bt.9	humans finger prints	0.7206
+1082595	-1	what is meant by mobile technology?	0.5763
+1082595	pred.bt.1	meant mobile technology ploughland meaned cell mobile river automotive technology	0.6975
+1082595	pred.bt.10	meant mobile technology ploughland meaned cell mobile river automotive technology	0.6975
+1082595	pred.bt.2	meant mobile technology ploughland meaned cell mobile river automotive technology	0.6975
+1082595	pred.bt.3	meant mobile technology ploughland meaned cell mobile river automotive technology	0.6975
+1082595	pred.bt.4	meant mobile technology ploughland meaned cell mobile river automotive technology	0.6975
+1082595	pred.bt.5	meant mobile technology ploughland meaned cell mobile river automotive technology	0.6975
+1082595	pred.bt.6	meant mobile technology ploughland meaned cell mobile river automotive technology	0.6975
+1082595	pred.bt.7	meant mobile technology ploughland meaned cell mobile river automotive technology	0.6975
+1082595	pred.bt.8	meant mobile technology ploughland meaned cell mobile river automotive technology	0.6975
+1082595	pred.bt.9	meant mobile technology ploughland meaned cell mobile river automotive technology	0.6975
+1119420	-1	well the black light is uv light.so if it is "black" how can it be "light" ?	0.7072
+1119420	pred.bt.1	well black light uv light so black light	0.7382
+1119420	pred.bt.10	well black light uv light so black light	0.7382
+1119420	pred.bt.2	well black light uv light so black light	0.7382
+1119420	pred.bt.3	well black light uv light so black light	0.7382
+1119420	pred.bt.4	well black light uv light so black light	0.7382
+1119420	pred.bt.5	well black light uv light so black light	0.7382
+1119420	pred.bt.6	well black light uv light so black light	0.7382
+1119420	pred.bt.7	well black light uv light so black light	0.7382
+1119420	pred.bt.8	well black light uv light so black light	0.7382
+1119420	pred.bt.9	well black light uv light so black light	0.7382
+1152934	-1	why don't fat people have to pay more for air travel?	0.2237
+1152934	pred.bt.1	why don t fat peopl hav to pay mor for air travel	0.4814
+1152934	pred.bt.10	why don t fat peopl hav to pay mor for air travel	0.4814
+1152934	pred.bt.2	why don t fat peopl hav to pay mor for air travel	0.4814
+1152934	pred.bt.3	why don t fat peopl hav to pay mor for air travel	0.4814
+1152934	pred.bt.4	why don t fat peopl hav to pay mor for air travel	0.4814
+1152934	pred.bt.5	why don t fat peopl hav to pay mor for air travel	0.4814
+1152934	pred.bt.6	why don t fat peopl hav to pay mor for air travel	0.4814
+1152934	pred.bt.7	why don t fat peopl hav to pay mor for air travel	0.4814
+1152934	pred.bt.8	why don t fat peopl hav to pay mor for air travel	0.4814
+1152934	pred.bt.9	why don t fat peopl hav to pay mor for air travel	0.4814
+1167882	-1	what are the different types of sins and how are they caused?	0.3019
+1167882	pred.bt.1	different types sins caused	0.4919
+1167882	pred.bt.10	different types sins caused	0.4919
+1167882	pred.bt.2	different types sins caused	0.4919
+1167882	pred.bt.3	different types sins caused	0.4919
+1167882	pred.bt.4	different types sins caused	0.4919
+1167882	pred.bt.5	different types sins caused	0.4919
+1167882	pred.bt.6	different types sins caused	0.4919
+1167882	pred.bt.7	different types sins caused	0.4919
+1167882	pred.bt.8	different types sins caused	0.4919
+1167882	pred.bt.9	different types sins caused	0.4919
+1199639	-1	how to "lose"all body fat ?	0.6702
+1199639	pred.bt.1	lose body fat	0.7661
+1199639	pred.bt.10	lose body fat	0.7661
+1199639	pred.bt.2	lose body fat	0.7661
+1199639	pred.bt.3	lose body fat	0.7661
+1199639	pred.bt.4	lose body fat	0.7661
+1199639	pred.bt.5	lose body fat	0.7661
+1199639	pred.bt.6	lose body fat	0.7661
+1199639	pred.bt.7	lose body fat	0.7661
+1199639	pred.bt.8	lose body fat	0.7661
+1199639	pred.bt.9	lose body fat	0.7661
+1254390	-1	how do i deap fry chicken?	0.4707
+1254390	pred.bt.1	how do i deap fri chicken	0.4464
+1254390	pred.bt.10	how do i deap fri chicken	0.4464
+1254390	pred.bt.2	how do i deap fri chicken	0.4464
+1254390	pred.bt.3	how do i deap fri chicken	0.4464
+1254390	pred.bt.4	how do i deap fri chicken	0.4464
+1254390	pred.bt.5	how do i deap fri chicken	0.4464
+1254390	pred.bt.6	how do i deap fri chicken	0.4464
+1254390	pred.bt.7	how do i deap fri chicken	0.4464
+1254390	pred.bt.8	how do i deap fri chicken	0.4464
+1254390	pred.bt.9	how do i deap fri chicken	0.4464
+1262692	-1	how can i get rid of pimples on my back?	0.4722
+1262692	pred.bt.1	get rid pimples back	0.5933
+1262692	pred.bt.10	get rid pimples back	0.5933
+1262692	pred.bt.2	get rid pimples back	0.5933
+1262692	pred.bt.3	get rid pimples back	0.5933
+1262692	pred.bt.4	get rid pimples back	0.5933
+1262692	pred.bt.5	get rid pimples back	0.5933
+1262692	pred.bt.6	get rid pimples back	0.5933
+1262692	pred.bt.7	get rid pimples back	0.5933
+1262692	pred.bt.8	get rid pimples back	0.5933
+1262692	pred.bt.9	get rid pimples back	0.5933
+1282199	-1	how can i hide the cuts on my wrists?	0.3831
+1282199	pred.bt.1	hide cuts wrists	0.561
+1282199	pred.bt.10	hide cuts wrists	0.561
+1282199	pred.bt.2	hide cuts wrists	0.561
+1282199	pred.bt.3	hide cuts wrists	0.561
+1282199	pred.bt.4	hide cuts wrists	0.561
+1282199	pred.bt.5	hide cuts wrists	0.561
+1282199	pred.bt.6	hide cuts wrists	0.561
+1282199	pred.bt.7	hide cuts wrists	0.561
+1282199	pred.bt.8	hide cuts wrists	0.561
+1282199	pred.bt.9	hide cuts wrists	0.561
+1287437	-1	how can i lose 30 pounds by june3?	0.5614
+1287437	pred.bt.1	how can i lose 30 pounds by june3?	0.5614
+1287437	pred.bt.10	how can i lose 30 pounds by june3?	0.5614
+1287437	pred.bt.2	how can i lose 30 pounds by june3?	0.5614
+1287437	pred.bt.3	how can i lose 30 pounds by june3?	0.5614
+1287437	pred.bt.4	how can i lose 30 pounds by june3?	0.5614
+1287437	pred.bt.5	how can i lose 30 pounds by june3?	0.5614
+1287437	pred.bt.6	how can i lose 30 pounds by june3?	0.5614
+1287437	pred.bt.7	how can i lose 30 pounds by june3?	0.5614
+1287437	pred.bt.8	how can i lose 30 pounds by june3?	0.5614
+1287437	pred.bt.9	how can i lose 30 pounds by june3?	0.5614
+1290612	-1	why do anxiety and depression seem to coexist?	0.6994
+1290612	pred.bt.1	anxiety depression seem coexist	0.7484
+1290612	pred.bt.10	anxiety depression seem coexist	0.7484
+1290612	pred.bt.2	anxiety depression seem coexist	0.7484
+1290612	pred.bt.3	anxiety depression seem coexist	0.7484
+1290612	pred.bt.4	anxiety depression seem coexist	0.7484
+1290612	pred.bt.5	anxiety depression seem coexist	0.7484
+1290612	pred.bt.6	anxiety depression seem coexist	0.7484
+1290612	pred.bt.7	anxiety depression seem coexist	0.7484
+1290612	pred.bt.8	anxiety depression seem coexist	0.7484
+1290612	pred.bt.9	anxiety depression seem coexist	0.7484
+1292734	-1	what color you like the most and why?	0.0993
+1292734	pred.bt.1	what color you like the most and why?	0.0993
+1292734	pred.bt.10	what color you like the most and why?	0.0993
+1292734	pred.bt.2	what color you like the most and why?	0.0993
+1292734	pred.bt.3	what color you like the most and why?	0.0993
+1292734	pred.bt.4	what color you like the most and why?	0.0993
+1292734	pred.bt.5	what color you like the most and why?	0.0993
+1292734	pred.bt.6	what color you like the most and why?	0.0993
+1292734	pred.bt.7	what color you like the most and why?	0.0993
+1292734	pred.bt.8	what color you like the most and why?	0.0993
+1292734	pred.bt.9	what color you like the most and why?	0.0993
+1340574	-1	why do some people only go to church on easter sunday and never go again until christmas ?	0.6639
+1340574	pred.bt.1	people go church easter sunday never go christmas	0.6717
+1340574	pred.bt.10	people go church easter sunday never go christmas	0.6717
+1340574	pred.bt.2	people go church easter sunday never go christmas	0.6717
+1340574	pred.bt.3	people go church easter sunday never go christmas	0.6717
+1340574	pred.bt.4	people go church easter sunday never go christmas	0.6717
+1340574	pred.bt.5	people go church easter sunday never go christmas	0.6717
+1340574	pred.bt.6	people go church easter sunday never go christmas	0.6717
+1340574	pred.bt.7	people go church easter sunday never go christmas	0.6717
+1340574	pred.bt.8	people go church easter sunday never go christmas	0.6717
+1340574	pred.bt.9	people go church easter sunday never go christmas	0.6717
+1351675	-1	why must i have an uncracked winshield in order to for my car to pass a safety inspeciton?	0.399
+1351675	pred.bt.1	must uncracked winshield order car pass safety inspeciton forward pass safety gridiron football position	0.4451
+1351675	pred.bt.10	must uncracked winshield order car pass safety inspeciton forward pass safety gridiron football position	0.4451
+1351675	pred.bt.2	must uncracked winshield order car pass safety inspeciton forward pass safety gridiron football position	0.4451
+1351675	pred.bt.3	must uncracked winshield order car pass safety inspeciton forward pass safety gridiron football position	0.4451
+1351675	pred.bt.4	must uncracked winshield order car pass safety inspeciton forward pass safety gridiron football position	0.4451
+1351675	pred.bt.5	must uncracked winshield order car pass safety inspeciton forward pass safety gridiron football position	0.4451
+1351675	pred.bt.6	must uncracked winshield order car pass safety inspeciton forward pass safety gridiron football position	0.4451
+1351675	pred.bt.7	must uncracked winshield order car pass safety inspeciton forward pass safety gridiron football position	0.4451
+1351675	pred.bt.8	must uncracked winshield order car pass safety inspeciton forward pass safety gridiron football position	0.4451
+1351675	pred.bt.9	must uncracked winshield order car pass safety inspeciton forward pass safety gridiron football position	0.4451
+1364894	-1	why do we need to tell customer service/operator about our sickness in order to make appointment w/ a doctor?	0.43
+1364894	pred.bt.1	why do we need to tell customer service operator about our sickness in order to make appointment w a doctor circumcis doctor i you appoint out custom	0.6403
+1364894	pred.bt.10	why do we need to tell customer service operator about our sickness in order to make appointment w a doctor circumcis doctor i you appoint out custom	0.6403
+1364894	pred.bt.2	why do we need to tell customer service operator about our sickness in order to make appointment w a doctor circumcis doctor i you appoint out custom	0.6403
+1364894	pred.bt.3	why do we need to tell customer service operator about our sickness in order to make appointment w a doctor circumcis doctor i you appoint out custom	0.6403
+1364894	pred.bt.4	why do we need to tell customer service operator about our sickness in order to make appointment w a doctor circumcis doctor i you appoint out custom	0.6403
+1364894	pred.bt.5	why do we need to tell customer service operator about our sickness in order to make appointment w a doctor circumcis doctor i you appoint out custom	0.6403
+1364894	pred.bt.6	why do we need to tell customer service operator about our sickness in order to make appointment w a doctor circumcis doctor i you appoint out custom	0.6403
+1364894	pred.bt.7	why do we need to tell customer service operator about our sickness in order to make appointment w a doctor circumcis doctor i you appoint out custom	0.6403
+1364894	pred.bt.8	why do we need to tell customer service operator about our sickness in order to make appointment w a doctor circumcis doctor i you appoint out custom	0.6403
+1364894	pred.bt.9	why do we need to tell customer service operator about our sickness in order to make appointment w a doctor circumcis doctor i you appoint out custom	0.6403
+1373069	-1	freedom of speech - why don't people understand how to use it?	0.5409
+1373069	pred.bt.1	freedom speech n t people understand use	0.6225
+1373069	pred.bt.10	freedom speech n t people understand use	0.6225
+1373069	pred.bt.2	freedom speech n t people understand use	0.6225
+1373069	pred.bt.3	freedom speech n t people understand use	0.6225
+1373069	pred.bt.4	freedom speech n t people understand use	0.6225
+1373069	pred.bt.5	freedom speech n t people understand use	0.6225
+1373069	pred.bt.6	freedom speech n t people understand use	0.6225
+1373069	pred.bt.7	freedom speech n t people understand use	0.6225
+1373069	pred.bt.8	freedom speech n t people understand use	0.6225
+1373069	pred.bt.9	freedom speech n t people understand use	0.6225
+1459749	-1	why don't i have an asthma attack during sex?	0.4981
+1459749	pred.bt.1	whi don t i have an asthma attack dure sex	0.5355
+1459749	pred.bt.10	whi don t i have an asthma attack dure sex	0.5355
+1459749	pred.bt.2	whi don t i have an asthma attack dure sex	0.5355
+1459749	pred.bt.3	whi don t i have an asthma attack dure sex	0.5355
+1459749	pred.bt.4	whi don t i have an asthma attack dure sex	0.5355
+1459749	pred.bt.5	whi don t i have an asthma attack dure sex	0.5355
+1459749	pred.bt.6	whi don t i have an asthma attack dure sex	0.5355
+1459749	pred.bt.7	whi don t i have an asthma attack dure sex	0.5355
+1459749	pred.bt.8	whi don t i have an asthma attack dure sex	0.5355
+1459749	pred.bt.9	whi don t i have an asthma attack dure sex	0.5355
+1477322	-1	why do people say germans are racists?	0.3655
+1477322	pred.bt.1	people say germans racists axay  ⁇  sadrnezhaad	0.5406
+1477322	pred.bt.10	people say germans racists axay  ⁇  sadrnezhaad	0.5406
+1477322	pred.bt.2	people say germans racists axay  ⁇  sadrnezhaad	0.5406
+1477322	pred.bt.3	people say germans racists axay  ⁇  sadrnezhaad	0.5406
+1477322	pred.bt.4	people say germans racists axay  ⁇  sadrnezhaad	0.5406
+1477322	pred.bt.5	people say germans racists axay  ⁇  sadrnezhaad	0.5406
+1477322	pred.bt.6	people say germans racists axay  ⁇  sadrnezhaad	0.5406
+1477322	pred.bt.7	people say germans racists axay  ⁇  sadrnezhaad	0.5406
+1477322	pred.bt.8	people say germans racists axay  ⁇  sadrnezhaad	0.5406
+1477322	pred.bt.9	people say germans racists axay  ⁇  sadrnezhaad	0.5406
+1502604	-1	how do crooks  make  fake   passports  ?	0.5501
+1502604	pred.bt.1	crooks make fake passports	0.6128
+1502604	pred.bt.10	crooks make fake passports	0.6128
+1502604	pred.bt.2	crooks make fake passports	0.6128
+1502604	pred.bt.3	crooks make fake passports	0.6128
+1502604	pred.bt.4	crooks make fake passports	0.6128
+1502604	pred.bt.5	crooks make fake passports	0.6128
+1502604	pred.bt.6	crooks make fake passports	0.6128
+1502604	pred.bt.7	crooks make fake passports	0.6128
+1502604	pred.bt.8	crooks make fake passports	0.6128
+1502604	pred.bt.9	crooks make fake passports	0.6128
+1509982	-1	how is th chemistry is a basic of science?	0.8008
+1509982	pred.bt.1	th chemistry basic science	0.8235
+1509982	pred.bt.10	th chemistry basic science	0.8235
+1509982	pred.bt.2	th chemistry basic science	0.8235
+1509982	pred.bt.3	th chemistry basic science	0.8235
+1509982	pred.bt.4	th chemistry basic science	0.8235
+1509982	pred.bt.5	th chemistry basic science	0.8235
+1509982	pred.bt.6	th chemistry basic science	0.8235
+1509982	pred.bt.7	th chemistry basic science	0.8235
+1509982	pred.bt.8	th chemistry basic science	0.8235
+1509982	pred.bt.9	th chemistry basic science	0.8235
+1582877	-1	why do we go to school if in the real world we dont use most of it?	0.3136
+1582877	pred.bt.1	go school real world dont use	0.4395
+1582877	pred.bt.10	go school real world dont use	0.4395
+1582877	pred.bt.2	go school real world dont use	0.4395
+1582877	pred.bt.3	go school real world dont use	0.4395
+1582877	pred.bt.4	go school real world dont use	0.4395
+1582877	pred.bt.5	go school real world dont use	0.4395
+1582877	pred.bt.6	go school real world dont use	0.4395
+1582877	pred.bt.7	go school real world dont use	0.4395
+1582877	pred.bt.8	go school real world dont use	0.4395
+1582877	pred.bt.9	go school real world dont use	0.4395
+1607728	-1	what causes gray facial hair in men?	0.7068
+1607728	pred.bt.1	what caus grai facial hair in men	0.6618
+1607728	pred.bt.10	what caus grai facial hair in men	0.6618
+1607728	pred.bt.2	what caus grai facial hair in men	0.6618
+1607728	pred.bt.3	what caus grai facial hair in men	0.6618
+1607728	pred.bt.4	what caus grai facial hair in men	0.6618
+1607728	pred.bt.5	what caus grai facial hair in men	0.6618
+1607728	pred.bt.6	what caus grai facial hair in men	0.6618
+1607728	pred.bt.7	what caus grai facial hair in men	0.6618
+1607728	pred.bt.8	what caus grai facial hair in men	0.6618
+1607728	pred.bt.9	what caus grai facial hair in men	0.6618
+1623623	-1	how do you improve fuel efficiency of a 2004, ford ikon?	0.6172
+1623623	pred.bt.1	how do you improve fuel efficiency of a 2004, ford ikon?	0.6172
+1623623	pred.bt.10	how do you improve fuel efficiency of a 2004, ford ikon?	0.6172
+1623623	pred.bt.2	how do you improve fuel efficiency of a 2004, ford ikon?	0.6172
+1623623	pred.bt.3	how do you improve fuel efficiency of a 2004, ford ikon?	0.6172
+1623623	pred.bt.4	how do you improve fuel efficiency of a 2004, ford ikon?	0.6172
+1623623	pred.bt.5	how do you improve fuel efficiency of a 2004, ford ikon?	0.6172
+1623623	pred.bt.6	how do you improve fuel efficiency of a 2004, ford ikon?	0.6172
+1623623	pred.bt.7	how do you improve fuel efficiency of a 2004, ford ikon?	0.6172
+1623623	pred.bt.8	how do you improve fuel efficiency of a 2004, ford ikon?	0.6172
+1623623	pred.bt.9	how do you improve fuel efficiency of a 2004, ford ikon?	0.6172
+1663853	-1	what is a wet dream?	0.6934
+1663853	pred.bt.1	wet dream	0.7714
+1663853	pred.bt.10	wet dream	0.7714
+1663853	pred.bt.2	wet dream	0.7714
+1663853	pred.bt.3	wet dream	0.7714
+1663853	pred.bt.4	wet dream	0.7714
+1663853	pred.bt.5	wet dream	0.7714
+1663853	pred.bt.6	wet dream	0.7714
+1663853	pred.bt.7	wet dream	0.7714
+1663853	pred.bt.8	wet dream	0.7714
+1663853	pred.bt.9	wet dream	0.7714
+1702151	-1	how patient a driver are you?	0.3
+1702151	pred.bt.1	patient driver	0.4006
+1702151	pred.bt.10	patient driver	0.4006
+1702151	pred.bt.2	patient driver	0.4006
+1702151	pred.bt.3	patient driver	0.4006
+1702151	pred.bt.4	patient driver	0.4006
+1702151	pred.bt.5	patient driver	0.4006
+1702151	pred.bt.6	patient driver	0.4006
+1702151	pred.bt.7	patient driver	0.4006
+1702151	pred.bt.8	patient driver	0.4006
+1702151	pred.bt.9	patient driver	0.4006
+1783010	-1	what is blaphsemy?	0.048
+1783010	pred.bt.1	what is blaphsemy?	0.048
+1783010	pred.bt.10	what is blaphsemy?	0.048
+1783010	pred.bt.2	what is blaphsemy?	0.048
+1783010	pred.bt.3	what is blaphsemy?	0.048
+1783010	pred.bt.4	what is blaphsemy?	0.048
+1783010	pred.bt.5	what is blaphsemy?	0.048
+1783010	pred.bt.6	what is blaphsemy?	0.048
+1783010	pred.bt.7	what is blaphsemy?	0.048
+1783010	pred.bt.8	what is blaphsemy?	0.048
+1783010	pred.bt.9	what is blaphsemy?	0.048
+1794677	-1	how can i treat my acne scars?	0.7133
+1794677	pred.bt.1	treat acne scars	0.7594
+1794677	pred.bt.10	treat acne scars	0.7594
+1794677	pred.bt.2	treat acne scars	0.7594
+1794677	pred.bt.3	treat acne scars	0.7594
+1794677	pred.bt.4	treat acne scars	0.7594
+1794677	pred.bt.5	treat acne scars	0.7594
+1794677	pred.bt.6	treat acne scars	0.7594
+1794677	pred.bt.7	treat acne scars	0.7594
+1794677	pred.bt.8	treat acne scars	0.7594
+1794677	pred.bt.9	treat acne scars	0.7594
+1821193	-1	why do people feed poison (sugar) to their kids on easter, and why are there no chocolate jesuses?	0.3182
+1821193	pred.bt.1	people feed poison sugar kids easter chocolate jesuses lime linden honky tonk wwor methyl phenyl tetrahydropyridine poisoning neurotoxic effect dicyandiamid sugariin tamanua navu	0.4238
+1821193	pred.bt.10	people feed poison sugar kids easter chocolate jesuses lime linden honky tonk wwor methyl phenyl tetrahydropyridine poisoning neurotoxic effect dicyandiamid sugariin tamanua navu	0.4238
+1821193	pred.bt.2	people feed poison sugar kids easter chocolate jesuses lime linden honky tonk wwor methyl phenyl tetrahydropyridine poisoning neurotoxic effect dicyandiamid sugariin tamanua navu	0.4238
+1821193	pred.bt.3	people feed poison sugar kids easter chocolate jesuses lime linden honky tonk wwor methyl phenyl tetrahydropyridine poisoning neurotoxic effect dicyandiamid sugariin tamanua navu	0.4238
+1821193	pred.bt.4	people feed poison sugar kids easter chocolate jesuses lime linden honky tonk wwor methyl phenyl tetrahydropyridine poisoning neurotoxic effect dicyandiamid sugariin tamanua navu	0.4238
+1821193	pred.bt.5	people feed poison sugar kids easter chocolate jesuses lime linden honky tonk wwor methyl phenyl tetrahydropyridine poisoning neurotoxic effect dicyandiamid sugariin tamanua navu	0.4238
+1821193	pred.bt.6	people feed poison sugar kids easter chocolate jesuses lime linden honky tonk wwor methyl phenyl tetrahydropyridine poisoning neurotoxic effect dicyandiamid sugariin tamanua navu	0.4238
+1821193	pred.bt.7	people feed poison sugar kids easter chocolate jesuses lime linden honky tonk wwor methyl phenyl tetrahydropyridine poisoning neurotoxic effect dicyandiamid sugariin tamanua navu	0.4238
+1821193	pred.bt.8	people feed poison sugar kids easter chocolate jesuses lime linden honky tonk wwor methyl phenyl tetrahydropyridine poisoning neurotoxic effect dicyandiamid sugariin tamanua navu	0.4238
+1821193	pred.bt.9	people feed poison sugar kids easter chocolate jesuses lime linden honky tonk wwor methyl phenyl tetrahydropyridine poisoning neurotoxic effect dicyandiamid sugariin tamanua navu	0.4238
+1844896	-1	how to cook angus burgers?	0.7857
+1844896	pred.bt.1	cook angus burgers make manipulate captain cook aberdeen angus black angus aengus warren earl burger warren e burger	0.7739
+1844896	pred.bt.10	cook angus burgers make manipulate captain cook aberdeen angus black angus aengus warren earl burger warren e burger	0.7739
+1844896	pred.bt.2	cook angus burgers make manipulate captain cook aberdeen angus black angus aengus warren earl burger warren e burger	0.7739
+1844896	pred.bt.3	cook angus burgers make manipulate captain cook aberdeen angus black angus aengus warren earl burger warren e burger	0.7739
+1844896	pred.bt.4	cook angus burgers make manipulate captain cook aberdeen angus black angus aengus warren earl burger warren e burger	0.7739
+1844896	pred.bt.5	cook angus burgers make manipulate captain cook aberdeen angus black angus aengus warren earl burger warren e burger	0.7739
+1844896	pred.bt.6	cook angus burgers make manipulate captain cook aberdeen angus black angus aengus warren earl burger warren e burger	0.7739
+1844896	pred.bt.7	cook angus burgers make manipulate captain cook aberdeen angus black angus aengus warren earl burger warren e burger	0.7739
+1844896	pred.bt.8	cook angus burgers make manipulate captain cook aberdeen angus black angus aengus warren earl burger warren e burger	0.7739
+1844896	pred.bt.9	cook angus burgers make manipulate captain cook aberdeen angus black angus aengus warren earl burger warren e burger	0.7739
+1850323	-1	why some men never wash their hands after using the urinal/toilet?	0.4973
+1850323	pred.bt.1	men never wash hands using urinal toilet	0.5184
+1850323	pred.bt.10	men never wash hands using urinal toilet	0.5184
+1850323	pred.bt.2	men never wash hands using urinal toilet	0.5184
+1850323	pred.bt.3	men never wash hands using urinal toilet	0.5184
+1850323	pred.bt.4	men never wash hands using urinal toilet	0.5184
+1850323	pred.bt.5	men never wash hands using urinal toilet	0.5184
+1850323	pred.bt.6	men never wash hands using urinal toilet	0.5184
+1850323	pred.bt.7	men never wash hands using urinal toilet	0.5184
+1850323	pred.bt.8	men never wash hands using urinal toilet	0.5184
+1850323	pred.bt.9	men never wash hands using urinal toilet	0.5184
+1862795	-1	how does spending prolonged time in microgravity affect the bodies of astronauts?	0.3583
+1862795	pred.bt.1	spending prolonged time microgravity affect bodies astronauts	0.5884
+1862795	pred.bt.10	spending prolonged time microgravity affect bodies astronauts	0.5884
+1862795	pred.bt.2	spending prolonged time microgravity affect bodies astronauts	0.5884
+1862795	pred.bt.3	spending prolonged time microgravity affect bodies astronauts	0.5884
+1862795	pred.bt.4	spending prolonged time microgravity affect bodies astronauts	0.5884
+1862795	pred.bt.5	spending prolonged time microgravity affect bodies astronauts	0.5884
+1862795	pred.bt.6	spending prolonged time microgravity affect bodies astronauts	0.5884
+1862795	pred.bt.7	spending prolonged time microgravity affect bodies astronauts	0.5884
+1862795	pred.bt.8	spending prolonged time microgravity affect bodies astronauts	0.5884
+1862795	pred.bt.9	spending prolonged time microgravity affect bodies astronauts	0.5884
+1866981	-1	i know how i got here, but how did you?	0.1413
+1866981	pred.bt.1	know got	0.1459
+1866981	pred.bt.10	know got	0.1459
+1866981	pred.bt.2	know got	0.1459
+1866981	pred.bt.3	know got	0.1459
+1866981	pred.bt.4	know got	0.1459
+1866981	pred.bt.5	know got	0.1459
+1866981	pred.bt.6	know got	0.1459
+1866981	pred.bt.7	know got	0.1459
+1866981	pred.bt.8	know got	0.1459
+1866981	pred.bt.9	know got	0.1459
+1880028	-1	what does "see leaflet" mean on ept pregnancy test?	0.7117
+1880028	pred.bt.1	see leaflet mean ept pregnancy test	0.7338
+1880028	pred.bt.10	see leaflet mean ept pregnancy test	0.7338
+1880028	pred.bt.2	see leaflet mean ept pregnancy test	0.7338
+1880028	pred.bt.3	see leaflet mean ept pregnancy test	0.7338
+1880028	pred.bt.4	see leaflet mean ept pregnancy test	0.7338
+1880028	pred.bt.5	see leaflet mean ept pregnancy test	0.7338
+1880028	pred.bt.6	see leaflet mean ept pregnancy test	0.7338
+1880028	pred.bt.7	see leaflet mean ept pregnancy test	0.7338
+1880028	pred.bt.8	see leaflet mean ept pregnancy test	0.7338
+1880028	pred.bt.9	see leaflet mean ept pregnancy test	0.7338
+1937374	-1	how to get 277 v ac ?	0.6277
+1937374	pred.bt.1	receive v ac	0.7128
+1937374	pred.bt.10	receive v ac	0.7128
+1937374	pred.bt.2	receive v ac	0.7128
+1937374	pred.bt.3	receive v ac	0.7128
+1937374	pred.bt.4	receive v ac	0.7128
+1937374	pred.bt.5	receive v ac	0.7128
+1937374	pred.bt.6	receive v ac	0.7128
+1937374	pred.bt.7	receive v ac	0.7128
+1937374	pred.bt.8	receive v ac	0.7128
+1937374	pred.bt.9	receive v ac	0.7128
+1944018	-1	why can't teenagers vote?	0.1439
+1944018	pred.bt.1	whi can t teenag vote	0.314
+1944018	pred.bt.10	whi can t teenag vote	0.314
+1944018	pred.bt.2	whi can t teenag vote	0.314
+1944018	pred.bt.3	whi can t teenag vote	0.314
+1944018	pred.bt.4	whi can t teenag vote	0.314
+1944018	pred.bt.5	whi can t teenag vote	0.314
+1944018	pred.bt.6	whi can t teenag vote	0.314
+1944018	pred.bt.7	whi can t teenag vote	0.314
+1944018	pred.bt.8	whi can t teenag vote	0.314
+1944018	pred.bt.9	whi can t teenag vote	0.314
+1957887	-1	how can i hunt down and punch the people that keep spamming me?	0.3432
+1957887	pred.bt.1	hunt punch people keep spamming	0.4271
+1957887	pred.bt.10	hunt punch people keep spamming	0.4271
+1957887	pred.bt.2	hunt punch people keep spamming	0.4271
+1957887	pred.bt.3	hunt punch people keep spamming	0.4271
+1957887	pred.bt.4	hunt punch people keep spamming	0.4271
+1957887	pred.bt.5	hunt punch people keep spamming	0.4271
+1957887	pred.bt.6	hunt punch people keep spamming	0.4271
+1957887	pred.bt.7	hunt punch people keep spamming	0.4271
+1957887	pred.bt.8	hunt punch people keep spamming	0.4271
+1957887	pred.bt.9	hunt punch people keep spamming	0.4271
+1964316	-1	what do you mean by "weed"?	0.3902
+1964316	pred.bt.1	mean weed	0.7103
+1964316	pred.bt.10	mean weed	0.7103
+1964316	pred.bt.2	mean weed	0.7103
+1964316	pred.bt.3	mean weed	0.7103
+1964316	pred.bt.4	mean weed	0.7103
+1964316	pred.bt.5	mean weed	0.7103
+1964316	pred.bt.6	mean weed	0.7103
+1964316	pred.bt.7	mean weed	0.7103
+1964316	pred.bt.8	mean weed	0.7103
+1964316	pred.bt.9	mean weed	0.7103
+1968489	-1	which auto insurance do you use and why?	0.554
+1968489	pred.bt.1	auto insurance use	0.5602
+1968489	pred.bt.10	auto insurance use	0.5602
+1968489	pred.bt.2	auto insurance use	0.5602
+1968489	pred.bt.3	auto insurance use	0.5602
+1968489	pred.bt.4	auto insurance use	0.5602
+1968489	pred.bt.5	auto insurance use	0.5602
+1968489	pred.bt.6	auto insurance use	0.5602
+1968489	pred.bt.7	auto insurance use	0.5602
+1968489	pred.bt.8	auto insurance use	0.5602
+1968489	pred.bt.9	auto insurance use	0.5602
+1971899	-1	what is masturbat***?	0.2195
+1971899	pred.bt.1	what is masturbat***?	0.2195
+1971899	pred.bt.10	what is masturbat***?	0.2195
+1971899	pred.bt.2	what is masturbat***?	0.2195
+1971899	pred.bt.3	what is masturbat***?	0.2195
+1971899	pred.bt.4	what is masturbat***?	0.2195
+1971899	pred.bt.5	what is masturbat***?	0.2195
+1971899	pred.bt.6	what is masturbat***?	0.2195
+1971899	pred.bt.7	what is masturbat***?	0.2195
+1971899	pred.bt.8	what is masturbat***?	0.2195
+1971899	pred.bt.9	what is masturbat***?	0.2195
+1977054	-1	couscous is a food from what origin?	0.5444
+1977054	pred.bt.1	couscous food origin	0.5684
+1977054	pred.bt.10	couscous food origin	0.5684
+1977054	pred.bt.2	couscous food origin	0.5684
+1977054	pred.bt.3	couscous food origin	0.5684
+1977054	pred.bt.4	couscous food origin	0.5684
+1977054	pred.bt.5	couscous food origin	0.5684
+1977054	pred.bt.6	couscous food origin	0.5684
+1977054	pred.bt.7	couscous food origin	0.5684
+1977054	pred.bt.8	couscous food origin	0.5684
+1977054	pred.bt.9	couscous food origin	0.5684
+2008017	-1	why do black people like fried chicken somuch?	0.6203
+2008017	pred.bt.1	black people like fried chicken somuch thousand beautiful things dark road song pavement cracks annie lennox song follow melanic song singer albums m latino singer black african people whitpeople negro black people chicken fingers list sandwiches ribs food fried chicken	0.7074
+2008017	pred.bt.10	black people like fried chicken somuch thousand beautiful things dark road song pavement cracks annie lennox song follow melanic song singer albums m latino singer black african people whitpeople negro black people chicken fingers list sandwiches ribs food fried chicken	0.7074
+2008017	pred.bt.2	black people like fried chicken somuch thousand beautiful things dark road song pavement cracks annie lennox song follow melanic song singer albums m latino singer black african people whitpeople negro black people chicken fingers list sandwiches ribs food fried chicken	0.7074
+2008017	pred.bt.3	black people like fried chicken somuch thousand beautiful things dark road song pavement cracks annie lennox song follow melanic song singer albums m latino singer black african people whitpeople negro black people chicken fingers list sandwiches ribs food fried chicken	0.7074
+2008017	pred.bt.4	black people like fried chicken somuch thousand beautiful things dark road song pavement cracks annie lennox song follow melanic song singer albums m latino singer black african people whitpeople negro black people chicken fingers list sandwiches ribs food fried chicken	0.7074
+2008017	pred.bt.5	black people like fried chicken somuch thousand beautiful things dark road song pavement cracks annie lennox song follow melanic song singer albums m latino singer black african people whitpeople negro black people chicken fingers list sandwiches ribs food fried chicken	0.7074
+2008017	pred.bt.6	black people like fried chicken somuch thousand beautiful things dark road song pavement cracks annie lennox song follow melanic song singer albums m latino singer black african people whitpeople negro black people chicken fingers list sandwiches ribs food fried chicken	0.7074
+2008017	pred.bt.7	black people like fried chicken somuch thousand beautiful things dark road song pavement cracks annie lennox song follow melanic song singer albums m latino singer black african people whitpeople negro black people chicken fingers list sandwiches ribs food fried chicken	0.7074
+2008017	pred.bt.8	black people like fried chicken somuch thousand beautiful things dark road song pavement cracks annie lennox song follow melanic song singer albums m latino singer black african people whitpeople negro black people chicken fingers list sandwiches ribs food fried chicken	0.7074
+2008017	pred.bt.9	black people like fried chicken somuch thousand beautiful things dark road song pavement cracks annie lennox song follow melanic song singer albums m latino singer black african people whitpeople negro black people chicken fingers list sandwiches ribs food fried chicken	0.7074
+2018562	-1	why does my black lab howl to "law and order" theme song?	0.7312
+2018562	pred.bt.1	whi doe my black lab howl to law and order theme song	0.7322
+2018562	pred.bt.10	whi doe my black lab howl to law and order theme song	0.7322
+2018562	pred.bt.2	whi doe my black lab howl to law and order theme song	0.7322
+2018562	pred.bt.3	whi doe my black lab howl to law and order theme song	0.7322
+2018562	pred.bt.4	whi doe my black lab howl to law and order theme song	0.7322
+2018562	pred.bt.5	whi doe my black lab howl to law and order theme song	0.7322
+2018562	pred.bt.6	whi doe my black lab howl to law and order theme song	0.7322
+2018562	pred.bt.7	whi doe my black lab howl to law and order theme song	0.7322
+2018562	pred.bt.8	whi doe my black lab howl to law and order theme song	0.7322
+2018562	pred.bt.9	whi doe my black lab howl to law and order theme song	0.7322
+2142044	-1	what do you speculate happened to natalie holloway in aruba?	0.5155
+2142044	pred.bt.1	speculate happened natalie holloway aruba beth holloway aruba	0.5351
+2142044	pred.bt.10	speculate happened natalie holloway aruba beth holloway aruba	0.5351
+2142044	pred.bt.2	speculate happened natalie holloway aruba beth holloway aruba	0.5351
+2142044	pred.bt.3	speculate happened natalie holloway aruba beth holloway aruba	0.5351
+2142044	pred.bt.4	speculate happened natalie holloway aruba beth holloway aruba	0.5351
+2142044	pred.bt.5	speculate happened natalie holloway aruba beth holloway aruba	0.5351
+2142044	pred.bt.6	speculate happened natalie holloway aruba beth holloway aruba	0.5351
+2142044	pred.bt.7	speculate happened natalie holloway aruba beth holloway aruba	0.5351
+2142044	pred.bt.8	speculate happened natalie holloway aruba beth holloway aruba	0.5351
+2142044	pred.bt.9	speculate happened natalie holloway aruba beth holloway aruba	0.5351
+2180086	-1	what are mormens?	0.1701
+2180086	pred.bt.1	what are mormens?	0.1701
+2180086	pred.bt.10	what are mormens?	0.1701
+2180086	pred.bt.2	what are mormens?	0.1701
+2180086	pred.bt.3	what are mormens?	0.1701
+2180086	pred.bt.4	what are mormens?	0.1701
+2180086	pred.bt.5	what are mormens?	0.1701
+2180086	pred.bt.6	what are mormens?	0.1701
+2180086	pred.bt.7	what are mormens?	0.1701
+2180086	pred.bt.8	what are mormens?	0.1701
+2180086	pred.bt.9	what are mormens?	0.1701
+2182052	-1	why is lemonade at restaurants sometimes different?	0.7477
+2182052	pred.bt.1	lemonade restaurants sometimes different	0.7829
+2182052	pred.bt.10	lemonade restaurants sometimes different	0.7829
+2182052	pred.bt.2	lemonade restaurants sometimes different	0.7829
+2182052	pred.bt.3	lemonade restaurants sometimes different	0.7829
+2182052	pred.bt.4	lemonade restaurants sometimes different	0.7829
+2182052	pred.bt.5	lemonade restaurants sometimes different	0.7829
+2182052	pred.bt.6	lemonade restaurants sometimes different	0.7829
+2182052	pred.bt.7	lemonade restaurants sometimes different	0.7829
+2182052	pred.bt.8	lemonade restaurants sometimes different	0.7829
+2182052	pred.bt.9	lemonade restaurants sometimes different	0.7829
+2192891	-1	how are braces put on and do they hurt a lot?	0.5751
+2192891	pred.bt.1	braces put hurt lot	0.6249
+2192891	pred.bt.10	braces put hurt lot	0.6249
+2192891	pred.bt.2	braces put hurt lot	0.6249
+2192891	pred.bt.3	braces put hurt lot	0.6249
+2192891	pred.bt.4	braces put hurt lot	0.6249
+2192891	pred.bt.5	braces put hurt lot	0.6249
+2192891	pred.bt.6	braces put hurt lot	0.6249
+2192891	pred.bt.7	braces put hurt lot	0.6249
+2192891	pred.bt.8	braces put hurt lot	0.6249
+2192891	pred.bt.9	braces put hurt lot	0.6249
+2290758	-1	why do people ask questions they know?	0.1261
+2290758	pred.bt.1	people ask questions know	0.5605
+2290758	pred.bt.10	people ask questions know	0.5605
+2290758	pred.bt.2	people ask questions know	0.5605
+2290758	pred.bt.3	people ask questions know	0.5605
+2290758	pred.bt.4	people ask questions know	0.5605
+2290758	pred.bt.5	people ask questions know	0.5605
+2290758	pred.bt.6	people ask questions know	0.5605
+2290758	pred.bt.7	people ask questions know	0.5605
+2290758	pred.bt.8	people ask questions know	0.5605
+2290758	pred.bt.9	people ask questions know	0.5605
+2291272	-1	how is catholicism not christianity?	0.58
+2291272	pred.bt.1	how is catholicism not christianity?	0.58
+2291272	pred.bt.10	how is catholicism not christianity?	0.58
+2291272	pred.bt.2	how is catholicism not christianity?	0.58
+2291272	pred.bt.3	how is catholicism not christianity?	0.58
+2291272	pred.bt.4	how is catholicism not christianity?	0.58
+2291272	pred.bt.5	how is catholicism not christianity?	0.58
+2291272	pred.bt.6	how is catholicism not christianity?	0.58
+2291272	pred.bt.7	how is catholicism not christianity?	0.58
+2291272	pred.bt.8	how is catholicism not christianity?	0.58
+2291272	pred.bt.9	how is catholicism not christianity?	0.58
+2307305	-1	why do man rape little girls?	0.5423
+2307305	pred.bt.1	man rape little girls	0.6524
+2307305	pred.bt.10	man rape little girls	0.6524
+2307305	pred.bt.2	man rape little girls	0.6524
+2307305	pred.bt.3	man rape little girls	0.6524
+2307305	pred.bt.4	man rape little girls	0.6524
+2307305	pred.bt.5	man rape little girls	0.6524
+2307305	pred.bt.6	man rape little girls	0.6524
+2307305	pred.bt.7	man rape little girls	0.6524
+2307305	pred.bt.8	man rape little girls	0.6524
+2307305	pred.bt.9	man rape little girls	0.6524
+2309774	-1	why do i keep seeing people on here 'dissing' on the soldiers in iraq?	0.4958
+2309774	pred.bt.1	keep seeing people dissing soldiers iraq	0.6144
+2309774	pred.bt.10	keep seeing people dissing soldiers iraq	0.6144
+2309774	pred.bt.2	keep seeing people dissing soldiers iraq	0.6144
+2309774	pred.bt.3	keep seeing people dissing soldiers iraq	0.6144
+2309774	pred.bt.4	keep seeing people dissing soldiers iraq	0.6144
+2309774	pred.bt.5	keep seeing people dissing soldiers iraq	0.6144
+2309774	pred.bt.6	keep seeing people dissing soldiers iraq	0.6144
+2309774	pred.bt.7	keep seeing people dissing soldiers iraq	0.6144
+2309774	pred.bt.8	keep seeing people dissing soldiers iraq	0.6144
+2309774	pred.bt.9	keep seeing people dissing soldiers iraq	0.6144
+2380990	-1	why am i alive?	0.2187
+2380990	pred.bt.1	alive	0.4081
+2380990	pred.bt.10	alive	0.4081
+2380990	pred.bt.2	alive	0.4081
+2380990	pred.bt.3	alive	0.4081
+2380990	pred.bt.4	alive	0.4081
+2380990	pred.bt.5	alive	0.4081
+2380990	pred.bt.6	alive	0.4081
+2380990	pred.bt.7	alive	0.4081
+2380990	pred.bt.8	alive	0.4081
+2380990	pred.bt.9	alive	0.4081
+2382487	-1	what do i do if i have not started my period in like almost 6 months?	0.162
+2382487	pred.bt.1	started period like almost months	0.3098
+2382487	pred.bt.10	started period like almost months	0.3098
+2382487	pred.bt.2	started period like almost months	0.3098
+2382487	pred.bt.3	started period like almost months	0.3098
+2382487	pred.bt.4	started period like almost months	0.3098
+2382487	pred.bt.5	started period like almost months	0.3098
+2382487	pred.bt.6	started period like almost months	0.3098
+2382487	pred.bt.7	started period like almost months	0.3098
+2382487	pred.bt.8	started period like almost months	0.3098
+2382487	pred.bt.9	started period like almost months	0.3098
+2418598	-1	why do wisdom varies from person to person?	0.4432
+2418598	pred.bt.1	wisdom varies person person shylet sarvasvam marsupiobothrium conviventi marsupiobothrium conviventi	0.5357
+2418598	pred.bt.10	wisdom varies person person shylet sarvasvam marsupiobothrium conviventi marsupiobothrium conviventi	0.5357
+2418598	pred.bt.2	wisdom varies person person shylet sarvasvam marsupiobothrium conviventi marsupiobothrium conviventi	0.5357
+2418598	pred.bt.3	wisdom varies person person shylet sarvasvam marsupiobothrium conviventi marsupiobothrium conviventi	0.5357
+2418598	pred.bt.4	wisdom varies person person shylet sarvasvam marsupiobothrium conviventi marsupiobothrium conviventi	0.5357
+2418598	pred.bt.5	wisdom varies person person shylet sarvasvam marsupiobothrium conviventi marsupiobothrium conviventi	0.5357
+2418598	pred.bt.6	wisdom varies person person shylet sarvasvam marsupiobothrium conviventi marsupiobothrium conviventi	0.5357
+2418598	pred.bt.7	wisdom varies person person shylet sarvasvam marsupiobothrium conviventi marsupiobothrium conviventi	0.5357
+2418598	pred.bt.8	wisdom varies person person shylet sarvasvam marsupiobothrium conviventi marsupiobothrium conviventi	0.5357
+2418598	pred.bt.9	wisdom varies person person shylet sarvasvam marsupiobothrium conviventi marsupiobothrium conviventi	0.5357
+2443586	-1	what is a bro?	0.4684
+2443586	pred.bt.1	bro brö brös zadoù	0.5316
+2443586	pred.bt.10	bro brö brös zadoù	0.5316
+2443586	pred.bt.2	bro brö brös zadoù	0.5316
+2443586	pred.bt.3	bro brö brös zadoù	0.5316
+2443586	pred.bt.4	bro brö brös zadoù	0.5316
+2443586	pred.bt.5	bro brö brös zadoù	0.5316
+2443586	pred.bt.6	bro brö brös zadoù	0.5316
+2443586	pred.bt.7	bro brö brös zadoù	0.5316
+2443586	pred.bt.8	bro brö brös zadoù	0.5316
+2443586	pred.bt.9	bro brö brös zadoù	0.5316
+2446614	-1	how could u get success?	0.3184
+2446614	pred.bt.1	how could u get success curv fossil atmospher success you mechan self	0.4507
+2446614	pred.bt.10	how could u get success curv fossil atmospher success you mechan self	0.4507
+2446614	pred.bt.2	how could u get success curv fossil atmospher success you mechan self	0.4507
+2446614	pred.bt.3	how could u get success curv fossil atmospher success you mechan self	0.4507
+2446614	pred.bt.4	how could u get success curv fossil atmospher success you mechan self	0.4507
+2446614	pred.bt.5	how could u get success curv fossil atmospher success you mechan self	0.4507
+2446614	pred.bt.6	how could u get success curv fossil atmospher success you mechan self	0.4507
+2446614	pred.bt.7	how could u get success curv fossil atmospher success you mechan self	0.4507
+2446614	pred.bt.8	how could u get success curv fossil atmospher success you mechan self	0.4507
+2446614	pred.bt.9	how could u get success curv fossil atmospher success you mechan self	0.4507
+2452795	-1	how can i heat the water within a 150 gal tank that's open to the atmosphere in feb.?	0.6168
+2452795	pred.bt.1	how can i heat the water within a 150 gal tank thats open to the atmosphere in feb.?	0.6168
+2452795	pred.bt.10	how can i heat the water within a 150 gal tank thats open to the atmosphere in feb.?	0.6168
+2452795	pred.bt.2	how can i heat the water within a 150 gal tank thats open to the atmosphere in feb.?	0.6168
+2452795	pred.bt.3	how can i heat the water within a 150 gal tank thats open to the atmosphere in feb.?	0.6168
+2452795	pred.bt.4	how can i heat the water within a 150 gal tank thats open to the atmosphere in feb.?	0.6168
+2452795	pred.bt.5	how can i heat the water within a 150 gal tank thats open to the atmosphere in feb.?	0.6168
+2452795	pred.bt.6	how can i heat the water within a 150 gal tank thats open to the atmosphere in feb.?	0.6168
+2452795	pred.bt.7	how can i heat the water within a 150 gal tank thats open to the atmosphere in feb.?	0.6168
+2452795	pred.bt.8	how can i heat the water within a 150 gal tank thats open to the atmosphere in feb.?	0.6168
+2452795	pred.bt.9	how can i heat the water within a 150 gal tank thats open to the atmosphere in feb.?	0.6168
+2479423	-1	why is there brail on the keypads at drive up atm's?	0.7747
+2479423	pred.bt.1	whi is there brail on the keypad at drive up atm s	0.779
+2479423	pred.bt.10	whi is there brail on the keypad at drive up atm s	0.779
+2479423	pred.bt.2	whi is there brail on the keypad at drive up atm s	0.779
+2479423	pred.bt.3	whi is there brail on the keypad at drive up atm s	0.779
+2479423	pred.bt.4	whi is there brail on the keypad at drive up atm s	0.779
+2479423	pred.bt.5	whi is there brail on the keypad at drive up atm s	0.779
+2479423	pred.bt.6	whi is there brail on the keypad at drive up atm s	0.779
+2479423	pred.bt.7	whi is there brail on the keypad at drive up atm s	0.779
+2479423	pred.bt.8	whi is there brail on the keypad at drive up atm s	0.779
+2479423	pred.bt.9	whi is there brail on the keypad at drive up atm s	0.779
+2484180	-1	why do people judge a dog by what he looks like?	0.3539
+2484180	pred.bt.1	people judge dog looks like	0.5579
+2484180	pred.bt.10	people judge dog looks like	0.5579
+2484180	pred.bt.2	people judge dog looks like	0.5579
+2484180	pred.bt.3	people judge dog looks like	0.5579
+2484180	pred.bt.4	people judge dog looks like	0.5579
+2484180	pred.bt.5	people judge dog looks like	0.5579
+2484180	pred.bt.6	people judge dog looks like	0.5579
+2484180	pred.bt.7	people judge dog looks like	0.5579
+2484180	pred.bt.8	people judge dog looks like	0.5579
+2484180	pred.bt.9	people judge dog looks like	0.5579
+2528767	-1	how do i determine the charge of the iron ion in fecl3?	0.8388
+2528767	pred.bt.1	how do i determine the charge of the iron ion in fecl3?	0.8388
+2528767	pred.bt.10	how do i determine the charge of the iron ion in fecl3?	0.8388
+2528767	pred.bt.2	how do i determine the charge of the iron ion in fecl3?	0.8388
+2528767	pred.bt.3	how do i determine the charge of the iron ion in fecl3?	0.8388
+2528767	pred.bt.4	how do i determine the charge of the iron ion in fecl3?	0.8388
+2528767	pred.bt.5	how do i determine the charge of the iron ion in fecl3?	0.8388
+2528767	pred.bt.6	how do i determine the charge of the iron ion in fecl3?	0.8388
+2528767	pred.bt.7	how do i determine the charge of the iron ion in fecl3?	0.8388
+2528767	pred.bt.8	how do i determine the charge of the iron ion in fecl3?	0.8388
+2528767	pred.bt.9	how do i determine the charge of the iron ion in fecl3?	0.8388
+2529114	-1	since i have premature ejaculation problem, how to satisfy my girl?	0.5649
+2529114	pred.bt.1	since premature ejaculation problem satisfy girl premature ejaculation problem solving how to my girl the temptations song	0.5758
+2529114	pred.bt.10	since premature ejaculation problem satisfy girl premature ejaculation problem solving how to my girl the temptations song	0.5758
+2529114	pred.bt.2	since premature ejaculation problem satisfy girl premature ejaculation problem solving how to my girl the temptations song	0.5758
+2529114	pred.bt.3	since premature ejaculation problem satisfy girl premature ejaculation problem solving how to my girl the temptations song	0.5758
+2529114	pred.bt.4	since premature ejaculation problem satisfy girl premature ejaculation problem solving how to my girl the temptations song	0.5758
+2529114	pred.bt.5	since premature ejaculation problem satisfy girl premature ejaculation problem solving how to my girl the temptations song	0.5758
+2529114	pred.bt.6	since premature ejaculation problem satisfy girl premature ejaculation problem solving how to my girl the temptations song	0.5758
+2529114	pred.bt.7	since premature ejaculation problem satisfy girl premature ejaculation problem solving how to my girl the temptations song	0.5758
+2529114	pred.bt.8	since premature ejaculation problem satisfy girl premature ejaculation problem solving how to my girl the temptations song	0.5758
+2529114	pred.bt.9	since premature ejaculation problem satisfy girl premature ejaculation problem solving how to my girl the temptations song	0.5758
+2539741	-1	what cause the car to have white smoke coming from the muffler and making a kicking or knocking sounds?	0.654
+2539741	pred.bt.1	cause car white smoke coming muffler making kicking knocking sounds	0.6454
+2539741	pred.bt.10	cause car white smoke coming muffler making kicking knocking sounds	0.6454
+2539741	pred.bt.2	cause car white smoke coming muffler making kicking knocking sounds	0.6454
+2539741	pred.bt.3	cause car white smoke coming muffler making kicking knocking sounds	0.6454
+2539741	pred.bt.4	cause car white smoke coming muffler making kicking knocking sounds	0.6454
+2539741	pred.bt.5	cause car white smoke coming muffler making kicking knocking sounds	0.6454
+2539741	pred.bt.6	cause car white smoke coming muffler making kicking knocking sounds	0.6454
+2539741	pred.bt.7	cause car white smoke coming muffler making kicking knocking sounds	0.6454
+2539741	pred.bt.8	cause car white smoke coming muffler making kicking knocking sounds	0.6454
+2539741	pred.bt.9	cause car white smoke coming muffler making kicking knocking sounds	0.6454
+2551845	-1	why is gw dogged for not getting obl yet killing zarkawi is a non-event?	0.3766
+2551845	pred.bt.1	gw dogged getting obl yet killing zarkawi non event	0.4
+2551845	pred.bt.10	gw dogged getting obl yet killing zarkawi non event	0.4
+2551845	pred.bt.2	gw dogged getting obl yet killing zarkawi non event	0.4
+2551845	pred.bt.3	gw dogged getting obl yet killing zarkawi non event	0.4
+2551845	pred.bt.4	gw dogged getting obl yet killing zarkawi non event	0.4
+2551845	pred.bt.5	gw dogged getting obl yet killing zarkawi non event	0.4
+2551845	pred.bt.6	gw dogged getting obl yet killing zarkawi non event	0.4
+2551845	pred.bt.7	gw dogged getting obl yet killing zarkawi non event	0.4
+2551845	pred.bt.8	gw dogged getting obl yet killing zarkawi non event	0.4
+2551845	pred.bt.9	gw dogged getting obl yet killing zarkawi non event	0.4
+2582920	-1	what is the difference in a dried plum and a dried prune?	0.854
+2582920	pred.bt.1	what is the difference in a dry plum and a dry prune	0.8255
+2582920	pred.bt.10	what is the difference in a dry plum and a dry prune	0.8255
+2582920	pred.bt.2	what is the difference in a dry plum and a dry prune	0.8255
+2582920	pred.bt.3	what is the difference in a dry plum and a dry prune	0.8255
+2582920	pred.bt.4	what is the difference in a dry plum and a dry prune	0.8255
+2582920	pred.bt.5	what is the difference in a dry plum and a dry prune	0.8255
+2582920	pred.bt.6	what is the difference in a dry plum and a dry prune	0.8255
+2582920	pred.bt.7	what is the difference in a dry plum and a dry prune	0.8255
+2582920	pred.bt.8	what is the difference in a dry plum and a dry prune	0.8255
+2582920	pred.bt.9	what is the difference in a dry plum and a dry prune	0.8255
+2592121	-1	how to rollover 401k into real estate?	0.7223
+2592121	pred.bt.1	rollover k real estate k real estate	0.7349
+2592121	pred.bt.10	rollover k real estate k real estate	0.7349
+2592121	pred.bt.2	rollover k real estate k real estate	0.7349
+2592121	pred.bt.3	rollover k real estate k real estate	0.7349
+2592121	pred.bt.4	rollover k real estate k real estate	0.7349
+2592121	pred.bt.5	rollover k real estate k real estate	0.7349
+2592121	pred.bt.6	rollover k real estate k real estate	0.7349
+2592121	pred.bt.7	rollover k real estate k real estate	0.7349
+2592121	pred.bt.8	rollover k real estate k real estate	0.7349
+2592121	pred.bt.9	rollover k real estate k real estate	0.7349
+2619912	-1	how were you saved from sin-and born again as jesus says "except you repent, and be born again..." how didyou?	0.7272
+2619912	pred.bt.1	how were you saved from sin-and born again as jesus says except you repent, and be born again... how didyou?	0.7272
+2619912	pred.bt.10	how were you saved from sin-and born again as jesus says except you repent, and be born again... how didyou?	0.7272
+2619912	pred.bt.2	how were you saved from sin-and born again as jesus says except you repent, and be born again... how didyou?	0.7272
+2619912	pred.bt.3	how were you saved from sin-and born again as jesus says except you repent, and be born again... how didyou?	0.7272
+2619912	pred.bt.4	how were you saved from sin-and born again as jesus says except you repent, and be born again... how didyou?	0.7272
+2619912	pred.bt.5	how were you saved from sin-and born again as jesus says except you repent, and be born again... how didyou?	0.7272
+2619912	pred.bt.6	how were you saved from sin-and born again as jesus says except you repent, and be born again... how didyou?	0.7272
+2619912	pred.bt.7	how were you saved from sin-and born again as jesus says except you repent, and be born again... how didyou?	0.7272
+2619912	pred.bt.8	how were you saved from sin-and born again as jesus says except you repent, and be born again... how didyou?	0.7272
+2619912	pred.bt.9	how were you saved from sin-and born again as jesus says except you repent, and be born again... how didyou?	0.7272
+2634143	-1	what is direct borrowing, phonological borrowing, linguistic borrowing, cultural borrowing,intimate borrowing?	0.4792
+2634143	pred.bt.1	what is direct borrowing phonological borrowing linguistic borrowing cultural borrowing intimate borrowing cognat you countri borrow mean want you r	0.5039
+2634143	pred.bt.10	what is direct borrowing phonological borrowing linguistic borrowing cultural borrowing intimate borrowing cognat you countri borrow mean want you r	0.5039
+2634143	pred.bt.2	what is direct borrowing phonological borrowing linguistic borrowing cultural borrowing intimate borrowing cognat you countri borrow mean want you r	0.5039
+2634143	pred.bt.3	what is direct borrowing phonological borrowing linguistic borrowing cultural borrowing intimate borrowing cognat you countri borrow mean want you r	0.5039
+2634143	pred.bt.4	what is direct borrowing phonological borrowing linguistic borrowing cultural borrowing intimate borrowing cognat you countri borrow mean want you r	0.5039
+2634143	pred.bt.5	what is direct borrowing phonological borrowing linguistic borrowing cultural borrowing intimate borrowing cognat you countri borrow mean want you r	0.5039
+2634143	pred.bt.6	what is direct borrowing phonological borrowing linguistic borrowing cultural borrowing intimate borrowing cognat you countri borrow mean want you r	0.5039
+2634143	pred.bt.7	what is direct borrowing phonological borrowing linguistic borrowing cultural borrowing intimate borrowing cognat you countri borrow mean want you r	0.5039
+2634143	pred.bt.8	what is direct borrowing phonological borrowing linguistic borrowing cultural borrowing intimate borrowing cognat you countri borrow mean want you r	0.5039
+2634143	pred.bt.9	what is direct borrowing phonological borrowing linguistic borrowing cultural borrowing intimate borrowing cognat you countri borrow mean want you r	0.5039
+2643507	-1	why does milk cost more than gas per gallon?	0.7346
+2643507	pred.bt.1	whi doe milk cost more than gas per gallon	0.7366
+2643507	pred.bt.10	whi doe milk cost more than gas per gallon	0.7366
+2643507	pred.bt.2	whi doe milk cost more than gas per gallon	0.7366
+2643507	pred.bt.3	whi doe milk cost more than gas per gallon	0.7366
+2643507	pred.bt.4	whi doe milk cost more than gas per gallon	0.7366
+2643507	pred.bt.5	whi doe milk cost more than gas per gallon	0.7366
+2643507	pred.bt.6	whi doe milk cost more than gas per gallon	0.7366
+2643507	pred.bt.7	whi doe milk cost more than gas per gallon	0.7366
+2643507	pred.bt.8	whi doe milk cost more than gas per gallon	0.7366
+2643507	pred.bt.9	whi doe milk cost more than gas per gallon	0.7366
+2713171	-1	what does the sentence's mean?	0.154
+2713171	pred.bt.1	sentence s mean	0.3341
+2713171	pred.bt.10	sentence s mean	0.3341
+2713171	pred.bt.2	sentence s mean	0.3341
+2713171	pred.bt.3	sentence s mean	0.3341
+2713171	pred.bt.4	sentence s mean	0.3341
+2713171	pred.bt.5	sentence s mean	0.3341
+2713171	pred.bt.6	sentence s mean	0.3341
+2713171	pred.bt.7	sentence s mean	0.3341
+2713171	pred.bt.8	sentence s mean	0.3341
+2713171	pred.bt.9	sentence s mean	0.3341
+2722241	-1	why do some animals hide in a dark place b4 they die?	0.305
+2722241	pred.bt.1	animals hide dark place b die	0.4178
+2722241	pred.bt.10	animals hide dark place b die	0.4178
+2722241	pred.bt.2	animals hide dark place b die	0.4178
+2722241	pred.bt.3	animals hide dark place b die	0.4178
+2722241	pred.bt.4	animals hide dark place b die	0.4178
+2722241	pred.bt.5	animals hide dark place b die	0.4178
+2722241	pred.bt.6	animals hide dark place b die	0.4178
+2722241	pred.bt.7	animals hide dark place b die	0.4178
+2722241	pred.bt.8	animals hide dark place b die	0.4178
+2722241	pred.bt.9	animals hide dark place b die	0.4178
+2783398	-1	what is a nucleus?	0.6988
+2783398	pred.bt.1	nucleus	0.713
+2783398	pred.bt.10	nucleus	0.713
+2783398	pred.bt.2	nucleus	0.713
+2783398	pred.bt.3	nucleus	0.713
+2783398	pred.bt.4	nucleus	0.713
+2783398	pred.bt.5	nucleus	0.713
+2783398	pred.bt.6	nucleus	0.713
+2783398	pred.bt.7	nucleus	0.713
+2783398	pred.bt.8	nucleus	0.713
+2783398	pred.bt.9	nucleus	0.713
+2785579	-1	if you could be an element of weather, which would you choose, and why?	0.0771
+2785579	pred.bt.1	if you could be an element of weather which would you choos and why	0.1034
+2785579	pred.bt.10	if you could be an element of weather which would you choos and why	0.1034
+2785579	pred.bt.2	if you could be an element of weather which would you choos and why	0.1034
+2785579	pred.bt.3	if you could be an element of weather which would you choos and why	0.1034
+2785579	pred.bt.4	if you could be an element of weather which would you choos and why	0.1034
+2785579	pred.bt.5	if you could be an element of weather which would you choos and why	0.1034
+2785579	pred.bt.6	if you could be an element of weather which would you choos and why	0.1034
+2785579	pred.bt.7	if you could be an element of weather which would you choos and why	0.1034
+2785579	pred.bt.8	if you could be an element of weather which would you choos and why	0.1034
+2785579	pred.bt.9	if you could be an element of weather which would you choos and why	0.1034
+2795030	-1	why do people drink cuervo when it tastes the same going down as coming up?	0.4704
+2795030	pred.bt.1	people drink cuervo tastes going coming	0.6269
+2795030	pred.bt.10	people drink cuervo tastes going coming	0.6269
+2795030	pred.bt.2	people drink cuervo tastes going coming	0.6269
+2795030	pred.bt.3	people drink cuervo tastes going coming	0.6269
+2795030	pred.bt.4	people drink cuervo tastes going coming	0.6269
+2795030	pred.bt.5	people drink cuervo tastes going coming	0.6269
+2795030	pred.bt.6	people drink cuervo tastes going coming	0.6269
+2795030	pred.bt.7	people drink cuervo tastes going coming	0.6269
+2795030	pred.bt.8	people drink cuervo tastes going coming	0.6269
+2795030	pred.bt.9	people drink cuervo tastes going coming	0.6269
+2797224	-1	muslims are the happiest people ever, why?	0.5493
+2797224	pred.bt.1	muslims are the happiest people ever, why?	0.5493
+2797224	pred.bt.10	muslims are the happiest people ever, why?	0.5493
+2797224	pred.bt.2	muslims are the happiest people ever, why?	0.5493
+2797224	pred.bt.3	muslims are the happiest people ever, why?	0.5493
+2797224	pred.bt.4	muslims are the happiest people ever, why?	0.5493
+2797224	pred.bt.5	muslims are the happiest people ever, why?	0.5493
+2797224	pred.bt.6	muslims are the happiest people ever, why?	0.5493
+2797224	pred.bt.7	muslims are the happiest people ever, why?	0.5493
+2797224	pred.bt.8	muslims are the happiest people ever, why?	0.5493
+2797224	pred.bt.9	muslims are the happiest people ever, why?	0.5493
+2799913	-1	what's the proper way to express sorrow at a funeral?	0.4992
+2799913	pred.bt.1	whats the proper way to express sorrow at a funeral?	0.4992
+2799913	pred.bt.10	whats the proper way to express sorrow at a funeral?	0.4992
+2799913	pred.bt.2	whats the proper way to express sorrow at a funeral?	0.4992
+2799913	pred.bt.3	whats the proper way to express sorrow at a funeral?	0.4992
+2799913	pred.bt.4	whats the proper way to express sorrow at a funeral?	0.4992
+2799913	pred.bt.5	whats the proper way to express sorrow at a funeral?	0.4992
+2799913	pred.bt.6	whats the proper way to express sorrow at a funeral?	0.4992
+2799913	pred.bt.7	whats the proper way to express sorrow at a funeral?	0.4992
+2799913	pred.bt.8	whats the proper way to express sorrow at a funeral?	0.4992
+2799913	pred.bt.9	whats the proper way to express sorrow at a funeral?	0.4992
+2814599	-1	what does the word remission mean when referring to cancer patients?	0.6613
+2814599	pred.bt.1	word remission mean referring cancer patients	0.7147
+2814599	pred.bt.10	word remission mean referring cancer patients	0.7147
+2814599	pred.bt.2	word remission mean referring cancer patients	0.7147
+2814599	pred.bt.3	word remission mean referring cancer patients	0.7147
+2814599	pred.bt.4	word remission mean referring cancer patients	0.7147
+2814599	pred.bt.5	word remission mean referring cancer patients	0.7147
+2814599	pred.bt.6	word remission mean referring cancer patients	0.7147
+2814599	pred.bt.7	word remission mean referring cancer patients	0.7147
+2814599	pred.bt.8	word remission mean referring cancer patients	0.7147
+2814599	pred.bt.9	word remission mean referring cancer patients	0.7147
+2814722	-1	why is the new jersey smoking ban not considered unconstitutional?	0.5672
+2814722	pred.bt.1	new jersey smoking ban considered unconstitutional	0.5692
+2814722	pred.bt.10	new jersey smoking ban considered unconstitutional	0.5692
+2814722	pred.bt.2	new jersey smoking ban considered unconstitutional	0.5692
+2814722	pred.bt.3	new jersey smoking ban considered unconstitutional	0.5692
+2814722	pred.bt.4	new jersey smoking ban considered unconstitutional	0.5692
+2814722	pred.bt.5	new jersey smoking ban considered unconstitutional	0.5692
+2814722	pred.bt.6	new jersey smoking ban considered unconstitutional	0.5692
+2814722	pred.bt.7	new jersey smoking ban considered unconstitutional	0.5692
+2814722	pred.bt.8	new jersey smoking ban considered unconstitutional	0.5692
+2814722	pred.bt.9	new jersey smoking ban considered unconstitutional	0.5692
+2815090	-1	how cloning will affects our community?	0.3742
+2815090	pred.bt.1	cloning affects community devenyi preckwinkl forster larrinaga	0.693
+2815090	pred.bt.10	cloning affects community devenyi preckwinkl forster larrinaga	0.693
+2815090	pred.bt.2	cloning affects community devenyi preckwinkl forster larrinaga	0.693
+2815090	pred.bt.3	cloning affects community devenyi preckwinkl forster larrinaga	0.693
+2815090	pred.bt.4	cloning affects community devenyi preckwinkl forster larrinaga	0.693
+2815090	pred.bt.5	cloning affects community devenyi preckwinkl forster larrinaga	0.693
+2815090	pred.bt.6	cloning affects community devenyi preckwinkl forster larrinaga	0.693
+2815090	pred.bt.7	cloning affects community devenyi preckwinkl forster larrinaga	0.693
+2815090	pred.bt.8	cloning affects community devenyi preckwinkl forster larrinaga	0.693
+2815090	pred.bt.9	cloning affects community devenyi preckwinkl forster larrinaga	0.693
+2838988	-1	how can i get a cork out of, not into, a wine bottle without a corkscrew?	0.8234
+2838988	pred.bt.1	get cork wine bottle without corkscrew can i get a cork material wine bottle corkscrew	0.7875
+2838988	pred.bt.10	get cork wine bottle without corkscrew can i get a cork material wine bottle corkscrew	0.7875
+2838988	pred.bt.2	get cork wine bottle without corkscrew can i get a cork material wine bottle corkscrew	0.7875
+2838988	pred.bt.3	get cork wine bottle without corkscrew can i get a cork material wine bottle corkscrew	0.7875
+2838988	pred.bt.4	get cork wine bottle without corkscrew can i get a cork material wine bottle corkscrew	0.7875
+2838988	pred.bt.5	get cork wine bottle without corkscrew can i get a cork material wine bottle corkscrew	0.7875
+2838988	pred.bt.6	get cork wine bottle without corkscrew can i get a cork material wine bottle corkscrew	0.7875
+2838988	pred.bt.7	get cork wine bottle without corkscrew can i get a cork material wine bottle corkscrew	0.7875
+2838988	pred.bt.8	get cork wine bottle without corkscrew can i get a cork material wine bottle corkscrew	0.7875
+2838988	pred.bt.9	get cork wine bottle without corkscrew can i get a cork material wine bottle corkscrew	0.7875
+2847807	-1	how can i get rid of the hicups?	0.302
+2847807	pred.bt.1	get rid hicups	0.5472
+2847807	pred.bt.10	get rid hicups	0.5472
+2847807	pred.bt.2	get rid hicups	0.5472
+2847807	pred.bt.3	get rid hicups	0.5472
+2847807	pred.bt.4	get rid hicups	0.5472
+2847807	pred.bt.5	get rid hicups	0.5472
+2847807	pred.bt.6	get rid hicups	0.5472
+2847807	pred.bt.7	get rid hicups	0.5472
+2847807	pred.bt.8	get rid hicups	0.5472
+2847807	pred.bt.9	get rid hicups	0.5472
+2862887	-1	how to care for a spiked dragon and what to feed them?	0.3726
+2862887	pred.bt.1	care spiked dragon feed suplex	0.5086
+2862887	pred.bt.10	care spiked dragon feed suplex	0.5086
+2862887	pred.bt.2	care spiked dragon feed suplex	0.5086
+2862887	pred.bt.3	care spiked dragon feed suplex	0.5086
+2862887	pred.bt.4	care spiked dragon feed suplex	0.5086
+2862887	pred.bt.5	care spiked dragon feed suplex	0.5086
+2862887	pred.bt.6	care spiked dragon feed suplex	0.5086
+2862887	pred.bt.7	care spiked dragon feed suplex	0.5086
+2862887	pred.bt.8	care spiked dragon feed suplex	0.5086
+2862887	pred.bt.9	care spiked dragon feed suplex	0.5086
+2864267	-1	what exemplifies effective customer service?	0.7867
+2864267	pred.bt.1	exemplifies effective customer service	0.8033
+2864267	pred.bt.10	exemplifies effective customer service	0.8033
+2864267	pred.bt.2	exemplifies effective customer service	0.8033
+2864267	pred.bt.3	exemplifies effective customer service	0.8033
+2864267	pred.bt.4	exemplifies effective customer service	0.8033
+2864267	pred.bt.5	exemplifies effective customer service	0.8033
+2864267	pred.bt.6	exemplifies effective customer service	0.8033
+2864267	pred.bt.7	exemplifies effective customer service	0.8033
+2864267	pred.bt.8	exemplifies effective customer service	0.8033
+2864267	pred.bt.9	exemplifies effective customer service	0.8033
+2892478	-1	what factors cause the earth to heat unevenly?	0.7192
+2892478	pred.bt.1	factors cause earth heat unevenly	0.7552
+2892478	pred.bt.10	factors cause earth heat unevenly	0.7552
+2892478	pred.bt.2	factors cause earth heat unevenly	0.7552
+2892478	pred.bt.3	factors cause earth heat unevenly	0.7552
+2892478	pred.bt.4	factors cause earth heat unevenly	0.7552
+2892478	pred.bt.5	factors cause earth heat unevenly	0.7552
+2892478	pred.bt.6	factors cause earth heat unevenly	0.7552
+2892478	pred.bt.7	factors cause earth heat unevenly	0.7552
+2892478	pred.bt.8	factors cause earth heat unevenly	0.7552
+2892478	pred.bt.9	factors cause earth heat unevenly	0.7552
+2956570	-1	what are the words to write the sound of raindrops, moving train & scribbling w/ pencil on paper figuratively?	0.7395
+2956570	pred.bt.1	words write sound raindrops moving train scribbling w pencil paper figuratively	0.7597
+2956570	pred.bt.10	words write sound raindrops moving train scribbling w pencil paper figuratively	0.7597
+2956570	pred.bt.2	words write sound raindrops moving train scribbling w pencil paper figuratively	0.7597
+2956570	pred.bt.3	words write sound raindrops moving train scribbling w pencil paper figuratively	0.7597
+2956570	pred.bt.4	words write sound raindrops moving train scribbling w pencil paper figuratively	0.7597
+2956570	pred.bt.5	words write sound raindrops moving train scribbling w pencil paper figuratively	0.7597
+2956570	pred.bt.6	words write sound raindrops moving train scribbling w pencil paper figuratively	0.7597
+2956570	pred.bt.7	words write sound raindrops moving train scribbling w pencil paper figuratively	0.7597
+2956570	pred.bt.8	words write sound raindrops moving train scribbling w pencil paper figuratively	0.7597
+2956570	pred.bt.9	words write sound raindrops moving train scribbling w pencil paper figuratively	0.7597
+2976644	-1	how amoeba catches its prey?	0.6519
+2976644	pred.bt.1	amoeba catches prey carneago hecphora rufilinea visinu thiounn puthearim	0.7501
+2976644	pred.bt.10	amoeba catches prey carneago hecphora rufilinea visinu thiounn puthearim	0.7501
+2976644	pred.bt.2	amoeba catches prey carneago hecphora rufilinea visinu thiounn puthearim	0.7501
+2976644	pred.bt.3	amoeba catches prey carneago hecphora rufilinea visinu thiounn puthearim	0.7501
+2976644	pred.bt.4	amoeba catches prey carneago hecphora rufilinea visinu thiounn puthearim	0.7501
+2976644	pred.bt.5	amoeba catches prey carneago hecphora rufilinea visinu thiounn puthearim	0.7501
+2976644	pred.bt.6	amoeba catches prey carneago hecphora rufilinea visinu thiounn puthearim	0.7501
+2976644	pred.bt.7	amoeba catches prey carneago hecphora rufilinea visinu thiounn puthearim	0.7501
+2976644	pred.bt.8	amoeba catches prey carneago hecphora rufilinea visinu thiounn puthearim	0.7501
+2976644	pred.bt.9	amoeba catches prey carneago hecphora rufilinea visinu thiounn puthearim	0.7501
+3040435	-1	usa have snow, hurricanes, flood, earthquakes and politicians, brazil only have politicians, why?	0.6235
+3040435	pred.bt.1	usa snow hurricanes flood earthquakes politicians brazil politicians united states snow tropical cyclone flood earthquake brazil	0.6303
+3040435	pred.bt.10	usa snow hurricanes flood earthquakes politicians brazil politicians united states snow tropical cyclone flood earthquake brazil	0.6303
+3040435	pred.bt.2	usa snow hurricanes flood earthquakes politicians brazil politicians united states snow tropical cyclone flood earthquake brazil	0.6303
+3040435	pred.bt.3	usa snow hurricanes flood earthquakes politicians brazil politicians united states snow tropical cyclone flood earthquake brazil	0.6303
+3040435	pred.bt.4	usa snow hurricanes flood earthquakes politicians brazil politicians united states snow tropical cyclone flood earthquake brazil	0.6303
+3040435	pred.bt.5	usa snow hurricanes flood earthquakes politicians brazil politicians united states snow tropical cyclone flood earthquake brazil	0.6303
+3040435	pred.bt.6	usa snow hurricanes flood earthquakes politicians brazil politicians united states snow tropical cyclone flood earthquake brazil	0.6303
+3040435	pred.bt.7	usa snow hurricanes flood earthquakes politicians brazil politicians united states snow tropical cyclone flood earthquake brazil	0.6303
+3040435	pred.bt.8	usa snow hurricanes flood earthquakes politicians brazil politicians united states snow tropical cyclone flood earthquake brazil	0.6303
+3040435	pred.bt.9	usa snow hurricanes flood earthquakes politicians brazil politicians united states snow tropical cyclone flood earthquake brazil	0.6303
+3074429	-1	how can we understand islam and muslims better?	0.5646
+3074429	pred.bt.1	understand islam muslims better	0.6383
+3074429	pred.bt.10	understand islam muslims better	0.6383
+3074429	pred.bt.2	understand islam muslims better	0.6383
+3074429	pred.bt.3	understand islam muslims better	0.6383
+3074429	pred.bt.4	understand islam muslims better	0.6383
+3074429	pred.bt.5	understand islam muslims better	0.6383
+3074429	pred.bt.6	understand islam muslims better	0.6383
+3074429	pred.bt.7	understand islam muslims better	0.6383
+3074429	pred.bt.8	understand islam muslims better	0.6383
+3074429	pred.bt.9	understand islam muslims better	0.6383
+3078448	-1	how do you prevent chicken from drying out when you cook it?	0.4487
+3078448	pred.bt.1	prevent chicken drying cook food drying chicken cooking desiccation	0.6482
+3078448	pred.bt.10	prevent chicken drying cook food drying chicken cooking desiccation	0.6482
+3078448	pred.bt.2	prevent chicken drying cook food drying chicken cooking desiccation	0.6482
+3078448	pred.bt.3	prevent chicken drying cook food drying chicken cooking desiccation	0.6482
+3078448	pred.bt.4	prevent chicken drying cook food drying chicken cooking desiccation	0.6482
+3078448	pred.bt.5	prevent chicken drying cook food drying chicken cooking desiccation	0.6482
+3078448	pred.bt.6	prevent chicken drying cook food drying chicken cooking desiccation	0.6482
+3078448	pred.bt.7	prevent chicken drying cook food drying chicken cooking desiccation	0.6482
+3078448	pred.bt.8	prevent chicken drying cook food drying chicken cooking desiccation	0.6482
+3078448	pred.bt.9	prevent chicken drying cook food drying chicken cooking desiccation	0.6482
+3155314	-1	we have pork chops, veal chops, lamb chops, why is there not any beef chops ?	0.4707
+3155314	pred.bt.1	pork chops veal chops lamb chops beef chops beef meat loin lamb chops loin mutton veal loin meat pork loin	0.5719
+3155314	pred.bt.10	pork chops veal chops lamb chops beef chops beef meat loin lamb chops loin mutton veal loin meat pork loin	0.5719
+3155314	pred.bt.2	pork chops veal chops lamb chops beef chops beef meat loin lamb chops loin mutton veal loin meat pork loin	0.5719
+3155314	pred.bt.3	pork chops veal chops lamb chops beef chops beef meat loin lamb chops loin mutton veal loin meat pork loin	0.5719
+3155314	pred.bt.4	pork chops veal chops lamb chops beef chops beef meat loin lamb chops loin mutton veal loin meat pork loin	0.5719
+3155314	pred.bt.5	pork chops veal chops lamb chops beef chops beef meat loin lamb chops loin mutton veal loin meat pork loin	0.5719
+3155314	pred.bt.6	pork chops veal chops lamb chops beef chops beef meat loin lamb chops loin mutton veal loin meat pork loin	0.5719
+3155314	pred.bt.7	pork chops veal chops lamb chops beef chops beef meat loin lamb chops loin mutton veal loin meat pork loin	0.5719
+3155314	pred.bt.8	pork chops veal chops lamb chops beef chops beef meat loin lamb chops loin mutton veal loin meat pork loin	0.5719
+3155314	pred.bt.9	pork chops veal chops lamb chops beef chops beef meat loin lamb chops loin mutton veal loin meat pork loin	0.5719
+3206998	-1	how does disneyland make it snow?	0.4011
+3206998	pred.bt.1	disneyland make snow disneyland snow	0.563
+3206998	pred.bt.10	disneyland make snow disneyland snow	0.563
+3206998	pred.bt.2	disneyland make snow disneyland snow	0.563
+3206998	pred.bt.3	disneyland make snow disneyland snow	0.563
+3206998	pred.bt.4	disneyland make snow disneyland snow	0.563
+3206998	pred.bt.5	disneyland make snow disneyland snow	0.563
+3206998	pred.bt.6	disneyland make snow disneyland snow	0.563
+3206998	pred.bt.7	disneyland make snow disneyland snow	0.563
+3206998	pred.bt.8	disneyland make snow disneyland snow	0.563
+3206998	pred.bt.9	disneyland make snow disneyland snow	0.563
+3239329	-1	why do we wee a lot in the cold weather especially at night?	0.4553
+3239329	pred.bt.1	wee lot cold weather especially night	0.5159
+3239329	pred.bt.10	wee lot cold weather especially night	0.5159
+3239329	pred.bt.2	wee lot cold weather especially night	0.5159
+3239329	pred.bt.3	wee lot cold weather especially night	0.5159
+3239329	pred.bt.4	wee lot cold weather especially night	0.5159
+3239329	pred.bt.5	wee lot cold weather especially night	0.5159
+3239329	pred.bt.6	wee lot cold weather especially night	0.5159
+3239329	pred.bt.7	wee lot cold weather especially night	0.5159
+3239329	pred.bt.8	wee lot cold weather especially night	0.5159
+3239329	pred.bt.9	wee lot cold weather especially night	0.5159
+3269759	-1	what is artificial intelligence?	0.5092
+3269759	pred.bt.1	artificial intelligence artifical synthetic intellegence intelligence	0.7528
+3269759	pred.bt.10	artificial intelligence artifical synthetic intellegence intelligence	0.7528
+3269759	pred.bt.2	artificial intelligence artifical synthetic intellegence intelligence	0.7528
+3269759	pred.bt.3	artificial intelligence artifical synthetic intellegence intelligence	0.7528
+3269759	pred.bt.4	artificial intelligence artifical synthetic intellegence intelligence	0.7528
+3269759	pred.bt.5	artificial intelligence artifical synthetic intellegence intelligence	0.7528
+3269759	pred.bt.6	artificial intelligence artifical synthetic intellegence intelligence	0.7528
+3269759	pred.bt.7	artificial intelligence artifical synthetic intellegence intelligence	0.7528
+3269759	pred.bt.8	artificial intelligence artifical synthetic intellegence intelligence	0.7528
+3269759	pred.bt.9	artificial intelligence artifical synthetic intellegence intelligence	0.7528
+3278654	-1	why do kamikaze pilots wear helmets?	0.6668
+3278654	pred.bt.1	kamikaze pilots wear helmets aviators wore visors	0.707
+3278654	pred.bt.10	kamikaze pilots wear helmets aviators wore visors	0.707
+3278654	pred.bt.2	kamikaze pilots wear helmets aviators wore visors	0.707
+3278654	pred.bt.3	kamikaze pilots wear helmets aviators wore visors	0.707
+3278654	pred.bt.4	kamikaze pilots wear helmets aviators wore visors	0.707
+3278654	pred.bt.5	kamikaze pilots wear helmets aviators wore visors	0.707
+3278654	pred.bt.6	kamikaze pilots wear helmets aviators wore visors	0.707
+3278654	pred.bt.7	kamikaze pilots wear helmets aviators wore visors	0.707
+3278654	pred.bt.8	kamikaze pilots wear helmets aviators wore visors	0.707
+3278654	pred.bt.9	kamikaze pilots wear helmets aviators wore visors	0.707
+3280768	-1	why is islam so hated in america?	0.4089
+3280768	pred.bt.1	islam hated america	0.49
+3280768	pred.bt.10	islam hated america	0.49
+3280768	pred.bt.2	islam hated america	0.49
+3280768	pred.bt.3	islam hated america	0.49
+3280768	pred.bt.4	islam hated america	0.49
+3280768	pred.bt.5	islam hated america	0.49
+3280768	pred.bt.6	islam hated america	0.49
+3280768	pred.bt.7	islam hated america	0.49
+3280768	pred.bt.8	islam hated america	0.49
+3280768	pred.bt.9	islam hated america	0.49
+3295055	-1	what causes skin discoloration, specifically, whitening of the skin between fingers?	0.6084
+3295055	pred.bt.1	causes skin discoloration specifically whitening skin fingers	0.6359
+3295055	pred.bt.10	causes skin discoloration specifically whitening skin fingers	0.6359
+3295055	pred.bt.2	causes skin discoloration specifically whitening skin fingers	0.6359
+3295055	pred.bt.3	causes skin discoloration specifically whitening skin fingers	0.6359
+3295055	pred.bt.4	causes skin discoloration specifically whitening skin fingers	0.6359
+3295055	pred.bt.5	causes skin discoloration specifically whitening skin fingers	0.6359
+3295055	pred.bt.6	causes skin discoloration specifically whitening skin fingers	0.6359
+3295055	pred.bt.7	causes skin discoloration specifically whitening skin fingers	0.6359
+3295055	pred.bt.8	causes skin discoloration specifically whitening skin fingers	0.6359
+3295055	pred.bt.9	causes skin discoloration specifically whitening skin fingers	0.6359
+3301173	-1	how to design road crust for national highways?	0.7498
+3301173	pred.bt.1	design road crust national highways continental crust road national highway india	0.8004
+3301173	pred.bt.10	design road crust national highways continental crust road national highway india	0.8004
+3301173	pred.bt.2	design road crust national highways continental crust road national highway india	0.8004
+3301173	pred.bt.3	design road crust national highways continental crust road national highway india	0.8004
+3301173	pred.bt.4	design road crust national highways continental crust road national highway india	0.8004
+3301173	pred.bt.5	design road crust national highways continental crust road national highway india	0.8004
+3301173	pred.bt.6	design road crust national highways continental crust road national highway india	0.8004
+3301173	pred.bt.7	design road crust national highways continental crust road national highway india	0.8004
+3301173	pred.bt.8	design road crust national highways continental crust road national highway india	0.8004
+3301173	pred.bt.9	design road crust national highways continental crust road national highway india	0.8004
+3313308	-1	how can i enjoy my time alone?	0.1872
+3313308	pred.bt.1	enjoy time alone time alone	0.4568
+3313308	pred.bt.10	enjoy time alone time alone	0.4568
+3313308	pred.bt.2	enjoy time alone time alone	0.4568
+3313308	pred.bt.3	enjoy time alone time alone	0.4568
+3313308	pred.bt.4	enjoy time alone time alone	0.4568
+3313308	pred.bt.5	enjoy time alone time alone	0.4568
+3313308	pred.bt.6	enjoy time alone time alone	0.4568
+3313308	pred.bt.7	enjoy time alone time alone	0.4568
+3313308	pred.bt.8	enjoy time alone time alone	0.4568
+3313308	pred.bt.9	enjoy time alone time alone	0.4568
+3363149	-1	why do arabs and mexicans look alike?	0.6927
+3363149	pred.bt.1	arabs mexicans look alike	0.7847
+3363149	pred.bt.10	arabs mexicans look alike	0.7847
+3363149	pred.bt.2	arabs mexicans look alike	0.7847
+3363149	pred.bt.3	arabs mexicans look alike	0.7847
+3363149	pred.bt.4	arabs mexicans look alike	0.7847
+3363149	pred.bt.5	arabs mexicans look alike	0.7847
+3363149	pred.bt.6	arabs mexicans look alike	0.7847
+3363149	pred.bt.7	arabs mexicans look alike	0.7847
+3363149	pred.bt.8	arabs mexicans look alike	0.7847
+3363149	pred.bt.9	arabs mexicans look alike	0.7847
+3369088	-1	how can we stop the spread of islam?	0.5213
+3369088	pred.bt.1	stop spread islam	0.5578
+3369088	pred.bt.10	stop spread islam	0.5578
+3369088	pred.bt.2	stop spread islam	0.5578
+3369088	pred.bt.3	stop spread islam	0.5578
+3369088	pred.bt.4	stop spread islam	0.5578
+3369088	pred.bt.5	stop spread islam	0.5578
+3369088	pred.bt.6	stop spread islam	0.5578
+3369088	pred.bt.7	stop spread islam	0.5578
+3369088	pred.bt.8	stop spread islam	0.5578
+3369088	pred.bt.9	stop spread islam	0.5578
+3382736	-1	what is minimalist cubisium?	0.6193
+3382736	pred.bt.1	what is minimalist cubisium?	0.6193
+3382736	pred.bt.10	what is minimalist cubisium?	0.6193
+3382736	pred.bt.2	what is minimalist cubisium?	0.6193
+3382736	pred.bt.3	what is minimalist cubisium?	0.6193
+3382736	pred.bt.4	what is minimalist cubisium?	0.6193
+3382736	pred.bt.5	what is minimalist cubisium?	0.6193
+3382736	pred.bt.6	what is minimalist cubisium?	0.6193
+3382736	pred.bt.7	what is minimalist cubisium?	0.6193
+3382736	pred.bt.8	what is minimalist cubisium?	0.6193
+3382736	pred.bt.9	what is minimalist cubisium?	0.6193
+3385681	-1	if red bull is soo bad for people ,then why is it soo popular?	0.2225
+3385681	pred.bt.1	red bull soo bad people soo popular red bull people magazine why t song pop music	0.4203
+3385681	pred.bt.10	red bull soo bad people soo popular red bull people magazine why t song pop music	0.4203
+3385681	pred.bt.2	red bull soo bad people soo popular red bull people magazine why t song pop music	0.4203
+3385681	pred.bt.3	red bull soo bad people soo popular red bull people magazine why t song pop music	0.4203
+3385681	pred.bt.4	red bull soo bad people soo popular red bull people magazine why t song pop music	0.4203
+3385681	pred.bt.5	red bull soo bad people soo popular red bull people magazine why t song pop music	0.4203
+3385681	pred.bt.6	red bull soo bad people soo popular red bull people magazine why t song pop music	0.4203
+3385681	pred.bt.7	red bull soo bad people soo popular red bull people magazine why t song pop music	0.4203
+3385681	pred.bt.8	red bull soo bad people soo popular red bull people magazine why t song pop music	0.4203
+3385681	pred.bt.9	red bull soo bad people soo popular red bull people magazine why t song pop music	0.4203
+3389038	-1	why the media in us and europe is always attacking the arabs and islam without finding the truth about them?	0.5282
+3389038	pred.bt.1	media us europe always attacking arabs islam without finding truth	0.5693
+3389038	pred.bt.10	media us europe always attacking arabs islam without finding truth	0.5693
+3389038	pred.bt.2	media us europe always attacking arabs islam without finding truth	0.5693
+3389038	pred.bt.3	media us europe always attacking arabs islam without finding truth	0.5693
+3389038	pred.bt.4	media us europe always attacking arabs islam without finding truth	0.5693
+3389038	pred.bt.5	media us europe always attacking arabs islam without finding truth	0.5693
+3389038	pred.bt.6	media us europe always attacking arabs islam without finding truth	0.5693
+3389038	pred.bt.7	media us europe always attacking arabs islam without finding truth	0.5693
+3389038	pred.bt.8	media us europe always attacking arabs islam without finding truth	0.5693
+3389038	pred.bt.9	media us europe always attacking arabs islam without finding truth	0.5693
+3396066	-1	why do airplanes fly so high?	0.5268
+3396066	pred.bt.1	airplanes fly high	0.5521
+3396066	pred.bt.10	airplanes fly high	0.5521
+3396066	pred.bt.2	airplanes fly high	0.5521
+3396066	pred.bt.3	airplanes fly high	0.5521
+3396066	pred.bt.4	airplanes fly high	0.5521
+3396066	pred.bt.5	airplanes fly high	0.5521
+3396066	pred.bt.6	airplanes fly high	0.5521
+3396066	pred.bt.7	airplanes fly high	0.5521
+3396066	pred.bt.8	airplanes fly high	0.5521
+3396066	pred.bt.9	airplanes fly high	0.5521
+3411123	-1	why does'nt america regard foriegn credentials?	0.2366
+3411123	pred.bt.1	why do nt america regard foriegn credentials	0.3773
+3411123	pred.bt.10	why do nt america regard foriegn credentials	0.3773
+3411123	pred.bt.2	why do nt america regard foriegn credentials	0.3773
+3411123	pred.bt.3	why do nt america regard foriegn credentials	0.3773
+3411123	pred.bt.4	why do nt america regard foriegn credentials	0.3773
+3411123	pred.bt.5	why do nt america regard foriegn credentials	0.3773
+3411123	pred.bt.6	why do nt america regard foriegn credentials	0.3773
+3411123	pred.bt.7	why do nt america regard foriegn credentials	0.3773
+3411123	pred.bt.8	why do nt america regard foriegn credentials	0.3773
+3411123	pred.bt.9	why do nt america regard foriegn credentials	0.3773
+3496147	-1	why was i punished for being christlike?	0.3591
+3496147	pred.bt.1	why was i punished punish for being christlike	0.506
+3496147	pred.bt.10	why was i punished punish for being christlike	0.506
+3496147	pred.bt.2	why was i punished punish for being christlike	0.506
+3496147	pred.bt.3	why was i punished punish for being christlike	0.506
+3496147	pred.bt.4	why was i punished punish for being christlike	0.506
+3496147	pred.bt.5	why was i punished punish for being christlike	0.506
+3496147	pred.bt.6	why was i punished punish for being christlike	0.506
+3496147	pred.bt.7	why was i punished punish for being christlike	0.506
+3496147	pred.bt.8	why was i punished punish for being christlike	0.506
+3496147	pred.bt.9	why was i punished punish for being christlike	0.506
+3499881	-1	why is gordon ramsey so popular?	0.3433
+3499881	pred.bt.1	gordon ramsey popular gordon ramsey	0.421
+3499881	pred.bt.10	gordon ramsey popular gordon ramsey	0.421
+3499881	pred.bt.2	gordon ramsey popular gordon ramsey	0.421
+3499881	pred.bt.3	gordon ramsey popular gordon ramsey	0.421
+3499881	pred.bt.4	gordon ramsey popular gordon ramsey	0.421
+3499881	pred.bt.5	gordon ramsey popular gordon ramsey	0.421
+3499881	pred.bt.6	gordon ramsey popular gordon ramsey	0.421
+3499881	pred.bt.7	gordon ramsey popular gordon ramsey	0.421
+3499881	pred.bt.8	gordon ramsey popular gordon ramsey	0.421
+3499881	pred.bt.9	gordon ramsey popular gordon ramsey	0.421
+3507491	-1	why is religious freedom more important today?	0.7043
+3507491	pred.bt.1	religious freedom important today	0.751
+3507491	pred.bt.10	religious freedom important today	0.751
+3507491	pred.bt.2	religious freedom important today	0.751
+3507491	pred.bt.3	religious freedom important today	0.751
+3507491	pred.bt.4	religious freedom important today	0.751
+3507491	pred.bt.5	religious freedom important today	0.751
+3507491	pred.bt.6	religious freedom important today	0.751
+3507491	pred.bt.7	religious freedom important today	0.751
+3507491	pred.bt.8	religious freedom important today	0.751
+3507491	pred.bt.9	religious freedom important today	0.751
+3552010	-1	why do parent put kids on restriction?	0.3861
+3552010	pred.bt.1	parent put kids restriction	0.675
+3552010	pred.bt.10	parent put kids restriction	0.675
+3552010	pred.bt.2	parent put kids restriction	0.675
+3552010	pred.bt.3	parent put kids restriction	0.675
+3552010	pred.bt.4	parent put kids restriction	0.675
+3552010	pred.bt.5	parent put kids restriction	0.675
+3552010	pred.bt.6	parent put kids restriction	0.675
+3552010	pred.bt.7	parent put kids restriction	0.675
+3552010	pred.bt.8	parent put kids restriction	0.675
+3552010	pred.bt.9	parent put kids restriction	0.675
+3554263	-1	why some people behave so rude without reason,is it due to their own problem?	0.3353
+3554263	pred.bt.1	people behave rude without reason due problem	0.6369
+3554263	pred.bt.10	people behave rude without reason due problem	0.6369
+3554263	pred.bt.2	people behave rude without reason due problem	0.6369
+3554263	pred.bt.3	people behave rude without reason due problem	0.6369
+3554263	pred.bt.4	people behave rude without reason due problem	0.6369
+3554263	pred.bt.5	people behave rude without reason due problem	0.6369
+3554263	pred.bt.6	people behave rude without reason due problem	0.6369
+3554263	pred.bt.7	people behave rude without reason due problem	0.6369
+3554263	pred.bt.8	people behave rude without reason due problem	0.6369
+3554263	pred.bt.9	people behave rude without reason due problem	0.6369
+3559048	-1	how do you sell a junk car without a title?	0.7785
+3559048	pred.bt.1	how do you sell a junk car with a titl	0.8012
+3559048	pred.bt.10	how do you sell a junk car with a titl	0.8012
+3559048	pred.bt.2	how do you sell a junk car with a titl	0.8012
+3559048	pred.bt.3	how do you sell a junk car with a titl	0.8012
+3559048	pred.bt.4	how do you sell a junk car with a titl	0.8012
+3559048	pred.bt.5	how do you sell a junk car with a titl	0.8012
+3559048	pred.bt.6	how do you sell a junk car with a titl	0.8012
+3559048	pred.bt.7	how do you sell a junk car with a titl	0.8012
+3559048	pred.bt.8	how do you sell a junk car with a titl	0.8012
+3559048	pred.bt.9	how do you sell a junk car with a titl	0.8012
+3577501	-1	what are some signs that puberty is beginning?	0.6252
+3577501	pred.bt.1	signs puberty beginning puberty death	0.7465
+3577501	pred.bt.10	signs puberty beginning puberty death	0.7465
+3577501	pred.bt.2	signs puberty beginning puberty death	0.7465
+3577501	pred.bt.3	signs puberty beginning puberty death	0.7465
+3577501	pred.bt.4	signs puberty beginning puberty death	0.7465
+3577501	pred.bt.5	signs puberty beginning puberty death	0.7465
+3577501	pred.bt.6	signs puberty beginning puberty death	0.7465
+3577501	pred.bt.7	signs puberty beginning puberty death	0.7465
+3577501	pred.bt.8	signs puberty beginning puberty death	0.7465
+3577501	pred.bt.9	signs puberty beginning puberty death	0.7465
+3639660	-1	why do most cigarettes have the yellow filter?	0.6373
+3639660	pred.bt.1	cigarettes yellow filter	0.7288
+3639660	pred.bt.10	cigarettes yellow filter	0.7288
+3639660	pred.bt.2	cigarettes yellow filter	0.7288
+3639660	pred.bt.3	cigarettes yellow filter	0.7288
+3639660	pred.bt.4	cigarettes yellow filter	0.7288
+3639660	pred.bt.5	cigarettes yellow filter	0.7288
+3639660	pred.bt.6	cigarettes yellow filter	0.7288
+3639660	pred.bt.7	cigarettes yellow filter	0.7288
+3639660	pred.bt.8	cigarettes yellow filter	0.7288
+3639660	pred.bt.9	cigarettes yellow filter	0.7288
+3640705	-1	what is the punishment for child molestors?	0.3196
+3640705	pred.bt.1	punishment child molestors retribution children mother infant child molesters peadophiles pedofiles	0.4967
+3640705	pred.bt.10	punishment child molestors retribution children mother infant child molesters peadophiles pedofiles	0.4967
+3640705	pred.bt.2	punishment child molestors retribution children mother infant child molesters peadophiles pedofiles	0.4967
+3640705	pred.bt.3	punishment child molestors retribution children mother infant child molesters peadophiles pedofiles	0.4967
+3640705	pred.bt.4	punishment child molestors retribution children mother infant child molesters peadophiles pedofiles	0.4967
+3640705	pred.bt.5	punishment child molestors retribution children mother infant child molesters peadophiles pedofiles	0.4967
+3640705	pred.bt.6	punishment child molestors retribution children mother infant child molesters peadophiles pedofiles	0.4967
+3640705	pred.bt.7	punishment child molestors retribution children mother infant child molesters peadophiles pedofiles	0.4967
+3640705	pred.bt.8	punishment child molestors retribution children mother infant child molesters peadophiles pedofiles	0.4967
+3640705	pred.bt.9	punishment child molestors retribution children mother infant child molesters peadophiles pedofiles	0.4967
+3698636	-1	why do cats headbutt?	0.1328
+3698636	pred.bt.1	cats headbutt	0.5005
+3698636	pred.bt.10	cats headbutt	0.5005
+3698636	pred.bt.2	cats headbutt	0.5005
+3698636	pred.bt.3	cats headbutt	0.5005
+3698636	pred.bt.4	cats headbutt	0.5005
+3698636	pred.bt.5	cats headbutt	0.5005
+3698636	pred.bt.6	cats headbutt	0.5005
+3698636	pred.bt.7	cats headbutt	0.5005
+3698636	pred.bt.8	cats headbutt	0.5005
+3698636	pred.bt.9	cats headbutt	0.5005
+3714728	-1	why is the world so shallow?	0.3974
+3714728	pred.bt.1	world shallow	0.6607
+3714728	pred.bt.10	world shallow	0.6607
+3714728	pred.bt.2	world shallow	0.6607
+3714728	pred.bt.3	world shallow	0.6607
+3714728	pred.bt.4	world shallow	0.6607
+3714728	pred.bt.5	world shallow	0.6607
+3714728	pred.bt.6	world shallow	0.6607
+3714728	pred.bt.7	world shallow	0.6607
+3714728	pred.bt.8	world shallow	0.6607
+3714728	pred.bt.9	world shallow	0.6607
+3723508	-1	what is the difference between an ox and a bull?	0.7023
+3723508	pred.bt.1	difference ox bull heraldry bull ox	0.7889
+3723508	pred.bt.10	difference ox bull heraldry bull ox	0.7889
+3723508	pred.bt.2	difference ox bull heraldry bull ox	0.7889
+3723508	pred.bt.3	difference ox bull heraldry bull ox	0.7889
+3723508	pred.bt.4	difference ox bull heraldry bull ox	0.7889
+3723508	pred.bt.5	difference ox bull heraldry bull ox	0.7889
+3723508	pred.bt.6	difference ox bull heraldry bull ox	0.7889
+3723508	pred.bt.7	difference ox bull heraldry bull ox	0.7889
+3723508	pred.bt.8	difference ox bull heraldry bull ox	0.7889
+3723508	pred.bt.9	difference ox bull heraldry bull ox	0.7889
+3778229	-1	how were the witches tested in the salem witch trials?	0.7358
+3778229	pred.bt.1	how were the witches witch tested test in the salem witch trials trial	0.7381
+3778229	pred.bt.10	how were the witches witch tested test in the salem witch trials trial	0.7381
+3778229	pred.bt.2	how were the witches witch tested test in the salem witch trials trial	0.7381
+3778229	pred.bt.3	how were the witches witch tested test in the salem witch trials trial	0.7381
+3778229	pred.bt.4	how were the witches witch tested test in the salem witch trials trial	0.7381
+3778229	pred.bt.5	how were the witches witch tested test in the salem witch trials trial	0.7381
+3778229	pred.bt.6	how were the witches witch tested test in the salem witch trials trial	0.7381
+3778229	pred.bt.7	how were the witches witch tested test in the salem witch trials trial	0.7381
+3778229	pred.bt.8	how were the witches witch tested test in the salem witch trials trial	0.7381
+3778229	pred.bt.9	how were the witches witch tested test in the salem witch trials trial	0.7381
+3825386	-1	how can i develop leanbody and muscles?	0.3358
+3825386	pred.bt.1	develop leanbody muscles	0.622
+3825386	pred.bt.10	develop leanbody muscles	0.622
+3825386	pred.bt.2	develop leanbody muscles	0.622
+3825386	pred.bt.3	develop leanbody muscles	0.622
+3825386	pred.bt.4	develop leanbody muscles	0.622
+3825386	pred.bt.5	develop leanbody muscles	0.622
+3825386	pred.bt.6	develop leanbody muscles	0.622
+3825386	pred.bt.7	develop leanbody muscles	0.622
+3825386	pred.bt.8	develop leanbody muscles	0.622
+3825386	pred.bt.9	develop leanbody muscles	0.622
+3872395	-1	what are some easy ways to get a toddler to go to sleep without being mean?	0.1027
+3872395	pred.bt.1	what are some easi way to get a toddler to go to sleep without be mean	0.1769
+3872395	pred.bt.10	what are some easi way to get a toddler to go to sleep without be mean	0.1769
+3872395	pred.bt.2	what are some easi way to get a toddler to go to sleep without be mean	0.1769
+3872395	pred.bt.3	what are some easi way to get a toddler to go to sleep without be mean	0.1769
+3872395	pred.bt.4	what are some easi way to get a toddler to go to sleep without be mean	0.1769
+3872395	pred.bt.5	what are some easi way to get a toddler to go to sleep without be mean	0.1769
+3872395	pred.bt.6	what are some easi way to get a toddler to go to sleep without be mean	0.1769
+3872395	pred.bt.7	what are some easi way to get a toddler to go to sleep without be mean	0.1769
+3872395	pred.bt.8	what are some easi way to get a toddler to go to sleep without be mean	0.1769
+3872395	pred.bt.9	what are some easi way to get a toddler to go to sleep without be mean	0.1769
+3874326	-1	how come compton is only designated for black people?	0.2777
+3874326	pred.bt.1	come compton designated black people	0.4309
+3874326	pred.bt.10	come compton designated black people	0.4309
+3874326	pred.bt.2	come compton designated black people	0.4309
+3874326	pred.bt.3	come compton designated black people	0.4309
+3874326	pred.bt.4	come compton designated black people	0.4309
+3874326	pred.bt.5	come compton designated black people	0.4309
+3874326	pred.bt.6	come compton designated black people	0.4309
+3874326	pred.bt.7	come compton designated black people	0.4309
+3874326	pred.bt.8	come compton designated black people	0.4309
+3874326	pred.bt.9	come compton designated black people	0.4309
+3910925	-1	why is yawning contagious?	0.7326
+3910925	pred.bt.1	yawning contagious infection yawn	0.7635
+3910925	pred.bt.10	yawning contagious infection yawn	0.7635
+3910925	pred.bt.2	yawning contagious infection yawn	0.7635
+3910925	pred.bt.3	yawning contagious infection yawn	0.7635
+3910925	pred.bt.4	yawning contagious infection yawn	0.7635
+3910925	pred.bt.5	yawning contagious infection yawn	0.7635
+3910925	pred.bt.6	yawning contagious infection yawn	0.7635
+3910925	pred.bt.7	yawning contagious infection yawn	0.7635
+3910925	pred.bt.8	yawning contagious infection yawn	0.7635
+3910925	pred.bt.9	yawning contagious infection yawn	0.7635
+3960080	-1	why don't commercial planes fly over the north pole?	0.81
+3960080	pred.bt.1	n t commercial planes fly north pole	0.7807
+3960080	pred.bt.10	n t commercial planes fly north pole	0.7807
+3960080	pred.bt.2	n t commercial planes fly north pole	0.7807
+3960080	pred.bt.3	n t commercial planes fly north pole	0.7807
+3960080	pred.bt.4	n t commercial planes fly north pole	0.7807
+3960080	pred.bt.5	n t commercial planes fly north pole	0.7807
+3960080	pred.bt.6	n t commercial planes fly north pole	0.7807
+3960080	pred.bt.7	n t commercial planes fly north pole	0.7807
+3960080	pred.bt.8	n t commercial planes fly north pole	0.7807
+3960080	pred.bt.9	n t commercial planes fly north pole	0.7807
+3971195	-1	how do i get my pitbull more agressive?	0.3837
+3971195	pred.bt.1	get pitbull agressive aggression pitbull rapper	0.492
+3971195	pred.bt.10	get pitbull agressive aggression pitbull rapper	0.492
+3971195	pred.bt.2	get pitbull agressive aggression pitbull rapper	0.492
+3971195	pred.bt.3	get pitbull agressive aggression pitbull rapper	0.492
+3971195	pred.bt.4	get pitbull agressive aggression pitbull rapper	0.492
+3971195	pred.bt.5	get pitbull agressive aggression pitbull rapper	0.492
+3971195	pred.bt.6	get pitbull agressive aggression pitbull rapper	0.492
+3971195	pred.bt.7	get pitbull agressive aggression pitbull rapper	0.492
+3971195	pred.bt.8	get pitbull agressive aggression pitbull rapper	0.492
+3971195	pred.bt.9	get pitbull agressive aggression pitbull rapper	0.492
+3990512	-1	how can we get concentration onsomething?	0.0637
+3990512	pred.bt.1	get concentration onsomething	0.4358
+3990512	pred.bt.10	get concentration onsomething	0.4358
+3990512	pred.bt.2	get concentration onsomething	0.4358
+3990512	pred.bt.3	get concentration onsomething	0.4358
+3990512	pred.bt.4	get concentration onsomething	0.4358
+3990512	pred.bt.5	get concentration onsomething	0.4358
+3990512	pred.bt.6	get concentration onsomething	0.4358
+3990512	pred.bt.7	get concentration onsomething	0.4358
+3990512	pred.bt.8	get concentration onsomething	0.4358
+3990512	pred.bt.9	get concentration onsomething	0.4358
+4003223	-1	what are the marketing gimmicks that will attract males?	0.4862
+4003223	pred.bt.1	marketing gimmicks attract males	0.5222
+4003223	pred.bt.10	marketing gimmicks attract males	0.5222
+4003223	pred.bt.2	marketing gimmicks attract males	0.5222
+4003223	pred.bt.3	marketing gimmicks attract males	0.5222
+4003223	pred.bt.4	marketing gimmicks attract males	0.5222
+4003223	pred.bt.5	marketing gimmicks attract males	0.5222
+4003223	pred.bt.6	marketing gimmicks attract males	0.5222
+4003223	pred.bt.7	marketing gimmicks attract males	0.5222
+4003223	pred.bt.8	marketing gimmicks attract males	0.5222
+4003223	pred.bt.9	marketing gimmicks attract males	0.5222
+4012558	-1	what is the term milky way?	0.7552
+4012558	pred.bt.1	term milky way time milky way	0.7675
+4012558	pred.bt.10	term milky way time milky way	0.7675
+4012558	pred.bt.2	term milky way time milky way	0.7675
+4012558	pred.bt.3	term milky way time milky way	0.7675
+4012558	pred.bt.4	term milky way time milky way	0.7675
+4012558	pred.bt.5	term milky way time milky way	0.7675
+4012558	pred.bt.6	term milky way time milky way	0.7675
+4012558	pred.bt.7	term milky way time milky way	0.7675
+4012558	pred.bt.8	term milky way time milky way	0.7675
+4012558	pred.bt.9	term milky way time milky way	0.7675
+4018891	-1	how do i know if a particular term or phrase is copyrighted?	0.3244
+4018891	pred.bt.1	how do i know sleep together if a particular term or phrase is copyrighted copyright	0.5227
+4018891	pred.bt.10	how do i know sleep together if a particular term or phrase is copyrighted copyright	0.5227
+4018891	pred.bt.2	how do i know sleep together if a particular term or phrase is copyrighted copyright	0.5227
+4018891	pred.bt.3	how do i know sleep together if a particular term or phrase is copyrighted copyright	0.5227
+4018891	pred.bt.4	how do i know sleep together if a particular term or phrase is copyrighted copyright	0.5227
+4018891	pred.bt.5	how do i know sleep together if a particular term or phrase is copyrighted copyright	0.5227
+4018891	pred.bt.6	how do i know sleep together if a particular term or phrase is copyrighted copyright	0.5227
+4018891	pred.bt.7	how do i know sleep together if a particular term or phrase is copyrighted copyright	0.5227
+4018891	pred.bt.8	how do i know sleep together if a particular term or phrase is copyrighted copyright	0.5227
+4018891	pred.bt.9	how do i know sleep together if a particular term or phrase is copyrighted copyright	0.5227
+4126337	-1	why does my friend buy...?	0.2582
+4126337	pred.bt.1	friend buy	0.379
+4126337	pred.bt.10	friend buy	0.379
+4126337	pred.bt.2	friend buy	0.379
+4126337	pred.bt.3	friend buy	0.379
+4126337	pred.bt.4	friend buy	0.379
+4126337	pred.bt.5	friend buy	0.379
+4126337	pred.bt.6	friend buy	0.379
+4126337	pred.bt.7	friend buy	0.379
+4126337	pred.bt.8	friend buy	0.379
+4126337	pred.bt.9	friend buy	0.379
+4153592	-1	what can make someones ear's stink?	0.285
+4153592	pred.bt.1	make someones ear s stink	0.3122
+4153592	pred.bt.10	make someones ear s stink	0.3122
+4153592	pred.bt.2	make someones ear s stink	0.3122
+4153592	pred.bt.3	make someones ear s stink	0.3122
+4153592	pred.bt.4	make someones ear s stink	0.3122
+4153592	pred.bt.5	make someones ear s stink	0.3122
+4153592	pred.bt.6	make someones ear s stink	0.3122
+4153592	pred.bt.7	make someones ear s stink	0.3122
+4153592	pred.bt.8	make someones ear s stink	0.3122
+4153592	pred.bt.9	make someones ear s stink	0.3122
+4165406	-1	why did the founder of daewoo get a 10-year jail sentence?	0.6453
+4165406	pred.bt.1	founder daewoo get year jail sentence	0.738
+4165406	pred.bt.10	founder daewoo get year jail sentence	0.738
+4165406	pred.bt.2	founder daewoo get year jail sentence	0.738
+4165406	pred.bt.3	founder daewoo get year jail sentence	0.738
+4165406	pred.bt.4	founder daewoo get year jail sentence	0.738
+4165406	pred.bt.5	founder daewoo get year jail sentence	0.738
+4165406	pred.bt.6	founder daewoo get year jail sentence	0.738
+4165406	pred.bt.7	founder daewoo get year jail sentence	0.738
+4165406	pred.bt.8	founder daewoo get year jail sentence	0.738
+4165406	pred.bt.9	founder daewoo get year jail sentence	0.738
+4185395	-1	how can i cure the std or the sexually transmitted disease?	0.6419
+4185395	pred.bt.1	how can i cure the std or the sexually transmitted disease?	0.6419
+4185395	pred.bt.10	how can i cure the std or the sexually transmitted disease?	0.6419
+4185395	pred.bt.2	how can i cure the std or the sexually transmitted disease?	0.6419
+4185395	pred.bt.3	how can i cure the std or the sexually transmitted disease?	0.6419
+4185395	pred.bt.4	how can i cure the std or the sexually transmitted disease?	0.6419
+4185395	pred.bt.5	how can i cure the std or the sexually transmitted disease?	0.6419
+4185395	pred.bt.6	how can i cure the std or the sexually transmitted disease?	0.6419
+4185395	pred.bt.7	how can i cure the std or the sexually transmitted disease?	0.6419
+4185395	pred.bt.8	how can i cure the std or the sexually transmitted disease?	0.6419
+4185395	pred.bt.9	how can i cure the std or the sexually transmitted disease?	0.6419
+4185501	-1	why does the sun shine?	0.5587
+4185501	pred.bt.1	whi doe the sun shine	0.626
+4185501	pred.bt.10	whi doe the sun shine	0.626
+4185501	pred.bt.2	whi doe the sun shine	0.626
+4185501	pred.bt.3	whi doe the sun shine	0.626
+4185501	pred.bt.4	whi doe the sun shine	0.626
+4185501	pred.bt.5	whi doe the sun shine	0.626
+4185501	pred.bt.6	whi doe the sun shine	0.626
+4185501	pred.bt.7	whi doe the sun shine	0.626
+4185501	pred.bt.8	whi doe the sun shine	0.626
+4185501	pred.bt.9	whi doe the sun shine	0.626
+4190287	-1	why is switching schools so depressing?	0.4591
+4190287	pred.bt.1	switching schools depressing	0.5306
+4190287	pred.bt.10	switching schools depressing	0.5306
+4190287	pred.bt.2	switching schools depressing	0.5306
+4190287	pred.bt.3	switching schools depressing	0.5306
+4190287	pred.bt.4	switching schools depressing	0.5306
+4190287	pred.bt.5	switching schools depressing	0.5306
+4190287	pred.bt.6	switching schools depressing	0.5306
+4190287	pred.bt.7	switching schools depressing	0.5306
+4190287	pred.bt.8	switching schools depressing	0.5306
+4190287	pred.bt.9	switching schools depressing	0.5306
+4196421	-1	how can you be more brilliant?	0.5063
+4196421	pred.bt.1	brilliant	0.6859
+4196421	pred.bt.10	brilliant	0.6859
+4196421	pred.bt.2	brilliant	0.6859
+4196421	pred.bt.3	brilliant	0.6859
+4196421	pred.bt.4	brilliant	0.6859
+4196421	pred.bt.5	brilliant	0.6859
+4196421	pred.bt.6	brilliant	0.6859
+4196421	pred.bt.7	brilliant	0.6859
+4196421	pred.bt.8	brilliant	0.6859
+4196421	pred.bt.9	brilliant	0.6859
+4197214	-1	why my gf feel like pissing during sexual intercourse?	0.4939
+4197214	pred.bt.1	gf feel like pissing sexual intercourse sexual intercourse	0.547
+4197214	pred.bt.10	gf feel like pissing sexual intercourse sexual intercourse	0.547
+4197214	pred.bt.2	gf feel like pissing sexual intercourse sexual intercourse	0.547
+4197214	pred.bt.3	gf feel like pissing sexual intercourse sexual intercourse	0.547
+4197214	pred.bt.4	gf feel like pissing sexual intercourse sexual intercourse	0.547
+4197214	pred.bt.5	gf feel like pissing sexual intercourse sexual intercourse	0.547
+4197214	pred.bt.6	gf feel like pissing sexual intercourse sexual intercourse	0.547
+4197214	pred.bt.7	gf feel like pissing sexual intercourse sexual intercourse	0.547
+4197214	pred.bt.8	gf feel like pissing sexual intercourse sexual intercourse	0.547
+4197214	pred.bt.9	gf feel like pissing sexual intercourse sexual intercourse	0.547
+4250296	-1	what do doctors do when a patient has a do nor resuscitate order?	0.2239
+4250296	pred.bt.1	doctors patient resuscitate order	0.5833
+4250296	pred.bt.10	doctors patient resuscitate order	0.5833
+4250296	pred.bt.2	doctors patient resuscitate order	0.5833
+4250296	pred.bt.3	doctors patient resuscitate order	0.5833
+4250296	pred.bt.4	doctors patient resuscitate order	0.5833
+4250296	pred.bt.5	doctors patient resuscitate order	0.5833
+4250296	pred.bt.6	doctors patient resuscitate order	0.5833
+4250296	pred.bt.7	doctors patient resuscitate order	0.5833
+4250296	pred.bt.8	doctors patient resuscitate order	0.5833
+4250296	pred.bt.9	doctors patient resuscitate order	0.5833
+4256593	-1	how do i remove the simm card on a lg vx8300 cell phone?	0.7501
+4256593	pred.bt.1	remove simm card lg vx cell phone	0.7808
+4256593	pred.bt.10	remove simm card lg vx cell phone	0.7808
+4256593	pred.bt.2	remove simm card lg vx cell phone	0.7808
+4256593	pred.bt.3	remove simm card lg vx cell phone	0.7808
+4256593	pred.bt.4	remove simm card lg vx cell phone	0.7808
+4256593	pred.bt.5	remove simm card lg vx cell phone	0.7808
+4256593	pred.bt.6	remove simm card lg vx cell phone	0.7808
+4256593	pred.bt.7	remove simm card lg vx cell phone	0.7808
+4256593	pred.bt.8	remove simm card lg vx cell phone	0.7808
+4256593	pred.bt.9	remove simm card lg vx cell phone	0.7808
+4278201	-1	how does ultraviolet light affects seed germination and plant growth?	0.867
+4278201	pred.bt.1	ultraviolet light affects seed germination plant growth	0.8701
+4278201	pred.bt.10	ultraviolet light affects seed germination plant growth	0.8701
+4278201	pred.bt.2	ultraviolet light affects seed germination plant growth	0.8701
+4278201	pred.bt.3	ultraviolet light affects seed germination plant growth	0.8701
+4278201	pred.bt.4	ultraviolet light affects seed germination plant growth	0.8701
+4278201	pred.bt.5	ultraviolet light affects seed germination plant growth	0.8701
+4278201	pred.bt.6	ultraviolet light affects seed germination plant growth	0.8701
+4278201	pred.bt.7	ultraviolet light affects seed germination plant growth	0.8701
+4278201	pred.bt.8	ultraviolet light affects seed germination plant growth	0.8701
+4278201	pred.bt.9	ultraviolet light affects seed germination plant growth	0.8701
+4283542	-1	i have had loose stools for a week...how do i make it stop?	0.3914
+4283542	pred.bt.1	loose stools week make stop	0.6706
+4283542	pred.bt.10	loose stools week make stop	0.6706
+4283542	pred.bt.2	loose stools week make stop	0.6706
+4283542	pred.bt.3	loose stools week make stop	0.6706
+4283542	pred.bt.4	loose stools week make stop	0.6706
+4283542	pred.bt.5	loose stools week make stop	0.6706
+4283542	pred.bt.6	loose stools week make stop	0.6706
+4283542	pred.bt.7	loose stools week make stop	0.6706
+4283542	pred.bt.8	loose stools week make stop	0.6706
+4283542	pred.bt.9	loose stools week make stop	0.6706
+4288761	-1	how can i stop my husband from exhuming my baby's body for compensation?	0.2323
+4288761	pred.bt.1	stop husband exhuming baby s body compensation	0.3713
+4288761	pred.bt.10	stop husband exhuming baby s body compensation	0.3713
+4288761	pred.bt.2	stop husband exhuming baby s body compensation	0.3713
+4288761	pred.bt.3	stop husband exhuming baby s body compensation	0.3713
+4288761	pred.bt.4	stop husband exhuming baby s body compensation	0.3713
+4288761	pred.bt.5	stop husband exhuming baby s body compensation	0.3713
+4288761	pred.bt.6	stop husband exhuming baby s body compensation	0.3713
+4288761	pred.bt.7	stop husband exhuming baby s body compensation	0.3713
+4288761	pred.bt.8	stop husband exhuming baby s body compensation	0.3713
+4288761	pred.bt.9	stop husband exhuming baby s body compensation	0.3713
+4311093	-1	why hot air rises up?	0.7067
+4311093	pred.bt.1	whi hot air rise up	0.7234
+4311093	pred.bt.10	whi hot air rise up	0.7234
+4311093	pred.bt.2	whi hot air rise up	0.7234
+4311093	pred.bt.3	whi hot air rise up	0.7234
+4311093	pred.bt.4	whi hot air rise up	0.7234
+4311093	pred.bt.5	whi hot air rise up	0.7234
+4311093	pred.bt.6	whi hot air rise up	0.7234
+4311093	pred.bt.7	whi hot air rise up	0.7234
+4311093	pred.bt.8	whi hot air rise up	0.7234
+4311093	pred.bt.9	whi hot air rise up	0.7234
+4357460	-1	how to make my car faster?	0.2926
+4357460	pred.bt.1	make car faster	0.3364
+4357460	pred.bt.10	make car faster	0.3364
+4357460	pred.bt.2	make car faster	0.3364
+4357460	pred.bt.3	make car faster	0.3364
+4357460	pred.bt.4	make car faster	0.3364
+4357460	pred.bt.5	make car faster	0.3364
+4357460	pred.bt.6	make car faster	0.3364
+4357460	pred.bt.7	make car faster	0.3364
+4357460	pred.bt.8	make car faster	0.3364
+4357460	pred.bt.9	make car faster	0.3364
+4365565	-1	how does water pressure change?	0.3858
+4365565	pred.bt.1	water pressure change	0.6774
+4365565	pred.bt.10	water pressure change	0.6774
+4365565	pred.bt.2	water pressure change	0.6774
+4365565	pred.bt.3	water pressure change	0.6774
+4365565	pred.bt.4	water pressure change	0.6774
+4365565	pred.bt.5	water pressure change	0.6774
+4365565	pred.bt.6	water pressure change	0.6774
+4365565	pred.bt.7	water pressure change	0.6774
+4365565	pred.bt.8	water pressure change	0.6774
+4365565	pred.bt.9	water pressure change	0.6774
+4367654	-1	why is april 19th important?	0.3939
+4367654	pred.bt.1	why is april 19th important?	0.3939
+4367654	pred.bt.10	why is april 19th important?	0.3939
+4367654	pred.bt.2	why is april 19th important?	0.3939
+4367654	pred.bt.3	why is april 19th important?	0.3939
+4367654	pred.bt.4	why is april 19th important?	0.3939
+4367654	pred.bt.5	why is april 19th important?	0.3939
+4367654	pred.bt.6	why is april 19th important?	0.3939
+4367654	pred.bt.7	why is april 19th important?	0.3939
+4367654	pred.bt.8	why is april 19th important?	0.3939
+4367654	pred.bt.9	why is april 19th important?	0.3939
+4372730	-1	why doesn't the bible make any sense?	0.2184
+4372730	pred.bt.1	n t bible make sense bible	0.4256
+4372730	pred.bt.10	n t bible make sense bible	0.4256
+4372730	pred.bt.2	n t bible make sense bible	0.4256
+4372730	pred.bt.3	n t bible make sense bible	0.4256
+4372730	pred.bt.4	n t bible make sense bible	0.4256
+4372730	pred.bt.5	n t bible make sense bible	0.4256
+4372730	pred.bt.6	n t bible make sense bible	0.4256
+4372730	pred.bt.7	n t bible make sense bible	0.4256
+4372730	pred.bt.8	n t bible make sense bible	0.4256
+4372730	pred.bt.9	n t bible make sense bible	0.4256
+4377861	-1	how to handsew sequins?	0.9502
+4377861	pred.bt.1	handsew sequins	0.9766
+4377861	pred.bt.10	handsew sequins	0.9766
+4377861	pred.bt.2	handsew sequins	0.9766
+4377861	pred.bt.3	handsew sequins	0.9766
+4377861	pred.bt.4	handsew sequins	0.9766
+4377861	pred.bt.5	handsew sequins	0.9766
+4377861	pred.bt.6	handsew sequins	0.9766
+4377861	pred.bt.7	handsew sequins	0.9766
+4377861	pred.bt.8	handsew sequins	0.9766
+4377861	pred.bt.9	handsew sequins	0.9766
+4385316	-1	how do i keep black birds out of my bar-b-que grill?	0.3927
+4385316	pred.bt.1	keep black birds bar b que grill	0.4397
+4385316	pred.bt.10	keep black birds bar b que grill	0.4397
+4385316	pred.bt.2	keep black birds bar b que grill	0.4397
+4385316	pred.bt.3	keep black birds bar b que grill	0.4397
+4385316	pred.bt.4	keep black birds bar b que grill	0.4397
+4385316	pred.bt.5	keep black birds bar b que grill	0.4397
+4385316	pred.bt.6	keep black birds bar b que grill	0.4397
+4385316	pred.bt.7	keep black birds bar b que grill	0.4397
+4385316	pred.bt.8	keep black birds bar b que grill	0.4397
+4385316	pred.bt.9	keep black birds bar b que grill	0.4397
+4406669	-1	what do you order at taco bell?	0.4545
+4406669	pred.bt.1	order taco bell order column major maydoni tukmit trip small small taco cobra single engin shawun khampiranon trra	0.4973
+4406669	pred.bt.10	order taco bell order column major maydoni tukmit trip small small taco cobra single engin shawun khampiranon trra	0.4973
+4406669	pred.bt.2	order taco bell order column major maydoni tukmit trip small small taco cobra single engin shawun khampiranon trra	0.4973
+4406669	pred.bt.3	order taco bell order column major maydoni tukmit trip small small taco cobra single engin shawun khampiranon trra	0.4973
+4406669	pred.bt.4	order taco bell order column major maydoni tukmit trip small small taco cobra single engin shawun khampiranon trra	0.4973
+4406669	pred.bt.5	order taco bell order column major maydoni tukmit trip small small taco cobra single engin shawun khampiranon trra	0.4973
+4406669	pred.bt.6	order taco bell order column major maydoni tukmit trip small small taco cobra single engin shawun khampiranon trra	0.4973
+4406669	pred.bt.7	order taco bell order column major maydoni tukmit trip small small taco cobra single engin shawun khampiranon trra	0.4973
+4406669	pred.bt.8	order taco bell order column major maydoni tukmit trip small small taco cobra single engin shawun khampiranon trra	0.4973
+4406669	pred.bt.9	order taco bell order column major maydoni tukmit trip small small taco cobra single engin shawun khampiranon trra	0.4973
+4448097	-1	what is innate immunity?	0.7279
+4448097	pred.bt.1	innate immunity	0.8028
+4448097	pred.bt.10	innate immunity	0.8028
+4448097	pred.bt.2	innate immunity	0.8028
+4448097	pred.bt.3	innate immunity	0.8028
+4448097	pred.bt.4	innate immunity	0.8028
+4448097	pred.bt.5	innate immunity	0.8028
+4448097	pred.bt.6	innate immunity	0.8028
+4448097	pred.bt.7	innate immunity	0.8028
+4448097	pred.bt.8	innate immunity	0.8028
+4448097	pred.bt.9	innate immunity	0.8028
+4462511	-1	how do i know if my gold fish is pregnant?	0.565
+4462511	pred.bt.1	know gold fish pregnant	0.6612
+4462511	pred.bt.10	know gold fish pregnant	0.6612
+4462511	pred.bt.2	know gold fish pregnant	0.6612
+4462511	pred.bt.3	know gold fish pregnant	0.6612
+4462511	pred.bt.4	know gold fish pregnant	0.6612
+4462511	pred.bt.5	know gold fish pregnant	0.6612
+4462511	pred.bt.6	know gold fish pregnant	0.6612
+4462511	pred.bt.7	know gold fish pregnant	0.6612
+4462511	pred.bt.8	know gold fish pregnant	0.6612
+4462511	pred.bt.9	know gold fish pregnant	0.6612
+4467100	-1	what does sholomister mean?	0.0
+4467100	pred.bt.1	what do sholomister mean	0.1544
+4467100	pred.bt.10	what do sholomister mean	0.1544
+4467100	pred.bt.2	what do sholomister mean	0.1544
+4467100	pred.bt.3	what do sholomister mean	0.1544
+4467100	pred.bt.4	what do sholomister mean	0.1544
+4467100	pred.bt.5	what do sholomister mean	0.1544
+4467100	pred.bt.6	what do sholomister mean	0.1544
+4467100	pred.bt.7	what do sholomister mean	0.1544
+4467100	pred.bt.8	what do sholomister mean	0.1544
+4467100	pred.bt.9	what do sholomister mean	0.1544
+4473137	-1	causes and effects of the rise of christanity?	0.5264
+4473137	pred.bt.1	causes effects lemnyama zendikar ris perathia christanity	0.5409
+4473137	pred.bt.10	causes effects lemnyama zendikar ris perathia christanity	0.5409
+4473137	pred.bt.2	causes effects lemnyama zendikar ris perathia christanity	0.5409
+4473137	pred.bt.3	causes effects lemnyama zendikar ris perathia christanity	0.5409
+4473137	pred.bt.4	causes effects lemnyama zendikar ris perathia christanity	0.5409
+4473137	pred.bt.5	causes effects lemnyama zendikar ris perathia christanity	0.5409
+4473137	pred.bt.6	causes effects lemnyama zendikar ris perathia christanity	0.5409
+4473137	pred.bt.7	causes effects lemnyama zendikar ris perathia christanity	0.5409
+4473137	pred.bt.8	causes effects lemnyama zendikar ris perathia christanity	0.5409
+4473137	pred.bt.9	causes effects lemnyama zendikar ris perathia christanity	0.5409
+4473331	-1	how can i keep my rabit indoors?	0.3427
+4473331	pred.bt.1	keep rabit indoors	0.453
+4473331	pred.bt.10	keep rabit indoors	0.453
+4473331	pred.bt.2	keep rabit indoors	0.453
+4473331	pred.bt.3	keep rabit indoors	0.453
+4473331	pred.bt.4	keep rabit indoors	0.453
+4473331	pred.bt.5	keep rabit indoors	0.453
+4473331	pred.bt.6	keep rabit indoors	0.453
+4473331	pred.bt.7	keep rabit indoors	0.453
+4473331	pred.bt.8	keep rabit indoors	0.453
+4473331	pred.bt.9	keep rabit indoors	0.453

@@ -1,0 +1,501 @@
+qid	order	query	bm25.recip_rank
+8293	-1	why do men fantasized about raping women?	1.0
+23464	-1	why girls are beautiful?	1.0
+34041	-1	what are the symptoms of strep throat?	1.0
+78762	-1	why do i have pterofobia?	0.0
+100653	-1	how do i go about getting copies of letters of commendation prsented to me from city of san diego?	1.0
+103830	-1	why do man arabs hate the west ?	1.0
+143833	-1	what is the difference between coolant and anti-freeze?	1.0
+159716	-1	how do i find an inmate at southwest detention center 30755 auld rd., murrieta, ca 92563?	1.0
+172731	-1	how for is saturn from the sun?	1.0
+204633	-1	why do you have memories?	0.3333
+204633	pred.refiner.1	memories	1.0
+204633	pred.refiner.10	memories	1.0
+204633	pred.refiner.2	memories	1.0
+204633	pred.refiner.3	memories	1.0
+204633	pred.refiner.4	memories	1.0
+204633	pred.refiner.5	memories	1.0
+204633	pred.refiner.6	memories	1.0
+204633	pred.refiner.7	memories	1.0
+204633	pred.refiner.8	memories	1.0
+204633	pred.refiner.9	memories	1.0
+204963	-1	what does 5 by 5 mean?	1.0
+224109	-1	what is citriscidal?	0.0
+224109	pred.refiner.1	what is citricidal	1.0
+224109	pred.refiner.10	what is citricidal	1.0
+224109	pred.refiner.2	what is citricidal	1.0
+224109	pred.refiner.3	what is citricidal	1.0
+224109	pred.refiner.4	what is citricidal	1.0
+224109	pred.refiner.5	what is citricidal	1.0
+224109	pred.refiner.6	what is citricidal	1.0
+224109	pred.refiner.7	what is citricidal	1.0
+224109	pred.refiner.8	what is citricidal	1.0
+224109	pred.refiner.9	what is citricidal	1.0
+225575	-1	what does 'wet behind the ears' mean?	1.0
+229303	-1	why  is  the   war continuing  in  afghanistan?	1.0
+312215	-1	how good is apple pie when it is cold?	1.0
+354733	-1	what are the names of some famous photographers and why do their work stand up?	0.5
+354733	pred.refiner.1	names famous photographers work stand	1.0
+354733	pred.refiner.10	names famous photographers work stand	1.0
+354733	pred.refiner.2	names famous photographers work stand	1.0
+354733	pred.refiner.3	names famous photographers work stand	1.0
+354733	pred.refiner.4	names famous photographers work stand	1.0
+354733	pred.refiner.5	names famous photographers work stand	1.0
+354733	pred.refiner.6	names famous photographers work stand	1.0
+354733	pred.refiner.7	names famous photographers work stand	1.0
+354733	pred.refiner.8	names famous photographers work stand	1.0
+354733	pred.refiner.9	names famous photographers work stand	1.0
+387874	-1	why does asparugus make your pee stink?	1.0
+402514	-1	why do my baked potatos never taste near as good as when i get them in a nice restaurant?	1.0
+421753	-1	how to get rid of a skunk?	1.0
+443848	-1	does anybody know where i could get a free guide on how to train a siberian husky?	1.0
+456214	-1	what is the importance of absolute zero temperature?	1.0
+474417	-1	what does the prefix "cyclo" mean in greek mythology?	1.0
+481173	-1	why live, when your in misery?	0.5
+481173	pred.refiner.1	live misery	1.0
+481173	pred.refiner.10	live misery	1.0
+481173	pred.refiner.2	live misery	1.0
+481173	pred.refiner.3	live misery	1.0
+481173	pred.refiner.4	live misery	1.0
+481173	pred.refiner.5	live misery	1.0
+481173	pred.refiner.6	live misery	1.0
+481173	pred.refiner.7	live misery	1.0
+481173	pred.refiner.8	live misery	1.0
+481173	pred.refiner.9	live misery	1.0
+484496	-1	why a man float on water when he dies?	1.0
+551239	-1	how do i find out if someone left me a life insurance policy?	1.0
+558570	-1	my city just put a ban on pit bulls, how do we reverse the decision?	1.0
+654124	-1	why am i not able to concentrate on my studies?	1.0
+667488	-1	how soon can you drive on a newly paved driveway?	0.5
+667488	pred.refiner.1	soon drive newly paved driveway	1.0
+667488	pred.refiner.10	soon drive newly paved driveway	1.0
+667488	pred.refiner.2	soon drive newly paved driveway	1.0
+667488	pred.refiner.3	soon drive newly paved driveway	1.0
+667488	pred.refiner.4	soon drive newly paved driveway	1.0
+667488	pred.refiner.5	soon drive newly paved driveway	1.0
+667488	pred.refiner.6	soon drive newly paved driveway	1.0
+667488	pred.refiner.7	soon drive newly paved driveway	1.0
+667488	pred.refiner.8	soon drive newly paved driveway	1.0
+667488	pred.refiner.9	soon drive newly paved driveway	1.0
+676028	-1	why do our elected federal senators and congressmen not have to live on regular s.s. like the rest of us?	1.0
+707303	-1	how do people get hiccups, what are they, and what exactly is the best way to cure them?	1.0
+714612	-1	why doesn't the water fall off  earth if it's round?	1.0
+746920	-1	how do you get rid of wart on your hand a using home method?	1.0
+761742	-1	how can i become a playa?	1.0
+765138	-1	why does loving someone hurts like hell?	1.0
+785823	-1	how is the library consider as a heart of university?	1.0
+788976	-1	why did the bush admin cover up 9/11?	1.0
+821387	-1	i have mice.how do i get rid of them humanely?	0.2
+821387	pred.refiner.1	mice how get rid humanely	1.0
+821387	pred.refiner.10	mice how get rid humanely	1.0
+821387	pred.refiner.2	mice how get rid humanely	1.0
+821387	pred.refiner.3	mice how get rid humanely	1.0
+821387	pred.refiner.4	mice how get rid humanely	1.0
+821387	pred.refiner.5	mice how get rid humanely	1.0
+821387	pred.refiner.6	mice how get rid humanely	1.0
+821387	pred.refiner.7	mice how get rid humanely	1.0
+821387	pred.refiner.8	mice how get rid humanely	1.0
+821387	pred.refiner.9	mice how get rid humanely	1.0
+823384	-1	why did the army have personal cuts in the mid 1990's?	1.0
+849221	-1	when it comes to religion why dont people realize history repeats itself?	0.5
+849221	pred.refiner.1	when it comes to religion why dont people realize history repeats itself histori anymor tsk bibl chang repeat doe	1.0
+849221	pred.refiner.10	when it comes to religion why dont people realize history repeats itself histori anymor tsk bibl chang repeat doe	1.0
+849221	pred.refiner.2	when it comes to religion why dont people realize history repeats itself histori anymor tsk bibl chang repeat doe	1.0
+849221	pred.refiner.3	when it comes to religion why dont people realize history repeats itself histori anymor tsk bibl chang repeat doe	1.0
+849221	pred.refiner.4	when it comes to religion why dont people realize history repeats itself histori anymor tsk bibl chang repeat doe	1.0
+849221	pred.refiner.5	when it comes to religion why dont people realize history repeats itself histori anymor tsk bibl chang repeat doe	1.0
+849221	pred.refiner.6	when it comes to religion why dont people realize history repeats itself histori anymor tsk bibl chang repeat doe	1.0
+849221	pred.refiner.7	when it comes to religion why dont people realize history repeats itself histori anymor tsk bibl chang repeat doe	1.0
+849221	pred.refiner.8	when it comes to religion why dont people realize history repeats itself histori anymor tsk bibl chang repeat doe	1.0
+849221	pred.refiner.9	when it comes to religion why dont people realize history repeats itself histori anymor tsk bibl chang repeat doe	1.0
+851124	-1	how is ego a part of our survival instincts?	1.0
+896725	-1	what are some good exercises to get rid of those love handles?	0.5
+896725	pred.refiner.1	good exercises get rid love handles	1.0
+896725	pred.refiner.10	good exercises get rid love handles	1.0
+896725	pred.refiner.2	good exercises get rid love handles	1.0
+896725	pred.refiner.3	good exercises get rid love handles	1.0
+896725	pred.refiner.4	good exercises get rid love handles	1.0
+896725	pred.refiner.5	good exercises get rid love handles	1.0
+896725	pred.refiner.6	good exercises get rid love handles	1.0
+896725	pred.refiner.7	good exercises get rid love handles	1.0
+896725	pred.refiner.8	good exercises get rid love handles	1.0
+896725	pred.refiner.9	good exercises get rid love handles	1.0
+922849	-1	why do some people take life so seriously?	1.0
+949154	-1	can anybody tell me what is a butler?	1.0
+953489	-1	why do i have to dumb myself down all the time though i am highly undereducated?	1.0
+1015624	-1	what's the definition of a bloody mary?	1.0
+1017690	-1	what is the history of indian music?	1.0
+1035857	-1	why are liberals so quick to defend saddam?	1.0
+1063812	-1	how do i grow taller?	1.0
+1077370	-1	why do only humans have finger prints?	1.0
+1082595	-1	what is meant by mobile technology?	0.5
+1119420	-1	well the black light is uv light.so if it is "black" how can it be "light" ?	1.0
+1152934	-1	why don't fat people have to pay more for air travel?	1.0
+1167882	-1	what are the different types of sins and how are they caused?	1.0
+1199639	-1	how to "lose"all body fat ?	1.0
+1254390	-1	how do i deap fry chicken?	0.5
+1254390	pred.refiner.1	how do i deap fried chicken	1.0
+1254390	pred.refiner.10	how do i deap fried chicken	1.0
+1254390	pred.refiner.2	how do i deap fried chicken	1.0
+1254390	pred.refiner.3	how do i deap fried chicken	1.0
+1254390	pred.refiner.4	how do i deap fried chicken	1.0
+1254390	pred.refiner.5	how do i deap fried chicken	1.0
+1254390	pred.refiner.6	how do i deap fried chicken	1.0
+1254390	pred.refiner.7	how do i deap fried chicken	1.0
+1254390	pred.refiner.8	how do i deap fried chicken	1.0
+1254390	pred.refiner.9	how do i deap fried chicken	1.0
+1262692	-1	how can i get rid of pimples on my back?	1.0
+1282199	-1	how can i hide the cuts on my wrists?	1.0
+1287437	-1	how can i lose 30 pounds by june3?	1.0
+1290612	-1	why do anxiety and depression seem to coexist?	1.0
+1292734	-1	what color you like the most and why?	1.0
+1340574	-1	why do some people only go to church on easter sunday and never go again until christmas ?	1.0
+1351675	-1	why must i have an uncracked winshield in order to for my car to pass a safety inspeciton?	1.0
+1364894	-1	why do we need to tell customer service/operator about our sickness in order to make appointment w/ a doctor?	1.0
+1373069	-1	freedom of speech - why don't people understand how to use it?	0.5
+1373069	pred.refiner.1	freedom speech n t people understand use	1.0
+1373069	pred.refiner.10	freedom speech n t people understand use	1.0
+1373069	pred.refiner.2	freedom speech n t people understand use	1.0
+1373069	pred.refiner.3	freedom speech n t people understand use	1.0
+1373069	pred.refiner.4	freedom speech n t people understand use	1.0
+1373069	pred.refiner.5	freedom speech n t people understand use	1.0
+1373069	pred.refiner.6	freedom speech n t people understand use	1.0
+1373069	pred.refiner.7	freedom speech n t people understand use	1.0
+1373069	pred.refiner.8	freedom speech n t people understand use	1.0
+1373069	pred.refiner.9	freedom speech n t people understand use	1.0
+1459749	-1	why don't i have an asthma attack during sex?	1.0
+1477322	-1	why do people say germans are racists?	1.0
+1502604	-1	how do crooks  make  fake   passports  ?	1.0
+1509982	-1	how is th chemistry is a basic of science?	1.0
+1582877	-1	why do we go to school if in the real world we dont use most of it?	1.0
+1607728	-1	what causes gray facial hair in men?	1.0
+1623623	-1	how do you improve fuel efficiency of a 2004, ford ikon?	1.0
+1663853	-1	what is a wet dream?	1.0
+1702151	-1	how patient a driver are you?	0.0435
+1702151	pred.refiner.1	are you a patient driver	1.0
+1702151	pred.refiner.10	are you a patient driver	1.0
+1702151	pred.refiner.2	are you a patient driver	1.0
+1702151	pred.refiner.3	are you a patient driver	1.0
+1702151	pred.refiner.4	are you a patient driver	1.0
+1702151	pred.refiner.5	are you a patient driver	1.0
+1702151	pred.refiner.6	are you a patient driver	1.0
+1702151	pred.refiner.7	are you a patient driver	1.0
+1702151	pred.refiner.8	are you a patient driver	1.0
+1702151	pred.refiner.9	are you a patient driver	1.0
+1783010	-1	what is blaphsemy?	1.0
+1794677	-1	how can i treat my acne scars?	1.0
+1821193	-1	why do people feed poison (sugar) to their kids on easter, and why are there no chocolate jesuses?	1.0
+1844896	-1	how to cook angus burgers?	1.0
+1850323	-1	why some men never wash their hands after using the urinal/toilet?	1.0
+1862795	-1	how does spending prolonged time in microgravity affect the bodies of astronauts?	0.5
+1862795	pred.refiner.1	spending prolonged time microgravity affect bodies astronauts	1.0
+1862795	pred.refiner.10	spending prolonged time microgravity affect bodies astronauts	1.0
+1862795	pred.refiner.2	spending prolonged time microgravity affect bodies astronauts	1.0
+1862795	pred.refiner.3	spending prolonged time microgravity affect bodies astronauts	1.0
+1862795	pred.refiner.4	spending prolonged time microgravity affect bodies astronauts	1.0
+1862795	pred.refiner.5	spending prolonged time microgravity affect bodies astronauts	1.0
+1862795	pred.refiner.6	spending prolonged time microgravity affect bodies astronauts	1.0
+1862795	pred.refiner.7	spending prolonged time microgravity affect bodies astronauts	1.0
+1862795	pred.refiner.8	spending prolonged time microgravity affect bodies astronauts	1.0
+1862795	pred.refiner.9	spending prolonged time microgravity affect bodies astronauts	1.0
+1866981	-1	i know how i got here, but how did you?	1.0
+1880028	-1	what does "see leaflet" mean on ept pregnancy test?	1.0
+1937374	-1	how to get 277 v ac ?	1.0
+1944018	-1	why can't teenagers vote?	1.0
+1957887	-1	how can i hunt down and punch the people that keep spamming me?	1.0
+1964316	-1	what do you mean by "weed"?	1.0
+1968489	-1	which auto insurance do you use and why?	1.0
+1971899	-1	what is masturbat***?	1.0
+1977054	-1	couscous is a food from what origin?	1.0
+2008017	-1	why do black people like fried chicken somuch?	1.0
+2018562	-1	why does my black lab howl to "law and order" theme song?	1.0
+2142044	-1	what do you speculate happened to natalie holloway in aruba?	1.0
+2180086	-1	what are mormens?	1.0
+2182052	-1	why is lemonade at restaurants sometimes different?	1.0
+2192891	-1	how are braces put on and do they hurt a lot?	1.0
+2290758	-1	why do people ask questions they know?	0.1429
+2290758	pred.refiner.1	people ask questions know	1.0
+2290758	pred.refiner.10	people ask questions know	1.0
+2290758	pred.refiner.2	people ask questions know	1.0
+2290758	pred.refiner.3	people ask questions know	1.0
+2290758	pred.refiner.4	people ask questions know	1.0
+2290758	pred.refiner.5	people ask questions know	1.0
+2290758	pred.refiner.6	people ask questions know	1.0
+2290758	pred.refiner.7	people ask questions know	1.0
+2290758	pred.refiner.8	people ask questions know	1.0
+2290758	pred.refiner.9	people ask questions know	1.0
+2291272	-1	how is catholicism not christianity?	1.0
+2307305	-1	why do man rape little girls?	1.0
+2309774	-1	why do i keep seeing people on here 'dissing' on the soldiers in iraq?	1.0
+2380990	-1	why am i alive?	1.0
+2382487	-1	what do i do if i have not started my period in like almost 6 months?	1.0
+2418598	-1	why do wisdom varies from person to person?	1.0
+2443586	-1	what is a bro?	1.0
+2446614	-1	how could u get success?	0.3333
+2446614	pred.refiner.1	how could u get success curv fossil atmospher success you mechan self	1.0
+2446614	pred.refiner.10	how could u get success curv fossil atmospher success you mechan self	1.0
+2446614	pred.refiner.2	how could u get success curv fossil atmospher success you mechan self	1.0
+2446614	pred.refiner.3	how could u get success curv fossil atmospher success you mechan self	1.0
+2446614	pred.refiner.4	how could u get success curv fossil atmospher success you mechan self	1.0
+2446614	pred.refiner.5	how could u get success curv fossil atmospher success you mechan self	1.0
+2446614	pred.refiner.6	how could u get success curv fossil atmospher success you mechan self	1.0
+2446614	pred.refiner.7	how could u get success curv fossil atmospher success you mechan self	1.0
+2446614	pred.refiner.8	how could u get success curv fossil atmospher success you mechan self	1.0
+2446614	pred.refiner.9	how could u get success curv fossil atmospher success you mechan self	1.0
+2452795	-1	how can i heat the water within a 150 gal tank that's open to the atmosphere in feb.?	1.0
+2479423	-1	why is there brail on the keypads at drive up atm's?	1.0
+2484180	-1	why do people judge a dog by what he looks like?	1.0
+2528767	-1	how do i determine the charge of the iron ion in fecl3?	1.0
+2529114	-1	since i have premature ejaculation problem, how to satisfy my girl?	1.0
+2539741	-1	what cause the car to have white smoke coming from the muffler and making a kicking or knocking sounds?	1.0
+2551845	-1	why is gw dogged for not getting obl yet killing zarkawi is a non-event?	1.0
+2582920	-1	what is the difference in a dried plum and a dried prune?	1.0
+2592121	-1	how to rollover 401k into real estate?	1.0
+2619912	-1	how were you saved from sin-and born again as jesus says "except you repent, and be born again..." how didyou?	1.0
+2634143	-1	what is direct borrowing, phonological borrowing, linguistic borrowing, cultural borrowing,intimate borrowing?	1.0
+2643507	-1	why does milk cost more than gas per gallon?	1.0
+2713171	-1	what does the sentence's mean?	0.2
+2713171	pred.refiner.1	sentence s mean	1.0
+2713171	pred.refiner.10	sentence s mean	1.0
+2713171	pred.refiner.2	sentence s mean	1.0
+2713171	pred.refiner.3	sentence s mean	1.0
+2713171	pred.refiner.4	sentence s mean	1.0
+2713171	pred.refiner.5	sentence s mean	1.0
+2713171	pred.refiner.6	sentence s mean	1.0
+2713171	pred.refiner.7	sentence s mean	1.0
+2713171	pred.refiner.8	sentence s mean	1.0
+2713171	pred.refiner.9	sentence s mean	1.0
+2722241	-1	why do some animals hide in a dark place b4 they die?	0.25
+2722241	pred.refiner.1	animals hide dark place b die	1.0
+2722241	pred.refiner.10	animals hide dark place b die	1.0
+2722241	pred.refiner.2	animals hide dark place b die	1.0
+2722241	pred.refiner.3	animals hide dark place b die	1.0
+2722241	pred.refiner.4	animals hide dark place b die	1.0
+2722241	pred.refiner.5	animals hide dark place b die	1.0
+2722241	pred.refiner.6	animals hide dark place b die	1.0
+2722241	pred.refiner.7	animals hide dark place b die	1.0
+2722241	pred.refiner.8	animals hide dark place b die	1.0
+2722241	pred.refiner.9	animals hide dark place b die	1.0
+2783398	-1	what is a nucleus?	1.0
+2785579	-1	if you could be an element of weather, which would you choose, and why?	1.0
+2795030	-1	why do people drink cuervo when it tastes the same going down as coming up?	1.0
+2797224	-1	muslims are the happiest people ever, why?	1.0
+2799913	-1	what's the proper way to express sorrow at a funeral?	1.0
+2814599	-1	what does the word remission mean when referring to cancer patients?	1.0
+2814722	-1	why is the new jersey smoking ban not considered unconstitutional?	1.0
+2815090	-1	how cloning will affects our community?	0.5
+2815090	pred.refiner.1	cloning affects community devenyi preckwinkl forster larrinaga	1.0
+2815090	pred.refiner.10	cloning affects community devenyi preckwinkl forster larrinaga	1.0
+2815090	pred.refiner.2	cloning affects community devenyi preckwinkl forster larrinaga	1.0
+2815090	pred.refiner.3	cloning affects community devenyi preckwinkl forster larrinaga	1.0
+2815090	pred.refiner.4	cloning affects community devenyi preckwinkl forster larrinaga	1.0
+2815090	pred.refiner.5	cloning affects community devenyi preckwinkl forster larrinaga	1.0
+2815090	pred.refiner.6	cloning affects community devenyi preckwinkl forster larrinaga	1.0
+2815090	pred.refiner.7	cloning affects community devenyi preckwinkl forster larrinaga	1.0
+2815090	pred.refiner.8	cloning affects community devenyi preckwinkl forster larrinaga	1.0
+2815090	pred.refiner.9	cloning affects community devenyi preckwinkl forster larrinaga	1.0
+2838988	-1	how can i get a cork out of, not into, a wine bottle without a corkscrew?	1.0
+2847807	-1	how can i get rid of the hicups?	1.0
+2862887	-1	how to care for a spiked dragon and what to feed them?	1.0
+2864267	-1	what exemplifies effective customer service?	1.0
+2892478	-1	what factors cause the earth to heat unevenly?	1.0
+2956570	-1	what are the words to write the sound of raindrops, moving train & scribbling w/ pencil on paper figuratively?	1.0
+2976644	-1	how amoeba catches its prey?	1.0
+3040435	-1	usa have snow, hurricanes, flood, earthquakes and politicians, brazil only have politicians, why?	1.0
+3074429	-1	how can we understand islam and muslims better?	1.0
+3078448	-1	how do you prevent chicken from drying out when you cook it?	1.0
+3155314	-1	we have pork chops, veal chops, lamb chops, why is there not any beef chops ?	1.0
+3206998	-1	how does disneyland make it snow?	1.0
+3239329	-1	why do we wee a lot in the cold weather especially at night?	1.0
+3269759	-1	what is artificial intelligence?	1.0
+3278654	-1	why do kamikaze pilots wear helmets?	1.0
+3280768	-1	why is islam so hated in america?	1.0
+3295055	-1	what causes skin discoloration, specifically, whitening of the skin between fingers?	1.0
+3301173	-1	how to design road crust for national highways?	1.0
+3313308	-1	how can i enjoy my time alone?	0.1429
+3313308	pred.refiner.1	enjoy time alone time alone	1.0
+3313308	pred.refiner.10	enjoy time alone time alone	1.0
+3313308	pred.refiner.2	enjoy time alone time alone	1.0
+3313308	pred.refiner.3	enjoy time alone time alone	1.0
+3313308	pred.refiner.4	enjoy time alone time alone	1.0
+3313308	pred.refiner.5	enjoy time alone time alone	1.0
+3313308	pred.refiner.6	enjoy time alone time alone	1.0
+3313308	pred.refiner.7	enjoy time alone time alone	1.0
+3313308	pred.refiner.8	enjoy time alone time alone	1.0
+3313308	pred.refiner.9	enjoy time alone time alone	1.0
+3363149	-1	why do arabs and mexicans look alike?	1.0
+3369088	-1	how can we stop the spread of islam?	1.0
+3382736	-1	what is minimalist cubisium?	1.0
+3385681	-1	if red bull is soo bad for people ,then why is it soo popular?	1.0
+3389038	-1	why the media in us and europe is always attacking the arabs and islam without finding the truth about them?	0.25
+3389038	pred.refiner.1	media us europe always attacking arabs islam without finding truth	1.0
+3389038	pred.refiner.10	media us europe always attacking arabs islam without finding truth	1.0
+3389038	pred.refiner.2	media us europe always attacking arabs islam without finding truth	1.0
+3389038	pred.refiner.3	media us europe always attacking arabs islam without finding truth	1.0
+3389038	pred.refiner.4	media us europe always attacking arabs islam without finding truth	1.0
+3389038	pred.refiner.5	media us europe always attacking arabs islam without finding truth	1.0
+3389038	pred.refiner.6	media us europe always attacking arabs islam without finding truth	1.0
+3389038	pred.refiner.7	media us europe always attacking arabs islam without finding truth	1.0
+3389038	pred.refiner.8	media us europe always attacking arabs islam without finding truth	1.0
+3389038	pred.refiner.9	media us europe always attacking arabs islam without finding truth	1.0
+3396066	-1	why do airplanes fly so high?	1.0
+3411123	-1	why does'nt america regard foriegn credentials?	0.5
+3411123	pred.refiner.1	why do nt america regard foriegn credentials	1.0
+3411123	pred.refiner.10	why do nt america regard foriegn credentials	1.0
+3411123	pred.refiner.2	why do nt america regard foriegn credentials	1.0
+3411123	pred.refiner.3	why do nt america regard foriegn credentials	1.0
+3411123	pred.refiner.4	why do nt america regard foriegn credentials	1.0
+3411123	pred.refiner.5	why do nt america regard foriegn credentials	1.0
+3411123	pred.refiner.6	why do nt america regard foriegn credentials	1.0
+3411123	pred.refiner.7	why do nt america regard foriegn credentials	1.0
+3411123	pred.refiner.8	why do nt america regard foriegn credentials	1.0
+3411123	pred.refiner.9	why do nt america regard foriegn credentials	1.0
+3496147	-1	why was i punished for being christlike?	1.0
+3499881	-1	why is gordon ramsey so popular?	1.0
+3507491	-1	why is religious freedom more important today?	1.0
+3552010	-1	why do parent put kids on restriction?	1.0
+3554263	-1	why some people behave so rude without reason,is it due to their own problem?	1.0
+3559048	-1	how do you sell a junk car without a title?	1.0
+3577501	-1	what are some signs that puberty is beginning?	1.0
+3639660	-1	why do most cigarettes have the yellow filter?	1.0
+3640705	-1	what is the punishment for child molestors?	1.0
+3698636	-1	why do cats headbutt?	1.0
+3714728	-1	why is the world so shallow?	1.0
+3723508	-1	what is the difference between an ox and a bull?	1.0
+3778229	-1	how were the witches tested in the salem witch trials?	1.0
+3825386	-1	how can i develop leanbody and muscles?	1.0
+3872395	-1	what are some easy ways to get a toddler to go to sleep without being mean?	0.3333
+3872395	pred.refiner.1	what are some easi way to get a toddler to go to sleep without be mean	1.0
+3872395	pred.refiner.10	what are some easi way to get a toddler to go to sleep without be mean	1.0
+3872395	pred.refiner.2	what are some easi way to get a toddler to go to sleep without be mean	1.0
+3872395	pred.refiner.3	what are some easi way to get a toddler to go to sleep without be mean	1.0
+3872395	pred.refiner.4	what are some easi way to get a toddler to go to sleep without be mean	1.0
+3872395	pred.refiner.5	what are some easi way to get a toddler to go to sleep without be mean	1.0
+3872395	pred.refiner.6	what are some easi way to get a toddler to go to sleep without be mean	1.0
+3872395	pred.refiner.7	what are some easi way to get a toddler to go to sleep without be mean	1.0
+3872395	pred.refiner.8	what are some easi way to get a toddler to go to sleep without be mean	1.0
+3872395	pred.refiner.9	what are some easi way to get a toddler to go to sleep without be mean	1.0
+3874326	-1	how come compton is only designated for black people?	0.5
+3874326	pred.refiner.1	come compton designated black people	1.0
+3874326	pred.refiner.10	come compton designated black people	1.0
+3874326	pred.refiner.2	come compton designated black people	1.0
+3874326	pred.refiner.3	come compton designated black people	1.0
+3874326	pred.refiner.4	come compton designated black people	1.0
+3874326	pred.refiner.5	come compton designated black people	1.0
+3874326	pred.refiner.6	come compton designated black people	1.0
+3874326	pred.refiner.7	come compton designated black people	1.0
+3874326	pred.refiner.8	come compton designated black people	1.0
+3874326	pred.refiner.9	come compton designated black people	1.0
+3910925	-1	why is yawning contagious?	1.0
+3960080	-1	why don't commercial planes fly over the north pole?	1.0
+3971195	-1	how do i get my pitbull more agressive?	1.0
+3990512	-1	how can we get concentration onsomething?	0.0769
+3990512	pred.refiner.1	get concentration onsomething	0.5
+3990512	pred.refiner.10	get concentration onsomething	0.5
+3990512	pred.refiner.2	get concentration onsomething	0.5
+3990512	pred.refiner.3	get concentration onsomething	0.5
+3990512	pred.refiner.4	get concentration onsomething	0.5
+3990512	pred.refiner.5	get concentration onsomething	0.5
+3990512	pred.refiner.6	get concentration onsomething	0.5
+3990512	pred.refiner.7	get concentration onsomething	0.5
+3990512	pred.refiner.8	get concentration onsomething	0.5
+3990512	pred.refiner.9	get concentration onsomething	0.5
+4003223	-1	what are the marketing gimmicks that will attract males?	1.0
+4012558	-1	what is the term milky way?	1.0
+4018891	-1	how do i know if a particular term or phrase is copyrighted?	1.0
+4126337	-1	why does my friend buy...?	1.0
+4153592	-1	what can make someones ear's stink?	1.0
+4165406	-1	why did the founder of daewoo get a 10-year jail sentence?	1.0
+4185395	-1	how can i cure the std or the sexually transmitted disease?	1.0
+4185501	-1	why does the sun shine?	0.5
+4185501	pred.refiner.1	whi doe the sun shine	1.0
+4185501	pred.refiner.10	whi doe the sun shine	1.0
+4185501	pred.refiner.2	whi doe the sun shine	1.0
+4185501	pred.refiner.3	whi doe the sun shine	1.0
+4185501	pred.refiner.4	whi doe the sun shine	1.0
+4185501	pred.refiner.5	whi doe the sun shine	1.0
+4185501	pred.refiner.6	whi doe the sun shine	1.0
+4185501	pred.refiner.7	whi doe the sun shine	1.0
+4185501	pred.refiner.8	whi doe the sun shine	1.0
+4185501	pred.refiner.9	whi doe the sun shine	1.0
+4190287	-1	why is switching schools so depressing?	1.0
+4196421	-1	how can you be more brilliant?	0.5
+4196421	pred.refiner.1	brilliant	1.0
+4196421	pred.refiner.10	brilliant	1.0
+4196421	pred.refiner.2	brilliant	1.0
+4196421	pred.refiner.3	brilliant	1.0
+4196421	pred.refiner.4	brilliant	1.0
+4196421	pred.refiner.5	brilliant	1.0
+4196421	pred.refiner.6	brilliant	1.0
+4196421	pred.refiner.7	brilliant	1.0
+4196421	pred.refiner.8	brilliant	1.0
+4196421	pred.refiner.9	brilliant	1.0
+4197214	-1	why my gf feel like pissing during sexual intercourse?	1.0
+4250296	-1	what do doctors do when a patient has a do nor resuscitate order?	0.5
+4250296	pred.refiner.1	doctors patient resuscitate order	1.0
+4250296	pred.refiner.10	doctors patient resuscitate order	1.0
+4250296	pred.refiner.2	doctors patient resuscitate order	1.0
+4250296	pred.refiner.3	doctors patient resuscitate order	1.0
+4250296	pred.refiner.4	doctors patient resuscitate order	1.0
+4250296	pred.refiner.5	doctors patient resuscitate order	1.0
+4250296	pred.refiner.6	doctors patient resuscitate order	1.0
+4250296	pred.refiner.7	doctors patient resuscitate order	1.0
+4250296	pred.refiner.8	doctors patient resuscitate order	1.0
+4250296	pred.refiner.9	doctors patient resuscitate order	1.0
+4256593	-1	how do i remove the simm card on a lg vx8300 cell phone?	1.0
+4278201	-1	how does ultraviolet light affects seed germination and plant growth?	1.0
+4283542	-1	i have had loose stools for a week...how do i make it stop?	1.0
+4288761	-1	how can i stop my husband from exhuming my baby's body for compensation?	1.0
+4311093	-1	why hot air rises up?	1.0
+4357460	-1	how to make my car faster?	1.0
+4365565	-1	how does water pressure change?	0.3333
+4365565	pred.refiner.1	water pressure change	1.0
+4365565	pred.refiner.10	water pressure change	1.0
+4365565	pred.refiner.2	water pressure change	1.0
+4365565	pred.refiner.3	water pressure change	1.0
+4365565	pred.refiner.4	water pressure change	1.0
+4365565	pred.refiner.5	water pressure change	1.0
+4365565	pred.refiner.6	water pressure change	1.0
+4365565	pred.refiner.7	water pressure change	1.0
+4365565	pred.refiner.8	water pressure change	1.0
+4365565	pred.refiner.9	water pressure change	1.0
+4367654	-1	why is april 19th important?	0.5
+4372730	-1	why doesn't the bible make any sense?	0.5
+4372730	pred.refiner.1	n t bible make sense bible	1.0
+4372730	pred.refiner.10	n t bible make sense bible	1.0
+4372730	pred.refiner.2	n t bible make sense bible	1.0
+4372730	pred.refiner.3	n t bible make sense bible	1.0
+4372730	pred.refiner.4	n t bible make sense bible	1.0
+4372730	pred.refiner.5	n t bible make sense bible	1.0
+4372730	pred.refiner.6	n t bible make sense bible	1.0
+4372730	pred.refiner.7	n t bible make sense bible	1.0
+4372730	pred.refiner.8	n t bible make sense bible	1.0
+4372730	pred.refiner.9	n t bible make sense bible	1.0
+4377861	-1	how to handsew sequins?	1.0
+4385316	-1	how do i keep black birds out of my bar-b-que grill?	1.0
+4406669	-1	what do you order at taco bell?	1.0
+4448097	-1	what is innate immunity?	1.0
+4462511	-1	how do i know if my gold fish is pregnant?	1.0
+4467100	-1	what does sholomister mean?	0.0
+4467100	pred.refiner.1	what do you mean scholemster	1.0
+4467100	pred.refiner.10	what do you mean scholemster	1.0
+4467100	pred.refiner.2	what do you mean scholemster	1.0
+4467100	pred.refiner.3	what do you mean scholemster	1.0
+4467100	pred.refiner.4	what do you mean scholemster	1.0
+4467100	pred.refiner.5	what do you mean scholemster	1.0
+4467100	pred.refiner.6	what do you mean scholemster	1.0
+4467100	pred.refiner.7	what do you mean scholemster	1.0
+4467100	pred.refiner.8	what do you mean scholemster	1.0
+4467100	pred.refiner.9	what do you mean scholemster	1.0
+4473137	-1	causes and effects of the rise of christanity?	1.0
+4473331	-1	how can i keep my rabit indoors?	0.5
+4473331	pred.refiner.1	keep rabit indoors	1.0
+4473331	pred.refiner.10	keep rabit indoors	1.0
+4473331	pred.refiner.2	keep rabit indoors	1.0
+4473331	pred.refiner.3	keep rabit indoors	1.0
+4473331	pred.refiner.4	keep rabit indoors	1.0
+4473331	pred.refiner.5	keep rabit indoors	1.0
+4473331	pred.refiner.6	keep rabit indoors	1.0
+4473331	pred.refiner.7	keep rabit indoors	1.0
+4473331	pred.refiner.8	keep rabit indoors	1.0
+4473331	pred.refiner.9	keep rabit indoors	1.0

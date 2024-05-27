@@ -1,0 +1,2570 @@
+qid	order	query	bm25.recip_rank
+301	-1	international organized crime	0.5
+301	pred.refiner.1	international organized crime constitutional law public international law criminal law international law extortion mafia money laundering organized crime	1.0
+301	pred.refiner.10	international organized crime constitutional law public international law criminal law international law extortion mafia money laundering organized crime	1.0
+301	pred.refiner.2	international organized crime constitutional law public international law criminal law international law extortion mafia money laundering organized crime	1.0
+301	pred.refiner.3	international organized crime constitutional law public international law criminal law international law extortion mafia money laundering organized crime	1.0
+301	pred.refiner.4	international organized crime constitutional law public international law criminal law international law extortion mafia money laundering organized crime	1.0
+301	pred.refiner.5	international organized crime constitutional law public international law criminal law international law extortion mafia money laundering organized crime	1.0
+301	pred.refiner.6	international organized crime constitutional law public international law criminal law international law extortion mafia money laundering organized crime	1.0
+301	pred.refiner.7	international organized crime constitutional law public international law criminal law international law extortion mafia money laundering organized crime	1.0
+301	pred.refiner.8	international organized crime constitutional law public international law criminal law international law extortion mafia money laundering organized crime	1.0
+301	pred.refiner.9	international organized crime constitutional law public international law criminal law international law extortion mafia money laundering organized crime	1.0
+302	-1	poliomyelitis and post-polio	1.0
+302	pred.refiner.1	poliomyelitis and post polio case polio i health hi vaccin china percent	1.0
+302	pred.refiner.10	poliomyelitis and post polio case polio i health hi vaccin china percent	1.0
+302	pred.refiner.2	poliomyelitis and post polio case polio i health hi vaccin china percent	1.0
+302	pred.refiner.3	poliomyelitis and post polio case polio i health hi vaccin china percent	1.0
+302	pred.refiner.4	poliomyelitis and post polio case polio i health hi vaccin china percent	1.0
+302	pred.refiner.5	poliomyelitis and post polio case polio i health hi vaccin china percent	1.0
+302	pred.refiner.6	poliomyelitis and post polio case polio i health hi vaccin china percent	1.0
+302	pred.refiner.7	poliomyelitis and post polio case polio i health hi vaccin china percent	1.0
+302	pred.refiner.8	poliomyelitis and post polio case polio i health hi vaccin china percent	1.0
+302	pred.refiner.9	poliomyelitis and post polio case polio i health hi vaccin china percent	1.0
+303	-1	hubble telescope achievements	0.5
+303	pred.refiner.1	hubble telescope achievements great observatories program hubble space telescope standard candles hubble space telescope	1.0
+303	pred.refiner.10	hubble telescope achievements great observatories program hubble space telescope standard candles hubble space telescope	1.0
+303	pred.refiner.2	hubble telescope achievements great observatories program hubble space telescope standard candles hubble space telescope	1.0
+303	pred.refiner.3	hubble telescope achievements great observatories program hubble space telescope standard candles hubble space telescope	1.0
+303	pred.refiner.4	hubble telescope achievements great observatories program hubble space telescope standard candles hubble space telescope	1.0
+303	pred.refiner.5	hubble telescope achievements great observatories program hubble space telescope standard candles hubble space telescope	1.0
+303	pred.refiner.6	hubble telescope achievements great observatories program hubble space telescope standard candles hubble space telescope	1.0
+303	pred.refiner.7	hubble telescope achievements great observatories program hubble space telescope standard candles hubble space telescope	1.0
+303	pred.refiner.8	hubble telescope achievements great observatories program hubble space telescope standard candles hubble space telescope	1.0
+303	pred.refiner.9	hubble telescope achievements great observatories program hubble space telescope standard candles hubble space telescope	1.0
+304	-1	endangered species (mammals)	1.0
+305	-1	most dangerous vehicles	0.0154
+305	pred.refiner.1	risk vehicle	0.25
+305	pred.refiner.10	risk vehicle	0.25
+305	pred.refiner.2	risk vehicle	0.25
+305	pred.refiner.3	risk vehicle	0.25
+305	pred.refiner.4	risk vehicle	0.25
+305	pred.refiner.5	risk vehicle	0.25
+305	pred.refiner.6	risk vehicle	0.25
+305	pred.refiner.7	risk vehicle	0.25
+305	pred.refiner.8	risk vehicle	0.25
+305	pred.refiner.9	risk vehicle	0.25
+306	-1	african civilian deaths	1.0
+306	pred.refiner.1	african civilian deaths end	1.0
+306	pred.refiner.10	african civilian deaths end	1.0
+306	pred.refiner.2	african civilian deaths end	1.0
+306	pred.refiner.3	african civilian deaths end	1.0
+306	pred.refiner.4	african civilian deaths end	1.0
+306	pred.refiner.5	african civilian deaths end	1.0
+306	pred.refiner.6	african civilian deaths end	1.0
+306	pred.refiner.7	african civilian deaths end	1.0
+306	pred.refiner.8	african civilian deaths end	1.0
+306	pred.refiner.9	african civilian deaths end	1.0
+307	-1	new hydroelectric projects	1.0
+307	pred.refiner.1	new hydroelectric projects hydroelectricity project	1.0
+307	pred.refiner.10	new hydroelectric projects hydroelectricity project	1.0
+307	pred.refiner.2	new hydroelectric projects hydroelectricity project	1.0
+307	pred.refiner.3	new hydroelectric projects hydroelectricity project	1.0
+307	pred.refiner.4	new hydroelectric projects hydroelectricity project	1.0
+307	pred.refiner.5	new hydroelectric projects hydroelectricity project	1.0
+307	pred.refiner.6	new hydroelectric projects hydroelectricity project	1.0
+307	pred.refiner.7	new hydroelectric projects hydroelectricity project	1.0
+307	pred.refiner.8	new hydroelectric projects hydroelectricity project	1.0
+307	pred.refiner.9	new hydroelectric projects hydroelectricity project	1.0
+308	-1	implant dentistry	1.0
+308	pred.refiner.1	implant teeth	1.0
+308	pred.refiner.10	implant teeth	1.0
+308	pred.refiner.2	implant teeth	1.0
+308	pred.refiner.3	implant teeth	1.0
+308	pred.refiner.4	implant teeth	1.0
+308	pred.refiner.5	implant teeth	1.0
+308	pred.refiner.6	implant teeth	1.0
+308	pred.refiner.7	implant teeth	1.0
+308	pred.refiner.8	implant teeth	1.0
+308	pred.refiner.9	implant teeth	1.0
+309	-1	rap and crime	0.0
+309	pred.refiner.1	rap crime music hip hop	0.0149
+309	pred.refiner.10	rap crime music hip hop	0.0149
+309	pred.refiner.2	rap crime music hip hop	0.0149
+309	pred.refiner.3	rap crime music hip hop	0.0149
+309	pred.refiner.4	rap crime music hip hop	0.0149
+309	pred.refiner.5	rap crime music hip hop	0.0149
+309	pred.refiner.6	rap crime music hip hop	0.0149
+309	pred.refiner.7	rap crime music hip hop	0.0149
+309	pred.refiner.8	rap crime music hip hop	0.0149
+309	pred.refiner.9	rap crime music hip hop	0.0149
+310	-1	radio waves and brain cancer	1.0
+310	pred.refiner.1	radio waves brain cancer television brain leukemia lymphoma	1.0
+310	pred.refiner.10	radio waves brain cancer television brain leukemia lymphoma	1.0
+310	pred.refiner.2	radio waves brain cancer television brain leukemia lymphoma	1.0
+310	pred.refiner.3	radio waves brain cancer television brain leukemia lymphoma	1.0
+310	pred.refiner.4	radio waves brain cancer television brain leukemia lymphoma	1.0
+310	pred.refiner.5	radio waves brain cancer television brain leukemia lymphoma	1.0
+310	pred.refiner.6	radio waves brain cancer television brain leukemia lymphoma	1.0
+310	pred.refiner.7	radio waves brain cancer television brain leukemia lymphoma	1.0
+310	pred.refiner.8	radio waves brain cancer television brain leukemia lymphoma	1.0
+310	pred.refiner.9	radio waves brain cancer television brain leukemia lymphoma	1.0
+311	-1	industrial espionage	1.0
+311	pred.refiner.1	industrial espionage factory postindustrial	1.0
+311	pred.refiner.10	industrial espionage factory postindustrial	1.0
+311	pred.refiner.2	industrial espionage factory postindustrial	1.0
+311	pred.refiner.3	industrial espionage factory postindustrial	1.0
+311	pred.refiner.4	industrial espionage factory postindustrial	1.0
+311	pred.refiner.5	industrial espionage factory postindustrial	1.0
+311	pred.refiner.6	industrial espionage factory postindustrial	1.0
+311	pred.refiner.7	industrial espionage factory postindustrial	1.0
+311	pred.refiner.8	industrial espionage factory postindustrial	1.0
+311	pred.refiner.9	industrial espionage factory postindustrial	1.0
+312	-1	hydroponics	1.0
+312	pred.refiner.1	hydroponics	1.0
+312	pred.refiner.10	hydroponics	1.0
+312	pred.refiner.2	hydroponics	1.0
+312	pred.refiner.3	hydroponics	1.0
+312	pred.refiner.4	hydroponics	1.0
+312	pred.refiner.5	hydroponics	1.0
+312	pred.refiner.6	hydroponics	1.0
+312	pred.refiner.7	hydroponics	1.0
+312	pred.refiner.8	hydroponics	1.0
+312	pred.refiner.9	hydroponics	1.0
+313	-1	magnetic levitation-maglev	1.0
+313	pred.refiner.1	magnetic levitation maglev magnet train railwai la said would project	1.0
+313	pred.refiner.10	magnetic levitation maglev magnet train railwai la said would project	1.0
+313	pred.refiner.2	magnetic levitation maglev magnet train railwai la said would project	1.0
+313	pred.refiner.3	magnetic levitation maglev magnet train railwai la said would project	1.0
+313	pred.refiner.4	magnetic levitation maglev magnet train railwai la said would project	1.0
+313	pred.refiner.5	magnetic levitation maglev magnet train railwai la said would project	1.0
+313	pred.refiner.6	magnetic levitation maglev magnet train railwai la said would project	1.0
+313	pred.refiner.7	magnetic levitation maglev magnet train railwai la said would project	1.0
+313	pred.refiner.8	magnetic levitation maglev magnet train railwai la said would project	1.0
+313	pred.refiner.9	magnetic levitation maglev magnet train railwai la said would project	1.0
+314	-1	marine vegetation	0.0312
+314	pred.refiner.1	seaweed	1.0
+314	pred.refiner.10	seaweed	1.0
+314	pred.refiner.2	seaweed	1.0
+314	pred.refiner.3	seaweed	1.0
+314	pred.refiner.4	seaweed	1.0
+314	pred.refiner.5	seaweed	1.0
+314	pred.refiner.6	seaweed	1.0
+314	pred.refiner.7	seaweed	1.0
+314	pred.refiner.8	seaweed	1.0
+314	pred.refiner.9	seaweed	1.0
+315	-1	unexplained highway accidents	0.1429
+315	pred.refiner.1	the cause of the accident is unknown	1.0
+315	pred.refiner.10	the cause of the accident is unknown	1.0
+315	pred.refiner.2	the cause of the accident is unknown	1.0
+315	pred.refiner.3	the cause of the accident is unknown	1.0
+315	pred.refiner.4	the cause of the accident is unknown	1.0
+315	pred.refiner.5	the cause of the accident is unknown	1.0
+315	pred.refiner.6	the cause of the accident is unknown	1.0
+315	pred.refiner.7	the cause of the accident is unknown	1.0
+315	pred.refiner.8	the cause of the accident is unknown	1.0
+315	pred.refiner.9	the cause of the accident is unknown	1.0
+316	-1	polygamy polyandry polygyny	1.0
+316	pred.refiner.1	polygamy polygamy polygamy and polygamy	1.0
+316	pred.refiner.10	polygamy polygamy polygamy and polygamy	1.0
+316	pred.refiner.2	polygamy polygamy polygamy and polygamy	1.0
+316	pred.refiner.3	polygamy polygamy polygamy and polygamy	1.0
+316	pred.refiner.4	polygamy polygamy polygamy and polygamy	1.0
+316	pred.refiner.5	polygamy polygamy polygamy and polygamy	1.0
+316	pred.refiner.6	polygamy polygamy polygamy and polygamy	1.0
+316	pred.refiner.7	polygamy polygamy polygamy and polygamy	1.0
+316	pred.refiner.8	polygamy polygamy polygamy and polygamy	1.0
+316	pred.refiner.9	polygamy polygamy polygamy and polygamy	1.0
+317	-1	unsolicited faxes	1.0
+317	pred.refiner.1	unsolicited unasked faxes facsimile	1.0
+317	pred.refiner.10	unsolicited unasked faxes facsimile	1.0
+317	pred.refiner.2	unsolicited unasked faxes facsimile	1.0
+317	pred.refiner.3	unsolicited unasked faxes facsimile	1.0
+317	pred.refiner.4	unsolicited unasked faxes facsimile	1.0
+317	pred.refiner.5	unsolicited unasked faxes facsimile	1.0
+317	pred.refiner.6	unsolicited unasked faxes facsimile	1.0
+317	pred.refiner.7	unsolicited unasked faxes facsimile	1.0
+317	pred.refiner.8	unsolicited unasked faxes facsimile	1.0
+317	pred.refiner.9	unsolicited unasked faxes facsimile	1.0
+318	-1	best retirement country	0.1111
+318	pred.refiner.1	best retirement country well better nation already	0.5
+318	pred.refiner.10	best retirement country well better nation already	0.5
+318	pred.refiner.2	best retirement country well better nation already	0.5
+318	pred.refiner.3	best retirement country well better nation already	0.5
+318	pred.refiner.4	best retirement country well better nation already	0.5
+318	pred.refiner.5	best retirement country well better nation already	0.5
+318	pred.refiner.6	best retirement country well better nation already	0.5
+318	pred.refiner.7	best retirement country well better nation already	0.5
+318	pred.refiner.8	best retirement country well better nation already	0.5
+318	pred.refiner.9	best retirement country well better nation already	0.5
+319	-1	new fuel sources	1.0
+320	-1	undersea fiber optic cable	0.0312
+320	pred.refiner.1	submarine fibre optic cable	0.0909
+320	pred.refiner.10	submarine fibre optic cable	0.0909
+320	pred.refiner.2	submarine fibre optic cable	0.0909
+320	pred.refiner.3	submarine fibre optic cable	0.0909
+320	pred.refiner.4	submarine fibre optic cable	0.0909
+320	pred.refiner.5	submarine fibre optic cable	0.0909
+320	pred.refiner.6	submarine fibre optic cable	0.0909
+320	pred.refiner.7	submarine fibre optic cable	0.0909
+320	pred.refiner.8	submarine fibre optic cable	0.0909
+320	pred.refiner.9	submarine fibre optic cable	0.0909
+321	-1	women in parliaments	1.0
+321	pred.refiner.1	women in parliaments	1.0
+321	pred.refiner.10	women in parliaments	1.0
+321	pred.refiner.2	women in parliaments	1.0
+321	pred.refiner.3	women in parliaments	1.0
+321	pred.refiner.4	women in parliaments	1.0
+321	pred.refiner.5	women in parliaments	1.0
+321	pred.refiner.6	women in parliaments	1.0
+321	pred.refiner.7	women in parliaments	1.0
+321	pred.refiner.8	women in parliaments	1.0
+321	pred.refiner.9	women in parliaments	1.0
+322	-1	international art crime	0.0132
+322	pred.refiner.1	international art crime national global domestic artwork artworks criminality	0.2
+322	pred.refiner.10	international art crime national global domestic artwork artworks criminality	0.2
+322	pred.refiner.2	international art crime national global domestic artwork artworks criminality	0.2
+322	pred.refiner.3	international art crime national global domestic artwork artworks criminality	0.2
+322	pred.refiner.4	international art crime national global domestic artwork artworks criminality	0.2
+322	pred.refiner.5	international art crime national global domestic artwork artworks criminality	0.2
+322	pred.refiner.6	international art crime national global domestic artwork artworks criminality	0.2
+322	pred.refiner.7	international art crime national global domestic artwork artworks criminality	0.2
+322	pred.refiner.8	international art crime national global domestic artwork artworks criminality	0.2
+322	pred.refiner.9	international art crime national global domestic artwork artworks criminality	0.2
+323	-1	literary/journalistic plagiarism	1.0
+323	pred.refiner.1	liter journ plagiar	1.0
+323	pred.refiner.10	liter journ plagiar	1.0
+323	pred.refiner.2	liter journ plagiar	1.0
+323	pred.refiner.3	liter journ plagiar	1.0
+323	pred.refiner.4	liter journ plagiar	1.0
+323	pred.refiner.5	liter journ plagiar	1.0
+323	pred.refiner.6	liter journ plagiar	1.0
+323	pred.refiner.7	liter journ plagiar	1.0
+323	pred.refiner.8	liter journ plagiar	1.0
+323	pred.refiner.9	liter journ plagiar	1.0
+324	-1	argentine/british relations	1.0
+324	pred.refiner.1	argentina britain relations	1.0
+324	pred.refiner.10	argentina britain relations	1.0
+324	pred.refiner.2	argentina britain relations	1.0
+324	pred.refiner.3	argentina britain relations	1.0
+324	pred.refiner.4	argentina britain relations	1.0
+324	pred.refiner.5	argentina britain relations	1.0
+324	pred.refiner.6	argentina britain relations	1.0
+324	pred.refiner.7	argentina britain relations	1.0
+324	pred.refiner.8	argentina britain relations	1.0
+324	pred.refiner.9	argentina britain relations	1.0
+325	-1	cult lifestyles	0.2
+325	pred.refiner.1	cult lifestyles genestealer reproduct cult tsumbubura	0.25
+325	pred.refiner.10	cult lifestyles genestealer reproduct cult tsumbubura	0.25
+325	pred.refiner.2	cult lifestyles genestealer reproduct cult tsumbubura	0.25
+325	pred.refiner.3	cult lifestyles genestealer reproduct cult tsumbubura	0.25
+325	pred.refiner.4	cult lifestyles genestealer reproduct cult tsumbubura	0.25
+325	pred.refiner.5	cult lifestyles genestealer reproduct cult tsumbubura	0.25
+325	pred.refiner.6	cult lifestyles genestealer reproduct cult tsumbubura	0.25
+325	pred.refiner.7	cult lifestyles genestealer reproduct cult tsumbubura	0.25
+325	pred.refiner.8	cult lifestyles genestealer reproduct cult tsumbubura	0.25
+325	pred.refiner.9	cult lifestyles genestealer reproduct cult tsumbubura	0.25
+326	-1	ferry sinkings	1.0
+326	pred.refiner.1	ferry sinkings last ship safeti titan estonia ferri pound	1.0
+326	pred.refiner.10	ferry sinkings last ship safeti titan estonia ferri pound	1.0
+326	pred.refiner.2	ferry sinkings last ship safeti titan estonia ferri pound	1.0
+326	pred.refiner.3	ferry sinkings last ship safeti titan estonia ferri pound	1.0
+326	pred.refiner.4	ferry sinkings last ship safeti titan estonia ferri pound	1.0
+326	pred.refiner.5	ferry sinkings last ship safeti titan estonia ferri pound	1.0
+326	pred.refiner.6	ferry sinkings last ship safeti titan estonia ferri pound	1.0
+326	pred.refiner.7	ferry sinkings last ship safeti titan estonia ferri pound	1.0
+326	pred.refiner.8	ferry sinkings last ship safeti titan estonia ferri pound	1.0
+326	pred.refiner.9	ferry sinkings last ship safeti titan estonia ferri pound	1.0
+327	-1	modern slavery	0.1667
+327	pred.refiner.1	burdah jardot originalité slavery	1.0
+327	pred.refiner.10	burdah jardot originalité slavery	1.0
+327	pred.refiner.2	burdah jardot originalité slavery	1.0
+327	pred.refiner.3	burdah jardot originalité slavery	1.0
+327	pred.refiner.4	burdah jardot originalité slavery	1.0
+327	pred.refiner.5	burdah jardot originalité slavery	1.0
+327	pred.refiner.6	burdah jardot originalité slavery	1.0
+327	pred.refiner.7	burdah jardot originalité slavery	1.0
+327	pred.refiner.8	burdah jardot originalité slavery	1.0
+327	pred.refiner.9	burdah jardot originalité slavery	1.0
+328	-1	pope beatifications	1.0
+328	pred.refiner.1	pope beatifications beatification	1.0
+328	pred.refiner.10	pope beatifications beatification	1.0
+328	pred.refiner.2	pope beatifications beatification	1.0
+328	pred.refiner.3	pope beatifications beatification	1.0
+328	pred.refiner.4	pope beatifications beatification	1.0
+328	pred.refiner.5	pope beatifications beatification	1.0
+328	pred.refiner.6	pope beatifications beatification	1.0
+328	pred.refiner.7	pope beatifications beatification	1.0
+328	pred.refiner.8	pope beatifications beatification	1.0
+328	pred.refiner.9	pope beatifications beatification	1.0
+329	-1	mexican air pollution	1.0
+329	pred.refiner.1	air pollution in mexico	1.0
+329	pred.refiner.10	air pollution in mexico	1.0
+329	pred.refiner.2	air pollution in mexico	1.0
+329	pred.refiner.3	air pollution in mexico	1.0
+329	pred.refiner.4	air pollution in mexico	1.0
+329	pred.refiner.5	air pollution in mexico	1.0
+329	pred.refiner.6	air pollution in mexico	1.0
+329	pred.refiner.7	air pollution in mexico	1.0
+329	pred.refiner.8	air pollution in mexico	1.0
+329	pred.refiner.9	air pollution in mexico	1.0
+330	-1	iran-iraq cooperation	0.2
+330	pred.refiner.1	iran iraq coop	0.3333
+330	pred.refiner.10	iran iraq coop	0.3333
+330	pred.refiner.2	iran iraq coop	0.3333
+330	pred.refiner.3	iran iraq coop	0.3333
+330	pred.refiner.4	iran iraq coop	0.3333
+330	pred.refiner.5	iran iraq coop	0.3333
+330	pred.refiner.6	iran iraq coop	0.3333
+330	pred.refiner.7	iran iraq coop	0.3333
+330	pred.refiner.8	iran iraq coop	0.3333
+330	pred.refiner.9	iran iraq coop	0.3333
+331	-1	world bank criticism	1.0
+331	pred.refiner.1	world bank criticism	1.0
+331	pred.refiner.10	world bank criticism	1.0
+331	pred.refiner.2	world bank criticism	1.0
+331	pred.refiner.3	world bank criticism	1.0
+331	pred.refiner.4	world bank criticism	1.0
+331	pred.refiner.5	world bank criticism	1.0
+331	pred.refiner.6	world bank criticism	1.0
+331	pred.refiner.7	world bank criticism	1.0
+331	pred.refiner.8	world bank criticism	1.0
+331	pred.refiner.9	world bank criticism	1.0
+332	-1	income tax evasion	0.5
+332	pred.refiner.1	tax evas connect j david	1.0
+332	pred.refiner.10	tax evas connect j david	1.0
+332	pred.refiner.2	tax evas connect j david	1.0
+332	pred.refiner.3	tax evas connect j david	1.0
+332	pred.refiner.4	tax evas connect j david	1.0
+332	pred.refiner.5	tax evas connect j david	1.0
+332	pred.refiner.6	tax evas connect j david	1.0
+332	pred.refiner.7	tax evas connect j david	1.0
+332	pred.refiner.8	tax evas connect j david	1.0
+332	pred.refiner.9	tax evas connect j david	1.0
+333	-1	antibiotics bacteria disease	1.0
+333	pred.refiner.1	antibiotics antibiotic bacteria disease	1.0
+333	pred.refiner.10	antibiotics antibiotic bacteria disease	1.0
+333	pred.refiner.2	antibiotics antibiotic bacteria disease	1.0
+333	pred.refiner.3	antibiotics antibiotic bacteria disease	1.0
+333	pred.refiner.4	antibiotics antibiotic bacteria disease	1.0
+333	pred.refiner.5	antibiotics antibiotic bacteria disease	1.0
+333	pred.refiner.6	antibiotics antibiotic bacteria disease	1.0
+333	pred.refiner.7	antibiotics antibiotic bacteria disease	1.0
+333	pred.refiner.8	antibiotics antibiotic bacteria disease	1.0
+333	pred.refiner.9	antibiotics antibiotic bacteria disease	1.0
+334	-1	export controls cryptography	1.0
+334	pred.refiner.1	export control encryption	1.0
+334	pred.refiner.10	export control encryption	1.0
+334	pred.refiner.2	export control encryption	1.0
+334	pred.refiner.3	export control encryption	1.0
+334	pred.refiner.4	export control encryption	1.0
+334	pred.refiner.5	export control encryption	1.0
+334	pred.refiner.6	export control encryption	1.0
+334	pred.refiner.7	export control encryption	1.0
+334	pred.refiner.8	export control encryption	1.0
+334	pred.refiner.9	export control encryption	1.0
+335	-1	adoptive biological parents	1.0
+335	pred.refiner.1	adoptive biological parents surrogate name children name their babies family	1.0
+335	pred.refiner.10	adoptive biological parents surrogate name children name their babies family	1.0
+335	pred.refiner.2	adoptive biological parents surrogate name children name their babies family	1.0
+335	pred.refiner.3	adoptive biological parents surrogate name children name their babies family	1.0
+335	pred.refiner.4	adoptive biological parents surrogate name children name their babies family	1.0
+335	pred.refiner.5	adoptive biological parents surrogate name children name their babies family	1.0
+335	pred.refiner.6	adoptive biological parents surrogate name children name their babies family	1.0
+335	pred.refiner.7	adoptive biological parents surrogate name children name their babies family	1.0
+335	pred.refiner.8	adoptive biological parents surrogate name children name their babies family	1.0
+335	pred.refiner.9	adoptive biological parents surrogate name children name their babies family	1.0
+336	-1	black bear attacks	0.3333
+336	pred.refiner.1	black bear attacks oil coal color animal grizzly polar	1.0
+336	pred.refiner.10	black bear attacks oil coal color animal grizzly polar	1.0
+336	pred.refiner.2	black bear attacks oil coal color animal grizzly polar	1.0
+336	pred.refiner.3	black bear attacks oil coal color animal grizzly polar	1.0
+336	pred.refiner.4	black bear attacks oil coal color animal grizzly polar	1.0
+336	pred.refiner.5	black bear attacks oil coal color animal grizzly polar	1.0
+336	pred.refiner.6	black bear attacks oil coal color animal grizzly polar	1.0
+336	pred.refiner.7	black bear attacks oil coal color animal grizzly polar	1.0
+336	pred.refiner.8	black bear attacks oil coal color animal grizzly polar	1.0
+336	pred.refiner.9	black bear attacks oil coal color animal grizzly polar	1.0
+337	-1	viral hepatitis	0.3333
+337	pred.refiner.1	viral hepatitis percent omit caus diseas individu vaccinia liver hepat	1.0
+337	pred.refiner.10	viral hepatitis percent omit caus diseas individu vaccinia liver hepat	1.0
+337	pred.refiner.2	viral hepatitis percent omit caus diseas individu vaccinia liver hepat	1.0
+337	pred.refiner.3	viral hepatitis percent omit caus diseas individu vaccinia liver hepat	1.0
+337	pred.refiner.4	viral hepatitis percent omit caus diseas individu vaccinia liver hepat	1.0
+337	pred.refiner.5	viral hepatitis percent omit caus diseas individu vaccinia liver hepat	1.0
+337	pred.refiner.6	viral hepatitis percent omit caus diseas individu vaccinia liver hepat	1.0
+337	pred.refiner.7	viral hepatitis percent omit caus diseas individu vaccinia liver hepat	1.0
+337	pred.refiner.8	viral hepatitis percent omit caus diseas individu vaccinia liver hepat	1.0
+337	pred.refiner.9	viral hepatitis percent omit caus diseas individu vaccinia liver hepat	1.0
+338	-1	risk of aspirin	1.0
+338	pred.refiner.1	risk of aspirin sai stroke peopl kidnei your	1.0
+338	pred.refiner.10	risk of aspirin sai stroke peopl kidnei your	1.0
+338	pred.refiner.2	risk of aspirin sai stroke peopl kidnei your	1.0
+338	pred.refiner.3	risk of aspirin sai stroke peopl kidnei your	1.0
+338	pred.refiner.4	risk of aspirin sai stroke peopl kidnei your	1.0
+338	pred.refiner.5	risk of aspirin sai stroke peopl kidnei your	1.0
+338	pred.refiner.6	risk of aspirin sai stroke peopl kidnei your	1.0
+338	pred.refiner.7	risk of aspirin sai stroke peopl kidnei your	1.0
+338	pred.refiner.8	risk of aspirin sai stroke peopl kidnei your	1.0
+338	pred.refiner.9	risk of aspirin sai stroke peopl kidnei your	1.0
+339	-1	alzheimer's drug treatment	0.3333
+339	pred.refiner.1	alzheimer s drug treatment psychoactive drug addiction alzheimer s disease	1.0
+339	pred.refiner.10	alzheimer s drug treatment psychoactive drug addiction alzheimer s disease	1.0
+339	pred.refiner.2	alzheimer s drug treatment psychoactive drug addiction alzheimer s disease	1.0
+339	pred.refiner.3	alzheimer s drug treatment psychoactive drug addiction alzheimer s disease	1.0
+339	pred.refiner.4	alzheimer s drug treatment psychoactive drug addiction alzheimer s disease	1.0
+339	pred.refiner.5	alzheimer s drug treatment psychoactive drug addiction alzheimer s disease	1.0
+339	pred.refiner.6	alzheimer s drug treatment psychoactive drug addiction alzheimer s disease	1.0
+339	pred.refiner.7	alzheimer s drug treatment psychoactive drug addiction alzheimer s disease	1.0
+339	pred.refiner.8	alzheimer s drug treatment psychoactive drug addiction alzheimer s disease	1.0
+339	pred.refiner.9	alzheimer s drug treatment psychoactive drug addiction alzheimer s disease	1.0
+340	-1	land mine ban	1.0
+340	pred.refiner.1	the landmine ban	1.0
+340	pred.refiner.10	the landmine ban	1.0
+340	pred.refiner.2	the landmine ban	1.0
+340	pred.refiner.3	the landmine ban	1.0
+340	pred.refiner.4	the landmine ban	1.0
+340	pred.refiner.5	the landmine ban	1.0
+340	pred.refiner.6	the landmine ban	1.0
+340	pred.refiner.7	the landmine ban	1.0
+340	pred.refiner.8	the landmine ban	1.0
+340	pred.refiner.9	the landmine ban	1.0
+341	-1	airport security	1.0
+341	pred.refiner.1	airport security security system	1.0
+341	pred.refiner.10	airport security security system	1.0
+341	pred.refiner.2	airport security security system	1.0
+341	pred.refiner.3	airport security security system	1.0
+341	pred.refiner.4	airport security	1.0
+341	pred.refiner.5	airport security	1.0
+341	pred.refiner.6	airport security security system	1.0
+341	pred.refiner.7	airport security	1.0
+341	pred.refiner.8	airport security	1.0
+341	pred.refiner.9	airport security security system	1.0
+342	-1	diplomatic expulsion	0.25
+342	pred.refiner.1	diplomatic expulsion relations expelled expel	1.0
+342	pred.refiner.10	diplomatic expulsion relations expelled expel	1.0
+342	pred.refiner.2	diplomatic expulsion relations expelled expel	1.0
+342	pred.refiner.3	diplomatic expulsion relations expelled expel	1.0
+342	pred.refiner.4	diplomatic expulsion relations expelled expel	1.0
+342	pred.refiner.5	diplomatic expulsion relations expelled expel	1.0
+342	pred.refiner.6	diplomatic expulsion relations expelled expel	1.0
+342	pred.refiner.7	diplomatic expulsion relations expelled expel	1.0
+342	pred.refiner.8	diplomatic expulsion relations expelled expel	1.0
+342	pred.refiner.9	diplomatic expulsion relations expelled expel	1.0
+343	-1	police deaths	0.0179
+343	pred.refiner.1	cops policemen fatalities killings	0.3333
+343	pred.refiner.10	cops policemen fatalities killings	0.3333
+343	pred.refiner.2	cops policemen fatalities killings	0.3333
+343	pred.refiner.3	cops policemen fatalities killings	0.3333
+343	pred.refiner.4	cops policemen fatalities killings	0.3333
+343	pred.refiner.5	cops policemen fatalities killings	0.3333
+343	pred.refiner.6	cops policemen fatalities killings	0.3333
+343	pred.refiner.7	cops policemen fatalities killings	0.3333
+343	pred.refiner.8	cops policemen fatalities killings	0.3333
+343	pred.refiner.9	cops policemen fatalities killings	0.3333
+344	-1	abuses of e-mail	0.3333
+344	pred.refiner.1	abuses misuse of e mail electronic mail	1.0
+344	pred.refiner.10	abuses misuse of e mail electronic mail	1.0
+344	pred.refiner.2	abuses misuse of e mail electronic mail	1.0
+344	pred.refiner.3	abuses misuse of e mail electronic mail	1.0
+344	pred.refiner.4	abuses misuse of e mail electronic mail	1.0
+344	pred.refiner.5	abuses misuse of e mail electronic mail	1.0
+344	pred.refiner.6	abuses misuse of e mail electronic mail	1.0
+344	pred.refiner.7	abuses misuse of e mail electronic mail	1.0
+344	pred.refiner.8	abuses misuse of e mail electronic mail	1.0
+344	pred.refiner.9	abuses misuse of e mail electronic mail	1.0
+345	-1	overseas tobacco sales	0.5
+345	pred.refiner.1	overseas tobacco sales compani rate dollar per	1.0
+345	pred.refiner.10	overseas tobacco sales compani rate dollar per	1.0
+345	pred.refiner.2	overseas tobacco sales compani rate dollar per	1.0
+345	pred.refiner.3	overseas tobacco sales compani rate dollar per	1.0
+345	pred.refiner.4	overseas tobacco sales compani rate dollar per	1.0
+345	pred.refiner.5	overseas tobacco sales compani rate dollar per	1.0
+345	pred.refiner.6	overseas tobacco sales compani rate dollar per	1.0
+345	pred.refiner.7	overseas tobacco sales compani rate dollar per	1.0
+345	pred.refiner.8	overseas tobacco sales compani rate dollar per	1.0
+345	pred.refiner.9	overseas tobacco sales compani rate dollar per	1.0
+346	-1	educational standards	0.3333
+346	pred.refiner.1	educational standards school	1.0
+346	pred.refiner.10	educational standards school	1.0
+346	pred.refiner.2	educational standards school	1.0
+346	pred.refiner.3	educational standards school	1.0
+346	pred.refiner.4	educational standards school	1.0
+346	pred.refiner.5	educational standards school	1.0
+346	pred.refiner.6	educational standards school	1.0
+346	pred.refiner.7	educational standards school	1.0
+346	pred.refiner.8	educational standards school	1.0
+346	pred.refiner.9	educational standards school	1.0
+347	-1	wildlife extinction	0.3333
+348	-1	agoraphobia	1.0
+348	pred.refiner.1	agoraphobia	1.0
+348	pred.refiner.10	agoraphobia	1.0
+348	pred.refiner.2	agoraphobia	1.0
+348	pred.refiner.3	agoraphobia	1.0
+348	pred.refiner.4	agoraphobia	1.0
+348	pred.refiner.5	agoraphobia	1.0
+348	pred.refiner.6	agoraphobia	1.0
+348	pred.refiner.7	agoraphobia	1.0
+348	pred.refiner.8	agoraphobia	1.0
+348	pred.refiner.9	agoraphobia	1.0
+349	-1	metabolism	1.0
+349	pred.refiner.1	metabolism	1.0
+349	pred.refiner.10	metabolism	1.0
+349	pred.refiner.2	metabolism	1.0
+349	pred.refiner.3	metabolism	1.0
+349	pred.refiner.4	metabolism	1.0
+349	pred.refiner.5	metabolism	1.0
+349	pred.refiner.6	metabolism	1.0
+349	pred.refiner.7	metabolism	1.0
+349	pred.refiner.8	metabolism	1.0
+349	pred.refiner.9	metabolism	1.0
+350	-1	health and computer terminals	1.0
+350	pred.refiner.1	health and computer terminals	1.0
+350	pred.refiner.10	health and computer terminals	1.0
+350	pred.refiner.2	health and computer terminals	1.0
+350	pred.refiner.3	health and computer terminals	1.0
+350	pred.refiner.4	health and computer terminals	1.0
+350	pred.refiner.5	health and computer terminals	1.0
+350	pred.refiner.6	health and computer terminals	1.0
+350	pred.refiner.7	health and computer terminals	1.0
+350	pred.refiner.8	health and computer terminals	1.0
+350	pred.refiner.9	health and computer terminals	1.0
+351	-1	falkland petroleum exploration	1.0
+351	pred.refiner.1	oil exploration in the falkland islands	1.0
+351	pred.refiner.10	oil exploration in the falkland islands	1.0
+351	pred.refiner.2	oil exploration in the falkland islands	1.0
+351	pred.refiner.3	oil exploration in the falkland islands	1.0
+351	pred.refiner.4	oil exploration in the falkland islands	1.0
+351	pred.refiner.5	oil exploration in the falkland islands	1.0
+351	pred.refiner.6	oil exploration in the falkland islands	1.0
+351	pred.refiner.7	oil exploration in the falkland islands	1.0
+351	pred.refiner.8	oil exploration in the falkland islands	1.0
+351	pred.refiner.9	oil exploration in the falkland islands	1.0
+352	-1	british chunnel impact	1.0
+352	pred.refiner.1	british chunnel impact tunnel i freight govern ha de hous project	1.0
+352	pred.refiner.10	british chunnel impact tunnel i freight govern ha de hous project	1.0
+352	pred.refiner.2	british chunnel impact tunnel i freight govern ha de hous project	1.0
+352	pred.refiner.3	british chunnel impact tunnel i freight govern ha de hous project	1.0
+352	pred.refiner.4	british chunnel impact tunnel i freight govern ha de hous project	1.0
+352	pred.refiner.5	british chunnel impact tunnel i freight govern ha de hous project	1.0
+352	pred.refiner.6	british chunnel impact tunnel i freight govern ha de hous project	1.0
+352	pred.refiner.7	british chunnel impact tunnel i freight govern ha de hous project	1.0
+352	pred.refiner.8	british chunnel impact tunnel i freight govern ha de hous project	1.0
+352	pred.refiner.9	british chunnel impact tunnel i freight govern ha de hous project	1.0
+353	-1	antarctica exploration	1.0
+353	pred.refiner.1	conducting antarctic research	1.0
+353	pred.refiner.10	conducting antarctic research	1.0
+353	pred.refiner.2	conducting antarctic research	1.0
+353	pred.refiner.3	conducting antarctic research	1.0
+353	pred.refiner.4	conducting antarctic research	1.0
+353	pred.refiner.5	conducting antarctic research	1.0
+353	pred.refiner.6	conducting antarctic research	1.0
+353	pred.refiner.7	conducting antarctic research	1.0
+353	pred.refiner.8	conducting antarctic research	1.0
+353	pred.refiner.9	conducting antarctic research	1.0
+354	-1	journalist risks	0.5
+354	pred.refiner.1	journalist risks wrigley mil faj journalists	0.5
+354	pred.refiner.10	journalist risks wrigley mil faj journalists	0.5
+354	pred.refiner.2	journalist risks wrigley mil faj journalists	0.5
+354	pred.refiner.3	journalist risks wrigley mil faj journalists	0.5
+354	pred.refiner.4	journalist risks wrigley mil faj journalists	0.5
+354	pred.refiner.5	journalist risks wrigley mil faj journalists	0.5
+354	pred.refiner.6	journalist risks wrigley mil faj journalists	0.5
+354	pred.refiner.7	journalist risks wrigley mil faj journalists	0.5
+354	pred.refiner.8	journalist risks wrigley mil faj journalists	0.5
+354	pred.refiner.9	journalist risks wrigley mil faj journalists	0.5
+355	-1	ocean remote sensing	1.0
+355	pred.refiner.1	ocean remote sensing satellit studi observ develop m system research stone	1.0
+355	pred.refiner.10	ocean remote sensing satellit studi observ develop m system research stone	1.0
+355	pred.refiner.2	ocean remote sensing satellit studi observ develop m system research stone	1.0
+355	pred.refiner.3	ocean remote sensing satellit studi observ develop m system research stone	1.0
+355	pred.refiner.4	ocean remote sensing satellit studi observ develop m system research stone	1.0
+355	pred.refiner.5	ocean remote sensing satellit studi observ develop m system research stone	1.0
+355	pred.refiner.6	ocean remote sensing satellit studi observ develop m system research stone	1.0
+355	pred.refiner.7	ocean remote sensing satellit studi observ develop m system research stone	1.0
+355	pred.refiner.8	ocean remote sensing satellit studi observ develop m system research stone	1.0
+355	pred.refiner.9	ocean remote sensing satellit studi observ develop m system research stone	1.0
+356	-1	postmenopausal estrogen britain	0.0435
+356	pred.refiner.1	post menopausal premenopausal pre menopausal oestrogen progesterone britian britian british	1.0
+356	pred.refiner.10	post menopausal premenopausal pre menopausal oestrogen progesterone britian britian british	1.0
+356	pred.refiner.2	post menopausal premenopausal pre menopausal oestrogen progesterone britian britian british	1.0
+356	pred.refiner.3	post menopausal premenopausal pre menopausal oestrogen progesterone britian britian british	1.0
+356	pred.refiner.4	post menopausal premenopausal pre menopausal oestrogen progesterone britian britian british	1.0
+356	pred.refiner.5	post menopausal premenopausal pre menopausal oestrogen progesterone britian britian british	1.0
+356	pred.refiner.6	post menopausal premenopausal pre menopausal oestrogen progesterone britian britian british	1.0
+356	pred.refiner.7	post menopausal premenopausal pre menopausal oestrogen progesterone britian britian british	1.0
+356	pred.refiner.8	post menopausal premenopausal pre menopausal oestrogen progesterone britian britian british	1.0
+356	pred.refiner.9	post menopausal premenopausal pre menopausal oestrogen progesterone britian britian british	1.0
+357	-1	territorial waters dispute	1.0
+357	pred.refiner.1	dispute over territorial waters	1.0
+357	pred.refiner.10	dispute over territorial waters	1.0
+357	pred.refiner.2	dispute over territorial waters	1.0
+357	pred.refiner.3	dispute over territorial waters	1.0
+357	pred.refiner.4	dispute over territorial waters	1.0
+357	pred.refiner.5	dispute over territorial waters	1.0
+357	pred.refiner.6	dispute over territorial waters	1.0
+357	pred.refiner.7	dispute over territorial waters	1.0
+357	pred.refiner.8	dispute over territorial waters	1.0
+357	pred.refiner.9	dispute over territorial waters	1.0
+358	-1	blood-alcohol fatalities	1.0
+358	pred.refiner.1	blood alcohol deaths	1.0
+358	pred.refiner.10	blood alcohol deaths	1.0
+358	pred.refiner.2	blood alcohol deaths	1.0
+358	pred.refiner.3	blood alcohol deaths	1.0
+358	pred.refiner.4	blood alcohol deaths	1.0
+358	pred.refiner.5	blood alcohol deaths	1.0
+358	pred.refiner.6	blood alcohol deaths	1.0
+358	pred.refiner.7	blood alcohol deaths	1.0
+358	pred.refiner.8	blood alcohol deaths	1.0
+358	pred.refiner.9	blood alcohol deaths	1.0
+359	-1	mutual fund predictors	0.0625
+359	pred.refiner.1	forecast indicators of mutual funds	0.5
+359	pred.refiner.10	forecast indicators of mutual funds	0.5
+359	pred.refiner.2	forecast indicators of mutual funds	0.5
+359	pred.refiner.3	forecast indicators of mutual funds	0.5
+359	pred.refiner.4	forecast indicators of mutual funds	0.5
+359	pred.refiner.5	forecast indicators of mutual funds	0.5
+359	pred.refiner.6	forecast indicators of mutual funds	0.5
+359	pred.refiner.7	forecast indicators of mutual funds	0.5
+359	pred.refiner.8	forecast indicators of mutual funds	0.5
+359	pred.refiner.9	forecast indicators of mutual funds	0.5
+360	-1	drug legalization benefits	1.0
+361	-1	clothing sweatshops	0.3333
+361	pred.refiner.1	clothing sweatshops labor said cloth home our bill sew	0.5
+361	pred.refiner.10	clothing sweatshops labor said cloth home our bill sew	0.5
+361	pred.refiner.2	clothing sweatshops labor said cloth home our bill sew	0.5
+361	pred.refiner.3	clothing sweatshops labor said cloth home our bill sew	0.5
+361	pred.refiner.4	clothing sweatshops labor said cloth home our bill sew	0.5
+361	pred.refiner.5	clothing sweatshops labor said cloth home our bill sew	0.5
+361	pred.refiner.6	clothing sweatshops labor said cloth home our bill sew	0.5
+361	pred.refiner.7	clothing sweatshops labor said cloth home our bill sew	0.5
+361	pred.refiner.8	clothing sweatshops labor said cloth home our bill sew	0.5
+361	pred.refiner.9	clothing sweatshops labor said cloth home our bill sew	0.5
+362	-1	human smuggling	0.2
+362	pred.refiner.1	human smuggling non human nonhuman smugglers smuggler	0.5
+362	pred.refiner.10	human smuggling non human nonhuman smugglers smuggler	0.5
+362	pred.refiner.2	human smuggling non human nonhuman smugglers smuggler	0.5
+362	pred.refiner.3	human smuggling non human nonhuman smugglers smuggler	0.5
+362	pred.refiner.4	human smuggling non human nonhuman smugglers smuggler	0.5
+362	pred.refiner.5	human smuggling non human nonhuman smugglers smuggler	0.5
+362	pred.refiner.6	human smuggling non human nonhuman smugglers smuggler	0.5
+362	pred.refiner.7	human smuggling non human nonhuman smugglers smuggler	0.5
+362	pred.refiner.8	human smuggling non human nonhuman smugglers smuggler	0.5
+362	pred.refiner.9	human smuggling non human nonhuman smugglers smuggler	0.5
+363	-1	transportation tunnel disasters	0.1
+363	pred.refiner.1	traffic tunnel disasters	1.0
+363	pred.refiner.10	traffic tunnel disasters	1.0
+363	pred.refiner.2	traffic tunnel disasters	1.0
+363	pred.refiner.3	traffic tunnel disasters	1.0
+363	pred.refiner.4	traffic tunnel disasters	1.0
+363	pred.refiner.5	traffic tunnel disasters	1.0
+363	pred.refiner.6	traffic tunnel disasters	1.0
+363	pred.refiner.7	traffic tunnel disasters	1.0
+363	pred.refiner.8	traffic tunnel disasters	1.0
+363	pred.refiner.9	traffic tunnel disasters	1.0
+364	-1	rabies	1.0
+364	pred.refiner.1	rabies	1.0
+364	pred.refiner.10	rabies	1.0
+364	pred.refiner.2	rabies	1.0
+364	pred.refiner.3	rabies	1.0
+364	pred.refiner.4	rabies	1.0
+364	pred.refiner.5	rabies	1.0
+364	pred.refiner.6	rabies	1.0
+364	pred.refiner.7	rabies	1.0
+364	pred.refiner.8	rabies	1.0
+364	pred.refiner.9	rabies	1.0
+365	-1	el nino	1.0
+365	pred.refiner.1	el nino	1.0
+365	pred.refiner.10	el nino	1.0
+365	pred.refiner.2	el nino	1.0
+365	pred.refiner.3	el nino	1.0
+365	pred.refiner.4	el nino	1.0
+365	pred.refiner.5	el nino	1.0
+365	pred.refiner.6	el nino	1.0
+365	pred.refiner.7	el nino	1.0
+365	pred.refiner.8	el nino	1.0
+365	pred.refiner.9	el nino	1.0
+366	-1	commercial cyanide uses	1.0
+366	pred.refiner.1	commercial cyanide uses	1.0
+366	pred.refiner.10	commercial cyanide uses	1.0
+366	pred.refiner.2	commercial cyanide uses	1.0
+366	pred.refiner.3	commercial cyanide uses	1.0
+366	pred.refiner.4	commercial cyanide uses	1.0
+366	pred.refiner.5	commercial cyanide uses	1.0
+366	pred.refiner.6	commercial cyanide uses	1.0
+366	pred.refiner.7	commercial cyanide uses	1.0
+366	pred.refiner.8	commercial cyanide uses	1.0
+366	pred.refiner.9	commercial cyanide uses	1.0
+367	-1	piracy	0.5
+367	pred.refiner.1	piracy wikipedia version editorial team piracy articles quality log letter marque turkish abductions piracy	0.5
+367	pred.refiner.10	piracy wikipedia version editorial team piracy articles quality log letter marque turkish abductions piracy	0.5
+367	pred.refiner.2	piracy wikipedia version editorial team piracy articles quality log letter marque turkish abductions piracy	0.5
+367	pred.refiner.3	piracy wikipedia version editorial team piracy articles quality log letter marque turkish abductions piracy	0.5
+367	pred.refiner.4	piracy wikipedia version editorial team piracy articles quality log letter marque turkish abductions piracy	0.5
+367	pred.refiner.5	piracy wikipedia version editorial team piracy articles quality log letter marque turkish abductions piracy	0.5
+367	pred.refiner.6	piracy wikipedia version editorial team piracy articles quality log letter marque turkish abductions piracy	0.5
+367	pred.refiner.7	piracy wikipedia version editorial team piracy articles quality log letter marque turkish abductions piracy	0.5
+367	pred.refiner.8	piracy wikipedia version editorial team piracy articles quality log letter marque turkish abductions piracy	0.5
+367	pred.refiner.9	piracy wikipedia version editorial team piracy articles quality log letter marque turkish abductions piracy	0.5
+368	-1	in vitro fertilization	1.0
+368	pred.refiner.1	in vitro fertilization center fertil he she york have david sai embryo said	1.0
+368	pred.refiner.10	in vitro fertilization center fertil he she york have david sai embryo said	1.0
+368	pred.refiner.2	in vitro fertilization center fertil he she york have david sai embryo said	1.0
+368	pred.refiner.3	in vitro fertilization center fertil he she york have david sai embryo said	1.0
+368	pred.refiner.4	in vitro fertilization center fertil he she york have david sai embryo said	1.0
+368	pred.refiner.5	in vitro fertilization center fertil he she york have david sai embryo said	1.0
+368	pred.refiner.6	in vitro fertilization center fertil he she york have david sai embryo said	1.0
+368	pred.refiner.7	in vitro fertilization center fertil he she york have david sai embryo said	1.0
+368	pred.refiner.8	in vitro fertilization center fertil he she york have david sai embryo said	1.0
+368	pred.refiner.9	in vitro fertilization center fertil he she york have david sai embryo said	1.0
+369	-1	anorexia nervosa bulimia	1.0
+369	pred.refiner.1	anorexia nervosa bulimia an eating disorder eating disorder	1.0
+369	pred.refiner.10	anorexia nervosa bulimia an eating disorder eating disorder	1.0
+369	pred.refiner.2	anorexia nervosa bulimia an eating disorder eating disorder	1.0
+369	pred.refiner.3	anorexia nervosa bulimia an eating disorder eating disorder	1.0
+369	pred.refiner.4	anorexia nervosa bulimia an eating disorder eating disorder	1.0
+369	pred.refiner.5	anorexia nervosa bulimia an eating disorder eating disorder	1.0
+369	pred.refiner.6	anorexia nervosa bulimia an eating disorder eating disorder	1.0
+369	pred.refiner.7	anorexia nervosa bulimia an eating disorder eating disorder	1.0
+369	pred.refiner.8	anorexia nervosa bulimia an eating disorder eating disorder	1.0
+369	pred.refiner.9	anorexia nervosa bulimia an eating disorder eating disorder	1.0
+370	-1	food/drug laws	0.0526
+370	pred.refiner.1	food drug regulations	0.5
+370	pred.refiner.10	food drug regulations	0.5
+370	pred.refiner.2	food drug regulations	0.5
+370	pred.refiner.3	food drug regulations	0.5
+370	pred.refiner.4	food drug regulations	0.5
+370	pred.refiner.5	food drug regulations	0.5
+370	pred.refiner.6	food drug regulations	0.5
+370	pred.refiner.7	food drug regulations	0.5
+370	pred.refiner.8	food drug regulations	0.5
+370	pred.refiner.9	food drug regulations	0.5
+371	-1	health insurance holistic	0.0
+371	pred.refiner.1	the health insurance coverage	0.25
+371	pred.refiner.10	the health insurance coverage	0.25
+371	pred.refiner.2	the health insurance coverage	0.25
+371	pred.refiner.3	the health insurance coverage	0.25
+371	pred.refiner.4	the health insurance coverage	0.25
+371	pred.refiner.5	the health insurance coverage	0.25
+371	pred.refiner.6	the health insurance coverage	0.25
+371	pred.refiner.7	the health insurance coverage	0.25
+371	pred.refiner.8	the health insurance coverage	0.25
+371	pred.refiner.9	the health insurance coverage	0.25
+372	-1	native american casino	1.0
+372	pred.refiner.1	indian casino	1.0
+372	pred.refiner.10	indian casino	1.0
+372	pred.refiner.2	indian casino	1.0
+372	pred.refiner.3	indian casino	1.0
+372	pred.refiner.4	indian casino	1.0
+372	pred.refiner.5	indian casino	1.0
+372	pred.refiner.6	indian casino	1.0
+372	pred.refiner.7	indian casino	1.0
+372	pred.refiner.8	indian casino	1.0
+372	pred.refiner.9	indian casino	1.0
+373	-1	encryption equipment export	1.0
+373	pred.refiner.1	encrypt equipm export	1.0
+373	pred.refiner.10	encrypt equipm export	1.0
+373	pred.refiner.2	encrypt equipm export	1.0
+373	pred.refiner.3	encrypt equipm export	1.0
+373	pred.refiner.4	encrypt equipm export	1.0
+373	pred.refiner.5	encrypt equipm export	1.0
+373	pred.refiner.6	encrypt equipm export	1.0
+373	pred.refiner.7	encrypt equipm export	1.0
+373	pred.refiner.8	encrypt equipm export	1.0
+373	pred.refiner.9	encrypt equipm export	1.0
+374	-1	nobel prize winners	0.5
+374	pred.refiner.1	nobel prize for his work	1.0
+374	pred.refiner.10	nobel prize for his work	1.0
+374	pred.refiner.2	nobel prize for his work	1.0
+374	pred.refiner.3	nobel prize for his work	1.0
+374	pred.refiner.4	nobel prize for his work	1.0
+374	pred.refiner.5	nobel prize for his work	1.0
+374	pred.refiner.6	nobel prize for his work	1.0
+374	pred.refiner.7	nobel prize for his work	1.0
+374	pred.refiner.8	nobel prize for his work	1.0
+374	pred.refiner.9	nobel prize for his work	1.0
+375	-1	hydrogen energy	0.5
+375	pred.refiner.1	hydrogen energy helium deuterium enery	1.0
+375	pred.refiner.10	hydrogen energy helium deuterium enery	1.0
+375	pred.refiner.2	hydrogen energy helium deuterium enery	1.0
+375	pred.refiner.3	hydrogen energy helium deuterium enery	1.0
+375	pred.refiner.4	hydrogen energy helium deuterium enery	1.0
+375	pred.refiner.5	hydrogen energy helium deuterium enery	1.0
+375	pred.refiner.6	hydrogen energy helium deuterium enery	1.0
+375	pred.refiner.7	hydrogen energy helium deuterium enery	1.0
+375	pred.refiner.8	hydrogen energy helium deuterium enery	1.0
+375	pred.refiner.9	hydrogen energy helium deuterium enery	1.0
+376	-1	world court	0.3333
+376	pred.refiner.1	world court international court justice	1.0
+376	pred.refiner.10	world court international court justice	1.0
+376	pred.refiner.2	world court international court justice	1.0
+376	pred.refiner.3	world court international court justice	1.0
+376	pred.refiner.4	world court international court justice	1.0
+376	pred.refiner.5	world court international court justice	1.0
+376	pred.refiner.6	world court international court justice	1.0
+376	pred.refiner.7	world court international court justice	1.0
+376	pred.refiner.8	world court international court justice	1.0
+376	pred.refiner.9	world court international court justice	1.0
+377	-1	cigar smoking	1.0
+377	pred.refiner.1	cigar smok	1.0
+377	pred.refiner.10	cigar smok	1.0
+377	pred.refiner.2	cigar smok	1.0
+377	pred.refiner.3	cigar smok	1.0
+377	pred.refiner.4	cigar smok	1.0
+377	pred.refiner.5	cigar smok	1.0
+377	pred.refiner.6	cigar smok	1.0
+377	pred.refiner.7	cigar smok	1.0
+377	pred.refiner.8	cigar smok	1.0
+377	pred.refiner.9	cigar smok	1.0
+378	-1	euro opposition	0.0116
+378	pred.refiner.1	euro opposition currency european supporters opponents	0.5
+378	pred.refiner.10	euro opposition currency european supporters opponents	0.5
+378	pred.refiner.2	euro opposition currency european supporters opponents	0.5
+378	pred.refiner.3	euro opposition currency european supporters opponents	0.5
+378	pred.refiner.4	euro opposition currency european supporters opponents	0.5
+378	pred.refiner.5	euro opposition currency european supporters opponents	0.5
+378	pred.refiner.6	euro opposition currency european supporters opponents	0.5
+378	pred.refiner.7	euro opposition currency european supporters opponents	0.5
+378	pred.refiner.8	euro opposition currency european supporters opponents	0.5
+378	pred.refiner.9	euro opposition currency european supporters opponents	0.5
+379	-1	mainstreaming	1.0
+379	pred.refiner.1	mainstreaming	1.0
+379	pred.refiner.10	mainstreaming	1.0
+379	pred.refiner.2	mainstreaming	1.0
+379	pred.refiner.3	mainstreaming	1.0
+379	pred.refiner.4	mainstreaming	1.0
+379	pred.refiner.5	mainstreaming	1.0
+379	pred.refiner.6	mainstreaming	1.0
+379	pred.refiner.7	mainstreaming	1.0
+379	pred.refiner.8	mainstreaming	1.0
+379	pred.refiner.9	mainstreaming	1.0
+380	-1	obesity medical treatment	0.5
+380	pred.refiner.1	obesity medical treatment plan drug diet children clinic obes weight exercis healthcar cent	1.0
+380	pred.refiner.10	obesity medical treatment plan drug diet children clinic obes weight exercis healthcar cent	1.0
+380	pred.refiner.2	obesity medical treatment plan drug diet children clinic obes weight exercis healthcar cent	1.0
+380	pred.refiner.3	obesity medical treatment plan drug diet children clinic obes weight exercis healthcar cent	1.0
+380	pred.refiner.4	obesity medical treatment plan drug diet children clinic obes weight exercis healthcar cent	1.0
+380	pred.refiner.5	obesity medical treatment plan drug diet children clinic obes weight exercis healthcar cent	1.0
+380	pred.refiner.6	obesity medical treatment plan drug diet children clinic obes weight exercis healthcar cent	1.0
+380	pred.refiner.7	obesity medical treatment plan drug diet children clinic obes weight exercis healthcar cent	1.0
+380	pred.refiner.8	obesity medical treatment plan drug diet children clinic obes weight exercis healthcar cent	1.0
+380	pred.refiner.9	obesity medical treatment plan drug diet children clinic obes weight exercis healthcar cent	1.0
+381	-1	alternative medicine	1.0
+381	pred.refiner.1	holistic health homeopathy alternative traditional medicine journals alternative medicine	1.0
+381	pred.refiner.10	holistic health homeopathy alternative traditional medicine journals alternative medicine	1.0
+381	pred.refiner.2	holistic health homeopathy alternative traditional medicine journals alternative medicine	1.0
+381	pred.refiner.3	holistic health homeopathy alternative traditional medicine journals alternative medicine	1.0
+381	pred.refiner.4	holistic health homeopathy alternative traditional medicine journals alternative medicine	1.0
+381	pred.refiner.5	holistic health homeopathy alternative traditional medicine journals alternative medicine	1.0
+381	pred.refiner.6	holistic health homeopathy alternative traditional medicine journals alternative medicine	1.0
+381	pred.refiner.7	holistic health homeopathy alternative traditional medicine journals alternative medicine	1.0
+381	pred.refiner.8	holistic health homeopathy alternative traditional medicine journals alternative medicine	1.0
+381	pred.refiner.9	holistic health homeopathy alternative traditional medicine journals alternative medicine	1.0
+382	-1	hydrogen fuel automobiles	1.0
+382	pred.refiner.1	hydrogen fuel automobiles hydrogen vehicle car	1.0
+382	pred.refiner.10	hydrogen fuel automobiles hydrogen vehicle car	1.0
+382	pred.refiner.2	hydrogen fuel automobiles hydrogen vehicle car	1.0
+382	pred.refiner.3	hydrogen fuel automobiles hydrogen vehicle car	1.0
+382	pred.refiner.4	hydrogen fuel automobiles hydrogen vehicle car	1.0
+382	pred.refiner.5	hydrogen fuel automobiles hydrogen vehicle car	1.0
+382	pred.refiner.6	hydrogen fuel automobiles hydrogen vehicle car	1.0
+382	pred.refiner.7	hydrogen fuel automobiles hydrogen vehicle car	1.0
+382	pred.refiner.8	hydrogen fuel automobiles hydrogen vehicle car	1.0
+382	pred.refiner.9	hydrogen fuel automobiles hydrogen vehicle car	1.0
+383	-1	mental illness drugs	0.2
+383	pred.refiner.1	psychiatric drugs	1.0
+383	pred.refiner.10	psychiatric drugs	1.0
+383	pred.refiner.2	psychiatric drugs	1.0
+383	pred.refiner.3	psychiatric drugs	1.0
+383	pred.refiner.4	psychiatric drugs	1.0
+383	pred.refiner.5	psychiatric drugs	1.0
+383	pred.refiner.6	psychiatric drugs	1.0
+383	pred.refiner.7	psychiatric drugs	1.0
+383	pred.refiner.8	psychiatric drugs	1.0
+383	pred.refiner.9	psychiatric drugs	1.0
+384	-1	space station moon	1.0
+385	-1	hybrid fuel cars	1.0
+385	pred.refiner.1	hybrid fuel cars hydrogen engin electr cm car daimler drive seed batteri research	1.0
+385	pred.refiner.10	hybrid fuel cars hydrogen engin electr cm car daimler drive seed batteri research	1.0
+385	pred.refiner.2	hybrid fuel cars hydrogen engin electr cm car daimler drive seed batteri research	1.0
+385	pred.refiner.3	hybrid fuel cars hydrogen engin electr cm car daimler drive seed batteri research	1.0
+385	pred.refiner.4	hybrid fuel cars hydrogen engin electr cm car daimler drive seed batteri research	1.0
+385	pred.refiner.5	hybrid fuel cars hydrogen engin electr cm car daimler drive seed batteri research	1.0
+385	pred.refiner.6	hybrid fuel cars hydrogen engin electr cm car daimler drive seed batteri research	1.0
+385	pred.refiner.7	hybrid fuel cars hydrogen engin electr cm car daimler drive seed batteri research	1.0
+385	pred.refiner.8	hybrid fuel cars hydrogen engin electr cm car daimler drive seed batteri research	1.0
+385	pred.refiner.9	hybrid fuel cars hydrogen engin electr cm car daimler drive seed batteri research	1.0
+386	-1	teaching disabled children	0.25
+386	pred.refiner.1	teaching disabled children us center school program he lesson learn music	1.0
+386	pred.refiner.10	teaching disabled children us center school program he lesson learn music	1.0
+386	pred.refiner.2	teaching disabled children us center school program he lesson learn music	1.0
+386	pred.refiner.3	teaching disabled children us center school program he lesson learn music	1.0
+386	pred.refiner.4	teaching disabled children us center school program he lesson learn music	1.0
+386	pred.refiner.5	teaching disabled children us center school program he lesson learn music	1.0
+386	pred.refiner.6	teaching disabled children us center school program he lesson learn music	1.0
+386	pred.refiner.7	teaching disabled children us center school program he lesson learn music	1.0
+386	pred.refiner.8	teaching disabled children us center school program he lesson learn music	1.0
+386	pred.refiner.9	teaching disabled children us center school program he lesson learn music	1.0
+387	-1	radioactive waste	1.0
+387	pred.refiner.1	radioactive waste	1.0
+387	pred.refiner.10	radioactive waste	1.0
+387	pred.refiner.2	radioactive waste	1.0
+387	pred.refiner.3	radioactive waste	1.0
+387	pred.refiner.4	radioactive waste	1.0
+387	pred.refiner.5	radioactive waste	1.0
+387	pred.refiner.6	radioactive waste	1.0
+387	pred.refiner.7	radioactive waste	1.0
+387	pred.refiner.8	radioactive waste	1.0
+387	pred.refiner.9	radioactive waste	1.0
+388	-1	organic soil enhancement	0.0833
+388	pred.refiner.1	organic soil enhancement organic fertilizer constitutional constitutive land bemire filth sweetening	1.0
+388	pred.refiner.10	organic soil enhancement organic fertilizer constitutional constitutive land bemire filth sweetening	1.0
+388	pred.refiner.2	organic soil enhancement organic fertilizer constitutional constitutive land bemire filth sweetening	1.0
+388	pred.refiner.3	organic soil enhancement organic fertilizer constitutional constitutive land bemire filth sweetening	1.0
+388	pred.refiner.4	organic soil enhancement organic fertilizer constitutional constitutive land bemire filth sweetening	1.0
+388	pred.refiner.5	organic soil enhancement organic fertilizer constitutional constitutive land bemire filth sweetening	1.0
+388	pred.refiner.6	organic soil enhancement organic fertilizer constitutional constitutive land bemire filth sweetening	1.0
+388	pred.refiner.7	organic soil enhancement organic fertilizer constitutional constitutive land bemire filth sweetening	1.0
+388	pred.refiner.8	organic soil enhancement organic fertilizer constitutional constitutive land bemire filth sweetening	1.0
+388	pred.refiner.9	organic soil enhancement organic fertilizer constitutional constitutive land bemire filth sweetening	1.0
+389	-1	illegal technology transfer	1.0
+390	-1	orphan drugs	1.0
+390	pred.refiner.1	orphan drugs drug research aid amgen joe	1.0
+390	pred.refiner.10	orphan drugs drug research aid amgen joe	1.0
+390	pred.refiner.2	orphan drugs drug research aid amgen joe	1.0
+390	pred.refiner.3	orphan drugs drug research aid amgen joe	1.0
+390	pred.refiner.4	orphan drugs drug research aid amgen joe	1.0
+390	pred.refiner.5	orphan drugs drug research aid amgen joe	1.0
+390	pred.refiner.6	orphan drugs drug research aid amgen joe	1.0
+390	pred.refiner.7	orphan drugs drug research aid amgen joe	1.0
+390	pred.refiner.8	orphan drugs drug research aid amgen joe	1.0
+390	pred.refiner.9	orphan drugs drug research aid amgen joe	1.0
+391	-1	r&d drug prices	1.0
+391	pred.refiner.1	r drug prices research development pharmaceutical drug price	1.0
+391	pred.refiner.10	r drug prices research development pharmaceutical drug price	1.0
+391	pred.refiner.2	r drug prices research development pharmaceutical drug price	1.0
+391	pred.refiner.3	r drug prices research development pharmaceutical drug price	1.0
+391	pred.refiner.4	r drug prices research development pharmaceutical drug price	1.0
+391	pred.refiner.5	r drug prices research development pharmaceutical drug price	1.0
+391	pred.refiner.6	r drug prices research development pharmaceutical drug price	1.0
+391	pred.refiner.7	r drug prices research development pharmaceutical drug price	1.0
+391	pred.refiner.8	r drug prices research development pharmaceutical drug price	1.0
+391	pred.refiner.9	r drug prices research development pharmaceutical drug price	1.0
+392	-1	robotics	1.0
+392	pred.refiner.1	robotics	1.0
+392	pred.refiner.10	robotics	1.0
+392	pred.refiner.2	robotics	1.0
+392	pred.refiner.3	robotics	1.0
+392	pred.refiner.4	robotics	1.0
+392	pred.refiner.5	robotics	1.0
+392	pred.refiner.6	robotics	1.0
+392	pred.refiner.7	robotics	1.0
+392	pred.refiner.8	robotics	1.0
+392	pred.refiner.9	robotics	1.0
+393	-1	mercy killing	1.0
+393	pred.refiner.1	mercy killing suicide types terminal illness eugenics euthanasia	1.0
+393	pred.refiner.10	mercy killing suicide types terminal illness eugenics euthanasia	1.0
+393	pred.refiner.2	mercy killing suicide types terminal illness eugenics euthanasia	1.0
+393	pred.refiner.3	mercy killing suicide types terminal illness eugenics euthanasia	1.0
+393	pred.refiner.4	mercy killing suicide types terminal illness eugenics euthanasia	1.0
+393	pred.refiner.5	mercy killing suicide types terminal illness eugenics euthanasia	1.0
+393	pred.refiner.6	mercy killing suicide types terminal illness eugenics euthanasia	1.0
+393	pred.refiner.7	mercy killing suicide types terminal illness eugenics euthanasia	1.0
+393	pred.refiner.8	mercy killing suicide types terminal illness eugenics euthanasia	1.0
+393	pred.refiner.9	mercy killing suicide types terminal illness eugenics euthanasia	1.0
+394	-1	home schooling	0.125
+394	pred.refiner.1	family education	0.5
+394	pred.refiner.10	family education	0.5
+394	pred.refiner.2	family education	0.5
+394	pred.refiner.3	family education	0.5
+394	pred.refiner.4	family education	0.5
+394	pred.refiner.5	family education	0.5
+394	pred.refiner.6	family education	0.5
+394	pred.refiner.7	family education	0.5
+394	pred.refiner.8	family education	0.5
+394	pred.refiner.9	family education	0.5
+395	-1	tourism	0.25
+395	pred.refiner.1	tourist industry	0.25
+395	pred.refiner.10	tourist industry	0.25
+395	pred.refiner.2	tourist industry	0.25
+395	pred.refiner.3	tourist industry	0.25
+395	pred.refiner.4	tourist industry	0.25
+395	pred.refiner.5	tourist industry	0.25
+395	pred.refiner.6	tourist industry	0.25
+395	pred.refiner.7	tourist industry	0.25
+395	pred.refiner.8	tourist industry	0.25
+395	pred.refiner.9	tourist industry	0.25
+396	-1	sick building syndrome	1.0
+396	pred.refiner.1	sick building syndrome green cleaning greenguard environmental institute biomedical waste sick building syndrome	1.0
+396	pred.refiner.10	sick building syndrome green cleaning greenguard environmental institute biomedical waste sick building syndrome	1.0
+396	pred.refiner.2	sick building syndrome green cleaning greenguard environmental institute biomedical waste sick building syndrome	1.0
+396	pred.refiner.3	sick building syndrome green cleaning greenguard environmental institute biomedical waste sick building syndrome	1.0
+396	pred.refiner.4	sick building syndrome green cleaning greenguard environmental institute biomedical waste sick building syndrome	1.0
+396	pred.refiner.5	sick building syndrome green cleaning greenguard environmental institute biomedical waste sick building syndrome	1.0
+396	pred.refiner.6	sick building syndrome green cleaning greenguard environmental institute biomedical waste sick building syndrome	1.0
+396	pred.refiner.7	sick building syndrome green cleaning greenguard environmental institute biomedical waste sick building syndrome	1.0
+396	pred.refiner.8	sick building syndrome green cleaning greenguard environmental institute biomedical waste sick building syndrome	1.0
+396	pred.refiner.9	sick building syndrome green cleaning greenguard environmental institute biomedical waste sick building syndrome	1.0
+397	-1	automobile recalls	0.1111
+397	pred.refiner.1	the car recall	0.5
+397	pred.refiner.10	the car recall	0.5
+397	pred.refiner.2	the car recall	0.5
+397	pred.refiner.3	the car recall	0.5
+397	pred.refiner.4	the car recall	0.5
+397	pred.refiner.5	the car recall	0.5
+397	pred.refiner.6	the car recall	0.5
+397	pred.refiner.7	the car recall	0.5
+397	pred.refiner.8	the car recall	0.5
+397	pred.refiner.9	the car recall	0.5
+398	-1	dismantling europe's arsenal	0.125
+398	pred.refiner.1	dismantling europe s arsenal demolishing germany european europe s of s s armoury weapon	1.0
+398	pred.refiner.10	dismantling europe s arsenal demolishing germany european europe s of s s armoury weapon	1.0
+398	pred.refiner.2	dismantling europe s arsenal demolishing germany european europe s of s s armoury weapon	1.0
+398	pred.refiner.3	dismantling europe s arsenal demolishing germany european europe s of s s armoury weapon	1.0
+398	pred.refiner.4	dismantling europe s arsenal demolishing germany european europe s of s s armoury weapon	1.0
+398	pred.refiner.5	dismantling europe s arsenal demolishing germany european europe s of s s armoury weapon	1.0
+398	pred.refiner.6	dismantling europe s arsenal demolishing germany european europe s of s s armoury weapon	1.0
+398	pred.refiner.7	dismantling europe s arsenal demolishing germany european europe s of s s armoury weapon	1.0
+398	pred.refiner.8	dismantling europe s arsenal demolishing germany european europe s of s s armoury weapon	1.0
+398	pred.refiner.9	dismantling europe s arsenal demolishing germany european europe s of s s armoury weapon	1.0
+399	-1	oceanographic vessels	0.5
+399	pred.refiner.1	the oceanographic ship	0.5
+399	pred.refiner.10	the oceanographic ship	0.5
+399	pred.refiner.2	the oceanographic ship	0.5
+399	pred.refiner.3	the oceanographic ship	0.5
+399	pred.refiner.4	the oceanographic ship	0.5
+399	pred.refiner.5	the oceanographic ship	0.5
+399	pred.refiner.6	the oceanographic ship	0.5
+399	pred.refiner.7	the oceanographic ship	0.5
+399	pred.refiner.8	the oceanographic ship	0.5
+399	pred.refiner.9	the oceanographic ship	0.5
+400	-1	amazon rain forest	1.0
+400	pred.refiner.1	amazon rain forest amazon rainforest	1.0
+400	pred.refiner.10	amazon rain forest amazon rainforest	1.0
+400	pred.refiner.2	amazon rain forest amazon rainforest	1.0
+400	pred.refiner.3	amazon rain forest amazon rainforest	1.0
+400	pred.refiner.4	amazon rain forest amazon rainforest	1.0
+400	pred.refiner.5	amazon rain forest amazon rainforest	1.0
+400	pred.refiner.6	amazon rain forest amazon rainforest	1.0
+400	pred.refiner.7	amazon rain forest amazon rainforest	1.0
+400	pred.refiner.8	amazon rain forest amazon rainforest	1.0
+400	pred.refiner.9	amazon rain forest amazon rainforest	1.0
+401	-1	foreign minorities, germany	1.0
+401	pred.refiner.1	a few foreigners germany	1.0
+401	pred.refiner.10	a few foreigners germany	1.0
+401	pred.refiner.2	a few foreigners germany	1.0
+401	pred.refiner.3	a few foreigners germany	1.0
+401	pred.refiner.4	a few foreigners germany	1.0
+401	pred.refiner.5	a few foreigners germany	1.0
+401	pred.refiner.6	a few foreigners germany	1.0
+401	pred.refiner.7	a few foreigners germany	1.0
+401	pred.refiner.8	a few foreigners germany	1.0
+401	pred.refiner.9	a few foreigners germany	1.0
+402	-1	behavioral genetics	1.0
+402	pred.refiner.1	behavioral genetics behavior genetics association eysenck personality questionnaire evolutionary developmental psychology behavioural genetics	1.0
+402	pred.refiner.10	behavioral genetics behavior genetics association eysenck personality questionnaire evolutionary developmental psychology behavioural genetics	1.0
+402	pred.refiner.2	behavioral genetics behavior genetics association eysenck personality questionnaire evolutionary developmental psychology behavioural genetics	1.0
+402	pred.refiner.3	behavioral genetics behavior genetics association eysenck personality questionnaire evolutionary developmental psychology behavioural genetics	1.0
+402	pred.refiner.4	behavioral genetics behavior genetics association eysenck personality questionnaire evolutionary developmental psychology behavioural genetics	1.0
+402	pred.refiner.5	behavioral genetics behavior genetics association eysenck personality questionnaire evolutionary developmental psychology behavioural genetics	1.0
+402	pred.refiner.6	behavioral genetics behavior genetics association eysenck personality questionnaire evolutionary developmental psychology behavioural genetics	1.0
+402	pred.refiner.7	behavioral genetics behavior genetics association eysenck personality questionnaire evolutionary developmental psychology behavioural genetics	1.0
+402	pred.refiner.8	behavioral genetics behavior genetics association eysenck personality questionnaire evolutionary developmental psychology behavioural genetics	1.0
+402	pred.refiner.9	behavioral genetics behavior genetics association eysenck personality questionnaire evolutionary developmental psychology behavioural genetics	1.0
+403	-1	osteoporosis	1.0
+403	pred.refiner.1	osteoporosis bone fractur decemb	1.0
+403	pred.refiner.10	osteoporosis bone fractur decemb	1.0
+403	pred.refiner.2	osteoporosis bone fractur decemb	1.0
+403	pred.refiner.3	osteoporosis bone fractur decemb	1.0
+403	pred.refiner.4	osteoporosis bone fractur decemb	1.0
+403	pred.refiner.5	osteoporosis bone fractur decemb	1.0
+403	pred.refiner.6	osteoporosis bone fractur decemb	1.0
+403	pred.refiner.7	osteoporosis bone fractur decemb	1.0
+403	pred.refiner.8	osteoporosis bone fractur decemb	1.0
+403	pred.refiner.9	osteoporosis bone fractur decemb	1.0
+404	-1	ireland, peace talks	0.2
+404	pred.refiner.1	ireland peace talks killeevi donaghcump i	0.25
+404	pred.refiner.10	ireland peace talks killeevi donaghcump i	0.25
+404	pred.refiner.2	ireland peace talks killeevi donaghcump i	0.25
+404	pred.refiner.3	ireland peace talks killeevi donaghcump i	0.25
+404	pred.refiner.4	ireland peace talks killeevi donaghcump i	0.25
+404	pred.refiner.5	ireland peace talks killeevi donaghcump i	0.25
+404	pred.refiner.6	ireland peace talks killeevi donaghcump i	0.25
+404	pred.refiner.7	ireland peace talks killeevi donaghcump i	0.25
+404	pred.refiner.8	ireland peace talks killeevi donaghcump i	0.25
+404	pred.refiner.9	ireland peace talks killeevi donaghcump i	0.25
+405	-1	cosmic events	0.1667
+405	pred.refiner.1	cosmic events	0.1667
+405	pred.refiner.10	cosmic events	0.1667
+405	pred.refiner.2	cosmic events	0.1667
+405	pred.refiner.3	cosmic events	0.1667
+405	pred.refiner.4	cosmic events	0.1667
+405	pred.refiner.5	cosmic events	0.1667
+405	pred.refiner.6	cosmic events	0.1667
+405	pred.refiner.7	cosmic events	0.1667
+405	pred.refiner.8	cosmic events	0.1667
+405	pred.refiner.9	cosmic events	0.1667
+406	-1	parkinson's disease	1.0
+406	pred.refiner.1	parkinson s disease brain research parkinson cell ban diseas i he	1.0
+406	pred.refiner.10	parkinson s disease brain research parkinson cell ban diseas i he	1.0
+406	pred.refiner.2	parkinson s disease brain research parkinson cell ban diseas i he	1.0
+406	pred.refiner.3	parkinson s disease brain research parkinson cell ban diseas i he	1.0
+406	pred.refiner.4	parkinson s disease brain research parkinson cell ban diseas i he	1.0
+406	pred.refiner.5	parkinson s disease brain research parkinson cell ban diseas i he	1.0
+406	pred.refiner.6	parkinson s disease brain research parkinson cell ban diseas i he	1.0
+406	pred.refiner.7	parkinson s disease brain research parkinson cell ban diseas i he	1.0
+406	pred.refiner.8	parkinson s disease brain research parkinson cell ban diseas i he	1.0
+406	pred.refiner.9	parkinson s disease brain research parkinson cell ban diseas i he	1.0
+407	-1	poaching, wildlife preserves	1.0
+407	pred.refiner.1	poaching wildlife preserves wildlif eleph tiger have fish campfir mr phinda ivori	1.0
+407	pred.refiner.10	poaching wildlife preserves wildlif eleph tiger have fish campfir mr phinda ivori	1.0
+407	pred.refiner.2	poaching wildlife preserves wildlif eleph tiger have fish campfir mr phinda ivori	1.0
+407	pred.refiner.3	poaching wildlife preserves wildlif eleph tiger have fish campfir mr phinda ivori	1.0
+407	pred.refiner.4	poaching wildlife preserves wildlif eleph tiger have fish campfir mr phinda ivori	1.0
+407	pred.refiner.5	poaching wildlife preserves wildlif eleph tiger have fish campfir mr phinda ivori	1.0
+407	pred.refiner.6	poaching wildlife preserves wildlif eleph tiger have fish campfir mr phinda ivori	1.0
+407	pred.refiner.7	poaching wildlife preserves wildlif eleph tiger have fish campfir mr phinda ivori	1.0
+407	pred.refiner.8	poaching wildlife preserves wildlif eleph tiger have fish campfir mr phinda ivori	1.0
+407	pred.refiner.9	poaching wildlife preserves wildlif eleph tiger have fish campfir mr phinda ivori	1.0
+408	-1	tropical storms	0.5
+408	pred.refiner.1	tropical storms storm cyclone floods	1.0
+408	pred.refiner.10	tropical storms storm cyclone floods	1.0
+408	pred.refiner.2	tropical storms storm cyclone floods	1.0
+408	pred.refiner.3	tropical storms storm cyclone floods	1.0
+408	pred.refiner.4	tropical storms storm cyclone floods	1.0
+408	pred.refiner.5	tropical storms storm cyclone floods	1.0
+408	pred.refiner.6	tropical storms storm cyclone floods	1.0
+408	pred.refiner.7	tropical storms storm cyclone floods	1.0
+408	pred.refiner.8	tropical storms storm cyclone floods	1.0
+408	pred.refiner.9	tropical storms storm cyclone floods	1.0
+409	-1	legal, pan am, 103	1.0
+409	pred.refiner.1	legal, pan am, 103	1.0
+409	pred.refiner.10	legal, pan am, 103	1.0
+409	pred.refiner.2	legal, pan am, 103	1.0
+409	pred.refiner.3	legal, pan am, 103	1.0
+409	pred.refiner.4	legal, pan am, 103	1.0
+409	pred.refiner.5	legal, pan am, 103	1.0
+409	pred.refiner.6	legal, pan am, 103	1.0
+409	pred.refiner.7	legal, pan am, 103	1.0
+409	pred.refiner.8	legal, pan am, 103	1.0
+409	pred.refiner.9	legal, pan am, 103	1.0
+410	-1	schengen agreement	1.0
+410	pred.refiner.1	schengen agreement	1.0
+410	pred.refiner.10	schengen agreement	1.0
+410	pred.refiner.2	schengen agreement	1.0
+410	pred.refiner.3	schengen agreement	1.0
+410	pred.refiner.4	schengen agreement	1.0
+410	pred.refiner.5	schengen agreement	1.0
+410	pred.refiner.6	schengen agreement	1.0
+410	pred.refiner.7	schengen agreement	1.0
+410	pred.refiner.8	schengen agreement	1.0
+410	pred.refiner.9	schengen agreement	1.0
+411	-1	salvaging, shipwreck, treasure	1.0
+411	pred.refiner.1	rescue ship wreck treasure	1.0
+411	pred.refiner.10	rescue ship wreck treasure	1.0
+411	pred.refiner.2	rescue ship wreck treasure	1.0
+411	pred.refiner.3	rescue ship wreck treasure	1.0
+411	pred.refiner.4	rescue ship wreck treasure	1.0
+411	pred.refiner.5	rescue ship wreck treasure	1.0
+411	pred.refiner.6	rescue ship wreck treasure	1.0
+411	pred.refiner.7	rescue ship wreck treasure	1.0
+411	pred.refiner.8	rescue ship wreck treasure	1.0
+411	pred.refiner.9	rescue ship wreck treasure	1.0
+412	-1	airport security	1.0
+412	pred.refiner.1	airport security security system	1.0
+412	pred.refiner.10	airport security	1.0
+412	pred.refiner.2	airport security security system	1.0
+412	pred.refiner.3	airport security	1.0
+412	pred.refiner.4	airport security security system	1.0
+412	pred.refiner.5	airport security security system	1.0
+412	pred.refiner.6	airport security security system	1.0
+412	pred.refiner.7	airport security	1.0
+412	pred.refiner.8	airport security	1.0
+412	pred.refiner.9	airport security	1.0
+413	-1	steel production	0.25
+413	pred.refiner.1	steel steel	1.0
+413	pred.refiner.10	steel steel	1.0
+413	pred.refiner.2	steel steel	1.0
+413	pred.refiner.3	steel steel	1.0
+413	pred.refiner.4	steel steel	1.0
+413	pred.refiner.5	steel steel	1.0
+413	pred.refiner.6	steel steel	1.0
+413	pred.refiner.7	steel steel	1.0
+413	pred.refiner.8	steel steel	1.0
+413	pred.refiner.9	steel steel	1.0
+414	-1	cuba, sugar, exports	1.0
+414	pred.refiner.1	cuba sugar exports republic of cuba loot bread	1.0
+414	pred.refiner.10	cuba sugar exports republic of cuba loot bread	1.0
+414	pred.refiner.2	cuba sugar exports republic of cuba loot bread	1.0
+414	pred.refiner.3	cuba sugar exports republic of cuba loot bread	1.0
+414	pred.refiner.4	cuba sugar exports republic of cuba loot bread	1.0
+414	pred.refiner.5	cuba sugar exports republic of cuba loot bread	1.0
+414	pred.refiner.6	cuba sugar exports republic of cuba loot bread	1.0
+414	pred.refiner.7	cuba sugar exports republic of cuba loot bread	1.0
+414	pred.refiner.8	cuba sugar exports republic of cuba loot bread	1.0
+414	pred.refiner.9	cuba sugar exports republic of cuba loot bread	1.0
+415	-1	drugs, golden triangle	1.0
+415	pred.refiner.1	drugs golden triangle said fundamentalist drug heroin sa	1.0
+415	pred.refiner.10	drugs golden triangle said fundamentalist drug heroin sa	1.0
+415	pred.refiner.2	drugs golden triangle said fundamentalist drug heroin sa	1.0
+415	pred.refiner.3	drugs golden triangle said fundamentalist drug heroin sa	1.0
+415	pred.refiner.4	drugs golden triangle said fundamentalist drug heroin sa	1.0
+415	pred.refiner.5	drugs golden triangle said fundamentalist drug heroin sa	1.0
+415	pred.refiner.6	drugs golden triangle said fundamentalist drug heroin sa	1.0
+415	pred.refiner.7	drugs golden triangle said fundamentalist drug heroin sa	1.0
+415	pred.refiner.8	drugs golden triangle said fundamentalist drug heroin sa	1.0
+415	pred.refiner.9	drugs golden triangle said fundamentalist drug heroin sa	1.0
+416	-1	three gorges project	0.5
+416	pred.refiner.1	three gorges project li area capac dig gener gorg	1.0
+416	pred.refiner.10	three gorges project li area capac dig gener gorg	1.0
+416	pred.refiner.2	three gorges project li area capac dig gener gorg	1.0
+416	pred.refiner.3	three gorges project li area capac dig gener gorg	1.0
+416	pred.refiner.4	three gorges project li area capac dig gener gorg	1.0
+416	pred.refiner.5	three gorges project li area capac dig gener gorg	1.0
+416	pred.refiner.6	three gorges project li area capac dig gener gorg	1.0
+416	pred.refiner.7	three gorges project li area capac dig gener gorg	1.0
+416	pred.refiner.8	three gorges project li area capac dig gener gorg	1.0
+416	pred.refiner.9	three gorges project li area capac dig gener gorg	1.0
+417	-1	creativity	1.0
+418	-1	quilts, income	1.0
+418	pred.refiner.1	quilts quilt income	1.0
+418	pred.refiner.10	quilts quilt income	1.0
+418	pred.refiner.2	quilts quilt income	1.0
+418	pred.refiner.3	quilts quilt income	1.0
+418	pred.refiner.4	quilts quilt income	1.0
+418	pred.refiner.5	quilts quilt income	1.0
+418	pred.refiner.6	quilts quilt income	1.0
+418	pred.refiner.7	quilts quilt income	1.0
+418	pred.refiner.8	quilts quilt income	1.0
+418	pred.refiner.9	quilts quilt income	1.0
+419	-1	recycle, automobile tires	0.3333
+419	pred.refiner.1	recycling tyres automotive tyres	1.0
+419	pred.refiner.10	recycling tyres automotive tyres	1.0
+419	pred.refiner.2	recycling tyres automotive tyres	1.0
+419	pred.refiner.3	recycling tyres automotive tyres	1.0
+419	pred.refiner.4	recycling tyres automotive tyres	1.0
+419	pred.refiner.5	recycling tyres automotive tyres	1.0
+419	pred.refiner.6	recycling tyres automotive tyres	1.0
+419	pred.refiner.7	recycling tyres automotive tyres	1.0
+419	pred.refiner.8	recycling tyres automotive tyres	1.0
+419	pred.refiner.9	recycling tyres automotive tyres	1.0
+420	-1	carbon monoxide poisoning	1.0
+420	pred.refiner.1	carbon monoxide poisoning an element physiological state	1.0
+420	pred.refiner.10	carbon monoxide poisoning an element physiological state	1.0
+420	pred.refiner.2	carbon monoxide poisoning an element physiological state	1.0
+420	pred.refiner.3	carbon monoxide poisoning an element physiological state	1.0
+420	pred.refiner.4	carbon monoxide poisoning an element physiological state	1.0
+420	pred.refiner.5	carbon monoxide poisoning an element physiological state	1.0
+420	pred.refiner.6	carbon monoxide poisoning an element physiological state	1.0
+420	pred.refiner.7	carbon monoxide poisoning an element physiological state	1.0
+420	pred.refiner.8	carbon monoxide poisoning an element physiological state	1.0
+420	pred.refiner.9	carbon monoxide poisoning an element physiological state	1.0
+421	-1	industrial waste disposal	0.0435
+421	pred.refiner.1	industri wast dispos	0.25
+421	pred.refiner.10	industri wast dispos	0.25
+421	pred.refiner.2	industri wast dispos	0.25
+421	pred.refiner.3	industri wast dispos	0.25
+421	pred.refiner.4	industri wast dispos	0.25
+421	pred.refiner.5	industri wast dispos	0.25
+421	pred.refiner.6	industri wast dispos	0.25
+421	pred.refiner.7	industri wast dispos	0.25
+421	pred.refiner.8	industri wast dispos	0.25
+421	pred.refiner.9	industri wast dispos	0.25
+422	-1	art, stolen, forged	0.5
+422	pred.refiner.1	art stolen forged forgery art art theft	1.0
+422	pred.refiner.10	art stolen forged forgery art art theft	1.0
+422	pred.refiner.2	art stolen forged forgery art art theft	1.0
+422	pred.refiner.3	art stolen forged forgery art art theft	1.0
+422	pred.refiner.4	art stolen forged forgery art art theft	1.0
+422	pred.refiner.5	art stolen forged forgery art art theft	1.0
+422	pred.refiner.6	art stolen forged forgery art art theft	1.0
+422	pred.refiner.7	art stolen forged forgery art art theft	1.0
+422	pred.refiner.8	art stolen forged forgery art art theft	1.0
+422	pred.refiner.9	art stolen forged forgery art art theft	1.0
+423	-1	milosevic, mirjana markovic	1.0
+423	pred.refiner.1	milosevic, mirjana markovic	1.0
+423	pred.refiner.10	milosevic, mirjana markovic	1.0
+423	pred.refiner.2	milosevic, mirjana markovic	1.0
+423	pred.refiner.3	milosevic, mirjana markovic	1.0
+423	pred.refiner.4	milosevic, mirjana markovic	1.0
+423	pred.refiner.5	milosevic, mirjana markovic	1.0
+423	pred.refiner.6	milosevic, mirjana markovic	1.0
+423	pred.refiner.7	milosevic, mirjana markovic	1.0
+423	pred.refiner.8	milosevic, mirjana markovic	1.0
+423	pred.refiner.9	milosevic, mirjana markovic	1.0
+424	-1	suicides	0.0909
+424	pred.refiner.1	murder suicides	0.5
+424	pred.refiner.10	murder suicides	0.5
+424	pred.refiner.2	murder suicides	0.5
+424	pred.refiner.3	murder suicides	0.5
+424	pred.refiner.4	murder suicides	0.5
+424	pred.refiner.5	murder suicides	0.5
+424	pred.refiner.6	murder suicides	0.5
+424	pred.refiner.7	murder suicides	0.5
+424	pred.refiner.8	murder suicides	0.5
+424	pred.refiner.9	murder suicides	0.5
+425	-1	counterfeiting money	1.0
+425	pred.refiner.1	counterfeiting forge money	1.0
+425	pred.refiner.10	counterfeiting forge money	1.0
+425	pred.refiner.2	counterfeiting forge money	1.0
+425	pred.refiner.3	counterfeiting forge money	1.0
+425	pred.refiner.4	counterfeiting forge money	1.0
+425	pred.refiner.5	counterfeiting forge money	1.0
+425	pred.refiner.6	counterfeiting forge money	1.0
+425	pred.refiner.7	counterfeiting forge money	1.0
+425	pred.refiner.8	counterfeiting forge money	1.0
+425	pred.refiner.9	counterfeiting forge money	1.0
+426	-1	law enforcement, dogs	0.2
+426	pred.refiner.1	police police dog	1.0
+426	pred.refiner.10	police police dog	1.0
+426	pred.refiner.2	police police dog	1.0
+426	pred.refiner.3	police police dog	1.0
+426	pred.refiner.4	police police dog	1.0
+426	pred.refiner.5	police police dog	1.0
+426	pred.refiner.6	police police dog	1.0
+426	pred.refiner.7	police police dog	1.0
+426	pred.refiner.8	police police dog	1.0
+426	pred.refiner.9	police police dog	1.0
+427	-1	uv damage, eyes	1.0
+427	pred.refiner.1	uv damage eyes protect pound ozon star ash america ey characterist	1.0
+427	pred.refiner.10	uv damage eyes protect pound ozon star ash america ey characterist	1.0
+427	pred.refiner.2	uv damage eyes protect pound ozon star ash america ey characterist	1.0
+427	pred.refiner.3	uv damage eyes protect pound ozon star ash america ey characterist	1.0
+427	pred.refiner.4	uv damage eyes protect pound ozon star ash america ey characterist	1.0
+427	pred.refiner.5	uv damage eyes protect pound ozon star ash america ey characterist	1.0
+427	pred.refiner.6	uv damage eyes protect pound ozon star ash america ey characterist	1.0
+427	pred.refiner.7	uv damage eyes protect pound ozon star ash america ey characterist	1.0
+427	pred.refiner.8	uv damage eyes protect pound ozon star ash america ey characterist	1.0
+427	pred.refiner.9	uv damage eyes protect pound ozon star ash america ey characterist	1.0
+428	-1	declining birth rates	1.0
+428	pred.refiner.1	decrease in birth rates	1.0
+428	pred.refiner.10	decrease in birth rates	1.0
+428	pred.refiner.2	decrease in birth rates	1.0
+428	pred.refiner.3	decrease in birth rates	1.0
+428	pred.refiner.4	decrease in birth rates	1.0
+428	pred.refiner.5	decrease in birth rates	1.0
+428	pred.refiner.6	decrease in birth rates	1.0
+428	pred.refiner.7	decrease in birth rates	1.0
+428	pred.refiner.8	decrease in birth rates	1.0
+428	pred.refiner.9	decrease in birth rates	1.0
+429	-1	legionnaires' disease	1.0
+429	pred.refiner.1	legionnaires disease illness	1.0
+429	pred.refiner.10	legionnaires disease illness	1.0
+429	pred.refiner.2	legionnaires disease illness	1.0
+429	pred.refiner.3	legionnaires disease illness	1.0
+429	pred.refiner.4	legionnaires disease illness	1.0
+429	pred.refiner.5	legionnaires disease illness	1.0
+429	pred.refiner.6	legionnaires disease illness	1.0
+429	pred.refiner.7	legionnaires disease illness	1.0
+429	pred.refiner.8	legionnaires disease illness	1.0
+429	pred.refiner.9	legionnaires disease illness	1.0
+430	-1	killer bee attacks	0.5
+430	pred.refiner.1	a murderous attack by a bee	1.0
+430	pred.refiner.10	a murderous attack by a bee	1.0
+430	pred.refiner.2	a murderous attack by a bee	1.0
+430	pred.refiner.3	a murderous attack by a bee	1.0
+430	pred.refiner.4	a murderous attack by a bee	1.0
+430	pred.refiner.5	a murderous attack by a bee	1.0
+430	pred.refiner.6	a murderous attack by a bee	1.0
+430	pred.refiner.7	a murderous attack by a bee	1.0
+430	pred.refiner.8	a murderous attack by a bee	1.0
+430	pred.refiner.9	a murderous attack by a bee	1.0
+431	-1	robotic technology	1.0
+431	pred.refiner.1	robotic technology	1.0
+431	pred.refiner.10	robotic technology	1.0
+431	pred.refiner.2	robotic technology	1.0
+431	pred.refiner.3	robotic technology	1.0
+431	pred.refiner.4	robotic technology	1.0
+431	pred.refiner.5	robotic technology	1.0
+431	pred.refiner.6	robotic technology	1.0
+431	pred.refiner.7	robotic technology	1.0
+431	pred.refiner.8	robotic technology	1.0
+431	pred.refiner.9	robotic technology	1.0
+432	-1	profiling, motorists, police	0.0122
+432	pred.refiner.1	profiling motorists police percent puls drug genet warden polic i road court citi	0.1667
+432	pred.refiner.10	profiling motorists police percent puls drug genet warden polic i road court citi	0.1667
+432	pred.refiner.2	profiling motorists police percent puls drug genet warden polic i road court citi	0.1667
+432	pred.refiner.3	profiling motorists police percent puls drug genet warden polic i road court citi	0.1667
+432	pred.refiner.4	profiling motorists police percent puls drug genet warden polic i road court citi	0.1667
+432	pred.refiner.5	profiling motorists police percent puls drug genet warden polic i road court citi	0.1667
+432	pred.refiner.6	profiling motorists police percent puls drug genet warden polic i road court citi	0.1667
+432	pred.refiner.7	profiling motorists police percent puls drug genet warden polic i road court citi	0.1667
+432	pred.refiner.8	profiling motorists police percent puls drug genet warden polic i road court citi	0.1667
+432	pred.refiner.9	profiling motorists police percent puls drug genet warden polic i road court citi	0.1667
+433	-1	greek, philosophy, stoicism	0.25
+433	pred.refiner.1	greek philo stoic	0.5
+433	pred.refiner.10	greek philo stoic	0.5
+433	pred.refiner.2	greek philo stoic	0.5
+433	pred.refiner.3	greek philo stoic	0.5
+433	pred.refiner.4	greek philo stoic	0.5
+433	pred.refiner.5	greek philo stoic	0.5
+433	pred.refiner.6	greek philo stoic	0.5
+433	pred.refiner.7	greek philo stoic	0.5
+433	pred.refiner.8	greek philo stoic	0.5
+433	pred.refiner.9	greek philo stoic	0.5
+434	-1	estonia, economy	1.0
+434	pred.refiner.1	estonia, economy	1.0
+434	pred.refiner.10	estonia, economy	1.0
+434	pred.refiner.2	estonia, economy	1.0
+434	pred.refiner.3	estonia, economy	1.0
+434	pred.refiner.4	estonia, economy	1.0
+434	pred.refiner.5	estonia, economy	1.0
+434	pred.refiner.6	estonia, economy	1.0
+434	pred.refiner.7	estonia, economy	1.0
+434	pred.refiner.8	estonia, economy	1.0
+434	pred.refiner.9	estonia, economy	1.0
+435	-1	curbing population growth	0.1429
+435	pred.refiner.1	the population growth is controlled	1.0
+435	pred.refiner.10	the population growth is controlled	1.0
+435	pred.refiner.2	the population growth is controlled	1.0
+435	pred.refiner.3	the population growth is controlled	1.0
+435	pred.refiner.4	the population growth is controlled	1.0
+435	pred.refiner.5	the population growth is controlled	1.0
+435	pred.refiner.6	the population growth is controlled	1.0
+435	pred.refiner.7	the population growth is controlled	1.0
+435	pred.refiner.8	the population growth is controlled	1.0
+435	pred.refiner.9	the population growth is controlled	1.0
+436	-1	railway accidents	0.3333
+436	pred.refiner.1	the train crash	1.0
+436	pred.refiner.10	the train crash	1.0
+436	pred.refiner.2	the train crash	1.0
+436	pred.refiner.3	the train crash	1.0
+436	pred.refiner.4	the train crash	1.0
+436	pred.refiner.5	the train crash	1.0
+436	pred.refiner.6	the train crash	1.0
+436	pred.refiner.7	the train crash	1.0
+436	pred.refiner.8	the train crash	1.0
+436	pred.refiner.9	the train crash	1.0
+437	-1	deregulation, gas, electric	0.0625
+437	pred.refiner.1	the organization the gas the electricity	0.5
+437	pred.refiner.10	the organization the gas the electricity	0.5
+437	pred.refiner.2	the organization the gas the electricity	0.5
+437	pred.refiner.3	the organization the gas the electricity	0.5
+437	pred.refiner.4	the organization the gas the electricity	0.5
+437	pred.refiner.5	the organization the gas the electricity	0.5
+437	pred.refiner.6	the organization the gas the electricity	0.5
+437	pred.refiner.7	the organization the gas the electricity	0.5
+437	pred.refiner.8	the organization the gas the electricity	0.5
+437	pred.refiner.9	the organization the gas the electricity	0.5
+438	-1	tourism, increase	1.0
+438	pred.refiner.1	tourism, increase	1.0
+438	pred.refiner.10	tourism, increase	1.0
+438	pred.refiner.2	tourism, increase	1.0
+438	pred.refiner.3	tourism, increase	1.0
+438	pred.refiner.4	tourism, increase	1.0
+438	pred.refiner.5	tourism, increase	1.0
+438	pred.refiner.6	tourism, increase	1.0
+438	pred.refiner.7	tourism, increase	1.0
+438	pred.refiner.8	tourism, increase	1.0
+438	pred.refiner.9	tourism, increase	1.0
+439	-1	inventions, scientific discoveries	1.0
+439	pred.refiner.1	inventions, scientific discoveries	1.0
+439	pred.refiner.10	inventions, scientific discoveries	1.0
+439	pred.refiner.2	inventions, scientific discoveries	1.0
+439	pred.refiner.3	inventions, scientific discoveries	1.0
+439	pred.refiner.4	inventions, scientific discoveries	1.0
+439	pred.refiner.5	inventions, scientific discoveries	1.0
+439	pred.refiner.6	inventions, scientific discoveries	1.0
+439	pred.refiner.7	inventions, scientific discoveries	1.0
+439	pred.refiner.8	inventions, scientific discoveries	1.0
+439	pred.refiner.9	inventions, scientific discoveries	1.0
+440	-1	child labor	1.0
+441	-1	lyme disease	0.5
+441	pred.refiner.1	lyme disease lyme disease tick borne diseases neurodegenerative disorders lyme disease	1.0
+441	pred.refiner.10	lyme disease lyme disease tick borne diseases neurodegenerative disorders lyme disease	1.0
+441	pred.refiner.2	lyme disease lyme disease tick borne diseases neurodegenerative disorders lyme disease	1.0
+441	pred.refiner.3	lyme disease lyme disease tick borne diseases neurodegenerative disorders lyme disease	1.0
+441	pred.refiner.4	lyme disease lyme disease tick borne diseases neurodegenerative disorders lyme disease	1.0
+441	pred.refiner.5	lyme disease lyme disease tick borne diseases neurodegenerative disorders lyme disease	1.0
+441	pred.refiner.6	lyme disease lyme disease tick borne diseases neurodegenerative disorders lyme disease	1.0
+441	pred.refiner.7	lyme disease lyme disease tick borne diseases neurodegenerative disorders lyme disease	1.0
+441	pred.refiner.8	lyme disease lyme disease tick borne diseases neurodegenerative disorders lyme disease	1.0
+441	pred.refiner.9	lyme disease lyme disease tick borne diseases neurodegenerative disorders lyme disease	1.0
+442	-1	heroic acts	0.0256
+442	pred.refiner.1	heroism hero such	1.0
+442	pred.refiner.10	heroism hero such	1.0
+442	pred.refiner.2	heroism hero such	1.0
+442	pred.refiner.3	heroism hero such	1.0
+442	pred.refiner.4	heroism hero such	1.0
+442	pred.refiner.5	heroism hero such	1.0
+442	pred.refiner.6	heroism hero such	1.0
+442	pred.refiner.7	heroism hero such	1.0
+442	pred.refiner.8	heroism hero such	1.0
+442	pred.refiner.9	heroism hero such	1.0
+443	-1	u.s., investment, africa	1.0
+444	-1	supercritical fluids	1.0
+444	pred.refiner.1	it s a supercritical liquid	1.0
+444	pred.refiner.10	it s a supercritical liquid	1.0
+444	pred.refiner.2	it s a supercritical liquid	1.0
+444	pred.refiner.3	it s a supercritical liquid	1.0
+444	pred.refiner.4	it s a supercritical liquid	1.0
+444	pred.refiner.5	it s a supercritical liquid	1.0
+444	pred.refiner.6	it s a supercritical liquid	1.0
+444	pred.refiner.7	it s a supercritical liquid	1.0
+444	pred.refiner.8	it s a supercritical liquid	1.0
+444	pred.refiner.9	it s a supercritical liquid	1.0
+445	-1	women clergy	0.5
+445	pred.refiner.1	women clergy priest pound church which confer clergi magazin synod	1.0
+445	pred.refiner.10	women clergy priest pound church which confer clergi magazin synod	1.0
+445	pred.refiner.2	women clergy priest pound church which confer clergi magazin synod	1.0
+445	pred.refiner.3	women clergy priest pound church which confer clergi magazin synod	1.0
+445	pred.refiner.4	women clergy priest pound church which confer clergi magazin synod	1.0
+445	pred.refiner.5	women clergy priest pound church which confer clergi magazin synod	1.0
+445	pred.refiner.6	women clergy priest pound church which confer clergi magazin synod	1.0
+445	pred.refiner.7	women clergy priest pound church which confer clergi magazin synod	1.0
+445	pred.refiner.8	women clergy priest pound church which confer clergi magazin synod	1.0
+445	pred.refiner.9	women clergy priest pound church which confer clergi magazin synod	1.0
+446	-1	tourists, violence	1.0
+446	pred.refiner.1	tourists violence public new violenc st belgian tourist al wing said	1.0
+446	pred.refiner.10	tourists violence public new violenc st belgian tourist al wing said	1.0
+446	pred.refiner.2	tourists violence public new violenc st belgian tourist al wing said	1.0
+446	pred.refiner.3	tourists violence public new violenc st belgian tourist al wing said	1.0
+446	pred.refiner.4	tourists violence public new violenc st belgian tourist al wing said	1.0
+446	pred.refiner.5	tourists violence public new violenc st belgian tourist al wing said	1.0
+446	pred.refiner.6	tourists violence public new violenc st belgian tourist al wing said	1.0
+446	pred.refiner.7	tourists violence public new violenc st belgian tourist al wing said	1.0
+446	pred.refiner.8	tourists violence public new violenc st belgian tourist al wing said	1.0
+446	pred.refiner.9	tourists violence public new violenc st belgian tourist al wing said	1.0
+447	-1	stirling engine	0.25
+447	pred.refiner.1	stirling engine hi solar commiss group util	1.0
+447	pred.refiner.10	stirling engine hi solar commiss group util	1.0
+447	pred.refiner.2	stirling engine hi solar commiss group util	1.0
+447	pred.refiner.3	stirling engine hi solar commiss group util	1.0
+447	pred.refiner.4	stirling engine hi solar commiss group util	1.0
+447	pred.refiner.5	stirling engine hi solar commiss group util	1.0
+447	pred.refiner.6	stirling engine hi solar commiss group util	1.0
+447	pred.refiner.7	stirling engine hi solar commiss group util	1.0
+447	pred.refiner.8	stirling engine hi solar commiss group util	1.0
+447	pred.refiner.9	stirling engine hi solar commiss group util	1.0
+448	-1	ship losses	0.3333
+448	pred.refiner.1	ship losses vessel result	0.5
+448	pred.refiner.10	ship losses vessel result	0.5
+448	pred.refiner.2	ship losses vessel result	0.5
+448	pred.refiner.3	ship losses vessel result	0.5
+448	pred.refiner.4	ship losses vessel result	0.5
+448	pred.refiner.5	ship losses vessel result	0.5
+448	pred.refiner.6	ship losses vessel result	0.5
+448	pred.refiner.7	ship losses vessel result	0.5
+448	pred.refiner.8	ship losses vessel result	0.5
+448	pred.refiner.9	ship losses vessel result	0.5
+449	-1	antibiotics ineffectiveness	0.25
+449	pred.refiner.1	antibiotics	1.0
+449	pred.refiner.10	antibiotics	1.0
+449	pred.refiner.2	antibiotics	1.0
+449	pred.refiner.3	antibiotics	1.0
+449	pred.refiner.4	antibiotics	1.0
+449	pred.refiner.5	antibiotics	1.0
+449	pred.refiner.6	antibiotics	1.0
+449	pred.refiner.7	antibiotics	1.0
+449	pred.refiner.8	antibiotics	1.0
+449	pred.refiner.9	antibiotics	1.0
+450	-1	king hussein, peace	1.0
+450	pred.refiner.1	king hussein peace hussein ha jerusalem peac agreement isra jordan	1.0
+450	pred.refiner.10	king hussein peace hussein ha jerusalem peac agreement isra jordan	1.0
+450	pred.refiner.2	king hussein peace hussein ha jerusalem peac agreement isra jordan	1.0
+450	pred.refiner.3	king hussein peace hussein ha jerusalem peac agreement isra jordan	1.0
+450	pred.refiner.4	king hussein peace hussein ha jerusalem peac agreement isra jordan	1.0
+450	pred.refiner.5	king hussein peace hussein ha jerusalem peac agreement isra jordan	1.0
+450	pred.refiner.6	king hussein peace hussein ha jerusalem peac agreement isra jordan	1.0
+450	pred.refiner.7	king hussein peace hussein ha jerusalem peac agreement isra jordan	1.0
+450	pred.refiner.8	king hussein peace hussein ha jerusalem peac agreement isra jordan	1.0
+450	pred.refiner.9	king hussein peace hussein ha jerusalem peac agreement isra jordan	1.0
+601	-1	turkey iraq water	1.0
+601	pred.refiner.1	turkey iraq water bomb republic of turkey al iraq irak irrigate pee water system	1.0
+601	pred.refiner.10	turkey iraq water bomb republic of turkey al iraq irak irrigate pee water system	1.0
+601	pred.refiner.2	turkey iraq water bomb republic of turkey al iraq irak irrigate pee water system	1.0
+601	pred.refiner.3	turkey iraq water bomb republic of turkey al iraq irak irrigate pee water system	1.0
+601	pred.refiner.4	turkey iraq water bomb republic of turkey al iraq irak irrigate pee water system	1.0
+601	pred.refiner.5	turkey iraq water bomb republic of turkey al iraq irak irrigate pee water system	1.0
+601	pred.refiner.6	turkey iraq water bomb republic of turkey al iraq irak irrigate pee water system	1.0
+601	pred.refiner.7	turkey iraq water bomb republic of turkey al iraq irak irrigate pee water system	1.0
+601	pred.refiner.8	turkey iraq water bomb republic of turkey al iraq irak irrigate pee water system	1.0
+601	pred.refiner.9	turkey iraq water bomb republic of turkey al iraq irak irrigate pee water system	1.0
+602	-1	czech, slovak sovereignty	0.5
+602	pred.refiner.1	the czech and slovak governments	1.0
+602	pred.refiner.10	the czech and slovak governments	1.0
+602	pred.refiner.2	the czech and slovak governments	1.0
+602	pred.refiner.3	the czech and slovak governments	1.0
+602	pred.refiner.4	the czech and slovak governments	1.0
+602	pred.refiner.5	the czech and slovak governments	1.0
+602	pred.refiner.6	the czech and slovak governments	1.0
+602	pred.refiner.7	the czech and slovak governments	1.0
+602	pred.refiner.8	the czech and slovak governments	1.0
+602	pred.refiner.9	the czech and slovak governments	1.0
+603	-1	tobacco cigarette lawsuit	0.3333
+603	pred.refiner.1	a lawsuit about tobacco	0.5
+603	pred.refiner.10	a lawsuit about tobacco	0.5
+603	pred.refiner.2	a lawsuit about tobacco	0.5
+603	pred.refiner.3	a lawsuit about tobacco	0.5
+603	pred.refiner.4	a lawsuit about tobacco	0.5
+603	pred.refiner.5	a lawsuit about tobacco	0.5
+603	pred.refiner.6	a lawsuit about tobacco	0.5
+603	pred.refiner.7	a lawsuit about tobacco	0.5
+603	pred.refiner.8	a lawsuit about tobacco	0.5
+603	pred.refiner.9	a lawsuit about tobacco	0.5
+604	-1	lyme disease arthritis	1.0
+604	pred.refiner.1	lyme disease is a joint disease	1.0
+604	pred.refiner.10	lyme disease is a joint disease	1.0
+604	pred.refiner.2	lyme disease is a joint disease	1.0
+604	pred.refiner.3	lyme disease is a joint disease	1.0
+604	pred.refiner.4	lyme disease is a joint disease	1.0
+604	pred.refiner.5	lyme disease is a joint disease	1.0
+604	pred.refiner.6	lyme disease is a joint disease	1.0
+604	pred.refiner.7	lyme disease is a joint disease	1.0
+604	pred.refiner.8	lyme disease is a joint disease	1.0
+604	pred.refiner.9	lyme disease is a joint disease	1.0
+605	-1	great britain health care	0.1
+605	pred.refiner.1	health care in britain	0.125
+605	pred.refiner.10	health care in britain	0.125
+605	pred.refiner.2	health care in britain	0.125
+605	pred.refiner.3	health care in britain	0.125
+605	pred.refiner.4	health care in britain	0.125
+605	pred.refiner.5	health care in britain	0.125
+605	pred.refiner.6	health care in britain	0.125
+605	pred.refiner.7	health care in britain	0.125
+605	pred.refiner.8	health care in britain	0.125
+605	pred.refiner.9	health care in britain	0.125
+606	-1	leg traps ban	1.0
+606	pred.refiner.1	leg traps ban trap fur northridg from toi he dollar said	1.0
+606	pred.refiner.10	leg traps ban trap fur northridg from toi he dollar said	1.0
+606	pred.refiner.2	leg traps ban trap fur northridg from toi he dollar said	1.0
+606	pred.refiner.3	leg traps ban trap fur northridg from toi he dollar said	1.0
+606	pred.refiner.4	leg traps ban trap fur northridg from toi he dollar said	1.0
+606	pred.refiner.5	leg traps ban trap fur northridg from toi he dollar said	1.0
+606	pred.refiner.6	leg traps ban trap fur northridg from toi he dollar said	1.0
+606	pred.refiner.7	leg traps ban trap fur northridg from toi he dollar said	1.0
+606	pred.refiner.8	leg traps ban trap fur northridg from toi he dollar said	1.0
+606	pred.refiner.9	leg traps ban trap fur northridg from toi he dollar said	1.0
+607	-1	human genetic code	0.5
+607	pred.refiner.1	human genetic code gene genet dna would apo map	1.0
+607	pred.refiner.10	human genetic code gene genet dna would apo map	1.0
+607	pred.refiner.2	human genetic code gene genet dna would apo map	1.0
+607	pred.refiner.3	human genetic code gene genet dna would apo map	1.0
+607	pred.refiner.4	human genetic code gene genet dna would apo map	1.0
+607	pred.refiner.5	human genetic code gene genet dna would apo map	1.0
+607	pred.refiner.6	human genetic code gene genet dna would apo map	1.0
+607	pred.refiner.7	human genetic code gene genet dna would apo map	1.0
+607	pred.refiner.8	human genetic code gene genet dna would apo map	1.0
+607	pred.refiner.9	human genetic code gene genet dna would apo map	1.0
+608	-1	taxing social security	0.25
+608	pred.refiner.1	taxing social security	0.25
+608	pred.refiner.10	taxing social security	0.25
+608	pred.refiner.2	taxing social security	0.25
+608	pred.refiner.3	taxing social security	0.25
+608	pred.refiner.4	taxing social security	0.25
+608	pred.refiner.5	taxing social security	0.25
+608	pred.refiner.6	taxing social security	0.25
+608	pred.refiner.7	taxing social security	0.25
+608	pred.refiner.8	taxing social security	0.25
+608	pred.refiner.9	taxing social security	0.25
+609	-1	per capita alcohol consumption	1.0
+609	pred.refiner.1	per capita alcohol consumption wine diet product coffe increas beer grain	1.0
+609	pred.refiner.10	per capita alcohol consumption wine diet product coffe increas beer grain	1.0
+609	pred.refiner.2	per capita alcohol consumption wine diet product coffe increas beer grain	1.0
+609	pred.refiner.3	per capita alcohol consumption wine diet product coffe increas beer grain	1.0
+609	pred.refiner.4	per capita alcohol consumption wine diet product coffe increas beer grain	1.0
+609	pred.refiner.5	per capita alcohol consumption wine diet product coffe increas beer grain	1.0
+609	pred.refiner.6	per capita alcohol consumption wine diet product coffe increas beer grain	1.0
+609	pred.refiner.7	per capita alcohol consumption wine diet product coffe increas beer grain	1.0
+609	pred.refiner.8	per capita alcohol consumption wine diet product coffe increas beer grain	1.0
+609	pred.refiner.9	per capita alcohol consumption wine diet product coffe increas beer grain	1.0
+610	-1	minimum wage adverse impact	0.0556
+610	pred.refiner.1	the negative impact on the minimum wage	1.0
+610	pred.refiner.10	the negative impact on the minimum wage	1.0
+610	pred.refiner.2	the negative impact on the minimum wage	1.0
+610	pred.refiner.3	the negative impact on the minimum wage	1.0
+610	pred.refiner.4	the negative impact on the minimum wage	1.0
+610	pred.refiner.5	the negative impact on the minimum wage	1.0
+610	pred.refiner.6	the negative impact on the minimum wage	1.0
+610	pred.refiner.7	the negative impact on the minimum wage	1.0
+610	pred.refiner.8	the negative impact on the minimum wage	1.0
+610	pred.refiner.9	the negative impact on the minimum wage	1.0
+611	-1	kurds germany violence	0.2
+611	pred.refiner.1	kurds germany violence kurdish sunnis german berlin violent bloodshed	1.0
+611	pred.refiner.10	kurds germany violence kurdish sunnis german berlin violent bloodshed	1.0
+611	pred.refiner.2	kurds germany violence kurdish sunnis german berlin violent bloodshed	1.0
+611	pred.refiner.3	kurds germany violence kurdish sunnis german berlin violent bloodshed	1.0
+611	pred.refiner.4	kurds germany violence kurdish sunnis german berlin violent bloodshed	1.0
+611	pred.refiner.5	kurds germany violence kurdish sunnis german berlin violent bloodshed	1.0
+611	pred.refiner.6	kurds germany violence kurdish sunnis german berlin violent bloodshed	1.0
+611	pred.refiner.7	kurds germany violence kurdish sunnis german berlin violent bloodshed	1.0
+611	pred.refiner.8	kurds germany violence kurdish sunnis german berlin violent bloodshed	1.0
+611	pred.refiner.9	kurds germany violence kurdish sunnis german berlin violent bloodshed	1.0
+612	-1	tibet protesters	1.0
+612	pred.refiner.1	tibet protesters percent u hi dollar tibetan from artist polic	1.0
+612	pred.refiner.10	tibet protesters percent u hi dollar tibetan from artist polic	1.0
+612	pred.refiner.2	tibet protesters percent u hi dollar tibetan from artist polic	1.0
+612	pred.refiner.3	tibet protesters percent u hi dollar tibetan from artist polic	1.0
+612	pred.refiner.4	tibet protesters percent u hi dollar tibetan from artist polic	1.0
+612	pred.refiner.5	tibet protesters percent u hi dollar tibetan from artist polic	1.0
+612	pred.refiner.6	tibet protesters percent u hi dollar tibetan from artist polic	1.0
+612	pred.refiner.7	tibet protesters percent u hi dollar tibetan from artist polic	1.0
+612	pred.refiner.8	tibet protesters percent u hi dollar tibetan from artist polic	1.0
+612	pred.refiner.9	tibet protesters percent u hi dollar tibetan from artist polic	1.0
+613	-1	berlin wall disposal	0.5
+613	pred.refiner.1	along berlin wall rang clang	1.0
+613	pred.refiner.10	along berlin wall rang clang	1.0
+613	pred.refiner.2	along berlin wall rang clang	1.0
+613	pred.refiner.3	along berlin wall rang clang	1.0
+613	pred.refiner.4	along berlin wall rang clang	1.0
+613	pred.refiner.5	along berlin wall rang clang	1.0
+613	pred.refiner.6	along berlin wall rang clang	1.0
+613	pred.refiner.7	along berlin wall rang clang	1.0
+613	pred.refiner.8	along berlin wall rang clang	1.0
+613	pred.refiner.9	along berlin wall rang clang	1.0
+614	-1	flavr savr tomato	1.0
+614	pred.refiner.1	the flavour of the sabre tomatoes	1.0
+614	pred.refiner.10	the flavour of the sabre tomatoes	1.0
+614	pred.refiner.2	the flavour of the sabre tomatoes	1.0
+614	pred.refiner.3	the flavour of the sabre tomatoes	1.0
+614	pred.refiner.4	the flavour of the sabre tomatoes	1.0
+614	pred.refiner.5	the flavour of the sabre tomatoes	1.0
+614	pred.refiner.6	the flavour of the sabre tomatoes	1.0
+614	pred.refiner.7	the flavour of the sabre tomatoes	1.0
+614	pred.refiner.8	the flavour of the sabre tomatoes	1.0
+614	pred.refiner.9	the flavour of the sabre tomatoes	1.0
+615	-1	timber exports asia	0.2
+615	pred.refiner.1	timber exports asia logging lumber imports asian europe	1.0
+615	pred.refiner.10	timber exports asia logging lumber imports asian europe	1.0
+615	pred.refiner.2	timber exports asia logging lumber imports asian europe	1.0
+615	pred.refiner.3	timber exports asia logging lumber imports asian europe	1.0
+615	pred.refiner.4	timber exports asia logging lumber imports asian europe	1.0
+615	pred.refiner.5	timber exports asia logging lumber imports asian europe	1.0
+615	pred.refiner.6	timber exports asia logging lumber imports asian europe	1.0
+615	pred.refiner.7	timber exports asia logging lumber imports asian europe	1.0
+615	pred.refiner.8	timber exports asia logging lumber imports asian europe	1.0
+615	pred.refiner.9	timber exports asia logging lumber imports asian europe	1.0
+616	-1	volkswagen mexico	1.0
+616	pred.refiner.1	volkswagen mexico	1.0
+616	pred.refiner.10	volkswagen mexico	1.0
+616	pred.refiner.2	volkswagen mexico	1.0
+616	pred.refiner.3	volkswagen mexico	1.0
+616	pred.refiner.4	volkswagen mexico	1.0
+616	pred.refiner.5	volkswagen mexico	1.0
+616	pred.refiner.6	volkswagen mexico	1.0
+616	pred.refiner.7	volkswagen mexico	1.0
+616	pred.refiner.8	volkswagen mexico	1.0
+616	pred.refiner.9	volkswagen mexico	1.0
+617	-1	russia cuba economy	1.0
+618	-1	ayatollah khomeini death	0.125
+618	pred.refiner.1	ayatollah khomeini death marja khomeni khamenei khomenei dying	1.0
+618	pred.refiner.10	ayatollah khomeini death marja khomeni khamenei khomenei dying	1.0
+618	pred.refiner.2	ayatollah khomeini death marja khomeni khamenei khomenei dying	1.0
+618	pred.refiner.3	ayatollah khomeini death marja khomeni khamenei khomenei dying	1.0
+618	pred.refiner.4	ayatollah khomeini death marja khomeni khamenei khomenei dying	1.0
+618	pred.refiner.5	ayatollah khomeini death marja khomeni khamenei khomenei dying	1.0
+618	pred.refiner.6	ayatollah khomeini death marja khomeni khamenei khomenei dying	1.0
+618	pred.refiner.7	ayatollah khomeini death marja khomeni khamenei khomenei dying	1.0
+618	pred.refiner.8	ayatollah khomeini death marja khomeni khamenei khomenei dying	1.0
+618	pred.refiner.9	ayatollah khomeini death marja khomeni khamenei khomenei dying	1.0
+619	-1	winnie mandela scandal	1.0
+619	pred.refiner.1	winnie mandela scandal her hi	1.0
+619	pred.refiner.10	winnie mandela scandal her hi	1.0
+619	pred.refiner.2	winnie mandela scandal her hi	1.0
+619	pred.refiner.3	winnie mandela scandal her hi	1.0
+619	pred.refiner.4	winnie mandela scandal her hi	1.0
+619	pred.refiner.5	winnie mandela scandal her hi	1.0
+619	pred.refiner.6	winnie mandela scandal her hi	1.0
+619	pred.refiner.7	winnie mandela scandal her hi	1.0
+619	pred.refiner.8	winnie mandela scandal her hi	1.0
+619	pred.refiner.9	winnie mandela scandal her hi	1.0
+620	-1	france nuclear testing	0.1429
+620	pred.refiner.1	french nuclear tests	1.0
+620	pred.refiner.10	french nuclear tests	1.0
+620	pred.refiner.2	french nuclear tests	1.0
+620	pred.refiner.3	french nuclear tests	1.0
+620	pred.refiner.4	french nuclear tests	1.0
+620	pred.refiner.5	french nuclear tests	1.0
+620	pred.refiner.6	french nuclear tests	1.0
+620	pred.refiner.7	french nuclear tests	1.0
+620	pred.refiner.8	french nuclear tests	1.0
+620	pred.refiner.9	french nuclear tests	1.0
+621	-1	women ordained church of england	1.0
+621	pred.refiner.1	women of the church of england	1.0
+621	pred.refiner.10	women of the church of england	1.0
+621	pred.refiner.2	women of the church of england	1.0
+621	pred.refiner.3	women of the church of england	1.0
+621	pred.refiner.4	women of the church of england	1.0
+621	pred.refiner.5	women of the church of england	1.0
+621	pred.refiner.6	women of the church of england	1.0
+621	pred.refiner.7	women of the church of england	1.0
+621	pred.refiner.8	women of the church of england	1.0
+621	pred.refiner.9	women of the church of england	1.0
+622	-1	price fixing	0.5
+622	pred.refiner.1	price fixing	0.5
+622	pred.refiner.10	price fixing	0.5
+622	pred.refiner.2	price fixing	0.5
+622	pred.refiner.3	price fixing	0.5
+622	pred.refiner.4	price fixing	0.5
+622	pred.refiner.5	price fixing	0.5
+622	pred.refiner.6	price fixing	0.5
+622	pred.refiner.7	price fixing	0.5
+622	pred.refiner.8	price fixing	0.5
+622	pred.refiner.9	price fixing	0.5
+623	-1	toxic chemical weapon	0.5
+623	pred.refiner.1	lethal dose precursor chemistry intraperitoneal injection toxicity male mediated teratogens sarin chemical weapons convention chemical weapon	0.5
+623	pred.refiner.10	lethal dose precursor chemistry intraperitoneal injection toxicity male mediated teratogens sarin chemical weapons convention chemical weapon	0.5
+623	pred.refiner.2	lethal dose precursor chemistry intraperitoneal injection toxicity male mediated teratogens sarin chemical weapons convention chemical weapon	0.5
+623	pred.refiner.3	lethal dose precursor chemistry intraperitoneal injection toxicity male mediated teratogens sarin chemical weapons convention chemical weapon	0.5
+623	pred.refiner.4	lethal dose precursor chemistry intraperitoneal injection toxicity male mediated teratogens sarin chemical weapons convention chemical weapon	0.5
+623	pred.refiner.5	lethal dose precursor chemistry intraperitoneal injection toxicity male mediated teratogens sarin chemical weapons convention chemical weapon	0.5
+623	pred.refiner.6	lethal dose precursor chemistry intraperitoneal injection toxicity male mediated teratogens sarin chemical weapons convention chemical weapon	0.5
+623	pred.refiner.7	lethal dose precursor chemistry intraperitoneal injection toxicity male mediated teratogens sarin chemical weapons convention chemical weapon	0.5
+623	pred.refiner.8	lethal dose precursor chemistry intraperitoneal injection toxicity male mediated teratogens sarin chemical weapons convention chemical weapon	0.5
+623	pred.refiner.9	lethal dose precursor chemistry intraperitoneal injection toxicity male mediated teratogens sarin chemical weapons convention chemical weapon	0.5
+624	-1	sdi star wars	0.5
+624	pred.refiner.1	strategic defense initiative star wars	0.5
+624	pred.refiner.10	strategic defense initiative star wars	0.5
+624	pred.refiner.2	strategic defense initiative star wars	0.5
+624	pred.refiner.3	strategic defense initiative star wars	0.5
+624	pred.refiner.4	strategic defense initiative star wars	0.5
+624	pred.refiner.5	strategic defense initiative star wars	0.5
+624	pred.refiner.6	strategic defense initiative star wars	0.5
+624	pred.refiner.7	strategic defense initiative star wars	0.5
+624	pred.refiner.8	strategic defense initiative star wars	0.5
+624	pred.refiner.9	strategic defense initiative star wars	0.5
+625	-1	arrests bombing wtc	0.25
+625	pred.refiner.1	arrested by the world trade center bombing	0.3333
+625	pred.refiner.10	arrested by the world trade center bombing	0.3333
+625	pred.refiner.2	arrested by the world trade center bombing	0.3333
+625	pred.refiner.3	arrested by the world trade center bombing	0.3333
+625	pred.refiner.4	arrested by the world trade center bombing	0.3333
+625	pred.refiner.5	arrested by the world trade center bombing	0.3333
+625	pred.refiner.6	arrested by the world trade center bombing	0.3333
+625	pred.refiner.7	arrested by the world trade center bombing	0.3333
+625	pred.refiner.8	arrested by the world trade center bombing	0.3333
+625	pred.refiner.9	arrested by the world trade center bombing	0.3333
+626	-1	human stampede	0.2
+626	pred.refiner.1	stampede	0.5
+626	pred.refiner.10	stampede	0.5
+626	pred.refiner.2	stampede	0.5
+626	pred.refiner.3	stampede	0.5
+626	pred.refiner.4	stampede	0.5
+626	pred.refiner.5	stampede	0.5
+626	pred.refiner.6	stampede	0.5
+626	pred.refiner.7	stampede	0.5
+626	pred.refiner.8	stampede	0.5
+626	pred.refiner.9	stampede	0.5
+627	-1	russian food crisis	0.0333
+627	pred.refiner.1	russian food crisis food security russian cuisine	0.0476
+627	pred.refiner.10	russian food crisis food security russian cuisine	0.0476
+627	pred.refiner.2	russian food crisis food security russian cuisine	0.0476
+627	pred.refiner.3	russian food crisis food security russian cuisine	0.0476
+627	pred.refiner.4	russian food crisis food security russian cuisine	0.0476
+627	pred.refiner.5	russian food crisis food security russian cuisine	0.0476
+627	pred.refiner.6	russian food crisis food security russian cuisine	0.0476
+627	pred.refiner.7	russian food crisis food security russian cuisine	0.0476
+627	pred.refiner.8	russian food crisis food security russian cuisine	0.0476
+627	pred.refiner.9	russian food crisis food security russian cuisine	0.0476
+628	-1	u.s. invasion of panama	1.0
+628	pred.refiner.1	u s invasion of panama u noriega said have forc american	1.0
+628	pred.refiner.10	u s invasion of panama u noriega said have forc american	1.0
+628	pred.refiner.2	u s invasion of panama u noriega said have forc american	1.0
+628	pred.refiner.3	u s invasion of panama u noriega said have forc american	1.0
+628	pred.refiner.4	u s invasion of panama u noriega said have forc american	1.0
+628	pred.refiner.5	u s invasion of panama u noriega said have forc american	1.0
+628	pred.refiner.6	u s invasion of panama u noriega said have forc american	1.0
+628	pred.refiner.7	u s invasion of panama u noriega said have forc american	1.0
+628	pred.refiner.8	u s invasion of panama u noriega said have forc american	1.0
+628	pred.refiner.9	u s invasion of panama u noriega said have forc american	1.0
+629	-1	abortion clinic attack	0.3333
+629	pred.refiner.1	abortion miscarriage clinic attack fire	0.5
+629	pred.refiner.10	abortion miscarriage clinic attack fire	0.5
+629	pred.refiner.2	abortion miscarriage clinic attack fire	0.5
+629	pred.refiner.3	abortion miscarriage clinic attack fire	0.5
+629	pred.refiner.4	abortion miscarriage clinic attack fire	0.5
+629	pred.refiner.5	abortion miscarriage clinic attack fire	0.5
+629	pred.refiner.6	abortion miscarriage clinic attack fire	0.5
+629	pred.refiner.7	abortion miscarriage clinic attack fire	0.5
+629	pred.refiner.8	abortion miscarriage clinic attack fire	0.5
+629	pred.refiner.9	abortion miscarriage clinic attack fire	0.5
+630	-1	gulf war syndrome	1.0
+630	pred.refiner.1	gulf war syndrome gulf war syndrome borden institute united states army medical research institutof chemical defense gulf war syndrome	1.0
+630	pred.refiner.10	gulf war syndrome gulf war syndrome borden institute united states army medical research institutof chemical defense gulf war syndrome	1.0
+630	pred.refiner.2	gulf war syndrome gulf war syndrome borden institute united states army medical research institutof chemical defense gulf war syndrome	1.0
+630	pred.refiner.3	gulf war syndrome gulf war syndrome borden institute united states army medical research institutof chemical defense gulf war syndrome	1.0
+630	pred.refiner.4	gulf war syndrome gulf war syndrome borden institute united states army medical research institutof chemical defense gulf war syndrome	1.0
+630	pred.refiner.5	gulf war syndrome gulf war syndrome borden institute united states army medical research institutof chemical defense gulf war syndrome	1.0
+630	pred.refiner.6	gulf war syndrome gulf war syndrome borden institute united states army medical research institutof chemical defense gulf war syndrome	1.0
+630	pred.refiner.7	gulf war syndrome gulf war syndrome borden institute united states army medical research institutof chemical defense gulf war syndrome	1.0
+630	pred.refiner.8	gulf war syndrome gulf war syndrome borden institute united states army medical research institutof chemical defense gulf war syndrome	1.0
+630	pred.refiner.9	gulf war syndrome gulf war syndrome borden institute united states army medical research institutof chemical defense gulf war syndrome	1.0
+631	-1	mandela south africa president	0.25
+631	pred.refiner.1	mandela south africa president nelson mandela union south africa president mexico	1.0
+631	pred.refiner.10	mandela south africa president nelson mandela union south africa president mexico	1.0
+631	pred.refiner.2	mandela south africa president nelson mandela union south africa president mexico	1.0
+631	pred.refiner.3	mandela south africa president nelson mandela union south africa president mexico	1.0
+631	pred.refiner.4	mandela south africa president nelson mandela union south africa president mexico	1.0
+631	pred.refiner.5	mandela south africa president nelson mandela union south africa president mexico	1.0
+631	pred.refiner.6	mandela south africa president nelson mandela union south africa president mexico	1.0
+631	pred.refiner.7	mandela south africa president nelson mandela union south africa president mexico	1.0
+631	pred.refiner.8	mandela south africa president nelson mandela union south africa president mexico	1.0
+631	pred.refiner.9	mandela south africa president nelson mandela union south africa president mexico	1.0
+632	-1	southeast asia tin mining	1.0
+632	pred.refiner.1	southeast asia tin tin mining	1.0
+632	pred.refiner.10	southeast asia tin tin mining	1.0
+632	pred.refiner.2	southeast asia tin tin mining	1.0
+632	pred.refiner.3	southeast asia tin tin mining	1.0
+632	pred.refiner.4	southeast asia tin tin mining	1.0
+632	pred.refiner.5	southeast asia tin tin mining	1.0
+632	pred.refiner.6	southeast asia tin tin mining	1.0
+632	pred.refiner.7	southeast asia tin tin mining	1.0
+632	pred.refiner.8	southeast asia tin tin mining	1.0
+632	pred.refiner.9	southeast asia tin tin mining	1.0
+633	-1	welsh devolution	1.0
+633	pred.refiner.1	welsh devolution wale ireland mr parti he cent would labour major	1.0
+633	pred.refiner.10	welsh devolution wale ireland mr parti he cent would labour major	1.0
+633	pred.refiner.2	welsh devolution wale ireland mr parti he cent would labour major	1.0
+633	pred.refiner.3	welsh devolution wale ireland mr parti he cent would labour major	1.0
+633	pred.refiner.4	welsh devolution wale ireland mr parti he cent would labour major	1.0
+633	pred.refiner.5	welsh devolution wale ireland mr parti he cent would labour major	1.0
+633	pred.refiner.6	welsh devolution wale ireland mr parti he cent would labour major	1.0
+633	pred.refiner.7	welsh devolution wale ireland mr parti he cent would labour major	1.0
+633	pred.refiner.8	welsh devolution wale ireland mr parti he cent would labour major	1.0
+633	pred.refiner.9	welsh devolution wale ireland mr parti he cent would labour major	1.0
+634	-1	l-tryptophan deaths	1.0
+634	pred.refiner.1	l tryptophan deaths tyrosine methionine acidiamino acids tryptophan lifexpectancy disease herd immunity mortality rate	1.0
+634	pred.refiner.10	l tryptophan deaths tyrosine methionine acidiamino acids tryptophan lifexpectancy disease herd immunity mortality rate	1.0
+634	pred.refiner.2	l tryptophan deaths tyrosine methionine acidiamino acids tryptophan lifexpectancy disease herd immunity mortality rate	1.0
+634	pred.refiner.3	l tryptophan deaths tyrosine methionine acidiamino acids tryptophan lifexpectancy disease herd immunity mortality rate	1.0
+634	pred.refiner.4	l tryptophan deaths tyrosine methionine acidiamino acids tryptophan lifexpectancy disease herd immunity mortality rate	1.0
+634	pred.refiner.5	l tryptophan deaths tyrosine methionine acidiamino acids tryptophan lifexpectancy disease herd immunity mortality rate	1.0
+634	pred.refiner.6	l tryptophan deaths tyrosine methionine acidiamino acids tryptophan lifexpectancy disease herd immunity mortality rate	1.0
+634	pred.refiner.7	l tryptophan deaths tyrosine methionine acidiamino acids tryptophan lifexpectancy disease herd immunity mortality rate	1.0
+634	pred.refiner.8	l tryptophan deaths tyrosine methionine acidiamino acids tryptophan lifexpectancy disease herd immunity mortality rate	1.0
+634	pred.refiner.9	l tryptophan deaths tyrosine methionine acidiamino acids tryptophan lifexpectancy disease herd immunity mortality rate	1.0
+635	-1	doctor assisted suicides	1.0
+635	pred.refiner.1	doctor assisted suicides said he suicid she kevorkian assist adkin	1.0
+635	pred.refiner.10	doctor assisted suicides said he suicid she kevorkian assist adkin	1.0
+635	pred.refiner.2	doctor assisted suicides said he suicid she kevorkian assist adkin	1.0
+635	pred.refiner.3	doctor assisted suicides said he suicid she kevorkian assist adkin	1.0
+635	pred.refiner.4	doctor assisted suicides said he suicid she kevorkian assist adkin	1.0
+635	pred.refiner.5	doctor assisted suicides said he suicid she kevorkian assist adkin	1.0
+635	pred.refiner.6	doctor assisted suicides said he suicid she kevorkian assist adkin	1.0
+635	pred.refiner.7	doctor assisted suicides said he suicid she kevorkian assist adkin	1.0
+635	pred.refiner.8	doctor assisted suicides said he suicid she kevorkian assist adkin	1.0
+635	pred.refiner.9	doctor assisted suicides said he suicid she kevorkian assist adkin	1.0
+636	-1	jury duty exemptions	1.0
+637	-1	human growth hormone (hgh)	1.0
+637	pred.refiner.1	human growth hormone (hgh)	1.0
+637	pred.refiner.10	human growth hormone (hgh)	1.0
+637	pred.refiner.2	human growth hormone (hgh)	1.0
+637	pred.refiner.3	human growth hormone (hgh)	1.0
+637	pred.refiner.4	human growth hormone (hgh)	1.0
+637	pred.refiner.5	human growth hormone (hgh)	1.0
+637	pred.refiner.6	human growth hormone (hgh)	1.0
+637	pred.refiner.7	human growth hormone (hgh)	1.0
+637	pred.refiner.8	human growth hormone (hgh)	1.0
+637	pred.refiner.9	human growth hormone (hgh)	1.0
+638	-1	wrongful convictions	0.5
+638	pred.refiner.1	wrongful convictions conviction	1.0
+638	pred.refiner.10	wrongful convictions conviction	1.0
+638	pred.refiner.2	wrongful convictions conviction	1.0
+638	pred.refiner.3	wrongful convictions conviction	1.0
+638	pred.refiner.4	wrongful convictions conviction	1.0
+638	pred.refiner.5	wrongful convictions conviction	1.0
+638	pred.refiner.6	wrongful convictions conviction	1.0
+638	pred.refiner.7	wrongful convictions conviction	1.0
+638	pred.refiner.8	wrongful convictions conviction	1.0
+638	pred.refiner.9	wrongful convictions conviction	1.0
+639	-1	consumer on-line shopping	1.0
+639	pred.refiner.1	consumer on line shopping consumer online shopping	1.0
+639	pred.refiner.10	consumer on line shopping consumer online shopping	1.0
+639	pred.refiner.2	consumer on line shopping consumer online shopping	1.0
+639	pred.refiner.3	consumer on line shopping consumer online shopping	1.0
+639	pred.refiner.4	consumer on line shopping consumer online shopping	1.0
+639	pred.refiner.5	consumer on line shopping consumer online shopping	1.0
+639	pred.refiner.6	consumer on line shopping consumer online shopping	1.0
+639	pred.refiner.7	consumer on line shopping consumer online shopping	1.0
+639	pred.refiner.8	consumer on line shopping consumer online shopping	1.0
+639	pred.refiner.9	consumer on line shopping consumer online shopping	1.0
+640	-1	maternity leave policies	0.5
+640	pred.refiner.1	maternity leave policies nurs matern week pai her benefit	1.0
+640	pred.refiner.10	maternity leave policies nurs matern week pai her benefit	1.0
+640	pred.refiner.2	maternity leave policies nurs matern week pai her benefit	1.0
+640	pred.refiner.3	maternity leave policies nurs matern week pai her benefit	1.0
+640	pred.refiner.4	maternity leave policies nurs matern week pai her benefit	1.0
+640	pred.refiner.5	maternity leave policies nurs matern week pai her benefit	1.0
+640	pred.refiner.6	maternity leave policies nurs matern week pai her benefit	1.0
+640	pred.refiner.7	maternity leave policies nurs matern week pai her benefit	1.0
+640	pred.refiner.8	maternity leave policies nurs matern week pai her benefit	1.0
+640	pred.refiner.9	maternity leave policies nurs matern week pai her benefit	1.0
+641	-1	valdez wildlife marine life	0.5
+641	pred.refiner.1	valdez wildlife marine life said exxon otter oil	1.0
+641	pred.refiner.10	valdez wildlife marine life said exxon otter oil	1.0
+641	pred.refiner.2	valdez wildlife marine life said exxon otter oil	1.0
+641	pred.refiner.3	valdez wildlife marine life said exxon otter oil	1.0
+641	pred.refiner.4	valdez wildlife marine life said exxon otter oil	1.0
+641	pred.refiner.5	valdez wildlife marine life said exxon otter oil	1.0
+641	pred.refiner.6	valdez wildlife marine life said exxon otter oil	1.0
+641	pred.refiner.7	valdez wildlife marine life said exxon otter oil	1.0
+641	pred.refiner.8	valdez wildlife marine life said exxon otter oil	1.0
+641	pred.refiner.9	valdez wildlife marine life said exxon otter oil	1.0
+642	-1	tiananmen square protesters	0.1429
+642	pred.refiner.1	tiananmen foursquare lame demonstrator dissident objector	0.5
+642	pred.refiner.10	tiananmen foursquare lame demonstrator dissident objector	0.5
+642	pred.refiner.2	tiananmen foursquare lame demonstrator dissident objector	0.5
+642	pred.refiner.3	tiananmen foursquare lame demonstrator dissident objector	0.5
+642	pred.refiner.4	tiananmen foursquare lame demonstrator dissident objector	0.5
+642	pred.refiner.5	tiananmen foursquare lame demonstrator dissident objector	0.5
+642	pred.refiner.6	tiananmen foursquare lame demonstrator dissident objector	0.5
+642	pred.refiner.7	tiananmen foursquare lame demonstrator dissident objector	0.5
+642	pred.refiner.8	tiananmen foursquare lame demonstrator dissident objector	0.5
+642	pred.refiner.9	tiananmen foursquare lame demonstrator dissident objector	0.5
+643	-1	salmon dams pacific northwest	0.5
+643	pred.refiner.1	salmon dams pacific northwest food fish control rivers ocean	1.0
+643	pred.refiner.10	salmon dams pacific northwest food fish control rivers ocean	1.0
+643	pred.refiner.2	salmon dams pacific northwest food fish control rivers ocean	1.0
+643	pred.refiner.3	salmon dams pacific northwest food fish control rivers ocean	1.0
+643	pred.refiner.4	salmon dams pacific northwest food fish control rivers ocean	1.0
+643	pred.refiner.5	salmon dams pacific northwest food fish control rivers ocean	1.0
+643	pred.refiner.6	salmon dams pacific northwest food fish control rivers ocean	1.0
+643	pred.refiner.7	salmon dams pacific northwest food fish control rivers ocean	1.0
+643	pred.refiner.8	salmon dams pacific northwest food fish control rivers ocean	1.0
+643	pred.refiner.9	salmon dams pacific northwest food fish control rivers ocean	1.0
+644	-1	exotic animals import	1.0
+644	pred.refiner.1	exotic animals import locales locale humans export	1.0
+644	pred.refiner.10	exotic animals import locales locale humans export	1.0
+644	pred.refiner.2	exotic animals import locales locale humans export	1.0
+644	pred.refiner.3	exotic animals import locales locale humans export	1.0
+644	pred.refiner.4	exotic animals import locales locale humans export	1.0
+644	pred.refiner.5	exotic animals import locales locale humans export	1.0
+644	pred.refiner.6	exotic animals import locales locale humans export	1.0
+644	pred.refiner.7	exotic animals import locales locale humans export	1.0
+644	pred.refiner.8	exotic animals import locales locale humans export	1.0
+644	pred.refiner.9	exotic animals import locales locale humans export	1.0
+645	-1	software piracy	1.0
+645	pred.refiner.1	software piracy softwar compani	1.0
+645	pred.refiner.10	software piracy softwar compani	1.0
+645	pred.refiner.2	software piracy softwar compani	1.0
+645	pred.refiner.3	software piracy softwar compani	1.0
+645	pred.refiner.4	software piracy softwar compani	1.0
+645	pred.refiner.5	software piracy softwar compani	1.0
+645	pred.refiner.6	software piracy softwar compani	1.0
+645	pred.refiner.7	software piracy softwar compani	1.0
+645	pred.refiner.8	software piracy softwar compani	1.0
+645	pred.refiner.9	software piracy softwar compani	1.0
+646	-1	food stamps increase	0.3333
+646	pred.refiner.1	food stamps increase solid food food for thought nutrient pigeonhole revenue stamp boss step up gain	1.0
+646	pred.refiner.10	food stamps increase solid food food for thought nutrient pigeonhole revenue stamp boss step up gain	1.0
+646	pred.refiner.2	food stamps increase solid food food for thought nutrient pigeonhole revenue stamp boss step up gain	1.0
+646	pred.refiner.3	food stamps increase solid food food for thought nutrient pigeonhole revenue stamp boss step up gain	1.0
+646	pred.refiner.4	food stamps increase solid food food for thought nutrient pigeonhole revenue stamp boss step up gain	1.0
+646	pred.refiner.5	food stamps increase solid food food for thought nutrient pigeonhole revenue stamp boss step up gain	1.0
+646	pred.refiner.6	food stamps increase solid food food for thought nutrient pigeonhole revenue stamp boss step up gain	1.0
+646	pred.refiner.7	food stamps increase solid food food for thought nutrient pigeonhole revenue stamp boss step up gain	1.0
+646	pred.refiner.8	food stamps increase solid food food for thought nutrient pigeonhole revenue stamp boss step up gain	1.0
+646	pred.refiner.9	food stamps increase solid food food for thought nutrient pigeonhole revenue stamp boss step up gain	1.0
+647	-1	windmill electricity	1.0
+647	pred.refiner.1	windmill electricity wind generator aerogenerator electrical energy	1.0
+647	pred.refiner.10	windmill electricity wind generator aerogenerator electrical energy	1.0
+647	pred.refiner.2	windmill electricity wind generator aerogenerator electrical energy	1.0
+647	pred.refiner.3	windmill electricity wind generator aerogenerator electrical energy	1.0
+647	pred.refiner.4	windmill electricity wind generator aerogenerator electrical energy	1.0
+647	pred.refiner.5	windmill electricity wind generator aerogenerator electrical energy	1.0
+647	pred.refiner.6	windmill electricity wind generator aerogenerator electrical energy	1.0
+647	pred.refiner.7	windmill electricity wind generator aerogenerator electrical energy	1.0
+647	pred.refiner.8	windmill electricity wind generator aerogenerator electrical energy	1.0
+647	pred.refiner.9	windmill electricity wind generator aerogenerator electrical energy	1.0
+648	-1	family leave law	1.0
+648	pred.refiner.1	family leave	1.0
+648	pred.refiner.10	family leave	1.0
+648	pred.refiner.2	family leave	1.0
+648	pred.refiner.3	family leave	1.0
+648	pred.refiner.4	family leave	1.0
+648	pred.refiner.5	family leave	1.0
+648	pred.refiner.6	family leave	1.0
+648	pred.refiner.7	family leave	1.0
+648	pred.refiner.8	family leave	1.0
+648	pred.refiner.9	family leave	1.0
+649	-1	computer viruses	1.0
+649	pred.refiner.1	computer viruses comput viru softwar network	1.0
+649	pred.refiner.10	computer viruses comput viru softwar network	1.0
+649	pred.refiner.2	computer viruses comput viru softwar network	1.0
+649	pred.refiner.3	computer viruses comput viru softwar network	1.0
+649	pred.refiner.4	computer viruses comput viru softwar network	1.0
+649	pred.refiner.5	computer viruses comput viru softwar network	1.0
+649	pred.refiner.6	computer viruses comput viru softwar network	1.0
+649	pred.refiner.7	computer viruses comput viru softwar network	1.0
+649	pred.refiner.8	computer viruses comput viru softwar network	1.0
+649	pred.refiner.9	computer viruses comput viru softwar network	1.0
+650	-1	tax evasion indicted	0.1
+650	pred.refiner.1	tax evasion indicted hunter mr tripp feder yuan hoff milken i	0.3333
+650	pred.refiner.10	tax evasion indicted hunter mr tripp feder yuan hoff milken i	0.3333
+650	pred.refiner.2	tax evasion indicted hunter mr tripp feder yuan hoff milken i	0.3333
+650	pred.refiner.3	tax evasion indicted hunter mr tripp feder yuan hoff milken i	0.3333
+650	pred.refiner.4	tax evasion indicted hunter mr tripp feder yuan hoff milken i	0.3333
+650	pred.refiner.5	tax evasion indicted hunter mr tripp feder yuan hoff milken i	0.3333
+650	pred.refiner.6	tax evasion indicted hunter mr tripp feder yuan hoff milken i	0.3333
+650	pred.refiner.7	tax evasion indicted hunter mr tripp feder yuan hoff milken i	0.3333
+650	pred.refiner.8	tax evasion indicted hunter mr tripp feder yuan hoff milken i	0.3333
+650	pred.refiner.9	tax evasion indicted hunter mr tripp feder yuan hoff milken i	0.3333
+651	-1	u.s. ethnic population	0.3333
+652	-1	oic balkans 1990s	1.0
+653	-1	eta basque terrorism	1.0
+653	pred.refiner.1	eta basqu terro	1.0
+653	pred.refiner.10	eta basqu terro	1.0
+653	pred.refiner.2	eta basqu terro	1.0
+653	pred.refiner.3	eta basqu terro	1.0
+653	pred.refiner.4	eta basqu terro	1.0
+653	pred.refiner.5	eta basqu terro	1.0
+653	pred.refiner.6	eta basqu terro	1.0
+653	pred.refiner.7	eta basqu terro	1.0
+653	pred.refiner.8	eta basqu terro	1.0
+653	pred.refiner.9	eta basqu terro	1.0
+654	-1	same-sex schools	1.0
+654	pred.refiner.1	same sex schools school	1.0
+654	pred.refiner.10	same sex schools school	1.0
+654	pred.refiner.2	same sex schools school	1.0
+654	pred.refiner.3	same sex schools school	1.0
+654	pred.refiner.4	same sex schools school	1.0
+654	pred.refiner.5	same sex schools school	1.0
+654	pred.refiner.6	same sex schools school	1.0
+654	pred.refiner.7	same sex schools school	1.0
+654	pred.refiner.8	same sex schools school	1.0
+654	pred.refiner.9	same sex schools school	1.0
+655	-1	add diagnosis treatment	0.0
+655	pred.refiner.1	add attention deficit disorder diagnosis treatment	1.0
+655	pred.refiner.10	add attention deficit disorder diagnosis treatment	1.0
+655	pred.refiner.2	add attention deficit disorder diagnosis treatment	1.0
+655	pred.refiner.3	add attention deficit disorder diagnosis treatment	1.0
+655	pred.refiner.4	add attention deficit disorder diagnosis treatment	1.0
+655	pred.refiner.5	add attention deficit disorder diagnosis treatment	1.0
+655	pred.refiner.6	add attention deficit disorder diagnosis treatment	1.0
+655	pred.refiner.7	add attention deficit disorder diagnosis treatment	1.0
+655	pred.refiner.8	add attention deficit disorder diagnosis treatment	1.0
+655	pred.refiner.9	add attention deficit disorder diagnosis treatment	1.0
+656	-1	lead poisoning children	1.0
+656	pred.refiner.1	lead poisoning children	1.0
+656	pred.refiner.10	lead poisoning children	1.0
+656	pred.refiner.2	lead poisoning children	1.0
+656	pred.refiner.3	lead poisoning children	1.0
+656	pred.refiner.4	lead poisoning children	1.0
+656	pred.refiner.5	lead poisoning children	1.0
+656	pred.refiner.6	lead poisoning children	1.0
+656	pred.refiner.7	lead poisoning children	1.0
+656	pred.refiner.8	lead poisoning children	1.0
+656	pred.refiner.9	lead poisoning children	1.0
+657	-1	school prayer banned	1.0
+657	pred.refiner.1	school prayer banned school prayer censorship	1.0
+657	pred.refiner.10	school prayer banned school prayer censorship	1.0
+657	pred.refiner.2	school prayer banned school prayer censorship	1.0
+657	pred.refiner.3	school prayer banned school prayer censorship	1.0
+657	pred.refiner.4	school prayer banned school prayer censorship	1.0
+657	pred.refiner.5	school prayer banned school prayer censorship	1.0
+657	pred.refiner.6	school prayer banned school prayer censorship	1.0
+657	pred.refiner.7	school prayer banned school prayer censorship	1.0
+657	pred.refiner.8	school prayer banned school prayer censorship	1.0
+657	pred.refiner.9	school prayer banned school prayer censorship	1.0
+658	-1	teenage pregnancy	0.5
+658	pred.refiner.1	teenage pregnancy teen age teen preganancy	1.0
+658	pred.refiner.10	teenage pregnancy teen age teen preganancy	1.0
+658	pred.refiner.2	teenage pregnancy teen age teen preganancy	1.0
+658	pred.refiner.3	teenage pregnancy teen age teen preganancy	1.0
+658	pred.refiner.4	teenage pregnancy teen age teen preganancy	1.0
+658	pred.refiner.5	teenage pregnancy teen age teen preganancy	1.0
+658	pred.refiner.6	teenage pregnancy teen age teen preganancy	1.0
+658	pred.refiner.7	teenage pregnancy teen age teen preganancy	1.0
+658	pred.refiner.8	teenage pregnancy teen age teen preganancy	1.0
+658	pred.refiner.9	teenage pregnancy teen age teen preganancy	1.0
+659	-1	cruise health safety	1.0
+659	pred.refiner.1	safety for the health of cruise passengers	1.0
+659	pred.refiner.10	safety for the health of cruise passengers	1.0
+659	pred.refiner.2	safety for the health of cruise passengers	1.0
+659	pred.refiner.3	safety for the health of cruise passengers	1.0
+659	pred.refiner.4	safety for the health of cruise passengers	1.0
+659	pred.refiner.5	safety for the health of cruise passengers	1.0
+659	pred.refiner.6	safety for the health of cruise passengers	1.0
+659	pred.refiner.7	safety for the health of cruise passengers	1.0
+659	pred.refiner.8	safety for the health of cruise passengers	1.0
+659	pred.refiner.9	safety for the health of cruise passengers	1.0
+660	-1	whale watching california	1.0
+660	pred.refiner.1	whale watching watch california	1.0
+660	pred.refiner.10	whale watching watch california	1.0
+660	pred.refiner.2	whale watching watch california	1.0
+660	pred.refiner.3	whale watching watch california	1.0
+660	pred.refiner.4	whale watching watch california	1.0
+660	pred.refiner.5	whale watching watch california	1.0
+660	pred.refiner.6	whale watching watch california	1.0
+660	pred.refiner.7	whale watching watch california	1.0
+660	pred.refiner.8	whale watching watch california	1.0
+660	pred.refiner.9	whale watching watch california	1.0
+661	-1	melanoma treatment causes	1.0
+661	pred.refiner.1	the causes of melanoma	1.0
+661	pred.refiner.10	the causes of melanoma	1.0
+661	pred.refiner.2	the causes of melanoma	1.0
+661	pred.refiner.3	the causes of melanoma	1.0
+661	pred.refiner.4	the causes of melanoma	1.0
+661	pred.refiner.5	the causes of melanoma	1.0
+661	pred.refiner.6	the causes of melanoma	1.0
+661	pred.refiner.7	the causes of melanoma	1.0
+661	pred.refiner.8	the causes of melanoma	1.0
+661	pred.refiner.9	the causes of melanoma	1.0
+662	-1	telemarketer protection	1.0
+662	pred.refiner.1	telemarketer protection security	1.0
+662	pred.refiner.10	telemarketer protection security	1.0
+662	pred.refiner.2	telemarketer protection security	1.0
+662	pred.refiner.3	telemarketer protection security	1.0
+662	pred.refiner.4	telemarketer protection security	1.0
+662	pred.refiner.5	telemarketer protection security	1.0
+662	pred.refiner.6	telemarketer protection security	1.0
+662	pred.refiner.7	telemarketer protection security	1.0
+662	pred.refiner.8	telemarketer protection security	1.0
+662	pred.refiner.9	telemarketer protection security	1.0
+663	-1	agent orange exposure	1.0
+663	pred.refiner.1	agent orange exposure veteran studi said toronto orang astra olema secur	1.0
+663	pred.refiner.10	agent orange exposure veteran studi said toronto orang astra olema secur	1.0
+663	pred.refiner.2	agent orange exposure veteran studi said toronto orang astra olema secur	1.0
+663	pred.refiner.3	agent orange exposure veteran studi said toronto orang astra olema secur	1.0
+663	pred.refiner.4	agent orange exposure veteran studi said toronto orang astra olema secur	1.0
+663	pred.refiner.5	agent orange exposure veteran studi said toronto orang astra olema secur	1.0
+663	pred.refiner.6	agent orange exposure veteran studi said toronto orang astra olema secur	1.0
+663	pred.refiner.7	agent orange exposure veteran studi said toronto orang astra olema secur	1.0
+663	pred.refiner.8	agent orange exposure veteran studi said toronto orang astra olema secur	1.0
+663	pred.refiner.9	agent orange exposure veteran studi said toronto orang astra olema secur	1.0
+664	-1	american indian museum	1.0
+664	pred.refiner.1	american indian museum	1.0
+664	pred.refiner.10	american indian museum	1.0
+664	pred.refiner.2	american indian museum	1.0
+664	pred.refiner.3	american indian museum	1.0
+664	pred.refiner.4	american indian museum	1.0
+664	pred.refiner.5	american indian museum	1.0
+664	pred.refiner.6	american indian museum	1.0
+664	pred.refiner.7	american indian museum	1.0
+664	pred.refiner.8	american indian museum	1.0
+664	pred.refiner.9	american indian museum	1.0
+665	-1	poverty africa sub-sahara	0.5
+666	-1	thatcher resignation impact	0.0161
+666	pred.refiner.1	thatcher resignation impact shock	0.5
+666	pred.refiner.10	thatcher resignation impact shock	0.5
+666	pred.refiner.2	thatcher resignation impact shock	0.5
+666	pred.refiner.3	thatcher resignation impact shock	0.5
+666	pred.refiner.4	thatcher resignation impact shock	0.5
+666	pred.refiner.5	thatcher resignation impact shock	0.5
+666	pred.refiner.6	thatcher resignation impact shock	0.5
+666	pred.refiner.7	thatcher resignation impact shock	0.5
+666	pred.refiner.8	thatcher resignation impact shock	0.5
+666	pred.refiner.9	thatcher resignation impact shock	0.5
+667	-1	unmarried-partner households	1.0
+667	pred.refiner.1	unmarried partner families residing	1.0
+667	pred.refiner.10	unmarried partner families residing	1.0
+667	pred.refiner.2	unmarried partner families residing	1.0
+667	pred.refiner.3	unmarried partner families residing	1.0
+667	pred.refiner.4	unmarried partner families residing	1.0
+667	pred.refiner.5	unmarried partner families residing	1.0
+667	pred.refiner.6	unmarried partner families residing	1.0
+667	pred.refiner.7	unmarried partner families residing	1.0
+667	pred.refiner.8	unmarried partner families residing	1.0
+667	pred.refiner.9	unmarried partner families residing	1.0
+668	-1	poverty, disease	1.0
+668	pred.refiner.1	poverty, disease	1.0
+668	pred.refiner.10	poverty, disease	1.0
+668	pred.refiner.2	poverty, disease	1.0
+668	pred.refiner.3	poverty, disease	1.0
+668	pred.refiner.4	poverty, disease	1.0
+668	pred.refiner.5	poverty, disease	1.0
+668	pred.refiner.6	poverty, disease	1.0
+668	pred.refiner.7	poverty, disease	1.0
+668	pred.refiner.8	poverty, disease	1.0
+668	pred.refiner.9	poverty, disease	1.0
+669	-1	islamic revolution	0.25
+669	pred.refiner.1	islamic revolution muslim takaful change society	0.5
+669	pred.refiner.10	islamic revolution muslim takaful change society	0.5
+669	pred.refiner.2	islamic revolution muslim takaful change society	0.5
+669	pred.refiner.3	islamic revolution muslim takaful change society	0.5
+669	pred.refiner.4	islamic revolution muslim takaful change society	0.5
+669	pred.refiner.5	islamic revolution muslim takaful change society	0.5
+669	pred.refiner.6	islamic revolution muslim takaful change society	0.5
+669	pred.refiner.7	islamic revolution muslim takaful change society	0.5
+669	pred.refiner.8	islamic revolution muslim takaful change society	0.5
+669	pred.refiner.9	islamic revolution muslim takaful change society	0.5
+670	-1	u.s. elections apathy	0.3333
+670	pred.refiner.1	american apathy in the election	0.3333
+670	pred.refiner.10	american apathy in the election	0.3333
+670	pred.refiner.2	american apathy in the election	0.3333
+670	pred.refiner.3	american apathy in the election	0.3333
+670	pred.refiner.4	american apathy in the election	0.3333
+670	pred.refiner.5	american apathy in the election	0.3333
+670	pred.refiner.6	american apathy in the election	0.3333
+670	pred.refiner.7	american apathy in the election	0.3333
+670	pred.refiner.8	american apathy in the election	0.3333
+670	pred.refiner.9	american apathy in the election	0.3333
+671	-1	salvation army benefits	1.0
+671	pred.refiner.1	salvation army benefits jane bill bodi project armi modul trade said	1.0
+671	pred.refiner.10	salvation army benefits jane bill bodi project armi modul trade said	1.0
+671	pred.refiner.2	salvation army benefits jane bill bodi project armi modul trade said	1.0
+671	pred.refiner.3	salvation army benefits jane bill bodi project armi modul trade said	1.0
+671	pred.refiner.4	salvation army benefits jane bill bodi project armi modul trade said	1.0
+671	pred.refiner.5	salvation army benefits jane bill bodi project armi modul trade said	1.0
+671	pred.refiner.6	salvation army benefits jane bill bodi project armi modul trade said	1.0
+671	pred.refiner.7	salvation army benefits jane bill bodi project armi modul trade said	1.0
+671	pred.refiner.8	salvation army benefits jane bill bodi project armi modul trade said	1.0
+671	pred.refiner.9	salvation army benefits jane bill bodi project armi modul trade said	1.0
+673	-1	soviet withdrawal afghanistan	0.5
+673	pred.refiner.1	soviet withdrawal afghanistan retreat disinvestment	1.0
+673	pred.refiner.10	soviet withdrawal afghanistan retreat disinvestment	1.0
+673	pred.refiner.2	soviet withdrawal afghanistan retreat disinvestment	1.0
+673	pred.refiner.3	soviet withdrawal afghanistan retreat disinvestment	1.0
+673	pred.refiner.4	soviet withdrawal afghanistan retreat disinvestment	1.0
+673	pred.refiner.5	soviet withdrawal afghanistan retreat disinvestment	1.0
+673	pred.refiner.6	soviet withdrawal afghanistan retreat disinvestment	1.0
+673	pred.refiner.7	soviet withdrawal afghanistan retreat disinvestment	1.0
+673	pred.refiner.8	soviet withdrawal afghanistan retreat disinvestment	1.0
+673	pred.refiner.9	soviet withdrawal afghanistan retreat disinvestment	1.0
+674	-1	greenpeace prosecuted	0.1111
+674	pred.refiner.1	greenpeace is charged	1.0
+674	pred.refiner.10	greenpeace is charged	1.0
+674	pred.refiner.2	greenpeace is charged	1.0
+674	pred.refiner.3	greenpeace is charged	1.0
+674	pred.refiner.4	greenpeace is charged	1.0
+674	pred.refiner.5	greenpeace is charged	1.0
+674	pred.refiner.6	greenpeace is charged	1.0
+674	pred.refiner.7	greenpeace is charged	1.0
+674	pred.refiner.8	greenpeace is charged	1.0
+674	pred.refiner.9	greenpeace is charged	1.0
+675	-1	olympics training swimming	1.0
+675	pred.refiner.1	olympic train swimm	1.0
+675	pred.refiner.10	olympic train swimm	1.0
+675	pred.refiner.2	olympic train swimm	1.0
+675	pred.refiner.3	olympic train swimm	1.0
+675	pred.refiner.4	olympic train swimm	1.0
+675	pred.refiner.5	olympic train swimm	1.0
+675	pred.refiner.6	olympic train swimm	1.0
+675	pred.refiner.7	olympic train swimm	1.0
+675	pred.refiner.8	olympic train swimm	1.0
+675	pred.refiner.9	olympic train swimm	1.0
+676	-1	poppy cultivation	1.0
+677	-1	leaning tower of pisa	1.0
+677	pred.refiner.1	leaning tower of pisa ha year further art cours have	1.0
+677	pred.refiner.10	leaning tower of pisa ha year further art cours have	1.0
+677	pred.refiner.2	leaning tower of pisa ha year further art cours have	1.0
+677	pred.refiner.3	leaning tower of pisa ha year further art cours have	1.0
+677	pred.refiner.4	leaning tower of pisa ha year further art cours have	1.0
+677	pred.refiner.5	leaning tower of pisa ha year further art cours have	1.0
+677	pred.refiner.6	leaning tower of pisa ha year further art cours have	1.0
+677	pred.refiner.7	leaning tower of pisa ha year further art cours have	1.0
+677	pred.refiner.8	leaning tower of pisa ha year further art cours have	1.0
+677	pred.refiner.9	leaning tower of pisa ha year further art cours have	1.0
+678	-1	joint custody impact	1.0
+678	pred.refiner.1	california child support guidelinreview noncustodial parent solcustody joint custody	1.0
+678	pred.refiner.10	california child support guidelinreview noncustodial parent solcustody joint custody	1.0
+678	pred.refiner.2	california child support guidelinreview noncustodial parent solcustody joint custody	1.0
+678	pred.refiner.3	california child support guidelinreview noncustodial parent solcustody joint custody	1.0
+678	pred.refiner.4	california child support guidelinreview noncustodial parent solcustody joint custody	1.0
+678	pred.refiner.5	california child support guidelinreview noncustodial parent solcustody joint custody	1.0
+678	pred.refiner.6	california child support guidelinreview noncustodial parent solcustody joint custody	1.0
+678	pred.refiner.7	california child support guidelinreview noncustodial parent solcustody joint custody	1.0
+678	pred.refiner.8	california child support guidelinreview noncustodial parent solcustody joint custody	1.0
+678	pred.refiner.9	california child support guidelinreview noncustodial parent solcustody joint custody	1.0
+679	-1	opening adoption records	0.5
+679	pred.refiner.1	opening adoption records	0.5
+679	pred.refiner.10	opening adoption records	0.5
+679	pred.refiner.2	opening adoption records	0.5
+679	pred.refiner.3	opening adoption records	0.5
+679	pred.refiner.4	opening adoption records	0.5
+679	pred.refiner.5	opening adoption records	0.5
+679	pred.refiner.6	opening adoption records	0.5
+679	pred.refiner.7	opening adoption records	0.5
+679	pred.refiner.8	opening adoption records	0.5
+679	pred.refiner.9	opening adoption records	0.5
+680	-1	immigrants spanish school	0.25
+680	pred.refiner.1	critic sai dearth bilingu teacher	1.0
+680	pred.refiner.10	critic sai dearth bilingu teacher	1.0
+680	pred.refiner.2	critic sai dearth bilingu teacher	1.0
+680	pred.refiner.3	critic sai dearth bilingu teacher	1.0
+680	pred.refiner.4	critic sai dearth bilingu teacher	1.0
+680	pred.refiner.5	critic sai dearth bilingu teacher	1.0
+680	pred.refiner.6	critic sai dearth bilingu teacher	1.0
+680	pred.refiner.7	critic sai dearth bilingu teacher	1.0
+680	pred.refiner.8	critic sai dearth bilingu teacher	1.0
+680	pred.refiner.9	critic sai dearth bilingu teacher	1.0
+681	-1	wind power location	1.0
+681	pred.refiner.1	wind power location wind turbine wind farm renewablenergy wind power binomial distribution quantilfunction scalparameter location parameter	1.0
+681	pred.refiner.10	wind power location wind turbine wind farm renewablenergy wind power binomial distribution quantilfunction scalparameter location parameter	1.0
+681	pred.refiner.2	wind power location wind turbine wind farm renewablenergy wind power binomial distribution quantilfunction scalparameter location parameter	1.0
+681	pred.refiner.3	wind power location wind turbine wind farm renewablenergy wind power binomial distribution quantilfunction scalparameter location parameter	1.0
+681	pred.refiner.4	wind power location wind turbine wind farm renewablenergy wind power binomial distribution quantilfunction scalparameter location parameter	1.0
+681	pred.refiner.5	wind power location wind turbine wind farm renewablenergy wind power binomial distribution quantilfunction scalparameter location parameter	1.0
+681	pred.refiner.6	wind power location wind turbine wind farm renewablenergy wind power binomial distribution quantilfunction scalparameter location parameter	1.0
+681	pred.refiner.7	wind power location wind turbine wind farm renewablenergy wind power binomial distribution quantilfunction scalparameter location parameter	1.0
+681	pred.refiner.8	wind power location wind turbine wind farm renewablenergy wind power binomial distribution quantilfunction scalparameter location parameter	1.0
+681	pred.refiner.9	wind power location wind turbine wind farm renewablenergy wind power binomial distribution quantilfunction scalparameter location parameter	1.0
+682	-1	adult immigrants english	1.0
+682	pred.refiner.1	adult immigrants english	1.0
+682	pred.refiner.10	adult immigrants english	1.0
+682	pred.refiner.2	adult immigrants english	1.0
+682	pred.refiner.3	adult immigrants english	1.0
+682	pred.refiner.4	adult immigrants english	1.0
+682	pred.refiner.5	adult immigrants english	1.0
+682	pred.refiner.6	adult immigrants english	1.0
+682	pred.refiner.7	adult immigrants english	1.0
+682	pred.refiner.8	adult immigrants english	1.0
+682	pred.refiner.9	adult immigrants english	1.0
+683	-1	czechoslovakia breakup	1.0
+683	pred.refiner.1	czech break	1.0
+683	pred.refiner.10	czech break	1.0
+683	pred.refiner.2	czech break	1.0
+683	pred.refiner.3	czech break	1.0
+683	pred.refiner.4	czech break	1.0
+683	pred.refiner.5	czech break	1.0
+683	pred.refiner.6	czech break	1.0
+683	pred.refiner.7	czech break	1.0
+683	pred.refiner.8	czech break	1.0
+683	pred.refiner.9	czech break	1.0
+684	-1	part-time benefits	1.0
+684	pred.refiner.1	part-time benefits	1.0
+684	pred.refiner.10	part-time benefits	1.0
+684	pred.refiner.2	part-time benefits	1.0
+684	pred.refiner.3	part-time benefits	1.0
+684	pred.refiner.4	part-time benefits	1.0
+684	pred.refiner.5	part-time benefits	1.0
+684	pred.refiner.6	part-time benefits	1.0
+684	pred.refiner.7	part-time benefits	1.0
+684	pred.refiner.8	part-time benefits	1.0
+684	pred.refiner.9	part-time benefits	1.0
+685	-1	oscar winner selection	1.0
+686	-1	argentina pegging dollar	1.0
+686	pred.refiner.1	argentina pegging dollar argentina fixed exchange rate system united states dollar	1.0
+686	pred.refiner.10	argentina pegging dollar argentina fixed exchange rate system united states dollar	1.0
+686	pred.refiner.2	argentina pegging dollar argentina fixed exchange rate system united states dollar	1.0
+686	pred.refiner.3	argentina pegging dollar argentina fixed exchange rate system united states dollar	1.0
+686	pred.refiner.4	argentina pegging dollar argentina fixed exchange rate system united states dollar	1.0
+686	pred.refiner.5	argentina pegging dollar argentina fixed exchange rate system united states dollar	1.0
+686	pred.refiner.6	argentina pegging dollar argentina fixed exchange rate system united states dollar	1.0
+686	pred.refiner.7	argentina pegging dollar argentina fixed exchange rate system united states dollar	1.0
+686	pred.refiner.8	argentina pegging dollar argentina fixed exchange rate system united states dollar	1.0
+686	pred.refiner.9	argentina pegging dollar argentina fixed exchange rate system united states dollar	1.0
+687	-1	northern ireland industry	1.0
+687	pred.refiner.1	northern ireland industry	1.0
+687	pred.refiner.10	northern ireland industry	1.0
+687	pred.refiner.2	northern ireland industry	1.0
+687	pred.refiner.3	northern ireland industry	1.0
+687	pred.refiner.4	northern ireland industry	1.0
+687	pred.refiner.5	northern ireland industry	1.0
+687	pred.refiner.6	northern ireland industry	1.0
+687	pred.refiner.7	northern ireland industry	1.0
+687	pred.refiner.8	northern ireland industry	1.0
+687	pred.refiner.9	northern ireland industry	1.0
+688	-1	non-u.s. media bias	0.3333
+688	pred.refiner.1	media bias is not the us	1.0
+688	pred.refiner.10	media bias is not the us	1.0
+688	pred.refiner.2	media bias is not the us	1.0
+688	pred.refiner.3	media bias is not the us	1.0
+688	pred.refiner.4	media bias is not the us	1.0
+688	pred.refiner.5	media bias is not the us	1.0
+688	pred.refiner.6	media bias is not the us	1.0
+688	pred.refiner.7	media bias is not the us	1.0
+688	pred.refiner.8	media bias is not the us	1.0
+688	pred.refiner.9	media bias is not the us	1.0
+689	-1	family-planning aid	0.2
+689	pred.refiner.1	family planning aid united nations population fund reproductivhealth family planning family planning development assistanccommittee cash transfers aid agency aid	0.5
+689	pred.refiner.10	family planning aid united nations population fund reproductivhealth family planning family planning development assistanccommittee cash transfers aid agency aid	0.5
+689	pred.refiner.2	family planning aid united nations population fund reproductivhealth family planning family planning development assistanccommittee cash transfers aid agency aid	0.5
+689	pred.refiner.3	family planning aid united nations population fund reproductivhealth family planning family planning development assistanccommittee cash transfers aid agency aid	0.5
+689	pred.refiner.4	family planning aid united nations population fund reproductivhealth family planning family planning development assistanccommittee cash transfers aid agency aid	0.5
+689	pred.refiner.5	family planning aid united nations population fund reproductivhealth family planning family planning development assistanccommittee cash transfers aid agency aid	0.5
+689	pred.refiner.6	family planning aid united nations population fund reproductivhealth family planning family planning development assistanccommittee cash transfers aid agency aid	0.5
+689	pred.refiner.7	family planning aid united nations population fund reproductivhealth family planning family planning development assistanccommittee cash transfers aid agency aid	0.5
+689	pred.refiner.8	family planning aid united nations population fund reproductivhealth family planning family planning development assistanccommittee cash transfers aid agency aid	0.5
+689	pred.refiner.9	family planning aid united nations population fund reproductivhealth family planning family planning development assistanccommittee cash transfers aid agency aid	0.5
+690	-1	college education advantage	0.0
+690	pred.refiner.1	college education advantage degree school seeing art further your career superiority reward	1.0
+690	pred.refiner.10	college education advantage degree school seeing art further your career superiority reward	1.0
+690	pred.refiner.2	college education advantage degree school seeing art further your career superiority reward	1.0
+690	pred.refiner.3	college education advantage degree school seeing art further your career superiority reward	1.0
+690	pred.refiner.4	college education advantage degree school seeing art further your career superiority reward	1.0
+690	pred.refiner.5	college education advantage degree school seeing art further your career superiority reward	1.0
+690	pred.refiner.6	college education advantage degree school seeing art further your career superiority reward	1.0
+690	pred.refiner.7	college education advantage degree school seeing art further your career superiority reward	1.0
+690	pred.refiner.8	college education advantage degree school seeing art further your career superiority reward	1.0
+690	pred.refiner.9	college education advantage degree school seeing art further your career superiority reward	1.0
+691	-1	clear-cutting forests	1.0
+691	pred.refiner.1	clear-cutting forests	1.0
+691	pred.refiner.10	clear-cutting forests	1.0
+691	pred.refiner.2	clear-cutting forests	1.0
+691	pred.refiner.3	clear-cutting forests	1.0
+691	pred.refiner.4	clear-cutting forests	1.0
+691	pred.refiner.5	clear-cutting forests	1.0
+691	pred.refiner.6	clear-cutting forests	1.0
+691	pred.refiner.7	clear-cutting forests	1.0
+691	pred.refiner.8	clear-cutting forests	1.0
+691	pred.refiner.9	clear-cutting forests	1.0
+692	-1	prostate cancer detection treatment	0.5
+692	pred.refiner.1	prostate cancer detection treatment block beam prostat zoladex he aid	1.0
+692	pred.refiner.10	prostate cancer detection treatment block beam prostat zoladex he aid	1.0
+692	pred.refiner.2	prostate cancer detection treatment block beam prostat zoladex he aid	1.0
+692	pred.refiner.3	prostate cancer detection treatment block beam prostat zoladex he aid	1.0
+692	pred.refiner.4	prostate cancer detection treatment block beam prostat zoladex he aid	1.0
+692	pred.refiner.5	prostate cancer detection treatment block beam prostat zoladex he aid	1.0
+692	pred.refiner.6	prostate cancer detection treatment block beam prostat zoladex he aid	1.0
+692	pred.refiner.7	prostate cancer detection treatment block beam prostat zoladex he aid	1.0
+692	pred.refiner.8	prostate cancer detection treatment block beam prostat zoladex he aid	1.0
+692	pred.refiner.9	prostate cancer detection treatment block beam prostat zoladex he aid	1.0
+693	-1	newspapers electronic media	1.0
+693	pred.refiner.1	newspapers newspaper electronic media metier	1.0
+693	pred.refiner.10	newspapers newspaper electronic media metier	1.0
+693	pred.refiner.2	newspapers newspaper electronic media metier	1.0
+693	pred.refiner.3	newspapers newspaper electronic media metier	1.0
+693	pred.refiner.4	newspapers newspaper electronic media metier	1.0
+693	pred.refiner.5	newspapers newspaper electronic media metier	1.0
+693	pred.refiner.6	newspapers newspaper electronic media metier	1.0
+693	pred.refiner.7	newspapers newspaper electronic media metier	1.0
+693	pred.refiner.8	newspapers newspaper electronic media metier	1.0
+693	pred.refiner.9	newspapers newspaper electronic media metier	1.0
+694	-1	compost pile	1.0
+694	pred.refiner.1	compost	1.0
+694	pred.refiner.10	compost	1.0
+694	pred.refiner.2	compost	1.0
+694	pred.refiner.3	compost	1.0
+694	pred.refiner.4	compost	1.0
+694	pred.refiner.5	compost	1.0
+694	pred.refiner.6	compost	1.0
+694	pred.refiner.7	compost	1.0
+694	pred.refiner.8	compost	1.0
+694	pred.refiner.9	compost	1.0
+695	-1	white collar crime sentence	1.0
+695	pred.refiner.1	white collar crime sentence bloom spurrier hi contra sentenc plea mr guidelin minkow	1.0
+695	pred.refiner.10	white collar crime sentence bloom spurrier hi contra sentenc plea mr guidelin minkow	1.0
+695	pred.refiner.2	white collar crime sentence bloom spurrier hi contra sentenc plea mr guidelin minkow	1.0
+695	pred.refiner.3	white collar crime sentence bloom spurrier hi contra sentenc plea mr guidelin minkow	1.0
+695	pred.refiner.4	white collar crime sentence bloom spurrier hi contra sentenc plea mr guidelin minkow	1.0
+695	pred.refiner.5	white collar crime sentence bloom spurrier hi contra sentenc plea mr guidelin minkow	1.0
+695	pred.refiner.6	white collar crime sentence bloom spurrier hi contra sentenc plea mr guidelin minkow	1.0
+695	pred.refiner.7	white collar crime sentence bloom spurrier hi contra sentenc plea mr guidelin minkow	1.0
+695	pred.refiner.8	white collar crime sentence bloom spurrier hi contra sentenc plea mr guidelin minkow	1.0
+695	pred.refiner.9	white collar crime sentence bloom spurrier hi contra sentenc plea mr guidelin minkow	1.0
+696	-1	safety plastic surgery	1.0
+696	pred.refiner.1	safety plastic surgery surgeri doerr implant corn offic said you	1.0
+696	pred.refiner.10	safety plastic surgery surgeri doerr implant corn offic said you	1.0
+696	pred.refiner.2	safety plastic surgery surgeri doerr implant corn offic said you	1.0
+696	pred.refiner.3	safety plastic surgery surgeri doerr implant corn offic said you	1.0
+696	pred.refiner.4	safety plastic surgery surgeri doerr implant corn offic said you	1.0
+696	pred.refiner.5	safety plastic surgery surgeri doerr implant corn offic said you	1.0
+696	pred.refiner.6	safety plastic surgery surgeri doerr implant corn offic said you	1.0
+696	pred.refiner.7	safety plastic surgery surgeri doerr implant corn offic said you	1.0
+696	pred.refiner.8	safety plastic surgery surgeri doerr implant corn offic said you	1.0
+696	pred.refiner.9	safety plastic surgery surgeri doerr implant corn offic said you	1.0
+697	-1	air traffic controller	0.2
+697	pred.refiner.1	air traffic controller	0.2
+697	pred.refiner.10	air traffic controller	0.2
+697	pred.refiner.2	air traffic controller	0.2
+697	pred.refiner.3	air traffic controller	0.2
+697	pred.refiner.4	air traffic controller	0.2
+697	pred.refiner.5	air traffic controller	0.2
+697	pred.refiner.6	air traffic controller	0.2
+697	pred.refiner.7	air traffic controller	0.2
+697	pred.refiner.8	air traffic controller	0.2
+697	pred.refiner.9	air traffic controller	0.2
+698	-1	literacy rates africa	1.0
+698	pred.refiner.1	literacy in africa	1.0
+698	pred.refiner.10	literacy in africa	1.0
+698	pred.refiner.2	literacy in africa	1.0
+698	pred.refiner.3	literacy in africa	1.0
+698	pred.refiner.4	literacy in africa	1.0
+698	pred.refiner.5	literacy in africa	1.0
+698	pred.refiner.6	literacy in africa	1.0
+698	pred.refiner.7	literacy in africa	1.0
+698	pred.refiner.8	literacy in africa	1.0
+698	pred.refiner.9	literacy in africa	1.0
+699	-1	term limits	0.25
+699	pred.refiner.1	term limits	0.25
+699	pred.refiner.10	term limits	0.25
+699	pred.refiner.2	term limits	0.25
+699	pred.refiner.3	term limits	0.25
+699	pred.refiner.4	term limits	0.25
+699	pred.refiner.5	term limits	0.25
+699	pred.refiner.6	term limits	0.25
+699	pred.refiner.7	term limits	0.25
+699	pred.refiner.8	term limits	0.25
+699	pred.refiner.9	term limits	0.25
+700	-1	gasoline tax u.s.	1.0

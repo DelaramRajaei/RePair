@@ -1,0 +1,250 @@
+qid	order	query	bm25.recip_rank
+701	-1	U.S. oil industry history	0.125
+701	bt_nllb_arabic	The history of the American oil industry	1.0
+701	bt_nllb_french	The history of the American oil industry	1.0
+701	bt_nllb_german	The history of the US oil industry	1.0
+702	-1	Pearl farming	1.0
+704	-1	Green party political views	1.0
+705	-1	Iraq foreign debt reduction	1.0
+706	-1	Controlling type II diabetes	0.1667
+706	bt_nllb_malay	Managing type diabetes	1.0
+706	bt_nllb_arabic	Control of type diabetes	0.5
+706	bt_nllb_chinese_yue	Control of type diabetes	0.5
+706	bt_nllb_korean	Control of type diabetes	0.5
+706	bt_nllb_persian	Control of type diabetes	0.5
+707	-1	Aspirin cancer prevention	1.0
+708	-1	Decorative slate sources	1.0
+709	-1	Horse racing jockey weight	1.0
+710	-1	Prostate cancer treatments	1.0
+711	-1	Train station security measures	0.25
+711	bt_nllb_chinese_yue	Security measures at the railway station	1.0
+711	bt_nllb_malay	Railway station security measures	1.0
+711	bt_nllb_tamil	Railway station security measures	1.0
+711	bt_nllb_french	Safety measures at railway stations	0.5
+711	bt_nllb_german	Safety measures for railway stations	0.5
+711	bt_nllb_russian	Safety measures at railway stations	0.5
+712	-1	Pyramid scheme	1.0
+713	-1	Chesapeake Bay Maryland clean	1.0
+714	-1	License restrictions older drivers	1.0
+715	-1	Schizophrenia drugs	0.5
+716	-1	Spammer arrest sue	0.3333
+716	bt_nllb_chinese_yue	Arrest and prosecution of spam	1.0
+716	bt_nllb_german	Spammer arrest lawsuit	1.0
+716	bt_nllb_korean	Spammers arresting lawsuit	1.0
+716	bt_nllb_swahili	Spammer arrested trial	1.0
+716	bt_nllb_tamil	The case of the arrest of the spammers	1.0
+717	-1	Gifted talented student programs	1.0
+718	-1	Controlling acid rain	1.0
+719	-1	Cruise ship damage sea life	0.1429
+719	bt_nllb_swahili	Ships of the sea destroying marine life	1.0
+719	bt_nllb_chinese_yue	Cruising ships are damaging marine life	0.25
+719	bt_nllb_french	Cruise ships are damaging marine life	0.25
+719	bt_nllb_korean	The damage to marine life on cruise ships	0.25
+719	bt_nllb_malay	Damage to the marine life cruise ship	0.25
+719	bt_nllb_persian	Cruise ships are damaging marine life	0.25
+719	bt_nllb_russian	Damage to marine life on cruise ships	0.25
+719	bt_nllb_german	Damage to marine structures of cruise ships	0.1667
+720	-1	Federal welfare reform	0.2
+721	-1	Census data applications	0.1111
+721	bt_nllb_russian	Applications for the population census data	1.0
+721	bt_nllb_korean	Apply for census data	0.3333
+722	-1	Iran terrorism	1.0
+723	-1	Executive privilege	1.0
+724	-1	Iran Contra	0.1667
+725	-1	Low white blood cell count	0.3333
+725	bt_nllb_chinese_yue	Low blood cell count	1.0
+725	bt_nllb_french	Low white blood cell content	0.5
+725	bt_nllb_swahili	The number of white blood cells is low	0.5
+726	-1	Hubble telescope repairs	1.0
+727	-1	Church arson	1.0
+728	-1	whales save endangered	1.0
+729	-1	Whistle blower department of defense	0.0
+729	bt_nllb_korean	The Department of Defense is blowing a whistle	0.1667
+730	-1	Gastric bypass complications	1.0
+731	-1	Kurds history	0.0833
+731	bt_nllb_chinese_yue	Kurdish history	1.0
+731	bt_nllb_german	Kurdish history	1.0
+731	bt_nllb_malay	Kurdish history	1.0
+731	bt_nllb_persian	The history of Kurdistan	0.125
+732	-1	U.S. cheese production	1.0
+733	-1	Airline overbooking	1.0
+734	-1	Recycling successes	0.5
+735	-1	Afghan women condition	0.3333
+735	bt_nllb_arabic	The situation of Afghan women	0.5
+735	bt_nllb_chinese_yue	The situation of Afghan women	0.5
+735	bt_nllb_french	The situation of Afghan women	0.5
+735	bt_nllb_persian	The situation of Afghan women	0.5
+735	bt_nllb_swahili	The situation of Afghan women	0.5
+735	bt_nllb_tamil	The situation of Afghan women	0.5
+736	-1	location BSE infections	1.0
+737	-1	Enron California energy crisis	1.0
+738	-1	Anthrax hoaxes	1.0
+739	-1	Habitat for Humanity	0.3333
+739	bt_nllb_chinese_yue	The human home	1.0
+740	-1	regulate assisted living Maryland	1.0
+741	-1	Artificial Intelligence	0.04
+742	-1	hedge funds fraud protection	1.0
+743	-1	Freighter ship registration	0.0357
+743	bt_nllb_persian	Register of ships	1.0
+743	bt_nllb_chinese_yue	The cargo ship is registered	0.5
+743	bt_nllb_tamil	Freight shipping registration	0.1429
+743	bt_nllb_french	Register of freight vessels	0.1111
+744	-1	Counterfeit ID punishments	0.0115
+744	bt_nllb_german	Penalties for counterfeit identification	0.2
+744	bt_nllb_russian	Penalties for counterfeiting identity card	0.1667
+744	bt_nllb_chinese_yue	The punishment for fake ID	0.0833
+744	bt_nllb_korean	The punishment for fake ID	0.0833
+744	bt_nllb_arabic	The penalties for a fake identity	0.0556
+744	bt_nllb_tamil	The punishment for counterfeiting identifiers	0.0333
+744	bt_nllb_french	Sanctions against counterfeiting	0.0132
+745	-1	Doomsday cults	0.1429
+745	bt_nllb_arabic	The Day of Judgment cult	1.0
+745	bt_nllb_chinese_yue	The cult of the last days	1.0
+745	bt_nllb_french	The cults of the Last Judgment Day	1.0
+745	bt_nllb_russian	The Day of Judgment cult	1.0
+746	-1	Outsource job India	1.0
+747	-1	Library computer oversight	1.0
+748	-1	Nuclear reactor types	0.5
+748	bt_nllb_tamil	Types of nuclear power plants	1.0
+749	-1	Puerto Rico state	1.0
+750	-1	John Edwards womens issues	0.3333
+750	bt_nllb_french	John Edwards women s problems	1.0
+751	-1	Scrabble Players	1.0
+752	-1	Dam removal	1.0
+753	-1	bullying prevention programs	0.5
+754	-1	domestic adoption laws	1.0
+755	-1	Scottish Highland Games	1.0
+756	-1	Volcanic Activity	0.1429
+756	bt_nllb_swahili	The Activity of the Volcano	0.5
+757	-1	Murals	0.25
+758	-1	Embryonic stem cells	1.0
+759	-1	civil war battle reenactments	1.0
+760	-1	american muslim mosques schools	1.0
+761	-1	Problems of Hmong Immigrants	1.0
+762	-1	History of Physicians in America	0.1667
+763	-1	Hunting deaths	1.0
+764	-1	Increase mass transit use	1.0
+765	-1	ephedra ma huang deaths	1.0
+766	-1	diamond smuggling	1.0
+767	-1	Pharmacist License requirements	1.0
+768	-1	Women in state legislatures	1.0
+769	-1	Kroll Associates Employees	0.0333
+769	bt_nllb_tamil	The staff of Kroll Associates	0.0556
+770	-1	Kyrgyzstan-United States relations	1.0
+771	-1	deformed leopard frogs	1.0
+772	-1	flag display rules	1.0
+773	-1	Pennsylvania slot machine gambling	1.0
+774	-1	Causes of Homelessness	1.0
+775	-1	Commercial candy makers	0.5
+775	bt_nllb_arabic	The commercial confectioners	1.0
+775	bt_nllb_tamil	Commercial sweets makers	1.0
+776	-1	Magnet schools success	1.0
+777	-1	hybrid alternative fuel cars	0.25
+778	-1	golden ratio	1.0
+779	-1	Javelinas range and description	1.0
+780	-1	Arable land	1.0
+781	-1	Squirrel control and protections	1.0
+782	-1	Orange varieties seasons	1.0
+783	-1	school mercury poisoning	0.2
+784	-1	mersenne primes	1.0
+785	-1	Ivory-billed woodpecker	1.0
+786	-1	Yew trees	0.5
+787	-1	Sunflower Cultivation	1.0
+788	-1	Reverse mortgages	1.0
+789	-1	abandoned mine reclamation	1.0
+790	-1	women's rights in Saudi Arabia	1.0
+791	-1	Gullah geechee language culture	1.0
+792	-1	Social Security means test	1.0
+793	-1	Bagpipe Bands	1.0
+794	-1	pet therapy	1.0
+795	-1	notable cocker spaniels	0.037
+795	bt_nllb_korean	A remarkable Coker Spaniel	0.3333
+795	bt_nllb_arabic	Cockroaches are remarkable Spaniels	0.1667
+795	bt_nllb_persian	Notable spaniels	0.125
+795	bt_nllb_tamil	The notable Coker Spaniel	0.0556
+796	-1	Blue Grass Music Festival history	1.0
+797	-1	reintroduction of gray wolves	1.0
+798	-1	Massachusetts textile mills	0.5
+798	bt_nllb_french	Textile manufacturing in Massachusetts	1.0
+799	-1	Animals in Alzheimer's research	0.2
+799	bt_nllb_chinese_yue	Animals in the Alzheimer s study	0.5
+799	bt_nllb_korean	The animals in the Alzheimer s study	0.5
+799	bt_nllb_russian	Animals in the Alzheimer s disease studies	0.5
+799	bt_nllb_tamil	The animals involved in Alzheimer s disease research	0.5
+800	-1	Ovarian Cancer Treatment	0.1667
+801	-1	Kudzu Pueraria lobata	0.5
+801	bt_nllb_french	The wings of the pueraria lobata	1.0
+801	bt_nllb_russian	The Kudo Pueraria of the Lobot	1.0
+801	bt_nllb_swahili	The Pueraria lobata	1.0
+802	-1	Volcano eruptions global temperature	1.0
+803	-1	May Day	0.0
+804	-1	ban on human cloning	0.25
+804	bt_nllb_arabic	Prohibit human cloning	1.0
+804	bt_nllb_french	prohibition on cloning humans	1.0
+804	bt_nllb_german	Prohibition of cloning of humans	1.0
+804	bt_nllb_korean	Prohibition of human reproduction	1.0
+804	bt_nllb_malay	Prohibition of human cloning	1.0
+805	-1	Identity Theft Passport	0.25
+806	-1	Doctors Without Borders	1.0
+807	-1	Sugar tariff-rate quotas	1.0
+808	-1	North Korean Counterfeiting	1.0
+809	-1	wetlands wastewater treatment	1.0
+810	-1	timeshare resales	0.5
+811	-1	handwriting recognition	1.0
+812	-1	total knee replacement surgery	1.0
+813	-1	Atlantic Intracoastal Waterway	1.0
+814	-1	Johnstown flood	1.0
+815	-1	Coast Guard rescues	0.25
+815	bt_nllb_korean	Coast Guard rescued him	1.0
+816	-1	USAID assistance to Galapagos	1.0
+817	-1	sports stadium naming rights	1.0
+818	-1	Chaco Culture National Park	1.0
+819	-1	1890 Census	0.011
+820	-1	imported fire ants	0.3333
+820	bt_nllb_chinese_yue	Importing fire	0.5
+821	-1	Internet work-at-home scams	0.5
+821	bt_nllb_german	Internet work to home fraud	1.0
+821	bt_nllb_malay	Internet fraud works at home	1.0
+821	bt_nllb_persian	Internet scams at work	1.0
+822	-1	Custer's Last Stand	0.3333
+822	bt_nllb_malay	Custer s last defense	1.0
+822	bt_nllb_swahili	Custer s Final Victory	1.0
+822	bt_nllb_russian	Custer s last shot	0.5
+823	-1	Continuing care retirement communities	0.3333
+823	bt_nllb_malay	The community of retired people continues to care	1.0
+823	bt_nllb_korean	Continuous management retirement community	0.5
+824	-1	Civil Air Patrol	1.0
+825	-1	National Guard Involvement in Iraq	0.5
+826	-1	Florida Seminole Indians	0.25
+827	-1	Hidden Markov Modeling HMM	0.5
+827	bt_nllb_chinese_yue	The hidden Malkov simulates HMM	1.0
+827	bt_nllb_korean	HMM hidden maquette modeling	1.0
+828	-1	secret shoppers	1.0
+829	-1	Spanish Civil War support	1.0
+830	-1	model railroads	0.3333
+831	-1	Dulles Airport security	1.0
+832	-1	labor union activity	1.0
+833	-1	Iceland government	1.0
+834	-1	Global positioning system earthquakes	1.0
+835	-1	Big Dig pork	0.1429
+836	-1	illegal immigrant wages	1.0
+837	-1	Eskimo History	0.0312
+838	-1	urban suburban coyotes	1.0
+839	-1	textile dyeing techniques	1.0
+840	-1	Geysers	0.5
+840	bt_nllb_german	Other geysers	1.0
+841	-1	camel North America	1.0
+842	-1	David McCullough	0.0714
+842	bt_nllb_persian	I m going to see David McCullough	1.0
+842	bt_nllb_chinese_yue	David McCullough is the author of this book	0.1111
+843	-1	Pol Pot	1.0
+844	-1	segmental duplications	0.2
+845	-1	New Jersey tomato	1.0
+846	-1	heredity and obesity	0.5
+847	-1	Portugal World War II	0.5
+847	bt_nllb_chinese_yue	Portugal during the Second World War	1.0
+847	bt_nllb_korean	Portugal during the Second World War	1.0
+848	-1	radio station call letters	1.0
+849	-1	Scalable Vector Graphics	1.0
+850	-1	Mississippi River flood	0.1429
+850	bt_nllb_arabic	The Mississippi flood	0.25

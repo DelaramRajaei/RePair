@@ -1,0 +1,5 @@
+dataset,bm25.map,bm25.ndcg,bm25.recip_rank
+robust.base,0.167,0.323,0.605
+robust.bt,0.277,0.464,0.824
+robust.refiner,0.286,0.475,0.841
+robust.original,0.201,0.372,0.678

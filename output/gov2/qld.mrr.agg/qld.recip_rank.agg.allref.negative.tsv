@@ -1,0 +1,1024 @@
+qid	order	query	qld.recip_rank
+701	-1	U.S. oil industry history	0.2
+702	-1	Pearl farming	1.0
+702	bt_nllb_arabic	The pearl planting	0.3333
+702	bt_bing_persian	Pearl Agriculture	0.0185
+702	bt_nllb_persian	The Pearl of the Caribbean	0.0
+704	-1	Green party political views	0.5
+705	-1	Iraq foreign debt reduction	1.0
+705	bt_bing_korean	Reduction of Iraq s foreign debt	0.5
+705	bt_bing_malay	Reduction of Iraq s foreign debt	0.5
+705	bt_bing_swahili	Reducing Iraq s foreign debt	0.5
+705	bt_nllb_arabic	Cut the foreign debt in Iraq	0.5
+705	bt_nllb_chinese_yue	Iraq s foreign debt is falling	0.5
+705	bt_nllb_korean	Iraq s foreign debt reduction	0.5
+705	bt_nllb_persian	Reducing Iraq s foreign debt	0.5
+705	bt_nllb_swahili	Reducing Iraq s foreign debt	0.5
+705	bt_nllb_tamil	Iraq s foreign debt reduction	0.5
+706	-1	Controlling type II diabetes	0.2
+706	bt_bing_korean	Type Diabetes Control	0.0714
+706	bt_nllb_arabic	Control of type diabetes	0.0714
+706	bt_nllb_chinese_yue	Control of type diabetes	0.0714
+706	bt_nllb_korean	Control of type diabetes	0.0714
+706	bt_nllb_persian	Control of type diabetes	0.0714
+707	-1	Aspirin cancer prevention	1.0
+707	bt_nllb_swahili	How to fight cancer with aspirin	0.5
+707	bt_nllb_korean	Aspirin is a cancer prevention drug	0.3333
+707	bt_nllb_arabic	Prevention of cancer	0.2
+707	bt_nllb_persian	Spraying for cancer prevention	0.1
+708	-1	Decorative slate sources	1.0
+708	bt_nllb_chinese_yue	Sources of the decoration of the stone tablets	0.0286
+708	bt_nllb_french	Sources of decorative clay	0.0102
+708	bt_bing_korean	Slate sauce for garnish	0.0
+708	bt_bing_persian	Decorative Boulder Sources	0.0
+708	bt_bing_swahili	Sources of jewelry	0.0
+708	bt_nllb_arabic	Sources for the decorative pages	0.0
+708	bt_nllb_german	Other articles of heading	0.0
+708	bt_nllb_malay	Sources of decorative plates	0.0
+708	bt_nllb_persian	Sources of fertility	0.0
+708	bt_nllb_russian	The sources of decorative leaves	0.0
+708	bt_nllb_tamil	The decorative silk pieces	0.0
+709	-1	Horse racing jockey weight	1.0
+709	bt_nllb_chinese_yue	The weight of the race car	0.0312
+710	-1	Prostate cancer treatments	1.0
+711	-1	Train station security measures	0.5
+711	bt_nllb_french	Safety measures at railway stations	0.25
+711	bt_nllb_german	Safety measures for railway stations	0.25
+711	bt_nllb_russian	Safety measures at railway stations	0.25
+711	bt_bing_malay	Train station safety measures	0.0
+711	bt_bing_swahili	Train station safety measures	0.0
+711	bt_nllb_swahili	Safety measures at the train station	0.0
+712	-1	Pyramid scheme	1.0
+712	bt_bing_persian	Pyramid Plan	0.5
+712	bt_nllb_arabic	The pyramid system	0.25
+712	bt_nllb_swahili	The pyramidal system	0.25
+712	bt_nllb_tamil	The Pyramid Project	0.2
+712	bt_bing_arabic	Pyramid diagram	0.0
+712	bt_bing_chinese_simplified	MLM	0.0
+712	bt_nllb_german	The following is the list of the categories of products	0.0
+713	-1	Chesapeake Bay Maryland clean	0.3333
+713	bt_nllb_tamil	Chesapeake Bay is Maryland s cleanest	0.0833
+713	bt_nllb_persian	Chesapeake Bay Maryland is clear	0.0588
+713	bt_bing_swahili	Cherry Blossom Bay Clean	0.0
+714	-1	License restrictions older drivers	1.0
+714	bt_nllb_chinese_yue	The driver is a restricted driver	0.3333
+714	bt_bing_swahili	Former drivers license restrictions	0.25
+714	bt_bing_malay	Restrictions on old driver s licenses	0.1667
+714	bt_nllb_korean	Restrictions on old driver s licenses	0.1667
+714	bt_bing_german	Driving licence restrictions older drivers	0.1111
+714	bt_nllb_french	Restrictions on driving licences for older drivers	0.1111
+714	bt_nllb_german	Licence restrictions for older drivers	0.0833
+714	bt_bing_korean	License Restriction Elderly Drivers	0.0769
+715	-1	Schizophrenia drugs	1.0
+715	bt_bing_arabic	Schizophrenia medications	0.5
+715	bt_bing_chinese_simplified	Schizophrenia medications	0.5
+715	bt_bing_french	Medications for schizophrenia	0.5
+715	bt_bing_german	Medication for schizophrenia	0.5
+715	bt_bing_korean	Schizophrenia Medications	0.5
+715	bt_bing_russian	Medications for Schizophrenia	0.5
+715	bt_bing_swahili	Schizophrenia medication	0.5
+715	bt_bing_tamil	Schizophrenia Medications	0.5
+715	bt_nllb_german	Schizophrenia medicines	0.25
+715	bt_nllb_malay	Schizophrenia medicines	0.25
+715	bt_nllb_russian	Medicines for schizophrenia	0.25
+715	bt_nllb_tamil	The following table shows the results of the study	0.0714
+715	bt_nllb_korean	The cure for psychosis	0.0149
+715	bt_nllb_arabic	The cramping medication	0.0
+715	bt_nllb_swahili	Medications for mental illness	0.0
+716	-1	Spammer arrest sue	0.125
+716	bt_nllb_french	Spammer stopped the prosecution	0.0667
+716	bt_nllb_persian	Spammers got him	0.0625
+716	bt_nllb_malay	Spammer caught the claim	0.0455
+716	bt_nllb_arabic	The race arrest case	0.0
+716	bt_nllb_russian	Families of detainees	0.0
+717	-1	Gifted talented student programs	1.0
+717	bt_nllb_chinese_yue	A great student project	0.0
+718	-1	Controlling acid rain	1.0
+718	bt_nllb_korean	How to Control the Waves	0.0
+718	bt_nllb_tamil	The water is not so hot	0.0
+719	-1	Cruise ship damage sea life	1.0
+719	bt_nllb_arabic	Damage to freighter ships	0.1429
+719	bt_nllb_swahili	Ships of the sea destroying marine life	0.1429
+719	bt_nllb_tamil	The impact of marine life	0.0154
+720	-1	Federal welfare reform	0.3333
+720	bt_nllb_russian	Federal reform of social security	0.0
+721	-1	Census data applications	0.25
+721	bt_nllb_chinese_yue	The census data request	0.1667
+721	bt_nllb_persian	Request for census data	0.1667
+721	bt_nllb_swahili	Request for census data	0.1667
+721	bt_nllb_arabic	Requests for statistical data	0.0175
+721	bt_nllb_malay	Applications for survey data	0.0
+722	-1	Iran terrorism	1.0
+722	bt_bing_arabic	Iran s terrorism	0.5
+722	bt_bing_chinese_simplified	Iranian terrorism	0.5
+722	bt_bing_korean	Iranian Terrorism	0.5
+722	bt_bing_malay	Iranian terrorism	0.5
+722	bt_bing_swahili	Iranian terrorism	0.5
+722	bt_nllb_arabic	Iranian terrorism	0.5
+722	bt_nllb_chinese_yue	Iran s terrorism	0.5
+722	bt_nllb_french	Iran s terrorism	0.5
+722	bt_nllb_malay	Iran s terrorism	0.5
+722	bt_nllb_swahili	Iran s Terrorism	0.5
+722	bt_nllb_tamil	Iran s terrorism	0.5
+723	-1	Executive privilege	1.0
+723	bt_nllb_german	Leadership privileges	0.0125
+723	bt_bing_russian	Manager s Privilege	0.0
+723	bt_nllb_malay	Executive power	0.0
+723	bt_nllb_persian	Executive credit	0.0
+723	bt_nllb_swahili	Leadership Freedom	0.0
+723	bt_nllb_tamil	The administrative right	0.0
+724	-1	Iran Contra	1.0
+724	bt_nllb_chinese_yue	Iranian rebellion	0.0333
+724	bt_nllb_korean	The Iranian revolt	0.0204
+724	bt_bing_chinese_simplified	Iranian opposition	0.0
+724	bt_nllb_arabic	Iran counter	0.0
+724	bt_nllb_french	Iran against	0.0
+724	bt_nllb_persian	Iran is in control	0.0
+724	bt_nllb_russian	Iran is a country	0.0
+724	bt_nllb_tamil	Iran counter	0.0
+725	-1	Low white blood cell count	0.5
+725	bt_nllb_swahili	The number of white blood cells is low	0.25
+725	bt_nllb_arabic	Reduced white blood cell count	0.125
+725	bt_nllb_french	Low white blood cell content	0.125
+725	bt_nllb_tamil	The number of white blooded chickens is low	0.0137
+726	-1	Hubble telescope repairs	1.0
+727	-1	Church arson	1.0
+727	bt_bing_persian	The church fire	0.3333
+727	bt_nllb_french	The Church Fire	0.3333
+727	bt_nllb_german	Church fire	0.3333
+727	bt_nllb_persian	The church fire	0.3333
+727	bt_nllb_russian	Fire in the church	0.3333
+727	bt_nllb_tamil	The Church Fire	0.3333
+727	bt_nllb_swahili	Lighting a fire in a church	0.2
+728	-1	whales save endangered	1.0
+728	bt_bing_french	Whales save endangered species	0.5
+728	bt_nllb_french	wild whales are threatened	0.5
+728	bt_nllb_persian	Whales are a dangerous escape	0.5
+728	bt_nllb_swahili	whales save those in danger	0.5
+728	bt_nllb_arabic	The whales protect the endangered	0.3333
+729	-1	Whistle blower department of defense	0.0159
+729	bt_bing_french	Ministry of Defence Whistleblower	0.0
+729	bt_bing_german	Whistleblower Ministry of Defence	0.0
+729	bt_bing_tamil	Whistle Blower Department of Defence	0.0
+729	bt_nllb_arabic	Signal to defense	0.0
+729	bt_nllb_chinese_yue	Alert Defense Department	0.0
+729	bt_nllb_french	Department of Defence	0.0
+729	bt_nllb_german	The Department of Defence	0.0
+729	bt_nllb_malay	Notice of the call from the Department of Defense	0.0
+729	bt_nllb_persian	The Department of Defense	0.0
+729	bt_nllb_russian	Murder in Response	0.0
+729	bt_nllb_tamil	The Vishal Blowers to the Defense Department	0.0
+730	-1	Gastric bypass complications	0.5
+730	bt_nllb_persian	The effects of gastric embolism	0.1
+730	bt_nllb_chinese_yue	complications of the gastrointestinal tract	0.0164
+730	bt_nllb_german	Complications of the stomach circulation	0.0135
+730	bt_nllb_arabic	The complexities of metal planning	0.0
+730	bt_nllb_korean	I have complications of the stomach and urethra	0.0
+730	bt_nllb_tamil	The disease of the stomach	0.0
+731	-1	Kurds history	0.1111
+732	-1	U.S. cheese production	0.25
+732	bt_bing_arabic	Cheese production in the United States	0.2
+732	bt_bing_french	Cheese production in the United States	0.2
+732	bt_bing_russian	Cheese production in the United States	0.2
+732	bt_nllb_arabic	Cheese production in the United States	0.2
+732	bt_nllb_french	Cheese production in the United States	0.2
+732	bt_nllb_korean	The production of cheese in the United States	0.2
+732	bt_nllb_persian	The production of cheese in the United States	0.2
+732	bt_nllb_swahili	Cheese production in the United States	0.2
+732	bt_nllb_malay	U S manufacturing of cheese	0.0909
+732	bt_nllb_chinese_yue	Made in the US	0.0
+732	bt_nllb_tamil	The production of briane in the United States	0.0
+733	-1	Airline overbooking	1.0
+733	bt_nllb_korean	Airline overhead reservation	0.2
+733	bt_nllb_tamil	Maximum booking by airlines	0.04
+733	bt_bing_swahili	Flight planning	0.0
+733	bt_bing_tamil	Flight Over Booking	0.0
+733	bt_nllb_russian	Transfer of airlines	0.0
+733	bt_nllb_swahili	Passing the space of an airplane	0.0
+734	-1	Recycling successes	0.5
+734	bt_bing_chinese_simplified	Recycling success stories	0.2
+734	bt_bing_korean	Recycling Success Stories	0.2
+734	bt_bing_russian	Advances in Recycling	0.0417
+734	bt_nllb_german	Recycling sequence	0.0123
+734	bt_nllb_malay	Successful Cycles	0.0
+734	bt_nllb_russian	Success in Utilization	0.0
+734	bt_nllb_swahili	The Success of Order	0.0
+735	-1	Afghan women condition	1.0
+735	bt_nllb_korean	The state of women in Afghanistan	0.3333
+735	bt_nllb_russian	The state of Afghan women	0.3333
+735	bt_bing_french	Status of Afghan women	0.25
+735	bt_bing_swahili	Status of Afghan women	0.25
+735	bt_bing_tamil	Status of Afghan Women	0.25
+735	bt_bing_arabic	Situation of Afghan women	0.1667
+735	bt_bing_persian	The Situation of Afghan Women	0.1667
+735	bt_bing_russian	Situation of Afghan women	0.1667
+735	bt_nllb_arabic	The situation of Afghan women	0.1667
+735	bt_nllb_chinese_yue	The situation of Afghan women	0.1667
+735	bt_nllb_french	The situation of Afghan women	0.1667
+735	bt_nllb_persian	The situation of Afghan women	0.1667
+735	bt_nllb_swahili	The situation of Afghan women	0.1667
+735	bt_nllb_tamil	The situation of Afghan women	0.1667
+735	bt_nllb_german	Afghan women	0.125
+736	-1	location BSE infections	1.0
+736	bt_nllb_arabic	Location Beez infection	0.0
+736	bt_nllb_french	localisation of infections at the ESB	0.0
+737	-1	Enron California energy crisis	1.0
+737	bt_nllb_arabic	The energy crisis in California	0.5
+737	bt_nllb_chinese_yue	The energy crisis in California	0.5
+737	bt_nllb_russian	The energy crisis in California	0.5
+737	bt_nllb_persian	The California Inron Energy Crisis	0.1667
+738	-1	Anthrax hoaxes	1.0
+738	bt_bing_malay	Anthrax fraud	0.5
+738	bt_nllb_german	Counterfeit anthrax	0.0588
+738	bt_nllb_tamil	The Anthrax Lies	0.0588
+738	bt_bing_korean	Anthrax scam	0.0227
+738	bt_nllb_malay	Antrax is a fraud	0.0175
+738	bt_nllb_korean	The Antrax Trick	0.0172
+738	bt_nllb_french	The Lies Against Anthrax	0.0167
+738	bt_bing_arabic	Anthrax tricks	0.0
+738	bt_nllb_arabic	Tricks about the Andrax	0.0
+738	bt_nllb_chinese_yue	The charcoal fraud	0.0
+738	bt_nllb_persian	The tricks of the Anterx	0.0
+738	bt_nllb_russian	The Anthrax Deception	0.0
+738	bt_nllb_swahili	The Tricks of Anthrax	0.0
+739	-1	Habitat for Humanity	0.3333
+739	bt_nllb_chinese_yue	The human home	0.125
+739	bt_bing_tamil	The habitat of mankind	0.0
+739	bt_nllb_arabic	The home of mankind	0.0
+739	bt_nllb_french	A Home for Mankind	0.0
+739	bt_nllb_german	A Home for Mankind	0.0
+739	bt_nllb_korean	The Residence for Mankind	0.0
+739	bt_nllb_russian	A Dwelling Place for Mankind	0.0
+739	bt_nllb_swahili	The Place of Human Dwelling	0.0
+739	bt_nllb_tamil	The Bible says that the earth is the home of the living God	0.0
+740	-1	regulate assisted living Maryland	1.0
+740	bt_nllb_arabic	Living aid in Maryland	0.2
+740	bt_bing_persian	Maryland Life Assistance Adjustment	0.0145
+740	bt_nllb_chinese_yue	I m a life coach in Maryland	0.0
+740	bt_nllb_malay	Organizing life support in Maryland	0.0
+740	bt_nllb_persian	Set up a helping life in Maryland	0.0
+740	bt_nllb_tamil	The following is a list of some of the most common types of cancer in the United States	0.0
+741	-1	Artificial Intelligence	0.125
+741	bt_nllb_chinese_yue	AI is the answer	0.0118
+741	bt_nllb_korean	AI	0.0112
+741	bt_nllb_persian	The AI	0.0112
+741	bt_nllb_swahili	A Craftsman s Mind	0.0
+742	-1	hedge funds fraud protection	1.0
+742	bt_nllb_french	protection against fraud of investment funds	0.0909
+742	bt_nllb_arabic	Securities fraud protection	0.0
+742	bt_nllb_chinese_yue	The protection of pension funds	0.0
+743	-1	Freighter ship registration	0.2
+743	bt_nllb_malay	Registering of cargo vessels	0.1111
+743	bt_nllb_tamil	Freight shipping registration	0.0357
+743	bt_nllb_korean	Registering the freighter	0.0156
+743	bt_bing_malay	Registration of carriers	0.0
+743	bt_nllb_arabic	Record of shipping	0.0
+743	bt_nllb_german	Registration of freight vehicles	0.0
+743	bt_nllb_swahili	Register of freight ships	0.0
+744	-1	Counterfeit ID punishments	0.0
+745	-1	Doomsday cults	1.0
+745	bt_nllb_arabic	The Day of Judgment cult	0.5
+745	bt_nllb_russian	The Day of Judgment cult	0.5
+745	bt_nllb_chinese_yue	The cult of the last days	0.3333
+745	bt_nllb_french	The cults of the Last Judgment Day	0.3333
+745	bt_bing_arabic	Doomsday sects	0.1429
+745	bt_bing_persian	Sects of the Day of Judgment	0.0
+745	bt_bing_tamil	Doomsday Liturgy	0.0
+745	bt_nllb_german	The Meaning of the Hereafter	0.0
+745	bt_nllb_korean	The Day of Judgment	0.0
+745	bt_nllb_malay	Religions of the Last Days	0.0
+745	bt_nllb_persian	The worship of the Day of Resurrection	0.0
+745	bt_nllb_swahili	Religions of Judgment Day	0.0
+745	bt_nllb_tamil	The final day of worship	0.0
+746	-1	Outsource job India	1.0
+746	bt_bing_swahili	Overseas work in India	0.1667
+746	bt_nllb_russian	Work in India	0.0769
+746	bt_nllb_persian	Jobs outside India	0.0588
+746	bt_nllb_arabic	Foreign work of India	0.0476
+746	bt_nllb_swahili	Foreign work in India	0.0476
+746	bt_nllb_german	Exploitation of labour in India	0.0303
+746	bt_nllb_french	Employment outside India	0.0133
+746	bt_nllb_malay	Employment outside India	0.0133
+747	-1	Library computer oversight	0.5
+747	bt_bing_french	Computer monitoring of the library	0.3333
+747	bt_bing_persian	Computer Monitoring Library	0.3333
+747	bt_nllb_french	Monitoring of the library computer	0.3333
+747	bt_nllb_german	Computer monitoring of libraries	0.3333
+747	bt_nllb_malay	Computer monitoring of the library	0.3333
+747	bt_nllb_persian	Monitoring the library computer	0.3333
+747	bt_bing_malay	Library computer surveillance	0.1429
+747	bt_bing_tamil	Library Computer Overview	0.125
+747	bt_bing_swahili	Library computer management	0.0909
+747	bt_nllb_swahili	The management of library computers	0.0909
+747	bt_nllb_chinese_yue	Library computer control	0.0588
+747	bt_nllb_korean	Director of the library computer	0.0435
+747	bt_bing_arabic	Computer supervision in the library	0.0303
+747	bt_bing_chinese_simplified	Library computer supervision	0.0303
+747	bt_bing_german	Supervision of the library computer	0.0303
+747	bt_bing_korean	Library Computer Supervision	0.0303
+747	bt_bing_russian	Computer Supervision of the Library	0.0303
+747	bt_nllb_arabic	Supervise the library on the computer	0.0303
+748	-1	Nuclear reactor types	0.5
+748	bt_nllb_tamil	Types of nuclear power plants	0.1429
+748	bt_nllb_chinese_yue	The type of nuclear reaction	0.1
+748	bt_bing_korean	Reactor Type	0.0833
+749	-1	Puerto Rico state	0.2
+749	bt_bing_korean	Puerto Rico	0.1
+749	bt_nllb_korean	Puerto Rico	0.1
+750	-1	John Edwards womens issues	0.0588
+750	bt_bing_arabic	John Edwards Women s Issues	0.0476
+750	bt_bing_chinese_simplified	John Edwards Women s Issues	0.0476
+750	bt_bing_french	John Edwards Women s Issues	0.0476
+750	bt_bing_german	John Edwards Women s Issues	0.0476
+750	bt_bing_malay	John Edwards women s issues	0.0476
+750	bt_bing_persian	John Edwards Women s Issues	0.0476
+750	bt_bing_swahili	John Edwards Women s Issues	0.0476
+750	bt_nllb_arabic	The women s issues of John Edwards	0.0476
+750	bt_nllb_korean	John Edwards the women s issue	0.0476
+750	bt_nllb_malay	John Edwards women s issues	0.0476
+750	bt_nllb_persian	John Edwards on women s issues	0.0476
+750	bt_nllb_russian	John Edwards women s issues	0.0476
+750	bt_nllb_tamil	John Edwards women s issues	0.0476
+750	bt_bing_russian	John Edwards Women s Problems	0.037
+750	bt_nllb_french	John Edwards women s problems	0.037
+750	bt_nllb_swahili	John Edwards Matters of Women	0.02
+750	bt_bing_korean	John Eduard Women s Issues	0.0
+750	bt_bing_tamil	John Edwards cricketer Women s issues	0.0
+750	bt_nllb_chinese_yue	John Edwards is a woman s issue	0.0
+750	bt_nllb_german	The Commission has also adopted a number of proposals	0.0
+751	-1	Scrabble Players	1.0
+751	bt_nllb_chinese_yue	Players	0.0
+751	bt_nllb_german	Scrabblers	0.0
+751	bt_nllb_persian	The Scribell players	0.0
+752	-1	Dam removal	1.0
+752	bt_bing_french	Dismantling of dams	0.5
+752	bt_bing_russian	Dam dismantling	0.5
+752	bt_nllb_korean	Remove the drain	0.5
+752	bt_nllb_chinese_yue	It was demolished	0.0
+753	-1	bullying prevention programs	1.0
+753	bt_nllb_french	the prevention of bullying programmes	0.2
+753	bt_nllb_persian	The program is designed to prevent harassment	0.0455
+753	bt_nllb_swahili	measures to prevent oppression	0.0294
+753	bt_nllb_german	The Commission has also adopted a number of measures to combat the situation in the Member States	0.0
+754	-1	domestic adoption laws	0.25
+754	bt_nllb_chinese_yue	The National Adoption Act	0.1667
+754	bt_bing_russian	National Legislation on Adoption Parole	0.0192
+754	bt_bing_arabic	Local Adoption Laws	0.013
+754	bt_nllb_arabic	Local adoption laws	0.013
+754	bt_bing_persian	Internal Adoption Rules	0.0
+755	-1	Scottish Highland Games	1.0
+755	bt_nllb_russian	Scottish skiing games	0.3333
+756	-1	Volcanic Activity	0.5
+756	bt_nllb_swahili	The Activity of the Volcano	0.3333
+757	-1	Murals	0.3333
+757	bt_nllb_arabic	Wall paintings	0.05
+757	bt_nllb_chinese_yue	Wall paintings	0.05
+757	bt_nllb_french	Wall paintings	0.05
+757	bt_nllb_german	Wall paintings	0.05
+757	bt_nllb_malay	Wall painting	0.05
+757	bt_nllb_persian	Wall paintings	0.05
+757	bt_nllb_tamil	Wall paintings	0.05
+757	bt_bing_russian	Frescoes	0.0435
+757	bt_nllb_russian	The walls	0.0
+757	bt_nllb_swahili	Flowers	0.0
+758	-1	Embryonic stem cells	1.0
+758	bt_nllb_tamil	The molecules of the embryo	0.0196
+758	bt_nllb_german	The following information is provided for in the Annex to this Regulation	0.0
+759	-1	civil war battle reenactments	1.0
+759	bt_nllb_german	Repeats of civil war	0.2
+759	bt_nllb_chinese_yue	The Civil War is happening again	0.1429
+759	bt_nllb_russian	Reproduction of the Civil War	0.0303
+759	bt_nllb_persian	Civil War actors	0.0286
+759	bt_nllb_tamil	The Civil War Revived the Wars	0.025
+759	bt_nllb_arabic	The battles of the Civil War	0.0244
+759	bt_nllb_french	recreation of civil war battles	0.0238
+759	bt_bing_persian	Rebuilding the Civil War	0.0
+759	bt_bing_tamil	Civil War War Reforms	0.0
+759	bt_nllb_malay	Resistance to the Civil War	0.0
+759	bt_nllb_swahili	Exhibits of civil war	0.0
+760	-1	american muslim mosques schools	1.0
+760	bt_bing_arabic	American Islamic Mosque Schools	0.5
+760	bt_nllb_korean	The Islamic Social School of America	0.3333
+761	-1	Problems of Hmong Immigrants	1.0
+761	bt_bing_persian	The problems of Hmong migrants	0.5
+761	bt_nllb_persian	The problems of the Hmong migrants	0.5
+761	bt_nllb_chinese_yue	The issue of immigration	0.0227
+761	bt_nllb_arabic	The problems of the Mongol immigrants	0.0
+762	-1	History of Physicians in America	0.0833
+762	bt_bing_korean	History of American Physicians	0.0435
+762	bt_bing_arabic	History of doctors in America	0.0189
+762	bt_bing_french	History of Doctors in America	0.0189
+762	bt_bing_german	History of Doctors in America	0.0189
+762	bt_bing_persian	History of Doctors in America	0.0189
+762	bt_nllb_arabic	The history of doctors in America	0.0189
+762	bt_nllb_french	The history of doctors in America	0.0189
+762	bt_nllb_german	The History of Doctors in America	0.0189
+762	bt_nllb_malay	The History of the Doctor in America	0.0189
+762	bt_nllb_russian	The history of doctors in America	0.0189
+762	bt_bing_chinese_simplified	History of American Doctors	0.0114
+762	bt_bing_swahili	History of physicians in the United States	0.0
+762	bt_bing_tamil	History of Physicians in the United States	0.0
+762	bt_nllb_chinese_yue	The history of doctors in the United States	0.0
+762	bt_nllb_korean	The history of doctors in the United States	0.0
+762	bt_nllb_persian	The history of doctors in the United States	0.0
+762	bt_nllb_swahili	The History of Doctors in the United States	0.0
+762	bt_nllb_tamil	The history of doctors in the United States	0.0
+763	-1	Hunting deaths	0.5
+763	bt_nllb_malay	The death of the hunter	0.1667
+763	bt_nllb_swahili	The Death of Hunters	0.1667
+763	bt_nllb_chinese_yue	The hunt is dead	0.0833
+763	bt_nllb_german	The number of deaths in hunting	0.0667
+763	bt_nllb_tamil	The deaths of poachers	0.037
+763	bt_bing_tamil	Predatory Deaths	0.0
+764	-1	Increase mass transit use	1.0
+764	bt_nllb_russian	Increasing the use of mass transport	0.5
+764	bt_nllb_german	The Commission has also adopted a number of proposals for a new directive on the protection of workers rights	0.0
+765	-1	ephedra ma huang deaths	1.0
+765	bt_nllb_arabic	The death of Efedra Ma Huang	0.1111
+765	bt_bing_chinese_simplified	Ephedra yellow horse died	0.0909
+765	bt_nllb_malay	Efedra Ma Huang is dead	0.0909
+765	bt_nllb_persian	The death of our father Huang	0.0312
+765	bt_nllb_german	The Commission has also adopted a number of measures to combat the spread of the virus	0.0
+766	-1	diamond smuggling	1.0
+766	bt_nllb_swahili	The sale of diamonds	0.25
+767	-1	Pharmacist License requirements	1.0
+767	bt_nllb_arabic	The requirements for pharmacy licensure	0.5
+767	bt_nllb_malay	Licensing requirements for pharmaceuticals	0.5
+767	bt_nllb_tamil	Pharmacy license requirements	0.3333
+767	bt_nllb_persian	The conditions of the pharmaceutical license	0.1429
+767	bt_nllb_korean	Licensing requirements	0.027
+767	bt_nllb_french	Requirements for a pharmacist s licence	0.0238
+767	bt_nllb_german	Requirements for the licence of a pharmacist	0.011
+767	bt_nllb_swahili	License Requirements for Medicinal Products	0.0
+768	-1	Women in state legislatures	0.5
+768	bt_nllb_korean	A woman in the State House of Representatives	0.3333
+768	bt_nllb_malay	Women in state law	0.125
+768	bt_nllb_russian	Women in the legislative bodies of the States	0.0909
+768	bt_nllb_tamil	Women in state assemblies	0.0909
+768	bt_nllb_arabic	Women in the legislative provinces	0.0
+768	bt_nllb_swahili	Women in the state parliament	0.0
+769	-1	Kroll Associates Employees	0.1111
+769	bt_bing_korean	Kroll Associates Staff	0.0769
+769	bt_bing_persian	Kroll Staff Associates	0.0769
+769	bt_bing_tamil	Kroll Associates Staff	0.0769
+769	bt_nllb_tamil	The staff of Kroll Associates	0.0769
+769	bt_bing_chinese_simplified	Kroll Athosiate employees	0.0208
+769	bt_nllb_arabic	The staff associates	0.0
+769	bt_nllb_chinese_yue	I work for Crowl	0.0
+769	bt_nllb_korean	Crowl Co op staff	0.0
+769	bt_nllb_persian	Crowley s staff	0.0
+770	-1	Kyrgyzstan-United States relations	1.0
+770	bt_bing_arabic	Kyrgyz American Relations	0.1667
+770	bt_nllb_tamil	The Kyrgyz American relations	0.1667
+770	bt_bing_russian	Kyrgyz U S relations	0.1429
+771	-1	deformed leopard frogs	1.0
+771	bt_bing_arabic	Deformed tiger frogs	0.3333
+771	bt_nllb_swahili	Defective leopards	0.25
+771	bt_bing_malay	Disabled leopard frog	0.1
+771	bt_bing_swahili	Spoiled leopard frog	0.0833
+771	bt_nllb_persian	Leopard frogs are perverse	0.0833
+771	bt_nllb_malay	A defective lion frog	0.0625
+771	bt_nllb_korean	A modified tiger frog	0.0476
+771	bt_nllb_arabic	The turning tiger frogs	0.0303
+771	bt_nllb_chinese_yue	It s deformed	0.0
+771	bt_nllb_tamil	The red colored lion frog	0.0
+772	-1	flag display rules	1.0
+772	bt_bing_korean	Flagging rules	0.2
+772	bt_nllb_arabic	The rules of flagging	0.2
+772	bt_nllb_malay	the rules of appearance of the flag	0.2
+772	bt_nllb_swahili	rules for flags	0.2
+772	bt_nllb_korean	Flag sign rules	0.0625
+772	bt_bing_chinese_simplified	Tag display rules	0.0
+773	-1	Pennsylvania slot machine gambling	1.0
+773	bt_bing_french	Slot Games in Pennsylvania	0.5
+773	bt_nllb_chinese_yue	Gambling in Pennsylvania	0.5
+773	bt_bing_persian	Gambling Slot Machine Penguin	0.0833
+773	bt_nllb_arabic	The gambling projects in the Forex gaming projects	0.0
+774	-1	Causes of Homelessness	1.0
+774	bt_bing_persian	Reasons for homelessness	0.3333
+774	bt_nllb_persian	The reasons for homelessness	0.3333
+774	bt_nllb_swahili	Reasons for Homelessness	0.3333
+774	bt_nllb_french	The Causes of Poverty	0.1667
+774	bt_nllb_chinese_yue	Why they re homeless	0.125
+774	bt_nllb_malay	Causes of Housing Emptiness	0.0104
+774	bt_nllb_korean	Why I Have No Home	0.0
+775	-1	Commercial candy makers	1.0
+775	bt_nllb_arabic	The commercial confectioners	0.25
+775	bt_bing_french	Commercial Candy Manufacturers	0.0263
+775	bt_bing_korean	Commercial Candy Manufacturers	0.0263
+775	bt_bing_russian	Commercial Candy Manufacturers	0.0263
+775	bt_bing_swahili	Commercial candy manufacturers	0.0263
+775	bt_nllb_chinese_yue	Commercial candy manufacturers	0.0263
+775	bt_nllb_korean	Commercial candy manufacturers	0.0263
+775	bt_nllb_malay	Commercial candy manufacturers	0.0263
+775	bt_nllb_russian	Commercial candy manufacturers	0.0263
+775	bt_nllb_swahili	Commercial sugar producers	0.0172
+775	bt_bing_chinese_simplified	Commercial confectionery manufacturer	0.0
+775	bt_bing_german	Commercial Confectionery Manufacturers	0.0
+775	bt_nllb_french	Manufacturers of commercial sweets	0.0
+775	bt_nllb_german	Manufacturers of commercial sweets	0.0
+775	bt_nllb_persian	Commercial sweets manufacturers	0.0
+776	-1	Magnet schools success	0.25
+776	bt_nllb_korean	Success at Your School	0.0227
+777	-1	hybrid alternative fuel cars	0.25
+777	bt_bing_arabic	Hybrid Alternative Fuel Vehicles	0.2
+777	bt_bing_chinese_simplified	Hybrid alternative fuel vehicles	0.2
+777	bt_bing_korean	Hybrid Alternative Fuel Vehicles	0.2
+777	bt_bing_persian	Hybrid Vehicles with Alternative Fuel	0.2
+777	bt_bing_russian	Hybrid Vehicles on Alternative Fuels	0.2
+777	bt_bing_swahili	Alternative hybrid fuel vehicles	0.2
+777	bt_nllb_chinese_yue	Hybrid alternative fuel vehicles	0.2
+777	bt_nllb_french	hybrid alternative fuel vehicles	0.2
+777	bt_nllb_german	Hybrid alternative fuel vehicles	0.2
+777	bt_nllb_russian	hybrid vehicles with alternative fuel	0.2
+777	bt_nllb_tamil	Hybrid alternative fuel vehicles	0.2
+777	bt_nllb_swahili	hybrid fuel vehicles	0.1429
+778	-1	golden ratio	1.0
+778	bt_bing_malay	Gold Ratio	0.0189
+778	bt_nllb_chinese_yue	The gold ratio	0.0189
+778	bt_nllb_french	gold ratio	0.0189
+778	bt_nllb_german	Gold ratio	0.0189
+778	bt_nllb_korean	Gold ratio	0.0189
+778	bt_nllb_malay	gold ratio	0.0189
+778	bt_nllb_persian	The gold ratio	0.0189
+778	bt_nllb_swahili	gold ratio	0.0189
+778	bt_bing_german	Golden section	0.0
+778	bt_bing_russian	Golden section	0.0
+778	bt_nllb_tamil	Gold Rate	0.0
+779	-1	Javelinas range and description	1.0
+779	bt_nllb_german	Selection and description of Javelinas	0.5
+779	bt_nllb_swahili	Types and descriptions of javelinas	0.5
+779	bt_nllb_russian	Assortment and description of hawks	0.04
+779	bt_bing_arabic	Spear set and description	0.0
+779	bt_bing_chinese_simplified	Javelin series and description	0.0
+779	bt_bing_tamil	Javelin throw throw and description	0.0
+779	bt_nllb_arabic	The collection and description of the javelins	0.0
+779	bt_nllb_chinese_yue	The knife series and description	0.0
+779	bt_nllb_french	Region and description of the javelins	0.0
+779	bt_nllb_korean	The range and description of the javelin	0.0
+779	bt_nllb_persian	The range and description of Javins	0.0
+780	-1	Arable land	1.0
+780	bt_nllb_chinese_yue	The land	0.0769
+780	bt_nllb_korean	Farming land	0.0204
+780	bt_bing_malay	Agricultural land	0.0104
+780	bt_bing_persian	Agricultural land	0.0104
+780	bt_nllb_french	Agricultural land	0.0104
+780	bt_nllb_german	Agricultural land	0.0104
+780	bt_nllb_tamil	agricultural land	0.0104
+780	bt_bing_chinese_simplified	cultivated land	0.0
+780	bt_bing_korean	Farmland	0.0
+780	bt_nllb_arabic	The cultivated land	0.0
+780	bt_nllb_malay	Farmland	0.0
+780	bt_nllb_persian	The slaughterhouses	0.0
+780	bt_nllb_russian	Soil	0.0
+780	bt_nllb_swahili	The Harvest	0.0
+781	-1	Squirrel control and protections	0.5
+781	bt_nllb_arabic	Counter squirrel and protective slugs	0.2
+781	bt_nllb_tamil	Ant control and protection	0.0588
+781	bt_nllb_swahili	Control and protection of animals	0.037
+781	bt_bing_russian	Protein control and protection	0.0
+781	bt_nllb_chinese_yue	Control and protection	0.0
+781	bt_nllb_korean	Sky control and protection	0.0
+781	bt_nllb_russian	Proteins control and protect	0.0
+782	-1	Orange varieties seasons	1.0
+782	bt_nllb_malay	Various seasonal oranges	0.5
+782	bt_nllb_swahili	Varieties of summer oranges	0.25
+782	bt_nllb_arabic	The orange species are seasonal	0.2
+782	bt_nllb_persian	Seasons of orange species	0.2
+782	bt_nllb_chinese_yue	Color season	0.0357
+783	-1	school mercury poisoning	0.3333
+783	bt_nllb_french	Mercury intoxication at school	0.0286
+783	bt_nllb_chinese_yue	School poisoning	0.0152
+783	bt_nllb_korean	School hydrogen dependency	0.0
+783	bt_nllb_persian	Jewellery poisoning at school	0.0
+783	bt_nllb_swahili	the poison of school inspiration	0.0
+784	-1	mersenne primes	1.0
+784	bt_bing_chinese_simplified	Merson prime	0.0
+784	bt_bing_persian	Mersen Prime	0.0
+784	bt_nllb_arabic	The first number is Mersin	0.0
+784	bt_nllb_chinese_yue	The number of mesonins	0.0
+784	bt_nllb_french	The prime numbers of mercenaries	0.0
+784	bt_nllb_german	their primary values	0.0
+784	bt_nllb_korean	It s the first Mercedes	0.0
+784	bt_nllb_persian	The first few numbers of Merson	0.0
+784	bt_nllb_russian	first number of Mercenes	0.0
+785	-1	Ivory-billed woodpecker	1.0
+785	bt_bing_swahili	Ivory breasted woodpecker	0.5
+785	bt_bing_german	Ivory beaked woodpecker	0.3333
+785	bt_nllb_persian	Wooden wheat with ivory bills	0.0909
+785	bt_bing_tamil	Tusk beaked woodpecker	0.0
+785	bt_nllb_german	Instruments for the manufacture of electrical equipment	0.0
+785	bt_nllb_korean	The tree with an elephant	0.0
+785	bt_nllb_russian	The leather barred wooden saw	0.0
+785	bt_nllb_swahili	The wooden sand of the split horn elephant	0.0
+785	bt_nllb_tamil	The cotton built cotton	0.0
+786	-1	Yew trees	0.5
+786	bt_nllb_chinese_yue	The tree	0.0294
+786	bt_nllb_russian	The trees	0.0294
+786	bt_nllb_tamil	The tree	0.0294
+786	bt_nllb_persian	The yū trees	0.0263
+786	bt_bing_persian	Frying Trees	0.013
+786	bt_nllb_korean	The tree of the owl	0.0115
+786	bt_bing_french	Ifs	0.0
+786	bt_nllb_arabic	The yellows	0.0
+786	bt_nllb_french	The Trees of the Vine	0.0
+786	bt_nllb_german	The disciples	0.0
+786	bt_nllb_malay	The purple tree	0.0
+787	-1	Sunflower Cultivation	1.0
+787	bt_nllb_chinese_yue	Planting flowers	0.0222
+787	bt_nllb_korean	Solar power	0.0
+788	-1	Reverse mortgages	1.0
+788	bt_bing_swahili	Reverse Credits	0.3333
+788	bt_nllb_tamil	Repayment of mortgages	0.1429
+788	bt_nllb_german	The amount of the loan is calculated as follows	0.0
+788	bt_nllb_korean	The counter clockwise mortgage	0.0
+788	bt_nllb_swahili	Loans to repay	0.0
+789	-1	abandoned mine reclamation	0.5
+789	bt_bing_korean	Abandoned mine landfill	0.2
+789	bt_bing_persian	Restoration of the mine is abandoned	0.1667
+789	bt_bing_tamil	Abandoned Mine Recovery	0.1667
+789	bt_nllb_malay	Restoration of the abandoned mine	0.1667
+789	bt_nllb_tamil	The recovery of abandoned mines	0.1667
+789	bt_nllb_persian	Mining recycling is abandoned	0.0769
+789	bt_bing_german	Rehabilitation of abandoned mines	0.0588
+789	bt_bing_swahili	Removal of mine	0.0132
+789	bt_nllb_arabic	Re embellished abandoned	0.0
+789	bt_nllb_chinese_yue	Re use of discarded mines	0.0
+789	bt_nllb_german	Abandoned minefields	0.0
+789	bt_nllb_swahili	The construction of lost bombs	0.0
+790	-1	women's rights in Saudi Arabia	1.0
+791	-1	Gullah geechee language culture	1.0
+791	bt_bing_arabic	Gula Jichi language culture	0.0
+791	bt_bing_chinese_simplified	Gulagic language and culture	0.0
+791	bt_bing_persian	Galle Gichi Culture	0.0
+791	bt_nllb_arabic	The culture of the language is my army	0.0
+791	bt_nllb_german	The Gulag is a language culture	0.0
+791	bt_nllb_korean	The culture of the Guraghi language	0.0
+791	bt_nllb_persian	The culture of the Gucci language	0.0
+791	bt_nllb_russian	Gula gechi language culture	0.0
+791	bt_nllb_tamil	The culture of the Kula Chichi language	0.0
+792	-1	Social Security means test	0.2
+792	bt_bing_korean	Social Security Instruments Test	0.1667
+792	bt_bing_persian	Social Security means exam	0.0
+792	bt_nllb_korean	Social Security exam	0.0
+793	-1	Bagpipe Bands	1.0
+793	bt_bing_french	Bagpipe Groups	0.5
+793	bt_bing_persian	Bagpipe Groups	0.5
+793	bt_bing_russian	Bagpipe Orchestras	0.5
+793	bt_bing_tamil	Backpipe Pads	0.0
+793	bt_nllb_arabic	The pipe tapes	0.0
+793	bt_nllb_chinese_yue	The wire	0.0
+793	bt_nllb_french	Other of a kind used for the manufacture of goods of heading	0.0
+793	bt_nllb_german	Other of a kind used for the manufacture of goods of heading	0.0
+793	bt_nllb_korean	The Bug Pipe Band	0.0
+793	bt_nllb_persian	The Bug Bands	0.0
+793	bt_nllb_russian	Sketch tape	0.0
+793	bt_nllb_swahili	The Plaques of the Rivers	0.0
+793	bt_nllb_tamil	Backpipe bands	0.0
+794	-1	pet therapy	0.5
+794	bt_nllb_arabic	Treatment of pets	0.0159
+794	bt_nllb_german	Animal health	0.0159
+794	bt_nllb_korean	Treatment of pets	0.0159
+794	bt_nllb_persian	Treatment of pets	0.0159
+794	bt_nllb_swahili	treatment of pets	0.0159
+794	bt_bing_french	Zootherapy	0.0
+794	bt_bing_korean	Pet Treats	0.0
+795	-1	notable cocker spaniels	0.0278
+795	bt_nllb_tamil	The notable Coker Spaniel	0.0256
+795	bt_nllb_chinese_yue	Fish	0.0
+795	bt_nllb_russian	The most remarkable cock singer	0.0
+796	-1	Blue Grass Music Festival history	0.5
+796	bt_nllb_chinese_yue	The history of the Blue Grass Festival	0.3333
+797	-1	reintroduction of gray wolves	1.0
+797	bt_bing_swahili	Restoration of gray wolves	0.5
+797	bt_bing_tamil	Grey Wolves Reintroduced	0.5
+797	bt_nllb_arabic	Re introducing the gray wolves	0.5
+797	bt_nllb_chinese_yue	Grey wolves are reintroduced	0.5
+797	bt_nllb_german	Restoration of gray wolves	0.5
+797	bt_nllb_swahili	reintroduction of the black wolf	0.2
+797	bt_nllb_korean	The Grey Wolf breeding	0.1667
+797	bt_nllb_tamil	The Red Wolf Resettlement	0.0476
+797	bt_nllb_malay	re introduction of the grey wolf	0.0417
+798	-1	Massachusetts textile mills	0.5
+798	bt_bing_arabic	Textile factories in Massachusetts	0.3333
+798	bt_bing_korean	Massachusetts Textile Factory	0.3333
+798	bt_bing_malay	Massachusetts textile factory	0.3333
+798	bt_bing_persian	Massachusetts Textile Factories	0.3333
+798	bt_nllb_arabic	Textile factories in Massachusetts	0.3333
+798	bt_nllb_german	Textile factories in Massachusetts	0.3333
+798	bt_nllb_korean	Massachusetts textile factory	0.3333
+798	bt_nllb_persian	The textile factories of Massachusetts	0.3333
+798	bt_nllb_russian	Textile factories in Massachusetts	0.3333
+798	bt_nllb_swahili	Textile machines in Massachusetts	0.1429
+798	bt_nllb_french	Textile manufacturing in Massachusetts	0.0263
+799	-1	Animals in Alzheimer's research	1.0
+799	bt_nllb_russian	Animals in the Alzheimer s disease studies	0.5
+799	bt_bing_arabic	In Alzheimer s Research	0.0303
+800	-1	Ovarian Cancer Treatment	0.0909
+800	bt_nllb_tamil	The treatment of cervical cancer	0.0714
+800	bt_nllb_swahili	Treatment of Eye Cancer	0.0167
+801	-1	Kudzu Pueraria lobata	1.0
+801	bt_nllb_arabic	I m not going to lie	0.0
+801	bt_nllb_german	Other articles of heading No	0.0
+801	bt_nllb_korean	The Kuz Poeria Robata is the first	0.0
+801	bt_nllb_persian	I m not going to tell you	0.0
+802	-1	Volcano eruptions global temperature	1.0
+803	-1	May Day	0.0
+804	-1	ban on human cloning	0.3333
+804	bt_nllb_russian	The ban on cloning	0.2
+804	bt_nllb_swahili	The ban on human design	0.1667
+805	-1	Identity Theft Passport	0.0909
+805	bt_bing_russian	Passport in case of identity theft	0.0667
+805	bt_nllb_german	Pass for identity theft	0.0189
+805	bt_nllb_chinese_yue	I m a passenger and I m a passenger	0.0
+806	-1	Doctors Without Borders	1.0
+806	bt_bing_arabic	MSF	0.0588
+806	bt_bing_chinese_simplified	Médecins Sans Frontières	0.0312
+806	bt_bing_french	Médecins Sans Frontières	0.0312
+806	bt_bing_german	Médecins Sans Frontières	0.0312
+806	bt_bing_russian	Médecins Sans Frontières	0.0312
+807	-1	Sugar tariff-rate quotas	1.0
+807	bt_nllb_persian	Cutting tariffs on sugar	0.5
+807	bt_nllb_swahili	Sugar tax rates	0.1
+807	bt_bing_swahili	Sugar tax rate hikes	0.0909
+807	bt_nllb_chinese_yue	The sugar tax rate is positioned	0.0909
+807	bt_nllb_german	Farmers tariff quotas	0.0909
+808	-1	North Korean Counterfeiting	1.0
+808	bt_bing_swahili	North Korea denies	0.25
+808	bt_nllb_persian	North Korean fraud	0.1111
+808	bt_nllb_swahili	North Korean Fraud	0.1111
+808	bt_bing_malay	North Korean forgery	0.0667
+808	bt_nllb_malay	North Korea Abuses	0.037
+809	-1	wetlands wastewater treatment	1.0
+809	bt_nllb_korean	The wetlands are being treated	0.5
+809	bt_nllb_arabic	Wastewater treatment in swampy areas	0.1111
+809	bt_bing_swahili	Groundwater wastewater treatment	0.0435
+809	bt_nllb_swahili	rainwater treatment	0.0
+810	-1	timeshare resales	1.0
+810	bt_bing_swahili	Timeshare sales	0.0714
+810	bt_bing_malay	Time Sharing Resale	0.0
+810	bt_nllb_arabic	Re selling the stake in time	0.0
+810	bt_nllb_chinese_yue	Share the time of reselling	0.0
+810	bt_nllb_french	Recurring sales of time shared	0.0
+810	bt_nllb_german	The Commission shall take into account the following information	0.0
+810	bt_nllb_korean	Shared time reselling	0.0
+810	bt_nllb_malay	Selling back time together	0.0
+810	bt_nllb_persian	Selling back the time sharing	0.0
+810	bt_nllb_russian	Re selling of parts	0.0
+810	bt_nllb_swahili	time sales share	0.0
+810	bt_nllb_tamil	Time sharing reselling	0.0
+811	-1	handwriting recognition	0.5
+811	bt_bing_german	Handwriting	0.3333
+811	bt_nllb_chinese_yue	Handwritten identification	0.3333
+811	bt_nllb_arabic	Identify the handwriting	0.2
+811	bt_nllb_french	recognition of writing	0.0909
+811	bt_nllb_german	Handwriting identification	0.0312
+811	bt_bing_tamil	Signature Recognition	0.0
+811	bt_nllb_korean	Signature of the hand	0.0
+811	bt_nllb_persian	Handline detection	0.0
+811	bt_nllb_swahili	Recognizing the Scriptures	0.0
+811	bt_nllb_tamil	Signature approval	0.0
+812	-1	total knee replacement surgery	1.0
+812	bt_bing_korean	Total knee arthroplasty	0.3333
+812	bt_bing_russian	Total knee arthroplasty	0.3333
+812	bt_nllb_chinese_yue	A complete knee replacement	0.3333
+812	bt_nllb_german	Total knee replacement operation	0.3333
+812	bt_nllb_tamil	A complete knee replacement	0.3333
+813	-1	Atlantic Intracoastal Waterway	1.0
+813	bt_bing_arabic	Atlantic waterway within the coasts	0.5
+813	bt_bing_korean	Atlantic Canal	0.0185
+813	bt_bing_chinese_simplified	Nearshore shipping lanes in the Atlantic	0.0
+813	bt_nllb_korean	I m on my way to the Atlantic coast	0.0
+814	-1	Johnstown flood	1.0
+814	bt_bing_russian	Flooding in Jonestown	0.0
+815	-1	Coast Guard rescues	0.125
+815	bt_nllb_french	The Coast Guard Rescuers	0.0909
+815	bt_nllb_swahili	Coastguards Cleaning	0.0
+816	-1	USAID assistance to Galapagos	1.0
+817	-1	sports stadium naming rights	1.0
+817	bt_bing_malay	Sports Stadium Nomination Rights	0.3333
+817	bt_nllb_korean	Sports stadium names	0.2
+817	bt_nllb_arabic	Sports fields naming rights	0.05
+817	bt_bing_chinese_simplified	Naming rights for sports venues	0.0435
+818	-1	Chaco Culture National Park	1.0
+818	bt_bing_tamil	Chacko Culture National Park	0.0
+818	bt_nllb_chinese_yue	The Chako Culture National Park	0.0
+818	bt_nllb_korean	The Chako Cultural National Park	0.0
+818	bt_nllb_tamil	Sago Cultural National Park	0.0
+819	-1	1890 Census	0.0175
+819	bt_nllb_arabic	population	0.0
+819	bt_nllb_swahili	Population in	0.0
+820	-1	imported fire ants	0.5
+820	bt_nllb_korean	Imported fireworks	0.0
+820	bt_nllb_swahili	outdoor fireflies	0.0
+821	-1	Internet work-at-home scams	0.3333
+821	bt_nllb_russian	Internet fraud at work	0.1429
+821	bt_bing_arabic	Online work at home scams	0.125
+821	bt_nllb_tamil	The Internet is a home for online work	0.05
+821	bt_nllb_chinese_yue	The Internet is the kitchen	0.0
+821	bt_nllb_korean	You re cheating on the Internet	0.0
+821	bt_nllb_swahili	Cheating on homework on the Internet	0.0
+822	-1	Custer's Last Stand	0.3333
+822	bt_bing_chinese_simplified	Custer s final battle	0.2
+822	bt_nllb_arabic	Last stop for Custer	0.0909
+822	bt_nllb_korean	The Last Book of Custer	0.0909
+822	bt_nllb_persian	The last stop of Custer	0.0909
+822	bt_nllb_swahili	Custer s Final Victory	0.0714
+822	bt_nllb_german	Custer s final point of view	0.0294
+822	bt_nllb_chinese_yue	Castor s final step	0.0
+822	bt_nllb_tamil	The final stage of Castro	0.0
+823	-1	Continuing care retirement communities	1.0
+823	bt_nllb_korean	Continuous management retirement community	0.5
+823	bt_bing_chinese_simplified	Continuum of care retirement communities	0.3333
+823	bt_nllb_french	Continuing care pension communities	0.0769
+823	bt_nllb_german	Development pension communities	0.0
+823	bt_nllb_russian	Communities of pensioners in constant care	0.0
+823	bt_nllb_swahili	Adult communities to thrive	0.0
+823	bt_nllb_tamil	Continuous Care Pension Societies	0.0
+824	-1	Civil Air Patrol	1.0
+824	bt_nllb_korean	Civil air police	0.0357
+824	bt_nllb_swahili	Civil Air Police	0.0357
+824	bt_nllb_malay	Public air services	0.0115
+825	-1	National Guard Involvement in Iraq	0.1429
+825	bt_nllb_chinese_yue	The Iraqi National Guard is involved	0.1111
+825	bt_bing_korean	National Guard s involvement in Iraq	0.1
+825	bt_nllb_german	The National Guard s involvement in Iraq	0.1
+825	bt_nllb_korean	The National Guard s involvement in Iraq	0.1
+825	bt_nllb_russian	The National Guard s involvement in Iraq	0.1
+825	bt_bing_persian	National Guard intervention in Iraq	0.0588
+825	bt_bing_tamil	National Guard intervention in Iraq	0.0588
+825	bt_nllb_tamil	National Police participation in Iraq	0.0
+826	-1	Florida Seminole Indians	0.25
+826	bt_bing_malay	Florida Seminole India	0.1429
+827	-1	Hidden Markov Modeling HMM	1.0
+827	bt_nllb_arabic	Markov is hiding a model hymn	0.1
+828	-1	secret shoppers	1.0
+828	bt_bing_arabic	Mystery shoppers	0.5
+828	bt_bing_french	Mystery Shoppers	0.5
+828	bt_bing_russian	Mystery Shoppers	0.5
+828	bt_bing_malay	Secret buyer	0.0
+828	bt_bing_persian	Secret Buyers	0.0
+828	bt_bing_swahili	Mystery Buyers	0.0
+828	bt_nllb_french	secret buyers	0.0
+828	bt_nllb_german	Secret Buyers	0.0
+828	bt_nllb_persian	The hidden buyers	0.0
+828	bt_nllb_russian	The secret buyers	0.0
+828	bt_nllb_tamil	Secret buyers	0.0
+829	-1	Spanish Civil War support	0.3333
+829	bt_nllb_swahili	Aid for the Spanish Civil War	0.25
+829	bt_nllb_tamil	The Spanish Civil War was a turbulent period	0.1667
+830	-1	model railroads	0.5
+830	bt_bing_arabic	Model Railways	0.0303
+830	bt_bing_chinese_simplified	Model Railway	0.0303
+830	bt_bing_french	Model Railways	0.0303
+830	bt_bing_german	Model Railways	0.0303
+830	bt_bing_russian	Model Railways	0.0303
+830	bt_bing_swahili	Model railways	0.0303
+830	bt_nllb_french	railway model	0.0303
+830	bt_nllb_german	Model railway	0.0303
+830	bt_nllb_korean	Model railway	0.0303
+830	bt_nllb_malay	model railway	0.0303
+830	bt_nllb_persian	Model railways	0.0303
+830	bt_nllb_russian	model of railways	0.0303
+830	bt_nllb_swahili	model railways	0.0303
+830	bt_nllb_tamil	Model railway	0.0303
+830	bt_bing_malay	Model train	0.0116
+830	bt_bing_persian	Model Rail	0.0
+831	-1	Dulles Airport security	1.0
+831	bt_bing_german	Security check at Dulles Airport	0.5
+831	bt_bing_korean	Dulles Airport Security Check	0.5
+831	bt_bing_arabic	Airport Security Dallas	0.3333
+831	bt_bing_tamil	Dallas Airport Security	0.3333
+831	bt_nllb_korean	Dallas airport security	0.3333
+831	bt_nllb_persian	Security at Dallas Airport	0.3333
+831	bt_nllb_russian	The security of the Dallas airport	0.3333
+831	bt_nllb_arabic	Dalyes airport security	0.1667
+831	bt_nllb_chinese_yue	Dulles Airport is safe	0.1429
+832	-1	labor union activity	1.0
+832	bt_bing_german	Trade union work	0.2
+832	bt_bing_tamil	Labor union action	0.125
+832	bt_nllb_chinese_yue	The trade union movement	0.1
+832	bt_bing_arabic	Trade union activity	0.0208
+832	bt_bing_chinese_simplified	Trade union activities	0.0208
+832	bt_bing_french	Trade union activity	0.0208
+832	bt_bing_korean	Trade union activity	0.0208
+832	bt_bing_malay	Trade union activities	0.0208
+832	bt_bing_persian	Trade Union Activity	0.0208
+832	bt_bing_russian	Trade union activities	0.0208
+832	bt_bing_swahili	Trade union activities	0.0208
+832	bt_nllb_arabic	Trade union activity	0.0208
+832	bt_nllb_french	trade union activity	0.0208
+832	bt_nllb_german	Trade union activity	0.0208
+832	bt_nllb_korean	Trade union activities	0.0208
+832	bt_nllb_malay	trade union activities	0.0208
+832	bt_nllb_persian	Activities of trade unions	0.0208
+832	bt_nllb_russian	Trade union activities	0.0208
+832	bt_nllb_swahili	the activities of trade unions	0.0208
+832	bt_nllb_tamil	Trade union activity	0.0208
+833	-1	Iceland government	1.0
+833	bt_bing_malay	Kingdom of Iceland	0.3333
+834	-1	Global positioning system earthquakes	0.2
+834	bt_nllb_swahili	Earthquake of the international system of installation	0.1667
+834	bt_bing_korean	Safe Global Gripteering System Earthquake	0.1429
+834	bt_nllb_korean	Earthquake location system	0.0152
+835	-1	Big Dig pork	1.0
+835	bt_nllb_korean	Big digging pigs	0.2
+835	bt_nllb_tamil	Big digging pig	0.2
+835	bt_bing_korean	Big Dig Fork	0.1429
+835	bt_nllb_french	Big Dig s pig	0.125
+835	bt_nllb_arabic	Big pork	0.037
+835	bt_nllb_persian	Big pork	0.037
+835	bt_bing_arabic	Large pork digging	0.0
+835	bt_bing_chinese_simplified	Bigdig pork	0.0
+835	bt_bing_persian	Pig Big Pot	0.0
+835	bt_bing_tamil	Big Dick Bacon	0.0
+835	bt_nllb_chinese_yue	Dig a hole in the pork	0.0
+835	bt_nllb_russian	Big lead	0.0
+836	-1	illegal immigrant wages	0.1429
+836	bt_nllb_swahili	wages of legal immigrants	0.0588
+837	-1	Eskimo History	0.0714
+837	bt_nllb_russian	The story of the Eskimos	0.05
+837	bt_nllb_chinese_yue	The Smithsonian	0.0
+837	bt_nllb_swahili	The History of the Waeskim	0.0
+838	-1	urban suburban coyotes	1.0
+838	bt_bing_malay	Coyotes suburbs	0.5
+838	bt_nllb_malay	suburb coyotes	0.5
+838	bt_nllb_korean	Coyote outside the city	0.25
+838	bt_bing_arabic	Urban suburban wolves	0.0667
+838	bt_nllb_arabic	Urban cows	0.0
+838	bt_nllb_chinese_yue	Suburbs	0.0
+838	bt_nllb_german	Urban suburb cohouses	0.0
+838	bt_nllb_persian	Urban Quotes	0.0
+839	-1	textile dyeing techniques	1.0
+839	bt_nllb_russian	textile painting techniques	0.1111
+839	bt_nllb_chinese_yue	Weaving technology	0.0204
+840	-1	Geysers	1.0
+840	bt_nllb_german	Other geysers	0.3333
+840	bt_bing_arabic	Heaters	0.0
+840	bt_bing_tamil	Hot Water Vessels	0.0
+840	bt_nllb_arabic	The waves	0.0
+840	bt_nllb_chinese_yue	Gas	0.0
+840	bt_nllb_korean	The basement	0.0
+840	bt_nllb_tamil	Kaiser	0.0
+841	-1	camel North America	1.0
+841	bt_nllb_arabic	North America	0.0
+841	bt_nllb_french	North America	0.0
+841	bt_nllb_persian	North America	0.0
+841	bt_nllb_tamil	North America	0.0
+842	-1	David McCullough	0.0769
+842	bt_bing_tamil	David McCullough cricketer	0.0526
+842	bt_nllb_german	I m not sure	0.0
+842	bt_nllb_korean	I m going to tell you something	0.0
+843	-1	Pol Pot	1.0
+843	bt_nllb_russian	Paul Pot	0.0141
+843	bt_nllb_tamil	Paul Pot	0.0141
+843	bt_nllb_arabic	Paul But	0.0
+843	bt_nllb_chinese_yue	Paul Porter	0.0
+843	bt_nllb_korean	Paul Port	0.0
+843	bt_nllb_persian	The money s gone	0.0
+844	-1	segmental duplications	0.1
+844	bt_bing_arabic	Sectoral duplication	0.0
+844	bt_bing_chinese_simplified	Segmentation is repeated	0.0
+844	bt_bing_malay	Segment overlap	0.0
+844	bt_bing_persian	Fragment Repeats	0.0
+844	bt_bing_swahili	partial repetition	0.0
+844	bt_bing_tamil	Section Copies	0.0
+844	bt_nllb_arabic	The cataract complications	0.0
+844	bt_nllb_chinese_yue	Part of it repeats itself	0.0
+844	bt_nllb_french	double segmented	0.0
+844	bt_nllb_korean	Copy the segment	0.0
+844	bt_nllb_persian	Definite double	0.0
+844	bt_nllb_tamil	Division double	0.0
+845	-1	New Jersey tomato	1.0
+845	bt_nllb_persian	Tomatoes and strawberries	0.0238
+846	-1	heredity and obesity	1.0
+846	bt_nllb_french	inherited and obese	0.3333
+846	bt_nllb_german	Inheritance and Obesity	0.3333
+846	bt_nllb_russian	inheritance and obesity	0.3333
+846	bt_nllb_swahili	Inheritance and obesity	0.3333
+846	bt_bing_persian	Obesity and Obesity	0.2
+846	bt_bing_swahili	Obesity and obesity	0.2
+846	bt_nllb_malay	offspring and obesity	0.0119
+847	-1	Portugal World War II	0.25
+847	bt_bing_korean	Portuguese World War II	0.1
+847	bt_bing_swahili	Second World War	0.027
+848	-1	radio station call letters	1.0
+848	bt_bing_chinese_simplified	The call sign of the radio station	0.25
+848	bt_nllb_swahili	telephone letters from a radio station	0.1111
+848	bt_nllb_russian	radio stations	0.037
+848	bt_nllb_arabic	Call messages to the radio station	0.0345
+848	bt_bing_arabic	Messages to contact a radio station	0.0294
+848	bt_nllb_german	Telephone calls from radio stations	0.0119
+848	bt_bing_russian	Radio call signs	0.0
+848	bt_nllb_chinese_yue	Radio calls	0.0
+849	-1	Scalable Vector Graphics	1.0
+849	bt_nllb_arabic	The standard vector graphics	0.25
+849	bt_nllb_chinese_yue	Expandable vector graphics	0.1429
+849	bt_nllb_korean	Expandable vector graphics	0.1429
+849	bt_nllb_russian	Scalable vector graph	0.02
+849	bt_nllb_persian	Scalable metric graphics	0.0128
+849	bt_nllb_french	The following table shows the evolutionary vector graphs	0.0
+849	bt_nllb_malay	Vector graphs that can be measured	0.0
+849	bt_nllb_tamil	Scable vector charts	0.0
+850	-1	Mississippi River flood	0.25
+850	bt_nllb_arabic	The Mississippi flood	0.1667

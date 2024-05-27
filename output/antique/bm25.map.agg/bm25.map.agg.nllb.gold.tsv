@@ -1,0 +1,647 @@
+qid	order	query	bm25.map
+100653	-1	how do I go about getting copies of letters of commendation prsented to me from city of san diego?	0.491
+100653	bt_nllb_french	How do I get copies of congratulatory letters sent by the city of San Diego	0.5194
+100653	bt_nllb_korean	How do we get compliments from the city of San Diego	0.4978
+1015624	-1	What's the Definition of a bloody mary?	0.7116
+1015624	bt_nllb_arabic	What is the definition of Bloody Mary	0.7319
+1015624	bt_nllb_korean	What is the definition of a bloody Mary	0.7319
+1015624	bt_nllb_persian	What is the definition of bloody Mary	0.7319
+1015624	bt_nllb_swahili	What is the definition of bloody Mary	0.7319
+1015624	bt_nllb_tamil	What is the definition of a bloody Mary	0.7319
+1015624	bt_nllb_malay	What s the definition of bloody Mary	0.7116
+1015624	bt_nllb_russian	What s the definition of Bloody Mary	0.7116
+1017690	-1	what is the history of indian music?	0.5752
+1017690	bt_nllb_arabic	What is the history of Indian music	0.5752
+1017690	bt_nllb_chinese_yue	What is the history of Indian music	0.5752
+1017690	bt_nllb_french	What is the history of Indian music	0.5752
+1017690	bt_nllb_german	What is the history of Indian music	0.5752
+1017690	bt_nllb_korean	What is the history of Indian music	0.5752
+1017690	bt_nllb_malay	What is the history of Indian music	0.5752
+1017690	bt_nllb_persian	What is the history of Indian music	0.5752
+1017690	bt_nllb_russian	What is the history of Indian music	0.5752
+1017690	bt_nllb_swahili	What is the history of Indian music	0.5752
+1017690	bt_nllb_tamil	What is the history of Indian music	0.5752
+1035857	-1	Why are liberals so quick to defend Saddam?	0.3804
+1035857	bt_nllb_arabic	Why are liberals so quick to defend Saddam	0.3804
+1035857	bt_nllb_german	Why are the liberals so quick to defend Saddam	0.3804
+1035857	bt_nllb_korean	Why are liberals so quick to defend Saddam	0.3804
+1035857	bt_nllb_malay	Why are liberals so quick to defend Saddam	0.3804
+1035857	bt_nllb_swahili	Why are liberals so quick to defend Saddam	0.3804
+1035857	bt_nllb_tamil	Why are liberals so quick to defend Saddam	0.3804
+103830	-1	Why do man Arabs hate the west ?	0.496
+1063812	-1	How do I grow taller?	0.4152
+1063812	bt_nllb_korean	How can you grow taller	0.4528
+1063812	bt_nllb_chinese_yue	How do I grow taller	0.4152
+1077370	-1	Why do only Humans have Finger prints?	0.5316
+1082595	-1	what is meant by mobile technology?	0.4871
+1082595	bt_nllb_korean	What is mobile technology	0.5777
+1082595	bt_nllb_swahili	what is mobile technology	0.5777
+1082595	bt_nllb_tamil	What is mobile technology	0.5777
+1082595	bt_nllb_arabic	What does mobile technology mean	0.5297
+1082595	bt_nllb_chinese_yue	What does mobile technology mean	0.5297
+1082595	bt_nllb_french	What does mobile technology mean	0.5297
+1082595	bt_nllb_german	What does mobile technology mean	0.5297
+1082595	bt_nllb_malay	What does mobile technology mean	0.5297
+1082595	bt_nllb_persian	What does mobile technology mean	0.5297
+1082595	bt_nllb_russian	What does mobile technology mean	0.5297
+1119420	-1	Well the black light is UV light.So if it is "black" how can it be "light" ?	0.5912
+1119420	bt_nllb_arabic	Well black light is UV light so if black is how can it be light	0.5912
+1152934	-1	Why don't fat people have to pay more for air travel?	0.2979
+1152934	bt_nllb_german	Why don t fat people pay for air travel anymore	0.3925
+1152934	bt_nllb_malay	Why don t fat people pay more for air travel	0.3668
+1152934	bt_nllb_russian	Why don t fat people pay more for air travel	0.3668
+1167882	-1	What are the different types of sins and how are they caused?	0.1912
+1167882	bt_nllb_malay	What are the different types of sin and how are they caused	0.1912
+1199639	-1	How to "LOSE"all body fat ?	0.4968
+1254390	-1	how do i deap fry chicken?	0.2462
+1254390	bt_nllb_swahili	How do I deap fried chicken	0.3631
+1254390	bt_nllb_arabic	How do I feed fried chicken	0.3083
+1254390	bt_nllb_malay	How can I fry chicken	0.2561
+1254390	bt_nllb_tamil	How do I get the yellow fried chicken	0.2491
+1262692	-1	How can I get rid of pimples on my back?	0.2915
+1262692	bt_nllb_german	How can I get rid of pimples on my back	0.2915
+1282199	-1	how can I hide the cuts on my wrists?	0.2111
+1282199	bt_nllb_french	How do I hide the cuts on my wrists	0.2366
+1282199	bt_nllb_german	How can I hide the cuts on my wrists	0.2111
+1282199	bt_nllb_russian	How can I hide the cuts on my wrists	0.2111
+1282199	bt_nllb_tamil	How can I hide the cuts on my wrists	0.2111
+1287437	-1	how can i lose 30 pounds by june3?	0.118
+1287437	bt_nllb_arabic	How can I lose pounds on June	0.118
+1287437	bt_nllb_german	How can I lose pounds by June	0.118
+1287437	bt_nllb_malay	How can I lose pounds on June	0.118
+1287437	bt_nllb_persian	How can I lose pounds by June	0.118
+1287437	bt_nllb_russian	How can I lose pounds by June	0.118
+1287437	bt_nllb_swahili	How can I lose pounds by June	0.118
+1287437	bt_nllb_tamil	How can I lose pounds by June	0.118
+1290612	-1	why do anxiety and depression seem to coexist?	0.5591
+1290612	bt_nllb_french	Why do anxiety and depression seem to coexist	0.5591
+1292734	-1	what color you like the most and why?	0.062
+1292734	bt_nllb_malay	What color do you like and why	0.1069
+1292734	bt_nllb_persian	What color do you like and why	0.1069
+1292734	bt_nllb_arabic	What color do you like best and why	0.0688
+1292734	bt_nllb_chinese_yue	What color do you like best Why	0.0688
+1292734	bt_nllb_german	What color do you like best and why	0.0688
+1292734	bt_nllb_korean	What color do you like best Why	0.0688
+1292734	bt_nllb_russian	What color do you like best and why	0.0688
+1292734	bt_nllb_swahili	What color do you like best and why	0.0688
+1340574	-1	Why do some people only go to church on Easter Sunday and never go again until Christmas ?	0.4791
+1340574	bt_nllb_malay	Why do some people just go to church on Easter Sunday and not go again until Christmas	0.4809
+1351675	-1	Why must I have an uncracked winshield in order to for my car to pass a safety inspeciton?	0.2246
+1364894	-1	Why do we need to tell customer service/operator about our sickness in order to make appointment w/ a doctor?	0.2647
+1364894	bt_nllb_german	Why do we have to tell the customer service operator about our illness to make an appointment with a doctor	0.3075
+1364894	bt_nllb_korean	Why should we tell a customer service businessman about the disease to make an appointment with a doctor	0.2852
+1364894	bt_nllb_malay	Why do we have to tell the customer service about our illness to make an appointment with a doctor	0.2717
+1373069	-1	Freedom of Speech - why don't people understand how to use it?	0.1981
+1373069	bt_nllb_french	Freedom of speech Why do people not understand how to use it	0.2249
+1373069	bt_nllb_swahili	Freedom of Speech why do people not understand how to use it	0.2249
+1373069	bt_nllb_tamil	Freedom of speech Why do people not understand how to use it	0.2249
+1373069	bt_nllb_german	Freedom of speech why don t people understand how to use it	0.1981
+1373069	bt_nllb_malay	Freedom of Speech why don t people understand how to use it	0.1981
+1373069	bt_nllb_russian	Freedom of speech why don t people understand how to use it	0.1981
+143833	-1	What is the difference between coolant and anti-freeze?	0.6399
+1459749	-1	Why don't I have an asthma attack during sex?	0.3869
+1459749	bt_nllb_french	Why don t I have an asthma attack during sex	0.3869
+1459749	bt_nllb_persian	Why don t I have an asthma attack during sex	0.3869
+1477322	-1	Why do people say Germans are racists?	0.193
+1477322	bt_nllb_arabic	Why do people say Germans are racist	0.193
+1477322	bt_nllb_german	Why do people say the Germans are racist	0.193
+1477322	bt_nllb_malay	Why do people say Germans are racist	0.193
+1477322	bt_nllb_russian	Why do people say Germans are racist	0.193
+1477322	bt_nllb_tamil	Why do people say that Germans are racist	0.193
+1502604	-1	how do crooks  make  fake   passports  ?	0.4065
+1502604	bt_nllb_french	How do crooks make fake passports	0.4065
+1509982	-1	How is th Chemistry is a basic of Science?	0.8358
+1582877	-1	why do we go to school if in the real world we dont use most of it?	0.0882
+159716	-1	How do I find an Inmate at Southwest Detention Center 30755 Auld Rd., Murrieta, CA 92563?	0.3735
+159716	bt_nllb_malay	How do I find the inmate at Southwest detention center Auld Rd Murrieta CA	0.3735
+1607728	-1	what causes gray facial hair in men?	0.5956
+1607728	bt_nllb_french	What causes gray facial hair in men	0.5956
+1607728	bt_nllb_german	What causes gray facial hair in men	0.5956
+1607728	bt_nllb_malay	What causes gray facial hair in men	0.5956
+1623623	-1	How do you improve fuel efficiency of a 2004, Ford Ikon?	0.3144
+1663853	-1	what is a wet dream?	0.504
+1663853	bt_nllb_arabic	What is a wet dream	0.504
+1663853	bt_nllb_korean	What is a wet dream	0.504
+1663853	bt_nllb_malay	What is a wet dream	0.504
+1663853	bt_nllb_persian	What are wet dreams	0.504
+1663853	bt_nllb_russian	What is a wet dream	0.504
+1663853	bt_nllb_tamil	What is a wet dream	0.504
+1702151	-1	How patient a driver are you?	0.1294
+1702151	bt_nllb_french	Are you a patient driver	0.5981
+1702151	bt_nllb_arabic	How patient are you as a driver	0.1294
+1702151	bt_nllb_chinese_yue	How patient are you as a driver	0.1294
+1702151	bt_nllb_german	How patient are you as a driver	0.1294
+1702151	bt_nllb_persian	How patient are you as a driver	0.1294
+1702151	bt_nllb_russian	How patient are you driver	0.1294
+1702151	bt_nllb_swahili	How patient are you as a driver	0.1294
+1702151	bt_nllb_tamil	How patient are you as a driver	0.1294
+172731	-1	how for is saturn from the sun?	0.3674
+172731	bt_nllb_swahili	How is Saturn from the sun	0.3674
+172731	bt_nllb_tamil	How is Saturn from the sun	0.3674
+1783010	-1	What is Blaphsemy?	0.0556
+1783010	bt_nllb_chinese_yue	What is Blaphsemy	0.0556
+1783010	bt_nllb_french	What is the Blaphsemy	0.0556
+1783010	bt_nllb_german	What is Blaphsemy	0.0556
+1783010	bt_nllb_malay	What is that Blaphsemy	0.0556
+1783010	bt_nllb_swahili	What is Blaphsemy	0.0556
+1794677	-1	How can I treat my Acne Scars?	0.5808
+1794677	bt_nllb_arabic	How can I treat acne scars	0.6178
+1794677	bt_nllb_french	How do I treat my acne scars	0.6146
+1794677	bt_nllb_german	How can I treat my acne scar	0.5808
+1794677	bt_nllb_russian	How can I treat my acne scars	0.5808
+1821193	-1	Why do people feed poison (sugar) to their kids on Easter, and why are there no chocolate Jesuses?	0.1042
+1821193	bt_nllb_russian	Why do people feed their children poison sugar at Easter and why is there no chocolate	0.1186
+1821193	bt_nllb_french	Why do people feed their children with poison sugar at the Passover and why isn t Jesus in the chocolate	0.1091
+1844896	-1	How to cook Angus burgers?	0.4999
+1844896	bt_nllb_swahili	How to cook Angus burgers	0.4999
+1850323	-1	Why some men never wash their hands after using the Urinal/Toilet?	0.3474
+1862795	-1	How does spending prolonged time in microgravity affect the bodies of astronauts?	0.2404
+1866981	-1	I know how I got here, but how did you?	0.0771
+1880028	-1	What does "see Leaflet" mean on Ept Pregnancy test?	0.6156
+1937374	-1	how to get 277 V AC ?	0.3178
+1944018	-1	Why can't teenagers vote?	0.1495
+1944018	bt_nllb_arabic	Why can t teenagers vote	0.1495
+1944018	bt_nllb_chinese_yue	Why can t teenagers vote	0.1495
+1944018	bt_nllb_french	Why can t teenagers vote	0.1495
+1944018	bt_nllb_german	Why can t teenagers vote	0.1495
+1944018	bt_nllb_korean	Why can t teenagers vote	0.1495
+1944018	bt_nllb_malay	Why can t teenagers vote	0.1495
+1944018	bt_nllb_persian	Why can t teenagers vote	0.1495
+1944018	bt_nllb_russian	Why can t teenagers vote	0.1495
+1957887	-1	How can I hunt down and punch the people that keep spamming me?	0.2304
+1964316	-1	What do you mean by "weed"?	0.1772
+1964316	bt_nllb_arabic	What do you mean weed	0.1772
+1964316	bt_nllb_swahili	What do you mean by weed	0.1772
+1968489	-1	Which auto insurance do you use and why?	0.4287
+1971899	-1	what is masturbat***?	0.1667
+1977054	-1	Couscous is a food from what origin?	0.2547
+1977054	bt_nllb_french	What is the origin of couscous	0.2572
+2008017	-1	why do black people like fried chicken somuch?	0.4648
+2008017	bt_nllb_chinese_yue	Why do black people like fried chicken	0.4648
+2008017	bt_nllb_french	Why do black people like fried chicken	0.4648
+2008017	bt_nllb_korean	Why do black people like fried chicken	0.4648
+2008017	bt_nllb_malay	Why do black people like fried chicken	0.4648
+2008017	bt_nllb_persian	Why do black people like fried chicken	0.4648
+2008017	bt_nllb_russian	Why do black people like fried chicken	0.4648
+2008017	bt_nllb_swahili	Why do black people like fried chicken somuch	0.4648
+2018562	-1	Why does my Black Lab howl to "Law and Order" theme song?	0.6164
+204633	-1	Why do you have memories?	0.0636
+204633	bt_nllb_arabic	Why do you have memories	0.0636
+204633	bt_nllb_chinese_yue	Why do you have memories	0.0636
+204633	bt_nllb_french	Why do you have memories	0.0636
+204633	bt_nllb_german	Why do you have memories	0.0636
+204633	bt_nllb_malay	Why do you have memories	0.0636
+204633	bt_nllb_persian	Why do you have memories	0.0636
+204633	bt_nllb_russian	Why do you have memories	0.0636
+204633	bt_nllb_swahili	Why do you have a memory	0.0636
+204633	bt_nllb_tamil	Why do you have memories	0.0636
+204963	-1	what does 5 by 5 mean?	0.0
+2142044	-1	What do you speculate happened to Natalie Holloway in Aruba?	0.557
+2142044	bt_nllb_german	What happened to Natalie Holloway in Aruba	0.6632
+2142044	bt_nllb_malay	What do you speculate happened to Natalie Holloway in Aruba	0.557
+2180086	-1	what are mormens?	0.1429
+2180086	bt_nllb_korean	What is Mormen	0.1429
+2180086	bt_nllb_swahili	What is a Mormen	0.1429
+2182052	-1	why is lemonade at restaurants sometimes different?	0.5532
+2182052	bt_nllb_french	Why is lemonade in restaurants sometimes different	0.5532
+2182052	bt_nllb_german	Why is lemonade sometimes different in restaurants	0.5532
+2182052	bt_nllb_malay	Why is lemonade in restaurants sometimes different	0.5532
+2182052	bt_nllb_persian	Why is lemonade sometimes different in restaurants	0.5532
+2182052	bt_nllb_russian	Why is lemonade sometimes different in restaurants	0.5532
+2182052	bt_nllb_tamil	Why is lemonade sometimes different in restaurants	0.5532
+2192891	-1	how are braces put on and do they hurt a lot?	0.4126
+224109	-1	what is citriscidal?	0.0
+224109	bt_nllb_persian	What is citricidal	0.25
+224109	bt_nllb_russian	What is citricidal	0.25
+225575	-1	what does 'wet behind the ears' mean?	0.5396
+225575	bt_nllb_french	What does wet behind the ears mean	0.5396
+2290758	-1	Why do people ask questions they know?	0.0312
+2290758	bt_nllb_arabic	Why do people ask questions they know	0.0312
+2290758	bt_nllb_french	Why do people ask questions they know	0.0312
+2290758	bt_nllb_german	Why do people ask questions they know	0.0312
+2290758	bt_nllb_korean	Why do people ask questions that they know	0.0312
+2290758	bt_nllb_malay	Why do people ask questions they know	0.0312
+2290758	bt_nllb_persian	Why do people ask questions they know	0.0312
+2290758	bt_nllb_russian	Why do people ask questions they know	0.0312
+2290758	bt_nllb_swahili	Why do people ask questions they know	0.0312
+2291272	-1	How is Catholicism not Christianity?	0.4187
+2291272	bt_nllb_arabic	How can Catholicism not be Christian	0.4212
+2291272	bt_nllb_french	How is Catholicism not Christianity	0.4187
+2291272	bt_nllb_korean	How is Catholicism not Christianity	0.4187
+229303	-1	Why  is  the   war continuing  in  Afghanistan?	0.5295
+229303	bt_nllb_tamil	Why is war in Afghanistan continuing	0.5295
+2307305	-1	Why do man rape little girls?	0.2896
+2307305	bt_nllb_korean	Why does a man rape young girls	0.3392
+2307305	bt_nllb_arabic	Why does a man rape little girls	0.3207
+2307305	bt_nllb_persian	Why would a man rape a little girl	0.3101
+2309774	-1	Why do I keep seeing people on here 'dissing' on the soldiers in Iraq?	0.32
+23464	-1	why girls are beautiful?	0.6181
+23464	bt_nllb_german	Why are girls beautiful	0.6181
+2380990	-1	Why am I alive?	0.1013
+2380990	bt_nllb_korean	Why are you alive	0.1418
+2380990	bt_nllb_arabic	Why am I alive	0.1013
+2380990	bt_nllb_chinese_yue	Why am I alive	0.1013
+2380990	bt_nllb_german	Why am I alive	0.1013
+2380990	bt_nllb_persian	Why am I alive	0.1013
+2380990	bt_nllb_russian	Why am I alive	0.1013
+2380990	bt_nllb_tamil	Why am I alive	0.1013
+2382487	-1	what do i do if i have not started my period in like almost 6 months?	0.0337
+2418598	-1	why do wisdom varies from person to person?	0.3546
+2443586	-1	What is a Bro?	0.3302
+2443586	bt_nllb_malay	What is it bro	0.3302
+2446614	-1	how could u get success?	0.1839
+2452795	-1	How can I heat the water within a 150 gal tank that's open to the atmosphere in Feb.?	0.4543
+2452795	bt_nllb_german	How do I heat the water in a gal tank that s open to the atmosphere in February	0.4637
+2479423	-1	Why is there brail on the keypads at drive up ATM's?	0.7194
+2484180	-1	why do people judge a dog by what he looks like?	0.1521
+2484180	bt_nllb_chinese_yue	Why would people judge dogs by their looks	0.1891
+2528767	-1	How do I determine the charge of the iron ion in FeCl3?	0.3915
+2528767	bt_nllb_arabic	How do I find the iron ion charge in Fickle	0.3992
+2528767	bt_nllb_russian	How do you determine the iron ion charge in FeCl	0.3954
+2528767	bt_nllb_chinese_yue	How do I determine the charge of iron ions in FeCl	0.3915
+2528767	bt_nllb_malay	How do I determine the charge of iron ions in FeCl	0.3915
+2528767	bt_nllb_tamil	How do I determine the charge of iron ions in FeCl	0.3915
+2529114	-1	since i have premature ejaculation problem, how to satisfy my girl?	0.4487
+2539741	-1	what cause the car to have white smoke coming from the muffler and making a kicking or knocking sounds?	0.4476
+2551845	-1	Why is GW dogged for not getting OBL yet killing Zarkawi is a non-event?	0.1638
+2551845	bt_nllb_korean	Why is it that GW was not charged with OBL and then killed Zarkawi	0.2726
+2551845	bt_nllb_malay	Why is GW sued for not getting OBL but killing Zarkawi is not an event	0.1993
+2582920	-1	What is the difference in a dried plum and a dried prune?	0.7544
+2592121	-1	how to rollover 401k into real estate?	0.456
+2619912	-1	How were you saved from sin-and born again as Jesus says "Except you repent, and be born again..." How didYou?	0.5684
+2634143	-1	what is direct borrowing, phonological borrowing, linguistic borrowing, cultural borrowing,intimate borrowing?	0.1185
+2634143	bt_nllb_arabic	What is direct borrowing voice borrowing linguistic borrowing cultural borrowing intimate borrowing	0.1185
+2643507	-1	why does milk cost more than gas per gallon?	0.5352
+2643507	bt_nllb_german	Why does milk cost more than gas per gallon	0.5352
+2643507	bt_nllb_persian	Why does milk cost more per gallon than gas	0.5352
+2713171	-1	What does the sentence's mean?	0.1163
+2722241	-1	why do some animals hide in a dark place b4 they die?	0.1159
+2722241	bt_nllb_german	Why are animals hiding in a dark place	0.2229
+2722241	bt_nllb_arabic	Why are some animals hiding in a dark place	0.1677
+2783398	-1	What is a nucleus?	0.4464
+2783398	bt_nllb_french	What is a nucleus	0.4464
+2783398	bt_nllb_russian	What is a nucleus	0.4464
+2785579	-1	If you could be an element of weather, which would you choose, and why?	0.0379
+2785579	bt_nllb_arabic	If you could be a weather element which would you choose and why	0.0379
+2785579	bt_nllb_malay	If you could be the element of the weather which would you choose and why	0.0379
+2785579	bt_nllb_russian	If you could be the weather element which would you choose and why	0.0379
+2795030	-1	Why do people drink Cuervo when it tastes the same going down as coming up?	0.2073
+2797224	-1	Muslims Are The Happiest People Ever, Why?	0.4378
+2797224	bt_nllb_russian	Muslims are the happiest people why	0.4997
+2797224	bt_nllb_swahili	Muslims Are the Happiest People Why	0.4997
+2797224	bt_nllb_arabic	Muslims are the happiest people ever why	0.4378
+2797224	bt_nllb_chinese_yue	Muslims are the happiest people ever why	0.4378
+2799913	-1	What's the proper way to express sorrow at a funeral?	0.4542
+2814599	-1	what does the word remission mean when referring to cancer patients?	0.4946
+2814599	bt_nllb_german	What does the word remission mean in cancer patients	0.5975
+2814599	bt_nllb_russian	What does the word remission mean for cancer patients	0.5975
+2814722	-1	why is the new jersey smoking ban not considered unconstitutional?	0.5512
+2814722	bt_nllb_german	Why is the New Jersey smoking ban not considered unconstitutional	0.5512
+2814722	bt_nllb_russian	Why is a smoking ban in New Jersey not considered unconstitutional	0.5512
+2815090	-1	how cloning will affects our community?	0.1651
+2815090	bt_nllb_chinese_yue	How will cloning affect our communities	0.1651
+2815090	bt_nllb_french	How will cloning affect our community	0.1651
+2815090	bt_nllb_german	How will cloning affect our community	0.1651
+2815090	bt_nllb_russian	How will cloning affect our community	0.1651
+2838988	-1	How can I get a cork out of, not into, a wine bottle without a corkscrew?	0.789
+2847807	-1	How can I get rid of the hicups?	0.0778
+2862887	-1	how to care for a spiked dragon and what to feed them?	0.2353
+2864267	-1	what exemplifies effective customer service?	0.5884
+2892478	-1	what factors cause the Earth to heat unevenly?	0.5136
+2956570	-1	What are the words to write the sound of raindrops, moving train & scribbling w/ pencil on paper figuratively?	0.5676
+2976644	-1	How amoeba catches its prey?	0.5193
+3040435	-1	USA have Snow, Hurricanes, Flood, Earthquakes and politicians, Brazil only have politicians, why?	0.3211
+3040435	bt_nllb_arabic	America has snow hurricanes floods earthquakes and politicians Brazil has only politicians why	0.4055
+3040435	bt_nllb_german	The U S has snow hurricanes floods earthquakes and politicians Brazil has only politicians why	0.3636
+3074429	-1	How can we understand Islam and Muslims better?	0.431
+3074429	bt_nllb_arabic	How can we better understand Islam and Muslims	0.431
+3074429	bt_nllb_chinese_yue	How can we better understand Islam and Muslims	0.431
+3074429	bt_nllb_french	How can we better understand Islam and Muslims	0.431
+3074429	bt_nllb_german	How can we better understand Islam and the Muslims	0.431
+3074429	bt_nllb_korean	How can we better understand Islam and Muslims	0.431
+3074429	bt_nllb_malay	How can we better understand Islam and Muslims	0.431
+3074429	bt_nllb_persian	How can we better understand Islam and Muslims	0.431
+3074429	bt_nllb_russian	How can we better understand Islam and Muslims	0.431
+3074429	bt_nllb_swahili	How can we better understand Islam and Muslims	0.431
+3078448	-1	How do you prevent chicken from drying out when you cook it?	0.1918
+3078448	bt_nllb_chinese_yue	How do you prevent chicken drying when you cook	0.2376
+3078448	bt_nllb_arabic	How do you avoid drying chicken when you re cooking it	0.2239
+3078448	bt_nllb_russian	How can you prevent chicken from drying up when it s cooked	0.1994
+312215	-1	how good is apple pie when it is cold?	0.549
+3155314	-1	we have pork chops, veal chops, lamb chops, why is there not any beef chops ?	0.2726
+3155314	bt_nllb_german	We have pork veal lamb why is there no beef	0.2824
+3155314	bt_nllb_swahili	We have pork veal lamb why not beef	0.2824
+3206998	-1	how does disneyland make it snow?	0.323
+3206998	bt_nllb_arabic	How does Disneyland make snow	0.323
+3206998	bt_nllb_malay	How does Disneyland make snow	0.323
+3206998	bt_nllb_russian	How does Disneyland make snow	0.323
+3206998	bt_nllb_swahili	How does Disneyland make snow	0.323
+3239329	-1	Why do we wee a lot in the cold weather especially at night?	0.2408
+3269759	-1	what is artificial intelligence?	0.3545
+3269759	bt_nllb_french	What is artificial intelligence	0.3545
+3269759	bt_nllb_german	What is artificial intelligence	0.3545
+3269759	bt_nllb_malay	What is artificial intelligence	0.3545
+3269759	bt_nllb_russian	What is artificial intelligence	0.3545
+3269759	bt_nllb_tamil	What is artificial intelligence	0.3545
+3278654	-1	Why do Kamikaze pilots wear helmets?	0.5068
+3278654	bt_nllb_malay	Why is a Kamikaze pilot wearing a helmet	0.5262
+3278654	bt_nllb_russian	Why are the Kamikaze pilots wearing helmets	0.5262
+3278654	bt_nllb_german	Why do kamikaze pilots wear helmets	0.5068
+3278654	bt_nllb_swahili	Why do Kamikaze pilots wear helmets	0.5068
+3280768	-1	why is islam so hated in america?	0.2491
+3280768	bt_nllb_french	Why is Islam so hated in America	0.2491
+3280768	bt_nllb_german	Why is Islam so hated in America	0.2491
+3280768	bt_nllb_malay	Why is Islam so hated in America	0.2491
+3280768	bt_nllb_persian	Why is Islam so hated in America	0.2491
+3280768	bt_nllb_russian	Why is Islam so hated in America	0.2491
+3295055	-1	What causes skin discoloration, specifically, whitening of the skin between fingers?	0.2945
+3301173	-1	how to design road crust for national highways?	0.4962
+3313308	-1	how can I enjoy my time alone?	0.0581
+3313308	bt_nllb_arabic	How can I enjoy my time alone	0.0581
+3313308	bt_nllb_french	How can I enjoy my time alone	0.0581
+3313308	bt_nllb_german	How can I enjoy my time alone	0.0581
+3313308	bt_nllb_persian	How can I enjoy my time alone	0.0581
+3313308	bt_nllb_russian	How can I enjoy my time alone	0.0581
+3313308	bt_nllb_swahili	how can I enjoy my time alone	0.0581
+3363149	-1	Why do Arabs and Mexicans look alike?	0.5147
+3363149	bt_nllb_arabic	Why do Arabs and Mexicans look alike	0.5147
+3363149	bt_nllb_chinese_yue	Why do Arabs and Mexicans look alike	0.5147
+3363149	bt_nllb_german	Why do Arabs and Mexicans look alike	0.5147
+3363149	bt_nllb_korean	Why do Arabs and Mexicans look alike	0.5147
+3363149	bt_nllb_malay	Why do Arabs and Mexicans look alike	0.5147
+3363149	bt_nllb_persian	Why do Arabs and Mexicans look alike	0.5147
+3369088	-1	how can we stop the spread of islam?	0.3561
+3369088	bt_nllb_arabic	How can we stop the spread of Islam	0.3561
+3369088	bt_nllb_chinese_yue	How can we stop the spread of Islam	0.3561
+3369088	bt_nllb_french	How can we stop the spread of Islam	0.3561
+3369088	bt_nllb_german	How can we stop the spread of Islam	0.3561
+3369088	bt_nllb_korean	How can we stop the spread of Islam	0.3561
+3369088	bt_nllb_malay	How can we stop the spread of Islam	0.3561
+3369088	bt_nllb_persian	How can we stop the spread of Islam	0.3561
+3369088	bt_nllb_russian	How can we stop the spread of Islam	0.3561
+3382736	-1	what is minimalist cubisium?	0.5704
+3382736	bt_nllb_german	What is a minimalist cubism	0.6657
+3382736	bt_nllb_russian	What is minimalist cubism	0.6657
+3382736	bt_nllb_swahili	What is a minimalist cubism	0.6657
+3382736	bt_nllb_french	What is a minimalist cubisium	0.5704
+3385681	-1	if red bull is soo bad for people ,then why is it soo popular?	0.1206
+3385681	bt_nllb_chinese_yue	If red bulls are bad for people why is it so popular	0.2663
+3385681	bt_nllb_korean	If red bulls are bad for people why are they so popular	0.2663
+3385681	bt_nllb_french	If Red Bull is so bad for people why is it so popular	0.2017
+3385681	bt_nllb_malay	If Red Bull is so bad for people why is it so popular	0.2017
+3385681	bt_nllb_persian	If Red Bull is so bad for people why is it so popular	0.2017
+3385681	bt_nllb_russian	If Red Bull is so bad for people why is it so popular	0.2017
+3385681	bt_nllb_swahili	If Red Bull is so bad for people then why is it so popular	0.2017
+3385681	bt_nllb_tamil	If Red Bull is so bad for humans why is it so popular	0.1908
+3385681	bt_nllb_arabic	If Red Bull is so bad for people why is he so popular	0.1815
+3385681	bt_nllb_german	If Red Bull is so bad for people why is he so popular	0.1815
+3389038	-1	why the media in US and Europe is always attacking the Arabs and Islam without finding the truth about them?	0.2886
+3396066	-1	Why do airplanes fly so high?	0.3748
+34041	-1	what are the symptoms of strep throat?	0.7152
+34041	bt_nllb_malay	What are the symptoms of strep throat	0.7152
+34041	bt_nllb_russian	What are the symptoms of throat strep	0.7152
+3411123	-1	Why does'nt America regard foriegn credentials?	0.2719
+3496147	-1	Why was I punished for being christlike?	0.1554
+3499881	-1	Why is Gordon Ramsey so popular?	0.2488
+3499881	bt_nllb_french	Why is Gordon Ramsey so popular	0.2488
+3499881	bt_nllb_german	Why is Gordon Ramsey so popular	0.2488
+3499881	bt_nllb_malay	Why is Gordon Ramsey so popular	0.2488
+3499881	bt_nllb_swahili	Why is Gordon Ramsey so popular	0.2488
+3507491	-1	Why is religious freedom more important today?	0.4721
+3507491	bt_nllb_french	Why is religious freedom more important today	0.4721
+3507491	bt_nllb_german	Why is religious freedom more important today	0.4721
+3507491	bt_nllb_korean	Why is religious freedom more important today	0.4721
+3507491	bt_nllb_persian	Why is religious freedom more important today	0.4721
+3507491	bt_nllb_russian	Why is religious freedom more important today	0.4721
+3507491	bt_nllb_swahili	Why is religious freedom more important today	0.4721
+354733	-1	What are the names of some famous photographers and why do their work stand up?	0.1527
+354733	bt_nllb_korean	What are the names of famous photographers and why is their work remarkable	0.192
+354733	bt_nllb_tamil	What are the names of famous photographers and why is their work so high	0.1741
+354733	bt_nllb_french	What are the names of some famous photographers and why is their work so important	0.1587
+354733	bt_nllb_russian	What are the names of some famous photographers and why are their works so prominent	0.1551
+354733	bt_nllb_arabic	What are the names of some famous photographers and why is their work so powerful	0.1549
+354733	bt_nllb_german	What are the names of some famous photographers and why are their works noted	0.1547
+3552010	-1	Why do parent put kids on restriction?	0.2344
+3554263	-1	why some people behave so rude without reason,is it due to their own problem?	0.1529
+3559048	-1	How do you sell a junk car without a title?	0.6106
+3559048	bt_nllb_german	How do you sell a junk car without a title	0.6106
+3577501	-1	what are some signs that puberty is beginning?	0.4717
+3577501	bt_nllb_french	What are the signs that puberty is beginning	0.4783
+3639660	-1	Why do most cigarettes have the yellow filter?	0.5496
+3639660	bt_nllb_arabic	Why do most cigarettes have a yellow filter	0.5496
+3639660	bt_nllb_chinese_yue	Why do most cigarettes have yellow filters	0.5496
+3639660	bt_nllb_french	Why do most cigarettes have the yellow filter	0.5496
+3639660	bt_nllb_german	Why do most cigarettes have the yellow filter	0.5496
+3639660	bt_nllb_korean	Why do most cigarettes have yellow filters	0.5496
+3639660	bt_nllb_malay	Why do most cigarettes have yellow filters	0.5496
+3639660	bt_nllb_persian	Why do most cigarettes have yellow filters	0.5496
+3639660	bt_nllb_russian	Why do most cigarettes have a yellow filter	0.5496
+3639660	bt_nllb_tamil	Why do most cigarettes have yellow filters	0.5496
+3640705	-1	what is the punishment for child molestors?	0.2341
+3640705	bt_nllb_persian	What is the punishment for child molestation	0.288
+3640705	bt_nllb_swahili	What is the punishment for child molestation	0.288
+3698636	-1	why do cats headbutt?	0.0376
+3714728	-1	Why is the world so shallow?	0.2136
+3714728	bt_nllb_chinese_yue	Why is the world so shallow	0.2136
+3714728	bt_nllb_malay	Why is the world so shallow	0.2136
+3723508	-1	What is the difference between an ox and a bull?	0.5896
+3778229	-1	how were the witches tested in the salem witch trials?	0.7907
+3778229	bt_nllb_french	How were witches tested at the Salem Witch Trials	0.7907
+3778229	bt_nllb_german	How were witches tested in the Salem witch trials	0.7907
+3778229	bt_nllb_korean	How were witches tested at the Salem Witch Trials	0.7907
+3778229	bt_nllb_malay	How were witches tested in the Salem witch trials	0.7907
+3778229	bt_nllb_tamil	How were witches tested in Salem witch trials	0.7907
+3825386	-1	How can I develop leanbody and muscles?	0.1963
+3872395	-1	what are some easy ways to get a toddler to go to sleep without being mean?	0.0299
+3874326	-1	How come Compton is only designated for black people?	0.1337
+3874326	bt_nllb_arabic	How come Compton was only for black people	0.1812
+387874	-1	Why does asparugus make your pee stink?	0.5775
+3910925	-1	Why is yawning contagious?	0.5871
+3960080	-1	Why don't commercial planes fly over the North Pole?	0.5165
+3960080	bt_nllb_tamil	Why do commercial planes not fly over the North Pole	0.5268
+3960080	bt_nllb_french	Why aren t commercial planes flying over the North Pole	0.5259
+3960080	bt_nllb_german	Why aren t commercial planes flying over the North Pole	0.5259
+3960080	bt_nllb_malay	Why aren t commercial planes flying over the North Pole	0.5259
+3960080	bt_nllb_russian	Why aren t commercial planes flying over the North Pole	0.5259
+3971195	-1	How do i get my pitbull more agressive?	0.2462
+3990512	-1	how can we get concentration onsomething?	0.006
+4003223	-1	What are the marketing gimmicks that will attract males?	0.5479
+4012558	-1	what is the term milky way?	0.7187
+4012558	bt_nllb_french	What is the end of the Milky Way	0.7487
+4012558	bt_nllb_russian	What is the Milky Way	0.7387
+4012558	bt_nllb_swahili	What is the Milky Way	0.7387
+4012558	bt_nllb_german	What is the term Milky Way	0.7187
+4018891	-1	How do I know if a particular term or phrase is copyrighted?	0.1708
+4018891	bt_nllb_french	How do you know if a particular term or phrase is copyrighted	0.1919
+4018891	bt_nllb_tamil	How do I know if a particular word or phrase is copyrighted	0.1885
+4018891	bt_nllb_german	How do I know if a particular term or phrase is protected by copyright	0.1761
+4018891	bt_nllb_arabic	How do I know if a particular term or phrase is copyrighted	0.1708
+4018891	bt_nllb_malay	How do I know if a particular term or phrase is copyrighted	0.1708
+4018891	bt_nllb_russian	How do I know that a particular term or phrase is copyrighted	0.1708
+402514	-1	why do my baked potatos never taste near as good as when I get them in a nice restaurant?	0.4149
+4126337	-1	Why does my friend buy...?	0.1932
+4126337	bt_nllb_french	Why is my friend buying	0.2555
+4126337	bt_nllb_german	Why is my friend buying	0.2555
+4126337	bt_nllb_russian	Why is my friend buying	0.2555
+4126337	bt_nllb_swahili	Why does my friend buy	0.1932
+4153592	-1	what can make someones ear's stink?	0.1527
+4165406	-1	Why did the founder of Daewoo get a 10-year jail sentence?	0.4724
+4185395	-1	how can i cure the std or the sexually transmitted disease?	0.7035
+4185395	bt_nllb_german	How can I cure an STD or sexually transmitted disease	0.7035
+4185395	bt_nllb_malay	How can I cure an STD or sexually transmitted disease	0.7035
+4185395	bt_nllb_tamil	How can I cure an STD or sexually transmitted disease	0.7035
+4185501	-1	why does the sun shine?	0.354
+4185501	bt_nllb_french	Why is the sun shining	0.3554
+4185501	bt_nllb_german	Why is the sun shining	0.3554
+4185501	bt_nllb_korean	Why is the sun shining	0.3554
+4185501	bt_nllb_malay	Why is the sun shining	0.3554
+4185501	bt_nllb_russian	Why is the sun shining	0.3554
+4185501	bt_nllb_tamil	Why is the sun shining	0.3554
+4185501	bt_nllb_chinese_yue	Why does the sun shine	0.354
+4185501	bt_nllb_persian	Why does the sun shine	0.354
+4185501	bt_nllb_swahili	why does the sun shine	0.354
+4190287	-1	Why is switching schools so depressing?	0.2237
+4196421	-1	how can you be more brilliant?	0.3265
+4196421	bt_nllb_french	How can you be more brilliant	0.3265
+4196421	bt_nllb_german	How can you be more brilliant	0.3265
+4196421	bt_nllb_malay	How can you be more brilliant	0.3265
+4196421	bt_nllb_russian	How can you be more brilliant	0.3265
+4197214	-1	Why my GF feel like pissing during sexual intercourse?	0.3492
+421753	-1	how to get rid of a skunk?	0.2016
+421753	bt_nllb_swahili	how to remove skunk	0.2521
+4250296	-1	What do doctors do when a patient has a Do Nor Resuscitate Order?	0.0562
+4250296	bt_nllb_tamil	What would doctors do if a patient was ordered not to be re admitted	0.1834
+4250296	bt_nllb_french	What do doctors do when a patient is ordered not to be resuscitated	0.1547
+4250296	bt_nllb_malay	What do doctors do when patients have no or Resuscitate orders	0.1238
+4250296	bt_nllb_persian	What do doctors do when a patient has a no live order	0.0912
+4250296	bt_nllb_swahili	What do doctors do when a patient has an order to Do or Resuscitate	0.0692
+4250296	bt_nllb_chinese_yue	What happens when the patient is unable to do or restore order to life	0.0641
+4256593	-1	How do I remove the SIMM card on a LG VX8300 Cell Phone?	0.6193
+4256593	bt_nllb_korean	How do you remove SIMM cards from your LG VX phone	0.7029
+4278201	-1	how does Ultraviolet Light Affects Seed Germination and plant growth?	0.8442
+4278201	bt_nllb_tamil	How does UV light affect seed germination and plant growth	0.8816
+4278201	bt_nllb_french	How does ultraviolet light affect seed germination and plant growth	0.8442
+4278201	bt_nllb_german	How does ultraviolet light affect seed germination and plant growth	0.8442
+4278201	bt_nllb_russian	How does ultraviolet light affect seed germination and plant growth	0.8442
+4283542	-1	i have had loose stools for a week...how do i make it stop?	0.1468
+4288761	-1	How can i stop my husband from exhuming my baby's body for compensation?	0.1004
+4288761	bt_nllb_french	How can I stop my husband from exhuming my baby s body for compensation	0.1004
+4311093	-1	Why hot air rises up?	0.6436
+4357460	-1	how to make my car faster?	0.1671
+4357460	bt_nllb_swahili	how to make my car faster	0.1671
+4365565	-1	How Does Water Pressure Change?	0.2017
+4365565	bt_nllb_arabic	How does the water pressure change	0.2017
+4365565	bt_nllb_chinese_yue	How does the water pressure change	0.2017
+4365565	bt_nllb_french	How does the water pressure change	0.2017
+4365565	bt_nllb_german	How does the water pressure change	0.2017
+4365565	bt_nllb_korean	How does water pressure change	0.2017
+4365565	bt_nllb_malay	How Does the Water Pressure Change	0.2017
+4365565	bt_nllb_persian	How does the water pressure change	0.2017
+4365565	bt_nllb_russian	How does the water pressure change	0.2017
+4365565	bt_nllb_swahili	How Does the Water Pressure Change	0.2017
+4365565	bt_nllb_tamil	How does the water pressure change	0.2017
+4367654	-1	Why is April 19th important?	0.1702
+4367654	bt_nllb_swahili	Why is April special	0.3543
+4367654	bt_nllb_arabic	Why is April important	0.2838
+4367654	bt_nllb_french	Why is April important	0.2838
+4367654	bt_nllb_german	Why is April important	0.2838
+4367654	bt_nllb_persian	Why is April important	0.2838
+4367654	bt_nllb_russian	Why is April important	0.2838
+4367654	bt_nllb_tamil	Why April is Important	0.2838
+4367654	bt_nllb_chinese_yue	Why is April so important	0.1766
+4367654	bt_nllb_korean	Why is April so important	0.1766
+4367654	bt_nllb_malay	Why is April so important	0.1766
+4372730	-1	Why doesn't the bible make any sense?	0.0479
+4372730	bt_nllb_malay	Why does the Bible make sense	0.145
+4377861	-1	how to handsew sequins?	0.8889
+4385316	-1	How do I keep black birds out of my bar-b-que grill?	0.3992
+4406669	-1	What do you order at Taco Bell?	0.3503
+4406669	bt_nllb_russian	What to order at Taco Bell	0.3657
+4406669	bt_nllb_malay	What are you ordering at Taco Bell	0.3632
+4406669	bt_nllb_arabic	What do you order at Taco Bell	0.3503
+4406669	bt_nllb_french	What do you order at Taco Bell	0.3503
+4406669	bt_nllb_german	What do you order at Taco Bell	0.3503
+4406669	bt_nllb_persian	What do you order at Taco Bell	0.3503
+4406669	bt_nllb_swahili	What do you order at Taco Bell	0.3503
+443848	-1	Does anybody know where i could get a free guide on how to train a siberian husky?	0.6368
+443848	bt_nllb_german	Does anyone know where I can find a free guide to training a Siberian Husky	0.6747
+443848	bt_nllb_arabic	Does anyone know where I can get a free guide on how to train a Siberian Husky	0.6647
+443848	bt_nllb_malay	Does anyone know where I can get a free guide on how to train a Siberian Husky	0.6647
+443848	bt_nllb_tamil	Does anyone know where I can get a free guide on how to train a Siberian Husky	0.6647
+4448097	-1	what is innate immunity?	0.5177
+4448097	bt_nllb_arabic	What is innate immunity	0.5177
+4448097	bt_nllb_french	What is innate immunity	0.5177
+4448097	bt_nllb_german	What is innate immunity	0.5177
+4448097	bt_nllb_russian	What is innate immunity	0.5177
+4462511	-1	How do i know if my gold fish is pregnant?	0.5676
+4467100	-1	What does sholomister mean?	0.0
+4467100	bt_nllb_arabic	What do you mean Scholemster	0.1115
+4467100	bt_nllb_russian	What do you mean Scholemister	0.1115
+4473137	-1	Causes and effects of the rise of Christanity?	0.3043
+4473331	-1	How can I keep my rabit indoors?	0.2676
+456214	-1	What is the importance of absolute zero temperature?	0.8442
+456214	bt_nllb_chinese_yue	How important is absolute zero temperature	0.8758
+456214	bt_nllb_german	How important is absolute zero temperature	0.8758
+456214	bt_nllb_tamil	How important is absolute zero temperature	0.8758
+456214	bt_nllb_french	What is the importance of absolute zero temperature	0.8442
+456214	bt_nllb_malay	What is the importance of absolute zero temperature	0.8442
+474417	-1	what does the prefix "cyclo" mean in greek mythology?	0.6423
+474417	bt_nllb_tamil	What is the meaning of the prefix Cyclops in Greek mythology	0.6836
+474417	bt_nllb_chinese_yue	What does the prefix cyclo mean in Greek mythology	0.6423
+474417	bt_nllb_french	What does the prefix cyclo mean in Greek mythology	0.6423
+474417	bt_nllb_german	What does the prefix cyclo mean in Greek mythology	0.6423
+474417	bt_nllb_russian	What does the prefix cyclo in Greek mythology mean	0.6423
+481173	-1	why live, when your in misery?	0.3268
+484496	-1	Why a man float on water when he dies?	0.2054
+484496	bt_nllb_swahili	Why does a person float on water when he dies	0.2185
+551239	-1	how do i find out if someone left me a life insurance policy?	0.6543
+558570	-1	My city just put a ban on pit bulls, how do we reverse the decision?	0.5217
+654124	-1	Why am I not able to concentrate on my studies?	0.2403
+667488	-1	how soon can you drive on a newly paved driveway?	0.5577
+667488	bt_nllb_russian	How soon can you drive on the newly paved driveway	0.5577
+676028	-1	Why do our elected federal senators and congressmen not have to live on regular S.S. like the rest of us?	0.3134
+676028	bt_nllb_french	Why shouldn t our elected senators and congressmen live on SS like the rest of us	0.4043
+676028	bt_nllb_russian	Why shouldn t our federal senators and congressmen live in the regular SS like the rest of us	0.3737
+707303	-1	How do people get hiccups, what are they, and what exactly is the best way to cure them?	0.3135
+714612	-1	Why doesn't the water fall off  earth if it's round?	0.2223
+714612	bt_nllb_tamil	If it is round why does water not fall from the earth	0.33
+746920	-1	How do you get rid of wart on your hand a using home method?	0.3787
+746920	bt_nllb_french	How to get rid of warts on the hand using a method at home	0.5248
+761742	-1	How can I become a playa?	0.385
+761742	bt_nllb_arabic	How can I become a Playa	0.385
+765138	-1	Why does loving someone hurts like hell?	0.3233
+785823	-1	how is the library consider as a heart of university?	0.3208
+785823	bt_nllb_chinese_yue	Library is the heart of the university	0.4177
+785823	bt_nllb_french	How is the library considered the heart of the university	0.3208
+785823	bt_nllb_swahili	how is a library considered the heart of a university	0.3208
+78762	-1	why do i have pterofobia?	0.0
+788976	-1	Why did the Bush Admin cover up 9/11?	0.0387
+821387	-1	I have mice.How do I get rid of them humanely?	0.1253
+821387	bt_nllb_french	I have mice how can we get rid of them humanely	0.1662
+821387	bt_nllb_chinese_yue	I have mice How can I get rid of them humanely	0.1346
+821387	bt_nllb_russian	I have mice how can I get rid of them humanely	0.1346
+823384	-1	why did the army have personal cuts in the mid 1990's?	0.267
+8293	-1	Why do men fantasized about raping women?	0.5076
+8293	bt_nllb_french	Why do men fantasize about raping women	0.5076
+8293	bt_nllb_german	Why do men fantasize about raping women	0.5076
+8293	bt_nllb_korean	Why do men fantasize about raping women	0.5076
+8293	bt_nllb_persian	Why do men fantasize about raping women	0.5076
+849221	-1	when it comes to religion why dont people realize history repeats itself?	0.3593
+851124	-1	How is ego a part of our survival instincts?	0.4561
+851124	bt_nllb_german	How is the ego part of our survival instinct	0.4561
+851124	bt_nllb_russian	How is the ego part of our survival instinct	0.4561
+896725	-1	what are some good exercises to get rid of those love handles?	0.1969
+896725	bt_nllb_arabic	What are some good exercises to get rid of those love handles	0.1969
+922849	-1	why do some people take life so seriously?	0.145
+922849	bt_nllb_tamil	Why do some take life so seriously	0.1454
+922849	bt_nllb_arabic	Why do some people take life so seriously	0.145
+922849	bt_nllb_chinese_yue	Why do some people take life so seriously	0.145
+922849	bt_nllb_french	Why do some people take life so seriously	0.145
+922849	bt_nllb_german	Why do some people take life so seriously	0.145
+922849	bt_nllb_korean	Why do some people take life so seriously	0.145
+922849	bt_nllb_malay	Why do some people take life so seriously	0.145
+922849	bt_nllb_persian	Why do some people take life so seriously	0.145
+922849	bt_nllb_russian	Why do some people take life so seriously	0.145
+922849	bt_nllb_swahili	why do some people take life so seriously	0.145
+949154	-1	can anybody tell me what is a butler?	0.1911
+953489	-1	Why do I have to dumb myself down all the time though I am highly undereducated?	0.0588

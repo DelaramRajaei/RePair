@@ -1,0 +1,2750 @@
+qid	order	query	qld.ndcg
+1	-1	obama family tree	0.0
+1	wiki.topn3	obama family tree stanley armour dunham madelyn dunham barack obama sr family barack obama	0.5791
+1	anchor.topn3	obama family tree barack obama strichnocera mekubetzet tree stern s diatomic sequ ssm a	0.5102
+1	tagmee.topn3	obama family tree Family of Barack Obama	0.4961
+1	conceptluster.topn5.3.qld	obama family tree family barack obama git object	0.4911
+1	conceptluster.topn5.3.bm25	obama family tree family barack obama death cellulos carbon restringido video	0.4871
+1	wiki.topn3.replace	stanley armour dunham madelyn dunham barack obama sr family barack obama	0.4777
+1	word2vec.topn3	obama family tree bama barack relatives tree	0.4409
+1	glove.topn3	obama family tree barack mccain father pine	0.4352
+1	anchor.topn3.replace	barack obama strichnocera family mekubetzet tree stern s diatomic sequ ssm a	0.4326
+1	conceptnet.topn3	obama family tree Barack Hussein Obama obamaton obamacrat home group branch squirrel wood	0.4114
+1	tagmee.topn3.replace	Family of Barack Obama	0.3863
+1	word2vec.topn3.replace	bama barack relatives tree	0.0104
+1	sensedisambiguation.replace	obama syndicate tree	0.0052
+10	-1	cheap internet	0.0925
+10	word2vec.topn3	cheap internet inexpensive low cost online intenet	0.2071
+10	word2vec.topn3.replace	inexpensive low cost online intenet	0.1977
+10	rm3.topn10.10.0.5.bm25	cheap internet	0.0925
+10	rm3.topn10.10.0.5.qld	cheap internet	0.0925
+10	sensedisambiguation	cheap internet	0.0925
+10	sensedisambiguation.replace	cheap internet	0.0925
+10	stem.krovetz	cheap internet	0.0925
+10	stem.lovins	cheap internet	0.0925
+10	stem.paicehusk	cheap internet	0.0925
+10	stem.porter	cheap internet	0.0925
+10	stem.porter2	cheap internet	0.0925
+10	stem.sstemmer	cheap internet	0.0925
+10	thesaurus.topn3	cheap internet	0.0925
+10	thesaurus.topn3.replace	cheap internet	0.0925
+11	-1	gmat prep classes	0.4591
+11	termluster.topn5.3.qld	gmat prep classes git object	0.4969
+11	docluster.topn10.3.qld	gmat prep classes git object trivia	0.4709
+11	relevancefeedback.topn10.bm25	gmat prep classes	0.4591
+11	relevancefeedback.topn10.qld	gmat prep classes	0.4591
+11	rm3.topn10.10.0.5.bm25	gmat prep classes	0.4591
+11	rm3.topn10.10.0.5.qld	gmat prep classes	0.4591
+11	stem.krovetz	gmat prep class	0.4591
+11	stem.paicehusk	gmat prep class	0.4591
+11	stem.porter	gmat prep class	0.4591
+11	stem.porter2	gmat prep class	0.4591
+11	stem.sstemmer	gmat prep classe	0.4591
+11	stem.trunc5	gmat prep class	0.4591
+11	thesaurus.topn3	gmat prep classes	0.4591
+11	thesaurus.topn3.replace	gmat prep classes	0.4591
+12	-1	djs	0.1453
+12	anchor.topn3	djs	0.1453
+12	anchor.topn3.replace	djs	0.1453
+12	rm3.topn10.10.0.5.bm25	djs	0.1453
+12	rm3.topn10.10.0.5.qld	djs	0.1453
+12	stem.krovetz	djs	0.1453
+12	stem.lovins	dj	0.1453
+12	stem.paicehusk	djs	0.1453
+12	stem.porter	dj	0.1453
+12	stem.porter2	djs	0.1453
+12	stem.sstemmer	djs	0.1453
+12	stem.trunc4	djs	0.1453
+12	stem.trunc5	djs	0.1453
+12	tagmee.topn3	djs	0.1453
+12	thesaurus.topn3	djs	0.1453
+12	thesaurus.topn3.replace	djs	0.1453
+12	wiki.topn3	djs	0.1453
+13	-1	map	0.1872
+13	conceptnet.topn3	map	0.1872
+13	conceptnet.topn3.replace	map	0.1872
+13	glove.topn3	map	0.1872
+13	glove.topn3.replace	map	0.1872
+13	rm3.topn10.10.0.5.bm25	map	0.1872
+13	rm3.topn10.10.0.5.qld	map	0.1872
+13	sensedisambiguation	map	0.1872
+13	sensedisambiguation.replace	map	0.1872
+13	stem.krovetz	map	0.1872
+13	stem.lovins	map	0.1872
+13	stem.paicehusk	map	0.1872
+13	stem.porter	map	0.1872
+13	stem.porter2	map	0.1872
+13	stem.sstemmer	map	0.1872
+13	stem.trunc4	map	0.1872
+13	stem.trunc5	map	0.1872
+13	tagmee.topn3	map	0.1872
+13	thesaurus.topn3	map	0.1872
+13	thesaurus.topn3.replace	map	0.1872
+13	wiki.topn3	map	0.1872
+13	word2vec.topn3	map	0.1872
+13	word2vec.topn3.replace	map	0.1872
+14	-1	dinosaurs	0.1014
+14	anchor.topn3	dinosaurs	0.1014
+14	anchor.topn3.replace	dinosaurs	0.1014
+14	rm3.topn10.10.0.5.bm25	dinosaurs	0.1014
+14	rm3.topn10.10.0.5.qld	dinosaurs	0.1014
+14	sensedisambiguation	dinosaurs dinosaur	0.1014
+14	sensedisambiguation.replace	dinosaur	0.1014
+14	stem.krovetz	dinosaur	0.1014
+14	stem.lovins	dinosaur	0.1014
+14	stem.porter	dinosaur	0.1014
+14	stem.porter2	dinosaur	0.1014
+14	stem.sstemmer	dinosaur	0.1014
+14	tagmee.topn3	dinosaurs	0.1014
+14	thesaurus.topn3	dinosaurs	0.1014
+14	thesaurus.topn3.replace	dinosaurs	0.1014
+14	wiki.topn3	dinosaurs	0.1014
+14	wordnet.topn3	dinosaurs	0.1014
+14	wordnet.topn3.replace	dinosaurs	0.1014
+15	-1	espn sports	0.2573
+15	rm3.topn10.10.0.5.bm25	espn sports	0.2573
+15	rm3.topn10.10.0.5.qld	espn sports	0.2573
+15	sensedisambiguation.replace	espn sport	0.2573
+15	stem.krovetz	espn sports	0.2573
+15	stem.lovins	espn sport	0.2573
+15	stem.paicehusk	espn sport	0.2573
+15	stem.porter	espn sport	0.2573
+15	stem.porter2	espn sport	0.2573
+15	stem.sstemmer	espn sport	0.2573
+15	stem.trunc5	espn sport	0.2573
+15	thesaurus.topn3	espn sports	0.2573
+15	thesaurus.topn3.replace	espn sports	0.2573
+16	-1	arizona game and fish	0.2218
+16	tagmee.topn3.replace	Arizona Arizona Game and Fish Department Fish	0.2275
+16	rm3.topn10.10.0.5.bm25	arizona game and fish	0.2218
+16	rm3.topn10.10.0.5.qld	arizona game and fish	0.2218
+16	stem.krovetz	arizona game and fish	0.2218
+16	stem.porter	arizona game and fish	0.2218
+16	stem.porter2	arizona game and fish	0.2218
+16	stem.sstemmer	arizona game and fish	0.2218
+16	thesaurus.topn3	arizona game fish	0.2218
+16	thesaurus.topn3.replace	arizona game fish	0.2218
+17	-1	poker tournaments	0.1685
+17	sensedisambiguation	poker tournaments tournament	0.1723
+17	relevancefeedback.topn10.qld	poker tournaments	0.1685
+17	rm3.topn10.10.0.5.bm25	poker tournaments	0.1685
+17	rm3.topn10.10.0.5.qld	poker tournaments	0.1685
+17	sensedisambiguation.replace	poker tournament	0.1685
+17	stem.krovetz	poker tournament	0.1685
+17	stem.lovins	poker tournament	0.1685
+17	stem.porter	poker tournament	0.1685
+17	stem.porter2	poker tournament	0.1685
+17	stem.sstemmer	poker tournament	0.1685
+17	thesaurus.topn3	poker tournaments	0.1685
+17	thesaurus.topn3.replace	poker tournaments	0.1685
+18	-1	wedding budget calculator	0.2013
+18	rm3.topn10.10.0.5.bm25	wedding budget calculator	0.2013
+18	rm3.topn10.10.0.5.qld	wedding budget calculator	0.2013
+18	stem.krovetz	wedding budget calculator	0.2013
+18	stem.porter2	wed budget calcul	0.2013
+18	stem.sstemmer	wedding budget calculator	0.2013
+18	thesaurus.topn3	wedding budget calculator	0.2013
+18	thesaurus.topn3.replace	wedding budget calculator	0.2013
+19	-1	the current	0.0
+2	-1	french lick resort and casino	0.3379
+2	conceptluster.topn5.3.bm25	french lick resort casino casino french lick resort casino french lick indiana	0.3601
+2	conceptluster.topn5.3.qld	french lick resort casino french lick resort casino casino french lick indiana	0.3601
+2	tagmee.topn3	french lick resort casino French Lick Indiana French Lick Resort Casino Casino	0.3601
+2	tagmee.topn3.replace	French Lick Indiana French Lick Resort Casino Casino	0.3576
+2	rm3.topn10.10.0.5.bm25	french lick resort and casino	0.3379
+2	rm3.topn10.10.0.5.qld	french lick resort and casino	0.3379
+2	stem.paicehusk	french lick resort and casino	0.3379
+2	stem.porter	french lick resort and casino	0.3379
+2	stem.porter2	french lick resort and casino	0.3379
+2	stem.sstemmer	french lick resort and casino	0.3379
+2	termluster.topn5.3.bm25	french lick resort casino	0.3379
+2	termluster.topn5.3.qld	french lick resort casino	0.3379
+2	thesaurus.topn3	french lick resort casino	0.3379
+2	thesaurus.topn3.replace	french lick resort casino	0.3379
+20	-1	defender	0.0
+21	-1	volvo	0.3279
+21	conceptluster.topn5.3.bm25	volvo volvo lick casino french	0.3313
+21	conceptnet.topn3	volvo	0.3279
+21	conceptnet.topn3.replace	volvo	0.3279
+21	rm3.topn10.10.0.5.bm25	volvo	0.3279
+21	rm3.topn10.10.0.5.qld	volvo	0.3279
+21	sensedisambiguation	volvo	0.3279
+21	sensedisambiguation.replace	volvo	0.3279
+21	stem.krovetz	volvo	0.3279
+21	stem.paicehusk	volvo	0.3279
+21	stem.porter	volvo	0.3279
+21	stem.porter2	volvo	0.3279
+21	stem.sstemmer	volvo	0.3279
+21	stem.trunc5	volvo	0.3279
+21	tagmee.topn3	volvo Volvo	0.3279
+21	tagmee.topn3.replace	Volvo	0.3279
+21	thesaurus.topn3	volvo	0.3279
+21	thesaurus.topn3.replace	volvo	0.3279
+21	wordnet.topn3	volvo	0.3279
+21	wordnet.topn3.replace	volvo	0.3279
+22	-1	rick warren	0.4528
+22	rm3.topn10.10.0.5.bm25	rick warren	0.4528
+22	rm3.topn10.10.0.5.qld	rick warren	0.4528
+22	stem.krovetz	rick warren	0.4528
+22	stem.porter	rick warren	0.4528
+22	stem.porter2	rick warren	0.4528
+22	stem.sstemmer	rick warren	0.4528
+22	tagmee.topn3	rick warren Rick Warren	0.4528
+22	tagmee.topn3.replace	Rick Warren	0.4528
+22	thesaurus.topn3	rick warren	0.4528
+22	thesaurus.topn3.replace	rick warren	0.4528
+23	-1	yahoo	0.0
+23	wiki.topn3	yahoo alibaba group websites company companies based sunnyvale california yahoo	0.1112
+23	wiki.topn3.replace	alibaba group websites company companies based sunnyvale california yahoo	0.0955
+24	-1	diversity	0.1965
+24	anchor.topn3	diversity	0.1965
+24	anchor.topn3.replace	diversity	0.1965
+24	conceptnet.topn3	diversity	0.1965
+24	conceptnet.topn3.replace	diversity	0.1965
+24	rm3.topn10.10.0.5.bm25	diversity	0.1965
+24	rm3.topn10.10.0.5.qld	diversity	0.1965
+24	sensedisambiguation	diversity	0.1965
+24	sensedisambiguation.replace	diversity	0.1965
+24	stem.krovetz	diversity	0.1965
+24	stem.sstemmer	diversity	0.1965
+24	tagmee.topn3	diversity	0.1965
+24	thesaurus.topn3	diversity	0.1965
+24	thesaurus.topn3.replace	diversity	0.1965
+24	wiki.topn3	diversity	0.1965
+25	-1	euclid	0.1898
+25	conceptnet.topn3	euclid	0.1898
+25	conceptnet.topn3.replace	euclid	0.1898
+25	rm3.topn10.10.0.5.bm25	euclid	0.1898
+25	rm3.topn10.10.0.5.qld	euclid	0.1898
+25	sensedisambiguation	euclid	0.1898
+25	sensedisambiguation.replace	euclid	0.1898
+25	stem.krovetz	euclid	0.1898
+25	stem.paicehusk	euclid	0.1898
+25	stem.porter	euclid	0.1898
+25	stem.porter2	euclid	0.1898
+25	stem.sstemmer	euclid	0.1898
+25	tagmee.topn3	euclid Euclid	0.1898
+25	tagmee.topn3.replace	Euclid	0.1898
+25	thesaurus.topn3	euclid	0.1898
+25	thesaurus.topn3.replace	euclid	0.1898
+25	wordnet.topn3	euclid	0.1898
+25	wordnet.topn3.replace	euclid	0.1898
+26	-1	lower heart rate	0.2568
+26	tagmee.topn3	lower heart rate Mandible Heart rate	0.2736
+26	rm3.topn10.10.0.5.bm25	lower heart rate	0.2568
+26	rm3.topn10.10.0.5.qld	lower heart rate	0.2568
+26	stem.krovetz	lower heart rate	0.2568
+26	stem.porter	lower heart rate	0.2568
+26	stem.porter2	lower heart rate	0.2568
+26	stem.sstemmer	lower heart rate	0.2568
+26	stem.trunc5	lower heart rate	0.2568
+26	thesaurus.topn3	lower heart rate	0.2568
+26	thesaurus.topn3.replace	lower heart rate	0.2568
+27	-1	starbucks	0.1816
+27	anchor.topn3	starbucks	0.1816
+27	anchor.topn3.replace	starbucks	0.1816
+27	conceptnet.topn3	starbucks	0.1816
+27	conceptnet.topn3.replace	starbucks	0.1816
+27	relevancefeedback.topn10.qld	starbucks	0.1816
+27	rm3.topn10.10.0.5.bm25	starbucks	0.1816
+27	rm3.topn10.10.0.5.qld	starbucks	0.1816
+27	sensedisambiguation	starbucks	0.1816
+27	sensedisambiguation.replace	starbucks	0.1816
+27	stem.krovetz	starbuck	0.1816
+27	stem.lovins	starbuck	0.1816
+27	stem.paicehusk	starbuck	0.1816
+27	stem.porter	starbuck	0.1816
+27	stem.porter2	starbuck	0.1816
+27	stem.sstemmer	starbuck	0.1816
+27	tagmee.topn3	starbucks Starbucks	0.1816
+27	tagmee.topn3.replace	Starbucks	0.1816
+27	thesaurus.topn3	starbucks	0.1816
+27	thesaurus.topn3.replace	starbucks	0.1816
+27	wordnet.topn3	starbucks	0.1816
+27	wordnet.topn3.replace	starbucks	0.1816
+28	-1	inuyasha	0.1451
+28	anchor.topn3	inuyasha sesshomaru totosai kikyo	0.1831
+28	anchor.topn3.replace	sesshomaru totosai kikyo	0.1525
+28	conceptnet.topn3	inuyasha	0.1451
+28	conceptnet.topn3.replace	inuyasha	0.1451
+28	rm3.topn10.10.0.5.bm25	inuyasha	0.1451
+28	rm3.topn10.10.0.5.qld	inuyasha	0.1451
+28	sensedisambiguation	inuyasha	0.1451
+28	sensedisambiguation.replace	inuyasha	0.1451
+28	stem.krovetz	inuyasha	0.1451
+28	stem.porter	inuyasha	0.1451
+28	stem.porter2	inuyasha	0.1451
+28	stem.sstemmer	inuyasha	0.1451
+28	tagmee.topn3	inuyasha Inuyasha	0.1451
+28	tagmee.topn3.replace	Inuyasha	0.1451
+28	thesaurus.topn3	inuyasha	0.1451
+28	thesaurus.topn3.replace	inuyasha	0.1451
+28	wordnet.topn3	inuyasha	0.1451
+28	wordnet.topn3.replace	inuyasha	0.1451
+29	-1	ps 2 games	0.1463
+29	stem.krovetz	ps games	0.1463
+29	stem.porter	ps game	0.1463
+29	stem.porter2	ps game	0.1463
+29	stem.sstemmer	ps game	0.1463
+29	stem.trunc4	ps game	0.1463
+29	stem.trunc5	ps games	0.1463
+29	thesaurus.topn3	ps games	0.1463
+29	thesaurus.topn3.replace	ps games	0.1463
+3	-1	getting organized	0.3127
+3	rm3.topn10.10.0.5.bm25	getting organized	0.3127
+3	rm3.topn10.10.0.5.qld	getting organized	0.3127
+3	stem.krovetz	get organized	0.3127
+3	stem.porter2	get organ	0.3127
+3	stem.sstemmer	getting organized	0.3127
+3	tagmee.topn3	getting organized	0.3127
+3	thesaurus.topn3	getting organized	0.3127
+3	thesaurus.topn3.replace	getting organized	0.3127
+3	wiki.topn3	getting organized	0.3127
+30	-1	diabetes education	0.21
+30	anchor.topn3	diabetes education	0.21
+30	anchor.topn3.replace	diabetes education	0.21
+30	relevancefeedback.topn10.qld	diabetes education educ diabet	0.21
+30	rm3.topn10.10.0.5.bm25	diabetes education	0.21
+30	rm3.topn10.10.0.5.qld	diabetes education	0.21
+30	sensedisambiguation	diabetes education	0.21
+30	sensedisambiguation.replace	diabetes education	0.21
+30	stem.krovetz	diabetes education	0.21
+30	stem.paicehusk	diabet educ	0.21
+30	stem.porter	diabet educ	0.21
+30	stem.porter2	diabet educ	0.21
+30	stem.sstemmer	diabete education	0.21
+30	thesaurus.topn3	diabetes education	0.21
+30	thesaurus.topn3.replace	diabetes education	0.21
+31	-1	atari	0.375
+31	conceptnet.topn3	atari	0.375
+31	conceptnet.topn3.replace	atari	0.375
+31	rm3.topn10.10.0.5.bm25	atari	0.375
+31	rm3.topn10.10.0.5.qld	atari	0.375
+31	sensedisambiguation	atari	0.375
+31	sensedisambiguation.replace	atari	0.375
+31	stem.krovetz	atari	0.375
+31	stem.porter	atari	0.375
+31	stem.porter2	atari	0.375
+31	stem.sstemmer	atari	0.375
+31	stem.trunc5	atari	0.375
+31	tagmee.topn3	atari Atari	0.375
+31	tagmee.topn3.replace	Atari	0.375
+31	thesaurus.topn3	atari	0.375
+31	thesaurus.topn3.replace	atari	0.375
+31	wordnet.topn3	atari	0.375
+31	wordnet.topn3.replace	atari	0.375
+32	-1	website design hosting	0.1555
+32	rm3.topn10.10.0.5.bm25	website design hosting	0.1555
+32	rm3.topn10.10.0.5.qld	website design hosting	0.1555
+32	stem.krovetz	website design host	0.1555
+32	stem.lovins	websit design host	0.1555
+32	stem.paicehusk	websit design host	0.1555
+32	stem.porter	websit design host	0.1555
+32	stem.porter2	websit design host	0.1555
+32	stem.sstemmer	website design hosting	0.1555
+32	thesaurus.topn3	website design hosting	0.1555
+32	thesaurus.topn3.replace	website design hosting	0.1555
+33	-1	elliptical trainer	0.3532
+33	sensedisambiguation	elliptical elliptic trainer	0.3724
+33	conceptluster.topn5.3.bm25	elliptical trainer elliptical trainer mg manag fungi your plan	0.3534
+33	rm3.topn10.10.0.5.bm25	elliptical trainer	0.3532
+33	rm3.topn10.10.0.5.qld	elliptical trainer	0.3532
+33	sensedisambiguation.replace	elliptic trainer	0.3532
+33	stem.lovins	ellipt trainer	0.3532
+33	stem.porter	ellipt trainer	0.3532
+33	stem.porter2	ellipt trainer	0.3532
+33	stem.sstemmer	elliptical trainer	0.3532
+33	tagmee.topn3	elliptical trainer Elliptical trainer	0.3532
+33	tagmee.topn3.replace	Elliptical trainer	0.3532
+33	thesaurus.topn3	elliptical trainer	0.3532
+33	thesaurus.topn3.replace	elliptical trainer	0.3532
+34	-1	cell phones	0.0833
+34	glove.topn3	cell phones cellular telephones cellphones	0.2105
+34	conceptluster.topn5.3.bm25	cell phones mg manag fungi your plan	0.145
+34	termluster.topn5.3.bm25	cell phones mg manag fungi your plan	0.145
+34	docluster.topn10.3.bm25	cell phones mg manag fungi your plan busi should	0.131
+34	word2vec.topn3	cell phones cellular telephones handsets	0.1085
+34	wordnet.topn3	cell phones mobile phone cellular telephone cellular phone call ring speech sound	0.1048
+34	relevancefeedback.topn10.qld	cell phones phone revers	0.0849
+34	rm3.topn10.10.0.5.bm25	cell phones	0.0833
+34	rm3.topn10.10.0.5.qld	cell phones	0.0833
+34	stem.krovetz	cell phone	0.0833
+34	stem.porter	cell phone	0.0833
+34	stem.porter2	cell phone	0.0833
+34	stem.sstemmer	cell phone	0.0833
+34	stem.trunc5	cell phone	0.0833
+34	tagmee.topn3	cell phones	0.0833
+34	thesaurus.topn3	cell phones	0.0833
+34	thesaurus.topn3.replace	cell phones	0.0833
+34	wiki.topn3	cell phones	0.0833
+35	-1	hoboken	0.4495
+35	tagmee.topn3	hoboken Hoboken New Jersey	0.4815
+35	conceptnet.topn3	hoboken	0.4495
+35	conceptnet.topn3.replace	hoboken	0.4495
+35	rm3.topn10.10.0.5.bm25	hoboken	0.4495
+35	rm3.topn10.10.0.5.qld	hoboken	0.4495
+35	sensedisambiguation	hoboken	0.4495
+35	sensedisambiguation.replace	hoboken	0.4495
+35	stem.krovetz	hoboken	0.4495
+35	stem.porter	hoboken	0.4495
+35	stem.porter2	hoboken	0.4495
+35	stem.sstemmer	hoboken	0.4495
+35	thesaurus.topn3	hoboken	0.4495
+35	thesaurus.topn3.replace	hoboken	0.4495
+35	word2vec.topn3	hoboken	0.4495
+35	word2vec.topn3.replace	hoboken	0.4495
+35	wordnet.topn3	hoboken	0.4495
+35	wordnet.topn3.replace	hoboken	0.4495
+36	-1	gps	0.1411
+36	glove.topn3	gps positioning navigation	0.2926
+36	wiki.topn3	gps missile guidance geographical technology radio navigation global positioning system	0.187
+36	wiki.topn3.replace	missile guidance geographical technology radio navigation global positioning system	0.1525
+36	anchor.topn3	gps	0.1411
+36	anchor.topn3.replace	gps	0.1411
+36	rm3.topn10.10.0.5.bm25	gps	0.1411
+36	rm3.topn10.10.0.5.qld	gps	0.1411
+36	stem.krovetz	gps	0.1411
+36	stem.lovins	gp	0.1411
+36	stem.paicehusk	gps	0.1411
+36	stem.porter	gp	0.1411
+36	stem.porter2	gps	0.1411
+36	stem.sstemmer	gps	0.1411
+36	stem.trunc4	gps	0.1411
+36	stem.trunc5	gps	0.1411
+36	thesaurus.topn3	gps	0.1411
+36	thesaurus.topn3.replace	gps	0.1411
+37	-1	pampered chef	0.2212
+37	sensedisambiguation	pampered pamper chef	0.2233
+37	rm3.topn10.10.0.5.bm25	pampered chef	0.2212
+37	rm3.topn10.10.0.5.qld	pampered chef	0.2212
+37	sensedisambiguation.replace	pamper chef	0.2212
+37	stem.krovetz	pamper chef	0.2212
+37	stem.lovins	pamper chef	0.2212
+37	stem.porter	pamper chef	0.2212
+37	stem.porter2	pamper chef	0.2212
+37	stem.sstemmer	pampered chef	0.2212
+37	tagmee.topn3	pampered chef Pampered Chef	0.2212
+37	tagmee.topn3.replace	Pampered Chef	0.2212
+37	thesaurus.topn3	pampered chef	0.2212
+37	thesaurus.topn3.replace	pampered chef	0.2212
+37	wiki.topn3	pampered chef pampered chef	0.2212
+37	wiki.topn3.replace	pampered chef	0.2212
+38	-1	dogs for adoption	0.1384
+38	relevancefeedback.topn10.qld	dogs for adoption dog adopt	0.1384
+38	rm3.topn10.10.0.5.bm25	dogs for adoption	0.1384
+38	rm3.topn10.10.0.5.qld	dogs for adoption	0.1384
+38	stem.krovetz	dogs for adoption	0.1384
+38	stem.lovins	dog for adopt	0.1384
+38	stem.paicehusk	dog for adopt	0.1384
+38	stem.porter	dog for adopt	0.1384
+38	stem.porter2	dog for adopt	0.1384
+38	stem.sstemmer	dog for adoption	0.1384
+38	stem.trunc5	dogs for adopt	0.1384
+38	tagmee.topn3	dogs adoption	0.1384
+38	thesaurus.topn3	dogs adoption	0.1384
+38	thesaurus.topn3.replace	dogs adoption	0.1384
+38	wiki.topn3	dogs adoption	0.1384
+39	-1	disneyland hotel	0.1621
+39	tagmee.topn3	disneyland hotel Disneyland Hotel California	0.1997
+39	conceptluster.topn5.3.qld	disneyland hotel disneyland hotel california standard student object	0.1932
+39	tagmee.topn3.replace	Disneyland Hotel California	0.1718
+39	conceptluster.topn5.3.bm25	disneyland hotel disneyland hotel california mg manag fungi your plan	0.1678
+39	rm3.topn10.10.0.5.bm25	disneyland hotel	0.1621
+39	rm3.topn10.10.0.5.qld	disneyland hotel	0.1621
+39	sensedisambiguation	disneyland hotel	0.1621
+39	sensedisambiguation.replace	disneyland hotel	0.1621
+39	stem.krovetz	disneyland hotel	0.1621
+39	stem.lovins	disneyland hotel	0.1621
+39	stem.paicehusk	disneyland hotel	0.1621
+39	stem.porter	disneyland hotel	0.1621
+39	stem.porter2	disneyland hotel	0.1621
+39	stem.sstemmer	disneyland hotel	0.1621
+39	thesaurus.topn3	disneyland hotel	0.1621
+39	thesaurus.topn3.replace	disneyland hotel	0.1621
+39	wordnet.topn3	disneyland hotel	0.1621
+39	wordnet.topn3.replace	disneyland hotel	0.1621
+4	-1	toilet	0.1599
+4	conceptnet.topn3	toilet	0.1599
+4	conceptnet.topn3.replace	toilet	0.1599
+4	rm3.topn10.10.0.5.bm25	toilet	0.1599
+4	rm3.topn10.10.0.5.qld	toilet	0.1599
+4	sensedisambiguation	toilet	0.1599
+4	sensedisambiguation.replace	toilet	0.1599
+4	stem.krovetz	toilet	0.1599
+4	stem.paicehusk	toilet	0.1599
+4	stem.porter	toilet	0.1599
+4	stem.porter2	toilet	0.1599
+4	stem.sstemmer	toilet	0.1599
+4	tagmee.topn3	toilet	0.1599
+4	thesaurus.topn3	toilet	0.1599
+4	thesaurus.topn3.replace	toilet	0.1599
+4	wiki.topn3	toilet	0.1599
+40	-1	michworks	0.1695
+40	relevancefeedback.topn10.qld	michworks resum michigan bike i search work counti	0.2368
+40	relevancefeedback.topn10.bm25	michworks michigan search work bike counti	0.1862
+40	anchor.topn3	michworks	0.1695
+40	anchor.topn3.replace	michworks	0.1695
+40	conceptnet.topn3	michworks	0.1695
+40	conceptnet.topn3.replace	michworks	0.1695
+40	glove.topn3	michworks	0.1695
+40	glove.topn3.replace	michworks	0.1695
+40	rm3.topn10.10.0.5.bm25	michworks	0.1695
+40	rm3.topn10.10.0.5.qld	michworks	0.1695
+40	sensedisambiguation	michworks	0.1695
+40	sensedisambiguation.replace	michworks	0.1695
+40	stem.krovetz	michwork	0.1695
+40	stem.lovins	michwork	0.1695
+40	stem.paicehusk	michwork	0.1695
+40	stem.porter	michwork	0.1695
+40	stem.porter2	michwork	0.1695
+40	stem.sstemmer	michwork	0.1695
+40	tagmee.topn3	michworks	0.1695
+40	thesaurus.topn3	michworks	0.1695
+40	thesaurus.topn3.replace	michworks	0.1695
+40	wiki.topn3	michworks	0.1695
+40	word2vec.topn3	michworks	0.1695
+40	word2vec.topn3.replace	michworks	0.1695
+40	wordnet.topn3	michworks	0.1695
+40	wordnet.topn3.replace	michworks	0.1695
+41	-1	orange county convention center	0.228
+41	rm3.topn10.10.0.5.bm25	orange county convention center	0.228
+41	rm3.topn10.10.0.5.qld	orange county convention center	0.228
+41	stem.krovetz	orange county convention center	0.228
+41	stem.porter	orang counti convent center	0.228
+41	stem.porter2	orang counti convent center	0.228
+41	stem.sstemmer	orange county convention center	0.228
+41	tagmee.topn3	orange county convention center Orange County Convention Center	0.228
+41	tagmee.topn3.replace	Orange County Convention Center	0.228
+41	thesaurus.topn3	orange county convention center	0.228
+41	thesaurus.topn3.replace	orange county convention center	0.228
+42	-1	the music man	0.0
+43	-1	the secret garden	0.4045
+43	wiki.topn3	secret garden novels frances hodgson burnett littlwomen thchristmas miraclof jonathan toomey secret garden	0.6788
+43	wiki.topn3.replace	novels frances hodgson burnett littlwomen thchristmas miraclof jonathan toomey secret garden	0.5835
+43	rm3.topn10.10.0.5.bm25	the secret garden	0.4045
+43	rm3.topn10.10.0.5.qld	the secret garden	0.4045
+43	stem.krovetz	the secret garden	0.4045
+43	stem.porter	the secret garden	0.4045
+43	stem.porter2	the secret garden	0.4045
+43	stem.sstemmer	the secret garden	0.4045
+43	tagmee.topn3	secret garden The Secret Garden	0.4045
+43	tagmee.topn3.replace	The Secret Garden	0.4045
+43	thesaurus.topn3	secret garden	0.4045
+43	thesaurus.topn3.replace	secret garden	0.4045
+44	-1	map of the united states	0.0822
+44	rm3.topn10.10.0.5.bm25	map of the united states	0.0822
+44	rm3.topn10.10.0.5.qld	map of the united states	0.0822
+44	stem.krovetz	map of the united states	0.0822
+44	stem.porter	map of the unit state	0.0822
+44	stem.porter2	map of the unit state	0.0822
+44	stem.sstemmer	map of the united state	0.0822
+44	stem.trunc5	map of the unite state	0.0822
+44	thesaurus.topn3	map united states	0.0822
+44	thesaurus.topn3.replace	map united states	0.0822
+45	-1	solar panels	0.278
+45	relevancefeedback.topn10.qld	solar panels panel	0.2823
+45	sensedisambiguation	solar panels panel	0.2823
+45	rm3.topn10.10.0.5.bm25	solar panels	0.278
+45	rm3.topn10.10.0.5.qld	solar panels	0.278
+45	sensedisambiguation.replace	solar panel	0.278
+45	stem.krovetz	solar panel	0.278
+45	stem.porter	solar panel	0.278
+45	stem.porter2	solar panel	0.278
+45	stem.sstemmer	solar panel	0.278
+45	stem.trunc5	solar panel	0.278
+45	tagmee.topn3	solar panels	0.278
+45	thesaurus.topn3	solar panels	0.278
+45	thesaurus.topn3.replace	solar panels	0.278
+45	wiki.topn3	solar panels	0.278
+46	-1	alexian brothers hospital	0.5105
+46	rm3.topn10.10.0.5.bm25	alexian brothers hospital	0.5105
+46	rm3.topn10.10.0.5.qld	alexian brothers hospital	0.5105
+46	stem.krovetz	alexian brother hospital	0.5105
+46	stem.porter	alexian brother hospit	0.5105
+46	stem.porter2	alexian brother hospit	0.5105
+46	stem.sstemmer	alexian brother hospital	0.5105
+46	thesaurus.topn3	alexian brothers hospital	0.5105
+46	thesaurus.topn3.replace	alexian brothers hospital	0.5105
+47	-1	indexed annuity	0.3216
+47	sensedisambiguation	indexed index annuity	0.3421
+47	anchor.topn3	indexed annuity	0.3216
+47	anchor.topn3.replace	indexed annuity	0.3216
+47	rm3.topn10.10.0.5.bm25	indexed annuity	0.3216
+47	rm3.topn10.10.0.5.qld	indexed annuity	0.3216
+47	sensedisambiguation.replace	index annuity	0.3216
+47	stem.krovetz	index annuity	0.3216
+47	stem.porter	index annuiti	0.3216
+47	stem.porter2	index annuiti	0.3216
+47	stem.sstemmer	indexed annuity	0.3216
+47	thesaurus.topn3	indexed annuity	0.3216
+47	thesaurus.topn3.replace	indexed annuity	0.3216
+48	-1	wilson antenna	0.1098
+48	relevancefeedback.topn10.qld	wilson antenna cb http	0.2021
+48	conceptluster.topn5.3.bm25	wilson antenna antenna radio robert woodrow wilson bed toilet dusseldorf hote	0.1194
+48	tagmee.topn3	wilson antenna Robert Woodrow Wilson Antenna radio	0.1165
+48	conceptluster.topn5.3.qld	wilson antenna robert woodrow wilson antenna radio dusseldorf room apart	0.1152
+48	rm3.topn10.10.0.5.bm25	wilson antenna	0.1098
+48	rm3.topn10.10.0.5.qld	wilson antenna	0.1098
+48	sensedisambiguation	wilson antenna	0.1098
+48	sensedisambiguation.replace	wilson antenna	0.1098
+48	stem.krovetz	wilson antenna	0.1098
+48	stem.porter	wilson antenna	0.1098
+48	stem.porter2	wilson antenna	0.1098
+48	stem.sstemmer	wilson antenna	0.1098
+48	thesaurus.topn3	wilson antenna	0.1098
+48	thesaurus.topn3.replace	wilson antenna	0.1098
+49	-1	flame designs	0.2795
+49	relevancefeedback.topn10.bm25	flame designs nebula game clipart	0.4265
+49	rm3.topn10.10.0.5.bm25	flame designs	0.2795
+49	rm3.topn10.10.0.5.qld	flame designs	0.2795
+49	stem.krovetz	flame designs	0.2795
+49	stem.porter	flame design	0.2795
+49	stem.porter2	flame design	0.2795
+49	stem.sstemmer	flame design	0.2795
+49	thesaurus.topn3	flame designs	0.2795
+49	thesaurus.topn3.replace	flame designs	0.2795
+49	word2vec.topn3	flame designs	0.2795
+49	word2vec.topn3.replace	flame designs	0.2795
+5	-1	mitchell college	0.0167
+5	anchor.topn3	mitchell college	0.0167
+5	anchor.topn3.replace	mitchell college	0.0167
+5	rm3.topn10.10.0.5.bm25	mitchell college	0.0167
+5	rm3.topn10.10.0.5.qld	mitchell college	0.0167
+5	sensedisambiguation	mitchell college	0.0167
+5	sensedisambiguation.replace	mitchell college	0.0167
+5	stem.krovetz	mitchell college	0.0167
+5	stem.lovins	mitchel colleg	0.0167
+5	stem.paicehusk	mitchel colleg	0.0167
+5	stem.porter	mitchel colleg	0.0167
+5	stem.porter2	mitchel colleg	0.0167
+5	stem.sstemmer	mitchell college	0.0167
+5	tagmee.topn3	mitchell college	0.0167
+5	thesaurus.topn3	mitchell college	0.0167
+5	thesaurus.topn3.replace	mitchell college	0.0167
+5	wiki.topn3	mitchell college	0.0167
+50	-1	dog heat	0.0706
+50	rm3.topn10.10.0.5.bm25	dog heat	0.0706
+50	rm3.topn10.10.0.5.qld	dog heat	0.0706
+50	stem.krovetz	dog heat	0.0706
+50	stem.lovins	dog heat	0.0706
+50	stem.paicehusk	dog heat	0.0706
+50	stem.porter	dog heat	0.0706
+50	stem.porter2	dog heat	0.0706
+50	stem.sstemmer	dog heat	0.0706
+50	stem.trunc4	dog heat	0.0706
+50	stem.trunc5	dog heat	0.0706
+50	thesaurus.topn3	dog heat	0.0706
+50	thesaurus.topn3.replace	dog heat	0.0706
+6	-1	kcs	0.0
+7	-1	air travel information	0.308
+7	rm3.topn10.10.0.5.bm25	air travel information	0.308
+7	rm3.topn10.10.0.5.qld	air travel information	0.308
+7	stem.krovetz	air travel information	0.308
+7	stem.lovins	air travel inform	0.308
+7	stem.paicehusk	air travel inform	0.308
+7	stem.porter	air travel inform	0.308
+7	stem.porter2	air travel inform	0.308
+7	stem.sstemmer	air travel information	0.308
+7	termluster.topn5.3.qld	air travel information	0.308
+7	thesaurus.topn3	air travel information	0.308
+7	thesaurus.topn3.replace	air travel information	0.308
+8	-1	appraisals	0.0147
+8	conceptnet.topn3	appraisals establish a worth	0.0294
+8	anchor.topn3	appraisals	0.0147
+8	anchor.topn3.replace	appraisals	0.0147
+8	rm3.topn10.10.0.5.bm25	appraisals	0.0147
+8	rm3.topn10.10.0.5.qld	appraisals	0.0147
+8	sensedisambiguation	appraisals appraisal	0.0147
+8	sensedisambiguation.replace	appraisal	0.0147
+8	stem.krovetz	appraisal	0.0147
+8	stem.sstemmer	appraisal	0.0147
+8	tagmee.topn3	appraisals	0.0147
+8	thesaurus.topn3	appraisals	0.0147
+8	thesaurus.topn3.replace	appraisals	0.0147
+8	wiki.topn3	appraisals	0.0147
+9	-1	used car parts	0.1166
+9	docluster.topn10.3.qld	used car parts part figur us auto	0.1585
+9	relevancefeedback.topn10.qld	used car parts part figur us auto	0.1585
+9	conceptluster.topn5.3.qld	used car parts part	0.1521
+9	termluster.topn5.3.qld	used car parts part	0.1521
+9	docluster.topn10.3.bm25	used car parts figur auto direct game object part string f you	0.1228
+9	relevancefeedback.topn10.bm25	used car parts figur auto direct game object part string f you	0.1228
+9	rm3.topn10.10.0.5.bm25	used car parts	0.1166
+9	rm3.topn10.10.0.5.qld	used car parts	0.1166
+9	stem.krovetz	use car parts	0.1166
+9	stem.lovins	us car part	0.1166
+9	stem.paicehusk	us car part	0.1166
+9	stem.porter	us car part	0.1166
+9	stem.porter2	use car part	0.1166
+9	stem.sstemmer	used car part	0.1166
+9	stem.trunc4	used car part	0.1166
+9	stem.trunc5	used car parts	0.1166
+9	tagmee.topn3	used car parts	0.1166
+9	thesaurus.topn3	used car parts	0.1166
+9	thesaurus.topn3.replace	used car parts	0.1166
+9	wiki.topn3	used car parts	0.1166
+51	-1	horse hooves	0.3072
+51	rm3.topn10.10.0.5.bm25	horse hooves	0.3072
+51	rm3.topn10.10.0.5.qld	horse hooves	0.3072
+51	stem.krovetz	horse hooves	0.3072
+51	stem.sstemmer	horse hoove	0.3072
+51	stem.trunc5	horse hoove	0.3072
+51	tagmee.topn3	horse hooves	0.3072
+51	thesaurus.topn3	horse hooves	0.3072
+51	thesaurus.topn3.replace	horse hooves	0.3072
+51	wiki.topn3	horse hooves	0.3072
+52	-1	avp	0.3249
+52	rm3.topn10.10.0.5.bm25	avp	0.3249
+52	rm3.topn10.10.0.5.qld	avp	0.3249
+52	sensedisambiguation	avp	0.3249
+52	sensedisambiguation.replace	avp	0.3249
+52	stem.krovetz	avp	0.3249
+52	stem.lovins	avp	0.3249
+52	stem.paicehusk	avp	0.3249
+52	stem.porter	avp	0.3249
+52	stem.porter2	avp	0.3249
+52	stem.sstemmer	avp	0.3249
+52	stem.trunc4	avp	0.3249
+52	stem.trunc5	avp	0.3249
+52	thesaurus.topn3	avp	0.3249
+52	thesaurus.topn3.replace	avp	0.3249
+52	wordnet.topn3	avp	0.3249
+52	wordnet.topn3.replace	avp	0.3249
+53	-1	discovery channel store	0.1131
+53	rm3.topn10.10.0.5.bm25	discovery channel store	0.1131
+53	rm3.topn10.10.0.5.qld	discovery channel store	0.1131
+53	stem.krovetz	discovery channel store	0.1131
+53	stem.porter	discoveri channel store	0.1131
+53	stem.porter2	discoveri channel store	0.1131
+53	stem.sstemmer	discovery channel store	0.1131
+53	thesaurus.topn3	discovery channel store	0.1131
+53	thesaurus.topn3.replace	discovery channel store	0.1131
+54	-1	president of the united states	0.1371
+54	word2vec.topn3	president united states vice president unified sates states	0.2889
+54	wiki.topn3.replace	presidency united states cabinet united states democratiparty vice presidents united states president united states	0.268
+54	wiki.topn3	president united states presidency united states cabinet united states democratiparty vice presidents united states president united states	0.2153
+54	relevancefeedback.topn10.qld	president of the united states state larg articl shall	0.2052
+54	rm3.topn10.10.0.5.bm25	president of the united states	0.1371
+54	rm3.topn10.10.0.5.qld	president of the united states	0.1371
+54	stem.krovetz	president of the united states	0.1371
+54	stem.porter	presid of the unit state	0.1371
+54	stem.porter2	presid of the unit state	0.1371
+54	stem.sstemmer	president of the united state	0.1371
+54	tagmee.topn3	president united states President of the United States	0.1371
+54	tagmee.topn3.replace	President of the United States	0.1371
+54	thesaurus.topn3	president united states	0.1371
+54	thesaurus.topn3.replace	president united states	0.1371
+55	-1	iron	0.0623
+55	wordnet.topn3	iron smoothing iron atomic number	0.1972
+55	rm3.topn10.10.0.5.bm25	iron	0.0623
+55	rm3.topn10.10.0.5.qld	iron	0.0623
+55	sensedisambiguation	iron	0.0623
+55	sensedisambiguation.replace	iron	0.0623
+55	stem.krovetz	iron	0.0623
+55	stem.lovins	iron	0.0623
+55	stem.paicehusk	iron	0.0623
+55	stem.porter	iron	0.0623
+55	stem.porter2	iron	0.0623
+55	stem.sstemmer	iron	0.0623
+55	stem.trunc4	iron	0.0623
+55	stem.trunc5	iron	0.0623
+55	tagmee.topn3	iron	0.0623
+55	thesaurus.topn3	iron	0.0623
+55	thesaurus.topn3.replace	iron	0.0623
+55	wiki.topn3	iron	0.0623
+56	-1	uss yorktown charleston sc	0.0945
+56	tagmee.topn3.replace	USS Yorktown CV Charleston South Carolina	0.1892
+56	bertqe.topn10.qld	yorktown jcpenni yorktown yorktown theater	0.1879
+56	tagmee.topn3	uss yorktown charleston sc USS Yorktown CV Charleston South Carolina	0.1482
+56	conceptluster.topn5.3.bm25	uss yorktown charleston sc charleston south carolina uss yorktown cv univers wand us math hunt	0.1445
+56	conceptluster.topn5.3.qld	uss yorktown charleston sc charleston south carolina uss yorktown cv depauw colleg mi	0.1179
+56	relevancefeedback.topn10.bm25	uss yorktown charleston sc carolina program aircraft pleasant discharg museum	0.1062
+56	docluster.topn10.3.bm25	uss yorktown charleston sc univers wand us math hunt we can annapoli danc data	0.0973
+56	rm3.topn10.10.0.5.bm25	uss yorktown charleston sc	0.0945
+56	rm3.topn10.10.0.5.qld	uss yorktown charleston sc	0.0945
+56	stem.krovetz	uss yorktown charleston sc	0.0945
+56	stem.paicehusk	uss yorktown charleston sc	0.0945
+56	stem.porter	uss yorktown charleston sc	0.0945
+56	stem.porter2	uss yorktown charleston sc	0.0945
+56	stem.sstemmer	uss yorktown charleston sc	0.0945
+56	thesaurus.topn3	uss yorktown charleston sc	0.0945
+56	thesaurus.topn3.replace	uss yorktown charleston sc	0.0945
+57	-1	ct jobs	0.2061
+57	rm3.topn10.10.0.5.bm25	ct jobs	0.2061
+57	rm3.topn10.10.0.5.qld	ct jobs	0.2061
+57	stem.krovetz	ct job	0.2061
+57	stem.lovins	ct job	0.2061
+57	stem.paicehusk	ct job	0.2061
+57	stem.porter	ct job	0.2061
+57	stem.porter2	ct job	0.2061
+57	stem.sstemmer	ct job	0.2061
+57	stem.trunc4	ct jobs	0.2061
+57	stem.trunc5	ct jobs	0.2061
+57	thesaurus.topn3	ct jobs	0.2061
+57	thesaurus.topn3.replace	ct jobs	0.2061
+58	-1	penguins	0.2528
+58	anchor.topn3	penguins	0.2528
+58	anchor.topn3.replace	penguins	0.2528
+58	rm3.topn10.10.0.5.bm25	penguins	0.2528
+58	rm3.topn10.10.0.5.qld	penguins	0.2528
+58	sensedisambiguation	penguins penguin	0.2528
+58	sensedisambiguation.replace	penguin	0.2528
+58	stem.krovetz	penguin	0.2528
+58	stem.lovins	penguin	0.2528
+58	stem.paicehusk	penguin	0.2528
+58	stem.porter	penguin	0.2528
+58	stem.porter2	penguin	0.2528
+58	stem.sstemmer	penguin	0.2528
+58	tagmee.topn3	penguins	0.2528
+58	thesaurus.topn3	penguins	0.2528
+58	thesaurus.topn3.replace	penguins	0.2528
+58	wiki.topn3	penguins	0.2528
+58	wordnet.topn3	penguins	0.2528
+58	wordnet.topn3.replace	penguins	0.2528
+59	-1	how to build a fence	0.0471
+59	conceptnet.topn3	build fence construct a board make gate get an sword post	0.0974
+59	tagmee.topn3	build fence	0.0854
+59	thesaurus.topn3	build fence	0.0854
+59	thesaurus.topn3.replace	build fence	0.0854
+59	wiki.topn3	build fence	0.0854
+59	relevancefeedback.topn10.bm25	how to build a fence fenc shed you dog weapon	0.085
+59	rm3.topn10.10.0.5.bm25	how to build a fence	0.0471
+59	rm3.topn10.10.0.5.qld	how to build a fence	0.0471
+59	stem.krovetz	how to build a fence	0.0471
+59	stem.lovins	how to build a fenc	0.0471
+59	stem.porter	how to build a fenc	0.0471
+59	stem.porter2	how to build a fenc	0.0471
+59	stem.sstemmer	how to build a fence	0.0471
+59	stem.trunc5	how to build a fence	0.0471
+60	-1	bellevue	0.1587
+60	anchor.topn3	bellevue	0.1587
+60	anchor.topn3.replace	bellevue	0.1587
+60	rm3.topn10.10.0.5.bm25	bellevue	0.1587
+60	rm3.topn10.10.0.5.qld	bellevue	0.1587
+60	sensedisambiguation	bellevue	0.1587
+60	sensedisambiguation.replace	bellevue	0.1587
+60	stem.krovetz	bellevue	0.1587
+60	stem.lovins	bellevu	0.1587
+60	stem.paicehusk	bellevu	0.1587
+60	stem.porter	bellevu	0.1587
+60	stem.porter2	bellevu	0.1587
+60	stem.sstemmer	bellevue	0.1587
+60	tagmee.topn3	bellevue	0.1587
+60	thesaurus.topn3	bellevue	0.1587
+60	thesaurus.topn3.replace	bellevue	0.1587
+60	wiki.topn3	bellevue	0.1587
+60	word2vec.topn3	bellevue	0.1587
+60	word2vec.topn3.replace	bellevue	0.1587
+60	wordnet.topn3	bellevue	0.1587
+60	wordnet.topn3.replace	bellevue	0.1587
+61	-1	worm	0.0951
+61	rm3.topn10.10.0.5.bm25	worm	0.0951
+61	rm3.topn10.10.0.5.qld	worm	0.0951
+61	sensedisambiguation	worm	0.0951
+61	sensedisambiguation.replace	worm	0.0951
+61	stem.krovetz	worm	0.0951
+61	stem.lovins	worm	0.0951
+61	stem.paicehusk	worm	0.0951
+61	stem.porter	worm	0.0951
+61	stem.porter2	worm	0.0951
+61	stem.sstemmer	worm	0.0951
+61	stem.trunc4	worm	0.0951
+61	stem.trunc5	worm	0.0951
+61	tagmee.topn3	worm	0.0951
+61	thesaurus.topn3	worm	0.0951
+61	thesaurus.topn3.replace	worm	0.0951
+61	wiki.topn3	worm	0.0951
+62	-1	texas border patrol	0.4564
+62	wiki.topn3.replace	texas states confederate states america louisiana texas united states border patrol el paso intelligenccenter u s customs border protection united states border patrol	0.5071
+62	wiki.topn3	texas border patrol texas states confederate states america louisiana texas united states border patrol el paso intelligenccenter u s customs border protection united states border patrol	0.5062
+62	tagmee.topn3.replace	Texas United States Border Patrol	0.4681
+62	tagmee.topn3	texas border patrol Texas United States Border Patrol	0.4603
+62	conceptluster.topn5.3.qld	texas border patrol united states border patrol texas c	0.4602
+62	conceptluster.topn5.3.bm25	texas border patrol united states border patrol texas c print dropbox read team	0.4595
+62	relevancefeedback.topn10.qld	texas border patrol	0.4564
+62	rm3.topn10.10.0.5.bm25	texas border patrol	0.4564
+62	rm3.topn10.10.0.5.qld	texas border patrol	0.4564
+62	stem.krovetz	texas border patrol	0.4564
+62	stem.porter	texa border patrol	0.4564
+62	stem.porter2	texa border patrol	0.4564
+62	stem.sstemmer	texa border patrol	0.4564
+62	thesaurus.topn3	texas border patrol	0.4564
+62	thesaurus.topn3.replace	texas border patrol	0.4564
+63	-1	flushing	0.2288
+63	tagmee.topn3	flushing Flushing Queens	0.3422
+63	conceptluster.topn5.3.qld	flushing flushing queens c	0.332
+63	conceptluster.topn5.3.bm25	flushing flushing queens c print dropbox read team	0.2939
+63	tagmee.topn3.replace	Flushing Queens	0.2438
+63	anchor.topn3	flushing	0.2288
+63	anchor.topn3.replace	flushing	0.2288
+63	conceptnet.topn3	flushing	0.2288
+63	conceptnet.topn3.replace	flushing	0.2288
+63	rm3.topn10.10.0.5.bm25	flushing	0.2288
+63	rm3.topn10.10.0.5.qld	flushing	0.2288
+63	stem.krovetz	flush	0.2288
+63	stem.lovins	flush	0.2288
+63	stem.paicehusk	flush	0.2288
+63	stem.porter	flush	0.2288
+63	stem.porter2	flush	0.2288
+63	stem.sstemmer	flushing	0.2288
+63	stem.trunc5	flush	0.2288
+63	thesaurus.topn3	flushing	0.2288
+63	thesaurus.topn3.replace	flushing	0.2288
+63	word2vec.topn3	flushing	0.2288
+63	word2vec.topn3.replace	flushing	0.2288
+64	-1	moths	0.2244
+64	anchor.topn3	moths	0.2244
+64	anchor.topn3.replace	moths	0.2244
+64	rm3.topn10.10.0.5.bm25	moths	0.2244
+64	rm3.topn10.10.0.5.qld	moths	0.2244
+64	sensedisambiguation	moths moth	0.2244
+64	sensedisambiguation.replace	moth	0.2244
+64	stem.krovetz	moth	0.2244
+64	stem.lovins	moth	0.2244
+64	stem.paicehusk	moth	0.2244
+64	stem.porter	moth	0.2244
+64	stem.porter2	moth	0.2244
+64	stem.sstemmer	moth	0.2244
+64	stem.trunc4	moth	0.2244
+64	stem.trunc5	moths	0.2244
+64	tagmee.topn3	moths	0.2244
+64	thesaurus.topn3	moths	0.2244
+64	thesaurus.topn3.replace	moths	0.2244
+64	wiki.topn3	moths	0.2244
+64	wordnet.topn3	moths	0.2244
+64	wordnet.topn3.replace	moths	0.2244
+65	-1	korean language	0.2702
+65	glove.topn3	korean language korea word	0.463
+65	wiki.topn3	korean language languages north korea languages korea buyeo languages korean language	0.3815
+65	wiki.topn3.replace	languages north korea languages korea buyeo languages korean language	0.3728
+65	relevancefeedback.topn10.qld	korean language languag word peopl talk said	0.299
+65	stem.krovetz	korea language	0.2936
+65	conceptluster.topn5.3.bm25	korean language korean language c print dropbox read team	0.2802
+65	conceptluster.topn5.3.qld	korean language korean language c	0.2758
+65	termluster.topn5.3.qld	korean language c	0.2753
+65	rm3.topn10.10.0.5.bm25	korean language	0.2702
+65	rm3.topn10.10.0.5.qld	korean language	0.2702
+65	stem.porter	korean languag	0.2702
+65	stem.porter2	korean languag	0.2702
+65	stem.sstemmer	korean language	0.2702
+65	tagmee.topn3	korean language Korean language	0.2702
+65	tagmee.topn3.replace	Korean language	0.2702
+65	thesaurus.topn3	korean language	0.2702
+65	thesaurus.topn3.replace	korean language	0.2702
+66	-1	income tax return online	0.0237
+66	termluster.topn5.3.bm25	income tax return online c print dropbox read team	0.0295
+66	docluster.topn10.3.bm25	income tax return online c print dropbox read team set imag	0.0284
+66	rm3.topn10.10.0.5.bm25	income tax return online	0.0237
+66	rm3.topn10.10.0.5.qld	income tax return online	0.0237
+66	stem.krovetz	income tax return online	0.0237
+66	stem.paicehusk	incom tax return onlin	0.0237
+66	stem.porter	incom tax return onlin	0.0237
+66	stem.porter2	incom tax return onlin	0.0237
+66	stem.sstemmer	income tax return online	0.0237
+66	thesaurus.topn3	income tax return online	0.0237
+66	thesaurus.topn3.replace	income tax return online	0.0237
+67	-1	vldl levels	0.2025
+67	stem.trunc4	vldl leve	0.3005
+67	wordnet.topn3	vldl levels very low density lipoprotein horizontal surface tear down	0.224
+67	tagmee.topn3	vldl levels Very low density lipoprotein	0.2079
+67	rm3.topn10.10.0.5.bm25	vldl levels	0.2025
+67	rm3.topn10.10.0.5.qld	vldl levels	0.2025
+67	stem.krovetz	vldl level	0.2025
+67	stem.lovins	vldl level	0.2025
+67	stem.paicehusk	vldl level	0.2025
+67	stem.porter	vldl level	0.2025
+67	stem.porter2	vldl level	0.2025
+67	stem.sstemmer	vldl level	0.2025
+67	stem.trunc5	vldl level	0.2025
+67	thesaurus.topn3	vldl levels	0.2025
+67	thesaurus.topn3.replace	vldl levels	0.2025
+68	-1	pvc	0.1471
+68	wordnet.topn3	pvc premature ventricular contraction polyvinyl chloride	0.2336
+68	wordnet.topn3.replace	premature ventricular contraction polyvinyl chloride	0.2075
+68	tagmee.topn3	pvc Polyvinyl chloride	0.1991
+68	conceptluster.topn5.3.qld	pvc polyvinyl chloride c	0.1749
+68	conceptluster.topn5.3.bm25	pvc polyvinyl chloride c print dropbox read team	0.1674
+68	conceptnet.topn3	pvc	0.1471
+68	conceptnet.topn3.replace	pvc	0.1471
+68	rm3.topn10.10.0.5.bm25	pvc	0.1471
+68	rm3.topn10.10.0.5.qld	pvc	0.1471
+68	stem.krovetz	pvc	0.1471
+68	stem.lovins	pvc	0.1471
+68	stem.paicehusk	pvc	0.1471
+68	stem.porter	pvc	0.1471
+68	stem.porter2	pvc	0.1471
+68	stem.sstemmer	pvc	0.1471
+68	stem.trunc4	pvc	0.1471
+68	stem.trunc5	pvc	0.1471
+68	thesaurus.topn3	pvc	0.1471
+68	thesaurus.topn3.replace	pvc	0.1471
+69	-1	sewing instructions	0.2965
+69	anchor.topn3	sewing instructions	0.2965
+69	anchor.topn3.replace	sewing instructions	0.2965
+69	rm3.topn10.10.0.5.bm25	sewing instructions	0.2965
+69	rm3.topn10.10.0.5.qld	sewing instructions	0.2965
+69	stem.krovetz	sewing instruction	0.2965
+69	stem.paicehusk	sew instruct	0.2965
+69	stem.porter	sew instruct	0.2965
+69	stem.porter2	sew instruct	0.2965
+69	stem.sstemmer	sewing instruction	0.2965
+69	tagmee.topn3	sewing instructions	0.2965
+69	thesaurus.topn3	sewing instructions	0.2965
+69	thesaurus.topn3.replace	sewing instructions	0.2965
+69	wiki.topn3	sewing instructions	0.2965
+70	-1	to be or not to be that is the question	0.0
+71	-1	living in india	0.0
+71	wiki.topn3	living india states territories established india hindustani speaking countries territories india	0.0389
+71	wiki.topn3.replace	states territories established india hindustani speaking countries territories india	0.0361
+71	word2vec.topn3	living india non living pakistan indian nepal	0.0356
+71	wordnet.topn3	living india populate dwell experience Republic of India Bharat	0.027
+71	wordnet.topn3.replace	populate dwell experience Republic of India Bharat	0.0256
+71	conceptnet.topn3	living india home room house a temple a country in Asia a very populous country	0.0154
+71	word2vec.topn3.replace	non living pakistan indian nepal	0.0154
+71	relevancefeedback.topn10.qld	living in india object live exam hplc bangalor tv	0.0135
+71	glove.topn3	living india indian pakistan	0.0107
+71	glove.topn3.replace	living indian pakistan	0.0087
+71	tagmee.topn3	living india India	0.0069
+71	conceptluster.topn5.3.bm25	living india india energi acceler object	0.0054
+72	-1	the sun	0.0
+72	sensedisambiguation	the sun sunlight	0.02
+72	glove.topn3	sun bright sky	0.0177
+72	word2vec.topn3	sun sunlight sunshine sun	0.0113
+72	word2vec.topn3.replace	sunlight sunshine sun	0.0052
+73	-1	neil young	0.2861
+73	conceptluster.topn5.3.qld	neil young neil young air	0.2923
+73	relevancefeedback.topn10.qld	neil young	0.2861
+73	rm3.topn10.10.0.5.bm25	neil young	0.2861
+73	rm3.topn10.10.0.5.qld	neil young	0.2861
+73	stem.krovetz	neil young	0.2861
+73	stem.lovins	neil young	0.2861
+73	stem.paicehusk	neil young	0.2861
+73	stem.porter	neil young	0.2861
+73	stem.porter2	neil young	0.2861
+73	stem.sstemmer	neil young	0.2861
+73	stem.trunc5	neil young	0.2861
+73	tagmee.topn3	neil young Neil Young	0.2861
+73	tagmee.topn3.replace	Neil Young	0.2861
+73	thesaurus.topn3	neil young	0.2861
+73	thesaurus.topn3.replace	neil young	0.2861
+74	-1	kiwi	0.0177
+74	word2vec.topn3	kiwi kiwifruit	0.182
+74	conceptnet.topn3	kiwi edible fruit	0.0937
+74	word2vec.topn3.replace	kiwifruit	0.0778
+74	wordnet.topn3	kiwi apteryx Chinese gooseberry Actinidia deliciosa	0.0631
+74	wordnet.topn3.replace	apteryx Chinese gooseberry Actinidia deliciosa	0.0584
+74	rm3.topn10.10.0.5.bm25	kiwi	0.0177
+74	rm3.topn10.10.0.5.qld	kiwi	0.0177
+74	stem.krovetz	kiwi	0.0177
+74	stem.porter	kiwi	0.0177
+74	stem.porter2	kiwi	0.0177
+74	stem.sstemmer	kiwi	0.0177
+74	stem.trunc4	kiwi	0.0177
+74	stem.trunc5	kiwi	0.0177
+74	tagmee.topn3	kiwi Kiwi	0.0177
+74	tagmee.topn3.replace	Kiwi	0.0177
+74	thesaurus.topn3	kiwi	0.0177
+74	thesaurus.topn3.replace	kiwi	0.0177
+75	-1	tornadoes	0.3563
+75	anchor.topn3	tornadoes	0.3563
+75	anchor.topn3.replace	tornadoes	0.3563
+75	rm3.topn10.10.0.5.bm25	tornadoes	0.3563
+75	rm3.topn10.10.0.5.qld	tornadoes	0.3563
+75	sensedisambiguation	tornadoes tornado	0.3563
+75	sensedisambiguation.replace	tornado	0.3563
+75	stem.krovetz	tornado	0.3563
+75	stem.lovins	tornado	0.3563
+75	stem.paicehusk	tornado	0.3563
+75	stem.porter	tornado	0.3563
+75	stem.porter2	tornado	0.3563
+75	stem.sstemmer	tornadoe	0.3563
+75	tagmee.topn3	tornadoes	0.3563
+75	thesaurus.topn3	tornadoes	0.3563
+75	thesaurus.topn3.replace	tornadoes	0.3563
+75	wiki.topn3	tornadoes	0.3563
+76	-1	raised gardens	0.2611
+76	anchor.topn3	raised gardens	0.2611
+76	anchor.topn3.replace	raised gardens	0.2611
+76	rm3.topn10.10.0.5.bm25	raised gardens	0.2611
+76	rm3.topn10.10.0.5.qld	raised gardens	0.2611
+76	stem.krovetz	raise garden	0.2611
+76	stem.sstemmer	raised garden	0.2611
+76	tagmee.topn3	raised gardens	0.2611
+76	thesaurus.topn3	raised gardens	0.2611
+76	thesaurus.topn3.replace	raised gardens	0.2611
+76	wiki.topn3	raised gardens	0.2611
+76	word2vec.topn3	raised gardens	0.2611
+76	word2vec.topn3.replace	raised gardens	0.2611
+77	-1	bobcat	0.1386
+77	conceptnet.topn3	bobcat	0.1386
+77	conceptnet.topn3.replace	bobcat	0.1386
+77	rm3.topn10.10.0.5.bm25	bobcat	0.1386
+77	rm3.topn10.10.0.5.qld	bobcat	0.1386
+77	sensedisambiguation	bobcat	0.1386
+77	sensedisambiguation.replace	bobcat	0.1386
+77	stem.krovetz	bobcat	0.1386
+77	stem.lovins	bobcat	0.1386
+77	stem.porter	bobcat	0.1386
+77	stem.porter2	bobcat	0.1386
+77	stem.sstemmer	bobcat	0.1386
+77	tagmee.topn3	bobcat Bobcat	0.1386
+77	tagmee.topn3.replace	Bobcat	0.1386
+77	thesaurus.topn3	bobcat	0.1386
+77	thesaurus.topn3.replace	bobcat	0.1386
+78	-1	dieting	0.0082
+78	wiki.topn3	dieting food faddism junk food macrobiotic diet dieting	0.0945
+78	wiki.topn3.replace	food faddism junk food macrobiotic diet dieting	0.0908
+78	conceptluster.topn5.3.bm25	dieting dieting energi acceler object	0.0223
+78	conceptluster.topn5.3.qld	dieting dieting air	0.0168
+78	termluster.topn5.3.qld	dieting air	0.0088
+78	anchor.topn3	dieting	0.0082
+78	anchor.topn3.replace	dieting	0.0082
+78	conceptnet.topn3	dieting	0.0082
+78	conceptnet.topn3.replace	dieting	0.0082
+78	glove.topn3	dieting dieters overeating	0.0082
+78	rm3.topn10.10.0.5.bm25	dieting	0.0082
+78	rm3.topn10.10.0.5.qld	dieting	0.0082
+78	sensedisambiguation	dieting diet	0.0082
+78	sensedisambiguation.replace	diet	0.0082
+78	stem.krovetz	diet	0.0082
+78	stem.paicehusk	diet	0.0082
+78	stem.porter	diet	0.0082
+78	stem.porter2	diet	0.0082
+78	stem.sstemmer	dieting	0.0082
+78	stem.trunc4	diet	0.0082
+78	tagmee.topn3	dieting Dieting	0.0082
+78	tagmee.topn3.replace	Dieting	0.0082
+78	thesaurus.topn3	dieting	0.0082
+78	thesaurus.topn3.replace	dieting	0.0082
+78	wordnet.topn3	dieting	0.0082
+78	wordnet.topn3.replace	dieting	0.0082
+79	-1	voyager	0.0853
+79	wiki.topn3	voyager missions uranus missions neptune missions saturn voyager program	0.4727
+79	wiki.topn3.replace	missions uranus missions neptune missions saturn voyager program	0.3996
+79	conceptluster.topn5.3.bm25	voyager voyager program energi acceler object	0.2899
+79	tagmee.topn3	voyager Voyager program	0.2229
+79	tagmee.topn3.replace	Voyager program	0.175
+79	conceptluster.topn5.3.qld	voyager voyager program air	0.0947
+79	bertqe.topn10.qld	free encyclopedia voyag from	0.0864
+79	anchor.topn3	voyager	0.0853
+79	anchor.topn3.replace	voyager	0.0853
+79	conceptnet.topn3	voyager	0.0853
+79	conceptnet.topn3.replace	voyager	0.0853
+79	relevancefeedback.topn10.qld	voyager voyag	0.0853
+79	rm3.topn10.10.0.5.bm25	voyager	0.0853
+79	rm3.topn10.10.0.5.qld	voyager	0.0853
+79	sensedisambiguation	voyager	0.0853
+79	sensedisambiguation.replace	voyager	0.0853
+79	stem.krovetz	voyager	0.0853
+79	stem.lovins	voyager	0.0853
+79	stem.porter	voyager	0.0853
+79	stem.porter2	voyag	0.0853
+79	stem.sstemmer	voyager	0.0853
+79	stem.trunc5	voyag	0.0853
+79	thesaurus.topn3	voyager	0.0853
+79	thesaurus.topn3.replace	voyager	0.0853
+79	wordnet.topn3	voyager	0.0853
+79	wordnet.topn3.replace	voyager	0.0853
+80	-1	keyboard reviews	0.2048
+80	rm3.topn10.10.0.5.bm25	keyboard reviews	0.2048
+80	rm3.topn10.10.0.5.qld	keyboard reviews	0.2048
+80	stem.krovetz	keyboard review	0.2048
+80	stem.lovins	keyboard review	0.2048
+80	stem.paicehusk	keyboard review	0.2048
+80	stem.porter	keyboard review	0.2048
+80	stem.porter2	keyboard review	0.2048
+80	stem.sstemmer	keyboard review	0.2048
+80	thesaurus.topn3	keyboard reviews	0.2048
+80	thesaurus.topn3.replace	keyboard reviews	0.2048
+81	-1	afghanistan	0.1437
+81	anchor.topn3	afghanistan junbish عالی present	0.182
+81	wordnet.topn3	afghanistan Islamic State of Afghanistan	0.1686
+81	conceptnet.topn3	afghanistan	0.1437
+81	conceptnet.topn3.replace	afghanistan	0.1437
+81	rm3.topn10.10.0.5.bm25	afghanistan	0.1437
+81	rm3.topn10.10.0.5.qld	afghanistan	0.1437
+81	sensedisambiguation	afghanistan	0.1437
+81	sensedisambiguation.replace	afghanistan	0.1437
+81	stem.krovetz	afghanistan	0.1437
+81	stem.lovins	afghanistan	0.1437
+81	stem.porter	afghanistan	0.1437
+81	stem.porter2	afghanistan	0.1437
+81	stem.sstemmer	afghanistan	0.1437
+81	tagmee.topn3	afghanistan Afghanistan	0.1437
+81	tagmee.topn3.replace	Afghanistan	0.1437
+81	thesaurus.topn3	afghanistan	0.1437
+81	thesaurus.topn3.replace	afghanistan	0.1437
+82	-1	joints	0.0283
+82	glove.topn3	joints tendons aching	0.0363
+82	anchor.topn3	joints	0.0283
+82	anchor.topn3.replace	joints	0.0283
+82	conceptnet.topn3	joints	0.0283
+82	conceptnet.topn3.replace	joints	0.0283
+82	rm3.topn10.10.0.5.bm25	joints	0.0283
+82	rm3.topn10.10.0.5.qld	joints	0.0283
+82	stem.krovetz	joint	0.0283
+82	stem.lovins	joint	0.0283
+82	stem.paicehusk	joint	0.0283
+82	stem.porter	joint	0.0283
+82	stem.porter2	joint	0.0283
+82	stem.sstemmer	joint	0.0283
+82	stem.trunc5	joint	0.0283
+82	tagmee.topn3	joints	0.0283
+82	thesaurus.topn3	joints	0.0283
+82	thesaurus.topn3.replace	joints	0.0283
+82	wiki.topn3	joints	0.0283
+83	-1	memory	0.0
+83	glove.topn3	memory remembering	0.1567
+83	conceptnet.topn3	memory remembering something brain	0.0751
+83	conceptnet.topn3.replace	remembering something brain	0.0388
+83	word2vec.topn3	memory recollection	0.0193
+84	-1	continental plates	0.4898
+84	rm3.topn10.10.0.5.bm25	continental plates	0.4898
+84	rm3.topn10.10.0.5.qld	continental plates	0.4898
+84	sensedisambiguation.replace	continental plate	0.4898
+84	stem.krovetz	continental plate	0.4898
+84	stem.sstemmer	continental plate	0.4898
+84	tagmee.topn3	continental plates	0.4898
+84	thesaurus.topn3	continental plates	0.4898
+84	thesaurus.topn3.replace	continental plates	0.4898
+84	wiki.topn3	continental plates	0.4898
+85	-1	milwaukee journal sentinel	0.1334
+85	conceptluster.topn5.3.qld	milwaukee journal sentinel milwaukee journal sentinel perform apprais art how	0.1405
+85	conceptluster.topn5.3.bm25	milwaukee journal sentinel milwaukee journal sentinel art system apprais f	0.1352
+85	rm3.topn10.10.0.5.bm25	milwaukee journal sentinel	0.1334
+85	rm3.topn10.10.0.5.qld	milwaukee journal sentinel	0.1334
+85	stem.krovetz	milwaukee journal sentinel	0.1334
+85	stem.sstemmer	milwaukee journal sentinel	0.1334
+85	tagmee.topn3	milwaukee journal sentinel Milwaukee Journal Sentinel	0.1334
+85	tagmee.topn3.replace	Milwaukee Journal Sentinel	0.1334
+85	thesaurus.topn3	milwaukee journal sentinel	0.1334
+85	thesaurus.topn3.replace	milwaukee journal sentinel	0.1334
+86	-1	bart sf	0.58
+86	rm3.topn10.10.0.5.bm25	bart sf	0.58
+86	rm3.topn10.10.0.5.qld	bart sf	0.58
+86	stem.krovetz	bart sf	0.58
+86	stem.lovins	bart sf	0.58
+86	stem.paicehusk	bart sf	0.58
+86	stem.porter	bart sf	0.58
+86	stem.porter2	bart sf	0.58
+86	stem.sstemmer	bart sf	0.58
+86	stem.trunc4	bart sf	0.58
+86	stem.trunc5	bart sf	0.58
+86	thesaurus.topn3	bart sf	0.58
+86	thesaurus.topn3.replace	bart sf	0.58
+87	-1	who invented music	0.0262
+87	tagmee.topn3	invented music The Who The Music	0.2159
+87	thesaurus.topn3	invented music	0.195
+87	thesaurus.topn3.replace	invented music	0.195
+87	wiki.topn3	invented music throlling stones fleetwood mac led zeppelin weakness nonof business good good people makit last music	0.1436
+87	conceptnet.topn3.replace	invented dance record rock	0.111
+87	conceptnet.topn3	invented music dance record rock	0.11
+87	conceptluster.topn5.3.qld	invented music music perform apprais art how	0.0726
+87	conceptluster.topn5.3.bm25	invented music music art system apprais f	0.0549
+87	rm3.topn10.10.0.5.bm25	who invented music	0.0262
+87	rm3.topn10.10.0.5.qld	who invented music	0.0262
+87	sensedisambiguation	who invented invent music	0.0262
+87	sensedisambiguation.replace	who invent music	0.0262
+87	stem.krovetz	who invent music	0.0262
+87	stem.porter	who invent music	0.0262
+87	stem.porter2	who invent music	0.0262
+87	stem.sstemmer	who invented music	0.0262
+88	-1	forearm pain	0.2156
+88	rm3.topn10.10.0.5.bm25	forearm pain	0.2156
+88	rm3.topn10.10.0.5.qld	forearm pain	0.2156
+88	sensedisambiguation	forearm pain	0.2156
+88	sensedisambiguation.replace	forearm pain	0.2156
+88	stem.krovetz	forearm pain	0.2156
+88	stem.lovins	forearm pain	0.2156
+88	stem.paicehusk	forearm pain	0.2156
+88	stem.porter	forearm pain	0.2156
+88	stem.porter2	forearm pain	0.2156
+88	stem.sstemmer	forearm pain	0.2156
+88	tagmee.topn3	forearm pain Forearm Pain	0.2156
+88	tagmee.topn3.replace	Forearm Pain	0.2156
+88	thesaurus.topn3	forearm pain	0.2156
+88	thesaurus.topn3.replace	forearm pain	0.2156
+89	-1	ocd	0.2316
+89	wiki.topn3	ocd behavioral addiction substancusdisorder social anxiety disorder obsessive compulsive disorder	0.3994
+89	conceptluster.topn5.3.qld	ocd obsessive compulsive disorder perform apprais art how	0.3949
+89	conceptluster.topn5.3.bm25	ocd obsessive compulsive disorder art system apprais f	0.3271
+89	tagmee.topn3	ocd Obsessive compulsive disorder	0.3219
+89	glove.topn3	ocd obsessive compulsive adhd	0.2901
+89	wiki.topn3.replace	behavioral addiction substancusdisorder social anxiety disorder obsessive compulsive disorder	0.2574
+89	rm3.topn10.10.0.5.bm25	ocd	0.2316
+89	rm3.topn10.10.0.5.qld	ocd	0.2316
+89	sensedisambiguation	ocd	0.2316
+89	sensedisambiguation.replace	ocd	0.2316
+89	stem.krovetz	ocd	0.2316
+89	stem.lovins	ocd	0.2316
+89	stem.paicehusk	ocd	0.2316
+89	stem.porter	ocd	0.2316
+89	stem.porter2	ocd	0.2316
+89	stem.sstemmer	ocd	0.2316
+89	stem.trunc4	ocd	0.2316
+89	stem.trunc5	ocd	0.2316
+89	thesaurus.topn3	ocd	0.2316
+89	thesaurus.topn3.replace	ocd	0.2316
+89	wordnet.topn3	ocd	0.2316
+89	wordnet.topn3.replace	ocd	0.2316
+90	-1	mgb	0.2852
+90	relevancefeedback.topn10.bm25	mgb part busi group regist british mine metro	0.3263
+90	rm3.topn10.10.0.5.bm25	mgb	0.2852
+90	rm3.topn10.10.0.5.qld	mgb	0.2852
+90	sensedisambiguation	mgb	0.2852
+90	sensedisambiguation.replace	mgb	0.2852
+90	stem.krovetz	mgb	0.2852
+90	stem.lovins	mgb	0.2852
+90	stem.paicehusk	mgb	0.2852
+90	stem.porter	mgb	0.2852
+90	stem.porter2	mgb	0.2852
+90	stem.sstemmer	mgb	0.2852
+90	stem.trunc4	mgb	0.2852
+90	stem.trunc5	mgb	0.2852
+90	thesaurus.topn3	mgb	0.2852
+90	thesaurus.topn3.replace	mgb	0.2852
+90	word2vec.topn3	mgb	0.2852
+90	word2vec.topn3.replace	mgb	0.2852
+90	wordnet.topn3	mgb	0.2852
+90	wordnet.topn3.replace	mgb	0.2852
+91	-1	er tv show	0.1105
+91	tagmee.topn3	er tv show ER TV series ER TV series Television program	0.2112
+91	conceptluster.topn5.3.qld	er tv show television program er tv series part car	0.1928
+91	conceptluster.topn5.3.bm25	er tv show er tv series television program figur auto direct game object	0.1844
+91	tagmee.topn3.replace	ER TV series ER TV series Television program	0.1789
+91	rm3.topn10.10.0.5.bm25	er tv show	0.1105
+91	rm3.topn10.10.0.5.qld	er tv show	0.1105
+91	stem.krovetz	er tv show	0.1105
+91	stem.lovins	er tv show	0.1105
+91	stem.paicehusk	er tv show	0.1105
+91	stem.porter	er tv show	0.1105
+91	stem.porter2	er tv show	0.1105
+91	stem.sstemmer	er tv show	0.1105
+91	stem.trunc4	er tv show	0.1105
+91	stem.trunc5	er tv show	0.1105
+91	thesaurus.topn3	er tv show	0.1105
+91	thesaurus.topn3.replace	er tv show	0.1105
+92	-1	the wall	0.0
+92	word2vec.topn3	wall wall brick	0.0179
+93	-1	raffles	0.157
+93	anchor.topn3	raffles	0.157
+93	anchor.topn3.replace	raffles	0.157
+93	rm3.topn10.10.0.5.bm25	raffles	0.157
+93	rm3.topn10.10.0.5.qld	raffles	0.157
+93	sensedisambiguation	raffles raffle	0.157
+93	sensedisambiguation.replace	raffle	0.157
+93	stem.krovetz	raffle	0.157
+93	stem.lovins	raffl	0.157
+93	stem.paicehusk	raffl	0.157
+93	stem.porter	raffl	0.157
+93	stem.porter2	raffl	0.157
+93	stem.sstemmer	raffle	0.157
+93	stem.trunc5	raffl	0.157
+93	tagmee.topn3	raffles	0.157
+93	thesaurus.topn3	raffles	0.157
+93	thesaurus.topn3.replace	raffles	0.157
+93	wiki.topn3	raffles	0.157
+94	-1	titan	0.0466
+94	conceptnet.topn3	titan	0.0466
+94	conceptnet.topn3.replace	titan	0.0466
+94	rm3.topn10.10.0.5.bm25	titan	0.0466
+94	rm3.topn10.10.0.5.qld	titan	0.0466
+94	sensedisambiguation	titan	0.0466
+94	sensedisambiguation.replace	titan	0.0466
+94	stem.krovetz	titan	0.0466
+94	stem.lovins	titan	0.0466
+94	stem.porter	titan	0.0466
+94	stem.porter2	titan	0.0466
+94	stem.sstemmer	titan	0.0466
+94	stem.trunc5	titan	0.0466
+94	thesaurus.topn3	titan	0.0466
+94	thesaurus.topn3.replace	titan	0.0466
+96	-1	rice	0.2104
+96	rm3.topn10.10.0.5.bm25	rice	0.2104
+96	rm3.topn10.10.0.5.qld	rice	0.2104
+96	sensedisambiguation	rice	0.2104
+96	sensedisambiguation.replace	rice	0.2104
+96	stem.krovetz	rice	0.2104
+96	stem.porter	rice	0.2104
+96	stem.porter2	rice	0.2104
+96	stem.sstemmer	rice	0.2104
+96	stem.trunc4	rice	0.2104
+96	stem.trunc5	rice	0.2104
+96	tagmee.topn3	rice	0.2104
+96	thesaurus.topn3	rice	0.2104
+96	thesaurus.topn3.replace	rice	0.2104
+96	wiki.topn3	rice	0.2104
+97	-1	south africa	0.0358
+97	wiki.topn3	south africa afrikaans speaking countries territories south africa bantu countries territories south africa	0.2672
+97	wiki.topn3.replace	afrikaans speaking countries territories south africa bantu countries territories south africa	0.2289
+97	conceptnet.topn3	south africa in the south a continent a village an elephant	0.0391
+97	wordnet.topn3	south africa Dixie in the south	0.0371
+97	rm3.topn10.10.0.5.bm25	south africa	0.0358
+97	rm3.topn10.10.0.5.qld	south africa	0.0358
+97	sensedisambiguation	south africa	0.0358
+97	sensedisambiguation.replace	south africa	0.0358
+97	stem.krovetz	south africa	0.0358
+97	stem.porter	south africa	0.0358
+97	stem.porter2	south africa	0.0358
+97	stem.sstemmer	south africa	0.0358
+97	tagmee.topn3	south africa South Africa	0.0358
+97	tagmee.topn3.replace	South Africa	0.0358
+97	thesaurus.topn3	south africa	0.0358
+97	thesaurus.topn3.replace	south africa	0.0358
+98	-1	sat	0.1274
+98	rm3.topn10.10.0.5.bm25	sat	0.1274
+98	rm3.topn10.10.0.5.qld	sat	0.1274
+98	stem.krovetz	sat	0.1274
+98	stem.lovins	sat	0.1274
+98	stem.paicehusk	sat	0.1274
+98	stem.porter	sat	0.1274
+98	stem.porter2	sat	0.1274
+98	stem.sstemmer	sat	0.1274
+98	stem.trunc4	sat	0.1274
+98	stem.trunc5	sat	0.1274
+98	tagmee.topn3	sat	0.1274
+98	thesaurus.topn3	sat	0.1274
+98	thesaurus.topn3.replace	sat	0.1274
+98	wiki.topn3	sat	0.1274
+99	-1	satellite	0.0
+99	wordnet.topn3	satellite artificial satellite planet	0.1285
+99	wordnet.topn3.replace	artificial satellite planet	0.1241
+99	bertqe.topn10.qld	technolog space satellit amateur observ	0.1203
+99	glove.topn3	satellite launch	0.0993
+99	relevancefeedback.topn10.bm25	satellite satellit semant studi motion glonass	0.0263
+99	glove.topn3.replace	launch	0.0076
+101	-1	ritz carlton lake las vegas	0.2198
+101	anchor.topn3	ritz carlton lake las vegas iż żgħira calender van gunnison kalausa halawet spreyton yanama yungay lake landslid	0.2324
+101	bertqe.topn10.bm25	ritz carlton lake la vega	0.2198
+101	rm3.topn10.10.0.5.bm25	ritz carlton lake las vegas	0.2198
+101	rm3.topn10.10.0.5.qld	ritz carlton lake las vegas	0.2198
+101	stem.krovetz	ritz carlton lake las vega	0.2198
+101	stem.porter	ritz carlton lake la vega	0.2198
+101	stem.porter2	ritz carlton lake las vega	0.2198
+101	stem.sstemmer	ritz carlton lake las vega	0.2198
+101	thesaurus.topn3	ritz carlton lake las vegas	0.2198
+101	thesaurus.topn3.replace	ritz carlton lake las vegas	0.2198
+102	-1	fickle creek farm	0.023
+102	rm3.topn10.10.0.5.bm25	fickle creek farm	0.023
+102	rm3.topn10.10.0.5.qld	fickle creek farm	0.023
+102	sensedisambiguation	fickle creek farm	0.023
+102	sensedisambiguation.replace	fickle creek farm	0.023
+102	stem.krovetz	fickle creek farm	0.023
+102	stem.lovins	fickl creek farm	0.023
+102	stem.paicehusk	fickl creek farm	0.023
+102	stem.porter	fickl creek farm	0.023
+102	stem.porter2	fickl creek farm	0.023
+102	stem.sstemmer	fickle creek farm	0.023
+102	stem.trunc5	fickl creek farm	0.023
+102	tagmee.topn3	fickle creek farm	0.023
+102	thesaurus.topn3	fickle creek farm	0.023
+102	thesaurus.topn3.replace	fickle creek farm	0.023
+102	wiki.topn3	fickle creek farm	0.023
+103	-1	madam cj walker	0.1324
+103	tagmee.topn3.replace	Madam C J Walker	0.4216
+103	conceptluster.topn5.3.bm25	madam cj walker madam c j walker death cellulos carbon restringido video	0.2765
+103	conceptluster.topn5.3.qld	madam cj walker madam c j walker git object	0.2613
+103	conceptnet.topn3.replace	madam j chief justice walker	0.2557
+103	tagmee.topn3	madam cj walker Madam C J Walker	0.2496
+103	wiki.topn3	madam cj walker bondagand freedom negro academy legal rights association madam c j walker	0.1835
+103	docluster.topn10.3.bm25	madam cj walker death cellulos carbon restringido video life trivia obama organ	0.1642
+103	wiki.topn3.replace	bondagand freedom negro academy legal rights association madam c j walker	0.1532
+103	termluster.topn5.3.bm25	madam cj walker death cellulos carbon restringido video	0.1485
+103	stem.paicehusk	madam cj walk	0.1406
+103	stem.trunc5	madam cj walke	0.1406
+103	conceptnet.topn3	madam cj walker j chief justice	0.1342
+103	relevancefeedback.topn10.qld	madam cj walker	0.1324
+103	rm3.topn10.10.0.5.bm25	madam cj walker	0.1324
+103	rm3.topn10.10.0.5.qld	madam cj walker	0.1324
+103	sensedisambiguation	madam cj walker	0.1324
+103	sensedisambiguation.replace	madam cj walker	0.1324
+103	stem.krovetz	madam cj walker	0.1324
+103	stem.lovins	madam cj walker	0.1324
+103	stem.porter	madam cj walker	0.1324
+103	stem.porter2	madam cj walker	0.1324
+103	stem.sstemmer	madam cj walker	0.1324
+103	thesaurus.topn3	madam cj walker	0.1324
+103	thesaurus.topn3.replace	madam cj walker	0.1324
+104	-1	indiana child support	0.1265
+104	relevancefeedback.topn10.qld	indiana child support percent	0.2993
+104	wiki.topn3	indiana child support indiana ohio cities indiana indiana noncustodial parent geduldig v aiello child abusprevention treatment act child support united states	0.1961
+104	conceptnet.topn3	indiana child support daughter toy column help a column	0.1723
+104	rm3.topn10.10.0.5.bm25	indiana child support	0.1265
+104	rm3.topn10.10.0.5.qld	indiana child support	0.1265
+104	sensedisambiguation	indiana child support	0.1265
+104	sensedisambiguation.replace	indiana child support	0.1265
+104	stem.krovetz	indiana child support	0.1265
+104	stem.porter	indiana child support	0.1265
+104	stem.porter2	indiana child support	0.1265
+104	stem.sstemmer	indiana child support	0.1265
+104	thesaurus.topn3	indiana child support	0.1265
+104	thesaurus.topn3.replace	indiana child support	0.1265
+105	-1	sonoma county medical services	0.2132
+105	conceptluster.topn5.3.bm25	sonoma county medical services sonoma county california health care death cellulos carbon restringido video	0.2343
+105	tagmee.topn3	sonoma county medical services Sonoma County California Health care Health care	0.2196
+105	rm3.topn10.10.0.5.bm25	sonoma county medical services	0.2132
+105	rm3.topn10.10.0.5.qld	sonoma county medical services	0.2132
+105	sensedisambiguation.replace	sonoma county medical servicing	0.2132
+105	stem.krovetz	sonoma county medical service	0.2132
+105	stem.porter	sonoma counti medic servic	0.2132
+105	stem.porter2	sonoma counti medic servic	0.2132
+105	stem.sstemmer	sonoma county medical service	0.2132
+105	thesaurus.topn3	sonoma county medical services	0.2132
+105	thesaurus.topn3.replace	sonoma county medical services	0.2132
+106	-1	universal animal cuts reviews	0.0424
+106	rm3.topn10.10.0.5.bm25	universal animal cuts reviews	0.0424
+106	rm3.topn10.10.0.5.qld	universal animal cuts reviews	0.0424
+106	sensedisambiguation.replace	universal animal cut review	0.0424
+106	stem.krovetz	universal animal cut review	0.0424
+106	stem.sstemmer	universal animal cut review	0.0424
+106	thesaurus.topn3	universal animal cuts reviews	0.0424
+106	thesaurus.topn3.replace	universal animal cuts reviews	0.0424
+107	-1	cass county missouri	0.0558
+107	docluster.topn10.3.qld	cass county missouri git object trivia	0.2068
+107	docluster.topn10.3.bm25	cass county missouri death cellulos carbon restringido video life trivia obama organ	0.1349
+107	conceptluster.topn5.3.qld	cass county missouri cass county missouri git object	0.0558
+107	rm3.topn10.10.0.5.bm25	cass county missouri	0.0558
+107	rm3.topn10.10.0.5.qld	cass county missouri	0.0558
+107	stem.krovetz	cass county missouri	0.0558
+107	stem.porter	cass counti missouri	0.0558
+107	stem.porter2	cass counti missouri	0.0558
+107	stem.sstemmer	cass county missouri	0.0558
+107	tagmee.topn3	cass county missouri Cass County Missouri Cass County Missouri	0.0558
+107	tagmee.topn3.replace	Cass County Missouri Cass County Missouri	0.0558
+107	thesaurus.topn3	cass county missouri	0.0558
+107	thesaurus.topn3.replace	cass county missouri	0.0558
+108	-1	ralph owen brewster	0.6822
+108	bertqe.topn10.qld	from senat ralph owen brewster	0.7026
+108	relevancefeedback.topn10.qld	ralph owen brewster	0.6822
+108	rm3.topn10.10.0.5.bm25	ralph owen brewster	0.6822
+108	rm3.topn10.10.0.5.qld	ralph owen brewster	0.6822
+108	sensedisambiguation	ralph owen brewster	0.6822
+108	sensedisambiguation.replace	ralph owen brewster	0.6822
+108	stem.krovetz	ralph owen brewster	0.6822
+108	stem.lovins	ralph owen brewster	0.6822
+108	stem.porter	ralph owen brewster	0.6822
+108	stem.porter2	ralph owen brewster	0.6822
+108	stem.sstemmer	ralph owen brewster	0.6822
+108	thesaurus.topn3	ralph owen brewster	0.6822
+108	thesaurus.topn3.replace	ralph owen brewster	0.6822
+109	-1	mayo clinic jacksonville fl	0.0313
+109	conceptnet.topn3	mayo clinic jacksonville fl mayonnaise yukon territory eye clinic hospital Florida	0.0375
+109	tagmee.topn3	mayo clinic jacksonville fl Mayo Clinic Jacksonville Florida	0.0344
+109	conceptluster.topn5.3.qld	mayo clinic jacksonville fl mayo clinic jacksonville florida git object	0.0342
+109	conceptluster.topn5.3.bm25	mayo clinic jacksonville fl mayo clinic jacksonville florida death cellulos carbon restringido video	0.0341
+109	tagmee.topn3.replace	Mayo Clinic Jacksonville Florida	0.0324
+109	rm3.topn10.10.0.5.bm25	mayo clinic jacksonville fl	0.0313
+109	rm3.topn10.10.0.5.qld	mayo clinic jacksonville fl	0.0313
+109	stem.krovetz	mayo clinic jacksonville fl	0.0313
+109	stem.porter	mayo clinic jacksonvil fl	0.0313
+109	stem.porter2	mayo clinic jacksonvill fl	0.0313
+109	stem.sstemmer	mayo clinic jacksonville fl	0.0313
+109	thesaurus.topn3	mayo clinic jacksonville fl	0.0313
+109	thesaurus.topn3.replace	mayo clinic jacksonville fl	0.0313
+110	-1	map of brazil	0.1879
+110	rm3.topn10.10.0.5.bm25	map of brazil	0.1879
+110	rm3.topn10.10.0.5.qld	map of brazil	0.1879
+110	stem.krovetz	map of brazil	0.1879
+110	stem.lovins	map of brazil	0.1879
+110	stem.paicehusk	map of brazil	0.1879
+110	stem.porter	map of brazil	0.1879
+110	stem.porter2	map of brazil	0.1879
+110	stem.sstemmer	map of brazil	0.1879
+110	thesaurus.topn3	map brazil	0.1879
+110	thesaurus.topn3.replace	map brazil	0.1879
+111	-1	lymphoma in dogs	0.3722
+111	tagmee.topn3	lymphoma dogs Lymphoma in animals	0.3925
+111	conceptluster.topn5.3.qld	lymphoma dogs lymphoma animals git object	0.3885
+111	rm3.topn10.10.0.5.bm25	lymphoma in dogs	0.3722
+111	rm3.topn10.10.0.5.qld	lymphoma in dogs	0.3722
+111	stem.krovetz	lymphoma in dogs	0.3722
+111	stem.porter	lymphoma in dog	0.3722
+111	stem.porter2	lymphoma in dog	0.3722
+111	stem.sstemmer	lymphoma in dog	0.3722
+111	thesaurus.topn3	lymphoma dogs	0.3722
+111	thesaurus.topn3.replace	lymphoma dogs	0.3722
+112	-1	kenmore gas water heater	0.0
+113	-1	hp mini 2140	0.0
+113	rm3.topn10.10.0.5.bm25	hp mini 2140	0.0515
+113	rm3.topn10.10.0.5.qld	hp mini 2140	0.0515
+114	-1	adobe indian houses	0.1213
+114	rm3.topn10.10.0.5.bm25	adobe indian houses	0.1213
+114	rm3.topn10.10.0.5.qld	adobe indian houses	0.1213
+114	stem.krovetz	adobe indian house	0.1213
+114	stem.sstemmer	adobe indian house	0.1213
+114	thesaurus.topn3	adobe indian houses	0.1213
+114	thesaurus.topn3.replace	adobe indian houses	0.1213
+115	-1	pacific northwest laboratory	0.1505
+115	wordnet.topn3	pacific northwest laboratory peaceable Pacific Ocean northwestward science lab lab	0.2385
+115	conceptluster.topn5.3.bm25	pacific northwest laboratory pacific northwest death cellulos carbon restringido video	0.1505
+115	conceptluster.topn5.3.qld	pacific northwest laboratory pacific northwest git object	0.1505
+115	docluster.topn10.3.qld	pacific northwest laboratory git object trivia	0.1505
+115	rm3.topn10.10.0.5.bm25	pacific northwest laboratory	0.1505
+115	rm3.topn10.10.0.5.qld	pacific northwest laboratory	0.1505
+115	stem.krovetz	pacific northwest laboratory	0.1505
+115	stem.porter	pacif northwest laboratori	0.1505
+115	stem.porter2	pacif northwest laboratori	0.1505
+115	stem.sstemmer	pacific northwest laboratory	0.1505
+115	tagmee.topn3	pacific northwest laboratory Pacific Northwest	0.1505
+115	termluster.topn5.3.bm25	pacific northwest laboratory death cellulos carbon restringido video	0.1505
+115	termluster.topn5.3.qld	pacific northwest laboratory git object	0.1505
+115	thesaurus.topn3	pacific northwest laboratory	0.1505
+115	thesaurus.topn3.replace	pacific northwest laboratory	0.1505
+116	-1	california franchise tax board	0.1688
+116	conceptluster.topn5.3.qld	california franchise tax board california franchise tax board git object	0.1689
+116	rm3.topn10.10.0.5.bm25	california franchise tax board	0.1688
+116	rm3.topn10.10.0.5.qld	california franchise tax board	0.1688
+116	stem.krovetz	california franchise tax board	0.1688
+116	stem.sstemmer	california franchise tax board	0.1688
+116	tagmee.topn3	california franchise tax board California Franchise Tax Board	0.1688
+116	tagmee.topn3.replace	California Franchise Tax Board	0.1688
+116	thesaurus.topn3	california franchise tax board	0.1688
+116	thesaurus.topn3.replace	california franchise tax board	0.1688
+117	-1	dangers of asbestos	0.1322
+117	tagmee.topn3	dangers asbestos Risk Asbestos	0.1609
+117	word2vec.topn3	dangers asbestos perils hazards asbestos containing asbestos related	0.1573
+117	conceptluster.topn5.3.qld	dangers asbestos risk asbestos git object	0.1542
+117	relevancefeedback.topn10.qld	dangers of asbestos asbesto cancer	0.15
+117	sensedisambiguation	dangers risk of asbestos	0.1403
+117	conceptluster.topn5.3.bm25	dangers asbestos asbestos risk death cellulos carbon restringido video	0.1376
+117	relevancefeedback.topn10.bm25	dangers of asbestos asbesto issu hydrogen cancer blog	0.1329
+117	anchor.topn3	dangers asbestos	0.1322
+117	anchor.topn3.replace	dangers asbestos	0.1322
+117	rm3.topn10.10.0.5.bm25	dangers of asbestos	0.1322
+117	rm3.topn10.10.0.5.qld	dangers of asbestos	0.1322
+117	stem.krovetz	danger of asbestos	0.1322
+117	stem.lovins	danger of asbesto	0.1322
+117	stem.porter	danger of asbesto	0.1322
+117	stem.porter2	danger of asbesto	0.1322
+117	stem.sstemmer	danger of asbesto	0.1322
+117	thesaurus.topn3	dangers asbestos	0.1322
+117	thesaurus.topn3.replace	dangers asbestos	0.1322
+118	-1	poem in your pocket day	0.295
+118	rm3.topn10.10.0.5.bm25	poem in your pocket day	0.295
+118	rm3.topn10.10.0.5.qld	poem in your pocket day	0.295
+118	stem.krovetz	poem in your pocket day	0.295
+118	stem.paicehusk	poem in your pocket day	0.295
+118	stem.porter	poem in your pocket dai	0.295
+118	stem.porter2	poem in your pocket day	0.295
+118	stem.sstemmer	poem in your pocket day	0.295
+119	-1	interview thank you	0.2578
+119	relevancefeedback.topn10.qld	interview thank you	0.2578
+119	rm3.topn10.10.0.5.bm25	interview thank you	0.2578
+119	rm3.topn10.10.0.5.qld	interview thank you	0.2578
+119	sensedisambiguation	interview thank you	0.2578
+119	sensedisambiguation.replace	interview thank you	0.2578
+119	stem.krovetz	interview thank you	0.2578
+119	stem.lovins	interview thank you	0.2578
+119	stem.paicehusk	interview thank you	0.2578
+119	stem.porter	interview thank you	0.2578
+119	stem.porter2	interview thank you	0.2578
+119	stem.sstemmer	interview thank you	0.2578
+120	-1	tv on computer	0.1141
+120	tagmee.topn3	tv computer Television Computer	0.1381
+120	glove.topn3	tv computer television broadcast software	0.1237
+120	rm3.topn10.10.0.5.bm25	tv on computer	0.1141
+120	rm3.topn10.10.0.5.qld	tv on computer	0.1141
+120	stem.krovetz	tv on computer	0.1141
+120	stem.lovins	tv on computer	0.1141
+120	stem.paicehusk	tv on comput	0.1141
+120	stem.porter	tv on comput	0.1141
+120	stem.porter2	tv on comput	0.1141
+120	stem.sstemmer	tv on computer	0.1141
+120	thesaurus.topn3	tv computer	0.1141
+120	thesaurus.topn3.replace	tv computer	0.1141
+121	-1	sit and reach test	0.1652
+121	rm3.topn10.10.0.5.bm25	sit and reach test	0.1652
+121	rm3.topn10.10.0.5.qld	sit and reach test	0.1652
+121	stem.krovetz	sit and reach test	0.1652
+121	stem.lovins	sit and reach test	0.1652
+121	stem.paicehusk	sit and reach test	0.1652
+121	stem.porter	sit and reach test	0.1652
+121	stem.porter2	sit and reach test	0.1652
+121	stem.sstemmer	sit and reach test	0.1652
+121	stem.trunc5	sit and reach test	0.1652
+121	thesaurus.topn3	sit reach test	0.1652
+121	thesaurus.topn3.replace	sit reach test	0.1652
+122	-1	culpeper national cemetery	0.1004
+122	termluster.topn5.3.bm25	culpeper national cemetery death cellulos carbon restringido video	0.2002
+122	docluster.topn10.3.bm25	culpeper national cemetery death cellulos carbon restringido video life trivia obama organ	0.1997
+122	stem.paicehusk	culpep nat cemetery	0.1056
+122	relevancefeedback.topn10.bm25	culpeper national cemetery culpep counti cemeteri tour stop va	0.1013
+122	conceptluster.topn5.3.qld	culpeper national cemetery culpeper national cemetery git object	0.1004
+122	rm3.topn10.10.0.5.bm25	culpeper national cemetery	0.1004
+122	rm3.topn10.10.0.5.qld	culpeper national cemetery	0.1004
+122	sensedisambiguation	culpeper national cemetery	0.1004
+122	sensedisambiguation.replace	culpeper national cemetery	0.1004
+122	stem.krovetz	culpeper national cemetery	0.1004
+122	stem.porter	culpep nation cemeteri	0.1004
+122	stem.porter2	culpep nation cemeteri	0.1004
+122	stem.sstemmer	culpeper national cemetery	0.1004
+122	tagmee.topn3	culpeper national cemetery Culpeper National Cemetery	0.1004
+122	tagmee.topn3.replace	Culpeper National Cemetery	0.1004
+122	thesaurus.topn3	culpeper national cemetery	0.1004
+122	thesaurus.topn3.replace	culpeper national cemetery	0.1004
+123	-1	von willebrand disease	0.4183
+123	conceptluster.topn5.3.bm25	von willebrand disease von willebrand disease death cellulos carbon restringido video	0.424
+123	wordnet.topn3	von willebrand disease E A von Willebrand Erik von Willebrand	0.4236
+123	wordnet.topn3.replace	von E A von Willebrand Erik von Willebrand disease	0.42
+123	conceptluster.topn5.3.qld	von willebrand disease von willebrand disease git object	0.4189
+123	rm3.topn10.10.0.5.bm25	von willebrand disease	0.4183
+123	rm3.topn10.10.0.5.qld	von willebrand disease	0.4183
+123	sensedisambiguation	von willebrand disease	0.4183
+123	sensedisambiguation.replace	von willebrand disease	0.4183
+123	stem.krovetz	von willebrand disease	0.4183
+123	stem.sstemmer	von willebrand disease	0.4183
+123	tagmee.topn3	von willebrand disease Von Willebrand disease	0.4183
+123	tagmee.topn3.replace	Von Willebrand disease	0.4183
+123	thesaurus.topn3	von willebrand disease	0.4183
+123	thesaurus.topn3.replace	von willebrand disease	0.4183
+124	-1	bowflex power pro	0.1264
+124	tagmee.topn3	bowflex power pro Bowflex	0.1651
+124	conceptluster.topn5.3.qld	bowflex power pro bowflex git object	0.1625
+124	sensedisambiguation.replace	bowflex world power professional	0.1585
+124	wiki.topn3	bowflex power pro activity tracker shapeways channel stuffing bowflex	0.1499
+124	conceptluster.topn5.3.bm25	bowflex power pro bowflex death cellulos carbon restringido video	0.1467
+124	rm3.topn10.10.0.5.bm25	bowflex power pro	0.1264
+124	rm3.topn10.10.0.5.qld	bowflex power pro	0.1264
+124	stem.krovetz	bowflex power pro	0.1264
+124	stem.porter	bowflex power pro	0.1264
+124	stem.porter2	bowflex power pro	0.1264
+124	stem.sstemmer	bowflex power pro	0.1264
+124	thesaurus.topn3	bowflex power pro	0.1264
+124	thesaurus.topn3.replace	bowflex power pro	0.1264
+125	-1	butter and margarine	0.2259
+125	conceptluster.topn5.3.qld	butter margarine butter margarine git object	0.2267
+125	rm3.topn10.10.0.5.bm25	butter and margarine	0.2259
+125	rm3.topn10.10.0.5.qld	butter and margarine	0.2259
+125	sensedisambiguation	butter and margarine	0.2259
+125	sensedisambiguation.replace	butter and margarine	0.2259
+125	stem.krovetz	butter and margarine	0.2259
+125	stem.porter	butter and margarin	0.2259
+125	stem.porter2	butter and margarin	0.2259
+125	stem.sstemmer	butter and margarine	0.2259
+125	tagmee.topn3	butter margarine Butter Margarine	0.2259
+125	tagmee.topn3.replace	Butter Margarine	0.2259
+125	thesaurus.topn3	butter margarine	0.2259
+125	thesaurus.topn3.replace	butter margarine	0.2259
+126	-1	us capitol map	0.0
+126	wordnet.topn3	us capitol map u uracil Capitol Building mathematical function represent	0.098
+126	wordnet.topn3.replace	u uracil Capitol Building mathematical function represent	0.057
+127	-1	dutchess county tourism	0.3107
+127	relevancefeedback.topn10.bm25	dutchess county tourism counti vassar http tour	0.3366
+127	conceptnet.topn3	dutchess county tourism	0.3107
+127	conceptnet.topn3.replace	dutchess county tourism	0.3107
+127	rm3.topn10.10.0.5.bm25	dutchess county tourism	0.3107
+127	rm3.topn10.10.0.5.qld	dutchess county tourism	0.3107
+127	stem.krovetz	dutchess county tourism	0.3107
+127	stem.porter	dutchess counti tourism	0.3107
+127	stem.porter2	dutchess counti tourism	0.3107
+127	stem.sstemmer	dutchess county tourism	0.3107
+127	thesaurus.topn3	dutchess county tourism	0.3107
+127	thesaurus.topn3.replace	dutchess county tourism	0.3107
+128	-1	atypical squamous cells	0.2142
+128	anchor.topn3	atypical squamous cells	0.2142
+128	anchor.topn3.replace	atypical squamous cells	0.2142
+128	rm3.topn10.10.0.5.bm25	atypical squamous cells	0.2142
+128	rm3.topn10.10.0.5.qld	atypical squamous cells	0.2142
+128	stem.krovetz	atypical squamous cell	0.2142
+128	stem.porter	atypic squamou cell	0.2142
+128	stem.porter2	atyp squamous cell	0.2142
+128	stem.sstemmer	atypical squamous cell	0.2142
+128	thesaurus.topn3	atypical squamous cells	0.2142
+128	thesaurus.topn3.replace	atypical squamous cells	0.2142
+129	-1	iowa food stamp program	0.0077
+129	tagmee.topn3	iowa food stamp program Iowa Supplemental Nutrition Assistance Program	0.0348
+129	conceptluster.topn5.3.bm25	iowa food stamp program iowa supplemental nutrition assistance program death cellulos carbon restringido video	0.0345
+129	conceptluster.topn5.3.qld	iowa food stamp program iowa supplemental nutrition assistance program git object	0.0345
+129	anchor.topn3	iowa food stamp program iowa histori iowa educ mus catin neophobia food foods cross solfar postag neopost web en programming attack programming kbounc programming histori	0.0313
+129	relevancefeedback.topn10.bm25	iowa food stamp program coin depart charl corn state nutrit kb	0.009
+129	relevancefeedback.topn10.qld	iowa food stamp program depart state coin notic	0.008
+129	rm3.topn10.10.0.5.bm25	iowa food stamp program	0.0077
+129	rm3.topn10.10.0.5.qld	iowa food stamp program	0.0077
+129	stem.krovetz	iowa food stamp program	0.0077
+129	stem.porter	iowa food stamp program	0.0077
+129	stem.porter2	iowa food stamp program	0.0077
+129	stem.sstemmer	iowa food stamp program	0.0077
+129	stem.trunc5	iowa food stamp progr	0.0077
+129	thesaurus.topn3	iowa food stamp program	0.0077
+129	thesaurus.topn3.replace	iowa food stamp program	0.0077
+130	-1	fact on uranus	0.2754
+130	rm3.topn10.10.0.5.bm25	fact on uranus	0.2754
+130	rm3.topn10.10.0.5.qld	fact on uranus	0.2754
+130	sensedisambiguation	fact on uranus	0.2754
+130	sensedisambiguation.replace	fact on uranus	0.2754
+130	stem.krovetz	fact on uranus	0.2754
+130	stem.lovins	fact on uranus	0.2754
+130	stem.porter	fact on uranu	0.2754
+130	stem.porter2	fact on uranus	0.2754
+130	stem.sstemmer	fact on uranus	0.2754
+130	stem.trunc5	fact on uranu	0.2754
+130	tagmee.topn3	fact uranus Fact Uranus	0.2754
+130	tagmee.topn3.replace	Fact Uranus	0.2754
+130	thesaurus.topn3	fact uranus	0.2754
+130	thesaurus.topn3.replace	fact uranus	0.2754
+131	-1	equal opportunity employer	0.0859
+131	relevancefeedback.topn10.bm25	equal opportunity employer action district hyanni engin nsw employ disabl	0.477
+131	stem.porter2	equal opportun employ	0.1379
+131	relevancefeedback.topn10.qld	equal opportunity employer women action practic employ	0.1055
+131	rm3.topn10.10.0.5.bm25	equal opportunity employer	0.0859
+131	rm3.topn10.10.0.5.qld	equal opportunity employer	0.0859
+131	sensedisambiguation	equal opportunity employer	0.0859
+131	sensedisambiguation.replace	equal opportunity employer	0.0859
+131	stem.krovetz	equal opportunity employer	0.0859
+131	stem.porter	equal opportun employer	0.0859
+131	stem.sstemmer	equal opportunity employer	0.0859
+131	tagmee.topn3	equal opportunity employer Equal employment opportunity	0.0859
+131	tagmee.topn3.replace	Equal employment opportunity	0.0859
+131	thesaurus.topn3	equal opportunity employer	0.0859
+131	thesaurus.topn3.replace	equal opportunity employer	0.0859
+131	wiki.topn3	equal opportunity employer equal employment opportunity	0.0859
+131	wiki.topn3.replace	equal employment opportunity	0.0859
+132	-1	mothers day songs	0.1071
+132	sensedisambiguation.replace	mother day sung	0.2599
+132	sensedisambiguation	mothers mother day songs sung	0.2555
+132	relevancefeedback.topn10.qld	mothers day songs dai mother i song	0.128
+132	rm3.topn10.10.0.5.bm25	mothers day songs	0.1071
+132	rm3.topn10.10.0.5.qld	mothers day songs	0.1071
+132	stem.krovetz	mother day song	0.1071
+132	stem.lovins	mother day song	0.1071
+132	stem.porter	mother dai song	0.1071
+132	stem.porter2	mother day song	0.1071
+132	stem.sstemmer	mother day song	0.1071
+132	thesaurus.topn3	mothers day songs	0.1071
+132	thesaurus.topn3.replace	mothers day songs	0.1071
+133	-1	all men are created equal	0.1802
+133	wiki.topn3	men created equal life liberty thpursuit happiness virginia declaration rights act thgradual abolition slavery men created equal	0.3119
+133	wiki.topn3.replace	life liberty thpursuit happiness virginia declaration rights act thgradual abolition slavery men created equal	0.2727
+133	rm3.topn10.10.0.5.bm25	all men are created equal	0.1802
+133	rm3.topn10.10.0.5.qld	all men are created equal	0.1802
+133	stem.krovetz	all men are create equal	0.1802
+133	stem.porter2	all men are creat equal	0.1802
+133	stem.sstemmer	all men are created equal	0.1802
+133	stem.trunc5	all men are creat equal	0.1802
+133	tagmee.topn3.replace	All men are created equal	0.1802
+134	-1	electronic skeet shoot	0.0
+135	-1	source of the nile	0.0
+135	conceptluster.topn5.3.qld	source nile nile git object	0.0738
+136	-1	american military university	0.0
+137	-1	rock and gem shows	0.2403
+137	rm3.topn10.10.0.5.bm25	rock and gem shows	0.2403
+137	rm3.topn10.10.0.5.qld	rock and gem shows	0.2403
+137	stem.krovetz	rock and gem show	0.2403
+137	stem.lovins	rock and gem show	0.2403
+137	stem.paicehusk	rock and gem show	0.2403
+137	stem.porter	rock and gem show	0.2403
+137	stem.porter2	rock and gem show	0.2403
+137	stem.sstemmer	rock and gem show	0.2403
+137	stem.trunc4	rock and gem show	0.2403
+137	stem.trunc5	rock and gem shows	0.2403
+137	tagmee.topn3	rock gem shows	0.2403
+137	thesaurus.topn3	rock gem shows	0.2403
+137	thesaurus.topn3.replace	rock gem shows	0.2403
+137	wiki.topn3	rock gem shows	0.2403
+138	-1	jax chemical company	0.4203
+138	sensedisambiguation.replace	jax chemical ship s company	0.4803
+138	rm3.topn10.10.0.5.bm25	jax chemical company	0.4203
+138	rm3.topn10.10.0.5.qld	jax chemical company	0.4203
+138	stem.krovetz	jax chemical company	0.4203
+138	stem.porter	jax chemic compani	0.4203
+138	stem.porter2	jax chemic compani	0.4203
+138	stem.sstemmer	jax chemical company	0.4203
+138	thesaurus.topn3	jax chemical company	0.4203
+138	thesaurus.topn3.replace	jax chemical company	0.4203
+139	-1	rocky mountain news	0.0824
+139	wiki.topn3	rocky mountain news defunct newspapers colorado thdenver post media denver colorado rocky mountain news	0.2999
+139	wiki.topn3.replace	defunct newspapers colorado thdenver post media denver colorado rocky mountain news	0.2764
+139	conceptluster.topn5.3.qld	rocky mountain news rocky mountain news git object	0.0824
+139	rm3.topn10.10.0.5.bm25	rocky mountain news	0.0824
+139	rm3.topn10.10.0.5.qld	rocky mountain news	0.0824
+139	stem.krovetz	rocky mountain news	0.0824
+139	stem.paicehusk	rocky mountain new	0.0824
+139	stem.porter	rocki mountain new	0.0824
+139	stem.porter2	rocki mountain news	0.0824
+139	stem.sstemmer	rocky mountain new	0.0824
+139	tagmee.topn3	rocky mountain news Rocky Mountain News	0.0824
+139	tagmee.topn3.replace	Rocky Mountain News	0.0824
+139	thesaurus.topn3	rocky mountain news	0.0824
+139	thesaurus.topn3.replace	rocky mountain news	0.0824
+140	-1	east ridge high school	0.0
+141	-1	va dmv registration	0.3043
+141	termluster.topn5.3.bm25	va dmv registration death cellulos carbon restringido video	0.3211
+141	sensedisambiguation.replace	virginia dmv registration	0.3102
+141	rm3.topn10.10.0.5.bm25	va dmv registration	0.3043
+141	rm3.topn10.10.0.5.qld	va dmv registration	0.3043
+141	stem.krovetz	va dmv registration	0.3043
+141	stem.porter	va dmv registr	0.3043
+141	stem.porter2	va dmv registr	0.3043
+141	stem.sstemmer	va dmv registration	0.3043
+141	thesaurus.topn3	va dmv registration	0.3043
+141	thesaurus.topn3.replace	va dmv registration	0.3043
+142	-1	illinois state tax	0.2587
+142	conceptnet.topn3	illinois state tax Moline government money payment	0.4016
+142	relevancefeedback.topn10.bm25	illinois state tax illinoi	0.3414
+142	relevancefeedback.topn10.qld	illinois state tax illinoi	0.3414
+142	wiki.topn3	illinois state tax illinois county seats illinois chicago illinois original jurisdiction resolution law united states administrativlaw state government standard deduction k clayton antitrust act taxation united states	0.2825
+142	rm3.topn10.10.0.5.bm25	illinois state tax	0.2587
+142	rm3.topn10.10.0.5.qld	illinois state tax	0.2587
+142	sensedisambiguation	illinois state tax	0.2587
+142	sensedisambiguation.replace	illinois state tax	0.2587
+142	stem.krovetz	illinois state tax	0.2587
+142	stem.porter	illinoi state tax	0.2587
+142	stem.porter2	illinoi state tax	0.2587
+142	stem.sstemmer	illinoi state tax	0.2587
+142	thesaurus.topn3	illinois state tax	0.2587
+142	thesaurus.topn3.replace	illinois state tax	0.2587
+143	-1	arkadelphia health club	0.0
+144	-1	trombone for sale	0.1954
+144	rm3.topn10.10.0.5.bm25	trombone for sale	0.1954
+144	rm3.topn10.10.0.5.qld	trombone for sale	0.1954
+144	sensedisambiguation	trombone for sale	0.1954
+144	sensedisambiguation.replace	trombone for sale	0.1954
+144	stem.krovetz	trombone for sale	0.1954
+144	stem.porter	trombon for sale	0.1954
+144	stem.porter2	trombon for sale	0.1954
+144	stem.sstemmer	trombone for sale	0.1954
+144	thesaurus.topn3	trombone sale	0.1954
+144	thesaurus.topn3.replace	trombone sale	0.1954
+145	-1	vines for shade	0.2233
+145	rm3.topn10.10.0.5.bm25	vines for shade	0.2233
+145	rm3.topn10.10.0.5.qld	vines for shade	0.2233
+145	stem.krovetz	vine for shade	0.2233
+145	stem.porter	vine for shade	0.2233
+145	stem.porter2	vine for shade	0.2233
+145	stem.sstemmer	vine for shade	0.2233
+145	stem.trunc5	vines for shade	0.2233
+145	tagmee.topn3	vines shade	0.2233
+145	thesaurus.topn3	vines shade	0.2233
+145	thesaurus.topn3.replace	vines shade	0.2233
+145	wiki.topn3	vines shade	0.2233
+146	-1	sherwood regional library	0.4173
+146	rm3.topn10.10.0.5.bm25	sherwood regional library	0.4173
+146	rm3.topn10.10.0.5.qld	sherwood regional library	0.4173
+146	sensedisambiguation	sherwood regional library	0.4173
+146	sensedisambiguation.replace	sherwood regional library	0.4173
+146	stem.krovetz	sherwood regional library	0.4173
+146	stem.porter	sherwood region librari	0.4173
+146	stem.porter2	sherwood region librari	0.4173
+146	stem.sstemmer	sherwood regional library	0.4173
+146	thesaurus.topn3	sherwood regional library	0.4173
+146	thesaurus.topn3.replace	sherwood regional library	0.4173
+147	-1	tangible personal property tax	0.4163
+147	relevancefeedback.topn10.qld	tangible personal property tax properti vehicl person	0.5076
+147	conceptluster.topn5.3.bm25	tangible personal property tax personal property property tax death cellulos carbon restringido video	0.4324
+147	termluster.topn5.3.bm25	tangible personal property tax death cellulos carbon restringido video	0.4303
+147	rm3.topn10.10.0.5.bm25	tangible personal property tax	0.4163
+147	rm3.topn10.10.0.5.qld	tangible personal property tax	0.4163
+147	sensedisambiguation	tangible personal property tax	0.4163
+147	sensedisambiguation.replace	tangible personal property tax	0.4163
+147	stem.krovetz	tangible personal property tax	0.4163
+147	stem.porter	tangibl person properti tax	0.4163
+147	stem.porter2	tangibl person properti tax	0.4163
+147	stem.sstemmer	tangible personal property tax	0.4163
+147	thesaurus.topn3	tangible personal property tax	0.4163
+147	thesaurus.topn3.replace	tangible personal property tax	0.4163
+148	-1	martha stewart and imclone	0.4285
+148	wiki.topn3	martha stewart imclone money magazine amanda hesser brandweek martha stewart health maintenancorganization corporatraid pharmaceutical research manufacturers america imclone systems	0.4555
+148	tagmee.topn3	martha stewart imclone Martha Stewart ImClone Systems	0.4373
+148	tagmee.topn3.replace	Martha Stewart ImClone Systems	0.4369
+148	glove.topn3	martha stewart imclone stewart lehf campbell payne waksal genentech	0.4323
+148	conceptluster.topn5.3.qld	martha stewart imclone martha stewart imclone systems git object	0.4302
+148	relevancefeedback.topn10.qld	martha stewart and imclone	0.4285
+148	rm3.topn10.10.0.5.bm25	martha stewart and imclone	0.4285
+148	rm3.topn10.10.0.5.qld	martha stewart and imclone	0.4285
+148	sensedisambiguation	martha stewart and imclone	0.4285
+148	sensedisambiguation.replace	martha stewart and imclone	0.4285
+148	stem.krovetz	martha stewart and imclone	0.4285
+148	stem.porter	martha stewart and imclon	0.4285
+148	stem.porter2	martha stewart and imclon	0.4285
+148	stem.sstemmer	martha stewart and imclone	0.4285
+148	thesaurus.topn3	martha stewart imclone	0.4285
+148	thesaurus.topn3.replace	martha stewart imclone	0.4285
+149	-1	uplift at yellowstone national park	0.2989
+149	word2vec.topn3	uplift yellowstone national park yosemite supervolcano super volcano regional international local parkland	0.466
+149	relevancefeedback.topn10.bm25	uplift at yellowstone national park yellowston	0.3318
+149	relevancefeedback.topn10.qld	uplift at yellowstone national park yellowston	0.3318
+149	word2vec.topn3.replace	uplift yosemite supervolcano super volcano regional international local parkland	0.3169
+149	docluster.topn10.3.qld	uplift at yellowstone national park git object trivia	0.305
+149	wordnet.topn3	uplift yellowstone national park lift up elate Yellowstone River interior home internal green ballpark common	0.3046
+149	docluster.topn10.3.bm25	uplift at yellowstone national park death cellulos carbon restringido video life trivia obama organ	0.301
+149	termluster.topn5.3.qld	uplift yellowstone national park git object	0.299
+149	rm3.topn10.10.0.5.bm25	uplift at yellowstone national park	0.2989
+149	rm3.topn10.10.0.5.qld	uplift at yellowstone national park	0.2989
+149	sensedisambiguation.replace	uplift at yellowstone national parking lot	0.2989
+149	stem.krovetz	uplift at yellowstone national park	0.2989
+149	stem.lovins	uplift at yellowston nat park	0.2989
+149	stem.paicehusk	uplift at yellowston nat park	0.2989
+149	stem.porter	uplift at yellowston nation park	0.2989
+149	stem.porter2	uplift at yellowston nation park	0.2989
+149	stem.sstemmer	uplift at yellowstone national park	0.2989
+149	thesaurus.topn3	uplift yellowstone national park	0.2989
+149	thesaurus.topn3.replace	uplift yellowstone national park	0.2989
+150	-1	tn highway patrol	0.0724
+150	relevancefeedback.topn10.bm25	tn highway patrol state crash safeti new offic	0.0851
+150	sensedisambiguation	tn tennessee highway patrol	0.0767
+150	rm3.topn10.10.0.5.bm25	tn highway patrol	0.0724
+150	rm3.topn10.10.0.5.qld	tn highway patrol	0.0724
+150	stem.krovetz	tn highway patrol	0.0724
+150	stem.paicehusk	tn highway patrol	0.0724
+150	stem.porter	tn highwai patrol	0.0724
+150	stem.porter2	tn highway patrol	0.0724
+150	stem.sstemmer	tn highway patrol	0.0724
+150	thesaurus.topn3	tn highway patrol	0.0724
+150	thesaurus.topn3.replace	tn highway patrol	0.0724
+151	-1	403b	0.0
+151	rm3.topn10.10.0.5.bm25	403b	0.2425
+151	rm3.topn10.10.0.5.qld	403b	0.2425
+151	wiki.topn3	b plan federal employees retirement system roth k b	0.1633
+151	wiki.topn3.replace	plan federal employees retirement system roth k b	0.0719
+151	word2vec.topn3	b participant directed retirement savings	0.031
+151	word2vec.topn3.replace	participant directed retirement savings	0.0178
+151	relevancefeedback.topn10.bm25	b plan r form sai loan contribut download	0.0165
+152	-1	angular cheilitis	0.0
+153	-1	pocono	0.3123
+153	conceptnet.topn3	pocono	0.3123
+153	conceptnet.topn3.replace	pocono	0.3123
+153	rm3.topn10.10.0.5.bm25	pocono	0.3123
+153	rm3.topn10.10.0.5.qld	pocono	0.3123
+153	sensedisambiguation	pocono	0.3123
+153	sensedisambiguation.replace	pocono	0.3123
+153	stem.krovetz	pocono	0.3123
+153	stem.paicehusk	pocono	0.3123
+153	stem.porter	pocono	0.3123
+153	stem.porter2	pocono	0.3123
+153	stem.sstemmer	pocono	0.3123
+153	tagmee.topn3	pocono	0.3123
+153	thesaurus.topn3	pocono	0.3123
+153	thesaurus.topn3.replace	pocono	0.3123
+153	wiki.topn3	pocono	0.3123
+153	word2vec.topn3	pocono	0.3123
+153	word2vec.topn3.replace	pocono	0.3123
+153	wordnet.topn3	pocono	0.3123
+153	wordnet.topn3.replace	pocono	0.3123
+154	-1	figs	0.1267
+154	anchor.topn3	figs	0.1267
+154	anchor.topn3.replace	figs	0.1267
+154	rm3.topn10.10.0.5.bm25	figs	0.1267
+154	rm3.topn10.10.0.5.qld	figs	0.1267
+154	stem.krovetz	fig	0.1267
+154	stem.lovins	fig	0.1267
+154	stem.paicehusk	fig	0.1267
+154	stem.porter	fig	0.1267
+154	stem.porter2	fig	0.1267
+154	stem.sstemmer	fig	0.1267
+154	stem.trunc4	figs	0.1267
+154	stem.trunc5	figs	0.1267
+154	tagmee.topn3	figs	0.1267
+154	thesaurus.topn3	figs	0.1267
+154	thesaurus.topn3.replace	figs	0.1267
+154	wiki.topn3	figs	0.1267
+155	-1	last supper painting	0.362
+155	conceptluster.topn5.3.qld	last supper painting last supper painting git object	0.3698
+155	rm3.topn10.10.0.5.bm25	last supper painting	0.362
+155	rm3.topn10.10.0.5.qld	last supper painting	0.362
+155	sensedisambiguation	last supper painting	0.362
+155	sensedisambiguation.replace	last supper painting	0.362
+155	stem.krovetz	last supper painting	0.362
+155	stem.lovins	last supper paint	0.362
+155	stem.porter	last supper paint	0.362
+155	stem.porter2	last supper paint	0.362
+155	stem.sstemmer	last supper painting	0.362
+155	tagmee.topn3	last supper painting Last Supper Painting	0.362
+155	tagmee.topn3.replace	Last Supper Painting	0.362
+155	thesaurus.topn3	last supper painting	0.362
+155	thesaurus.topn3.replace	last supper painting	0.362
+156	-1	university of phoenix	0.1563
+156	anchor.topn3	university phoenix aplagaria gaethof ex phoenix	0.1715
+156	conceptluster.topn5.3.qld	university phoenix university phoenix git object	0.1563
+156	rm3.topn10.10.0.5.bm25	university of phoenix	0.1563
+156	rm3.topn10.10.0.5.qld	university of phoenix	0.1563
+156	sensedisambiguation	university of phoenix	0.1563
+156	sensedisambiguation.replace	university of phoenix	0.1563
+156	stem.krovetz	university of phoenix	0.1563
+156	stem.sstemmer	university of phoenix	0.1563
+156	tagmee.topn3	university phoenix University of Phoenix	0.1563
+156	tagmee.topn3.replace	University of Phoenix	0.1563
+156	thesaurus.topn3	university phoenix	0.1563
+156	thesaurus.topn3.replace	university phoenix	0.1563
+157	-1	the beatles rock band	0.0155
+157	tagmee.topn3.replace	The Beatles album The Beatles Rock Band	0.3664
+157	tagmee.topn3	beatles rock band The Beatles album The Beatles Rock Band	0.3309
+157	conceptluster.topn5.3.qld	beatles rock band beatles album beatles rock band git object	0.3272
+157	wiki.topn3	beatles rock band hard day s night album rubber soul pleaspleasme beatles album list songs thbeatles rock band thbeatles thoriginal studio recordings thbeatles mono beatles rock band	0.2495
+157	wiki.topn3.replace	hard day s night album rubber soul pleaspleasme beatles album list songs thbeatles rock band thbeatles thoriginal studio recordings thbeatles mono beatles rock band	0.1496
+157	conceptluster.topn5.3.bm25	beatles rock band beatles rock band beatles album death cellulos carbon restringido video	0.1408
+157	relevancefeedback.topn10.qld	the beatles rock band sai beatl peopl greatest	0.1281
+157	glove.topn3	beatles rock band lennon mccartney band pop album	0.1271
+157	docluster.topn10.3.qld	the beatles rock band git object trivia	0.0902
+157	termluster.topn5.3.qld	beatles rock band git object	0.0842
+157	glove.topn3.replace	lennon mccartney band pop album	0.0607
+157	sensedisambiguation	the beatles rock band set	0.0368
+157	sensedisambiguation.replace	the beatles rock set	0.029
+157	relevancefeedback.topn10.bm25	the beatles rock band peopl parol de beatl radio i	0.025
+157	conceptnet.topn3.replace	beatles music stone group	0.0209
+157	word2vec.topn3	beatles rock band tulisa martina blacksheep boulder drummer	0.0198
+157	rm3.topn10.10.0.5.bm25	the beatles rock band	0.0155
+157	rm3.topn10.10.0.5.qld	the beatles rock band	0.0155
+157	stem.krovetz	the beatle rock band	0.0155
+157	stem.paicehusk	the beatl rock band	0.0155
+157	stem.porter	the beatl rock band	0.0155
+157	stem.porter2	the beatl rock band	0.0155
+157	stem.sstemmer	the beatle rock band	0.0155
+157	stem.trunc5	the beatl rock band	0.0155
+157	thesaurus.topn3	beatles rock band	0.0155
+157	thesaurus.topn3.replace	beatles rock band	0.0155
+158	-1	septic system design	0.3821
+158	glove.topn3	septic system design sewage effluent which	0.3922
+158	rm3.topn10.10.0.5.bm25	septic system design	0.3821
+158	rm3.topn10.10.0.5.qld	septic system design	0.3821
+158	sensedisambiguation	septic system design	0.3821
+158	sensedisambiguation.replace	septic system design	0.3821
+158	stem.krovetz	septic system design	0.3821
+158	stem.porter	septic system design	0.3821
+158	stem.porter2	septic system design	0.3821
+158	stem.sstemmer	septic system design	0.3821
+158	thesaurus.topn3	septic system design	0.3821
+158	thesaurus.topn3.replace	septic system design	0.3821
+159	-1	porterville	0.4353
+159	tagmee.topn3	porterville Porterville California	0.5261
+159	conceptluster.topn5.3.qld	porterville porterville california git object	0.513
+159	tagmee.topn3.replace	Porterville California	0.4465
+159	anchor.topn3	porterville	0.4353
+159	anchor.topn3.replace	porterville	0.4353
+159	conceptnet.topn3	porterville	0.4353
+159	conceptnet.topn3.replace	porterville	0.4353
+159	rm3.topn10.10.0.5.bm25	porterville	0.4353
+159	rm3.topn10.10.0.5.qld	porterville	0.4353
+159	sensedisambiguation	porterville	0.4353
+159	sensedisambiguation.replace	porterville	0.4353
+159	stem.krovetz	porterville	0.4353
+159	stem.lovins	portervil	0.4353
+159	stem.paicehusk	portervil	0.4353
+159	stem.porter	portervil	0.4353
+159	stem.porter2	portervill	0.4353
+159	stem.sstemmer	porterville	0.4353
+159	thesaurus.topn3	porterville	0.4353
+159	thesaurus.topn3.replace	porterville	0.4353
+159	word2vec.topn3	porterville	0.4353
+159	word2vec.topn3.replace	porterville	0.4353
+159	wordnet.topn3	porterville	0.4353
+159	wordnet.topn3.replace	porterville	0.4353
+160	-1	grilling	0.0494
+160	wiki.topn3	grilling seasoning deep frying condiment grilling	0.0565
+160	anchor.topn3	grilling	0.0494
+160	anchor.topn3.replace	grilling	0.0494
+160	rm3.topn10.10.0.5.bm25	grilling	0.0494
+160	rm3.topn10.10.0.5.qld	grilling	0.0494
+160	sensedisambiguation	grilling grill	0.0494
+160	sensedisambiguation.replace	grill	0.0494
+160	stem.krovetz	grill	0.0494
+160	stem.porter	grill	0.0494
+160	stem.porter2	grill	0.0494
+160	stem.sstemmer	grilling	0.0494
+160	stem.trunc5	grill	0.0494
+160	tagmee.topn3	grilling Grilling	0.0494
+160	tagmee.topn3.replace	Grilling	0.0494
+160	thesaurus.topn3	grilling	0.0494
+160	thesaurus.topn3.replace	grilling	0.0494
+161	-1	furniture for small spaces	0.1227
+161	sensedisambiguation	furniture for small spaces space	0.1284
+161	rm3.topn10.10.0.5.bm25	furniture for small spaces	0.1227
+161	rm3.topn10.10.0.5.qld	furniture for small spaces	0.1227
+161	sensedisambiguation.replace	furniture for small space	0.1227
+161	stem.krovetz	furniture for small space	0.1227
+161	stem.porter	furnitur for small space	0.1227
+161	stem.porter2	furnitur for small space	0.1227
+161	stem.sstemmer	furniture for small space	0.1227
+161	tagmee.topn3	furniture small spaces	0.1227
+161	thesaurus.topn3	furniture small spaces	0.1227
+161	thesaurus.topn3.replace	furniture small spaces	0.1227
+161	wiki.topn3	furniture small spaces	0.1227
+162	-1	dnr	0.1601
+162	rm3.topn10.10.0.5.bm25	dnr	0.1601
+162	rm3.topn10.10.0.5.qld	dnr	0.1601
+162	sensedisambiguation	dnr	0.1601
+162	sensedisambiguation.replace	dnr	0.1601
+162	stem.krovetz	dnr	0.1601
+162	stem.lovins	dnr	0.1601
+162	stem.paicehusk	dnr	0.1601
+162	stem.porter	dnr	0.1601
+162	stem.porter2	dnr	0.1601
+162	stem.sstemmer	dnr	0.1601
+162	stem.trunc4	dnr	0.1601
+162	stem.trunc5	dnr	0.1601
+162	tagmee.topn3	dnr	0.1601
+162	thesaurus.topn3	dnr	0.1601
+162	thesaurus.topn3.replace	dnr	0.1601
+162	wiki.topn3	dnr	0.1601
+162	wordnet.topn3	dnr	0.1601
+162	wordnet.topn3.replace	dnr	0.1601
+163	-1	arkansas	0.015
+163	conceptnet.topn3	arkansas a state	0.3082
+163	wiki.topn3	arkansas arkansas oklahoma tennessee arkansas	0.0318
+163	relevancefeedback.topn10.bm25	arkansas fifti arkansa function	0.0211
+163	wordnet.topn3	arkansas AR Arkansas River	0.0166
+163	anchor.topn3	arkansas	0.015
+163	anchor.topn3.replace	arkansas	0.015
+163	relevancefeedback.topn10.qld	arkansas arkansa	0.015
+163	rm3.topn10.10.0.5.bm25	arkansas	0.015
+163	rm3.topn10.10.0.5.qld	arkansas	0.015
+163	sensedisambiguation	arkansas	0.015
+163	sensedisambiguation.replace	arkansas	0.015
+163	stem.krovetz	arkansas	0.015
+163	stem.paicehusk	arkansa	0.015
+163	stem.porter	arkansa	0.015
+163	stem.porter2	arkansa	0.015
+163	stem.sstemmer	arkansa	0.015
+163	tagmee.topn3	arkansas Arkansas	0.015
+163	tagmee.topn3.replace	Arkansas	0.015
+163	thesaurus.topn3	arkansas	0.015
+163	thesaurus.topn3.replace	arkansas	0.015
+164	-1	hobby stores	0.0477
+164	anchor.topn3	hobby stores	0.0477
+164	anchor.topn3.replace	hobby stores	0.0477
+164	rm3.topn10.10.0.5.bm25	hobby stores	0.0477
+164	rm3.topn10.10.0.5.qld	hobby stores	0.0477
+164	stem.krovetz	hobby stores	0.0477
+164	stem.porter	hobbi store	0.0477
+164	stem.porter2	hobbi store	0.0477
+164	stem.sstemmer	hobby store	0.0477
+164	stem.trunc5	hobby store	0.0477
+164	tagmee.topn3	hobby stores	0.0477
+164	thesaurus.topn3	hobby stores	0.0477
+164	thesaurus.topn3.replace	hobby stores	0.0477
+164	wiki.topn3	hobby stores	0.0477
+165	-1	blue throated hummingbird	0.0274
+165	docluster.topn10.3.bm25	blue throated hummingbird death cellulos carbon restringido video life trivia obama organ	0.0423
+165	termluster.topn5.3.qld	blue throated hummingbird git object	0.0387
+165	docluster.topn10.3.qld	blue throated hummingbird git object trivia	0.0382
+165	rm3.topn10.10.0.5.bm25	blue throated hummingbird	0.0274
+165	rm3.topn10.10.0.5.qld	blue throated hummingbird	0.0274
+165	sensedisambiguation	blue bluing throated hummingbird	0.0274
+165	stem.krovetz	blue throat hummingbird	0.0274
+165	stem.porter	blue throat hummingbird	0.0274
+165	stem.porter2	blue throat hummingbird	0.0274
+165	stem.sstemmer	blue throated hummingbird	0.0274
+165	thesaurus.topn3	blue throated hummingbird	0.0274
+165	thesaurus.topn3.replace	blue throated hummingbird	0.0274
+166	-1	computer programming	0.0196
+166	relevancefeedback.topn10.bm25	computer programming he franco cours system ecc java code math comput	0.0568
+166	word2vec.topn3	computer programming software programmers	0.0353
+166	conceptluster.topn5.3.qld	computer programming computer programming git object	0.0289
+166	sensedisambiguation	computer programming program	0.0206
+166	conceptluster.topn5.3.bm25	computer programming computer programming death cellulos carbon restringido video	0.0204
+166	conceptnet.topn3	computer programming	0.0196
+166	conceptnet.topn3.replace	computer programming	0.0196
+166	rm3.topn10.10.0.5.bm25	computer programming	0.0196
+166	rm3.topn10.10.0.5.qld	computer programming	0.0196
+166	sensedisambiguation.replace	computer program	0.0196
+166	stem.krovetz	computer program	0.0196
+166	stem.lovins	computer program	0.0196
+166	stem.paicehusk	comput program	0.0196
+166	stem.porter2	comput program	0.0196
+166	stem.sstemmer	computer programming	0.0196
+166	tagmee.topn3	computer programming Computer programming	0.0196
+166	tagmee.topn3.replace	Computer programming	0.0196
+166	thesaurus.topn3	computer programming	0.0196
+166	thesaurus.topn3.replace	computer programming	0.0196
+167	-1	barbados	0.0055
+167	wiki.topn3.replace	islands barbados barbados saint lucia barbados	0.1694
+167	wiki.topn3	barbados islands barbados barbados saint lucia barbados	0.1661
+167	relevancefeedback.topn10.qld	barbados barbado antigua dominica guyana bermuda hotel saint page	0.0979
+167	conceptluster.topn5.3.bm25	barbados barbados death cellulos carbon restringido video	0.0103
+167	anchor.topn3	barbados	0.0055
+167	anchor.topn3.replace	barbados	0.0055
+167	conceptnet.topn3	barbados	0.0055
+167	conceptnet.topn3.replace	barbados	0.0055
+167	rm3.topn10.10.0.5.bm25	barbados	0.0055
+167	rm3.topn10.10.0.5.qld	barbados	0.0055
+167	sensedisambiguation	barbados	0.0055
+167	sensedisambiguation.replace	barbados	0.0055
+167	stem.krovetz	barbados	0.0055
+167	stem.lovins	barbado	0.0055
+167	stem.paicehusk	barbado	0.0055
+167	stem.porter	barbado	0.0055
+167	stem.porter2	barbado	0.0055
+167	stem.sstemmer	barbado	0.0055
+167	tagmee.topn3	barbados Barbados	0.0055
+167	tagmee.topn3.replace	Barbados	0.0055
+167	thesaurus.topn3	barbados	0.0055
+167	thesaurus.topn3.replace	barbados	0.0055
+167	wordnet.topn3	barbados	0.0055
+167	wordnet.topn3.replace	barbados	0.0055
+168	-1	lipoma	0.4687
+168	conceptnet.topn3	lipoma	0.4687
+168	conceptnet.topn3.replace	lipoma	0.4687
+168	rm3.topn10.10.0.5.bm25	lipoma	0.4687
+168	rm3.topn10.10.0.5.qld	lipoma	0.4687
+168	sensedisambiguation	lipoma	0.4687
+168	sensedisambiguation.replace	lipoma	0.4687
+168	stem.krovetz	lipoma	0.4687
+168	stem.porter	lipoma	0.4687
+168	stem.porter2	lipoma	0.4687
+168	stem.sstemmer	lipoma	0.4687
+168	tagmee.topn3	lipoma Lipoma	0.4687
+168	tagmee.topn3.replace	Lipoma	0.4687
+168	thesaurus.topn3	lipoma	0.4687
+168	thesaurus.topn3.replace	lipoma	0.4687
+169	-1	battles in the civil war	0.0781
+169	relevancefeedback.topn10.bm25	battles in the civil war errata map wallpap illinoi more eli	0.1047
+169	anchor.topn3	battles civil war eforia ordinance spitalelor war theori wars jeanlucjosset	0.1008
+169	conceptnet.topn3	battles civil war embattled battle	0.0826
+169	conceptluster.topn5.3.bm25	battles civil war battle civil war death cellulos carbon restringido video	0.0821
+169	rm3.topn10.10.0.5.bm25	battles in the civil war	0.0781
+169	rm3.topn10.10.0.5.qld	battles in the civil war	0.0781
+169	stem.krovetz	battle in the civil war	0.0781
+169	stem.paicehusk	battl in the civil war	0.0781
+169	stem.porter	battl in the civil war	0.0781
+169	stem.porter2	battl in the civil war	0.0781
+169	stem.sstemmer	battle in the civil war	0.0781
+169	stem.trunc5	battl in the civil war	0.0781
+169	tagmee.topn3	battles civil war Battle Civil war	0.0781
+169	tagmee.topn3.replace	Battle Civil war	0.0781
+169	thesaurus.topn3	battles civil war	0.0781
+169	thesaurus.topn3.replace	battles civil war	0.0781
+170	-1	scooters	0.0
+170	relevancefeedback.topn10.qld	scooters kick store scooter razor	0.1155
+170	bertqe.topn10.qld	scooter toi product review price	0.0748
+170	sensedisambiguation.replace	water scooter	0.0333
+170	sensedisambiguation	scooters water scooter	0.0314
+170	glove.topn3	scooters mopeds bicycles	0.0081
+170	wordnet.topn3	scooters ice yacht motor scooter	0.0081
+170	wordnet.topn3.replace	ice yacht motor scooter	0.008
+171	-1	ron howard	0.2538
+171	rm3.topn10.10.0.5.bm25	ron howard	0.2538
+171	rm3.topn10.10.0.5.qld	ron howard	0.2538
+171	sensedisambiguation	ron howard	0.2538
+171	sensedisambiguation.replace	ron howard	0.2538
+171	stem.krovetz	ron howard	0.2538
+171	stem.paicehusk	ron howard	0.2538
+171	stem.porter	ron howard	0.2538
+171	stem.porter2	ron howard	0.2538
+171	stem.sstemmer	ron howard	0.2538
+171	tagmee.topn3	ron howard Ron Howard	0.2538
+171	tagmee.topn3.replace	Ron Howard	0.2538
+171	thesaurus.topn3	ron howard	0.2538
+171	thesaurus.topn3.replace	ron howard	0.2538
+172	-1	becoming a paralegal	0.18
+172	tagmee.topn3.replace	Paralegal	0.2528
+172	conceptluster.topn5.3.qld	becoming paralegal paralegal git object	0.2254
+172	tagmee.topn3	becoming paralegal Paralegal	0.2165
+172	conceptluster.topn5.3.bm25	becoming paralegal paralegal death cellulos carbon restringido video	0.2126
+172	relevancefeedback.topn10.bm25	becoming a paralegal paraleg macon job colleg	0.1884
+172	wordnet.topn3	becoming paralegal suit seemly decent legal assistant	0.1841
+172	anchor.topn3	becoming paralegal	0.18
+172	anchor.topn3.replace	becoming paralegal	0.18
+172	rm3.topn10.10.0.5.bm25	becoming a paralegal	0.18
+172	rm3.topn10.10.0.5.qld	becoming a paralegal	0.18
+172	sensedisambiguation.replace	become a paralegal	0.18
+172	stem.krovetz	becoming a paralegal	0.18
+172	stem.lovins	becom a paraleg	0.18
+172	stem.paicehusk	becom a paraleg	0.18
+172	stem.porter	becom a paraleg	0.18
+172	stem.porter2	becom a paraleg	0.18
+172	stem.sstemmer	becoming a paralegal	0.18
+172	thesaurus.topn3	becoming paralegal	0.18
+172	thesaurus.topn3.replace	becoming paralegal	0.18
+173	-1	hip fractures	0.3976
+173	conceptluster.topn5.3.qld	hip fractures hip fracture git object	0.4036
+173	rm3.topn10.10.0.5.bm25	hip fractures	0.3976
+173	rm3.topn10.10.0.5.qld	hip fractures	0.3976
+173	stem.krovetz	hip fracture	0.3976
+173	stem.lovins	hip fractur	0.3976
+173	stem.porter	hip fractur	0.3976
+173	stem.porter2	hip fractur	0.3976
+173	stem.sstemmer	hip fracture	0.3976
+173	tagmee.topn3	hip fractures Hip fracture	0.3976
+173	tagmee.topn3.replace	Hip fracture	0.3976
+173	thesaurus.topn3	hip fractures	0.3976
+173	thesaurus.topn3.replace	hip fractures	0.3976
+174	-1	rock art	0.2702
+174	conceptluster.topn5.3.bm25	rock art rock art death cellulos carbon restringido video	0.3895
+174	wiki.topn3	rock art cavpainting petroglyph caves containing pictograms rock art	0.33
+174	wiki.topn3.replace	cavpainting petroglyph caves containing pictograms rock art	0.302
+174	conceptnet.topn3	rock art music stone painting paint paintings	0.295
+174	conceptluster.topn5.3.qld	rock art rock art git object	0.2828
+174	rm3.topn10.10.0.5.bm25	rock art	0.2702
+174	rm3.topn10.10.0.5.qld	rock art	0.2702
+174	stem.krovetz	rock art	0.2702
+174	stem.lovins	rock art	0.2702
+174	stem.paicehusk	rock art	0.2702
+174	stem.porter	rock art	0.2702
+174	stem.porter2	rock art	0.2702
+174	stem.sstemmer	rock art	0.2702
+174	stem.trunc4	rock art	0.2702
+174	stem.trunc5	rock art	0.2702
+174	tagmee.topn3	rock art Rock art	0.2702
+174	tagmee.topn3.replace	Rock art	0.2702
+174	thesaurus.topn3	rock art	0.2702
+174	thesaurus.topn3.replace	rock art	0.2702
+175	-1	signs of a heartattack	0.1603
+175	rm3.topn10.10.0.5.bm25	signs of a heartattack	0.1603
+175	rm3.topn10.10.0.5.qld	signs of a heartattack	0.1603
+175	stem.krovetz	sign of a heartattack	0.1603
+175	stem.lovins	sign of a heartattack	0.1603
+175	stem.paicehusk	sign of a heartattack	0.1603
+175	stem.porter	sign of a heartattack	0.1603
+175	stem.porter2	sign of a heartattack	0.1603
+175	stem.sstemmer	sign of a heartattack	0.1603
+175	thesaurus.topn3	signs heartattack	0.1603
+175	thesaurus.topn3.replace	signs heartattack	0.1603
+176	-1	weather strip	0.0
+176	tagmee.topn3.replace	Weatherstripping	0.7718
+176	tagmee.topn3	weather strip Weatherstripping	0.2891
+176	conceptluster.topn5.3.qld	weather strip weatherstripping git object	0.1793
+176	conceptluster.topn5.3.bm25	weather strip weatherstripping death cellulos carbon restringido video	0.0626
+176	wiki.topn3	weather strip cryogenic deflashing heat fusion melt manufacturing weatherstripping	0.0274
+177	-1	best long term care insurance	0.2121
+177	sensedisambiguation	best better long term terminus care concern insurance policy	0.3242
+177	wordnet.topn3	best long term care insurance outdo in force ripe prospicient foresightful terminal figure full term tutelage give care policy insurance policy	0.2901
+177	glove.topn3	best long term care insurance well better short longer means health healthcare premiums	0.2291
+177	termluster.topn5.3.bm25	best long term care insurance death cellulos carbon restringido video	0.2235
+177	conceptnet.topn3	best long term care insurance good better dog dress ago rifle quantity love loving concern expensive health insurance	0.22
+177	rm3.topn10.10.0.5.bm25	best long term care insurance	0.2121
+177	rm3.topn10.10.0.5.qld	best long term care insurance	0.2121
+177	stem.krovetz	best long term care insurance	0.2121
+177	stem.porter	best long term care insur	0.2121
+177	stem.porter2	best long term care insur	0.2121
+177	stem.sstemmer	best long term care insurance	0.2121
+177	stem.trunc5	best long term care insur	0.2121
+177	thesaurus.topn3	best long term care insurance	0.2121
+177	thesaurus.topn3.replace	best long term care insurance	0.2121
+178	-1	pork tenderloin	0.2021
+178	relevancefeedback.topn10.qld	pork tenderloin davita	0.2313
+178	conceptluster.topn5.3.qld	pork tenderloin pork tenderloin git object	0.2034
+178	rm3.topn10.10.0.5.bm25	pork tenderloin	0.2021
+178	rm3.topn10.10.0.5.qld	pork tenderloin	0.2021
+178	stem.krovetz	pork tenderloin	0.2021
+178	stem.lovins	pork tenderloin	0.2021
+178	stem.paicehusk	pork tenderloin	0.2021
+178	stem.porter	pork tenderloin	0.2021
+178	stem.porter2	pork tenderloin	0.2021
+178	stem.sstemmer	pork tenderloin	0.2021
+178	tagmee.topn3	pork tenderloin Pork tenderloin	0.2021
+178	tagmee.topn3.replace	Pork tenderloin	0.2021
+178	thesaurus.topn3	pork tenderloin	0.2021
+178	thesaurus.topn3.replace	pork tenderloin	0.2021
+179	-1	black history	0.0637
+179	rm3.topn10.10.0.5.bm25	black history	0.0637
+179	rm3.topn10.10.0.5.qld	black history	0.0637
+179	stem.krovetz	black history	0.0637
+179	stem.porter	black histori	0.0637
+179	stem.porter2	black histori	0.0637
+179	stem.sstemmer	black history	0.0637
+179	tagmee.topn3	black history	0.0637
+179	thesaurus.topn3	black history	0.0637
+179	thesaurus.topn3.replace	black history	0.0637
+179	wiki.topn3	black history	0.0637
+180	-1	newyork hotels	0.0106
+180	relevancefeedback.topn10.qld	newyork hotels hotel februari pictur new	0.0233
+180	rm3.topn10.10.0.5.bm25	newyork hotels	0.0106
+180	rm3.topn10.10.0.5.qld	newyork hotels	0.0106
+180	sensedisambiguation.replace	newyork hotel	0.0106
+180	stem.krovetz	newyork hotel	0.0106
+180	stem.lovins	newyork hotel	0.0106
+180	stem.paicehusk	newyork hotel	0.0106
+180	stem.porter	newyork hotel	0.0106
+180	stem.porter2	newyork hotel	0.0106
+180	stem.sstemmer	newyork hotel	0.0106
+180	tagmee.topn3	newyork hotels	0.0106
+180	thesaurus.topn3	newyork hotels	0.0106
+180	thesaurus.topn3.replace	newyork hotels	0.0106
+180	wiki.topn3	newyork hotels	0.0106
+180	wordnet.topn3	newyork hotels	0.0106
+180	wordnet.topn3.replace	newyork hotels	0.0106
+181	-1	old coins	0.1632
+181	rm3.topn10.10.0.5.bm25	old coins	0.1632
+181	rm3.topn10.10.0.5.qld	old coins	0.1632
+181	stem.krovetz	old coin	0.1632
+181	stem.lovins	old coin	0.1632
+181	stem.paicehusk	old coin	0.1632
+181	stem.porter	old coin	0.1632
+181	stem.porter2	old coin	0.1632
+181	stem.sstemmer	old coin	0.1632
+181	stem.trunc4	old coin	0.1632
+181	stem.trunc5	old coins	0.1632
+181	thesaurus.topn3	old coins	0.1632
+181	thesaurus.topn3.replace	old coins	0.1632
+182	-1	quit smoking	0.1915
+182	bertqe.topn10.qld	you can quit smoke free	0.2262
+182	rm3.topn10.10.0.5.bm25	quit smoking	0.1915
+182	rm3.topn10.10.0.5.qld	quit smoking	0.1915
+182	stem.krovetz	quit smoking	0.1915
+182	stem.porter	quit smoke	0.1915
+182	stem.porter2	quit smoke	0.1915
+182	stem.sstemmer	quit smoking	0.1915
+182	thesaurus.topn3	quit smoking	0.1915
+182	thesaurus.topn3.replace	quit smoking	0.1915
+183	-1	kansas city mo	0.0077
+183	wiki.topn3.replace	kansas missouri nebraska kansas cities platte county missouri cities cass county missouri cities jackson county missouri kansas city missouri	0.2513
+183	wiki.topn3	kansas city mo kansas missouri nebraska kansas cities platte county missouri cities cass county missouri cities jackson county missouri kansas city missouri	0.2443
+183	tagmee.topn3.replace	Kansas Kansas City Missouri	0.1657
+183	relevancefeedback.topn10.bm25	kansas city mo ca car psychiatr servic architectur archaeolog hotel	0.0584
+183	wordnet.topn3	kansas city mo KS Sunflower State Kansas River metropolis urban center second minute	0.0355
+183	tagmee.topn3	kansas city mo Kansas Kansas City Missouri	0.0328
+183	conceptluster.topn5.3.qld	kansas city mo kansas city missouri kansas git object	0.0327
+183	conceptluster.topn5.3.bm25	kansas city mo kansas kansas city missouri death cellulos carbon restringido video	0.0323
+183	rm3.topn10.10.0.5.bm25	kansas city mo	0.0077
+183	rm3.topn10.10.0.5.qld	kansas city mo	0.0077
+183	stem.krovetz	kansas city mo	0.0077
+183	stem.paicehusk	kansa city mo	0.0077
+183	stem.porter	kansa citi mo	0.0077
+183	stem.porter2	kansa citi mo	0.0077
+183	stem.sstemmer	kansa city mo	0.0077
+183	stem.trunc5	kansa city mo	0.0077
+183	termluster.topn5.3.qld	kansas city mo git object	0.0077
+183	thesaurus.topn3	kansas city mo	0.0077
+183	thesaurus.topn3.replace	kansas city mo	0.0077
+184	-1	civil right movement	0.1532
+184	tagmee.topn3.replace	Civil and political rights Freedom of movement	0.5725
+184	wiki.topn3	civil right movement rights civil liberties anti racism civil political rights united nations charter freedom assembly territorial integrity freedom movement	0.5422
+184	conceptluster.topn5.3.bm25	civil right movement civil political rights freedom movement death cellulos carbon restringido video	0.5227
+184	tagmee.topn3	civil right movement Civil and political rights Freedom of movement	0.5202
+184	conceptluster.topn5.3.qld	civil right movement civil political rights freedom movement git object	0.5166
+184	wordnet.topn3	civil right movement civic polite correct flop right hand campaign motility front	0.4152
+184	word2vec.topn3	civil right movement rights era civl wrong right movment	0.1807
+184	wiki.topn3.replace	rights civil liberties anti racism civil political rights united nations charter freedom assembly territorial integrity freedom movement	0.1799
+184	relevancefeedback.topn10.bm25	civil right movement disabl commiss http men govern book you philadelphia feder	0.1756
+184	sensedisambiguation	civil right right field movement drift	0.1555
+184	rm3.topn10.10.0.5.bm25	civil right movement	0.1532
+184	rm3.topn10.10.0.5.qld	civil right movement	0.1532
+184	stem.krovetz	civil right movement	0.1532
+184	stem.porter	civil right movement	0.1532
+184	stem.porter2	civil right movement	0.1532
+184	stem.sstemmer	civil right movement	0.1532
+184	thesaurus.topn3	civil right movement	0.1532
+184	thesaurus.topn3.replace	civil right movement	0.1532
+185	-1	credit report	0.0077
+185	relevancefeedback.topn10.qld	credit report inform	0.1032
+185	wordnet.topn3	credit report credit rating acknowledgment cite news report study account	0.0374
+185	conceptluster.topn5.3.qld	credit report credit history git object	0.0357
+185	wordnet.topn3.replace	credit rating acknowledgment cite news report study account	0.035
+185	tagmee.topn3	credit report Credit history	0.0326
+185	conceptluster.topn5.3.bm25	credit report credit history death cellulos carbon restringido video	0.0268
+185	bertqe.topn10.qld	wikiansw credit report question includ	0.0263
+185	relevancefeedback.topn10.bm25	credit report inform clinic art kb member show bank	0.0192
+185	wiki.topn3	credit report annual percentagrate loan to valuratio loan origination credit history	0.0148
+185	sensedisambiguation	credit recognition report reputation	0.0104
+185	rm3.topn10.10.0.5.bm25	credit report	0.0077
+185	rm3.topn10.10.0.5.qld	credit report	0.0077
+185	stem.krovetz	credit report	0.0077
+185	stem.lovins	credit report	0.0077
+185	stem.paicehusk	credit report	0.0077
+185	stem.porter	credit report	0.0077
+185	stem.porter2	credit report	0.0077
+185	stem.sstemmer	credit report	0.0077
+185	thesaurus.topn3	credit report	0.0077
+185	thesaurus.topn3.replace	credit report	0.0077
+186	-1	unc	0.0324
+186	anchor.topn3	unc unc spartans shore lij	0.0984
+186	rm3.topn10.10.0.5.bm25	unc	0.0324
+186	rm3.topn10.10.0.5.qld	unc	0.0324
+186	sensedisambiguation	unc	0.0324
+186	sensedisambiguation.replace	unc	0.0324
+186	stem.krovetz	unc	0.0324
+186	stem.lovins	unc	0.0324
+186	stem.porter	unc	0.0324
+186	stem.porter2	unc	0.0324
+186	stem.sstemmer	unc	0.0324
+186	stem.trunc4	unc	0.0324
+186	stem.trunc5	unc	0.0324
+186	tagmee.topn3	unc	0.0324
+186	thesaurus.topn3	unc	0.0324
+186	thesaurus.topn3.replace	unc	0.0324
+186	wiki.topn3	unc	0.0324
+186	wordnet.topn3	unc	0.0324
+186	wordnet.topn3.replace	unc	0.0324
+187	-1	vanuatu	0.0762
+187	wordnet.topn3	vanuatu Republic of Vanuatu New Hebrides	0.3248
+187	wordnet.topn3.replace	Republic of Vanuatu New Hebrides	0.2782
+187	wiki.topn3	vanuatu vanuatu samoa palau vanuatu	0.2289
+187	wiki.topn3.replace	vanuatu samoa palau vanuatu	0.1814
+187	conceptnet.topn3	vanuatu	0.0762
+187	conceptnet.topn3.replace	vanuatu	0.0762
+187	rm3.topn10.10.0.5.bm25	vanuatu	0.0762
+187	rm3.topn10.10.0.5.qld	vanuatu	0.0762
+187	sensedisambiguation	vanuatu	0.0762
+187	sensedisambiguation.replace	vanuatu	0.0762
+187	stem.krovetz	vanuatu	0.0762
+187	stem.lovins	vanuatu	0.0762
+187	stem.paicehusk	vanuatu	0.0762
+187	stem.porter	vanuatu	0.0762
+187	stem.porter2	vanuatu	0.0762
+187	stem.sstemmer	vanuatu	0.0762
+187	tagmee.topn3	vanuatu Vanuatu	0.0762
+187	tagmee.topn3.replace	Vanuatu	0.0762
+187	thesaurus.topn3	vanuatu	0.0762
+187	thesaurus.topn3.replace	vanuatu	0.0762
+188	-1	internet phone service	0.0
+188	bertqe.topn10.qld	phone call via internet internet	0.0308
+188	tagmee.topn3	internet phone service Voice over IP	0.015
+188	conceptluster.topn5.3.qld	internet phone service voice ip git object	0.0148
+188	sensedisambiguation	internet phone telephone service servicing	0.0145
+189	-1	gs pay rate	0.0231
+189	sensedisambiguation	gs thousand pay wage rate	0.1156
+189	rm3.topn10.10.0.5.bm25	gs pay rate	0.0231
+189	rm3.topn10.10.0.5.qld	gs pay rate	0.0231
+189	stem.krovetz	gs pay rate	0.0231
+189	stem.porter	gs pai rate	0.0231
+189	stem.porter2	gs pay rate	0.0231
+189	stem.sstemmer	gs pay rate	0.0231
+189	stem.trunc4	gs pay rate	0.0231
+189	stem.trunc5	gs pay rate	0.0231
+189	tagmee.topn3	gs pay rate	0.0231
+189	thesaurus.topn3	gs pay rate	0.0231
+189	thesaurus.topn3.replace	gs pay rate	0.0231
+189	wiki.topn3	gs pay rate	0.0231
+190	-1	brooks brothers clearance	0.1498
+190	relevancefeedback.topn10.qld	brooks brothers clearance brook off brother knitwear cash save	0.2078
+190	anchor.topn3	brooks brothers clearance	0.1498
+190	anchor.topn3.replace	brooks brothers clearance	0.1498
+190	rm3.topn10.10.0.5.bm25	brooks brothers clearance	0.1498
+190	rm3.topn10.10.0.5.qld	brooks brothers clearance	0.1498
+190	stem.krovetz	brook brother clearance	0.1498
+190	stem.porter	brook brother clearanc	0.1498
+190	stem.porter2	brook brother clearanc	0.1498
+190	stem.sstemmer	brook brother clearance	0.1498
+190	thesaurus.topn3	brooks brothers clearance	0.1498
+190	thesaurus.topn3.replace	brooks brothers clearance	0.1498
+191	-1	churchill downs	0.1921
+191	anchor.topn3	churchill downs	0.1921
+191	anchor.topn3.replace	churchill downs	0.1921
+191	conceptnet.topn3	churchill downs	0.1921
+191	conceptnet.topn3.replace	churchill downs	0.1921
+191	rm3.topn10.10.0.5.bm25	churchill downs	0.1921
+191	rm3.topn10.10.0.5.qld	churchill downs	0.1921
+191	sensedisambiguation	churchill downs	0.1921
+191	sensedisambiguation.replace	churchill downs	0.1921
+191	stem.krovetz	churchill downs	0.1921
+191	stem.lovins	churchil down	0.1921
+191	stem.paicehusk	churchil down	0.1921
+191	stem.porter	churchil down	0.1921
+191	stem.porter2	churchil down	0.1921
+191	stem.sstemmer	churchill down	0.1921
+191	tagmee.topn3	churchill downs Churchill Downs	0.1921
+191	tagmee.topn3.replace	Churchill Downs	0.1921
+191	thesaurus.topn3	churchill downs	0.1921
+191	thesaurus.topn3.replace	churchill downs	0.1921
+192	-1	condos in florida	0.0532
+192	tagmee.topn3	condos florida Condominium Florida	0.0635
+192	conceptluster.topn5.3.qld	condos florida florida condominium git object	0.0634
+192	sensedisambiguation	condos condominium in florida	0.0559
+192	rm3.topn10.10.0.5.bm25	condos in florida	0.0532
+192	rm3.topn10.10.0.5.qld	condos in florida	0.0532
+192	stem.krovetz	condo in florida	0.0532
+192	stem.porter	condo in florida	0.0532
+192	stem.porter2	condo in florida	0.0532
+192	stem.sstemmer	condo in florida	0.0532
+192	thesaurus.topn3	condos florida	0.0532
+192	thesaurus.topn3.replace	condos florida	0.0532
+193	-1	dog clean up bags	0.3287
+193	rm3.topn10.10.0.5.bm25	dog clean up bags	0.3287
+193	rm3.topn10.10.0.5.qld	dog clean up bags	0.3287
+193	stem.krovetz	dog clean up bags	0.3287
+193	stem.lovins	dog clean up bag	0.3287
+193	stem.porter	dog clean up bag	0.3287
+193	stem.porter2	dog clean up bag	0.3287
+193	stem.sstemmer	dog clean up bag	0.3287
+193	stem.trunc5	dog clean up bags	0.3287
+194	-1	designer dog breeds	0.5869
+194	conceptluster.topn5.3.qld	designer dog breeds dog breed dog crossbreed git object	0.6102
+194	tagmee.topn3	designer dog breeds Dog crossbreed Dog breed	0.6102
+194	conceptluster.topn5.3.bm25	designer dog breeds dog breed dog crossbreed death cellulos carbon restringido video	0.6098
+194	tagmee.topn3.replace	Dog crossbreed Dog breed	0.609
+194	rm3.topn10.10.0.5.bm25	designer dog breeds	0.5869
+194	rm3.topn10.10.0.5.qld	designer dog breeds	0.5869
+194	stem.krovetz	designer dog breed	0.5869
+194	stem.lovins	designer dog breed	0.5869
+194	stem.porter	design dog breed	0.5869
+194	stem.porter2	design dog breed	0.5869
+194	stem.sstemmer	designer dog breed	0.5869
+194	thesaurus.topn3	designer dog breeds	0.5869
+194	thesaurus.topn3.replace	designer dog breeds	0.5869
+195	-1	pressure washers	0.0
+195	relevancefeedback.topn10.bm25	pressure washers pressur nozzl price unload liter	0.1818
+195	docluster.topn10.3.bm25	pressure washers death cellulos carbon restringido video life trivia obama organ	0.0612
+195	conceptluster.topn5.3.bm25	pressure washers death cellulos carbon restringido video	0.0487
+195	termluster.topn5.3.bm25	pressure washers death cellulos carbon restringido video	0.0487
+195	relevancefeedback.topn10.qld	pressure washers wand washer unload pressur kranzl liter	0.02
+196	-1	sore throat	0.2388
+196	relevancefeedback.topn10.qld	sore throat symptom antibiot	0.3731
+196	wordnet.topn3	sore throat sensitive painful tender pharynx	0.2612
+196	rm3.topn10.10.0.5.bm25	sore throat	0.2388
+196	rm3.topn10.10.0.5.qld	sore throat	0.2388
+196	sensedisambiguation	sore throat	0.2388
+196	sensedisambiguation.replace	sore throat	0.2388
+196	stem.krovetz	sore throat	0.2388
+196	stem.porter	sore throat	0.2388
+196	stem.porter2	sore throat	0.2388
+196	stem.sstemmer	sore throat	0.2388
+196	tagmee.topn3	sore throat Sore throat	0.2388
+196	tagmee.topn3.replace	Sore throat	0.2388
+196	thesaurus.topn3	sore throat	0.2388
+196	thesaurus.topn3.replace	sore throat	0.2388
+197	-1	idaho state flower	0.1479
+197	wiki.topn3	idaho state flower idaho montana montana idaho john bellenden ker gawler magnolia campbellii list tregenera floral emblem	0.294
+197	conceptluster.topn5.3.qld	idaho state flower floral emblem idaho git object	0.2267
+197	tagmee.topn3	idaho state flower Idaho Floral emblem	0.2267
+197	conceptluster.topn5.3.bm25	idaho state flower idaho floral emblem death cellulos carbon restringido video	0.2191
+197	sensedisambiguation	idaho state state of matter flower	0.2084
+197	rm3.topn10.10.0.5.bm25	idaho state flower	0.1479
+197	rm3.topn10.10.0.5.qld	idaho state flower	0.1479
+197	stem.krovetz	idaho state flower	0.1479
+197	stem.porter	idaho state flower	0.1479
+197	stem.porter2	idaho state flower	0.1479
+197	stem.sstemmer	idaho state flower	0.1479
+197	thesaurus.topn3	idaho state flower	0.1479
+197	thesaurus.topn3.replace	idaho state flower	0.1479
+198	-1	indiana state fairgrounds	0.388
+198	relevancefeedback.topn10.qld	indiana state fairgrounds fairground live school coliseum skate iac	0.5528
+198	relevancefeedback.topn10.bm25	indiana state fairgrounds barn live school skate coliseum dai i	0.4757
+198	rm3.topn10.10.0.5.bm25	indiana state fairgrounds	0.388
+198	rm3.topn10.10.0.5.qld	indiana state fairgrounds	0.388
+198	stem.krovetz	indiana state fairground	0.388
+198	stem.porter	indiana state fairground	0.388
+198	stem.porter2	indiana state fairground	0.388
+198	stem.sstemmer	indiana state fairground	0.388
+198	thesaurus.topn3	indiana state fairgrounds	0.388
+198	thesaurus.topn3.replace	indiana state fairgrounds	0.388
+199	-1	fybromyalgia	0.0355
+199	tagmee.topn3.replace	Fibromyalgia	0.2068
+199	relevancefeedback.topn10.qld	fybromyalgia i elavil fibromyalgia fm trial	0.1779
+199	tagmee.topn3	fybromyalgia Fibromyalgia	0.1496
+199	conceptluster.topn5.3.qld	fybromyalgia fibromyalgia git object	0.1478
+199	conceptluster.topn5.3.bm25	fybromyalgia fibromyalgia death cellulos carbon restringido video	0.1433
+199	relevancefeedback.topn10.bm25	fybromyalgia i elavil fibromyalgia medic depress wheat http trial	0.0952
+199	wiki.topn3	fybromyalgia urinary incontinence chronic pain comorbidity fibromyalgia	0.0653
+199	anchor.topn3	fybromyalgia	0.0355
+199	anchor.topn3.replace	fybromyalgia	0.0355
+199	bertqe.topn10.qld	leon chaitow fibromyalgia muscl pain	0.0355
+199	conceptnet.topn3	fybromyalgia	0.0355
+199	conceptnet.topn3.replace	fybromyalgia	0.0355
+199	glove.topn3	fybromyalgia	0.0355
+199	glove.topn3.replace	fybromyalgia	0.0355
+199	rm3.topn10.10.0.5.bm25	fybromyalgia	0.0355
+199	rm3.topn10.10.0.5.qld	fybromyalgia	0.0355
+199	sensedisambiguation	fybromyalgia	0.0355
+199	sensedisambiguation.replace	fybromyalgia	0.0355
+199	stem.krovetz	fybromyalgia	0.0355
+199	stem.porter	fybromyalgia	0.0355
+199	stem.porter2	fybromyalgia	0.0355
+199	stem.sstemmer	fybromyalgia	0.0355
+199	thesaurus.topn3	fybromyalgia	0.0355
+199	thesaurus.topn3.replace	fybromyalgia	0.0355
+199	word2vec.topn3	fybromyalgia	0.0355
+199	word2vec.topn3.replace	fybromyalgia	0.0355
+199	wordnet.topn3	fybromyalgia	0.0355
+199	wordnet.topn3.replace	fybromyalgia	0.0355
+200	-1	ontario california airport	0.344
+200	rm3.topn10.10.0.5.bm25	ontario california airport	0.344
+200	rm3.topn10.10.0.5.qld	ontario california airport	0.344
+200	sensedisambiguation	ontario california airport	0.344
+200	sensedisambiguation.replace	ontario california airport	0.344
+200	stem.krovetz	ontario california airport	0.344
+200	stem.porter	ontario california airport	0.344
+200	stem.porter2	ontario california airport	0.344
+200	stem.sstemmer	ontario california airport	0.344
+200	tagmee.topn3	ontario california airport Ontario California Airport	0.344
+200	tagmee.topn3.replace	Ontario California Airport	0.344
+200	thesaurus.topn3	ontario california airport	0.344
+200	thesaurus.topn3.replace	ontario california airport	0.344

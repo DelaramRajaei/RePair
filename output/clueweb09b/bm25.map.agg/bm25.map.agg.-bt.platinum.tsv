@@ -1,0 +1,493 @@
+qid	order	query	bm25.map
+1	-1	obama family tree	0.2416
+1	tagmee.topn3	obama family tree Family of Barack Obama	0.3706
+1	wiki.topn3	obama family tree stanley armour dunham madelyn dunham barack obama sr family barack obama	0.2735
+1	wiki.topn3.replace	stanley armour dunham madelyn dunham barack obama sr family barack obama	0.2694
+1	conceptluster.topn5.3.qld	obama family tree family barack obama git object	0.2647
+10	-1	cheap internet	0.0185
+10	word2vec.topn3	cheap internet inexpensive low cost online intenet	0.0817
+10	word2vec.topn3.replace	inexpensive low cost online intenet	0.0652
+11	-1	gmat prep classes	0.1982
+11	word2vec.topn3	gmat prep classes courses	0.2096
+12	-1	djs	0.0285
+13	-1	map	0.0049
+14	-1	dinosaurs	0.0008
+14	conceptnet.topn3	dinosaurs ancient reptiles	0.007
+14	glove.topn3	dinosaurs reptiles	0.006
+15	-1	espn sports	0.1795
+15	sensedisambiguation	espn sports sport	0.1911
+16	-1	arizona game and fish	0.1092
+17	-1	poker tournaments	0.0658
+18	-1	wedding budget calculator	0.0624
+19	-1	the current	0.0
+2	-1	french lick resort and casino	0.2524
+2	conceptluster.topn5.3.bm25	french lick resort casino casino french lick resort casino french lick indiana	0.258
+2	conceptluster.topn5.3.qld	french lick resort casino french lick resort casino casino french lick indiana	0.258
+2	tagmee.topn3	french lick resort casino French Lick Indiana French Lick Resort Casino Casino	0.258
+20	-1	defender	0.0
+21	-1	volvo	0.1797
+22	-1	rick warren	0.2286
+23	-1	yahoo	0.0011
+23	wiki.topn3	yahoo alibaba group websites company companies based sunnyvale california yahoo	0.0076
+23	wiki.topn3.replace	alibaba group websites company companies based sunnyvale california yahoo	0.0052
+24	-1	diversity	0.0358
+25	-1	euclid	0.0412
+25	relevancefeedback.topn10.bm25	euclid video i geometri	0.1095
+26	-1	lower heart rate	0.0205
+27	-1	starbucks	0.0363
+28	-1	inuyasha	0.0341
+29	-1	ps 2 games	0.0028
+29	glove.topn3	ps games brmsg brnws play	0.0062
+29	rm3.topn10.10.0.5.bm25	ps 2 games	0.0055
+29	rm3.topn10.10.0.5.qld	ps 2 games	0.0055
+3	-1	getting organized	0.1179
+30	-1	diabetes education	0.0994
+31	-1	atari	0.1348
+32	-1	website design hosting	0.0268
+32	relevancefeedback.topn10.qld	website design hosting web websit host	0.0275
+33	-1	elliptical trainer	0.1686
+33	sensedisambiguation	elliptical elliptic trainer	0.1695
+34	-1	cell phones	0.0088
+35	-1	hoboken	0.0854
+35	tagmee.topn3	hoboken Hoboken New Jersey	0.0929
+36	-1	gps	0.0382
+37	-1	pampered chef	0.0505
+38	-1	dogs for adoption	0.037
+39	-1	disneyland hotel	0.0343
+39	tagmee.topn3	disneyland hotel Disneyland Hotel California	0.0454
+39	tagmee.topn3.replace	Disneyland Hotel California	0.0402
+39	relevancefeedback.topn10.qld	disneyland hotel la anaheim	0.0379
+4	-1	toilet	0.0301
+40	-1	michworks	0.0379
+40	relevancefeedback.topn10.qld	michworks resum michigan bike i search work counti	0.0658
+40	relevancefeedback.topn10.bm25	michworks michigan search work bike counti	0.0522
+41	-1	orange county convention center	0.1646
+42	-1	the music man	0.0
+43	-1	the secret garden	0.1395
+43	wiki.topn3	secret garden novels frances hodgson burnett littlwomen thchristmas miraclof jonathan toomey secret garden	0.2609
+43	wiki.topn3.replace	novels frances hodgson burnett littlwomen thchristmas miraclof jonathan toomey secret garden	0.1627
+44	-1	map of the united states	0.0461
+45	-1	solar panels	0.1073
+46	-1	alexian brothers hospital	0.3073
+46	wordnet.topn3	alexian brothers hospital blood brother sidekick infirmary	0.3258
+46	wiki.topn3	alexian brothers hospital james ambrosdominic aylward tanchelm cistercian saints alexians james ambrosdominic aylward tanchelm cistercian saints alexians	0.3074
+47	-1	indexed annuity	0.1239
+47	sensedisambiguation	indexed index annuity	0.1777
+48	-1	wilson antenna	0.0423
+48	relevancefeedback.topn10.qld	wilson antenna cb http	0.0956
+49	-1	flame designs	0.2266
+5	-1	mitchell college	0.0058
+50	-1	dog heat	0.0144
+6	-1	kcs	0.0
+7	-1	air travel information	0.1142
+7	sensedisambiguation	air air travel travel information	0.1505
+7	sensedisambiguation.replace	air travel travel information	0.1309
+8	-1	appraisals	0.0
+8	conceptnet.topn3	appraisals establish a worth	0.0002
+9	-1	used car parts	0.0535
+9	conceptluster.topn5.3.qld	used car parts part	0.075
+9	termluster.topn5.3.qld	used car parts part	0.075
+51	-1	horse hooves	0.1409
+51	relevancefeedback.topn10.bm25	horse hooves last hoof hors lamp	0.1587
+51	sensedisambiguation	horse sawhorse hooves hoof	0.1576
+51	wordnet.topn3	horse hooves sawhorse sawbuck gymnastic horse hoof	0.1419
+52	-1	avp	0.1541
+53	-1	discovery channel store	0.109
+54	-1	president of the united states	0.0345
+54	sensedisambiguation	president president of the united states of the united states state	0.0436
+55	-1	iron	0.0008
+56	-1	uss yorktown charleston sc	0.002
+56	tagmee.topn3.replace	USS Yorktown CV Charleston South Carolina	0.0531
+56	tagmee.topn3	uss yorktown charleston sc USS Yorktown CV Charleston South Carolina	0.0342
+56	conceptluster.topn5.3.bm25	uss yorktown charleston sc charleston south carolina uss yorktown cv univers wand us math hunt	0.0318
+56	conceptluster.topn5.3.qld	uss yorktown charleston sc charleston south carolina uss yorktown cv depauw colleg mi	0.0316
+56	relevancefeedback.topn10.bm25	uss yorktown charleston sc carolina program aircraft pleasant discharg museum	0.0238
+56	relevancefeedback.topn10.qld	uss yorktown charleston sc n pleasant aircraft carolina	0.0165
+56	wordnet.topn3	uss yorktown charleston sc US USA United States siege of Yorktown capital of West Virginia scandium South Carolina	0.0157
+56	bertqe.topn10.qld	yorktown jcpenni yorktown yorktown theater	0.014
+56	conceptnet.topn3	uss yorktown charleston sc state css Security Council scandium	0.0093
+56	glove.topn3	uss yorktown charleston sc destroyer u s s williamsburg savannah s c karlsruher djecr	0.0049
+56	conceptnet.topn3.replace	state css yorktown charleston Security Council scandium	0.0043
+56	anchor.topn3	uss yorktown charleston sc amc aka cvhe yorktown yorktown mogyoród charleston carolina iaeger charleston summerville s c transfer talaea s c	0.0028
+56	sensedisambiguation.replace	united states yorktown charleston south carolina	0.0025
+57	-1	ct jobs	0.1843
+58	-1	penguins	0.0155
+59	-1	how to build a fence	0.0105
+59	tagmee.topn3	build fence	0.0117
+59	thesaurus.topn3	build fence	0.0117
+59	thesaurus.topn3.replace	build fence	0.0117
+59	wiki.topn3	build fence	0.0117
+60	-1	bellevue	0.0503
+61	-1	worm	0.0207
+62	-1	texas border patrol	0.2949
+62	tagmee.topn3.replace	Texas United States Border Patrol	0.4276
+62	tagmee.topn3	texas border patrol Texas United States Border Patrol	0.3872
+62	conceptluster.topn5.3.qld	texas border patrol united states border patrol texas c	0.3858
+62	wiki.topn3	texas border patrol texas states confederate states america louisiana texas united states border patrol el paso intelligenccenter u s customs border protection united states border patrol	0.3646
+62	wiki.topn3.replace	texas states confederate states america louisiana texas united states border patrol el paso intelligenccenter u s customs border protection united states border patrol	0.3599
+63	-1	flushing	0.0494
+63	tagmee.topn3	flushing Flushing Queens	0.0952
+63	tagmee.topn3.replace	Flushing Queens	0.0746
+63	conceptluster.topn5.3.qld	flushing flushing queens c	0.0737
+64	-1	moths	0.0598
+65	-1	korean language	0.0203
+65	glove.topn3	korean language korea word	0.2353
+65	wiki.topn3	korean language languages north korea languages korea buyeo languages korean language	0.1135
+65	wiki.topn3.replace	languages north korea languages korea buyeo languages korean language	0.0323
+66	-1	income tax return online	0.0035
+66	conceptluster.topn5.3.bm25	income tax return online tax return united states income tax c print dropbox read team	0.0081
+67	-1	vldl levels	0.1397
+67	tagmee.topn3	vldl levels Very low density lipoprotein	0.164
+67	sensedisambiguation	vldl very low density lipoprotein levels level	0.159
+67	stem.trunc4	vldl leve	0.1588
+67	conceptluster.topn5.3.qld	vldl levels low density lipoprotein c	0.1554
+68	-1	pvc	0.0256
+68	conceptluster.topn5.3.bm25	pvc polyvinyl chloride c print dropbox read team	0.0801
+68	wordnet.topn3	pvc premature ventricular contraction polyvinyl chloride	0.0606
+68	conceptluster.topn5.3.qld	pvc polyvinyl chloride c	0.0525
+68	tagmee.topn3	pvc Polyvinyl chloride	0.0369
+68	wordnet.topn3.replace	premature ventricular contraction polyvinyl chloride	0.0307
+69	-1	sewing instructions	0.0928
+70	-1	to be or not to be that is the question	0.0
+71	-1	living in india	0.0003
+71	glove.topn3	living india indian pakistan	0.0014
+71	wiki.topn3	living india states territories established india hindustani speaking countries territories india	0.0011
+71	tagmee.topn3	living india India	0.0009
+71	glove.topn3.replace	living indian pakistan	0.0007
+71	wiki.topn3.replace	states territories established india hindustani speaking countries territories india	0.0007
+72	-1	the sun	0.0
+73	-1	neil young	0.1438
+74	-1	kiwi	0.0061
+74	word2vec.topn3	kiwi kiwifruit	0.0387
+74	word2vec.topn3.replace	kiwifruit	0.0247
+75	-1	tornadoes	0.0849
+76	-1	raised gardens	0.183
+77	-1	bobcat	0.0309
+78	-1	dieting	0.0007
+78	wiki.topn3	dieting food faddism junk food macrobiotic diet dieting	0.004
+78	wiki.topn3.replace	food faddism junk food macrobiotic diet dieting	0.0028
+79	-1	voyager	0.001
+79	wiki.topn3	voyager missions uranus missions neptune missions saturn voyager program	0.1093
+79	wiki.topn3.replace	missions uranus missions neptune missions saturn voyager program	0.0956
+79	conceptluster.topn5.3.bm25	voyager voyager program energi acceler object	0.0942
+79	tagmee.topn3	voyager Voyager program	0.0397
+79	tagmee.topn3.replace	Voyager program	0.0299
+79	word2vec.topn3	voyager explorer	0.004
+80	-1	keyboard reviews	0.1222
+81	-1	afghanistan	0.0029
+81	anchor.topn3	afghanistan junbish عالی present	0.0271
+81	anchor.topn3.replace	junbish عالی present	0.0218
+81	wordnet.topn3	afghanistan Islamic State of Afghanistan	0.0059
+82	-1	joints	0.0002
+82	glove.topn3	joints tendons aching	0.0004
+83	-1	memory	0.0
+83	conceptnet.topn3	memory remembering something brain	0.0032
+83	conceptnet.topn3.replace	remembering something brain	0.0011
+83	glove.topn3	memory remembering	0.0004
+84	-1	continental plates	0.2208
+84	sensedisambiguation	continental plates plate	0.2709
+85	-1	milwaukee journal sentinel	0.0655
+86	-1	bart sf	0.3556
+87	-1	who invented music	0.0204
+87	conceptnet.topn3	invented music dance record rock	0.0448
+87	conceptnet.topn3.replace	invented dance record rock	0.0391
+87	tagmee.topn3	invented music The Who The Music	0.0309
+88	-1	forearm pain	0.1592
+89	-1	ocd	0.0989
+90	-1	mgb	0.0737
+90	relevancefeedback.topn10.bm25	mgb part busi group regist british mine metro	0.2939
+91	-1	er tv show	0.03
+91	conceptluster.topn5.3.qld	er tv show television program er tv series part car	0.1014
+91	tagmee.topn3	er tv show ER TV series ER TV series Television program	0.0936
+91	tagmee.topn3.replace	ER TV series ER TV series Television program	0.0588
+91	conceptluster.topn5.3.bm25	er tv show er tv series television program figur auto direct game object	0.0507
+92	-1	the wall	0.0
+93	-1	raffles	0.0649
+94	-1	titan	0.0056
+96	-1	rice	0.077
+97	-1	south africa	0.005
+97	bertqe.topn10.qld	south african nation cricket captain	0.0055
+98	-1	sat	0.0595
+99	-1	satellite	0.0
+99	wordnet.topn3	satellite artificial satellite planet	0.0169
+99	wordnet.topn3.replace	artificial satellite planet	0.0131
+99	glove.topn3	satellite launch	0.005
+99	bertqe.topn10.qld	technolog space satellit amateur observ	0.0036
+99	relevancefeedback.topn10.bm25	satellite satellit semant studi motion glonass	0.0004
+99	glove.topn3.replace	launch	0.0002
+101	-1	ritz carlton lake las vegas	0.121
+101	stem.trunc5	ritz carlt lake las vegas	0.1416
+102	-1	fickle creek farm	0.0015
+103	-1	madam cj walker	0.0264
+103	tagmee.topn3.replace	Madam C J Walker	0.2443
+103	conceptluster.topn5.3.bm25	madam cj walker madam c j walker death cellulos carbon restringido video	0.08
+103	conceptnet.topn3.replace	madam j chief justice walker	0.0577
+103	docluster.topn10.3.bm25	madam cj walker death cellulos carbon restringido video life trivia obama organ	0.0568
+103	tagmee.topn3	madam cj walker Madam C J Walker	0.0516
+103	conceptluster.topn5.3.qld	madam cj walker madam c j walker git object	0.0509
+103	wiki.topn3	madam cj walker bondagand freedom negro academy legal rights association madam c j walker	0.033
+103	termluster.topn5.3.bm25	madam cj walker death cellulos carbon restringido video	0.0277
+104	-1	indiana child support	0.016
+104	relevancefeedback.topn10.qld	indiana child support percent	0.076
+104	conceptluster.topn5.3.qld	indiana child support indiana child support united states git object	0.0734
+104	wiki.topn3	indiana child support indiana ohio cities indiana indiana noncustodial parent geduldig v aiello child abusprevention treatment act child support united states	0.031
+104	wiki.topn3.replace	indiana ohio cities indiana indiana noncustodial parent geduldig v aiello child abusprevention treatment act child support united states	0.031
+105	-1	sonoma county medical services	0.1349
+105	sensedisambiguation	sonoma county medical services servicing	0.1439
+106	-1	universal animal cuts reviews	0.0275
+107	-1	cass county missouri	0.1065
+107	anchor.topn3	cass county missouri pokagon elsmerensi wabedo missouri histori missouri educ missouri economi	0.2125
+107	docluster.topn10.3.qld	cass county missouri git object trivia	0.1322
+108	-1	ralph owen brewster	0.4706
+108	bertqe.topn10.qld	from senat ralph owen brewster	0.5521
+109	-1	mayo clinic jacksonville fl	0.0
+109	anchor.topn3	mayo clinic jacksonville fl uscg surfman aace care br administrative br florida histori florida a b	0.0012
+109	tagmee.topn3.replace	Mayo Clinic Jacksonville Florida	0.0011
+109	conceptnet.topn3	mayo clinic jacksonville fl mayonnaise yukon territory eye clinic hospital Florida	0.0009
+110	-1	map of brazil	0.0573
+111	-1	lymphoma in dogs	0.2641
+111	tagmee.topn3	lymphoma dogs Lymphoma in animals	0.3048
+111	anchor.topn3.replace	extracavitari lymphomas lymphoma dogs	0.2856
+111	anchor.topn3	lymphoma dogs extracavitari lymphomas lymphoma	0.2799
+111	conceptluster.topn5.3.qld	lymphoma dogs lymphoma animals git object	0.2676
+112	-1	kenmore gas water heater	0.0
+113	-1	hp mini 2140	0.0
+113	rm3.topn10.10.0.5.bm25	hp mini 2140	0.0074
+113	rm3.topn10.10.0.5.qld	hp mini 2140	0.0074
+114	-1	adobe indian houses	0.0132
+114	wiki.topn3	adobe indian houses buildings structures construction material adobe buildings structures pueblos adobe indigenous peoples united states native american topics native american history native americans united states houses residential area building house	0.0515
+114	wiki.topn3.replace	buildings structures construction material adobe buildings structures pueblos adobe indigenous peoples united states native american topics native american history native americans united states houses residential area building house	0.0511
+114	tagmee.topn3	adobe indian houses Adobe Native Americans in the United States House	0.0238
+114	conceptluster.topn5.3.qld	adobe indian houses native americans united states adobe house git object	0.0169
+115	-1	pacific northwest laboratory	0.0625
+115	tagmee.topn3	pacific northwest laboratory Pacific Northwest	0.125
+115	wordnet.topn3	pacific northwest laboratory peaceable Pacific Ocean northwestward science lab lab	0.0833
+116	-1	california franchise tax board	0.1437
+117	-1	dangers of asbestos	0.0477
+117	relevancefeedback.topn10.qld	dangers of asbestos asbesto cancer	0.092
+117	tagmee.topn3	dangers asbestos Risk Asbestos	0.0533
+118	-1	poem in your pocket day	0.1308
+119	-1	interview thank you	0.122
+120	-1	tv on computer	0.0083
+120	tagmee.topn3	tv computer Television Computer	0.0466
+120	glove.topn3	tv computer television broadcast software	0.04
+120	tagmee.topn3.replace	Television Computer	0.0107
+121	-1	sit and reach test	0.1063
+122	-1	culpeper national cemetery	0.1571
+122	conceptluster.topn5.3.bm25	culpeper national cemetery culpeper national cemetery death cellulos carbon restringido video	0.2571
+122	anchor.topn3	culpeper national cemetery sozialisten national noodzaak paris span	0.24
+122	termluster.topn5.3.bm25	culpeper national cemetery death cellulos carbon restringido video	0.2182
+123	-1	von willebrand disease	0.1962
+123	conceptluster.topn5.3.qld	von willebrand disease von willebrand disease git object	0.2217
+123	conceptluster.topn5.3.bm25	von willebrand disease von willebrand disease death cellulos carbon restringido video	0.2112
+123	relevancefeedback.topn10.qld	von willebrand disease diseas blood	0.1975
+124	-1	bowflex power pro	0.0486
+124	tagmee.topn3	bowflex power pro Bowflex	0.0579
+125	-1	butter and margarine	0.1177
+125	conceptluster.topn5.3.qld	butter margarine butter margarine git object	0.1229
+126	-1	us capitol map	0.0
+126	wordnet.topn3	us capitol map u uracil Capitol Building mathematical function represent	0.0105
+127	-1	dutchess county tourism	0.1737
+127	tagmee.topn3	dutchess county tourism Dutchess County New York	0.1748
+128	-1	atypical squamous cells	0.0446
+128	docluster.topn10.3.bm25	atypical squamous cells death cellulos carbon restringido video life trivia obama organ	0.0551
+128	relevancefeedback.topn10.bm25	atypical squamous cells cell carcinoma hpv skin squamou cervic	0.0544
+128	sensedisambiguation	atypical squamous cells cellular telephone	0.0478
+129	-1	iowa food stamp program	0.0176
+130	-1	fact on uranus	0.152
+131	-1	equal opportunity employer	0.0251
+131	relevancefeedback.topn10.bm25	equal opportunity employer action district hyanni engin nsw employ disabl	0.25
+131	relevancefeedback.topn10.qld	equal opportunity employer women action practic employ	0.125
+131	stem.porter2	equal opportun employ	0.05
+132	-1	mothers day songs	0.0381
+132	sensedisambiguation	mothers mother day songs sung	0.1063
+132	sensedisambiguation.replace	mother day sung	0.0771
+132	relevancefeedback.topn10.qld	mothers day songs dai mother i song	0.0635
+133	-1	all men are created equal	0.0689
+134	-1	electronic skeet shoot	0.0007
+134	conceptluster.topn5.3.bm25	electronic skeet shoot skeet shoot death cellulos carbon restringido video	0.0055
+134	tagmee.topn3.replace	Skeet Shoot	0.0034
+134	relevancefeedback.topn10.bm25	electronic skeet shoot plai possibl	0.0028
+134	anchor.topn3	electronic skeet shoot skeets sk str x murendwa shooting victim castile polic	0.0027
+134	termluster.topn5.3.bm25	electronic skeet shoot death cellulos carbon restringido video	0.0019
+134	tagmee.topn3	electronic skeet shoot Skeet Shoot	0.0012
+134	stem.trunc5	elect skeet shoot	0.001
+134	conceptluster.topn5.3.qld	electronic skeet shoot skeet shoot git object	0.0009
+134	termluster.topn5.3.qld	electronic skeet shoot git object	0.0009
+135	-1	source of the nile	0.0161
+135	conceptluster.topn5.3.qld	source nile nile git object	0.1786
+136	-1	american military university	0.0
+136	tagmee.topn3	american military university American Public University System	0.0095
+136	tagmee.topn3.replace	American Public University System	0.001
+137	-1	rock and gem shows	0.1172
+138	-1	jax chemical company	0.3643
+138	sensedisambiguation.replace	jax chemical ship s company	0.5557
+138	sensedisambiguation	jax chemical company ship s company	0.3769
+139	-1	rocky mountain news	0.0177
+139	wiki.topn3	rocky mountain news defunct newspapers colorado thdenver post media denver colorado rocky mountain news	0.3095
+139	wiki.topn3.replace	defunct newspapers colorado thdenver post media denver colorado rocky mountain news	0.268
+140	-1	east ridge high school	0.0625
+141	-1	va dmv registration	0.0231
+141	sensedisambiguation.replace	virginia dmv registration	0.2463
+141	stem.lovins	va dmv register	0.0553
+141	termluster.topn5.3.bm25	va dmv registration death cellulos carbon restringido video	0.0467
+141	relevancefeedback.topn10.bm25	va dmv registration form you servic oa chang vehicl	0.0382
+141	relevancefeedback.topn10.qld	va dmv registration form vehicl driver	0.0348
+141	word2vec.topn3	va dmv registration veut uning doit cdl nys dvla registering	0.0312
+141	sensedisambiguation	va virginia dmv registration	0.0269
+141	conceptluster.topn5.3.bm25	va dmv registration virginia washington metropolitan area death cellulos carbon restringido video	0.0243
+142	-1	illinois state tax	0.0141
+143	-1	arkadelphia health club	0.0
+144	-1	trombone for sale	0.1511
+145	-1	vines for shade	0.0779
+146	-1	sherwood regional library	0.1473
+147	-1	tangible personal property tax	0.1972
+148	-1	martha stewart and imclone	0.2381
+148	termluster.topn5.3.bm25	martha stewart imclone death cellulos carbon restringido video	0.2833
+148	docluster.topn10.3.bm25	martha stewart and imclone death cellulos carbon restringido video life trivia obama organ	0.2801
+148	conceptluster.topn5.3.bm25	martha stewart imclone imclone systems martha stewart death cellulos carbon restringido video	0.2577
+149	-1	uplift at yellowstone national park	0.1043
+149	word2vec.topn3	uplift yellowstone national park yosemite supervolcano super volcano regional international local parkland	0.1539
+149	termluster.topn5.3.bm25	uplift yellowstone national park death cellulos carbon restringido video	0.1454
+149	relevancefeedback.topn10.bm25	uplift at yellowstone national park yellowston	0.1339
+149	relevancefeedback.topn10.qld	uplift at yellowstone national park yellowston	0.1339
+149	sensedisambiguation.replace	uplift at yellowstone national parking lot	0.1206
+149	docluster.topn10.3.qld	uplift at yellowstone national park git object trivia	0.1076
+149	sensedisambiguation	uplift at yellowstone national park parking lot	0.1054
+149	termluster.topn5.3.qld	uplift yellowstone national park git object	0.1053
+150	-1	tn highway patrol	0.0083
+150	relevancefeedback.topn10.bm25	tn highway patrol state crash safeti new offic	0.0833
+150	conceptluster.topn5.3.qld	tn highway patrol tennessee highway patrol git object	0.0179
+150	tagmee.topn3	tn highway patrol Tennessee Highway patrol	0.0179
+150	relevancefeedback.topn10.qld	tn highway patrol highwai state info offic	0.0132
+150	conceptluster.topn5.3.bm25	tn highway patrol tennessee highway patrol death cellulos carbon restringido video	0.0119
+150	conceptnet.topn3	tn highway patrol Tennessee tennessee mn	0.0119
+150	sensedisambiguation	tn tennessee highway patrol	0.0104
+150	sensedisambiguation.replace	tennessee highway patrol	0.01
+150	tagmee.topn3.replace	Tennessee Highway patrol	0.01
+151	-1	403b	0.0
+151	rm3.topn10.10.0.5.bm25	403b	0.0837
+151	rm3.topn10.10.0.5.qld	403b	0.0837
+151	wiki.topn3	b plan federal employees retirement system roth k b	0.0229
+151	wiki.topn3.replace	plan federal employees retirement system roth k b	0.0071
+151	word2vec.topn3	b participant directed retirement savings	0.0036
+151	word2vec.topn3.replace	participant directed retirement savings	0.0031
+151	relevancefeedback.topn10.bm25	b plan r form sai loan contribut download	0.0003
+152	-1	angular cheilitis	0.0
+153	-1	pocono	0.2403
+154	-1	figs	0.0114
+155	-1	last supper painting	0.1375
+156	-1	university of phoenix	0.0755
+157	-1	the beatles rock band	0.0104
+157	conceptluster.topn5.3.qld	beatles rock band beatles album beatles rock band git object	0.0523
+157	glove.topn3	beatles rock band lennon mccartney band pop album	0.0311
+157	glove.topn3.replace	lennon mccartney band pop album	0.0211
+157	tagmee.topn3.replace	The Beatles album The Beatles Rock Band	0.0173
+157	tagmee.topn3	beatles rock band The Beatles album The Beatles Rock Band	0.0168
+158	-1	septic system design	0.2876
+159	-1	porterville	0.1752
+159	conceptluster.topn5.3.bm25	porterville porterville california death cellulos carbon restringido video	0.2025
+159	tagmee.topn3	porterville Porterville California	0.19
+159	tagmee.topn3.replace	Porterville California	0.1838
+160	-1	grilling	0.0
+161	-1	furniture for small spaces	0.003
+161	sensedisambiguation	furniture for small spaces space	0.0135
+162	-1	dnr	0.0144
+163	-1	arkansas	0.0014
+163	conceptnet.topn3	arkansas a state	0.0143
+164	-1	hobby stores	0.0315
+165	-1	blue throated hummingbird	0.0039
+165	termluster.topn5.3.qld	blue throated hummingbird git object	0.0137
+165	docluster.topn10.3.qld	blue throated hummingbird git object trivia	0.0105
+166	-1	computer programming	0.0015
+166	word2vec.topn3	computer programming software programmers	0.0051
+166	sensedisambiguation	computer programming program	0.0024
+167	-1	barbados	0.0004
+167	wiki.topn3	barbados islands barbados barbados saint lucia barbados	0.0006
+167	wiki.topn3.replace	islands barbados barbados saint lucia barbados	0.0006
+168	-1	lipoma	0.2623
+169	-1	battles in the civil war	0.027
+170	-1	scooters	0.0
+170	sensedisambiguation	scooters water scooter	0.0347
+170	sensedisambiguation.replace	water scooter	0.0188
+170	relevancefeedback.topn10.qld	scooters kick store scooter razor	0.0133
+170	bertqe.topn10.qld	scooter toi product review price	0.0104
+171	-1	ron howard	0.1068
+172	-1	becoming a paralegal	0.1152
+172	tagmee.topn3	becoming paralegal Paralegal	0.1161
+173	-1	hip fractures	0.2724
+174	-1	rock art	0.0511
+174	wiki.topn3	rock art cavpainting petroglyph caves containing pictograms rock art	0.0608
+175	-1	signs of a heartattack	0.02
+175	conceptluster.topn5.3.bm25	signs heartattack medical sign myocardial infarction death cellulos carbon restringido video	0.0276
+175	tagmee.topn3.replace	Medical sign Myocardial infarction	0.0227
+176	-1	weather strip	0.0013
+176	tagmee.topn3.replace	Weatherstripping	0.4373
+176	tagmee.topn3	weather strip Weatherstripping	0.0489
+176	conceptluster.topn5.3.qld	weather strip weatherstripping git object	0.0431
+176	wiki.topn3	weather strip cryogenic deflashing heat fusion melt manufacturing weatherstripping	0.0222
+176	conceptluster.topn5.3.bm25	weather strip weatherstripping death cellulos carbon restringido video	0.0205
+177	-1	best long term care insurance	0.035
+177	tagmee.topn3	best long term care insurance Long term care insurance	0.0399
+178	-1	pork tenderloin	0.0711
+178	conceptluster.topn5.3.qld	pork tenderloin pork tenderloin git object	0.0915
+178	termluster.topn5.3.qld	pork tenderloin git object	0.0847
+179	-1	black history	0.0207
+180	-1	newyork hotels	0.0024
+180	relevancefeedback.topn10.qld	newyork hotels hotel februari pictur new	0.0107
+180	sensedisambiguation	newyork hotels hotel	0.0036
+181	-1	old coins	0.0503
+182	-1	quit smoking	0.0404
+183	-1	kansas city mo	0.0026
+183	tagmee.topn3.replace	Kansas Kansas City Missouri	0.017
+183	wiki.topn3	kansas city mo kansas missouri nebraska kansas cities platte county missouri cities cass county missouri cities jackson county missouri kansas city missouri	0.0142
+183	wiki.topn3.replace	kansas missouri nebraska kansas cities platte county missouri cities cass county missouri cities jackson county missouri kansas city missouri	0.0079
+183	wordnet.topn3	kansas city mo KS Sunflower State Kansas River metropolis urban center second minute	0.0041
+184	-1	civil right movement	0.0053
+184	tagmee.topn3	civil right movement Civil and political rights Freedom of movement	0.1744
+184	tagmee.topn3.replace	Civil and political rights Freedom of movement	0.1167
+184	conceptluster.topn5.3.bm25	civil right movement civil political rights freedom movement death cellulos carbon restringido video	0.0691
+184	conceptluster.topn5.3.qld	civil right movement civil political rights freedom movement git object	0.034
+184	wiki.topn3	civil right movement rights civil liberties anti racism civil political rights united nations charter freedom assembly territorial integrity freedom movement	0.0237
+184	wiki.topn3.replace	rights civil liberties anti racism civil political rights united nations charter freedom assembly territorial integrity freedom movement	0.01
+184	relevancefeedback.topn10.bm25	civil right movement disabl commiss http men govern book you philadelphia feder	0.0065
+185	-1	credit report	0.0015
+185	relevancefeedback.topn10.qld	credit report inform	0.0322
+186	-1	unc	0.0087
+186	anchor.topn3	unc unc spartans shore lij	0.0093
+187	-1	vanuatu	0.0171
+187	wordnet.topn3	vanuatu Republic of Vanuatu New Hebrides	0.0196
+188	-1	internet phone service	0.0098
+189	-1	gs pay rate	0.0316
+189	sensedisambiguation	gs thousand pay wage rate	0.057
+190	-1	brooks brothers clearance	0.0988
+190	relevancefeedback.topn10.qld	brooks brothers clearance brook off brother knitwear cash save	0.159
+190	tagmee.topn3	brooks brothers clearance Brooks Brothers	0.111
+190	conceptluster.topn5.3.qld	brooks brothers clearance brooks brothers git object	0.1088
+191	-1	churchill downs	0.0664
+191	relevancefeedback.topn10.bm25	churchill downs churchil new	0.0691
+192	-1	condos in florida	0.0238
+193	-1	dog clean up bags	0.0943
+193	tagmee.topn3	dog clean bags Dog	0.0968
+194	-1	designer dog breeds	0.8546
+194	tagmee.topn3	designer dog breeds Dog crossbreed Dog breed	0.8692
+194	conceptluster.topn5.3.qld	designer dog breeds dog breed dog crossbreed git object	0.8678
+194	tagmee.topn3.replace	Dog crossbreed Dog breed	0.8605
+195	-1	pressure washers	0.0004
+195	relevancefeedback.topn10.bm25	pressure washers pressur nozzl price unload liter	0.007
+195	relevancefeedback.topn10.qld	pressure washers wand washer unload pressur kranzl liter	0.0006
+196	-1	sore throat	0.133
+197	-1	idaho state flower	0.0407
+197	wiki.topn3	idaho state flower idaho montana montana idaho john bellenden ker gawler magnolia campbellii list tregenera floral emblem	0.0583
+197	wiki.topn3.replace	idaho montana montana idaho john bellenden ker gawler magnolia campbellii list tregenera floral emblem	0.0471
+198	-1	indiana state fairgrounds	0.1411
+198	relevancefeedback.topn10.qld	indiana state fairgrounds fairground live school coliseum skate iac	0.1966
+198	relevancefeedback.topn10.bm25	indiana state fairgrounds barn live school skate coliseum dai i	0.1479
+199	-1	fybromyalgia	0.0103
+199	tagmee.topn3.replace	Fibromyalgia	0.1486
+199	tagmee.topn3	fybromyalgia Fibromyalgia	0.0605
+199	conceptluster.topn5.3.qld	fybromyalgia fibromyalgia git object	0.0537
+199	conceptluster.topn5.3.bm25	fybromyalgia fibromyalgia death cellulos carbon restringido video	0.0458
+199	relevancefeedback.topn10.qld	fybromyalgia i elavil fibromyalgia fm trial	0.0216
+199	relevancefeedback.topn10.bm25	fybromyalgia i elavil fibromyalgia medic depress wheat http trial	0.0134
+200	-1	ontario california airport	0.1676

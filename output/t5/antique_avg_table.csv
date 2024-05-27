@@ -1,0 +1,5 @@
+dataset,bm25.map,bm25.ndcg,bm25.recip_rank
+antique.base,0.227,0.342,0.634
+antique.bt,0.488,0.591,0.972
+antique.refiner,0.494,0.597,0.979
+antique.original,0.360,0.503,0.893

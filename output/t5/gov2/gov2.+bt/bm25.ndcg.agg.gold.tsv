@@ -1,0 +1,1570 @@
+qid	order	query	bm25.ndcg
+701	-1	u.s. oil industry history	0.0828
+701	pred.refiner.1	the history of the us oil industry	0.1973
+701	pred.refiner.10	the history of the us oil industry	0.1973
+701	pred.refiner.2	the history of the us oil industry	0.1973
+701	pred.refiner.3	the history of the us oil industry	0.1973
+701	pred.refiner.4	the history of the us oil industry	0.1973
+701	pred.refiner.5	the history of the us oil industry	0.1973
+701	pred.refiner.6	the history of the us oil industry	0.1973
+701	pred.refiner.7	the history of the us oil industry	0.1973
+701	pred.refiner.8	the history of the us oil industry	0.1973
+701	pred.refiner.9	the history of the us oil industry	0.1973
+702	-1	pearl farming	0.1361
+702	pred.refiner.1	pearl farming product fish	0.2593
+702	pred.refiner.10	pearl farming product fish	0.2593
+702	pred.refiner.2	pearl farming product fish	0.2593
+702	pred.refiner.3	pearl farming product fish	0.2593
+702	pred.refiner.4	pearl farming product fish	0.2593
+702	pred.refiner.5	pearl farming product fish	0.2593
+702	pred.refiner.6	pearl farming product fish	0.2593
+702	pred.refiner.7	pearl farming product fish	0.2593
+702	pred.refiner.8	pearl farming product fish	0.2593
+702	pred.refiner.9	pearl farming product fish	0.2593
+704	-1	green party political views	0.1912
+704	pred.refiner.1	green party political views libertarian parti polit state polit nation state parti nation	0.239
+704	pred.refiner.10	green party political views libertarian parti polit state polit nation state parti nation	0.239
+704	pred.refiner.2	green party political views libertarian parti polit state polit nation state parti nation	0.239
+704	pred.refiner.3	green party political views libertarian parti polit state polit nation state parti nation	0.239
+704	pred.refiner.4	green party political views libertarian parti polit state polit nation state parti nation	0.239
+704	pred.refiner.5	green party political views libertarian parti polit state polit nation state parti nation	0.239
+704	pred.refiner.6	green party political views libertarian parti polit state polit nation state parti nation	0.239
+704	pred.refiner.7	green party political views libertarian parti polit state polit nation state parti nation	0.239
+704	pred.refiner.8	green party political views libertarian parti polit state polit nation state parti nation	0.239
+704	pred.refiner.9	green party political views libertarian parti polit state polit nation state parti nation	0.239
+705	-1	iraq foreign debt reduction	0.2949
+705	pred.refiner.1	iraq foreign debt reduction iraq external debt debt	0.4538
+705	pred.refiner.10	iraq foreign debt reduction iraq external debt debt	0.4538
+705	pred.refiner.2	iraq foreign debt reduction iraq external debt debt	0.4538
+705	pred.refiner.3	iraq foreign debt reduction iraq external debt debt	0.4538
+705	pred.refiner.4	iraq foreign debt reduction iraq external debt debt	0.4538
+705	pred.refiner.5	iraq foreign debt reduction iraq external debt debt	0.4538
+705	pred.refiner.6	iraq foreign debt reduction iraq external debt debt	0.4538
+705	pred.refiner.7	iraq foreign debt reduction iraq external debt debt	0.4538
+705	pred.refiner.8	iraq foreign debt reduction iraq external debt debt	0.4538
+705	pred.refiner.9	iraq foreign debt reduction iraq external debt debt	0.4538
+706	-1	controlling type ii diabetes	0.1037
+706	pred.refiner.1	see type two diabetes	0.1488
+706	pred.refiner.10	see type two diabetes	0.1488
+706	pred.refiner.2	see type two diabetes	0.1488
+706	pred.refiner.3	see type two diabetes	0.1488
+706	pred.refiner.4	see type two diabetes	0.1488
+706	pred.refiner.5	see type two diabetes	0.1488
+706	pred.refiner.6	see type two diabetes	0.1488
+706	pred.refiner.7	see type two diabetes	0.1488
+706	pred.refiner.8	see type two diabetes	0.1488
+706	pred.refiner.9	see type two diabetes	0.1488
+707	-1	aspirin cancer prevention	0.4535
+707	pred.refiner.1	aspirin cancer prevention cancer colon effect aspirin colon effect studi screen risk	0.5718
+707	pred.refiner.10	aspirin cancer prevention cancer colon effect aspirin colon effect studi screen risk	0.5718
+707	pred.refiner.2	aspirin cancer prevention cancer colon effect aspirin colon effect studi screen risk	0.5718
+707	pred.refiner.3	aspirin cancer prevention cancer colon effect aspirin colon effect studi screen risk	0.5718
+707	pred.refiner.4	aspirin cancer prevention cancer colon effect aspirin colon effect studi screen risk	0.5718
+707	pred.refiner.5	aspirin cancer prevention cancer colon effect aspirin colon effect studi screen risk	0.5718
+707	pred.refiner.6	aspirin cancer prevention cancer colon effect aspirin colon effect studi screen risk	0.5718
+707	pred.refiner.7	aspirin cancer prevention cancer colon effect aspirin colon effect studi screen risk	0.5718
+707	pred.refiner.8	aspirin cancer prevention cancer colon effect aspirin colon effect studi screen risk	0.5718
+707	pred.refiner.9	aspirin cancer prevention cancer colon effect aspirin colon effect studi screen risk	0.5718
+708	-1	decorative slate sources	0.3088
+709	-1	horse racing jockey weight	0.722
+709	pred.refiner.1	horse racing jockey weight shall race	0.7374
+709	pred.refiner.10	horse racing jockey weight shall race	0.7374
+709	pred.refiner.2	horse racing jockey weight shall race	0.7374
+709	pred.refiner.3	horse racing jockey weight shall race	0.7374
+709	pred.refiner.4	horse racing jockey weight shall race	0.7374
+709	pred.refiner.5	horse racing jockey weight shall race	0.7374
+709	pred.refiner.6	horse racing jockey weight shall race	0.7374
+709	pred.refiner.7	horse racing jockey weight shall race	0.7374
+709	pred.refiner.8	horse racing jockey weight shall race	0.7374
+709	pred.refiner.9	horse racing jockey weight shall race	0.7374
+710	-1	prostate cancer treatments	0.3634
+710	pred.refiner.1	prostate cancer treatments	0.3634
+710	pred.refiner.10	prostate cancer treatments	0.3634
+710	pred.refiner.2	prostate cancer treatments	0.3634
+710	pred.refiner.3	prostate cancer treatments	0.3634
+710	pred.refiner.4	prostate cancer treatments	0.3634
+710	pred.refiner.5	prostate cancer treatments	0.3634
+710	pred.refiner.6	prostate cancer treatments	0.3634
+710	pred.refiner.7	prostate cancer treatments	0.3634
+710	pred.refiner.8	prostate cancer treatments	0.3634
+710	pred.refiner.9	prostate cancer treatments	0.3634
+711	-1	train station security measures	0.2482
+711	pred.refiner.1	train station security measures measur naval amtrak secur transport	0.3396
+711	pred.refiner.10	train station security measures measur naval amtrak secur transport	0.3396
+711	pred.refiner.2	train station security measures measur naval amtrak secur transport	0.3396
+711	pred.refiner.3	train station security measures measur naval amtrak secur transport	0.3396
+711	pred.refiner.4	train station security measures measur naval amtrak secur transport	0.3396
+711	pred.refiner.5	train station security measures measur naval amtrak secur transport	0.3396
+711	pred.refiner.6	train station security measures measur naval amtrak secur transport	0.3396
+711	pred.refiner.7	train station security measures measur naval amtrak secur transport	0.3396
+711	pred.refiner.8	train station security measures measur naval amtrak secur transport	0.3396
+711	pred.refiner.9	train station security measures measur naval amtrak secur transport	0.3396
+712	-1	pyramid scheme	0.3626
+713	-1	chesapeake bay maryland clean	0.2573
+713	pred.refiner.1	chesapeake bay true laurel maryland clean clean and jerk	0.2609
+713	pred.refiner.10	chesapeake bay true laurel maryland clean clean and jerk	0.2609
+713	pred.refiner.2	chesapeake bay true laurel maryland clean clean and jerk	0.2609
+713	pred.refiner.3	chesapeake bay true laurel maryland clean clean and jerk	0.2609
+713	pred.refiner.4	chesapeake bay true laurel maryland clean clean and jerk	0.2609
+713	pred.refiner.5	chesapeake bay true laurel maryland clean clean and jerk	0.2609
+713	pred.refiner.6	chesapeake bay true laurel maryland clean clean and jerk	0.2609
+713	pred.refiner.7	chesapeake bay true laurel maryland clean clean and jerk	0.2609
+713	pred.refiner.8	chesapeake bay true laurel maryland clean clean and jerk	0.2609
+713	pred.refiner.9	chesapeake bay true laurel maryland clean clean and jerk	0.2609
+714	-1	license restrictions older drivers	0.3352
+714	pred.refiner.1	license restrictions older drivers renew driver restrict licens	0.3625
+714	pred.refiner.10	license restrictions older drivers renew driver restrict licens	0.3625
+714	pred.refiner.2	license restrictions older drivers renew driver restrict licens	0.3625
+714	pred.refiner.3	license restrictions older drivers renew driver restrict licens	0.3625
+714	pred.refiner.4	license restrictions older drivers renew driver restrict licens	0.3625
+714	pred.refiner.5	license restrictions older drivers renew driver restrict licens	0.3625
+714	pred.refiner.6	license restrictions older drivers renew driver restrict licens	0.3625
+714	pred.refiner.7	license restrictions older drivers renew driver restrict licens	0.3625
+714	pred.refiner.8	license restrictions older drivers renew driver restrict licens	0.3625
+714	pred.refiner.9	license restrictions older drivers renew driver restrict licens	0.3625
+715	-1	schizophrenia drugs	0.1867
+715	pred.refiner.1	schizophrenia drugs patient	0.3269
+715	pred.refiner.10	schizophrenia drugs patient	0.3269
+715	pred.refiner.2	schizophrenia drugs patient	0.3269
+715	pred.refiner.3	schizophrenia drugs patient	0.3269
+715	pred.refiner.4	schizophrenia drugs patient	0.3269
+715	pred.refiner.5	schizophrenia drugs patient	0.3269
+715	pred.refiner.6	schizophrenia drugs patient	0.3269
+715	pred.refiner.7	schizophrenia drugs patient	0.3269
+715	pred.refiner.8	schizophrenia drugs patient	0.3269
+715	pred.refiner.9	schizophrenia drugs patient	0.3269
+716	-1	spammer arrest sue	0.2416
+716	pred.refiner.1	spammer arrest lawsuit	0.3554
+716	pred.refiner.10	spammer arrest lawsuit	0.3554
+716	pred.refiner.2	spammer arrest lawsuit	0.3554
+716	pred.refiner.3	spammer arrest lawsuit	0.3554
+716	pred.refiner.4	spammer arrest lawsuit	0.3554
+716	pred.refiner.5	spammer arrest lawsuit	0.3554
+716	pred.refiner.6	spammer arrest lawsuit	0.3554
+716	pred.refiner.7	spammer arrest lawsuit	0.3554
+716	pred.refiner.8	spammer arrest lawsuit	0.3554
+716	pred.refiner.9	spammer arrest lawsuit	0.3554
+717	-1	gifted talented student programs	0.2203
+717	pred.refiner.1	gifted talented student programs academ curriculum develop student school requir perform school talent texa teacher state	0.2321
+717	pred.refiner.10	gifted talented student programs academ curriculum develop student school requir perform school talent texa teacher state	0.2321
+717	pred.refiner.2	gifted talented student programs academ curriculum develop student school requir perform school talent texa teacher state	0.2321
+717	pred.refiner.3	gifted talented student programs academ curriculum develop student school requir perform school talent texa teacher state	0.2321
+717	pred.refiner.4	gifted talented student programs academ curriculum develop student school requir perform school talent texa teacher state	0.2321
+717	pred.refiner.5	gifted talented student programs academ curriculum develop student school requir perform school talent texa teacher state	0.2321
+717	pred.refiner.6	gifted talented student programs academ curriculum develop student school requir perform school talent texa teacher state	0.2321
+717	pred.refiner.7	gifted talented student programs academ curriculum develop student school requir perform school talent texa teacher state	0.2321
+717	pred.refiner.8	gifted talented student programs academ curriculum develop student school requir perform school talent texa teacher state	0.2321
+717	pred.refiner.9	gifted talented student programs academ curriculum develop student school requir perform school talent texa teacher state	0.2321
+718	-1	controlling acid rain	0.1929
+718	pred.refiner.1	controlling acid rain	0.1929
+718	pred.refiner.10	controlling acid rain	0.1929
+718	pred.refiner.2	controlling acid rain	0.1929
+718	pred.refiner.3	controlling acid rain	0.1929
+718	pred.refiner.4	controlling acid rain	0.1929
+718	pred.refiner.5	controlling acid rain	0.1929
+718	pred.refiner.6	controlling acid rain	0.1929
+718	pred.refiner.7	controlling acid rain	0.1929
+718	pred.refiner.8	controlling acid rain	0.1929
+718	pred.refiner.9	controlling acid rain	0.1929
+719	-1	cruise ship damage sea life	0.0921
+719	pred.refiner.1	cruising ships are damaging marine life	0.1546
+719	pred.refiner.10	cruising ships are damaging marine life	0.1546
+719	pred.refiner.2	cruising ships are damaging marine life	0.1546
+719	pred.refiner.3	cruising ships are damaging marine life	0.1546
+719	pred.refiner.4	cruising ships are damaging marine life	0.1546
+719	pred.refiner.5	cruising ships are damaging marine life	0.1546
+719	pred.refiner.6	cruising ships are damaging marine life	0.1546
+719	pred.refiner.7	cruising ships are damaging marine life	0.1546
+719	pred.refiner.8	cruising ships are damaging marine life	0.1546
+719	pred.refiner.9	cruising ships are damaging marine life	0.1546
+720	-1	federal welfare reform	0.137
+720	pred.refiner.1	federal welfare reform welfar state	0.1557
+720	pred.refiner.10	federal welfare reform welfar state	0.1557
+720	pred.refiner.2	federal welfare reform welfar state	0.1557
+720	pred.refiner.3	federal welfare reform welfar state	0.1557
+720	pred.refiner.4	federal welfare reform welfar state	0.1557
+720	pred.refiner.5	federal welfare reform welfar state	0.1557
+720	pred.refiner.6	federal welfare reform welfar state	0.1557
+720	pred.refiner.7	federal welfare reform welfar state	0.1557
+720	pred.refiner.8	federal welfare reform welfar state	0.1557
+720	pred.refiner.9	federal welfare reform welfar state	0.1557
+721	-1	census data applications	0.0453
+721	pred.refiner.1	applications for the population census data	0.073
+721	pred.refiner.10	applications for the population census data	0.073
+721	pred.refiner.2	applications for the population census data	0.073
+721	pred.refiner.3	applications for the population census data	0.073
+721	pred.refiner.4	applications for the population census data	0.073
+721	pred.refiner.5	applications for the population census data	0.073
+721	pred.refiner.6	applications for the population census data	0.073
+721	pred.refiner.7	applications for the population census data	0.073
+721	pred.refiner.8	applications for the population census data	0.073
+721	pred.refiner.9	applications for the population census data	0.073
+722	-1	iran terrorism	0.3995
+723	-1	executive privilege	0.3498
+723	pred.refiner.1	executive privilege presid privileg	0.4742
+723	pred.refiner.10	executive privilege presid privileg	0.4742
+723	pred.refiner.2	executive privilege presid privileg	0.4742
+723	pred.refiner.3	executive privilege presid privileg	0.4742
+723	pred.refiner.4	executive privilege presid privileg	0.4742
+723	pred.refiner.5	executive privilege presid privileg	0.4742
+723	pred.refiner.6	executive privilege presid privileg	0.4742
+723	pred.refiner.7	executive privilege presid privileg	0.4742
+723	pred.refiner.8	executive privilege presid privileg	0.4742
+723	pred.refiner.9	executive privilege presid privileg	0.4742
+724	-1	iran contra	0.344
+724	pred.refiner.1	iran contra casei cia defend record	0.5623
+724	pred.refiner.10	iran contra casei cia defend record	0.5623
+724	pred.refiner.2	iran contra casei cia defend record	0.5623
+724	pred.refiner.3	iran contra casei cia defend record	0.5623
+724	pred.refiner.4	iran contra casei cia defend record	0.5623
+724	pred.refiner.5	iran contra casei cia defend record	0.5623
+724	pred.refiner.6	iran contra casei cia defend record	0.5623
+724	pred.refiner.7	iran contra casei cia defend record	0.5623
+724	pred.refiner.8	iran contra casei cia defend record	0.5623
+724	pred.refiner.9	iran contra casei cia defend record	0.5623
+725	-1	low white blood cell count	0.282
+725	pred.refiner.1	low white blood cell count	0.282
+725	pred.refiner.10	low white blood cell count	0.282
+725	pred.refiner.2	low white blood cell count	0.282
+725	pred.refiner.3	low white blood cell count	0.282
+725	pred.refiner.4	low white blood cell count	0.282
+725	pred.refiner.5	low white blood cell count	0.282
+725	pred.refiner.6	low white blood cell count	0.282
+725	pred.refiner.7	low white blood cell count	0.282
+725	pred.refiner.8	low white blood cell count	0.282
+725	pred.refiner.9	low white blood cell count	0.282
+726	-1	hubble telescope repairs	0.2842
+726	pred.refiner.1	hubble telescope repairs hubble space telescope	0.3439
+726	pred.refiner.10	hubble telescope repairs hubble space telescope	0.3439
+726	pred.refiner.2	hubble telescope repairs hubble space telescope	0.3439
+726	pred.refiner.3	hubble telescope repairs hubble space telescope	0.3439
+726	pred.refiner.4	hubble telescope repairs hubble space telescope	0.3439
+726	pred.refiner.5	hubble telescope repairs hubble space telescope	0.3439
+726	pred.refiner.6	hubble telescope repairs hubble space telescope	0.3439
+726	pred.refiner.7	hubble telescope repairs hubble space telescope	0.3439
+726	pred.refiner.8	hubble telescope repairs hubble space telescope	0.3439
+726	pred.refiner.9	hubble telescope repairs hubble space telescope	0.3439
+727	-1	church arson	0.4789
+727	pred.refiner.1	church arson church service church building christian church incendiarism fire raising	0.6057
+727	pred.refiner.10	church arson church service church building christian church incendiarism fire raising	0.6057
+727	pred.refiner.2	church arson church service church building christian church incendiarism fire raising	0.6057
+727	pred.refiner.3	church arson church service church building christian church incendiarism fire raising	0.6057
+727	pred.refiner.4	church arson church service church building christian church incendiarism fire raising	0.6057
+727	pred.refiner.5	church arson church service church building christian church incendiarism fire raising	0.6057
+727	pred.refiner.6	church arson church service church building christian church incendiarism fire raising	0.6057
+727	pred.refiner.7	church arson church service church building christian church incendiarism fire raising	0.6057
+727	pred.refiner.8	church arson church service church building christian church incendiarism fire raising	0.6057
+727	pred.refiner.9	church arson church service church building christian church incendiarism fire raising	0.6057
+728	-1	whales save endangered	0.2008
+728	pred.refiner.1	whales save endangered whale endang	0.2273
+728	pred.refiner.10	whales save endangered whale endang	0.2273
+728	pred.refiner.2	whales save endangered whale endang	0.2273
+728	pred.refiner.3	whales save endangered whale endang	0.2273
+728	pred.refiner.4	whales save endangered whale endang	0.2273
+728	pred.refiner.5	whales save endangered whale endang	0.2273
+728	pred.refiner.6	whales save endangered whale endang	0.2273
+728	pred.refiner.7	whales save endangered whale endang	0.2273
+728	pred.refiner.8	whales save endangered whale endang	0.2273
+728	pred.refiner.9	whales save endangered whale endang	0.2273
+729	-1	whistle blower department of defense	0.0
+729	pred.refiner.1	whistle blower department defense blowing whistleblower administration defence	0.2099
+729	pred.refiner.10	whistle blower department defense blowing whistleblower administration defence	0.2099
+729	pred.refiner.2	whistle blower department defense blowing whistleblower administration defence	0.2099
+729	pred.refiner.3	whistle blower department defense blowing whistleblower administration defence	0.2099
+729	pred.refiner.4	whistle blower department defense blowing whistleblower administration defence	0.2099
+729	pred.refiner.5	whistle blower department defense blowing whistleblower administration defence	0.2099
+729	pred.refiner.6	whistle blower department defense blowing whistleblower administration defence	0.2099
+729	pred.refiner.7	whistle blower department defense blowing whistleblower administration defence	0.2099
+729	pred.refiner.8	whistle blower department defense blowing whistleblower administration defence	0.2099
+729	pred.refiner.9	whistle blower department defense blowing whistleblower administration defence	0.2099
+730	-1	gastric bypass complications	0.6458
+730	pred.refiner.1	gastric bypass complications	0.6458
+730	pred.refiner.10	gastric bypass complications	0.6458
+730	pred.refiner.2	gastric bypass complications	0.6458
+730	pred.refiner.3	gastric bypass complications	0.6458
+730	pred.refiner.4	gastric bypass complications	0.6458
+730	pred.refiner.5	gastric bypass complications	0.6458
+730	pred.refiner.6	gastric bypass complications	0.6458
+730	pred.refiner.7	gastric bypass complications	0.6458
+730	pred.refiner.8	gastric bypass complications	0.6458
+730	pred.refiner.9	gastric bypass complications	0.6458
+731	-1	kurds history	0.121
+731	pred.refiner.1	kurds past subject school	0.2846
+731	pred.refiner.10	kurds past subject school	0.2846
+731	pred.refiner.2	kurds past subject school	0.2846
+731	pred.refiner.3	kurds past subject school	0.2846
+731	pred.refiner.4	kurds past subject school	0.2846
+731	pred.refiner.5	kurds past subject school	0.2846
+731	pred.refiner.6	kurds past subject school	0.2846
+731	pred.refiner.7	kurds past subject school	0.2846
+731	pred.refiner.8	kurds past subject school	0.2846
+731	pred.refiner.9	kurds past subject school	0.2846
+732	-1	u.s. cheese production	0.1161
+732	pred.refiner.1	u s cheese production united states government usa us cheeseflower high mallow output yield	0.1453
+732	pred.refiner.10	u s cheese production united states government usa us cheeseflower high mallow output yield	0.1453
+732	pred.refiner.2	u s cheese production united states government usa us cheeseflower high mallow output yield	0.1453
+732	pred.refiner.3	u s cheese production united states government usa us cheeseflower high mallow output yield	0.1453
+732	pred.refiner.4	u s cheese production united states government usa us cheeseflower high mallow output yield	0.1453
+732	pred.refiner.5	u s cheese production united states government usa us cheeseflower high mallow output yield	0.1453
+732	pred.refiner.6	u s cheese production united states government usa us cheeseflower high mallow output yield	0.1453
+732	pred.refiner.7	u s cheese production united states government usa us cheeseflower high mallow output yield	0.1453
+732	pred.refiner.8	u s cheese production united states government usa us cheeseflower high mallow output yield	0.1453
+732	pred.refiner.9	u s cheese production united states government usa us cheeseflower high mallow output yield	0.1453
+733	-1	airline overbooking	0.424
+733	pred.refiner.1	airline overbooking ticket overbook flight ticket flight airlin	0.4697
+733	pred.refiner.10	airline overbooking ticket overbook flight ticket flight airlin	0.4697
+733	pred.refiner.2	airline overbooking ticket overbook flight ticket flight airlin	0.4697
+733	pred.refiner.3	airline overbooking ticket overbook flight ticket flight airlin	0.4697
+733	pred.refiner.4	airline overbooking ticket overbook flight ticket flight airlin	0.4697
+733	pred.refiner.5	airline overbooking ticket overbook flight ticket flight airlin	0.4697
+733	pred.refiner.6	airline overbooking ticket overbook flight ticket flight airlin	0.4697
+733	pred.refiner.7	airline overbooking ticket overbook flight ticket flight airlin	0.4697
+733	pred.refiner.8	airline overbooking ticket overbook flight ticket flight airlin	0.4697
+733	pred.refiner.9	airline overbooking ticket overbook flight ticket flight airlin	0.4697
+734	-1	recycling successes	0.1656
+734	pred.refiner.1	recycling successes	0.1656
+734	pred.refiner.10	recycling successes	0.1656
+734	pred.refiner.2	recycling successes	0.1656
+734	pred.refiner.3	recycling successes	0.1656
+734	pred.refiner.4	recycling successes	0.1656
+734	pred.refiner.5	recycling successes	0.1656
+734	pred.refiner.6	recycling successes	0.1656
+734	pred.refiner.7	recycling successes	0.1656
+734	pred.refiner.8	recycling successes	0.1656
+734	pred.refiner.9	recycling successes	0.1656
+735	-1	afghan women condition	0.214
+735	pred.refiner.1	afghan women condition	0.214
+735	pred.refiner.10	afghan women condition	0.214
+735	pred.refiner.2	afghan women condition	0.214
+735	pred.refiner.3	afghan women condition	0.214
+735	pred.refiner.4	afghan women condition	0.214
+735	pred.refiner.5	afghan women condition	0.214
+735	pred.refiner.6	afghan women condition	0.214
+735	pred.refiner.7	afghan women condition	0.214
+735	pred.refiner.8	afghan women condition	0.214
+735	pred.refiner.9	afghan women condition	0.214
+736	-1	location bse infections	0.285
+736	pred.refiner.1	location bse infections cattl	0.2905
+736	pred.refiner.10	location bse infections cattl	0.2905
+736	pred.refiner.2	location bse infections cattl	0.2905
+736	pred.refiner.3	location bse infections cattl	0.2905
+736	pred.refiner.4	location bse infections cattl	0.2905
+736	pred.refiner.5	location bse infections cattl	0.2905
+736	pred.refiner.6	location bse infections cattl	0.2905
+736	pred.refiner.7	location bse infections cattl	0.2905
+736	pred.refiner.8	location bse infections cattl	0.2905
+736	pred.refiner.9	location bse infections cattl	0.2905
+737	-1	enron california energy crisis	0.4216
+737	pred.refiner.1	enron california energy crisis energi market	0.4312
+737	pred.refiner.10	enron california energy crisis energi market	0.4312
+737	pred.refiner.2	enron california energy crisis energi market	0.4312
+737	pred.refiner.3	enron california energy crisis energi market	0.4312
+737	pred.refiner.4	enron california energy crisis energi market	0.4312
+737	pred.refiner.5	enron california energy crisis energi market	0.4312
+737	pred.refiner.6	enron california energy crisis energi market	0.4312
+737	pred.refiner.7	enron california energy crisis energi market	0.4312
+737	pred.refiner.8	enron california energy crisis energi market	0.4312
+737	pred.refiner.9	enron california energy crisis energi market	0.4312
+738	-1	anthrax hoaxes	0.5801
+738	pred.refiner.1	anthrax hoaxes hoax i we were	0.6374
+738	pred.refiner.10	anthrax hoaxes hoax i we were	0.6374
+738	pred.refiner.2	anthrax hoaxes hoax i we were	0.6374
+738	pred.refiner.3	anthrax hoaxes hoax i we were	0.6374
+738	pred.refiner.4	anthrax hoaxes hoax i we were	0.6374
+738	pred.refiner.5	anthrax hoaxes hoax i we were	0.6374
+738	pred.refiner.6	anthrax hoaxes hoax i we were	0.6374
+738	pred.refiner.7	anthrax hoaxes hoax i we were	0.6374
+738	pred.refiner.8	anthrax hoaxes hoax i we were	0.6374
+738	pred.refiner.9	anthrax hoaxes hoax i we were	0.6374
+739	-1	habitat for humanity	0.2258
+739	pred.refiner.1	habitat for humanity	0.2258
+739	pred.refiner.10	habitat for humanity	0.2258
+739	pred.refiner.2	habitat for humanity	0.2258
+739	pred.refiner.3	habitat for humanity	0.2258
+739	pred.refiner.4	habitat for humanity	0.2258
+739	pred.refiner.5	habitat for humanity	0.2258
+739	pred.refiner.6	habitat for humanity	0.2258
+739	pred.refiner.7	habitat for humanity	0.2258
+739	pred.refiner.8	habitat for humanity	0.2258
+739	pred.refiner.9	habitat for humanity	0.2258
+740	-1	regulate assisted living maryland	0.4069
+740	pred.refiner.1	assistant living in maryland	0.4287
+740	pred.refiner.10	assistant living in maryland	0.4287
+740	pred.refiner.2	assistant living in maryland	0.4287
+740	pred.refiner.3	assistant living in maryland	0.4287
+740	pred.refiner.4	assistant living in maryland	0.4287
+740	pred.refiner.5	assistant living in maryland	0.4287
+740	pred.refiner.6	assistant living in maryland	0.4287
+740	pred.refiner.7	assistant living in maryland	0.4287
+740	pred.refiner.8	assistant living in maryland	0.4287
+740	pred.refiner.9	assistant living in maryland	0.4287
+741	-1	artificial intelligence	0.0776
+741	pred.refiner.1	artificial intelligence learning united states intelligence agency	0.2551
+741	pred.refiner.10	artificial intelligence learning united states intelligence agency	0.2551
+741	pred.refiner.2	artificial intelligence learning united states intelligence agency	0.2551
+741	pred.refiner.3	artificial intelligence learning united states intelligence agency	0.2551
+741	pred.refiner.4	artificial intelligence learning united states intelligence agency	0.2551
+741	pred.refiner.5	artificial intelligence learning united states intelligence agency	0.2551
+741	pred.refiner.6	artificial intelligence learning united states intelligence agency	0.2551
+741	pred.refiner.7	artificial intelligence learning united states intelligence agency	0.2551
+741	pred.refiner.8	artificial intelligence learning united states intelligence agency	0.2551
+741	pred.refiner.9	artificial intelligence learning united states intelligence agency	0.2551
+742	-1	hedge funds fraud protection	0.3937
+742	pred.refiner.1	hedge funds fraud prote	0.5592
+742	pred.refiner.10	hedge funds fraud prote	0.5592
+742	pred.refiner.2	hedge funds fraud prote	0.5592
+742	pred.refiner.3	hedge funds fraud prote	0.5592
+742	pred.refiner.4	hedge funds fraud prote	0.5592
+742	pred.refiner.5	hedge funds fraud prote	0.5592
+742	pred.refiner.6	hedge funds fraud prote	0.5592
+742	pred.refiner.7	hedge funds fraud prote	0.5592
+742	pred.refiner.8	hedge funds fraud prote	0.5592
+742	pred.refiner.9	hedge funds fraud prote	0.5592
+743	-1	freighter ship registration	0.0251
+743	pred.refiner.1	register of ships	0.079
+743	pred.refiner.10	register of ships	0.079
+743	pred.refiner.2	register of ships	0.079
+743	pred.refiner.3	register of ships	0.079
+743	pred.refiner.4	register of ships	0.079
+743	pred.refiner.5	register of ships	0.079
+743	pred.refiner.6	register of ships	0.079
+743	pred.refiner.7	register of ships	0.079
+743	pred.refiner.8	register of ships	0.079
+743	pred.refiner.9	register of ships	0.079
+744	-1	counterfeit id punishments	0.0169
+744	pred.refiner.1	counterfeit id punishments fake identification meted	0.1809
+744	pred.refiner.10	counterfeit id punishments fake identification meted	0.1809
+744	pred.refiner.2	counterfeit id punishments fake identification meted	0.1809
+744	pred.refiner.3	counterfeit id punishments fake identification meted	0.1809
+744	pred.refiner.4	counterfeit id punishments fake identification meted	0.1809
+744	pred.refiner.5	counterfeit id punishments fake identification meted	0.1809
+744	pred.refiner.6	counterfeit id punishments fake identification meted	0.1809
+744	pred.refiner.7	counterfeit id punishments fake identification meted	0.1809
+744	pred.refiner.8	counterfeit id punishments fake identification meted	0.1809
+744	pred.refiner.9	counterfeit id punishments fake identification meted	0.1809
+745	-1	doomsday cults	0.3729
+745	pred.refiner.1	doomsday cults cult aum sects	0.4371
+745	pred.refiner.10	doomsday cults cult aum sects	0.4371
+745	pred.refiner.2	doomsday cults cult aum sects	0.4371
+745	pred.refiner.3	doomsday cults cult aum sects	0.4371
+745	pred.refiner.4	doomsday cults cult aum sects	0.4371
+745	pred.refiner.5	doomsday cults cult aum sects	0.4371
+745	pred.refiner.6	doomsday cults cult aum sects	0.4371
+745	pred.refiner.7	doomsday cults cult aum sects	0.4371
+745	pred.refiner.8	doomsday cults cult aum sects	0.4371
+745	pred.refiner.9	doomsday cults cult aum sects	0.4371
+746	-1	outsource job india	0.4034
+746	pred.refiner.1	outsource job india yustino ndugai nilgri india histori olatpur	0.5474
+746	pred.refiner.10	outsource job india yustino ndugai nilgri india histori olatpur	0.5474
+746	pred.refiner.2	outsource job india yustino ndugai nilgri india histori olatpur	0.5474
+746	pred.refiner.3	outsource job india yustino ndugai nilgri india histori olatpur	0.5474
+746	pred.refiner.4	outsource job india yustino ndugai nilgri india histori olatpur	0.5474
+746	pred.refiner.5	outsource job india yustino ndugai nilgri india histori olatpur	0.5474
+746	pred.refiner.6	outsource job india yustino ndugai nilgri india histori olatpur	0.5474
+746	pred.refiner.7	outsource job india yustino ndugai nilgri india histori olatpur	0.5474
+746	pred.refiner.8	outsource job india yustino ndugai nilgri india histori olatpur	0.5474
+746	pred.refiner.9	outsource job india yustino ndugai nilgri india histori olatpur	0.5474
+747	-1	library computer oversight	0.1373
+747	pred.refiner.1	library computer oversight librari comput cost	0.1904
+747	pred.refiner.10	library computer oversight librari comput cost	0.1904
+747	pred.refiner.2	library computer oversight librari comput cost	0.1904
+747	pred.refiner.3	library computer oversight librari comput cost	0.1904
+747	pred.refiner.4	library computer oversight librari comput cost	0.1904
+747	pred.refiner.5	library computer oversight librari comput cost	0.1904
+747	pred.refiner.6	library computer oversight librari comput cost	0.1904
+747	pred.refiner.7	library computer oversight librari comput cost	0.1904
+747	pred.refiner.8	library computer oversight librari comput cost	0.1904
+747	pred.refiner.9	library computer oversight librari comput cost	0.1904
+748	-1	nuclear reactor types	0.3351
+748	pred.refiner.1	nuclear reactor types	0.3351
+748	pred.refiner.10	nuclear reactor types	0.3351
+748	pred.refiner.2	nuclear reactor types	0.3351
+748	pred.refiner.3	nuclear reactor types	0.3351
+748	pred.refiner.4	nuclear reactor types	0.3351
+748	pred.refiner.5	nuclear reactor types	0.3351
+748	pred.refiner.6	nuclear reactor types	0.3351
+748	pred.refiner.7	nuclear reactor types	0.3351
+748	pred.refiner.8	nuclear reactor types	0.3351
+748	pred.refiner.9	nuclear reactor types	0.3351
+749	-1	puerto rico state	0.4631
+749	pred.refiner.1	puerto rico state	0.4631
+749	pred.refiner.10	puerto rico state	0.4631
+749	pred.refiner.2	puerto rico state	0.4631
+749	pred.refiner.3	puerto rico state	0.4631
+749	pred.refiner.4	puerto rico state	0.4631
+749	pred.refiner.5	puerto rico state	0.4631
+749	pred.refiner.6	puerto rico state	0.4631
+749	pred.refiner.7	puerto rico state	0.4631
+749	pred.refiner.8	puerto rico state	0.4631
+749	pred.refiner.9	puerto rico state	0.4631
+750	-1	john edwards womens issues	0.3014
+750	pred.refiner.1	john edwards women s problems	0.374
+750	pred.refiner.10	john edwards women s problems	0.374
+750	pred.refiner.2	john edwards women s problems	0.374
+750	pred.refiner.3	john edwards women s problems	0.374
+750	pred.refiner.4	john edwards women s problems	0.374
+750	pred.refiner.5	john edwards women s problems	0.374
+750	pred.refiner.6	john edwards women s problems	0.374
+750	pred.refiner.7	john edwards women s problems	0.374
+750	pred.refiner.8	john edwards women s problems	0.374
+750	pred.refiner.9	john edwards women s problems	0.374
+751	-1	scrabble players	0.4644
+751	pred.refiner.1	scrabble players	0.4644
+751	pred.refiner.10	scrabble players	0.4644
+751	pred.refiner.2	scrabble players	0.4644
+751	pred.refiner.3	scrabble players	0.4644
+751	pred.refiner.4	scrabble players	0.4644
+751	pred.refiner.5	scrabble players	0.4644
+751	pred.refiner.6	scrabble players	0.4644
+751	pred.refiner.7	scrabble players	0.4644
+751	pred.refiner.8	scrabble players	0.4644
+751	pred.refiner.9	scrabble players	0.4644
+752	-1	dam removal	0.382
+752	pred.refiner.1	dam removal	0.382
+752	pred.refiner.10	dam removal	0.382
+752	pred.refiner.2	dam removal	0.382
+752	pred.refiner.3	dam removal	0.382
+752	pred.refiner.4	dam removal	0.382
+752	pred.refiner.5	dam removal	0.382
+752	pred.refiner.6	dam removal	0.382
+752	pred.refiner.7	dam removal	0.382
+752	pred.refiner.8	dam removal	0.382
+752	pred.refiner.9	dam removal	0.382
+753	-1	bullying prevention programs	0.2951
+753	pred.refiner.1	bullying prevention programs bulli program school	0.3923
+753	pred.refiner.10	bullying prevention programs bulli program school	0.3923
+753	pred.refiner.2	bullying prevention programs bulli program school	0.3923
+753	pred.refiner.3	bullying prevention programs bulli program school	0.3923
+753	pred.refiner.4	bullying prevention programs bulli program school	0.3923
+753	pred.refiner.5	bullying prevention programs bulli program school	0.3923
+753	pred.refiner.6	bullying prevention programs bulli program school	0.3923
+753	pred.refiner.7	bullying prevention programs bulli program school	0.3923
+753	pred.refiner.8	bullying prevention programs bulli program school	0.3923
+753	pred.refiner.9	bullying prevention programs bulli program school	0.3923
+754	-1	domestic adoption laws	0.1136
+754	pred.refiner.1	domestic adoption laws law adopt	0.1305
+754	pred.refiner.10	domestic adoption laws law adopt	0.1305
+754	pred.refiner.2	domestic adoption laws law adopt	0.1305
+754	pred.refiner.3	domestic adoption laws law adopt	0.1305
+754	pred.refiner.4	domestic adoption laws law adopt	0.1305
+754	pred.refiner.5	domestic adoption laws law adopt	0.1305
+754	pred.refiner.6	domestic adoption laws law adopt	0.1305
+754	pred.refiner.7	domestic adoption laws law adopt	0.1305
+754	pred.refiner.8	domestic adoption laws law adopt	0.1305
+754	pred.refiner.9	domestic adoption laws law adopt	0.1305
+755	-1	scottish highland games	0.7084
+755	pred.refiner.1	scottish people highland games highland games	0.7384
+755	pred.refiner.10	scottish people highland games highland games	0.7384
+755	pred.refiner.2	scottish people highland games highland games	0.7384
+755	pred.refiner.3	scottish people highland games highland games	0.7384
+755	pred.refiner.4	scottish people highland games highland games	0.7384
+755	pred.refiner.5	scottish people highland games highland games	0.7384
+755	pred.refiner.6	scottish people highland games highland games	0.7384
+755	pred.refiner.7	scottish people highland games highland games	0.7384
+755	pred.refiner.8	scottish people highland games highland games	0.7384
+755	pred.refiner.9	scottish people highland games highland games	0.7384
+756	-1	volcanic activity	0.1013
+756	pred.refiner.1	volcanic activity volcan volcano lake erupt activ	0.1803
+756	pred.refiner.10	volcanic activity volcan volcano lake erupt activ	0.1803
+756	pred.refiner.2	volcanic activity volcan volcano lake erupt activ	0.1803
+756	pred.refiner.3	volcanic activity volcan volcano lake erupt activ	0.1803
+756	pred.refiner.4	volcanic activity volcan volcano lake erupt activ	0.1803
+756	pred.refiner.5	volcanic activity volcan volcano lake erupt activ	0.1803
+756	pred.refiner.6	volcanic activity volcan volcano lake erupt activ	0.1803
+756	pred.refiner.7	volcanic activity volcan volcano lake erupt activ	0.1803
+756	pred.refiner.8	volcanic activity volcan volcano lake erupt activ	0.1803
+756	pred.refiner.9	volcanic activity volcan volcano lake erupt activ	0.1803
+757	-1	murals	0.1277
+757	pred.refiner.1	murals mural your	0.1992
+757	pred.refiner.10	murals mural your	0.1992
+757	pred.refiner.2	murals mural your	0.1992
+757	pred.refiner.3	murals mural your	0.1992
+757	pred.refiner.4	murals mural your	0.1992
+757	pred.refiner.5	murals mural your	0.1992
+757	pred.refiner.6	murals mural your	0.1992
+757	pred.refiner.7	murals mural your	0.1992
+757	pred.refiner.8	murals mural your	0.1992
+757	pred.refiner.9	murals mural your	0.1992
+758	-1	embryonic stem cells	0.3214
+758	pred.refiner.1	embryonic stem cells stem embryo embryonic tissues	0.3913
+758	pred.refiner.10	embryonic stem cells stem embryo embryonic tissues	0.3913
+758	pred.refiner.2	embryonic stem cells stem embryo embryonic tissues	0.3913
+758	pred.refiner.3	embryonic stem cells stem embryo embryonic tissues	0.3913
+758	pred.refiner.4	embryonic stem cells stem embryo embryonic tissues	0.3913
+758	pred.refiner.5	embryonic stem cells stem embryo embryonic tissues	0.3913
+758	pred.refiner.6	embryonic stem cells stem embryo embryonic tissues	0.3913
+758	pred.refiner.7	embryonic stem cells stem embryo embryonic tissues	0.3913
+758	pred.refiner.8	embryonic stem cells stem embryo embryonic tissues	0.3913
+758	pred.refiner.9	embryonic stem cells stem embryo embryonic tissues	0.3913
+759	-1	civil war battle reenactments	0.5008
+759	pred.refiner.1	civil war battle reenactments	0.5008
+759	pred.refiner.10	civil war battle reenactments	0.5008
+759	pred.refiner.2	civil war battle reenactments	0.5008
+759	pred.refiner.3	civil war battle reenactments	0.5008
+759	pred.refiner.4	civil war battle reenactments	0.5008
+759	pred.refiner.5	civil war battle reenactments	0.5008
+759	pred.refiner.6	civil war battle reenactments	0.5008
+759	pred.refiner.7	civil war battle reenactments	0.5008
+759	pred.refiner.8	civil war battle reenactments	0.5008
+759	pred.refiner.9	civil war battle reenactments	0.5008
+760	-1	american muslim mosques schools	0.299
+760	pred.refiner.1	american muslim mosques schools british america islamic moslem masjids colleges universities	0.3939
+760	pred.refiner.10	american muslim mosques schools british america islamic moslem masjids colleges universities	0.3939
+760	pred.refiner.2	american muslim mosques schools british america islamic moslem masjids colleges universities	0.3939
+760	pred.refiner.3	american muslim mosques schools british america islamic moslem masjids colleges universities	0.3939
+760	pred.refiner.4	american muslim mosques schools british america islamic moslem masjids colleges universities	0.3939
+760	pred.refiner.5	american muslim mosques schools british america islamic moslem masjids colleges universities	0.3939
+760	pred.refiner.6	american muslim mosques schools british america islamic moslem masjids colleges universities	0.3939
+760	pred.refiner.7	american muslim mosques schools british america islamic moslem masjids colleges universities	0.3939
+760	pred.refiner.8	american muslim mosques schools british america islamic moslem masjids colleges universities	0.3939
+760	pred.refiner.9	american muslim mosques schools british america islamic moslem masjids colleges universities	0.3939
+761	-1	problems of hmong immigrants	0.3853
+761	pred.refiner.1	problems of hmong immigrants	0.3853
+761	pred.refiner.10	problems of hmong immigrants	0.3853
+761	pred.refiner.2	problems of hmong immigrants	0.3853
+761	pred.refiner.3	problems of hmong immigrants	0.3853
+761	pred.refiner.4	problems of hmong immigrants	0.3853
+761	pred.refiner.5	problems of hmong immigrants	0.3853
+761	pred.refiner.6	problems of hmong immigrants	0.3853
+761	pred.refiner.7	problems of hmong immigrants	0.3853
+761	pred.refiner.8	problems of hmong immigrants	0.3853
+761	pred.refiner.9	problems of hmong immigrants	0.3853
+762	-1	history of physicians in america	0.0913
+762	pred.refiner.1	history of physicians in america p ohio histori american women i	0.1096
+762	pred.refiner.10	history of physicians in america p ohio histori american women i	0.1096
+762	pred.refiner.2	history of physicians in america p ohio histori american women i	0.1096
+762	pred.refiner.3	history of physicians in america p ohio histori american women i	0.1096
+762	pred.refiner.4	history of physicians in america p ohio histori american women i	0.1096
+762	pred.refiner.5	history of physicians in america p ohio histori american women i	0.1096
+762	pred.refiner.6	history of physicians in america p ohio histori american women i	0.1096
+762	pred.refiner.7	history of physicians in america p ohio histori american women i	0.1096
+762	pred.refiner.8	history of physicians in america p ohio histori american women i	0.1096
+762	pred.refiner.9	history of physicians in america p ohio histori american women i	0.1096
+763	-1	hunting deaths	0.2146
+763	pred.refiner.1	hunting deaths hunters fatalities	0.4673
+763	pred.refiner.10	hunting deaths hunters fatalities	0.4673
+763	pred.refiner.2	hunting deaths hunters fatalities	0.4673
+763	pred.refiner.3	hunting deaths hunters fatalities	0.4673
+763	pred.refiner.4	hunting deaths hunters fatalities	0.4673
+763	pred.refiner.5	hunting deaths hunters fatalities	0.4673
+763	pred.refiner.6	hunting deaths hunters fatalities	0.4673
+763	pred.refiner.7	hunting deaths hunters fatalities	0.4673
+763	pred.refiner.8	hunting deaths hunters fatalities	0.4673
+763	pred.refiner.9	hunting deaths hunters fatalities	0.4673
+764	-1	increase mass transit use	0.1439
+764	pred.refiner.1	increase mass transit use program transit work mass program work	0.2114
+764	pred.refiner.10	increase mass transit use program transit work mass program work	0.2114
+764	pred.refiner.2	increase mass transit use program transit work mass program work	0.2114
+764	pred.refiner.3	increase mass transit use program transit work mass program work	0.2114
+764	pred.refiner.4	increase mass transit use program transit work mass program work	0.2114
+764	pred.refiner.5	increase mass transit use program transit work mass program work	0.2114
+764	pred.refiner.6	increase mass transit use program transit work mass program work	0.2114
+764	pred.refiner.7	increase mass transit use program transit work mass program work	0.2114
+764	pred.refiner.8	increase mass transit use program transit work mass program work	0.2114
+764	pred.refiner.9	increase mass transit use program transit work mass program work	0.2114
+765	-1	ephedra ma huang deaths	0.4186
+765	pred.refiner.1	the death of ephedra ma juan	0.5291
+765	pred.refiner.10	the death of ephedra ma juan	0.5291
+765	pred.refiner.2	the death of ephedra ma juan	0.5291
+765	pred.refiner.3	the death of ephedra ma juan	0.5291
+765	pred.refiner.4	the death of ephedra ma juan	0.5291
+765	pred.refiner.5	the death of ephedra ma juan	0.5291
+765	pred.refiner.6	the death of ephedra ma juan	0.5291
+765	pred.refiner.7	the death of ephedra ma juan	0.5291
+765	pred.refiner.8	the death of ephedra ma juan	0.5291
+765	pred.refiner.9	the death of ephedra ma juan	0.5291
+766	-1	diamond smuggling	0.3965
+766	pred.refiner.1	diamond smuggling impact event minerals abrasives semiconductor materials diamond politics liberia people extradited liberia people extradited sierra leone blood diamond contraband customs sabotage smuggling	0.4506
+766	pred.refiner.10	diamond smuggling impact event minerals abrasives semiconductor materials diamond politics liberia people extradited liberia people extradited sierra leone blood diamond contraband customs sabotage smuggling	0.4506
+766	pred.refiner.2	diamond smuggling impact event minerals abrasives semiconductor materials diamond politics liberia people extradited liberia people extradited sierra leone blood diamond contraband customs sabotage smuggling	0.4506
+766	pred.refiner.3	diamond smuggling impact event minerals abrasives semiconductor materials diamond politics liberia people extradited liberia people extradited sierra leone blood diamond contraband customs sabotage smuggling	0.4506
+766	pred.refiner.4	diamond smuggling impact event minerals abrasives semiconductor materials diamond politics liberia people extradited liberia people extradited sierra leone blood diamond contraband customs sabotage smuggling	0.4506
+766	pred.refiner.5	diamond smuggling impact event minerals abrasives semiconductor materials diamond politics liberia people extradited liberia people extradited sierra leone blood diamond contraband customs sabotage smuggling	0.4506
+766	pred.refiner.6	diamond smuggling impact event minerals abrasives semiconductor materials diamond politics liberia people extradited liberia people extradited sierra leone blood diamond contraband customs sabotage smuggling	0.4506
+766	pred.refiner.7	diamond smuggling impact event minerals abrasives semiconductor materials diamond politics liberia people extradited liberia people extradited sierra leone blood diamond contraband customs sabotage smuggling	0.4506
+766	pred.refiner.8	diamond smuggling impact event minerals abrasives semiconductor materials diamond politics liberia people extradited liberia people extradited sierra leone blood diamond contraband customs sabotage smuggling	0.4506
+766	pred.refiner.9	diamond smuggling impact event minerals abrasives semiconductor materials diamond politics liberia people extradited liberia people extradited sierra leone blood diamond contraband customs sabotage smuggling	0.4506
+767	-1	pharmacist license requirements	0.235
+767	pred.refiner.1	pharmacist license requirements	0.235
+767	pred.refiner.10	pharmacist license requirements	0.235
+767	pred.refiner.2	pharmacist license requirements	0.235
+767	pred.refiner.3	pharmacist license requirements	0.235
+767	pred.refiner.4	pharmacist license requirements	0.235
+767	pred.refiner.5	pharmacist license requirements	0.235
+767	pred.refiner.6	pharmacist license requirements	0.235
+767	pred.refiner.7	pharmacist license requirements	0.235
+767	pred.refiner.8	pharmacist license requirements	0.235
+767	pred.refiner.9	pharmacist license requirements	0.235
+768	-1	women in state legislatures	0.2604
+768	pred.refiner.1	women in state legislatures	0.2604
+768	pred.refiner.10	women in state legislatures	0.2604
+768	pred.refiner.2	women in state legislatures	0.2604
+768	pred.refiner.3	women in state legislatures	0.2604
+768	pred.refiner.4	women in state legislatures	0.2604
+768	pred.refiner.5	women in state legislatures	0.2604
+768	pred.refiner.6	women in state legislatures	0.2604
+768	pred.refiner.7	women in state legislatures	0.2604
+768	pred.refiner.8	women in state legislatures	0.2604
+768	pred.refiner.9	women in state legislatures	0.2604
+769	-1	kroll associates employees	0.0364
+769	pred.refiner.1	kroll associates a company the office company	0.1194
+769	pred.refiner.10	kroll associates a company the office company	0.1194
+769	pred.refiner.2	kroll associates a company the office company	0.1194
+769	pred.refiner.3	kroll associates a company the office company	0.1194
+769	pred.refiner.4	kroll associates a company the office company	0.1194
+769	pred.refiner.5	kroll associates a company the office company	0.1194
+769	pred.refiner.6	kroll associates a company the office company	0.1194
+769	pred.refiner.7	kroll associates a company the office company	0.1194
+769	pred.refiner.8	kroll associates a company the office company	0.1194
+769	pred.refiner.9	kroll associates a company the office company	0.1194
+770	-1	kyrgyzstan-united states relations	0.3277
+770	pred.refiner.1	kyrgyzstan united states relations country	0.3589
+770	pred.refiner.10	kyrgyzstan united states relations country	0.3589
+770	pred.refiner.2	kyrgyzstan united states relations country	0.3589
+770	pred.refiner.3	kyrgyzstan united states relations country	0.3589
+770	pred.refiner.4	kyrgyzstan united states relations country	0.3589
+770	pred.refiner.5	kyrgyzstan united states relations country	0.3589
+770	pred.refiner.6	kyrgyzstan united states relations country	0.3589
+770	pred.refiner.7	kyrgyzstan united states relations country	0.3589
+770	pred.refiner.8	kyrgyzstan united states relations country	0.3589
+770	pred.refiner.9	kyrgyzstan united states relations country	0.3589
+771	-1	deformed leopard frogs	0.5151
+771	pred.refiner.1	deformed flex leopard frogs frog	0.5239
+771	pred.refiner.10	deformed flex leopard frogs frog	0.5239
+771	pred.refiner.2	deformed flex leopard frogs frog	0.5239
+771	pred.refiner.3	deformed flex leopard frogs frog	0.5239
+771	pred.refiner.4	deformed flex leopard frogs frog	0.5239
+771	pred.refiner.5	deformed flex leopard frogs frog	0.5239
+771	pred.refiner.6	deformed flex leopard frogs frog	0.5239
+771	pred.refiner.7	deformed flex leopard frogs frog	0.5239
+771	pred.refiner.8	deformed flex leopard frogs frog	0.5239
+771	pred.refiner.9	deformed flex leopard frogs frog	0.5239
+772	-1	flag display rules	0.4109
+772	pred.refiner.1	flag display rules abov alwai america weather wai vertic	0.5693
+772	pred.refiner.10	flag display rules abov alwai america weather wai vertic	0.5693
+772	pred.refiner.2	flag display rules abov alwai america weather wai vertic	0.5693
+772	pred.refiner.3	flag display rules abov alwai america weather wai vertic	0.5693
+772	pred.refiner.4	flag display rules abov alwai america weather wai vertic	0.5693
+772	pred.refiner.5	flag display rules abov alwai america weather wai vertic	0.5693
+772	pred.refiner.6	flag display rules abov alwai america weather wai vertic	0.5693
+772	pred.refiner.7	flag display rules abov alwai america weather wai vertic	0.5693
+772	pred.refiner.8	flag display rules abov alwai america weather wai vertic	0.5693
+772	pred.refiner.9	flag display rules abov alwai america weather wai vertic	0.5693
+773	-1	pennsylvania slot machine gambling	0.6378
+773	pred.refiner.1	gambling at the pennsylvania machines	0.902
+773	pred.refiner.10	gambling at the pennsylvania machines	0.902
+773	pred.refiner.2	gambling at the pennsylvania machines	0.902
+773	pred.refiner.3	gambling at the pennsylvania machines	0.902
+773	pred.refiner.4	gambling at the pennsylvania machines	0.902
+773	pred.refiner.5	gambling at the pennsylvania machines	0.902
+773	pred.refiner.6	gambling at the pennsylvania machines	0.902
+773	pred.refiner.7	gambling at the pennsylvania machines	0.902
+773	pred.refiner.8	gambling at the pennsylvania machines	0.902
+773	pred.refiner.9	gambling at the pennsylvania machines	0.902
+774	-1	causes of homelessness	0.1458
+774	pred.refiner.1	causes of homelessness homeless student	0.1465
+774	pred.refiner.10	causes of homelessness homeless student	0.1465
+774	pred.refiner.2	causes of homelessness homeless student	0.1465
+774	pred.refiner.3	causes of homelessness homeless student	0.1465
+774	pred.refiner.4	causes of homelessness homeless student	0.1465
+774	pred.refiner.5	causes of homelessness homeless student	0.1465
+774	pred.refiner.6	causes of homelessness homeless student	0.1465
+774	pred.refiner.7	causes of homelessness homeless student	0.1465
+774	pred.refiner.8	causes of homelessness homeless student	0.1465
+774	pred.refiner.9	causes of homelessness homeless student	0.1465
+775	-1	commercial candy makers	0.0848
+775	pred.refiner.1	commercial candy makers commercialised chocolate sugar the movies	0.1524
+775	pred.refiner.10	commercial candy makers commercialised chocolate sugar the movies	0.1524
+775	pred.refiner.2	commercial candy makers commercialised chocolate sugar the movies	0.1524
+775	pred.refiner.3	commercial candy makers commercialised chocolate sugar the movies	0.1524
+775	pred.refiner.4	commercial candy makers commercialised chocolate sugar the movies	0.1524
+775	pred.refiner.5	commercial candy makers commercialised chocolate sugar the movies	0.1524
+775	pred.refiner.6	commercial candy makers commercialised chocolate sugar the movies	0.1524
+775	pred.refiner.7	commercial candy makers commercialised chocolate sugar the movies	0.1524
+775	pred.refiner.8	commercial candy makers commercialised chocolate sugar the movies	0.1524
+775	pred.refiner.9	commercial candy makers commercialised chocolate sugar the movies	0.1524
+776	-1	magnet schools success	0.3438
+776	pred.refiner.1	magnet schools success school student	0.3685
+776	pred.refiner.10	magnet schools success school student	0.3685
+776	pred.refiner.2	magnet schools success school student	0.3685
+776	pred.refiner.3	magnet schools success school student	0.3685
+776	pred.refiner.4	magnet schools success school student	0.3685
+776	pred.refiner.5	magnet schools success school student	0.3685
+776	pred.refiner.6	magnet schools success school student	0.3685
+776	pred.refiner.7	magnet schools success school student	0.3685
+776	pred.refiner.8	magnet schools success school student	0.3685
+776	pred.refiner.9	magnet schools success school student	0.3685
+777	-1	hybrid alternative fuel cars	0.202
+777	pred.refiner.1	hybrid alternative fuel cars hybrid vehicle alternative fuel vehicle	0.2527
+777	pred.refiner.10	hybrid alternative fuel cars hybrid vehicle alternative fuel vehicle	0.2527
+777	pred.refiner.2	hybrid alternative fuel cars hybrid vehicle alternative fuel vehicle	0.2527
+777	pred.refiner.3	hybrid alternative fuel cars hybrid vehicle alternative fuel vehicle	0.2527
+777	pred.refiner.4	hybrid alternative fuel cars hybrid vehicle alternative fuel vehicle	0.2527
+777	pred.refiner.5	hybrid alternative fuel cars hybrid vehicle alternative fuel vehicle	0.2527
+777	pred.refiner.6	hybrid alternative fuel cars hybrid vehicle alternative fuel vehicle	0.2527
+777	pred.refiner.7	hybrid alternative fuel cars hybrid vehicle alternative fuel vehicle	0.2527
+777	pred.refiner.8	hybrid alternative fuel cars hybrid vehicle alternative fuel vehicle	0.2527
+777	pred.refiner.9	hybrid alternative fuel cars hybrid vehicle alternative fuel vehicle	0.2527
+778	-1	golden ratio	0.3475
+778	pred.refiner.1	golden ratio mathemat face similar dr	0.3734
+778	pred.refiner.10	golden ratio mathemat face similar dr	0.3734
+778	pred.refiner.2	golden ratio mathemat face similar dr	0.3734
+778	pred.refiner.3	golden ratio mathemat face similar dr	0.3734
+778	pred.refiner.4	golden ratio mathemat face similar dr	0.3734
+778	pred.refiner.5	golden ratio mathemat face similar dr	0.3734
+778	pred.refiner.6	golden ratio mathemat face similar dr	0.3734
+778	pred.refiner.7	golden ratio mathemat face similar dr	0.3734
+778	pred.refiner.8	golden ratio mathemat face similar dr	0.3734
+778	pred.refiner.9	golden ratio mathemat face similar dr	0.3734
+779	-1	javelinas range and description	0.4186
+779	pred.refiner.1	javelinas range description speci south rang speci south mountain	0.4437
+779	pred.refiner.10	javelinas range description speci south rang speci south mountain	0.4437
+779	pred.refiner.2	javelinas range description speci south rang speci south mountain	0.4437
+779	pred.refiner.3	javelinas range description speci south rang speci south mountain	0.4437
+779	pred.refiner.4	javelinas range description speci south rang speci south mountain	0.4437
+779	pred.refiner.5	javelinas range description speci south rang speci south mountain	0.4437
+779	pred.refiner.6	javelinas range description speci south rang speci south mountain	0.4437
+779	pred.refiner.7	javelinas range description speci south rang speci south mountain	0.4437
+779	pred.refiner.8	javelinas range description speci south rang speci south mountain	0.4437
+779	pred.refiner.9	javelinas range description speci south rang speci south mountain	0.4437
+780	-1	arable land	0.1466
+780	pred.refiner.1	arable land perman or claim	0.2364
+780	pred.refiner.10	arable land perman or claim	0.2364
+780	pred.refiner.2	arable land perman or claim	0.2364
+780	pred.refiner.3	arable land perman or claim	0.2364
+780	pred.refiner.4	arable land perman or claim	0.2364
+780	pred.refiner.5	arable land perman or claim	0.2364
+780	pred.refiner.6	arable land perman or claim	0.2364
+780	pred.refiner.7	arable land perman or claim	0.2364
+780	pred.refiner.8	arable land perman or claim	0.2364
+780	pred.refiner.9	arable land perman or claim	0.2364
+781	-1	squirrel control and protections	0.2599
+781	pred.refiner.1	squirrel control and protections	0.2599
+781	pred.refiner.10	squirrel control and protections	0.2599
+781	pred.refiner.2	squirrel control and protections	0.2599
+781	pred.refiner.3	squirrel control and protections	0.2599
+781	pred.refiner.4	squirrel control and protections	0.2599
+781	pred.refiner.5	squirrel control and protections	0.2599
+781	pred.refiner.6	squirrel control and protections	0.2599
+781	pred.refiner.7	squirrel control and protections	0.2599
+781	pred.refiner.8	squirrel control and protections	0.2599
+781	pred.refiner.9	squirrel control and protections	0.2599
+782	-1	orange varieties seasons	0.4709
+782	pred.refiner.1	orange varieties seasons crop orang fruit box	0.5057
+782	pred.refiner.10	orange varieties seasons crop orang fruit box	0.5057
+782	pred.refiner.2	orange varieties seasons crop orang fruit box	0.5057
+782	pred.refiner.3	orange varieties seasons crop orang fruit box	0.5057
+782	pred.refiner.4	orange varieties seasons crop orang fruit box	0.5057
+782	pred.refiner.5	orange varieties seasons crop orang fruit box	0.5057
+782	pred.refiner.6	orange varieties seasons crop orang fruit box	0.5057
+782	pred.refiner.7	orange varieties seasons crop orang fruit box	0.5057
+782	pred.refiner.8	orange varieties seasons crop orang fruit box	0.5057
+782	pred.refiner.9	orange varieties seasons crop orang fruit box	0.5057
+783	-1	school mercury poisoning	0.1372
+783	pred.refiner.1	school mercury poisoning students piyanart srivalo contamination	0.3512
+783	pred.refiner.10	school mercury poisoning students piyanart srivalo contamination	0.3512
+783	pred.refiner.2	school mercury poisoning students piyanart srivalo contamination	0.3512
+783	pred.refiner.3	school mercury poisoning students piyanart srivalo contamination	0.3512
+783	pred.refiner.4	school mercury poisoning students piyanart srivalo contamination	0.3512
+783	pred.refiner.5	school mercury poisoning students piyanart srivalo contamination	0.3512
+783	pred.refiner.6	school mercury poisoning students piyanart srivalo contamination	0.3512
+783	pred.refiner.7	school mercury poisoning students piyanart srivalo contamination	0.3512
+783	pred.refiner.8	school mercury poisoning students piyanart srivalo contamination	0.3512
+783	pred.refiner.9	school mercury poisoning students piyanart srivalo contamination	0.3512
+784	-1	mersenne primes	0.8051
+784	pred.refiner.1	number of mersenne primes	0.8566
+784	pred.refiner.10	number of mersenne primes	0.8566
+784	pred.refiner.2	number of mersenne primes	0.8566
+784	pred.refiner.3	number of mersenne primes	0.8566
+784	pred.refiner.4	number of mersenne primes	0.8566
+784	pred.refiner.5	number of mersenne primes	0.8566
+784	pred.refiner.6	number of mersenne primes	0.8566
+784	pred.refiner.7	number of mersenne primes	0.8566
+784	pred.refiner.8	number of mersenne primes	0.8566
+784	pred.refiner.9	number of mersenne primes	0.8566
+785	-1	ivory-billed woodpecker	0.4207
+785	pred.refiner.1	ivory-billed woodpecker	0.4207
+785	pred.refiner.10	ivory-billed woodpecker	0.4207
+785	pred.refiner.2	ivory-billed woodpecker	0.4207
+785	pred.refiner.3	ivory-billed woodpecker	0.4207
+785	pred.refiner.4	ivory-billed woodpecker	0.4207
+785	pred.refiner.5	ivory-billed woodpecker	0.4207
+785	pred.refiner.6	ivory-billed woodpecker	0.4207
+785	pred.refiner.7	ivory-billed woodpecker	0.4207
+785	pred.refiner.8	ivory-billed woodpecker	0.4207
+785	pred.refiner.9	ivory-billed woodpecker	0.4207
+786	-1	yew trees	0.2924
+786	pred.refiner.1	yew trees wood pacific yew leaves squirrel	0.363
+786	pred.refiner.10	yew trees wood pacific yew leaves squirrel	0.363
+786	pred.refiner.2	yew trees wood pacific yew leaves squirrel	0.363
+786	pred.refiner.3	yew trees wood pacific yew leaves squirrel	0.363
+786	pred.refiner.4	yew trees wood pacific yew leaves squirrel	0.363
+786	pred.refiner.5	yew trees wood pacific yew leaves squirrel	0.363
+786	pred.refiner.6	yew trees wood pacific yew leaves squirrel	0.363
+786	pred.refiner.7	yew trees wood pacific yew leaves squirrel	0.363
+786	pred.refiner.8	yew trees wood pacific yew leaves squirrel	0.363
+786	pred.refiner.9	yew trees wood pacific yew leaves squirrel	0.363
+787	-1	sunflower cultivation	0.3787
+787	pred.refiner.1	sunflower cultivation	0.3787
+787	pred.refiner.10	sunflower cultivation	0.3787
+787	pred.refiner.2	sunflower cultivation	0.3787
+787	pred.refiner.3	sunflower cultivation	0.3787
+787	pred.refiner.4	sunflower cultivation	0.3787
+787	pred.refiner.5	sunflower cultivation	0.3787
+787	pred.refiner.6	sunflower cultivation	0.3787
+787	pred.refiner.7	sunflower cultivation	0.3787
+787	pred.refiner.8	sunflower cultivation	0.3787
+787	pred.refiner.9	sunflower cultivation	0.3787
+788	-1	reverse mortgages	0.5672
+788	pred.refiner.1	reverse mortgages	0.5672
+788	pred.refiner.10	reverse mortgages	0.5672
+788	pred.refiner.2	reverse mortgages	0.5672
+788	pred.refiner.3	reverse mortgages	0.5672
+788	pred.refiner.4	reverse mortgages	0.5672
+788	pred.refiner.5	reverse mortgages	0.5672
+788	pred.refiner.6	reverse mortgages	0.5672
+788	pred.refiner.7	reverse mortgages	0.5672
+788	pred.refiner.8	reverse mortgages	0.5672
+788	pred.refiner.9	reverse mortgages	0.5672
+789	-1	abandoned mine reclamation	0.1902
+789	pred.refiner.1	abandoned mine reclamation site reclam project abandon coal reclam site project pennsylvania	0.2629
+789	pred.refiner.10	abandoned mine reclamation site reclam project abandon coal reclam site project pennsylvania	0.2629
+789	pred.refiner.2	abandoned mine reclamation site reclam project abandon coal reclam site project pennsylvania	0.2629
+789	pred.refiner.3	abandoned mine reclamation site reclam project abandon coal reclam site project pennsylvania	0.2629
+789	pred.refiner.4	abandoned mine reclamation site reclam project abandon coal reclam site project pennsylvania	0.2629
+789	pred.refiner.5	abandoned mine reclamation site reclam project abandon coal reclam site project pennsylvania	0.2629
+789	pred.refiner.6	abandoned mine reclamation site reclam project abandon coal reclam site project pennsylvania	0.2629
+789	pred.refiner.7	abandoned mine reclamation site reclam project abandon coal reclam site project pennsylvania	0.2629
+789	pred.refiner.8	abandoned mine reclamation site reclam project abandon coal reclam site project pennsylvania	0.2629
+789	pred.refiner.9	abandoned mine reclamation site reclam project abandon coal reclam site project pennsylvania	0.2629
+790	-1	women's rights in saudi arabia	0.6578
+790	pred.refiner.1	the rights of women in saudi arabia	0.6578
+790	pred.refiner.10	the rights of women in saudi arabia	0.6578
+790	pred.refiner.2	the rights of women in saudi arabia	0.6578
+790	pred.refiner.3	the rights of women in saudi arabia	0.6578
+790	pred.refiner.4	the rights of women in saudi arabia	0.6578
+790	pred.refiner.5	the rights of women in saudi arabia	0.6578
+790	pred.refiner.6	the rights of women in saudi arabia	0.6578
+790	pred.refiner.7	the rights of women in saudi arabia	0.6578
+790	pred.refiner.8	the rights of women in saudi arabia	0.6578
+790	pred.refiner.9	the rights of women in saudi arabia	0.6578
+791	-1	gullah geechee language culture	0.5997
+791	pred.refiner.1	gullah language igbo landing africanisms gullah gullah language igbo landing africanisms gullah languages african diaspora liberian english merico language gullah language sociology culture society counterculture culture	0.6572
+791	pred.refiner.10	gullah language igbo landing africanisms gullah gullah language igbo landing africanisms gullah languages african diaspora liberian english merico language gullah language sociology culture society counterculture culture	0.6572
+791	pred.refiner.2	gullah language igbo landing africanisms gullah gullah language igbo landing africanisms gullah languages african diaspora liberian english merico language gullah language sociology culture society counterculture culture	0.6572
+791	pred.refiner.3	gullah language igbo landing africanisms gullah gullah language igbo landing africanisms gullah languages african diaspora liberian english merico language gullah language sociology culture society counterculture culture	0.6572
+791	pred.refiner.4	gullah language igbo landing africanisms gullah gullah language igbo landing africanisms gullah languages african diaspora liberian english merico language gullah language sociology culture society counterculture culture	0.6572
+791	pred.refiner.5	gullah language igbo landing africanisms gullah gullah language igbo landing africanisms gullah languages african diaspora liberian english merico language gullah language sociology culture society counterculture culture	0.6572
+791	pred.refiner.6	gullah language igbo landing africanisms gullah gullah language igbo landing africanisms gullah languages african diaspora liberian english merico language gullah language sociology culture society counterculture culture	0.6572
+791	pred.refiner.7	gullah language igbo landing africanisms gullah gullah language igbo landing africanisms gullah languages african diaspora liberian english merico language gullah language sociology culture society counterculture culture	0.6572
+791	pred.refiner.8	gullah language igbo landing africanisms gullah gullah language igbo landing africanisms gullah languages african diaspora liberian english merico language gullah language sociology culture society counterculture culture	0.6572
+791	pred.refiner.9	gullah language igbo landing africanisms gullah gullah language igbo landing africanisms gullah languages african diaspora liberian english merico language gullah language sociology culture society counterculture culture	0.6572
+792	-1	social security means test	0.2726
+792	pred.refiner.1	social security means test secur earn benefit	0.3378
+792	pred.refiner.10	social security means test secur earn benefit	0.3378
+792	pred.refiner.2	social security means test secur earn benefit	0.3378
+792	pred.refiner.3	social security means test secur earn benefit	0.3378
+792	pred.refiner.4	social security means test secur earn benefit	0.3378
+792	pred.refiner.5	social security means test secur earn benefit	0.3378
+792	pred.refiner.6	social security means test secur earn benefit	0.3378
+792	pred.refiner.7	social security means test secur earn benefit	0.3378
+792	pred.refiner.8	social security means test secur earn benefit	0.3378
+792	pred.refiner.9	social security means test secur earn benefit	0.3378
+793	-1	bagpipe bands	0.3378
+793	pred.refiner.1	bagpipes military band	0.389
+793	pred.refiner.10	bagpipes military band	0.389
+793	pred.refiner.2	bagpipes military band	0.389
+793	pred.refiner.3	bagpipes military band	0.389
+793	pred.refiner.4	bagpipes military band	0.389
+793	pred.refiner.5	bagpipes military band	0.389
+793	pred.refiner.6	bagpipes military band	0.389
+793	pred.refiner.7	bagpipes military band	0.389
+793	pred.refiner.8	bagpipes military band	0.389
+793	pred.refiner.9	bagpipes military band	0.389
+794	-1	pet therapy	0.3324
+794	pred.refiner.1	pet therapy animal assisted therapy	0.3947
+794	pred.refiner.10	pet therapy animal assisted therapy	0.3947
+794	pred.refiner.2	pet therapy animal assisted therapy	0.3947
+794	pred.refiner.3	pet therapy animal assisted therapy	0.3947
+794	pred.refiner.4	pet therapy animal assisted therapy	0.3947
+794	pred.refiner.5	pet therapy animal assisted therapy	0.3947
+794	pred.refiner.6	pet therapy animal assisted therapy	0.3947
+794	pred.refiner.7	pet therapy animal assisted therapy	0.3947
+794	pred.refiner.8	pet therapy animal assisted therapy	0.3947
+794	pred.refiner.9	pet therapy animal assisted therapy	0.3947
+795	-1	notable cocker spaniels	0.1182
+795	pred.refiner.1	a remarkable coker spaniel	0.2466
+795	pred.refiner.10	a remarkable coker spaniel	0.2466
+795	pred.refiner.2	a remarkable coker spaniel	0.2466
+795	pred.refiner.3	a remarkable coker spaniel	0.2466
+795	pred.refiner.4	a remarkable coker spaniel	0.2466
+795	pred.refiner.5	a remarkable coker spaniel	0.2466
+795	pred.refiner.6	a remarkable coker spaniel	0.2466
+795	pred.refiner.7	a remarkable coker spaniel	0.2466
+795	pred.refiner.8	a remarkable coker spaniel	0.2466
+795	pred.refiner.9	a remarkable coker spaniel	0.2466
+796	-1	blue grass music festival history	0.2924
+796	pred.refiner.1	blue grass music festival history bluegrass music	0.4582
+796	pred.refiner.10	blue grass music festival history bluegrass music	0.4582
+796	pred.refiner.2	blue grass music festival history bluegrass music	0.4582
+796	pred.refiner.3	blue grass music festival history bluegrass music	0.4582
+796	pred.refiner.4	blue grass music festival history bluegrass music	0.4582
+796	pred.refiner.5	blue grass music festival history bluegrass music	0.4582
+796	pred.refiner.6	blue grass music festival history bluegrass music	0.4582
+796	pred.refiner.7	blue grass music festival history bluegrass music	0.4582
+796	pred.refiner.8	blue grass music festival history bluegrass music	0.4582
+796	pred.refiner.9	blue grass music festival history bluegrass music	0.4582
+797	-1	reintroduction of gray wolves	0.402
+797	pred.refiner.1	reintroduction gray wolves yellowston wolv wolf yellowston wolf wildlif	0.4853
+797	pred.refiner.10	reintroduction gray wolves yellowston wolv wolf yellowston wolf wildlif	0.4853
+797	pred.refiner.2	reintroduction gray wolves yellowston wolv wolf yellowston wolf wildlif	0.4853
+797	pred.refiner.3	reintroduction gray wolves yellowston wolv wolf yellowston wolf wildlif	0.4853
+797	pred.refiner.4	reintroduction gray wolves yellowston wolv wolf yellowston wolf wildlif	0.4853
+797	pred.refiner.5	reintroduction gray wolves yellowston wolv wolf yellowston wolf wildlif	0.4853
+797	pred.refiner.6	reintroduction gray wolves yellowston wolv wolf yellowston wolf wildlif	0.4853
+797	pred.refiner.7	reintroduction gray wolves yellowston wolv wolf yellowston wolf wildlif	0.4853
+797	pred.refiner.8	reintroduction gray wolves yellowston wolv wolf yellowston wolf wildlif	0.4853
+797	pred.refiner.9	reintroduction gray wolves yellowston wolv wolf yellowston wolf wildlif	0.4853
+798	-1	massachusetts textile mills	0.3214
+798	pred.refiner.1	massachusetts textile mills lowel mill	0.4758
+798	pred.refiner.10	massachusetts textile mills lowel mill	0.4758
+798	pred.refiner.2	massachusetts textile mills lowel mill	0.4758
+798	pred.refiner.3	massachusetts textile mills lowel mill	0.4758
+798	pred.refiner.4	massachusetts textile mills lowel mill	0.4758
+798	pred.refiner.5	massachusetts textile mills lowel mill	0.4758
+798	pred.refiner.6	massachusetts textile mills lowel mill	0.4758
+798	pred.refiner.7	massachusetts textile mills lowel mill	0.4758
+798	pred.refiner.8	massachusetts textile mills lowel mill	0.4758
+798	pred.refiner.9	massachusetts textile mills lowel mill	0.4758
+799	-1	animals in alzheimer's research	0.215
+799	pred.refiner.1	animals in alzheimer s research ad ag tau	0.3984
+799	pred.refiner.10	animals in alzheimer s research ad ag tau	0.3984
+799	pred.refiner.2	animals in alzheimer s research ad ag tau	0.3984
+799	pred.refiner.3	animals in alzheimer s research ad ag tau	0.3984
+799	pred.refiner.4	animals in alzheimer s research ad ag tau	0.3984
+799	pred.refiner.5	animals in alzheimer s research ad ag tau	0.3984
+799	pred.refiner.6	animals in alzheimer s research ad ag tau	0.3984
+799	pred.refiner.7	animals in alzheimer s research ad ag tau	0.3984
+799	pred.refiner.8	animals in alzheimer s research ad ag tau	0.3984
+799	pred.refiner.9	animals in alzheimer s research ad ag tau	0.3984
+800	-1	ovarian cancer treatment	0.2047
+800	pred.refiner.1	ovarian cancer treatment tumor	0.2552
+800	pred.refiner.10	ovarian cancer treatment tumor	0.2552
+800	pred.refiner.2	ovarian cancer treatment tumor	0.2552
+800	pred.refiner.3	ovarian cancer treatment tumor	0.2552
+800	pred.refiner.4	ovarian cancer treatment tumor	0.2552
+800	pred.refiner.5	ovarian cancer treatment tumor	0.2552
+800	pred.refiner.6	ovarian cancer treatment tumor	0.2552
+800	pred.refiner.7	ovarian cancer treatment tumor	0.2552
+800	pred.refiner.8	ovarian cancer treatment tumor	0.2552
+800	pred.refiner.9	ovarian cancer treatment tumor	0.2552
+801	-1	kudzu pueraria lobata	0.3719
+801	pred.refiner.1	kudzu kudzu	0.5432
+801	pred.refiner.10	kudzu kudzu	0.5432
+801	pred.refiner.2	kudzu kudzu	0.5432
+801	pred.refiner.3	kudzu kudzu	0.5432
+801	pred.refiner.4	kudzu kudzu	0.5432
+801	pred.refiner.5	kudzu kudzu	0.5432
+801	pred.refiner.6	kudzu kudzu	0.5432
+801	pred.refiner.7	kudzu kudzu	0.5432
+801	pred.refiner.8	kudzu kudzu	0.5432
+801	pred.refiner.9	kudzu kudzu	0.5432
+802	-1	volcano eruptions global temperature	0.4645
+802	pred.refiner.1	volcano eruptions global temperature kudryavyi ndiayen idmaax global eliahu learjet kiwin	0.5308
+802	pred.refiner.10	volcano eruptions global temperature kudryavyi ndiayen idmaax global eliahu learjet kiwin	0.5308
+802	pred.refiner.2	volcano eruptions global temperature kudryavyi ndiayen idmaax global eliahu learjet kiwin	0.5308
+802	pred.refiner.3	volcano eruptions global temperature kudryavyi ndiayen idmaax global eliahu learjet kiwin	0.5308
+802	pred.refiner.4	volcano eruptions global temperature kudryavyi ndiayen idmaax global eliahu learjet kiwin	0.5308
+802	pred.refiner.5	volcano eruptions global temperature kudryavyi ndiayen idmaax global eliahu learjet kiwin	0.5308
+802	pred.refiner.6	volcano eruptions global temperature kudryavyi ndiayen idmaax global eliahu learjet kiwin	0.5308
+802	pred.refiner.7	volcano eruptions global temperature kudryavyi ndiayen idmaax global eliahu learjet kiwin	0.5308
+802	pred.refiner.8	volcano eruptions global temperature kudryavyi ndiayen idmaax global eliahu learjet kiwin	0.5308
+802	pred.refiner.9	volcano eruptions global temperature kudryavyi ndiayen idmaax global eliahu learjet kiwin	0.5308
+803	-1	may day	0.0
+803	pred.refiner.1	may day publiholidays republiof ireland international workers day parade may day	0.2474
+803	pred.refiner.10	may day publiholidays republiof ireland international workers day parade may day	0.2474
+803	pred.refiner.2	may day publiholidays republiof ireland international workers day parade may day	0.2474
+803	pred.refiner.3	may day publiholidays republiof ireland international workers day parade may day	0.2474
+803	pred.refiner.4	may day publiholidays republiof ireland international workers day parade may day	0.2474
+803	pred.refiner.5	may day publiholidays republiof ireland international workers day parade may day	0.2474
+803	pred.refiner.6	may day publiholidays republiof ireland international workers day parade may day	0.2474
+803	pred.refiner.7	may day publiholidays republiof ireland international workers day parade may day	0.2474
+803	pred.refiner.8	may day publiholidays republiof ireland international workers day parade may day	0.2474
+803	pred.refiner.9	may day publiholidays republiof ireland international workers day parade may day	0.2474
+804	-1	ban on human cloning	0.4039
+804	pred.refiner.1	ban prohibition on human cloning	0.5017
+804	pred.refiner.10	ban prohibition on human cloning	0.5017
+804	pred.refiner.2	ban prohibition on human cloning	0.5017
+804	pred.refiner.3	ban prohibition on human cloning	0.5017
+804	pred.refiner.4	ban prohibition on human cloning	0.5017
+804	pred.refiner.5	ban prohibition on human cloning	0.5017
+804	pred.refiner.6	ban prohibition on human cloning	0.5017
+804	pred.refiner.7	ban prohibition on human cloning	0.5017
+804	pred.refiner.8	ban prohibition on human cloning	0.5017
+804	pred.refiner.9	ban prohibition on human cloning	0.5017
+805	-1	identity theft passport	0.2704
+805	pred.refiner.1	id theft passport	0.3903
+805	pred.refiner.10	id theft passport	0.3903
+805	pred.refiner.2	id theft passport	0.3903
+805	pred.refiner.3	id theft passport	0.3903
+805	pred.refiner.4	id theft passport	0.3903
+805	pred.refiner.5	id theft passport	0.3903
+805	pred.refiner.6	id theft passport	0.3903
+805	pred.refiner.7	id theft passport	0.3903
+805	pred.refiner.8	id theft passport	0.3903
+805	pred.refiner.9	id theft passport	0.3903
+806	-1	doctors without borders	0.3462
+806	pred.refiner.1	doctors without borders	0.3462
+806	pred.refiner.10	doctors without borders	0.3462
+806	pred.refiner.2	doctors without borders	0.3462
+806	pred.refiner.3	doctors without borders	0.3462
+806	pred.refiner.4	doctors without borders	0.3462
+806	pred.refiner.5	doctors without borders	0.3462
+806	pred.refiner.6	doctors without borders	0.3462
+806	pred.refiner.7	doctors without borders	0.3462
+806	pred.refiner.8	doctors without borders	0.3462
+806	pred.refiner.9	doctors without borders	0.3462
+807	-1	sugar tariff-rate quotas	0.5616
+807	pred.refiner.1	sugar tariff rate quotas alloc cane contain trq tariff sugar	0.626
+807	pred.refiner.10	sugar tariff rate quotas alloc cane contain trq tariff sugar	0.626
+807	pred.refiner.2	sugar tariff rate quotas alloc cane contain trq tariff sugar	0.626
+807	pred.refiner.3	sugar tariff rate quotas alloc cane contain trq tariff sugar	0.626
+807	pred.refiner.4	sugar tariff rate quotas alloc cane contain trq tariff sugar	0.626
+807	pred.refiner.5	sugar tariff rate quotas alloc cane contain trq tariff sugar	0.626
+807	pred.refiner.6	sugar tariff rate quotas alloc cane contain trq tariff sugar	0.626
+807	pred.refiner.7	sugar tariff rate quotas alloc cane contain trq tariff sugar	0.626
+807	pred.refiner.8	sugar tariff rate quotas alloc cane contain trq tariff sugar	0.626
+807	pred.refiner.9	sugar tariff rate quotas alloc cane contain trq tariff sugar	0.626
+808	-1	north korean counterfeiting	0.7013
+808	pred.refiner.1	north korean counterfeiting north korea korean language counterfeit	0.7193
+808	pred.refiner.10	north korean counterfeiting north korea korean language counterfeit	0.7193
+808	pred.refiner.2	north korean counterfeiting north korea korean language counterfeit	0.7193
+808	pred.refiner.3	north korean counterfeiting north korea korean language counterfeit	0.7193
+808	pred.refiner.4	north korean counterfeiting north korea korean language counterfeit	0.7193
+808	pred.refiner.5	north korean counterfeiting north korea korean language counterfeit	0.7193
+808	pred.refiner.6	north korean counterfeiting north korea korean language counterfeit	0.7193
+808	pred.refiner.7	north korean counterfeiting north korea korean language counterfeit	0.7193
+808	pred.refiner.8	north korean counterfeiting north korea korean language counterfeit	0.7193
+808	pred.refiner.9	north korean counterfeiting north korea korean language counterfeit	0.7193
+809	-1	wetlands wastewater treatment	0.3311
+809	pred.refiner.1	wetlands wastewater treatment	0.3311
+809	pred.refiner.10	wetlands wastewater treatment	0.3311
+809	pred.refiner.2	wetlands wastewater treatment	0.3311
+809	pred.refiner.3	wetlands wastewater treatment	0.3311
+809	pred.refiner.4	wetlands wastewater treatment	0.3311
+809	pred.refiner.5	wetlands wastewater treatment	0.3311
+809	pred.refiner.6	wetlands wastewater treatment	0.3311
+809	pred.refiner.7	wetlands wastewater treatment	0.3311
+809	pred.refiner.8	wetlands wastewater treatment	0.3311
+809	pred.refiner.9	wetlands wastewater treatment	0.3311
+810	-1	timeshare resales	0.5225
+810	pred.refiner.1	timeshare resales timeshar illinoi applic you consum site ftc	0.7442
+810	pred.refiner.10	timeshare resales timeshar illinoi applic you consum site ftc	0.7442
+810	pred.refiner.2	timeshare resales timeshar illinoi applic you consum site ftc	0.7442
+810	pred.refiner.3	timeshare resales timeshar illinoi applic you consum site ftc	0.7442
+810	pred.refiner.4	timeshare resales timeshar illinoi applic you consum site ftc	0.7442
+810	pred.refiner.5	timeshare resales timeshar illinoi applic you consum site ftc	0.7442
+810	pred.refiner.6	timeshare resales timeshar illinoi applic you consum site ftc	0.7442
+810	pred.refiner.7	timeshare resales timeshar illinoi applic you consum site ftc	0.7442
+810	pred.refiner.8	timeshare resales timeshar illinoi applic you consum site ftc	0.7442
+810	pred.refiner.9	timeshare resales timeshar illinoi applic you consum site ftc	0.7442
+811	-1	handwriting recognition	0.426
+811	pred.refiner.1	handwriting recognition inform handwrit signal project charact	0.4622
+811	pred.refiner.10	handwriting recognition inform handwrit signal project charact	0.4622
+811	pred.refiner.2	handwriting recognition inform handwrit signal project charact	0.4622
+811	pred.refiner.3	handwriting recognition inform handwrit signal project charact	0.4622
+811	pred.refiner.4	handwriting recognition inform handwrit signal project charact	0.4622
+811	pred.refiner.5	handwriting recognition inform handwrit signal project charact	0.4622
+811	pred.refiner.6	handwriting recognition inform handwrit signal project charact	0.4622
+811	pred.refiner.7	handwriting recognition inform handwrit signal project charact	0.4622
+811	pred.refiner.8	handwriting recognition inform handwrit signal project charact	0.4622
+811	pred.refiner.9	handwriting recognition inform handwrit signal project charact	0.4622
+812	-1	total knee replacement surgery	0.5661
+812	pred.refiner.1	total knee replacement surgery	0.5661
+812	pred.refiner.10	total knee replacement surgery	0.5661
+812	pred.refiner.2	total knee replacement surgery	0.5661
+812	pred.refiner.3	total knee replacement surgery	0.5661
+812	pred.refiner.4	total knee replacement surgery	0.5661
+812	pred.refiner.5	total knee replacement surgery	0.5661
+812	pred.refiner.6	total knee replacement surgery	0.5661
+812	pred.refiner.7	total knee replacement surgery	0.5661
+812	pred.refiner.8	total knee replacement surgery	0.5661
+812	pred.refiner.9	total knee replacement surgery	0.5661
+813	-1	atlantic intracoastal waterway	0.3632
+813	pred.refiner.1	atlantic intracoastal waterway waterwai water total waterwai water total	0.3885
+813	pred.refiner.10	atlantic intracoastal waterway waterwai water total waterwai water total	0.3885
+813	pred.refiner.2	atlantic intracoastal waterway waterwai water total waterwai water total	0.3885
+813	pred.refiner.3	atlantic intracoastal waterway waterwai water total waterwai water total	0.3885
+813	pred.refiner.4	atlantic intracoastal waterway waterwai water total waterwai water total	0.3885
+813	pred.refiner.5	atlantic intracoastal waterway waterwai water total waterwai water total	0.3885
+813	pred.refiner.6	atlantic intracoastal waterway waterwai water total waterwai water total	0.3885
+813	pred.refiner.7	atlantic intracoastal waterway waterwai water total waterwai water total	0.3885
+813	pred.refiner.8	atlantic intracoastal waterway waterwai water total waterwai water total	0.3885
+813	pred.refiner.9	atlantic intracoastal waterway waterwai water total waterwai water total	0.3885
+814	-1	johnstown flood	0.4739
+814	pred.refiner.1	johnstown flood meteorology pennsylvania south fork dam johnstown flood	0.6048
+814	pred.refiner.10	johnstown flood meteorology pennsylvania south fork dam johnstown flood	0.6048
+814	pred.refiner.2	johnstown flood meteorology pennsylvania south fork dam johnstown flood	0.6048
+814	pred.refiner.3	johnstown flood meteorology pennsylvania south fork dam johnstown flood	0.6048
+814	pred.refiner.4	johnstown flood meteorology pennsylvania south fork dam johnstown flood	0.6048
+814	pred.refiner.5	johnstown flood meteorology pennsylvania south fork dam johnstown flood	0.6048
+814	pred.refiner.6	johnstown flood meteorology pennsylvania south fork dam johnstown flood	0.6048
+814	pred.refiner.7	johnstown flood meteorology pennsylvania south fork dam johnstown flood	0.6048
+814	pred.refiner.8	johnstown flood meteorology pennsylvania south fork dam johnstown flood	0.6048
+814	pred.refiner.9	johnstown flood meteorology pennsylvania south fork dam johnstown flood	0.6048
+815	-1	coast guard rescues	0.2543
+815	pred.refiner.1	coast guard rescued him	0.2768
+815	pred.refiner.10	coast guard rescued him	0.2768
+815	pred.refiner.2	coast guard rescued him	0.2768
+815	pred.refiner.3	coast guard rescued him	0.2768
+815	pred.refiner.4	coast guard rescued him	0.2768
+815	pred.refiner.5	coast guard rescued him	0.2768
+815	pred.refiner.6	coast guard rescued him	0.2768
+815	pred.refiner.7	coast guard rescued him	0.2768
+815	pred.refiner.8	coast guard rescued him	0.2768
+815	pred.refiner.9	coast guard rescued him	0.2768
+816	-1	usaid assistance to galapagos	0.9033
+816	pred.refiner.1	usaid support for the galapagos region	0.9231
+816	pred.refiner.10	usaid support for the galapagos region	0.9231
+816	pred.refiner.2	usaid support for the galapagos region	0.9231
+816	pred.refiner.3	usaid support for the galapagos region	0.9231
+816	pred.refiner.4	usaid support for the galapagos region	0.9231
+816	pred.refiner.5	usaid support for the galapagos region	0.9231
+816	pred.refiner.6	usaid support for the galapagos region	0.9231
+816	pred.refiner.7	usaid support for the galapagos region	0.9231
+816	pred.refiner.8	usaid support for the galapagos region	0.9231
+816	pred.refiner.9	usaid support for the galapagos region	0.9231
+817	-1	sports stadium naming rights	0.4718
+817	pred.refiner.1	the naming rights of the stadium	0.5166
+817	pred.refiner.10	the naming rights of the stadium	0.5166
+817	pred.refiner.2	the naming rights of the stadium	0.5166
+817	pred.refiner.3	the naming rights of the stadium	0.5166
+817	pred.refiner.4	the naming rights of the stadium	0.5166
+817	pred.refiner.5	the naming rights of the stadium	0.5166
+817	pred.refiner.6	the naming rights of the stadium	0.5166
+817	pred.refiner.7	the naming rights of the stadium	0.5166
+817	pred.refiner.8	the naming rights of the stadium	0.5166
+817	pred.refiner.9	the naming rights of the stadium	0.5166
+818	-1	chaco culture national park	0.4551
+818	pred.refiner.1	chaco culture national park american canyon cultur site park nativ site park nativ american canyon chaco	0.4679
+818	pred.refiner.10	chaco culture national park american canyon cultur site park nativ site park nativ american canyon chaco	0.4679
+818	pred.refiner.2	chaco culture national park american canyon cultur site park nativ site park nativ american canyon chaco	0.4679
+818	pred.refiner.3	chaco culture national park american canyon cultur site park nativ site park nativ american canyon chaco	0.4679
+818	pred.refiner.4	chaco culture national park american canyon cultur site park nativ site park nativ american canyon chaco	0.4679
+818	pred.refiner.5	chaco culture national park american canyon cultur site park nativ site park nativ american canyon chaco	0.4679
+818	pred.refiner.6	chaco culture national park american canyon cultur site park nativ site park nativ american canyon chaco	0.4679
+818	pred.refiner.7	chaco culture national park american canyon cultur site park nativ site park nativ american canyon chaco	0.4679
+818	pred.refiner.8	chaco culture national park american canyon cultur site park nativ site park nativ american canyon chaco	0.4679
+818	pred.refiner.9	chaco culture national park american canyon cultur site park nativ site park nativ american canyon chaco	0.4679
+819	-1	1890 census	0.5108
+820	-1	imported fire ants	0.4091
+820	pred.refiner.1	imported fire ants ant	0.4166
+820	pred.refiner.10	imported fire ants ant	0.4166
+820	pred.refiner.2	imported fire ants ant	0.4166
+820	pred.refiner.3	imported fire ants ant	0.4166
+820	pred.refiner.4	imported fire ants ant	0.4166
+820	pred.refiner.5	imported fire ants ant	0.4166
+820	pred.refiner.6	imported fire ants ant	0.4166
+820	pred.refiner.7	imported fire ants ant	0.4166
+820	pred.refiner.8	imported fire ants ant	0.4166
+820	pred.refiner.9	imported fire ants ant	0.4166
+821	-1	internet work-at-home scams	0.3581
+821	pred.refiner.1	internet scams at work from home	0.371
+821	pred.refiner.10	internet scams at work from home	0.371
+821	pred.refiner.2	internet scams at work from home	0.371
+821	pred.refiner.3	internet scams at work from home	0.371
+821	pred.refiner.4	internet scams at work from home	0.371
+821	pred.refiner.5	internet scams at work from home	0.371
+821	pred.refiner.6	internet scams at work from home	0.371
+821	pred.refiner.7	internet scams at work from home	0.371
+821	pred.refiner.8	internet scams at work from home	0.371
+821	pred.refiner.9	internet scams at work from home	0.371
+822	-1	custer's last stand	0.152
+822	pred.refiner.1	custer s last defense	0.3752
+822	pred.refiner.10	custer s last defense	0.3752
+822	pred.refiner.2	custer s last defense	0.3752
+822	pred.refiner.3	custer s last defense	0.3752
+822	pred.refiner.4	custer s last defense	0.3752
+822	pred.refiner.5	custer s last defense	0.3752
+822	pred.refiner.6	custer s last defense	0.3752
+822	pred.refiner.7	custer s last defense	0.3752
+822	pred.refiner.8	custer s last defense	0.3752
+822	pred.refiner.9	custer s last defense	0.3752
+823	-1	continuing care retirement communities	0.3129
+823	pred.refiner.1	continuing care retirement communities oper provid ccrc	0.5213
+823	pred.refiner.10	continuing care retirement communities oper provid ccrc	0.5213
+823	pred.refiner.2	continuing care retirement communities oper provid ccrc	0.5213
+823	pred.refiner.3	continuing care retirement communities oper provid ccrc	0.5213
+823	pred.refiner.4	continuing care retirement communities oper provid ccrc	0.5213
+823	pred.refiner.5	continuing care retirement communities oper provid ccrc	0.5213
+823	pred.refiner.6	continuing care retirement communities oper provid ccrc	0.5213
+823	pred.refiner.7	continuing care retirement communities oper provid ccrc	0.5213
+823	pred.refiner.8	continuing care retirement communities oper provid ccrc	0.5213
+823	pred.refiner.9	continuing care retirement communities oper provid ccrc	0.5213
+824	-1	civil air patrol	0.2065
+824	pred.refiner.1	civil air patrol air nation patrol civil nation patrol air civil nation	0.232
+824	pred.refiner.10	civil air patrol air nation patrol civil nation patrol air civil nation	0.232
+824	pred.refiner.2	civil air patrol air nation patrol civil nation patrol air civil nation	0.232
+824	pred.refiner.3	civil air patrol air nation patrol civil nation patrol air civil nation	0.232
+824	pred.refiner.4	civil air patrol air nation patrol civil nation patrol air civil nation	0.232
+824	pred.refiner.5	civil air patrol air nation patrol civil nation patrol air civil nation	0.232
+824	pred.refiner.6	civil air patrol air nation patrol civil nation patrol air civil nation	0.232
+824	pred.refiner.7	civil air patrol air nation patrol civil nation patrol air civil nation	0.232
+824	pred.refiner.8	civil air patrol air nation patrol civil nation patrol air civil nation	0.232
+824	pred.refiner.9	civil air patrol air nation patrol civil nation patrol air civil nation	0.232
+825	-1	national guard involvement in iraq	0.0974
+825	pred.refiner.1	natio guard invol in iraq	0.2804
+825	pred.refiner.10	natio guard invol in iraq	0.2804
+825	pred.refiner.2	natio guard invol in iraq	0.2804
+825	pred.refiner.3	natio guard invol in iraq	0.2804
+825	pred.refiner.4	natio guard invol in iraq	0.2804
+825	pred.refiner.5	natio guard invol in iraq	0.2804
+825	pred.refiner.6	natio guard invol in iraq	0.2804
+825	pred.refiner.7	natio guard invol in iraq	0.2804
+825	pred.refiner.8	natio guard invol in iraq	0.2804
+825	pred.refiner.9	natio guard invol in iraq	0.2804
+826	-1	florida seminole indians	0.2732
+826	pred.refiner.1	florida seminole indians seminole tribe florida	0.4671
+826	pred.refiner.10	florida seminole indians seminole tribe florida	0.4671
+826	pred.refiner.2	florida seminole indians seminole tribe florida	0.4671
+826	pred.refiner.3	florida seminole indians seminole tribe florida	0.4671
+826	pred.refiner.4	florida seminole indians seminole tribe florida	0.4671
+826	pred.refiner.5	florida seminole indians seminole tribe florida	0.4671
+826	pred.refiner.6	florida seminole indians seminole tribe florida	0.4671
+826	pred.refiner.7	florida seminole indians seminole tribe florida	0.4671
+826	pred.refiner.8	florida seminole indians seminole tribe florida	0.4671
+826	pred.refiner.9	florida seminole indians seminole tribe florida	0.4671
+827	-1	hidden markov modeling hmm	0.4681
+827	pred.refiner.1	hidden markov modeling hmm hiding hid continuous time bb simulation hmmm nope	0.4845
+827	pred.refiner.10	hidden markov modeling hmm hiding hid continuous time bb simulation hmmm nope	0.4845
+827	pred.refiner.2	hidden markov modeling hmm hiding hid continuous time bb simulation hmmm nope	0.4845
+827	pred.refiner.3	hidden markov modeling hmm hiding hid continuous time bb simulation hmmm nope	0.4845
+827	pred.refiner.4	hidden markov modeling hmm hiding hid continuous time bb simulation hmmm nope	0.4845
+827	pred.refiner.5	hidden markov modeling hmm hiding hid continuous time bb simulation hmmm nope	0.4845
+827	pred.refiner.6	hidden markov modeling hmm hiding hid continuous time bb simulation hmmm nope	0.4845
+827	pred.refiner.7	hidden markov modeling hmm hiding hid continuous time bb simulation hmmm nope	0.4845
+827	pred.refiner.8	hidden markov modeling hmm hiding hid continuous time bb simulation hmmm nope	0.4845
+827	pred.refiner.9	hidden markov modeling hmm hiding hid continuous time bb simulation hmmm nope	0.4845
+828	-1	secret shoppers	0.3413
+828	pred.refiner.1	secret shoppers	0.3413
+828	pred.refiner.10	secret shoppers	0.3413
+828	pred.refiner.2	secret shoppers	0.3413
+828	pred.refiner.3	secret shoppers	0.3413
+828	pred.refiner.4	secret shoppers	0.3413
+828	pred.refiner.5	secret shoppers	0.3413
+828	pred.refiner.6	secret shoppers	0.3413
+828	pred.refiner.7	secret shoppers	0.3413
+828	pred.refiner.8	secret shoppers	0.3413
+828	pred.refiner.9	secret shoppers	0.3413
+829	-1	spanish civil war support	0.2682
+829	pred.refiner.1	spain civil war support	0.4197
+829	pred.refiner.10	spain civil war support	0.4197
+829	pred.refiner.2	spain civil war support	0.4197
+829	pred.refiner.3	spain civil war support	0.4197
+829	pred.refiner.4	spain civil war support	0.4197
+829	pred.refiner.5	spain civil war support	0.4197
+829	pred.refiner.6	spain civil war support	0.4197
+829	pred.refiner.7	spain civil war support	0.4197
+829	pred.refiner.8	spain civil war support	0.4197
+829	pred.refiner.9	spain civil war support	0.4197
+830	-1	model railroads	0.1992
+831	-1	dulles airport security	0.4823
+831	pred.refiner.1	secur screener washington dull airport	0.8354
+831	pred.refiner.10	secur screener washington dull airport	0.8354
+831	pred.refiner.2	secur screener washington dull airport	0.8354
+831	pred.refiner.3	secur screener washington dull airport	0.8354
+831	pred.refiner.4	secur screener washington dull airport	0.8354
+831	pred.refiner.5	secur screener washington dull airport	0.8354
+831	pred.refiner.6	secur screener washington dull airport	0.8354
+831	pred.refiner.7	secur screener washington dull airport	0.8354
+831	pred.refiner.8	secur screener washington dull airport	0.8354
+831	pred.refiner.9	secur screener washington dull airport	0.8354
+832	-1	labor union activity	0.1245
+832	pred.refiner.1	labor union activity	0.1245
+832	pred.refiner.10	labor union activity	0.1245
+832	pred.refiner.2	labor union activity	0.1245
+832	pred.refiner.3	labor union activity	0.1245
+832	pred.refiner.4	labor union activity	0.1245
+832	pred.refiner.5	labor union activity	0.1245
+832	pred.refiner.6	labor union activity	0.1245
+832	pred.refiner.7	labor union activity	0.1245
+832	pred.refiner.8	labor union activity	0.1245
+832	pred.refiner.9	labor union activity	0.1245
+833	-1	iceland government	0.5459
+833	pred.refiner.1	iceland government politics iceland	0.6481
+833	pred.refiner.10	iceland government politics iceland	0.6481
+833	pred.refiner.2	iceland government politics iceland	0.6481
+833	pred.refiner.3	iceland government politics iceland	0.6481
+833	pred.refiner.4	iceland government politics iceland	0.6481
+833	pred.refiner.5	iceland government politics iceland	0.6481
+833	pred.refiner.6	iceland government politics iceland	0.6481
+833	pred.refiner.7	iceland government politics iceland	0.6481
+833	pred.refiner.8	iceland government politics iceland	0.6481
+833	pred.refiner.9	iceland government politics iceland	0.6481
+834	-1	global positioning system earthquakes	0.2779
+834	pred.refiner.1	global positioning placement system earthquakes earthquake	0.2824
+834	pred.refiner.10	global positioning placement system earthquakes earthquake	0.2824
+834	pred.refiner.2	global positioning placement system earthquakes earthquake	0.2824
+834	pred.refiner.3	global positioning placement system earthquakes earthquake	0.2824
+834	pred.refiner.4	global positioning placement system earthquakes earthquake	0.2824
+834	pred.refiner.5	global positioning placement system earthquakes earthquake	0.2824
+834	pred.refiner.6	global positioning placement system earthquakes earthquake	0.2824
+834	pred.refiner.7	global positioning placement system earthquakes earthquake	0.2824
+834	pred.refiner.8	global positioning placement system earthquakes earthquake	0.2824
+834	pred.refiner.9	global positioning placement system earthquakes earthquake	0.2824
+835	-1	big dig pork	0.2368
+835	pred.refiner.1	big dig pork transport infrastructure completed battery park city heather fargo big dig osrox mission school voucher federal jurisdiction united states pork barrel	0.2769
+835	pred.refiner.10	big dig pork transport infrastructure completed battery park city heather fargo big dig osrox mission school voucher federal jurisdiction united states pork barrel	0.2769
+835	pred.refiner.2	big dig pork transport infrastructure completed battery park city heather fargo big dig osrox mission school voucher federal jurisdiction united states pork barrel	0.2769
+835	pred.refiner.3	big dig pork transport infrastructure completed battery park city heather fargo big dig osrox mission school voucher federal jurisdiction united states pork barrel	0.2769
+835	pred.refiner.4	big dig pork transport infrastructure completed battery park city heather fargo big dig osrox mission school voucher federal jurisdiction united states pork barrel	0.2769
+835	pred.refiner.5	big dig pork transport infrastructure completed battery park city heather fargo big dig osrox mission school voucher federal jurisdiction united states pork barrel	0.2769
+835	pred.refiner.6	big dig pork transport infrastructure completed battery park city heather fargo big dig osrox mission school voucher federal jurisdiction united states pork barrel	0.2769
+835	pred.refiner.7	big dig pork transport infrastructure completed battery park city heather fargo big dig osrox mission school voucher federal jurisdiction united states pork barrel	0.2769
+835	pred.refiner.8	big dig pork transport infrastructure completed battery park city heather fargo big dig osrox mission school voucher federal jurisdiction united states pork barrel	0.2769
+835	pred.refiner.9	big dig pork transport infrastructure completed battery park city heather fargo big dig osrox mission school voucher federal jurisdiction united states pork barrel	0.2769
+836	-1	illegal immigrant wages	0.4707
+836	pred.refiner.1	illegal immigrant wages voofoo grumpyfac noodlecak fyn lorri nord	0.5115
+836	pred.refiner.10	illegal immigrant wages voofoo grumpyfac noodlecak fyn lorri nord	0.5115
+836	pred.refiner.2	illegal immigrant wages voofoo grumpyfac noodlecak fyn lorri nord	0.5115
+836	pred.refiner.3	illegal immigrant wages voofoo grumpyfac noodlecak fyn lorri nord	0.5115
+836	pred.refiner.4	illegal immigrant wages voofoo grumpyfac noodlecak fyn lorri nord	0.5115
+836	pred.refiner.5	illegal immigrant wages voofoo grumpyfac noodlecak fyn lorri nord	0.5115
+836	pred.refiner.6	illegal immigrant wages voofoo grumpyfac noodlecak fyn lorri nord	0.5115
+836	pred.refiner.7	illegal immigrant wages voofoo grumpyfac noodlecak fyn lorri nord	0.5115
+836	pred.refiner.8	illegal immigrant wages voofoo grumpyfac noodlecak fyn lorri nord	0.5115
+836	pred.refiner.9	illegal immigrant wages voofoo grumpyfac noodlecak fyn lorri nord	0.5115
+837	-1	eskimo history	0.1036
+837	pred.refiner.1	eskimo history aleut inupiaq historical ever	0.2088
+837	pred.refiner.10	eskimo history aleut inupiaq historical ever	0.2088
+837	pred.refiner.2	eskimo history aleut inupiaq historical ever	0.2088
+837	pred.refiner.3	eskimo history aleut inupiaq historical ever	0.2088
+837	pred.refiner.4	eskimo history aleut inupiaq historical ever	0.2088
+837	pred.refiner.5	eskimo history aleut inupiaq historical ever	0.2088
+837	pred.refiner.6	eskimo history aleut inupiaq historical ever	0.2088
+837	pred.refiner.7	eskimo history aleut inupiaq historical ever	0.2088
+837	pred.refiner.8	eskimo history aleut inupiaq historical ever	0.2088
+837	pred.refiner.9	eskimo history aleut inupiaq historical ever	0.2088
+838	-1	urban suburban coyotes	0.5015
+838	pred.refiner.1	urban suburban coyotes coyot food	0.6761
+838	pred.refiner.10	urban suburban coyotes coyot food	0.6761
+838	pred.refiner.2	urban suburban coyotes coyot food	0.6761
+838	pred.refiner.3	urban suburban coyotes coyot food	0.6761
+838	pred.refiner.4	urban suburban coyotes coyot food	0.6761
+838	pred.refiner.5	urban suburban coyotes coyot food	0.6761
+838	pred.refiner.6	urban suburban coyotes coyot food	0.6761
+838	pred.refiner.7	urban suburban coyotes coyot food	0.6761
+838	pred.refiner.8	urban suburban coyotes coyot food	0.6761
+838	pred.refiner.9	urban suburban coyotes coyot food	0.6761
+839	-1	textile dyeing techniques	0.4075
+839	pred.refiner.1	textile dyeing techniques dye us wast	0.4429
+839	pred.refiner.10	textile dyeing techniques dye us wast	0.4429
+839	pred.refiner.2	textile dyeing techniques dye us wast	0.4429
+839	pred.refiner.3	textile dyeing techniques dye us wast	0.4429
+839	pred.refiner.4	textile dyeing techniques dye us wast	0.4429
+839	pred.refiner.5	textile dyeing techniques dye us wast	0.4429
+839	pred.refiner.6	textile dyeing techniques dye us wast	0.4429
+839	pred.refiner.7	textile dyeing techniques dye us wast	0.4429
+839	pred.refiner.8	textile dyeing techniques dye us wast	0.4429
+839	pred.refiner.9	textile dyeing techniques dye us wast	0.4429
+840	-1	geysers	0.2412
+840	pred.refiner.1	other geysers	0.3468
+840	pred.refiner.10	other geysers	0.3468
+840	pred.refiner.2	other geysers	0.3468
+840	pred.refiner.3	other geysers	0.3468
+840	pred.refiner.4	other geysers	0.3468
+840	pred.refiner.5	other geysers	0.3468
+840	pred.refiner.6	other geysers	0.3468
+840	pred.refiner.7	other geysers	0.3468
+840	pred.refiner.8	other geysers	0.3468
+840	pred.refiner.9	other geysers	0.3468
+841	-1	camel north america	0.4542
+842	-1	david mccullough	0.1933
+842	pred.refiner.1	david mccullough books john adams john adams book joseph sabin david mccullough	0.3514
+842	pred.refiner.10	david mccullough books john adams john adams book joseph sabin david mccullough	0.3514
+842	pred.refiner.2	david mccullough books john adams john adams book joseph sabin david mccullough	0.3514
+842	pred.refiner.3	david mccullough books john adams john adams book joseph sabin david mccullough	0.3514
+842	pred.refiner.4	david mccullough books john adams john adams book joseph sabin david mccullough	0.3514
+842	pred.refiner.5	david mccullough books john adams john adams book joseph sabin david mccullough	0.3514
+842	pred.refiner.6	david mccullough books john adams john adams book joseph sabin david mccullough	0.3514
+842	pred.refiner.7	david mccullough books john adams john adams book joseph sabin david mccullough	0.3514
+842	pred.refiner.8	david mccullough books john adams john adams book joseph sabin david mccullough	0.3514
+842	pred.refiner.9	david mccullough books john adams john adams book joseph sabin david mccullough	0.3514
+843	-1	pol pot	0.5417
+843	pred.refiner.1	pol pot people kampong thom province cambodian people convicted murder cambodian genocide pol pot	0.7739
+843	pred.refiner.10	pol pot people kampong thom province cambodian people convicted murder cambodian genocide pol pot	0.7739
+843	pred.refiner.2	pol pot people kampong thom province cambodian people convicted murder cambodian genocide pol pot	0.7739
+843	pred.refiner.3	pol pot people kampong thom province cambodian people convicted murder cambodian genocide pol pot	0.7739
+843	pred.refiner.4	pol pot people kampong thom province cambodian people convicted murder cambodian genocide pol pot	0.7739
+843	pred.refiner.5	pol pot people kampong thom province cambodian people convicted murder cambodian genocide pol pot	0.7739
+843	pred.refiner.6	pol pot people kampong thom province cambodian people convicted murder cambodian genocide pol pot	0.7739
+843	pred.refiner.7	pol pot people kampong thom province cambodian people convicted murder cambodian genocide pol pot	0.7739
+843	pred.refiner.8	pol pot people kampong thom province cambodian people convicted murder cambodian genocide pol pot	0.7739
+843	pred.refiner.9	pol pot people kampong thom province cambodian people convicted murder cambodian genocide pol pot	0.7739
+844	-1	segmental duplications	0.2292
+844	pred.refiner.1	segmental duplications segmentation biology gene duplication	0.3613
+844	pred.refiner.10	segmental duplications segmentation biology gene duplication	0.3613
+844	pred.refiner.2	segmental duplications segmentation biology gene duplication	0.3613
+844	pred.refiner.3	segmental duplications segmentation biology gene duplication	0.3613
+844	pred.refiner.4	segmental duplications segmentation biology gene duplication	0.3613
+844	pred.refiner.5	segmental duplications segmentation biology gene duplication	0.3613
+844	pred.refiner.6	segmental duplications segmentation biology gene duplication	0.3613
+844	pred.refiner.7	segmental duplications segmentation biology gene duplication	0.3613
+844	pred.refiner.8	segmental duplications segmentation biology gene duplication	0.3613
+844	pred.refiner.9	segmental duplications segmentation biology gene duplication	0.3613
+845	-1	new jersey tomato	0.3181
+845	pred.refiner.1	new jersey tomato plant jersei d program	0.4113
+845	pred.refiner.10	new jersey tomato plant jersei d program	0.4113
+845	pred.refiner.2	new jersey tomato plant jersei d program	0.4113
+845	pred.refiner.3	new jersey tomato plant jersei d program	0.4113
+845	pred.refiner.4	new jersey tomato plant jersei d program	0.4113
+845	pred.refiner.5	new jersey tomato plant jersei d program	0.4113
+845	pred.refiner.6	new jersey tomato plant jersei d program	0.4113
+845	pred.refiner.7	new jersey tomato plant jersei d program	0.4113
+845	pred.refiner.8	new jersey tomato plant jersei d program	0.4113
+845	pred.refiner.9	new jersey tomato plant jersei d program	0.4113
+846	-1	heredity and obesity	0.2559
+846	pred.refiner.1	heredity obesity weight problem person	0.3701
+846	pred.refiner.10	heredity obesity weight problem person	0.3701
+846	pred.refiner.2	heredity obesity weight problem person	0.3701
+846	pred.refiner.3	heredity obesity weight problem person	0.3701
+846	pred.refiner.4	heredity obesity weight problem person	0.3701
+846	pred.refiner.5	heredity obesity weight problem person	0.3701
+846	pred.refiner.6	heredity obesity weight problem person	0.3701
+846	pred.refiner.7	heredity obesity weight problem person	0.3701
+846	pred.refiner.8	heredity obesity weight problem person	0.3701
+846	pred.refiner.9	heredity obesity weight problem person	0.3701
+847	-1	portugal world war ii	0.3536
+847	pred.refiner.1	portugal world war ii gold alli bank	0.749
+847	pred.refiner.10	portugal world war ii gold alli bank	0.749
+847	pred.refiner.2	portugal world war ii gold alli bank	0.749
+847	pred.refiner.3	portugal world war ii gold alli bank	0.749
+847	pred.refiner.4	portugal world war ii gold alli bank	0.749
+847	pred.refiner.5	portugal world war ii gold alli bank	0.749
+847	pred.refiner.6	portugal world war ii gold alli bank	0.749
+847	pred.refiner.7	portugal world war ii gold alli bank	0.749
+847	pred.refiner.8	portugal world war ii gold alli bank	0.749
+847	pred.refiner.9	portugal world war ii gold alli bank	0.749
+848	-1	radio station call letters	0.2253
+848	pred.refiner.1	radio station call letters call letter station call letter radio letter radio station station radio locat	0.2523
+848	pred.refiner.10	radio station call letters call letter station call letter radio letter radio station station radio locat	0.2523
+848	pred.refiner.2	radio station call letters call letter station call letter radio letter radio station station radio locat	0.2523
+848	pred.refiner.3	radio station call letters call letter station call letter radio letter radio station station radio locat	0.2523
+848	pred.refiner.4	radio station call letters call letter station call letter radio letter radio station station radio locat	0.2523
+848	pred.refiner.5	radio station call letters call letter station call letter radio letter radio station station radio locat	0.2523
+848	pred.refiner.6	radio station call letters call letter station call letter radio letter radio station station radio locat	0.2523
+848	pred.refiner.7	radio station call letters call letter station call letter radio letter radio station station radio locat	0.2523
+848	pred.refiner.8	radio station call letters call letter station call letter radio letter radio station station radio locat	0.2523
+848	pred.refiner.9	radio station call letters call letter station call letter radio letter radio station station radio locat	0.2523
+849	-1	scalable vector graphics	0.4082
+849	pred.refiner.1	scalable vector graphics svg graphic imag file cwt visual	0.6479
+849	pred.refiner.10	scalable vector graphics svg graphic imag file cwt visual	0.6479
+849	pred.refiner.2	scalable vector graphics svg graphic imag file cwt visual	0.6479
+849	pred.refiner.3	scalable vector graphics svg graphic imag file cwt visual	0.6479
+849	pred.refiner.4	scalable vector graphics svg graphic imag file cwt visual	0.6479
+849	pred.refiner.5	scalable vector graphics svg graphic imag file cwt visual	0.6479
+849	pred.refiner.6	scalable vector graphics svg graphic imag file cwt visual	0.6479
+849	pred.refiner.7	scalable vector graphics svg graphic imag file cwt visual	0.6479
+849	pred.refiner.8	scalable vector graphics svg graphic imag file cwt visual	0.6479
+849	pred.refiner.9	scalable vector graphics svg graphic imag file cwt visual	0.6479
+850	-1	mississippi river flood	0.2457

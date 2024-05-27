@@ -1,0 +1,1500 @@
+qid	order	query	bm25.recip_rank
+100653	-1	how do I go about getting copies of letters of commendation prsented to me from city of san diego?	1.0
+100653	bt_bing_arabic	How can I get copies of letters of praise sent to me from the City of San Diego	0.5
+100653	bt_bing_malay	How can I get a copy of the letter of praise given to me from the city of San Diego	0.5
+100653	bt_nllb_malay	How do I get a copy of the letter of credit sent from the city of San Diego	0.5
+100653	bt_nllb_russian	How can I get copies of the complimentary letters sent to me from the city of San Diego	0.5
+100653	bt_nllb_swahili	How can I get copies of congratulatory letters from San Diego	0.5
+100653	bt_nllb_tamil	How can I get copies of congratulatory letters sent to me from San Diego	0.5
+100653	bt_bing_persian	How about getting copies of letters of praise prsented to me from San Diego County	0.3333
+1015624	-1	What's the Definition of a bloody mary?	1.0
+1015624	bt_bing_swahili	What is the meaning of the blood mary	0.3333
+1015624	bt_nllb_german	What s the definition of a fucking Mary	0.0278
+1015624	bt_nllb_french	What s the definition of a holy Mary	0.0233
+1015624	bt_nllb_chinese_yue	What is the definition of a virgin	0.0
+1017690	-1	what is the history of indian music?	1.0
+1017690	bt_bing_persian	What is India s music history	0.5
+1035857	-1	Why are liberals so quick to defend Saddam?	1.0
+1035857	bt_nllb_persian	Why are the liberals defending my voice so quickly	0.5
+103830	-1	Why do man Arabs hate the west ?	1.0
+1063812	-1	How do I grow taller?	1.0
+1063812	bt_nllb_malay	How can I be taller	0.5
+1063812	bt_nllb_swahili	How can I be taller	0.5
+1063812	bt_bing_arabic	How do I get taller	0.3333
+1063812	bt_bing_german	How do I get taller	0.3333
+1063812	bt_bing_korean	How do I get taller	0.3333
+1063812	bt_nllb_arabic	How do I get to the height	0.1111
+1063812	bt_bing_french	How can I grow	0.0
+1063812	bt_nllb_french	How can I get bigger	0.0
+1063812	bt_nllb_german	How do I get bigger	0.0
+1063812	bt_nllb_russian	How can I grow up	0.0
+1063812	bt_nllb_tamil	How can I get high	0.0
+1077370	-1	Why do only Humans have Finger prints?	1.0
+1077370	bt_nllb_korean	Why is it that only humans have fingerprints	0.5
+1077370	bt_nllb_russian	Why are only people having fingerprints	0.2
+1077370	bt_nllb_german	Why are only people fingerprinted	0.1
+1077370	bt_nllb_persian	Why do only humans have fingers	0.0169
+1082595	-1	what is meant by mobile technology?	0.5
+1119420	-1	Well the black light is UV light.So if it is "black" how can it be "light" ?	1.0
+1119420	bt_nllb_korean	So black light is ultraviolet so if it s black how can it be light	0.5
+1119420	bt_nllb_malay	So if it s black how can it be light	0.25
+1119420	bt_nllb_tamil	So if it s black how can it be light	0.25
+1152934	-1	Why don't fat people have to pay more for air travel?	1.0
+1152934	bt_nllb_french	Why don t the big guys pay more for the thefts	0.5
+1152934	bt_nllb_arabic	Why shouldn t fat people be allowed to pay more to fly	0.125
+1167882	-1	What are the different types of sins and how are they caused?	1.0
+1167882	bt_bing_arabic	What are the different types of sins and how do they cause them	0.5
+1167882	bt_nllb_arabic	What are the different types of sins and how do they cause them	0.5
+1167882	bt_nllb_german	What are the different kinds of sins and how are they caused	0.25
+1167882	bt_bing_tamil	What are the different types of sins and how do they occur	0.2
+1167882	bt_nllb_french	What are the different types of sins and how do they result	0.2
+1167882	bt_nllb_persian	What are the different types of sins and how do they result	0.2
+1167882	bt_bing_persian	What are the different types of sins and how are they created	0.1
+1167882	bt_nllb_chinese_yue	What kind of sin what causes it	0.0833
+1167882	bt_nllb_tamil	What is sin and how does it occur	0.0417
+1167882	bt_nllb_russian	What are the different sins and how do they occur	0.025
+1167882	bt_nllb_swahili	What are the kinds of sins and how do they result	0.0118
+1199639	-1	How to "LOSE"all body fat ?	1.0
+1199639	bt_nllb_malay	How do you MEDIATE all the body fat	0.5
+1199639	bt_nllb_tamil	How can you lose body fat	0.5
+1199639	bt_bing_malay	How to LOSS all body fat	0.3333
+1199639	bt_nllb_arabic	How do you check all the fat in your body	0.25
+1254390	-1	how do i deap fry chicken?	0.5
+1254390	bt_nllb_russian	How do I bake chicken	0.25
+1254390	bt_bing_chinese_simplified	How do I eat fried chicken	0.1429
+1254390	bt_nllb_german	How do I make the chicken	0.0333
+1254390	bt_nllb_chinese_yue	How do I eat chicken	0.0
+1262692	-1	How can I get rid of pimples on my back?	1.0
+1262692	bt_bing_russian	How do you get rid of acne on your back	0.0278
+1262692	bt_bing_malay	How can I get rid of acne on my back	0.0
+1262692	bt_bing_swahili	How can I remove the sting on my back	0.0
+1262692	bt_nllb_arabic	How can I get rid of bugs on my back	0.0
+1262692	bt_nllb_chinese_yue	How can I get rid of my back	0.0
+1262692	bt_nllb_french	How do I get rid of buttons on my back	0.0
+1262692	bt_nllb_korean	How do you get rid of this thing on your back	0.0
+1262692	bt_nllb_malay	How can I get rid of the acne in my back	0.0
+1262692	bt_nllb_persian	How do I get rid of my back pain	0.0
+1262692	bt_nllb_russian	How do you get rid of the spleen	0.0
+1262692	bt_nllb_swahili	How can I remove the sores on my back	0.0
+1262692	bt_nllb_tamil	How can I get rid of the worms in my back	0.0
+1282199	-1	how can I hide the cuts on my wrists?	1.0
+1282199	bt_bing_arabic	How can I hide wounds on my wrist	0.5
+1282199	bt_bing_korean	How can I hide a wound on my wrist	0.5
+1282199	bt_bing_malay	How can I hide a wound on my wrist	0.5
+1282199	bt_bing_russian	How do I hide cuts on my wrists	0.5
+1282199	bt_nllb_arabic	How do I hide my wrists	0.5
+1282199	bt_nllb_french	How do I hide the cuts on my wrists	0.5
+1282199	bt_nllb_malay	How can I hide the wound in my wrist	0.5
+1282199	bt_nllb_chinese_yue	How can I hide the scar on my wrist	0.3333
+1282199	bt_bing_chinese_simplified	How to hide a wound on the wrist	0.2
+1282199	bt_bing_swahili	How can I hide the cuts on my hands	0.2
+1282199	bt_bing_tamil	How do I cover cuts on my wrist	0.2
+1282199	bt_nllb_persian	How can I hide my hand cuts	0.2
+1282199	bt_nllb_korean	How can we hide the torn wounds in the wrist	0.0769
+1282199	bt_nllb_swahili	How can I hide my hand wounds	0.0
+1287437	-1	how can i lose 30 pounds by june3?	0.5
+1287437	bt_bing_chinese_simplified	How can I lose pounds by June th	0.3333
+1287437	bt_bing_french	How can I lose pounds by June rd	0.3333
+1287437	bt_bing_russian	How can I lose pounds by June rd	0.3333
+1287437	bt_nllb_chinese_yue	How can I lose pounds by June rd	0.3333
+1287437	bt_nllb_french	How can I lose pounds before June rd	0.3333
+1287437	bt_bing_arabic	How do I lose pounds by June	0.1429
+1287437	bt_nllb_korean	How can we cut pounds by June	0.1111
+1290612	-1	why do anxiety and depression seem to coexist?	1.0
+1290612	bt_nllb_chinese_yue	Why does anxiety and depression seem to be the same thing	0.5
+1290612	bt_nllb_persian	Why do thinking and depression interact	0.0526
+1290612	bt_nllb_german	Why do fear and depression seem to be linked	0.0175
+1292734	-1	what color you like the most and why?	1.0
+1292734	bt_nllb_french	What color do you prefer and why	0.5
+1292734	bt_bing_french	Which color do you like the most and why	0.3333
+1292734	bt_bing_german	Which color do you like best and why	0.3333
+1292734	bt_bing_korean	Which color do you like the most and why	0.3333
+1292734	bt_bing_russian	Which color do you like the most and why	0.3333
+1292734	bt_bing_tamil	Which color do you like the most and why	0.3333
+1292734	bt_bing_chinese_simplified	What s your favorite color and why	0.04
+1292734	bt_bing_swahili	What s your favorite color and why	0.04
+1292734	bt_nllb_tamil	What do you like and why	0.0244
+1340574	-1	Why do some people only go to church on Easter Sunday and never go again until Christmas ?	1.0
+1351675	-1	Why must I have an uncracked winshield in order to for my car to pass a safety inspeciton?	1.0
+1351675	bt_bing_korean	Why does my car need to have a cracked windshield to pass a safety inspection	0.5
+1351675	bt_bing_french	Why do I need to have a non cracked windshield for my car to pass a safety inspection	0.3333
+1351675	bt_bing_tamil	Why should I have a crack free windshield for my car to pass a security inspector	0.2
+1351675	bt_nllb_malay	Why do I need a horn shield that doesn t break so my car can pass a security check	0.1
+1351675	bt_bing_russian	Why Do I Have To Have A Non Cracked Screen Protector For My Car To Pass A Security Check	0.011
+1351675	bt_nllb_arabic	Why would I have to have a window shield if my car hasn t been tested	0.0
+1351675	bt_nllb_chinese_yue	Why would I need a window that s not damaged to pass through the security check	0.0
+1351675	bt_nllb_french	Why do I have to have a shield without cracks to get my car through a security check	0.0
+1351675	bt_nllb_german	Why do I have to have an unbroken windshield to get my car through a security check	0.0
+1351675	bt_nllb_persian	Why would I have to have a hole in the door to get my car through security	0.0
+1351675	bt_nllb_russian	Why do I need a shield to keep my car safe	0.0
+1351675	bt_nllb_tamil	Why should I wear a wing shield in order to go to my car security check	0.0
+1364894	-1	Why do we need to tell customer service/operator about our sickness in order to make appointment w/ a doctor?	1.0
+1364894	bt_nllb_russian	Why should we report our illness to the customer service provider operator to make an appointment	0.3333
+1373069	-1	Freedom of Speech - why don't people understand how to use it?	0.5
+1373069	bt_bing_persian	Freedom of speech why don t people know how to use it	0.2
+1373069	bt_nllb_persian	Freedom of expression Why don t people know how to use it	0.2
+143833	-1	What is the difference between coolant and anti-freeze?	1.0
+143833	bt_nllb_arabic	What s the difference between a refrigerant and an anti freeze	0.5
+143833	bt_nllb_german	What s the difference between refrigerants and anti freeze	0.5
+143833	bt_bing_swahili	What s the difference between cold and anti freeze	0.25
+143833	bt_nllb_russian	What s the difference between a coolant and an anti inflammatory	0.1111
+143833	bt_nllb_persian	What is the difference between refrigerant and antifreeze	0.0385
+143833	bt_nllb_swahili	What is the difference between cold water and freezing water	0.0152
+143833	bt_nllb_korean	What s the difference between refrigerants and anti caking agents	0.0
+143833	bt_nllb_tamil	What is the difference between a refrigerant and an anti cold liquid	0.0
+1459749	-1	Why don't I have an asthma attack during sex?	1.0
+1459749	bt_nllb_swahili	Why do I not have a seizure during sex	0.0159
+1477322	-1	Why do people say Germans are racists?	1.0
+1477322	bt_nllb_french	Why are Germans racist	0.5
+1477322	bt_nllb_persian	Why do people call Germans racist	0.1667
+1477322	bt_nllb_chinese_yue	Why would anyone call Germans racists	0.125
+1477322	bt_nllb_swahili	Why do people call Germans colorful	0.0435
+1502604	-1	how do crooks  make  fake   passports  ?	1.0
+1502604	bt_bing_arabic	How do scammers make fake passports	0.5
+1502604	bt_bing_chinese_simplified	How do scammers make fake passports	0.5
+1502604	bt_bing_french	How do scammers make fake passports	0.5
+1502604	bt_nllb_arabic	How do scammers make fake passports	0.5
+1502604	bt_nllb_german	How do scammers get fake passports	0.5
+1502604	bt_nllb_russian	How do scammers make fake passports	0.5
+1502604	bt_nllb_tamil	How do fraudsters do fake passports	0.3333
+1502604	bt_nllb_korean	How do fraudsters create fake passports	0.25
+1509982	-1	How is th Chemistry is a basic of Science?	1.0
+1509982	bt_nllb_german	How is chemistry a principle of science	0.5
+1582877	-1	why do we go to school if in the real world we dont use most of it?	1.0
+1582877	bt_bing_tamil	If we don t go to school in the real world why do we go to school	0.3333
+1582877	bt_bing_korean	If we don t use most of them in the real world why do we need to go to school	0.25
+1582877	bt_bing_arabic	Why go to school if in the real world we don t use most of it	0.1667
+1582877	bt_nllb_arabic	Why go to school if in the real world we don t use most of it	0.1667
+1582877	bt_nllb_korean	Why don t you go to school and use most of it in the real world	0.1667
+1582877	bt_bing_french	Why do we go to school if in the real world we don t use most of it	0.1429
+1582877	bt_bing_german	Why do we go to school if we don t use most of it in the real world	0.1429
+1582877	bt_bing_malay	Why do we go to school if in the real world we don t use most of it	0.1429
+1582877	bt_bing_russian	Why do we go to school if we don t use most of it in the real world	0.1429
+1582877	bt_nllb_french	Why do we go to school if in the real world we don t use most of it	0.1429
+1582877	bt_nllb_malay	Why do we go to school if in the real world we don t use most of it	0.1429
+1582877	bt_nllb_russian	Why do we go to school if in the real world we don t use most of it	0.1429
+1582877	bt_bing_chinese_simplified	Why do we go to school if we don t use most of our time in the real world	0.1111
+1582877	bt_nllb_swahili	why do we go to school like in the real world we don t spend more of it	0.0833
+1582877	bt_bing_swahili	Why do we go to school if in the real world we don t use more	0.0714
+1582877	bt_nllb_german	Why do we go to school when we don t use most of it	0.0667
+1582877	bt_nllb_tamil	Why do we go to school when we don t use it in the real world	0.0667
+1582877	bt_nllb_chinese_yue	If in the real world we don t spend most of our time in school why go	0.0588
+1582877	bt_nllb_persian	Why go to school if we don t use it in the real world	0.0476
+1582877	bt_bing_persian	Why go to school if we don t use it more in the real world	0.0417
+159716	-1	How do I find an Inmate at Southwest Detention Center 30755 Auld Rd., Murrieta, CA 92563?	1.0
+159716	bt_nllb_french	How do you find a prisoner at the Southwest detention center Auld Rd Murrieta CA	0.5
+159716	bt_nllb_persian	How do I find a prisoner at the Southwest detention center Old Rodeo Morretta CA	0.5
+159716	bt_nllb_tamil	How do you find a prisoner at the Southwest detention center Old Reddy Murrieta CA	0.5
+1607728	-1	what causes gray facial hair in men?	1.0
+1607728	bt_bing_korean	What causes white beard in men	0.1667
+1623623	-1	How do you improve fuel efficiency of a 2004, Ford Ikon?	1.0
+1623623	bt_nllb_french	How can we improve the energy efficiency of a Ford Ikon	0.25
+1663853	-1	what is a wet dream?	1.0
+1663853	bt_bing_swahili	What is the dream of rain	0.5
+1663853	bt_bing_tamil	What does a wet dream mean	0.5
+1663853	bt_nllb_swahili	What is a rain dream	0.5
+1663853	bt_bing_chinese_simplified	What is a Dream Relic	0.1429
+1702151	-1	How patient a driver are you?	0.0435
+1702151	bt_bing_arabic	How patient is the driver	0.0345
+1702151	bt_bing_persian	How patient is the driver	0.0345
+1702151	bt_nllb_korean	How patient is the driver	0.0345
+1702151	bt_bing_swahili	How sick are you	0.0
+172731	-1	how for is saturn from the sun?	1.0
+172731	bt_bing_french	How far away is Saturn from the Sun	0.5
+172731	bt_nllb_arabic	How is the sun from Sutton	0.0833
+172731	bt_nllb_chinese_yue	What does the sun look like	0.0769
+172731	bt_nllb_persian	Why is it so fast away from the sun	0.0625
+1783010	-1	What is Blaphsemy?	1.0
+1783010	bt_bing_chinese_simplified	What is Profanity	0.0833
+1783010	bt_bing_arabic	What is Plafsmi	0.0
+1783010	bt_bing_french	What is Blaphsemiy	0.0
+1783010	bt_bing_german	What is blaphemia	0.0
+1783010	bt_bing_korean	What is Vlafsemi	0.0
+1783010	bt_bing_persian	What is a bladder	0.0
+1783010	bt_bing_tamil	What is Blapsemi	0.0
+1783010	bt_nllb_arabic	What is Blassomie	0.0
+1783010	bt_nllb_korean	What is a BLAFFSEMY	0.0
+1783010	bt_nllb_persian	What is Blassom	0.0
+1783010	bt_nllb_russian	What s with the Bluffs	0.0
+1783010	bt_nllb_tamil	What is plaphemy	0.0
+1794677	-1	How can I treat my Acne Scars?	1.0
+1794677	bt_nllb_malay	How can I treat my acne	0.2
+1794677	bt_nllb_swahili	How can I treat my acne wounds	0.1667
+1794677	bt_nllb_korean	How can you treat a scarring wound	0.0833
+1794677	bt_nllb_persian	How can I heal my wounds	0.0
+1794677	bt_nllb_tamil	How can I treat my plum tears	0.0
+1821193	-1	Why do people feed poison (sugar) to their kids on Easter, and why are there no chocolate Jesuses?	1.0
+1821193	bt_nllb_french	Why do people feed their children with poison sugar at the Passover and why isn t Jesus in the chocolate	0.5
+1821193	bt_nllb_malay	Why do people give their children poison sugar at Easter and why don t they have chocolate Jesuses	0.1
+1821193	bt_nllb_persian	Why do people poison their children on Passover Day and why do not Jesus have chocolate	0.0667
+1821193	bt_nllb_chinese_yue	Why do people give children poisoned food on Easter and why do they eat sugary food on Easter	0.0345
+1844896	-1	How to cook Angus burgers?	1.0
+1844896	bt_nllb_russian	How do you make Angus burgers	0.5
+1850323	-1	Why some men never wash their hands after using the Urinal/Toilet?	1.0
+1850323	bt_nllb_korean	Why don t some men wash their hands after using a urine or a vision device	0.5
+1850323	bt_nllb_persian	Why don t some men wash their hands after using the toilet	0.5
+1850323	bt_nllb_arabic	Why don t some men wash their hands after using the bathroom	0.3333
+1850323	bt_nllb_malay	Why don t some men wash their hands after using the bathroom	0.3333
+1862795	-1	How does spending prolonged time in microgravity affect the bodies of astronauts?	0.5
+1862795	bt_bing_arabic	How does spending too much time in microgravity affect astronauts bodies	0.3333
+1862795	bt_nllb_arabic	How does spending a long time in the little gravity affect the bodies of astronauts	0.3333
+1862795	bt_nllb_french	How does microgravity affect astronauts	0.3333
+1862795	bt_nllb_korean	How does spending a long time in microgravity affect the body of a spacecraft pilot	0.125
+1862795	bt_bing_russian	How does prolonged exposure to microgravity affect astronauts	0.1
+1862795	bt_nllb_malay	How does spending so much time in microgravity affect the spacecraft	0.0333
+1862795	bt_nllb_swahili	How does long life under the influence of the hands affect the bodies of space travelers	0.0
+1866981	-1	I know how I got here, but how did you?	1.0
+1866981	bt_bing_arabic	I know how I got here but how did you do	0.5
+1866981	bt_bing_french	I know how I got here but how did you do it	0.5
+1866981	bt_bing_german	I know how I got here but how did you do it	0.5
+1866981	bt_nllb_chinese_yue	I know how I got here but how do you do it	0.5
+1866981	bt_nllb_french	I know how I got there but how could you	0.5
+1866981	bt_nllb_german	I know how I got here but how did you do that	0.5
+1866981	bt_nllb_swahili	I know how I got here but how did you do it	0.5
+1866981	bt_nllb_tamil	I know how I got here but how do you do it	0.5
+1880028	-1	What does "see Leaflet" mean on Ept Pregnancy test?	1.0
+1937374	-1	how to get 277 V AC ?	1.0
+1937374	bt_nllb_arabic	How do I get a AC	0.5
+1944018	-1	Why can't teenagers vote?	0.5
+1957887	-1	How can I hunt down and punch the people that keep spamming me?	1.0
+1957887	bt_bing_chinese_simplified	How can I hunt down and beat up people who keep spamming me	0.5
+1957887	bt_nllb_persian	How can I hunt down and beat up people who always spam me	0.5
+1957887	bt_nllb_tamil	How can I hunt and beat people who follow me spam	0.5
+1957887	bt_nllb_malay	How can I hunt down and beat up people who keep sucking me	0.2
+1957887	bt_nllb_arabic	How can I spot and hit people who keep sending them to me	0.0556
+1964316	-1	What do you mean by "weed"?	1.0
+1964316	bt_bing_tamil	What is weed	0.25
+1964316	bt_bing_french	What do you mean by grass	0.0
+1964316	bt_bing_german	What do you mean by grass	0.0
+1964316	bt_bing_persian	What do you mean pruning grass	0.0
+1964316	bt_nllb_chinese_yue	What does grass mean	0.0
+1964316	bt_nllb_french	What do you mean herb	0.0
+1964316	bt_nllb_german	What do you mean throw	0.0
+1964316	bt_nllb_korean	What do you mean Macho	0.0
+1964316	bt_nllb_malay	What do you mean herbal	0.0
+1964316	bt_nllb_persian	What do you mean Cheres	0.0
+1964316	bt_nllb_russian	What do you mean grass	0.0
+1964316	bt_nllb_tamil	What do you mean by copper	0.0
+1968489	-1	Which auto insurance do you use and why?	1.0
+1968489	bt_bing_chinese_simplified	Which car insurance do you use and why	0.125
+1968489	bt_bing_french	Which car insurance do you use and why	0.125
+1968489	bt_bing_persian	Which car insurance do you use and why	0.125
+1968489	bt_nllb_malay	Which car insurance policy do you use and why	0.1
+1968489	bt_nllb_tamil	What type of car insurance are you using and why	0.0833
+1968489	bt_bing_arabic	What car insurance do you use and why	0.0667
+1968489	bt_bing_german	What car insurance do you use and why	0.0667
+1968489	bt_bing_korean	What car insurance do you use and why	0.0667
+1968489	bt_bing_swahili	What car insurance do you use and why	0.0667
+1968489	bt_nllb_korean	What kind of car insurance why	0.0625
+1968489	bt_nllb_arabic	What kind of car insurance are you using and why	0.0588
+1968489	bt_nllb_persian	What kind of car insurance are you using and why	0.0588
+1968489	bt_nllb_chinese_yue	What kind of car insurance do you use	0.0455
+1968489	bt_nllb_french	What kind of car insurance do you use and why	0.0455
+1968489	bt_nllb_german	What kind of car insurance do you use and why	0.0455
+1968489	bt_nllb_swahili	What kind of car insurance do you use and why	0.0455
+1968489	bt_nllb_russian	What highway do you use and why	0.0
+1971899	-1	what is masturbat***?	1.0
+1971899	bt_nllb_malay	Is that masturbation	0.0123
+1971899	bt_bing_arabic	What is masturbation	0.0103
+1971899	bt_bing_french	What is masturbation	0.0103
+1971899	bt_bing_german	What is masturbating	0.0103
+1971899	bt_bing_korean	What is masturbation	0.0103
+1971899	bt_bing_persian	What is masturbation	0.0103
+1971899	bt_bing_russian	What is masturbation	0.0103
+1971899	bt_bing_tamil	What is masturbation	0.0103
+1971899	bt_nllb_french	What is masturbation	0.0103
+1971899	bt_nllb_german	What is masturbation	0.0103
+1971899	bt_nllb_russian	What is masturbation	0.0103
+1971899	bt_nllb_swahili	What is masturbating	0.0103
+1971899	bt_bing_swahili	What s the point of masturbating	0.0
+1971899	bt_nllb_arabic	What is foam manipulation	0.0
+1971899	bt_nllb_chinese_yue	What is it	0.0
+1971899	bt_nllb_korean	What is a mascara	0.0
+1971899	bt_nllb_persian	What s a punch	0.0
+1971899	bt_nllb_tamil	What self indulgence	0.0
+1977054	-1	Couscous is a food from what origin?	1.0
+1977054	bt_nllb_malay	Where did couscous come from	0.25
+1977054	bt_nllb_arabic	Coscus is a food of what origin	0.0556
+1977054	bt_nllb_chinese_yue	What is it	0.0
+1977054	bt_nllb_korean	What kind of plant is a cuscus	0.0
+1977054	bt_nllb_russian	What kind of coconut product	0.0
+1977054	bt_nllb_tamil	What is the food for the gooseberry	0.0
+2008017	-1	why do black people like fried chicken somuch?	1.0
+2008017	bt_nllb_german	Why do black people like frozen chicken	0.5
+2008017	bt_nllb_tamil	Why do black people prefer roast chicken Somuch	0.25
+2018562	-1	Why does my Black Lab howl to "Law and Order" theme song?	1.0
+2018562	bt_bing_swahili	Why is my Black Lab humming the theme song of Law Order	0.5
+204633	-1	Why do you have memories?	0.3333
+204633	bt_nllb_korean	Why do you remember	0.0
+204963	-1	what does 5 by 5 mean?	0.0
+2142044	-1	What do you speculate happened to Natalie Holloway in Aruba?	1.0
+2142044	bt_nllb_persian	Guess what happened to Natalie Halloween in Aruba	0.5
+2142044	bt_nllb_chinese_yue	What do you think happened to Aruba	0.3333
+2180086	-1	what are mormens?	1.0
+2180086	bt_bing_arabic	What are Mormons	0.0625
+2180086	bt_bing_persian	What is Mormon	0.0625
+2180086	bt_bing_tamil	What is Mormons	0.0625
+2180086	bt_nllb_arabic	What are Mormons	0.0625
+2180086	bt_nllb_chinese_yue	What is a Mormon	0.0625
+2180086	bt_nllb_french	What are Mormons	0.0625
+2180086	bt_nllb_german	What are mormons	0.0625
+2180086	bt_nllb_malay	What is a Mormon	0.0625
+2180086	bt_nllb_persian	What are Mormons	0.0625
+2180086	bt_nllb_russian	What are Mormons	0.0625
+2180086	bt_nllb_tamil	What is Mormonism	0.0625
+2182052	-1	why is lemonade at restaurants sometimes different?	1.0
+2182052	bt_bing_arabic	Why is lemon juice different in restaurants sometimes	0.3333
+2182052	bt_nllb_arabic	Why do lemons sometimes differ in restaurants	0.3333
+2182052	bt_bing_german	Why is soda sometimes different in restaurants	0.25
+2182052	bt_nllb_chinese_yue	Why is the smell in restaurants different sometimes	0.25
+2182052	bt_bing_malay	Why is lemon in a restaurant sometimes different	0.2
+2182052	bt_nllb_korean	Why is it different to eat lemons in restaurants	0.0227
+2192891	-1	how are braces put on and do they hurt a lot?	1.0
+2192891	bt_nllb_swahili	How do braces fit and they hurt so much	0.25
+2192891	bt_bing_chinese_simplified	How do you wear braces and do braces hurt	0.2
+2192891	bt_nllb_malay	How are the braces placed and do they hurt a lot	0.2
+2192891	bt_nllb_tamil	How are the braces worn and will they hurt so much	0.1667
+2192891	bt_bing_arabic	How are braces placed and does it hurt much	0.1429
+2192891	bt_bing_persian	How do braces fit and do they cause a lot of pain	0.1111
+2192891	bt_bing_korean	How do braces wear and do they hurt a lot	0.0909
+2192891	bt_bing_malay	How do braces wear and do they hurt a lot	0.0909
+2192891	bt_nllb_arabic	How do you put the stick and it hurts so much	0.0714
+2192891	bt_nllb_russian	How do you wear braces and hurt so bad	0.0588
+2192891	bt_nllb_german	How do you get the benches up and hurt a lot	0.0333
+2192891	bt_nllb_chinese_yue	What do you do with a bra	0.0
+2192891	bt_nllb_french	How are the support devices set up and how do they hurt	0.0
+2192891	bt_nllb_korean	How do you wear a brake and get hurt	0.0
+2192891	bt_nllb_persian	How do you wear rice and it hurts so much	0.0
+224109	-1	what is citriscidal?	0.0
+225575	-1	what does 'wet behind the ears' mean?	1.0
+225575	bt_bing_swahili	What do you mean by behind the ears	0.5
+225575	bt_nllb_german	What does sweat behind the ears mean	0.5
+225575	bt_nllb_arabic	What do you mean humidity behind the ears	0.3333
+225575	bt_bing_chinese_simplified	What does Wittebehindetheus mean	0.0
+2290758	-1	Why do people ask questions they know?	0.1429
+2291272	-1	How is Catholicism not Christianity?	1.0
+2291272	bt_bing_malay	How are non Christian Catholics	0.3333
+2291272	bt_bing_persian	How Catholic is not Christian	0.3333
+2291272	bt_nllb_malay	How can Catholics not Christians	0.25
+2291272	bt_nllb_tamil	How can Catholics not be Christians	0.25
+229303	-1	Why  is  the   war continuing  in  Afghanistan?	1.0
+2307305	-1	Why do man rape little girls?	1.0
+2309774	-1	Why do I keep seeing people on here 'dissing' on the soldiers in Iraq?	1.0
+2309774	bt_nllb_arabic	Why do I watch people here try to contain the troops in Iraq	0.5
+2309774	bt_nllb_chinese_yue	Why do I see soldiers in Iraq	0.5
+2309774	bt_nllb_german	Why do I keep seeing people here cutting themselves off from the soldiers in Iraq	0.5
+2309774	bt_nllb_malay	Why do I keep seeing people here feed the troops in Iraq	0.5
+2309774	bt_nllb_persian	Why do I always see people here reaching for Iraqi soldiers	0.5
+2309774	bt_bing_chinese_simplified	Why do I always see people here singing the songs of Iraqi soldiers	0.25
+2309774	bt_bing_malay	Why do I keep seeing people here turning off troops in Iraq	0.25
+2309774	bt_nllb_korean	Why do people keep sending Iraqi troops to the United States to fight in Iraq Why do people keep fighting in Iraq Why do they keep fighting in Iraq Why do they keep fighting in Iraq Why do they keep fighting in Iraq Why do they keep fighting in Iraq Why do they keep fighting in Iraq Why do they keep fighting in Iraq Why do they keep fighting in Iraq Why do they keep fighting in Iraq Why do they keep fighting in Iraq Why do they keep fighting in Iraq Why do they keep fighting in Iraq Why do they keep fighting in Iraq Why do they keep fighting in Iraq Why do they keep fighting in Iraq Why do they keep fighting in Iraq Why do they keep fighting in Iraq Why do they keep fighting in Iraq Why do they keep fighting in Iraq Why do they keep fighting in Iraq Why do they keep fighting in Iraq Why do they keep fighting in Iraq Why do they keep fighting in Iraq Why do they keep fighting in Iraq Why do they keep fighting in Iraq Why do they keep fighting in Iraq Why do they keep fighting in Iraq Why do they keep fighting in Iraq Why do they keep fighting in Iraq Why do they keep fighting Why do they keep fighting Why do they keep fighting Why do they keep fighting Why do they keep fighting Why do they keep fighting Why do they keep fighting Why do they keep fighting Why do they keep fighting Why do they keep fighting Why do they keep fighting Why do they keep fighting Why do they keep fighting Why do they keep fighting They keep fighting They keep fighting They keep fighting They keep fighting They keep fighting They are not keep fighting They are not keep fighting They are not keep fighting They are not want to keep fighting They are not keep fighting They are not not keep fighting They are not not want to keep fighting They are not to keep keep keep keep keep keep keep keep keep keep keep keep keep keep keep keep keep keep keep their head head head head head head head head head head head head head head head head head head head head head head head head head head head head head head head head head head head head head head head head head head head head head head head head head head head head head head head head head head head head head head head head head head head head head head head head head head head head head head head head head head head head	0.0
+23464	-1	why girls are beautiful?	1.0
+23464	bt_nllb_malay	Why are the pretty girls	0.5
+23464	bt_nllb_persian	Why are girls so pretty	0.25
+23464	bt_bing_tamil	Why are women beautiful	0.1667
+23464	bt_nllb_tamil	Why are women so beautiful	0.0769
+23464	bt_nllb_swahili	why are girls so good	0.037
+23464	bt_bing_korean	Why is a woman beautiful	0.0244
+2380990	-1	Why am I alive?	1.0
+2380990	bt_bing_german	Why do I live	0.0
+2380990	bt_bing_russian	Why do I live	0.0
+2380990	bt_nllb_swahili	Why am I here	0.0
+2382487	-1	what do i do if i have not started my period in like almost 6 months?	0.5
+2382487	bt_bing_arabic	What should I do if I haven t started my period in almost months	0.25
+2382487	bt_bing_chinese_simplified	What should I do if I haven t started my period in almost months	0.25
+2382487	bt_bing_french	What should I do if I haven t started my period in almost months	0.25
+2382487	bt_bing_german	What do I do if I haven t started my period in almost months	0.25
+2382487	bt_bing_persian	What should I do if I haven t started my period for almost months	0.25
+2382487	bt_nllb_german	What should I do if I haven t started my period in almost six months	0.2
+2382487	bt_bing_tamil	What do I do if my period doesn t start in almost months	0.1667
+2382487	bt_nllb_chinese_yue	What if I haven t had my period in six months	0.1667
+2382487	bt_nllb_tamil	What if I haven t had my period in six months	0.1667
+2382487	bt_bing_russian	What should I do if I haven t had my period for almost months	0.1429
+2382487	bt_nllb_malay	What would I do if I didn t start my period in almost six months	0.1429
+2382487	bt_nllb_swahili	What if I haven t had my period in almost six months	0.1111
+2382487	bt_nllb_french	What if I haven t started my period in almost six months	0.1
+2382487	bt_nllb_russian	What if I haven t started my period in almost six months	0.1
+2382487	bt_nllb_persian	What if I haven t started my period in about six months	0.0833
+2382487	bt_bing_korean	What should I do if I don t start my period for almost months	0.0435
+2382487	bt_nllb_korean	What if you haven t started menstruating in about six months	0.0175
+2382487	bt_bing_malay	What should I do if I don t start my term close to months	0.0
+2418598	-1	why do wisdom varies from person to person?	1.0
+2418598	bt_bing_chinese_simplified	Why does wisdom vary from person to person	0.5
+2418598	bt_bing_french	Why does wisdom vary from person to person	0.5
+2418598	bt_bing_german	Why does wisdom vary from person to person	0.5
+2418598	bt_bing_korean	Why does wisdom vary from person to person	0.5
+2418598	bt_bing_malay	Why does wisdom vary from person to person	0.5
+2418598	bt_bing_russian	Why does wisdom vary from person to person	0.5
+2418598	bt_nllb_malay	Why does wisdom vary from person to person	0.5
+2418598	bt_nllb_swahili	why does wisdom vary from person to person	0.5
+2418598	bt_nllb_chinese_yue	Why is it that people s intelligence is different	0.0
+2418598	bt_nllb_russian	Why is wisdom different from man to man	0.0
+2443586	-1	What is a Bro?	1.0
+2443586	bt_bing_russian	Who is Bro	0.5
+2443586	bt_bing_chinese_simplified	What is Brother	0.1111
+2443586	bt_bing_persian	What is brother	0.1111
+2443586	bt_nllb_arabic	What is brother	0.1111
+2443586	bt_nllb_chinese_yue	What is brother	0.1111
+2443586	bt_nllb_swahili	What is a brother	0.1111
+2443586	bt_nllb_tamil	What a brother	0.1111
+2443586	bt_nllb_french	What s a brother	0.0714
+2443586	bt_nllb_korean	What s a brother	0.0714
+2443586	bt_nllb_persian	What s your brother	0.0196
+2443586	bt_bing_swahili	What s the book	0.0
+2443586	bt_bing_tamil	What is a Pro	0.0
+2443586	bt_nllb_russian	What is Braw	0.0
+2446614	-1	how could u get success?	0.3333
+2446614	bt_bing_french	How could you be successful	0.1429
+2446614	bt_bing_russian	How could you succeed	0.0208
+2446614	bt_nllb_german	How could you succeed	0.0208
+2446614	bt_nllb_russian	How could you succeed	0.0208
+2446614	bt_bing_chinese_simplified	How can you succeed	0.0159
+2446614	bt_bing_korean	How can you succeed	0.0159
+2446614	bt_bing_malay	How can you succeed	0.0159
+2446614	bt_bing_persian	How can you succeed	0.0159
+2446614	bt_nllb_arabic	How can you succeed	0.0159
+2446614	bt_nllb_persian	How can you succeed	0.0159
+2446614	bt_nllb_swahili	How can you succeed	0.0159
+2446614	bt_nllb_tamil	How can you succeed	0.0159
+2446614	bt_bing_german	How did you succeed	0.0108
+2446614	bt_nllb_chinese_yue	How did you succeed	0.0108
+2446614	bt_nllb_korean	How did you succeed	0.0108
+2446614	bt_bing_tamil	How to win	0.0
+2446614	bt_nllb_french	How did you do that	0.0
+2446614	bt_nllb_malay	How can you do that	0.0
+2452795	-1	How can I heat the water within a 150 gal tank that's open to the atmosphere in Feb.?	1.0
+2452795	bt_bing_swahili	How do I heat the water inside a gal tank that s open to the sky in February	0.5
+2452795	bt_bing_tamil	How can you heat water inside a gallon tank open to the atmosphere in February	0.5
+2452795	bt_bing_chinese_simplified	How do you heat water inside a gallon tank that opened to the atmosphere in February	0.3333
+2452795	bt_nllb_arabic	How can I heat the water inside a dollar open air tank in February	0.25
+2452795	bt_bing_german	How can I heat the water in a gallon tank that is open to the atmosphere in February	0.2
+2452795	bt_bing_korean	How can I heat water in a gallon tank open to the atmosphere in February	0.2
+2452795	bt_bing_persian	How can I heat water in a gallon tank that is open to the atmosphere in February	0.2
+2452795	bt_nllb_french	How can I heat water in a gallon tank that s open to the atmosphere in February	0.2
+2452795	bt_nllb_persian	How do I heat the blue in the gallery tank that opened to the atmosphere in February	0.2
+2452795	bt_nllb_tamil	How can I heat a gallon tank of water that is open to the atmosphere in February	0.2
+2452795	bt_bing_french	How do I heat water in a gallon tank open to the atmosphere in February	0.1667
+2452795	bt_nllb_chinese_yue	How do I heat water in a gallon tank that opened in February	0.1667
+2452795	bt_nllb_malay	How do I heat water in a gallon tank that s open to the atmosphere in February	0.1667
+2452795	bt_bing_russian	How do you heat water in a gallon tank open to the atmosphere in February	0.1429
+2452795	bt_nllb_swahili	How can I boil water in a gallon tank that is open to the sky in February	0.1429
+2452795	bt_bing_arabic	How do I heat water inside a gallon tank open to the atmosphere in February	0.125
+2479423	-1	Why is there brail on the keypads at drive up ATM's?	1.0
+2479423	bt_nllb_tamil	Why is there a brake on the clutch when driving at an ATM	0.5
+2479423	bt_bing_persian	Why is there a barbecue on the ATM keyboard	0.2
+2479423	bt_nllb_arabic	Why is there a brill on the keyboard in the ATM	0.2
+2479423	bt_nllb_chinese_yue	Why is there a print on the keyboard of the power supply	0.0
+2479423	bt_nllb_persian	Why is there a brilliant key on the bank keyboards	0.0
+2484180	-1	why do people judge a dog by what he looks like?	1.0
+2484180	bt_nllb_persian	Why do people judge by dogs	0.5
+2484180	bt_bing_arabic	Why do people judge by what they seem	0.3333
+2484180	bt_bing_korean	Why do people judge dogs by their appearance	0.3333
+2484180	bt_bing_malay	Why do people judge dogs by their appearance	0.3333
+2484180	bt_nllb_korean	Why do people judge dogs appearances	0.3333
+2484180	bt_bing_french	Why do people judge a dog by its appearance	0.25
+2484180	bt_bing_german	Why do people judge a dog by its appearance	0.25
+2484180	bt_nllb_swahili	why do people judge a dog by its appearance	0.25
+2484180	bt_nllb_tamil	Why do people judge a dog based on his appearance	0.2
+2484180	bt_bing_chinese_simplified	Why do people judge a dog based on its appearance	0.1667
+2528767	-1	How do I determine the charge of the iron ion in FeCl3?	0.5
+2528767	bt_nllb_persian	How do I determine the iron ion content in FeCl	0.2
+2528767	bt_nllb_swahili	How do I determine the load of iron ions in FeCl	0.2
+2528767	bt_bing_chinese_simplified	How to determine the charge of iron ions in ferric chloride	0.1667
+2529114	-1	since i have premature ejaculation problem, how to satisfy my girl?	1.0
+2529114	bt_nllb_french	Since I have an early ejaculation problem how can I please my daughter	0.0435
+2529114	bt_nllb_swahili	Since I have a problem with premature delivery how can I please my girlfriend	0.0312
+2529114	bt_nllb_persian	Since I have an early ejaculation problem how do I please my daughter	0.013
+2529114	bt_nllb_arabic	Since I have a problem with early spread how do I please my girl	0.0
+2529114	bt_nllb_chinese_yue	I have a problem with preterm birth how can I please my daughter	0.0
+2529114	bt_nllb_korean	I have a problem with early abortion so how can I please my daughter	0.0
+2529114	bt_nllb_tamil	How can I please my wife since I have a pre eclampsia problem	0.0
+2539741	-1	what cause the car to have white smoke coming from the muffler and making a kicking or knocking sounds?	1.0
+2539741	bt_nllb_malay	What causes a car to have white smoke coming out of the packaging and making a kick or a knocking noise	0.5
+2539741	bt_bing_chinese_simplified	What causes a car muffler to emit white smoke and make a kicking or tapping sound	0.3333
+2539741	bt_nllb_tamil	What causes the white smoke of a car to come out of the fog and make a knocking or knocking noise	0.25
+2539741	bt_nllb_russian	What makes the machine get white smoke from the silencer and knock or knock	0.2
+2539741	bt_bing_korean	What causes white smoke and kicking or tapping noises from the muffler	0.125
+2539741	bt_nllb_french	What makes the car have white smoke coming from the plug and making a kick or a knock	0.1
+2539741	bt_nllb_german	What causes white smoke to come out of the jewellery and make a knock or a knock	0.0435
+2551845	-1	Why is GW dogged for not getting OBL yet killing Zarkawi is a non-event?	1.0
+2551845	bt_bing_tamil	Why is GW adamant about not getting OPL and still killing Zarqawi is not an event	0.3333
+2551845	bt_bing_chinese_simplified	Why is GW stubborn because it didn t get OBL and killing Zarkawi is not a big deal	0.1429
+2551845	bt_bing_korean	Why is GW insisting that killing Zarqawi is not an incident when he didn t get OBL	0.0556
+2551845	bt_nllb_russian	Why is GW being prosecuted for not getting an O B L And Zarqawi s murder is not an event	0.0286
+2551845	bt_nllb_arabic	Why is G H being sentenced to not getting Opel when Zarqawi s murder is not an event	0.0103
+2551845	bt_nllb_tamil	Why is it accused that G V did not get the OPL but that Sarghai s killing was not an accident	0.0
+2582920	-1	What is the difference in a dried plum and a dried prune?	1.0
+2582920	bt_nllb_arabic	What s the difference between a dry and dry and dry and dry and dry and dry and dry and dry and dry and dry and dry and dry and dry and dry and dry and dry and dry and dry and dry and dry and dry and dry and dry and dry and dry and dry and dry and dry and dry and dry and dry and dry and dry and dry and dry and dry and dry and dry and dry and dry and dry and dry and dry and dry and dry and dry and dry and dry and dry and dry and and dry and and dry and and dry and and and and and and and and and and and and and and and and and and and and and and and and and and and and and and and and and and and and and and and and and between the like that is all about	0.0
+2582920	bt_nllb_chinese_yue	What s the difference between dry and dry	0.0
+2582920	bt_nllb_korean	What s the difference between dry grass and dry grass	0.0
+2582920	bt_nllb_russian	What s the difference between dry cream and dry cream	0.0
+2582920	bt_nllb_tamil	What is the difference between a dry bloom and a dry bloom	0.0
+2592121	-1	how to rollover 401k into real estate?	0.25
+2619912	-1	How were you saved from sin-and born again as Jesus says "Except you repent, and be born again..." How didYou?	1.0
+2619912	bt_nllb_persian	How did you get rid of sin and be born again	0.5
+2634143	-1	what is direct borrowing, phonological borrowing, linguistic borrowing, cultural borrowing,intimate borrowing?	1.0
+2634143	bt_bing_malay	What is direct loan phonological loan linguistic loan cultural loan intimate loan	0.0
+2634143	bt_bing_tamil	What is Direct Credit Phonetic Credit Language Credit Cultural Credit Close Credit	0.0
+2634143	bt_nllb_chinese_yue	What are direct loans audio loans language loans cultural loans intimate loans	0.0
+2634143	bt_nllb_french	What is direct lending phonological lending linguistic lending cultural lending intimate lending	0.0
+2634143	bt_nllb_german	What is direct credit phonological credit linguistic credit cultural credit intimate credit	0.0
+2634143	bt_nllb_korean	What are direct loans phonological loans linguistic loans cultural loans intimate loans	0.0
+2634143	bt_nllb_malay	What are direct loans phonology loans language loans cultural loans intimate loans	0.0
+2634143	bt_nllb_persian	What are direct loans voice loans language loans cultural loans direct loans	0.0
+2634143	bt_nllb_russian	What are direct loans phonological loans language loans cultural loans personal loans	0.0
+2634143	bt_nllb_swahili	What is direct credit phonological credit language credit cultural credit neighborhood credit	0.0
+2634143	bt_nllb_tamil	What is direct credit audio credit language credit cultural credit close credit	0.0
+2643507	-1	why does milk cost more than gas per gallon?	1.0
+2643507	bt_nllb_malay	Why is milk more expensive than gas	0.5
+2643507	bt_nllb_tamil	Why is milk more expensive than fuel per litre	0.25
+2643507	bt_nllb_chinese_yue	Why is milk more expensive than oil	0.0909
+2713171	-1	What does the sentence's mean?	1.0
+2713171	bt_bing_arabic	What does a sentence mean	0.2
+2713171	bt_bing_korean	What does this sentence mean	0.2
+2713171	bt_bing_malay	What does the sentence mean	0.2
+2713171	bt_bing_persian	What does the sentence mean	0.2
+2713171	bt_bing_russian	What does this sentence mean	0.2
+2713171	bt_bing_swahili	What does that sentence mean	0.2
+2713171	bt_bing_tamil	What does the sentence mean	0.2
+2713171	bt_bing_chinese_simplified	What does this phrase mean	0.0
+2713171	bt_bing_french	What does the phrase mean	0.0
+2713171	bt_bing_german	What does the phrase mean	0.0
+2713171	bt_nllb_arabic	What does that phrase mean	0.0
+2713171	bt_nllb_chinese_yue	What does this mean	0.0
+2713171	bt_nllb_french	What does that phrase mean	0.0
+2713171	bt_nllb_german	What does that phrase mean	0.0
+2713171	bt_nllb_korean	What does this phrase mean	0.0
+2713171	bt_nllb_malay	What does that say	0.0
+2713171	bt_nllb_persian	What does that mean	0.0
+2713171	bt_nllb_russian	What does that offer mean	0.0
+2713171	bt_nllb_swahili	What does that mean	0.0
+2713171	bt_nllb_tamil	What does this phrase mean	0.0
+2722241	-1	why do some animals hide in a dark place b4 they die?	0.25
+2722241	bt_bing_arabic	Why are some hiding in a dark place B die	0.2
+2722241	bt_bing_chinese_simplified	Why do some animals hide in dark places when B they die	0.2
+2722241	bt_nllb_chinese_yue	Why do some animals hide in dark places	0.2
+2722241	bt_nllb_french	Why do some animals hide in a dark place	0.2
+2722241	bt_nllb_swahili	Why do some animals hide in the dark place B when they die	0.2
+2722241	bt_bing_russian	Why do some animals hide in a dark place of B do they die	0.1667
+2783398	-1	What is a nucleus?	1.0
+2783398	bt_nllb_chinese_yue	What is nuclear	0.0143
+2783398	bt_nllb_korean	What is nuclear	0.0143
+2783398	bt_bing_arabic	What is a kernel	0.0
+2783398	bt_bing_french	What is a kernel	0.0
+2783398	bt_bing_persian	What is Core	0.0
+2783398	bt_bing_russian	What is a kernel	0.0
+2783398	bt_bing_tamil	What is an embryo	0.0
+2783398	bt_nllb_arabic	What s the core	0.0
+2783398	bt_nllb_german	What is a core	0.0
+2783398	bt_nllb_malay	What s the core	0.0
+2783398	bt_nllb_persian	What is the core	0.0
+2783398	bt_nllb_swahili	What is the clue	0.0
+2783398	bt_nllb_tamil	What is a nuclear weapon	0.0
+2785579	-1	If you could be an element of weather, which would you choose, and why?	1.0
+2785579	bt_bing_arabic	If you could be an element of weather which one would you choose and why	0.5
+2785579	bt_bing_chinese_simplified	If you could be an element of the weather which one would you choose and why	0.5
+2785579	bt_bing_french	If you could be a weather element which one would you choose and why	0.5
+2785579	bt_bing_german	If you could be an element of the weather which one would you choose and why	0.5
+2785579	bt_bing_tamil	If you could be an element of the weather which one would you choose and why	0.5
+2785579	bt_nllb_german	If you could be an element of the weather which one would you choose and why	0.5
+2785579	bt_nllb_persian	If you could be the element of the air who would you choose and why	0.1667
+2785579	bt_bing_russian	If you could be a weather element what would you choose and why	0.125
+2785579	bt_nllb_swahili	If you could be a weather creature what would you choose and why	0.1
+2785579	bt_bing_malay	If you can become an element of the weather which one will you choose and why	0.0833
+2785579	bt_nllb_tamil	If you were an element of weather what would you choose and why	0.0435
+2785579	bt_nllb_chinese_yue	If you could be a weather factor what would you choose	0.04
+2785579	bt_bing_swahili	If you could be a weather feature which one would you choose and why	0.0204
+2785579	bt_nllb_french	If you could be a weather forecaster which one would you choose and why	0.0137
+2785579	bt_nllb_korean	If it could be a weather factor which would you choose	0.0
+2795030	-1	Why do people drink Cuervo when it tastes the same going down as coming up?	1.0
+2795030	bt_bing_malay	Why do people drink Cuervo when it tastes the same as the next one	0.5
+2795030	bt_bing_russian	Why do people drink Cuervo if it tastes the same as it does on the rise	0.5
+2795030	bt_nllb_chinese_yue	Why would anyone drink Cuervo when it tastes the same going up and down	0.5
+2795030	bt_nllb_french	Why do people drink Cuervo when it tastes the same downwards as upwards	0.5
+2795030	bt_nllb_tamil	Why does it rise as the taste goes down as well when people drink Cuervo	0.5
+2795030	bt_bing_french	Why do people drink Cuervo when it tastes the same on the way down as it does on the way up	0.3333
+2795030	bt_nllb_persian	Why do people eat the quirou when I like to go up and down	0.0556
+2797224	-1	Muslims Are The Happiest People Ever, Why?	1.0
+2799913	-1	What's the proper way to express sorrow at a funeral?	1.0
+2799913	bt_bing_arabic	What is the correct way to express grief at a funeral	0.5
+2799913	bt_bing_chinese_simplified	What is the right way to express grief at a funeral	0.5
+2799913	bt_bing_french	What is the right way to express grief at a funeral	0.5
+2799913	bt_bing_german	What is the right way to express grief at a funeral	0.5
+2799913	bt_bing_korean	What is the proper way to express grief at a funeral	0.5
+2799913	bt_bing_malay	What is the correct way to express grief at a funeral	0.5
+2799913	bt_bing_persian	What is the right way to express grief at a funeral	0.5
+2799913	bt_bing_russian	What is the right way to express grief at a funeral	0.5
+2799913	bt_bing_swahili	What is the correct way to express grief at a funeral	0.5
+2799913	bt_bing_tamil	What is the right way to express grief at a funeral	0.5
+2799913	bt_nllb_arabic	What is the proper way to express grief at a funeral	0.5
+2799913	bt_nllb_korean	What is the way to express grief at a funeral	0.5
+2799913	bt_nllb_persian	What is the proper way to express grief at a funeral	0.5
+2799913	bt_nllb_russian	What is the right way to express grief at a funeral	0.5
+2799913	bt_nllb_swahili	What is the proper way to express mourning at a funeral	0.5
+2799913	bt_nllb_tamil	What is the proper way to express mourning at a funeral	0.5
+2814599	-1	what does the word remission mean when referring to cancer patients?	1.0
+2814599	bt_bing_tamil	What does the word relief mean when referring to cancer patients	0.5
+2814599	bt_nllb_arabic	What does the word disappear mean when you refer to cancer patients	0.5
+2814599	bt_nllb_chinese_yue	What does the word release mean when you talk about cancer patients	0.5
+2814599	bt_nllb_korean	What does the word forgiveness mean when you refer to a cancer patient	0.5
+2814599	bt_nllb_persian	When we refer to cancer patients what does the word background mean	0.5
+2814722	-1	why is the new jersey smoking ban not considered unconstitutional?	1.0
+2814722	bt_nllb_tamil	Why is it not illegal to smoke in New Jersey	0.5
+2814722	bt_nllb_french	Why isn t the New Jersey smoking ban considered unconstitutional	0.3333
+2814722	bt_nllb_malay	Why isn t a smoking ban in New Jersey considered unconstitutional	0.3333
+2814722	bt_nllb_arabic	Why isn t a smoking ban in New Jersey unconstitutional	0.1111
+2814722	bt_nllb_chinese_yue	Why is it not unconstitutional to stop smoking in New York	0.05
+2815090	-1	how cloning will affects our community?	0.5
+2815090	bt_bing_german	How does cloning affect our community	0.25
+2815090	bt_bing_persian	How does it affect our society	0.0
+2815090	bt_nllb_arabic	How will the copying process affect our society	0.0
+2815090	bt_nllb_korean	How will reproduction affect our society	0.0
+2815090	bt_nllb_swahili	how our culture will affect our culture	0.0
+2838988	-1	How can I get a cork out of, not into, a wine bottle without a corkscrew?	1.0
+2838988	bt_nllb_chinese_yue	How can I get out of a bottle of wine without a spiral	0.3333
+2838988	bt_nllb_arabic	How can I get the top of a bottle of wine without a gun	0.25
+2838988	bt_nllb_french	How can I get a bottle of wine out without the winch	0.25
+2838988	bt_nllb_persian	How can I get out of a bottle of wine without a crutch and not look inside	0.125
+2838988	bt_nllb_korean	How do you get a cup out without a coke screw	0.0286
+2838988	bt_nllb_swahili	How can I get a spoon out not in a bottle of wine without a spoon screen	0.0125
+2847807	-1	How can I get rid of the hicups?	1.0
+2847807	bt_bing_russian	How do you get rid of hiccups	0.3333
+2847807	bt_bing_chinese_simplified	How can I get rid of hiccups	0.25
+2847807	bt_bing_korean	How can I get rid of hiccups	0.25
+2847807	bt_bing_tamil	How do I get rid of hiccups	0.25
+2847807	bt_nllb_french	How do I get rid of hiccups	0.25
+2847807	bt_nllb_malay	How can I get rid of hiccups	0.25
+2847807	bt_nllb_swahili	How can I get rid of hiccups	0.25
+2847807	bt_nllb_chinese_yue	How can I get rid of it	0.04
+2847807	bt_nllb_arabic	How can I get rid of Jacob	0.0385
+2847807	bt_nllb_german	How can I get rid of the slurry	0.0357
+2847807	bt_bing_arabic	How can I get rid of cups	0.0323
+2847807	bt_nllb_russian	How can I get rid of the hip	0.0303
+2847807	bt_nllb_persian	How can I get rid of this hook	0.0263
+2847807	bt_nllb_tamil	How can I get rid of the hit ups	0.025
+2847807	bt_nllb_korean	How do we get rid of this hip	0.0
+2862887	-1	how to care for a spiked dragon and what to feed them?	1.0
+2862887	bt_bing_korean	How to care for a spiky dragon and how to feed it	0.5
+2862887	bt_nllb_french	How do you take care of a spiny dragon and what do you feed them	0.5
+2862887	bt_nllb_malay	How to keep the leafy dragons and what to feed them	0.5
+2862887	bt_bing_german	How do you care for a spiny dragon and what do you feed it	0.1667
+2862887	bt_nllb_korean	How do you take care of the rabbit and feed it	0.1667
+2862887	bt_nllb_tamil	How do you look at a cone dragon and what food to feed them	0.1667
+2862887	bt_nllb_chinese_yue	How do you raise a dragon with a sting	0.125
+2862887	bt_nllb_persian	How do we take care of a dragon with our fingers and what do we give him	0.0
+2864267	-1	what exemplifies effective customer service?	1.0
+2864267	bt_nllb_swahili	what shows that customer service is superior	0.5
+2892478	-1	what factors cause the Earth to heat unevenly?	1.0
+2892478	bt_nllb_german	What factors cause uneven warming of the earth	0.25
+2892478	bt_nllb_korean	What is causing the planet to become so unevenly warming	0.2
+2892478	bt_nllb_arabic	What are the factors that cause uneven global warming	0.0526
+2892478	bt_nllb_french	What are the factors that cause unequal global warming	0.0526
+2892478	bt_nllb_chinese_yue	Why is the planet warming so much	0.0
+2892478	bt_nllb_persian	What factors contribute to global warming	0.0
+2892478	bt_nllb_russian	What are the factors that lead to uneven global warming	0.0
+2892478	bt_nllb_swahili	what are the factors that contribute to the uncompetitive global warming	0.0
+2892478	bt_nllb_tamil	What are the reasons why the earth s temperature is irregular	0.0
+2956570	-1	What are the words to write the sound of raindrops, moving train & scribbling w/ pencil on paper figuratively?	1.0
+2956570	bt_nllb_tamil	What words are there to write down pen and ink on paper the sound of rain drops the movement of the train	0.3333
+2956570	bt_nllb_russian	What words to write the sound of a rain drop a moving train and writing in writing	0.0106
+2976644	-1	How amoeba catches its prey?	1.0
+2976644	bt_nllb_arabic	How does Amba get to his prey	0.3333
+2976644	bt_nllb_swahili	How does an ape take its prey	0.0588
+2976644	bt_nllb_tamil	How does Amphibos catch its victims	0.0159
+3040435	-1	USA have Snow, Hurricanes, Flood, Earthquakes and politicians, Brazil only have politicians, why?	1.0
+3040435	bt_bing_arabic	The United States has snow hurricanes floods earthquakes and politicians Brazil only has politicians why	0.5
+3040435	bt_bing_chinese_simplified	There are snows hurricanes floods earthquakes and politicians in the United States only politicians in Brazil why	0.5
+3040435	bt_bing_korean	In the United States there are snow hurricanes floods earthquakes politicians and in Brazil there are only politicians why	0.5
+3040435	bt_bing_malay	The United States has Snow Typhoons Floods Earthquakes and politicians Brazil only has politicians why	0.5
+3040435	bt_bing_tamil	The United States has snow hurricanes floods earthquakes and politicians Brazil only has politicians why	0.5
+3040435	bt_nllb_french	The United States has snow hurricanes floods earthquakes and politicians Brazil has only politicians why	0.5
+3040435	bt_nllb_malay	The United States has snow hurricanes floods earthquakes and politicians Brazil only has politicians why	0.5
+3040435	bt_nllb_swahili	The United States has snow hurricanes floods earthquakes and politicians Brazil has only politicians why	0.5
+3040435	bt_nllb_tamil	There are ice hurricanes floods earthquakes and politicians in the United States and there are only politicians in Brazil and why	0.5
+3074429	-1	How can we understand Islam and Muslims better?	1.0
+3078448	-1	How do you prevent chicken from drying out when you cook it?	1.0
+3078448	bt_nllb_tamil	How can you prevent chicken from drying up when you cook	0.5
+3078448	bt_nllb_korean	How can we prevent chicken from ripening	0.0169
+312215	-1	how good is apple pie when it is cold?	1.0
+312215	bt_nllb_tamil	How good is the apple diet when it s cold	0.3333
+312215	bt_nllb_chinese_yue	How good is the cake when it s cold	0.0
+3155314	-1	we have pork chops, veal chops, lamb chops, why is there not any beef chops ?	1.0
+3155314	bt_nllb_chinese_yue	We have pork beef goat why not beef	0.3333
+3155314	bt_nllb_korean	Why don t you have pork chicken beef	0.1
+3155314	bt_nllb_arabic	We have a pig a pig a pig Why is there no pig	0.0
+3206998	-1	how does disneyland make it snow?	1.0
+3206998	bt_bing_chinese_simplified	How does it snow at Disneyland	0.5
+3206998	bt_bing_french	How does Disneyland snow	0.5
+3206998	bt_bing_persian	How does Disneyland snow	0.5
+3206998	bt_bing_russian	How does it snow at Disneyland	0.5
+3206998	bt_bing_swahili	How did Disneyland make it snow	0.5
+3206998	bt_nllb_french	How does Disneyland snow	0.5
+3206998	bt_nllb_german	How does Disneyland turn it into a snowfall	0.5
+3206998	bt_nllb_persian	How does Disneyland snow	0.5
+3206998	bt_nllb_chinese_yue	Where can Disney get snow	0.0303
+3239329	-1	Why do we wee a lot in the cold weather especially at night?	1.0
+3239329	bt_bing_french	Why do we often pee in cold weather especially at night	0.5
+3239329	bt_bing_swahili	Why do we sleep so much in cold weather especially at night	0.3333
+3239329	bt_bing_korean	Why do you cry in cold weather especially at night	0.2
+3239329	bt_nllb_korean	Why do you pee so much in cold weather especially at night	0.1429
+3239329	bt_nllb_persian	Why do we get so cold especially at night	0.1
+3239329	bt_nllb_german	Why do we pee so often especially at night	0.0385
+3239329	bt_nllb_swahili	Why do we clean so much in the winter especially at night	0.0278
+3239329	bt_nllb_tamil	Why do we urinate so much in the cold especially at night	0.0169
+3269759	-1	what is artificial intelligence?	1.0
+3269759	bt_nllb_arabic	What is AI	0.2
+3269759	bt_nllb_chinese_yue	What is AI	0.2
+3269759	bt_nllb_korean	What is AI	0.2
+3269759	bt_nllb_persian	What is AI	0.2
+3269759	bt_nllb_swahili	What is a false mind	0.0
+3278654	-1	Why do Kamikaze pilots wear helmets?	1.0
+3278654	bt_nllb_french	Why are suicide bombers wearing helmets	0.5
+3278654	bt_nllb_persian	Why are comics pilots wearing hats	0.5
+3280768	-1	why is islam so hated in america?	1.0
+3280768	bt_nllb_tamil	Why Is Islam Hated in the United States	0.5
+3295055	-1	What causes skin discoloration, specifically, whitening of the skin between fingers?	1.0
+3295055	bt_nllb_german	What causes skin discoloration especially the skin between the fingers whiter	0.5
+3301173	-1	how to design road crust for national highways?	1.0
+3301173	bt_bing_swahili	How do you make paved roads for national highways	0.5
+3301173	bt_bing_german	How do you design road crusts for national roads	0.25
+3313308	-1	how can I enjoy my time alone?	0.1429
+3313308	bt_nllb_chinese_yue	How can I enjoy my free time	0.0667
+3313308	bt_nllb_tamil	How can I enjoy solitude	0.0303
+3313308	bt_nllb_korean	How can we enjoy our time alone	0.0147
+3313308	bt_nllb_malay	How can I enjoy my own time	0.0105
+3363149	-1	Why do Arabs and Mexicans look alike?	1.0
+3369088	-1	how can we stop the spread of islam?	1.0
+3382736	-1	what is minimalist cubisium?	1.0
+3382736	bt_bing_arabic	What is a minimum of cubes	0.0
+3382736	bt_bing_swahili	What is a small cubisium	0.0
+3382736	bt_bing_tamil	What is minimal cubium	0.0
+3382736	bt_nllb_arabic	What s the minimum copper	0.0
+3382736	bt_nllb_chinese_yue	What is a simplified dimension	0.0
+3382736	bt_nllb_korean	What is a minimalism qub	0.0
+3382736	bt_nllb_persian	What is the least amount of cheminalism	0.0
+3382736	bt_nllb_tamil	What is the minimum cube	0.0
+3385681	-1	if red bull is soo bad for people ,then why is it soo popular?	1.0
+3389038	-1	why the media in US and Europe is always attacking the Arabs and Islam without finding the truth about them?	0.25
+3389038	bt_bing_tamil	Why does the media in America and Europe always attack Arabs and Islam without finding out the truth about them	0.1111
+3396066	-1	Why do airplanes fly so high?	1.0
+3396066	bt_nllb_malay	Why is the plane so high	0.25
+3396066	bt_nllb_swahili	Why do birds fly so high	0.0769
+34041	-1	what are the symptoms of strep throat?	1.0
+34041	bt_nllb_arabic	What are the symptoms of a sore throat	0.5
+34041	bt_nllb_chinese_yue	What are the symptoms of a sore throat	0.5
+34041	bt_nllb_korean	What are the symptoms of throat inflammation	0.25
+34041	bt_nllb_tamil	What are the symptoms of neck disease	0.0244
+34041	bt_nllb_swahili	What are the symptoms of epilepsy	0.0106
+3411123	-1	Why does'nt America regard foriegn credentials?	1.0
+3411123	bt_bing_malay	Why does America consider foreign qualifications	0.5
+3411123	bt_bing_swahili	Why does the U S look at foreign credentials	0.5
+3411123	bt_bing_arabic	Why doesn t America look at foreign credentials	0.1111
+3411123	bt_bing_tamil	Why doesn t the United States respect foreign credentials	0.1111
+3411123	bt_nllb_russian	Why doesn t America count foreign credentials	0.1111
+3411123	bt_bing_korean	Why doesn t the U S respect foreign credentials	0.0833
+3411123	bt_nllb_french	Why isn t America considering qualifications	0.0175
+3411123	bt_nllb_german	Why doesn t America respect deportations	0.0123
+3411123	bt_bing_chinese_simplified	Why doesn t the U S value foreign certificates	0.0
+3411123	bt_bing_french	Why doesn t America consider foreign degrees	0.0
+3411123	bt_bing_german	Why doesn t America pay attention to foreign references	0.0
+3411123	bt_bing_persian	Why doesn t the U S consider foreign credit	0.0
+3411123	bt_bing_russian	Why doesn t America respect foreign degrees	0.0
+3411123	bt_nllb_arabic	Why don t America consider it a proof of trust	0.0
+3411123	bt_nllb_chinese_yue	Why is the U S not paying attention to foreign identity cards	0.0
+3411123	bt_nllb_korean	Why don t the United States consider identification	0.0
+3411123	bt_nllb_malay	Why don t Americans take credit for their qualifications	0.0
+3411123	bt_nllb_persian	Why doesn t America pay attention to credit cards	0.0
+3411123	bt_nllb_swahili	Why does the United States disrespect the qualifications of employers	0.0
+3411123	bt_nllb_tamil	Why are there no foreign certificates in the United States	0.0
+3496147	-1	Why was I punished for being christlike?	1.0
+3496147	bt_nllb_tamil	Why was I punished for imitating Christ	0.3333
+3496147	bt_bing_french	Why was I punished because I was like Christ	0.1667
+3496147	bt_nllb_chinese_yue	Why am I being punished because I am like Christ	0.0
+3496147	bt_nllb_swahili	Why was I judged for being like Christ	0.0
+3499881	-1	Why is Gordon Ramsey so popular?	1.0
+3507491	-1	Why is religious freedom more important today?	1.0
+354733	-1	What are the names of some famous photographers and why do their work stand up?	0.5
+354733	bt_bing_chinese_simplified	What are the names of some famous photographers and why do their work hold water	0.3333
+354733	bt_nllb_tamil	What are the names of famous photographers and why is their work so high	0.3333
+354733	bt_bing_korean	What are the names of famous photographers and why do their work get noticed	0.125
+3552010	-1	Why do parent put kids on restriction?	1.0
+3552010	bt_bing_french	Why do parents restrict their children	0.2
+3552010	bt_nllb_chinese_yue	Why do parents restrict their children	0.2
+3552010	bt_nllb_korean	Why do parents restrict their children	0.2
+3552010	bt_nllb_persian	Why do parents restrict their children	0.2
+3552010	bt_bing_german	Why do parents put their children on restriction	0.1667
+3552010	bt_bing_malay	Why do parents put children on restrictions	0.1667
+3552010	bt_nllb_arabic	Why do parents put restrictions on their children	0.1667
+3552010	bt_nllb_french	Why do parents put children under restrictions	0.1429
+3552010	bt_bing_russian	Why Do Parents Impose Restrictions on Children	0.125
+3552010	bt_nllb_swahili	Why do parents place restrictions on their children	0.0833
+3552010	bt_bing_chinese_simplified	Why should parents restrict their children	0.0476
+3552010	bt_bing_arabic	Why does a parent put children on restrictions	0.0435
+3552010	bt_bing_swahili	Why does a parent put children in custody	0.0323
+3552010	bt_bing_tamil	Why do parents control children	0.0312
+3552010	bt_nllb_tamil	Why do parents control their children	0.0312
+3554263	-1	why some people behave so rude without reason,is it due to their own problem?	1.0
+3554263	bt_bing_arabic	Why do some people act rudely for no reason is it due to their own problem	0.5
+3554263	bt_nllb_german	Why do some people behave so rude is because of their own problem	0.5
+3554263	bt_bing_french	Why do some people behave so rudely for no reason is it due to their own problem	0.3333
+3554263	bt_bing_malay	Why do some people behave so rudely for no reason is it due to their own problems	0.3333
+3554263	bt_bing_chinese_simplified	Why do some people behave so rudely for no reason is it because of their own problems	0.25
+3554263	bt_bing_german	Why do some people behave so rudely for no reason is it because of their own problem	0.25
+3554263	bt_bing_korean	Why do some people behave so rudely for no reason is it because of their own problems	0.25
+3554263	bt_bing_persian	Why do some people behave so rudely for no reason is it because of their own problems	0.25
+3554263	bt_bing_russian	Why do some people behave so rudely for no reason is it because of their own problem	0.25
+3554263	bt_bing_tamil	Why do some people behave so rudely without reason and is it their own problem	0.25
+3554263	bt_nllb_chinese_yue	Why are some people so rude without any reason Is it because they have problems	0.25
+3554263	bt_nllb_french	Why do some people behave so rude for no reason because of their own problems	0.25
+3554263	bt_bing_swahili	Why are some people acting rudely for no reason is it because of their own trouble	0.1429
+3554263	bt_nllb_russian	Why do some people act so rude for no reason it s because of their own problems	0.1
+3554263	bt_nllb_persian	Why do some people act so rude for no reason	0.0625
+3554263	bt_nllb_arabic	Why do some people act inappropriately for no reason	0.0
+3554263	bt_nllb_korean	Why do some people act disrespectfully	0.0
+3554263	bt_nllb_malay	Why do some people act so cruel for no reason because of their own problems	0.0
+3554263	bt_nllb_swahili	Why do some people act cruelly for no reason and is it because of their own problem	0.0
+3554263	bt_nllb_tamil	Why do some people act so badly for no reason and is it their own fault	0.0
+3559048	-1	How do you sell a junk car without a title?	1.0
+3559048	bt_nllb_russian	How do you sell a garbage machine without a title	0.3333
+3559048	bt_bing_chinese_simplified	How do you sell a garbage truck without title	0.25
+3559048	bt_nllb_arabic	How do you sell a bad car without a address	0.0244
+3577501	-1	what are some signs that puberty is beginning?	1.0
+3577501	bt_nllb_korean	What are some signs that the coming of age is about to begin	0.3333
+3577501	bt_bing_chinese_simplified	What are the signs of the onset of puberty	0.25
+3577501	bt_bing_korean	What are some signs that puberty is onset	0.25
+3577501	bt_nllb_russian	What are the signs that sexual maturation is beginning	0.1667
+3577501	bt_nllb_malay	What are some signs that adolescence is about to begin	0.1111
+3577501	bt_nllb_swahili	what are the signs that a pregnancy is beginning	0.0
+3577501	bt_nllb_tamil	What is the beginning of youth	0.0
+3639660	-1	Why do most cigarettes have the yellow filter?	1.0
+3640705	-1	what is the punishment for child molestors?	1.0
+3640705	bt_bing_chinese_simplified	What are the penalties for child molesters	0.5
+3640705	bt_bing_korean	What are the penalties for child molesters	0.5
+3640705	bt_nllb_arabic	What is the punishment for child rapists	0.2
+3640705	bt_bing_swahili	What is the punishment for children	0.1429
+3640705	bt_bing_persian	What is the punishment for child abuse	0.0145
+3640705	bt_nllb_chinese_yue	What is the punishment for child abuse	0.0145
+3640705	bt_nllb_malay	What is the punishment for child abuse	0.0145
+3640705	bt_nllb_russian	What is the punishment for child abuse	0.0145
+3640705	bt_nllb_german	What is the penalty for minors	0.0
+3640705	bt_nllb_korean	What is the punishment for child sexual abuse	0.0
+3640705	bt_nllb_tamil	What is the punishment for child sexual abuse	0.0
+3698636	-1	why do cats headbutt?	1.0
+3698636	bt_bing_arabic	Why do cats butt	0.5
+3698636	bt_nllb_chinese_yue	Why is a cat so stupid	0.3333
+3698636	bt_nllb_swahili	why the cat s head	0.2
+3698636	bt_nllb_persian	Why do cats keep their heads	0.1667
+3698636	bt_bing_swahili	Why do cats scratch the head	0.125
+3698636	bt_nllb_korean	Why does a cat have a head	0.1
+3698636	bt_bing_chinese_simplified	Why do cats hit their heads with their heads	0.0769
+3698636	bt_bing_persian	Why do cats look	0.0111
+3698636	bt_bing_tamil	Why do cats get dizzy	0.0
+3698636	bt_nllb_arabic	Why are cats moving	0.0
+3698636	bt_nllb_french	Why are cats shoveling	0.0
+3698636	bt_nllb_german	Why are cats shaking	0.0
+3698636	bt_nllb_malay	Why is the cat sweating	0.0
+3698636	bt_nllb_russian	Why are the cats dizzy	0.0
+3698636	bt_nllb_tamil	Why do cats have headaches	0.0
+3714728	-1	Why is the world so shallow?	1.0
+3714728	bt_bing_russian	Why is the world so small	0.0357
+3714728	bt_bing_chinese_simplified	Why is the world so superficial	0.0345
+3714728	bt_bing_french	Why is the world so superficial	0.0345
+3714728	bt_bing_german	Why is the world so superficial	0.0345
+3714728	bt_bing_persian	Why is the world so superficial	0.0345
+3714728	bt_nllb_french	Why is the world so superficial	0.0345
+3714728	bt_nllb_german	Why is the world so superficial	0.0345
+3714728	bt_nllb_russian	Why is the world so superficial	0.0345
+3714728	bt_nllb_arabic	Why is the world so tight	0.0263
+3714728	bt_bing_swahili	Why is the world so high	0.0256
+3714728	bt_nllb_tamil	Why is the world so dim	0.0256
+3714728	bt_nllb_persian	Why is the world so flat	0.0196
+3714728	bt_nllb_korean	Why is the world like this	0.0
+3714728	bt_nllb_swahili	Why is the universe so low	0.0
+3723508	-1	What is the difference between an ox and a bull?	1.0
+3723508	bt_bing_korean	What is the difference between a bull and a bull	0.5
+3723508	bt_bing_malay	What is the difference between a bull and a bull	0.5
+3723508	bt_bing_persian	What is the difference between bull and bull	0.5
+3723508	bt_bing_russian	What is the difference between a bull and a bull	0.5
+3723508	bt_nllb_arabic	What s the difference between a bull and a bull	0.5
+3723508	bt_nllb_french	What s the difference between a bull and a bull	0.5
+3723508	bt_nllb_german	What s the difference between a bull and a bull	0.5
+3723508	bt_nllb_malay	What s the difference between a bull and a bull	0.5
+3723508	bt_nllb_russian	What s the difference between a bull and a bull	0.5
+3723508	bt_bing_arabic	What is the difference between Taurus and Taurus	0.3333
+3723508	bt_nllb_tamil	What is the difference between a cow and a cow	0.0179
+3723508	bt_bing_swahili	What s the difference between a cow and a cow	0.0169
+3723508	bt_nllb_persian	What s the difference between a cow and a cow	0.0169
+3778229	-1	how were the witches tested in the salem witch trials?	1.0
+3825386	-1	How can I develop leanbody and muscles?	1.0
+3825386	bt_bing_german	How can I develop leaner body and muscles	0.5
+3825386	bt_bing_korean	How can I get leaner and have more muscles	0.5
+3825386	bt_bing_persian	How can I develop muscles and muscles	0.5
+3825386	bt_bing_chinese_simplified	How can I develop lean and muscle	0.125
+3825386	bt_bing_swahili	How can I develop lean and muscle	0.125
+3825386	bt_nllb_chinese_yue	How can I develop muscle and lean	0.125
+3825386	bt_bing_russian	How to develop a muscular figure and muscles	0.0667
+3825386	bt_bing_arabic	How can I develop a lean body and muscles	0.0625
+3825386	bt_nllb_arabic	How can I develop a lean body and muscles	0.0625
+3825386	bt_nllb_french	How can I develop lean body and muscle	0.0625
+3825386	bt_nllb_german	How can I develop a lean body and muscles	0.0625
+3825386	bt_nllb_persian	How can I develop a lean body and muscle	0.0625
+3825386	bt_nllb_russian	How can I develop a lean body and muscles	0.0625
+3825386	bt_nllb_swahili	How can I develop a lean body and muscles	0.0625
+3825386	bt_bing_tamil	How can I build a lean body and muscle	0.01
+3825386	bt_nllb_malay	How can I build lean bodies and muscles	0.01
+3825386	bt_bing_french	How can I build my lean body and muscles	0.0
+3825386	bt_nllb_korean	How can I build my own body and muscles	0.0
+3825386	bt_nllb_tamil	How can I cultivate a lean body	0.0
+3872395	-1	what are some easy ways to get a toddler to go to sleep without being mean?	0.3333
+3872395	bt_bing_korean	What are some easy ways to get a toddler to sleep without being grumpy	0.2
+3872395	bt_bing_malay	What are some easy ways to make a child sleep meaninglessly	0.1667
+3872395	bt_bing_chinese_simplified	What are some easy ways to get a toddler to sleep without being mean	0.125
+3872395	bt_bing_german	What are some easy ways to get a toddler to sleep without being mean	0.125
+3872395	bt_nllb_arabic	What are some easy ways to get a little child to sleep without being violent	0.0345
+3872395	bt_nllb_french	What are some easy ways to get a child to sleep without being mean	0.0333
+3872395	bt_nllb_korean	What are some easy ways to get your kids to sleep without harm	0.0278
+3872395	bt_nllb_swahili	what are some simple ways to get a baby to sleep without being dirty	0.0152
+3872395	bt_nllb_german	How can you let a little child sleep without being mean	0.0143
+3872395	bt_nllb_persian	What are some simple ways to get a child to sleep without abuse	0.012
+3872395	bt_bing_arabic	What are some easy ways to make a baby fall asleep without being mean	0.0
+3872395	bt_bing_russian	What are some simple ways to get your baby to fall asleep without getting angry	0.0
+3872395	bt_bing_swahili	What are the easiest ways to get a newborn to go to bed without being useless	0.0
+3872395	bt_nllb_chinese_yue	How can you keep a child from speaking badly in their sleep	0.0
+3872395	bt_nllb_malay	What s the easiest way to get a child to sleep without being mean	0.0
+3872395	bt_nllb_russian	What are the simple ways to get a baby to sleep without being angry	0.0
+3872395	bt_nllb_tamil	What are some simple ways to keep a boy asleep without being betrayed	0.0
+3874326	-1	How come Compton is only designated for black people?	0.5
+3874326	bt_bing_malay	Why is Compton only set for black people	0.3333
+3874326	bt_nllb_swahili	Why is Compton reserved for black people only	0.2
+387874	-1	Why does asparugus make your pee stink?	1.0
+387874	bt_bing_german	Why does asparagus make urine stink	0.5
+387874	bt_bing_korean	Why does my asparugus smell like pee	0.5
+387874	bt_bing_french	Why does asparagus make you smell pee	0.3333
+387874	bt_nllb_malay	Why does asparagus make your urine smell	0.1111
+387874	bt_nllb_swahili	Why does asparagus make your candy smell	0.1111
+387874	bt_nllb_tamil	Why does Asparagus smell your urine	0.1
+387874	bt_nllb_chinese_yue	Why does Asparagus make you smell like a piss	0.0909
+387874	bt_nllb_persian	Why does sprigos make your urine smell	0.0526
+387874	bt_nllb_russian	Why does asparagus make you drink so bad	0.05
+387874	bt_nllb_korean	Why does the weather smell like asparagus	0.0323
+387874	bt_bing_arabic	Why does asparrogus make Polk smelly	0.0
+387874	bt_bing_persian	Why does Spartacus make you smell bad	0.0
+3910925	-1	Why is yawning contagious?	1.0
+3910925	bt_nllb_korean	Why is sleep a contagious disease	0.5
+3910925	bt_nllb_persian	Why are the gnomes so boring	0.0
+3910925	bt_nllb_tamil	Why the blindness	0.0
+3960080	-1	Why don't commercial planes fly over the North Pole?	1.0
+3960080	bt_nllb_korean	Why don t commercial planes cross the Arctic	0.1429
+3971195	-1	How do i get my pitbull more agressive?	1.0
+3971195	bt_nllb_arabic	How can I make him more aggressive	0.5
+3971195	bt_nllb_swahili	How can I make my pitbull sharper	0.5
+3971195	bt_nllb_korean	How can we make Pittleburr more aggressive	0.1
+3971195	bt_nllb_chinese_yue	How can I make my son more positive	0.0
+3971195	bt_nllb_persian	How can I scare my dick so bad	0.0
+3990512	-1	how can we get concentration onsomething?	0.0769
+3990512	bt_bing_tamil	How can we focus on one thing	0.0526
+3990512	bt_bing_arabic	How can we focus on something	0.0
+3990512	bt_bing_chinese_simplified	How can we focus on something	0.0
+3990512	bt_bing_french	How can we focus on something	0.0
+3990512	bt_bing_german	How can we focus on something	0.0
+3990512	bt_bing_korean	How can I focus on something	0.0
+3990512	bt_bing_malay	How can we get onsomething focus	0.0
+3990512	bt_bing_persian	How can we focus on something	0.0
+3990512	bt_bing_russian	How can we focus on something	0.0
+3990512	bt_bing_swahili	How can we get a convention on something	0.0
+3990512	bt_nllb_arabic	How can we focus on something	0.0
+3990512	bt_nllb_chinese_yue	How do we focus on work	0.0
+3990512	bt_nllb_french	How can we focus our attention on something	0.0
+3990512	bt_nllb_german	How can we focus on something	0.0
+3990512	bt_nllb_korean	How can we focus	0.0
+3990512	bt_nllb_malay	How can we focus on something	0.0
+3990512	bt_nllb_persian	How do we get focused on something	0.0
+3990512	bt_nllb_russian	How can we focus on something	0.0
+3990512	bt_nllb_swahili	How can we focus on something	0.0
+3990512	bt_nllb_tamil	How can we focus on something	0.0
+4003223	-1	What are the marketing gimmicks that will attract males?	1.0
+4003223	bt_bing_korean	What are the marketing tricks to attract men	0.3333
+4003223	bt_bing_persian	What are the marketing tricks that attract men	0.3333
+4003223	bt_bing_russian	What marketing tricks will attract men	0.3333
+4003223	bt_nllb_persian	What marketing tricks are attracting men	0.3333
+4003223	bt_nllb_russian	What marketing tricks will attract men	0.3333
+4003223	bt_nllb_tamil	What are the marketing tricks that attract men	0.3333
+4003223	bt_nllb_french	What kind of marketing tricks will attract men	0.25
+4003223	bt_nllb_korean	What marketing techniques attract men	0.25
+4003223	bt_nllb_malay	What s the marketing trick that ll attract men	0.2
+4003223	bt_nllb_chinese_yue	What are the marketing techniques that attract men s attention	0.1
+4003223	bt_nllb_german	What are the marketing tricks men wear	0.0
+4003223	bt_nllb_swahili	What marketing techniques will appeal to men	0.0
+4012558	-1	what is the term milky way?	1.0
+4012558	bt_nllb_arabic	What s the term our trade route	0.0
+4012558	bt_nllb_persian	What is the term Milk Road	0.0
+4012558	bt_nllb_tamil	What is the word milk road	0.0
+4018891	-1	How do I know if a particular term or phrase is copyrighted?	1.0
+4018891	bt_nllb_persian	How do I know if a particular term or phrase is occupied	0.5
+402514	-1	why do my baked potatos never taste near as good as when I get them in a nice restaurant?	1.0
+402514	bt_nllb_korean	Why is my potato not as tasty as a delicious restaurant	0.5
+402514	bt_nllb_tamil	Why isn t my bag of potatoes almost as tasty as when I get to a good restaurant	0.3333
+402514	bt_nllb_swahili	why aren t my boiled potatoes as good as I see them in a good restaurant	0.2
+402514	bt_nllb_malay	Why didn t my fries ever taste like when I got them at a good restaurant	0.0323
+402514	bt_nllb_russian	Why don t my fries ever taste as good as when I get them at a good restaurant	0.0222
+402514	bt_nllb_arabic	Why don t breadcrumbs taste like when I get them at a nice restaurant	0.0
+402514	bt_nllb_german	Why don t my fries taste as good as they do in a nice restaurant	0.0
+402514	bt_nllb_persian	Why don t I like my cooked guards as much as I do when I eat them in a good restaurant	0.0
+4126337	-1	Why does my friend buy...?	1.0
+4126337	bt_nllb_korean	Why is my friend staying	0.125
+4126337	bt_nllb_persian	Why does my friend eat	0.0667
+4153592	-1	what can make someones ear's stink?	0.5
+4153592	bt_bing_arabic	What can make someone s ear smelly	0.3333
+4153592	bt_nllb_german	What can make someone s ear smell	0.25
+4153592	bt_nllb_korean	What makes someone smell like a man s ear	0.25
+4153592	bt_nllb_persian	What could make a person s ear smell bad	0.25
+4153592	bt_nllb_tamil	What can someone do with their ears smelling	0.25
+4153592	bt_bing_malay	What can make a person smell of ears	0.2
+4153592	bt_nllb_arabic	What makes him smell like someone s ears	0.2
+4153592	bt_nllb_malay	What makes a person s ears smell	0.2
+4153592	bt_bing_chinese_simplified	What makes people s ears stink	0.0833
+4153592	bt_nllb_russian	What could make someone smell	0.0208
+4153592	bt_nllb_swahili	What could cause anyone to break his ear	0.0159
+4153592	bt_nllb_chinese_yue	Why does anyone smell bad	0.0
+4153592	bt_nllb_french	What can make someone smell like a cat	0.0
+4165406	-1	Why did the founder of Daewoo get a 10-year jail sentence?	1.0
+4165406	bt_bing_arabic	Why was Daewoo founder sentenced to years in prison	0.5
+4165406	bt_bing_chinese_simplified	Why was the founder of Daewoo sentenced to years in prison	0.5
+4165406	bt_bing_french	Why was the Daewoo founder sentenced to years in prison	0.5
+4165406	bt_bing_german	Why was the founder of Daewoo sentenced to years in prison	0.5
+4165406	bt_bing_korean	Why was the founder of Daewoo sentenced to years in prison	0.5
+4165406	bt_bing_persian	Why was Daewoo s founder sentenced to years in prison	0.5
+4165406	bt_bing_swahili	Why was the founder of Daewoo sentenced to years in prison	0.5
+4165406	bt_nllb_chinese_yue	Why was the founder of Daewoo sentenced to years in prison	0.5
+4165406	bt_nllb_french	Why was the founder of Daewoo sentenced to years in prison	0.5
+4165406	bt_nllb_german	Why was the founder of Daewoo sentenced to years in prison	0.5
+4165406	bt_nllb_korean	Why was the founder of Daewoo sentenced to years in prison	0.5
+4165406	bt_nllb_malay	Why was Daewoo s founder sentenced to years in prison	0.5
+4165406	bt_nllb_swahili	Why was the founder of Daewoo sentenced to years in prison	0.5
+4165406	bt_bing_malay	Why did the founder of Daewoo get a year prison sentence	0.25
+4165406	bt_bing_russian	Why did the founder of Daewoo get a year prison sentence	0.25
+4165406	bt_nllb_russian	Why did the founder of Daewoo get a year prison sentence	0.25
+4165406	bt_nllb_arabic	Why did the founder of Daio get a year prison sentence	0.1667
+4165406	bt_nllb_persian	Why was the founder of Davao sentenced to years in prison	0.1429
+4165406	bt_nllb_tamil	Why was Davo s founder sentenced to years in prison	0.125
+4185395	-1	how can i cure the std or the sexually transmitted disease?	1.0
+4185395	bt_bing_tamil	How to cure STDs or STDs	0.5
+4185395	bt_nllb_persian	How can I treat sexual and sexual illness	0.0435
+4185501	-1	why does the sun shine?	0.5
+4185501	bt_bing_chinese_simplified	Why is it sunny	0.0
+4185501	bt_nllb_arabic	Why is the sun rising	0.0
+4190287	-1	Why is switching schools so depressing?	1.0
+4190287	bt_bing_french	Why is changing schools so depressing	0.5
+4190287	bt_bing_german	Why is changing schools so depressing	0.5
+4190287	bt_bing_korean	Why is it so depressing to change schools	0.5
+4190287	bt_bing_persian	Why is school change so depressing	0.5
+4190287	bt_bing_russian	Why is changing schools so depressing	0.5
+4190287	bt_bing_tamil	Why is changing schools so depressing	0.5
+4190287	bt_nllb_french	Why is changing schools so depressing	0.5
+4190287	bt_nllb_german	Why is it so depressing to change schools	0.5
+4190287	bt_nllb_korean	Why is it so depressing to change schools	0.5
+4190287	bt_nllb_persian	Why is changing schools so depressing	0.5
+4190287	bt_nllb_russian	Why is going to school so depressing	0.5
+4190287	bt_nllb_tamil	Why is changing schools so depressing	0.5
+4190287	bt_bing_swahili	Why is changing schools so sad	0.0256
+4190287	bt_bing_chinese_simplified	Why is transferring so frustrating	0.0
+4190287	bt_bing_malay	Why is changing schools so pathetic	0.0
+4190287	bt_nllb_arabic	Why is changing school so troubling	0.0
+4190287	bt_nllb_chinese_yue	Why is it so sad to be transferred	0.0
+4190287	bt_nllb_malay	Why is changing schools so frustrating	0.0
+4190287	bt_nllb_swahili	Why is changing schools so frustrating	0.0
+4196421	-1	how can you be more brilliant?	0.5
+4196421	bt_bing_arabic	How can you be smarter	0.0
+4196421	bt_bing_chinese_simplified	How could you be smarter	0.0
+4196421	bt_bing_french	How can you be brighter	0.0
+4196421	bt_bing_korean	How can I shine more	0.0
+4196421	bt_bing_persian	How can you be smarter	0.0
+4196421	bt_bing_swahili	How could you be more talented	0.0
+4196421	bt_bing_tamil	How can you be smarter	0.0
+4196421	bt_nllb_arabic	How can you be smarter	0.0
+4196421	bt_nllb_chinese_yue	How can you be smarter	0.0
+4196421	bt_nllb_korean	How can we be smarter	0.0
+4196421	bt_nllb_persian	How can you be smarter	0.0
+4196421	bt_nllb_swahili	how can you be more cunning	0.0
+4196421	bt_nllb_tamil	How can you be brighter	0.0
+4197214	-1	Why my GF feel like pissing during sexual intercourse?	1.0
+4197214	bt_bing_arabic	Why does my GF feel like urinating during intercourse	0.5
+4197214	bt_nllb_chinese_yue	Why should I pee during sex	0.5
+4197214	bt_bing_russian	Why does my girlfriend want to urinate during intercourse	0.3333
+4197214	bt_nllb_swahili	Why does my GF feel like candying during sex	0.3333
+4197214	bt_bing_malay	Why does my GF feel like I m angry during sexual intercourse	0.25
+4197214	bt_bing_swahili	Why does my GF feel like pissing during sex	0.25
+4197214	bt_bing_tamil	Why should my GF pee during sex	0.25
+4197214	bt_nllb_malay	Why does my GF feel like I m peeing during sex	0.1667
+4197214	bt_bing_korean	Why does my girlfriend want to pee during intercourse	0.0833
+4197214	bt_bing_german	Why does my girlfriend feel like peeing during intercourse	0.0769
+4197214	bt_nllb_tamil	Why do I feel like my GF needs urine when having sex	0.0556
+4197214	bt_nllb_korean	Why do you want to pee during sex	0.037
+4197214	bt_nllb_french	Why does my FG want to pee during sex	0.0256
+4197214	bt_nllb_german	Why do I want to pee during sex	0.0204
+4197214	bt_bing_chinese_simplified	Why does my girlfriend want to pee during sex	0.0175
+4197214	bt_bing_french	Why does my boyfriend want to pee during sex	0.0128
+4197214	bt_nllb_arabic	Why do I feel like my moving wife wants to pee while having sex	0.0
+4197214	bt_nllb_persian	Why do I feel like I want to predict during sex	0.0
+4197214	bt_nllb_russian	Why does my female sex drive want to write during sex	0.0
+421753	-1	how to get rid of a skunk?	1.0
+421753	bt_bing_persian	How to get rid of the weasel	0.0
+421753	bt_nllb_arabic	How do you get rid of the dirt	0.0
+421753	bt_nllb_chinese_yue	How do you get rid of one	0.0
+421753	bt_nllb_french	How do you get rid of a scunk	0.0
+421753	bt_nllb_german	How do you get rid of a piece of junk	0.0
+421753	bt_nllb_korean	How do you get rid of shit	0.0
+421753	bt_nllb_persian	How do we get rid of a mess	0.0
+421753	bt_nllb_russian	How do you get rid of the scan	0.0
+4250296	-1	What do doctors do when a patient has a Do Nor Resuscitate Order?	0.5
+4250296	bt_bing_swahili	What do doctors do when a patient has an order to make or retract	0.3333
+4250296	bt_nllb_german	What do doctors do when a patient has a Do N Resuscitate order	0.25
+4250296	bt_bing_chinese_simplified	What does a doctor do when a patient has a no resuscitation order	0.2
+4250296	bt_bing_french	What do doctors do when a patient has a prescription for resuscitation	0.2
+4250296	bt_bing_russian	What do doctors do when a patient is told not to resuscitate	0.2
+4250296	bt_nllb_korean	What if doctors order patients to live or not to live	0.2
+4250296	bt_nllb_russian	What do doctors do when a patient has a Don t wake up order	0.0909
+4250296	bt_nllb_arabic	What do doctors do when a patient has a don t do it or resuscitate it	0.0185
+4256593	-1	How do I remove the SIMM card on a LG VX8300 Cell Phone?	1.0
+4278201	-1	how does Ultraviolet Light Affects Seed Germination and plant growth?	1.0
+4283542	-1	i have had loose stools for a week...how do i make it stop?	1.0
+4283542	bt_bing_tamil	I ve been on a stool for a week How to stop it	0.2
+4283542	bt_bing_german	I ve had soft stools for a week How do I make it stop	0.0909
+4283542	bt_bing_persian	I ve had Shelley stools for a week How do I stop it	0.0213
+4283542	bt_bing_malay	I had loose for a week How do I stop it	0.0139
+4283542	bt_bing_swahili	I ve had loose feces for a week How do you make it stop	0.0119
+4283542	bt_nllb_arabic	I ve been weakening my stool for a week How can I stop it	0.0118
+4283542	bt_nllb_chinese_yue	I haven t urinated in a week How can I stop it	0.0
+4283542	bt_nllb_german	I ve been sitting in a chair for a week How can I stop it	0.0
+4283542	bt_nllb_korean	I ve been freeing the droplets for a week How can we stop them	0.0
+4283542	bt_nllb_malay	I ve had diarrhea for a week how can I make it stop	0.0
+4283542	bt_nllb_persian	I ve been out of work all week how can I stop this	0.0
+4283542	bt_nllb_russian	I ve had my chairs off for a week how can I stop this	0.0
+4283542	bt_nllb_swahili	I ve had mud flooding for a week how can I make it stop	0.0
+4283542	bt_nllb_tamil	I ve been cleaning my rooms for a week How can I stop it	0.0
+4288761	-1	How can i stop my husband from exhuming my baby's body for compensation?	1.0
+4288761	bt_bing_malay	How can I prevent my husband from digging back my baby s body for compensation	0.5
+4288761	bt_nllb_swahili	How can I prevent my husband from producing my child s body for a ransom	0.1429
+4288761	bt_nllb_russian	How can I stop my husband from examining my child s body as compensation	0.125
+4288761	bt_bing_chinese_simplified	How can I stop my husband from digging up my child s body to get compensation	0.1111
+4288761	bt_bing_swahili	How can I prevent my husband from donating my child s body for compensation	0.1111
+4288761	bt_nllb_tamil	How can I prevent my husband from taking my child s body for compensation	0.0909
+4288761	bt_nllb_chinese_yue	How can I stop my husband from digging up my child s body	0.0588
+4288761	bt_bing_tamil	How can I stop my husband from digging up my child s body for compensation	0.0556
+4288761	bt_nllb_korean	How can I stop my husband from digging up my child s body for compensation	0.0556
+4311093	-1	Why hot air rises up?	1.0
+4311093	bt_bing_persian	Why does the hot air go up	0.3333
+4311093	bt_nllb_swahili	Why does the hot air increase	0.25
+4311093	bt_bing_tamil	Why does warm air rise	0.1667
+4311093	bt_bing_swahili	Why is the air warming up	0.1429
+4311093	bt_nllb_chinese_yue	Why is the temperature rising	0.0769
+4311093	bt_nllb_persian	Why is it hot	0.0
+4357460	-1	how to make my car faster?	1.0
+4357460	bt_bing_russian	How to Make Your Car Faster	0.5
+4357460	bt_nllb_korean	How can we build cars faster	0.5
+4357460	bt_bing_swahili	How do I get my car fast	0.2
+4357460	bt_bing_tamil	How can I drive my car faster	0.2
+4357460	bt_nllb_french	How do I get my car faster	0.1429
+4357460	bt_nllb_persian	How do I get my car faster	0.1429
+4357460	bt_nllb_arabic	How can I make you faster	0.0476
+4357460	bt_nllb_chinese_yue	How do I get my speed up	0.0
+4365565	-1	How Does Water Pressure Change?	0.3333
+4367654	-1	Why is April 19th important?	0.25
+4367654	bt_bing_russian	Why is April so important	0.125
+4367654	bt_nllb_chinese_yue	Why is April so important	0.125
+4367654	bt_nllb_korean	Why is April so important	0.125
+4367654	bt_nllb_malay	Why is April so important	0.125
+4372730	-1	Why doesn't the bible make any sense?	0.5
+4372730	bt_bing_german	Why doesn t the Bible make sense	0.1111
+4372730	bt_bing_korean	Why doesn t the Bible make sense	0.1111
+4372730	bt_bing_persian	Why doesn t the Bible make sense	0.1111
+4372730	bt_nllb_arabic	Why is the Bible not reasonable	0.0909
+4372730	bt_nllb_french	Why is the Bible so meaningless	0.0476
+4372730	bt_bing_arabic	Why doesn t the Bible have any meaning	0.0217
+4372730	bt_nllb_chinese_yue	Why is the Bible meaningless	0.0167
+4372730	bt_nllb_german	Why is the Bible meaningless	0.0167
+4372730	bt_nllb_korean	Why is the Bible meaningless	0.0167
+4372730	bt_nllb_persian	Why is the Bible meaningless	0.0167
+4372730	bt_nllb_russian	Why is the Bible meaningless	0.0167
+4372730	bt_nllb_tamil	Why is the Bible meaningless	0.0167
+4372730	bt_nllb_swahili	Why is the Bible useless	0.0164
+4372730	bt_bing_swahili	Why does the Bible not matter	0.0
+4377861	-1	how to handsew sequins?	1.0
+4377861	bt_nllb_swahili	how to sew with your hands	0.5
+4377861	bt_nllb_french	How do you sew by hand	0.3333
+4377861	bt_nllb_german	How to sew soap to the hand	0.1667
+4377861	bt_nllb_arabic	How do you sew	0.1
+4377861	bt_nllb_chinese_yue	How do you sew	0.1
+4377861	bt_nllb_russian	How do you sew seams	0.0769
+4377861	bt_nllb_malay	How do you decorate the fabric	0.0526
+4377861	bt_nllb_korean	How do you fix it by hand	0.0
+4377861	bt_nllb_persian	How do you get a hold of him	0.0
+4377861	bt_nllb_tamil	How can you make handmade Chinese	0.0
+4385316	-1	How do I keep black birds out of my bar-b-que grill?	1.0
+4385316	bt_nllb_french	How do I keep black birds out of my bar b what a grill	0.5
+4385316	bt_bing_tamil	How do I keep black birds away from my bar b cue grill	0.25
+4385316	bt_bing_korean	How do you keep blackbirds out of a BBQ grill	0.2
+4385316	bt_nllb_tamil	How do I keep black birds from my per b gu cook grill	0.1667
+4385316	bt_nllb_persian	How do I keep black birds away from the barbecue grill	0.1429
+4385316	bt_nllb_chinese_yue	How do I put blackbirds in my roast meat	0.0286
+4385316	bt_nllb_german	How can I keep black birds out of my barbecue	0.02
+4385316	bt_nllb_arabic	How do I keep black birds away from the barbecue	0.0152
+4406669	-1	What do you order at Taco Bell?	1.0
+4406669	bt_bing_malay	What did you order at Taco Bell	0.5
+4406669	bt_bing_chinese_simplified	What do you order in Tarbel	0.0
+4406669	bt_nllb_chinese_yue	What are you doing in Tacobel	0.0
+443848	-1	Does anybody know where i could get a free guide on how to train a siberian husky?	1.0
+443848	bt_nllb_korean	Does anyone know where to find a free guide to training Siberian hockey	0.5
+4448097	-1	what is innate immunity?	1.0
+4448097	bt_nllb_chinese_yue	What is immunity	0.3333
+4448097	bt_bing_persian	What is intrinsic immunity	0.1111
+4448097	bt_nllb_swahili	What is natural defense	0.0227
+4448097	bt_nllb_persian	What is intrinsic safety	0.0
+4462511	-1	How do i know if my gold fish is pregnant?	1.0
+4467100	-1	What does sholomister mean?	0.0
+4473137	-1	Causes and effects of the rise of Christanity?	1.0
+4473137	bt_bing_arabic	Causes and effects of the rise of Christianity	0.3333
+4473137	bt_bing_korean	Causes and Consequences of the Rise of Christianity	0.3333
+4473137	bt_bing_persian	The causes and effects of the rise of Christianity	0.3333
+4473137	bt_bing_russian	Causes and Consequences of the Rise of Christianity	0.3333
+4473137	bt_bing_swahili	Causes and effects of the rise of Christianity	0.3333
+4473137	bt_bing_tamil	The causes and consequences of the rise of Christianity	0.3333
+4473137	bt_nllb_arabic	Causes and effects of the rise of Christianity	0.3333
+4473137	bt_nllb_chinese_yue	The cause and effect of the rise of Christianity	0.3333
+4473137	bt_nllb_german	Causes and Consequences of the Rise of Christianity	0.3333
+4473137	bt_nllb_tamil	What are the causes and consequences of the rise of Christianity	0.25
+4473137	bt_bing_chinese_simplified	What are the causes and effects of the rise of Christianity	0.2
+4473137	bt_bing_french	Causes and Effects of the Rise of Christendom	0.2
+4473137	bt_bing_german	Causes and Effects of the Rise of Christendom	0.2
+4473137	bt_nllb_french	What Causes and Effects on the Growth of Christianity	0.1111
+4473137	bt_nllb_malay	Causes and Effects of the Christian Resurrection	0.0476
+4473137	bt_nllb_swahili	The cause and effect of the growth of Christianity	0.0417
+4473137	bt_nllb_russian	What Causes and Consequences Have Caused Christianity	0.0109
+4473137	bt_nllb_korean	Causes and Consequences of the Growth of Christianity	0.0
+4473331	-1	How can I keep my rabit indoors?	0.5
+4473331	bt_nllb_german	How can I keep my rabbit in the house	0.25
+4473331	bt_nllb_korean	How can I keep my rabbit in the house	0.25
+4473331	bt_nllb_malay	How can I keep my rabbit in the house	0.25
+4473331	bt_bing_french	How do I keep my rabit inside	0.2
+4473331	bt_bing_malay	How do I keep my rabit in the house	0.2
+4473331	bt_bing_arabic	How can I keep my patter inside	0.1429
+4473331	bt_nllb_swahili	How can I keep my rabbit inside the house	0.0833
+4473331	bt_bing_chinese_simplified	How can I leave my Lapid Spaniel indoors	0.05
+4473331	bt_nllb_arabic	How can I keep my anger in	0.0
+4473331	bt_nllb_chinese_yue	How can I keep my rabies in the house	0.0
+4473331	bt_nllb_french	How do I keep my temper in	0.0
+4473331	bt_nllb_persian	How can I keep this at home	0.0
+4473331	bt_nllb_russian	How can I keep my slave in the room	0.0
+4473331	bt_nllb_tamil	How can I put my rapid inside	0.0
+456214	-1	What is the importance of absolute zero temperature?	1.0
+456214	bt_nllb_swahili	Is the need for a perfect zero temperature	0.5
+474417	-1	what does the prefix "cyclo" mean in greek mythology?	1.0
+481173	-1	why live, when your in misery?	0.5
+481173	bt_bing_german	Why live when you re in misery	0.3333
+481173	bt_nllb_french	Why live when you re in misery	0.3333
+481173	bt_nllb_german	Why live when you re in misery	0.3333
+481173	bt_bing_persian	Why do you live when you re in misery	0.1667
+481173	bt_nllb_persian	Why do you live when you re in misery	0.1667
+481173	bt_bing_chinese_simplified	Why live when you re in pain	0.0
+481173	bt_bing_russian	Why live when you re in poverty	0.0
+481173	bt_bing_swahili	Why live when you re in trouble	0.0
+481173	bt_bing_tamil	Why live when you are in distress	0.0
+481173	bt_nllb_arabic	Why do you live when you re on the horizon	0.0
+481173	bt_nllb_chinese_yue	Why do you live in pain	0.0
+481173	bt_nllb_korean	Why should I live	0.0
+481173	bt_nllb_malay	Why live when you re in trouble	0.0
+481173	bt_nllb_russian	Why live when you re in trouble	0.0
+481173	bt_nllb_swahili	Why live when you are in trouble	0.0
+481173	bt_nllb_tamil	Why live when you are in distress	0.0
+484496	-1	Why a man float on water when he dies?	1.0
+484496	bt_bing_chinese_simplified	Why does a person float on water after death	0.5
+484496	bt_bing_persian	Why does a man float when he dies	0.5
+484496	bt_bing_russian	Why does a person swim on water when he dies	0.5
+484496	bt_bing_swahili	Why does a person float on water when they die	0.25
+484496	bt_nllb_chinese_yue	Why do people float in water when they die	0.25
+484496	bt_nllb_korean	Why do people float on water when they die	0.25
+484496	bt_nllb_persian	Why does a man swim on water	0.25
+484496	bt_nllb_malay	Why does a human float on water when he s dead	0.1429
+551239	-1	how do i find out if someone left me a life insurance policy?	1.0
+551239	bt_bing_german	How do I find out if someone left me life insurance	0.5
+558570	-1	My city just put a ban on pit bulls, how do we reverse the decision?	1.0
+558570	bt_nllb_arabic	My city has a curfew on the ballot How do we reverse the decision	0.2
+558570	bt_nllb_korean	How can my city ban fireworks and how can I reverse the decision	0.2
+558570	bt_nllb_persian	My city just passed a ban on Pete Ball How can we reverse that	0.1667
+558570	bt_nllb_chinese_yue	My city just banned football how do we respond	0.0588
+558570	bt_nllb_russian	My town banned pitballs how do we get rid of it	0.0385
+558570	bt_nllb_tamil	My town is barred from turning the pot how do we get back to the end	0.0
+654124	-1	Why am I not able to concentrate on my studies?	1.0
+654124	bt_nllb_korean	Why can t you focus on your studies	0.1429
+654124	bt_nllb_chinese_yue	Why can t I concentrate on reading	0.0244
+654124	bt_nllb_persian	Why can t I focus	0.0
+654124	bt_nllb_russian	Why can t I focus on my research	0.0
+667488	-1	how soon can you drive on a newly paved driveway?	0.5
+667488	bt_nllb_arabic	When can you drive on a newly paved road	0.0769
+667488	bt_nllb_malay	How much longer can you drive on a newly paved road	0.0116
+667488	bt_bing_arabic	When can you drive on a freshly paved walkway	0.0
+667488	bt_bing_chinese_simplified	How long can I drive on a newly paved lane	0.0
+667488	bt_bing_persian	How soon can you drive on a new paved road	0.0
+667488	bt_bing_swahili	How fast can you drive on a new paved road	0.0
+667488	bt_nllb_chinese_yue	How fast can you drive on the newly paved lane	0.0
+667488	bt_nllb_french	Can you drive in a recently paved alley	0.0
+667488	bt_nllb_korean	How fast can you drive a newly packed car	0.0
+667488	bt_nllb_persian	How long can you keep going on a new playground	0.0
+667488	bt_nllb_swahili	How long can you drive on a new road with signs	0.0
+667488	bt_nllb_tamil	How soon can you drive a new one	0.0
+676028	-1	Why do our elected federal senators and congressmen not have to live on regular S.S. like the rest of us?	1.0
+676028	bt_bing_korean	Why don t our elected senators and congressmen have to live in a regular S S like we do	0.3333
+676028	bt_bing_swahili	Why aren t our elected federal senators and congressmen necessarily living on a regular S S like the rest of us	0.3333
+676028	bt_nllb_swahili	Why should our federal senators elected by lawmakers not live in the ordinary SS like the rest of us	0.25
+676028	bt_nllb_malay	Why don t our senators and elected members of Congress have to live with ordinary SS like us	0.1429
+676028	bt_bing_malay	Why don t elected federal senators and congressmen have to live in ordinary S S like the rest of us	0.1
+676028	bt_bing_persian	Why don t our elected federal senators and members of Congress have to live with S S regularly like the rest of us	0.04
+676028	bt_nllb_arabic	Why didn t the senators and council members of the SS have to live like the rest of us	0.0385
+676028	bt_nllb_korean	Why don t our federal senators and lawmakers live in regular SS like we do	0.0312
+707303	-1	How do people get hiccups, what are they, and what exactly is the best way to cure them?	1.0
+707303	bt_nllb_french	How do people have hiccups what are they and what s the best way to cure them	0.5
+707303	bt_bing_arabic	How do people get hiccups what are they and what exactly is the best way to treat them	0.3333
+707303	bt_bing_persian	How do people get hiccups what are they and what exactly is the best way to treat them	0.3333
+707303	bt_nllb_german	How do people get swallowed what are they and how can they be best cured	0.3333
+707303	bt_bing_swahili	How do people experience hiccups what are they and what exactly is the best way to heal them	0.25
+707303	bt_nllb_tamil	How do people get punched what are they and what is the best way to cure them	0.2
+707303	bt_nllb_swahili	How do people get hiccups what are they and what is the best way to treat them	0.125
+707303	bt_nllb_russian	How do people get their hickups what are they and how exactly is the best way to cure them	0.1
+707303	bt_bing_malay	How do people get a disorder what is it and what exactly is the best way to cure them	0.0769
+707303	bt_bing_russian	How do hiccups occur what are they and what is the best way to treat them	0.0625
+707303	bt_nllb_arabic	How do people get a dagger what is it and what s the best way to treat it exactly	0.0
+707303	bt_nllb_chinese_yue	How do you get it what is it how do you cure it	0.0
+707303	bt_nllb_korean	How do people get coughing what are they and what s the best treatment	0.0
+707303	bt_nllb_persian	How do people get hacked what are they and what s the best way to treat them	0.0
+714612	-1	Why doesn't the water fall off  earth if it's round?	1.0
+714612	bt_nllb_chinese_yue	If it s circular why doesn t water fall to the earth	0.125
+714612	bt_nllb_swahili	Why does water not drop from the earth if it is a circle	0.05
+714612	bt_nllb_persian	Why doesn t water fall from the ground if it s dust	0.0323
+746920	-1	How do you get rid of wart on your hand a using home method?	1.0
+746920	bt_nllb_swahili	How can you remove the potter from your hand by using the home method	0.1667
+746920	bt_nllb_persian	How do you get rid of paper using a home made method	0.1111
+746920	bt_nllb_korean	How do you remove a wrinkle from your hand using a home based method	0.0588
+746920	bt_bing_swahili	How do you remove the pimples from your hand using the home method	0.0556
+746920	bt_nllb_german	How do you remove roots on the hand with a home method	0.0476
+746920	bt_nllb_arabic	How do you get rid of ants on your hand using a home made method	0.0435
+746920	bt_nllb_tamil	How to use the home to remove an egg from your hand	0.0333
+746920	bt_nllb_chinese_yue	How do you get rid of your hand	0.0
+761742	-1	How can I become a playa?	1.0
+761742	bt_bing_arabic	How can I become a play	0.0
+761742	bt_bing_swahili	How can I be a player	0.0
+761742	bt_nllb_chinese_yue	How can I become a player	0.0
+761742	bt_nllb_french	How can I become a beach	0.0
+761742	bt_nllb_german	How can I be a beach	0.0
+761742	bt_nllb_korean	How can I be a Plea	0.0
+761742	bt_nllb_malay	How can I be a beach girl	0.0
+761742	bt_nllb_persian	How can I be a cop	0.0
+761742	bt_nllb_russian	How can I get drunk	0.0
+761742	bt_nllb_swahili	How can I become a playwright	0.0
+761742	bt_nllb_tamil	How can I become a clown	0.0
+765138	-1	Why does loving someone hurts like hell?	1.0
+765138	bt_bing_french	Why does loving someone hurt so much	0.25
+765138	bt_nllb_arabic	Why does someone love to hurt so much	0.25
+765138	bt_nllb_chinese_yue	Why is it so painful to love	0.25
+765138	bt_nllb_german	Why does it hurt so much to love someone	0.25
+765138	bt_nllb_russian	Why does it hurt to love someone so much	0.25
+765138	bt_nllb_french	Why does it hurt to love someone	0.2
+765138	bt_nllb_malay	Why does it hurt to love someone	0.2
+765138	bt_nllb_persian	Why does it hurt to love someone	0.2
+785823	-1	how is the library consider as a heart of university?	1.0
+785823	bt_nllb_arabic	How does the library feel about the heart of the university	0.5
+785823	bt_bing_german	To what extent is the library considered the heart of the university	0.25
+785823	bt_nllb_korean	How do you think the library is the center of the university	0.1429
+785823	bt_nllb_malay	How is a library considered a university center	0.1429
+785823	bt_nllb_russian	How is a library the center of a university	0.1429
+785823	bt_nllb_tamil	How is the library considered the center of the university	0.1429
+78762	-1	why do i have pterofobia?	0.0
+788976	-1	Why did the Bush Admin cover up 9/11?	1.0
+788976	bt_bing_persian	Why did the Bush administration cover	0.3333
+788976	bt_nllb_arabic	Why did the Bush administration cover	0.3333
+788976	bt_nllb_persian	Why did the Bush Administration cover	0.3333
+788976	bt_nllb_swahili	Why did President Bush hide	0.3333
+788976	bt_bing_arabic	Why did Bush administrative cover up	0.25
+788976	bt_bing_chinese_simplified	Why did the Bush administration cover up	0.25
+788976	bt_bing_french	Why did the Bush administration cover up	0.25
+788976	bt_bing_german	Why did the Bush administration cover up	0.25
+788976	bt_bing_korean	Why did the Bush administration cover up	0.25
+788976	bt_bing_tamil	Why did the Bush administration cover up	0.25
+788976	bt_nllb_chinese_yue	Why did the Bush administration cover up	0.25
+788976	bt_nllb_french	Why did the Bush administration cover up	0.25
+788976	bt_nllb_german	Why did the Bush administration cover up	0.25
+788976	bt_nllb_korean	Why did the Bush administration cover up	0.25
+788976	bt_nllb_russian	Why did the Bush administration cover up	0.25
+788976	bt_nllb_tamil	Why did the Bush administration cover up	0.25
+788976	bt_bing_russian	Why did the Bush administration cover up the events of	0.2
+788976	bt_bing_malay	Why did the Bush Administrators close	0.1429
+788976	bt_nllb_malay	Why did the Bush administration hide	0.125
+821387	-1	I have mice.How do I get rid of them humanely?	1.0
+821387	bt_nllb_french	I have mice how can we get rid of them humanely	0.5
+821387	bt_nllb_swahili	I have a mouse How can I get rid of the mouse humanely	0.1667
+821387	bt_bing_swahili	I have a mouse How can I humanely remove them	0.125
+821387	bt_nllb_korean	There s a rat How can we eliminate it humanly	0.1111
+823384	-1	why did the army have personal cuts in the mid 1990's?	1.0
+823384	bt_bing_russian	Why were there personal cuts in the army in the mid s	0.5
+823384	bt_nllb_korean	Why did the military cut personnel in the mid s	0.5
+823384	bt_nllb_persian	Why did the military cut personnel in the mid s	0.5
+823384	bt_nllb_tamil	Why were there personal shortages in the military in the mid s	0.5
+823384	bt_nllb_french	Why did the military cut back in the mid s	0.3333
+823384	bt_nllb_russian	Why was the military cut back on personal expenses in the mid s	0.25
+823384	bt_nllb_arabic	Why was the military down from the s	0.0238
+8293	-1	Why do men fantasized about raping women?	1.0
+849221	-1	when it comes to religion why dont people realize history repeats itself?	0.5
+849221	bt_bing_tamil	When it comes to religion why don t people realize that history repeats	0.0769
+849221	bt_bing_persian	When it comes to religion why don t people know that history repeats	0.0204
+851124	-1	How is ego a part of our survival instincts?	1.0
+851124	bt_nllb_malay	How did the ego become part of our instincts	0.5
+851124	bt_nllb_tamil	How is the ego part of our survival nature	0.25
+851124	bt_nllb_swahili	How is selfishness part of our feelings of living	0.0
+896725	-1	what are some good exercises to get rid of those love handles?	0.5
+896725	bt_bing_swahili	What are some good exercises to remove those love handles	0.3333
+896725	bt_nllb_russian	What good exercises can help you get rid of these love pencils	0.3333
+896725	bt_nllb_persian	What are some good ways to get rid of these love traps	0.2
+896725	bt_nllb_swahili	are some of the best practices for removing them from their hands	0.0
+896725	bt_nllb_tamil	What are some good practices to take away romantic ties	0.0
+922849	-1	why do some people take life so seriously?	1.0
+922849	bt_bing_malay	Why do some people take lives so seriously	0.5
+949154	-1	can anybody tell me what is a butler?	1.0
+949154	bt_bing_arabic	Can anyone tell me what is a butler	0.5
+949154	bt_bing_french	Can anyone tell me what a butler is	0.5
+949154	bt_bing_german	Can anyone tell me what a butler is	0.5
+949154	bt_bing_korean	Can anyone tell me what a butler is	0.5
+949154	bt_bing_malay	Can anyone tell me what a butler is	0.5
+949154	bt_bing_russian	Can anyone tell me what a butler is	0.5
+949154	bt_bing_tamil	Can anyone tell me what a butler is	0.5
+949154	bt_nllb_french	Can anyone tell me what a butler is	0.5
+949154	bt_bing_chinese_simplified	Can anyone tell me what a housekeeper is	0.0179
+949154	bt_bing_persian	Can anyone tell me what a waitress is	0.0
+949154	bt_bing_swahili	Can anyone tell me what a butcher is	0.0
+949154	bt_nllb_arabic	Can someone tell me what the waiter is	0.0
+949154	bt_nllb_chinese_yue	Can anyone tell me what a plumber is	0.0
+949154	bt_nllb_korean	What is a boss	0.0
+949154	bt_nllb_malay	Can anyone tell me what a waiter is	0.0
+949154	bt_nllb_persian	Can someone tell me what a perpolis is	0.0
+949154	bt_nllb_russian	Can anyone tell me what a mansion is	0.0
+949154	bt_nllb_swahili	Can anyone tell me what a housewife is	0.0
+949154	bt_nllb_tamil	Can anyone tell me what a meter is	0.0
+953489	-1	Why do I have to dumb myself down all the time though I am highly undereducated?	1.0
+953489	bt_bing_french	Why do I have to dumb myself all the time when I m so undereducated	0.5
+953489	bt_bing_russian	Why do I have to dumb myself down all the time even though I m very uneducated	0.3333
+953489	bt_bing_tamil	Why should I dumb myself all the time when I am not much educated	0.3333
+953489	bt_bing_german	Why do I have to dumb myself down all the time even though I am very uneducated	0.125
+953489	bt_bing_malay	Why do I have to be stupid all the time even though I m so poorly educated	0.0227
+953489	bt_nllb_german	Why do I always have to be stupid when I m so unsatisfied	0.0161
+953489	bt_nllb_korean	Why do I always have to be stupid	0.0143
+953489	bt_bing_arabic	Why should I overlook all the time even though I m very uneducated	0.0
+953489	bt_bing_chinese_simplified	Why do I have to keep making myself stupid despite my low education	0.0
+953489	bt_bing_korean	Why do I always have to make a fool of myself when I don t have much education	0.0
+953489	bt_bing_persian	Why should I fool myself all the time while I m so under educated	0.0
+953489	bt_bing_swahili	Why do I have to ignore myself all the time even though I m so under educated	0.0
+953489	bt_nllb_arabic	Why do I have to hide all the time even though I m so uneducated	0.0
+953489	bt_nllb_chinese_yue	I don t know why I keep being this way	0.0
+953489	bt_nllb_french	Why do I have to be down all the time when I m so uneducated	0.0
+953489	bt_nllb_malay	Why do I have to turn myself around all the time even though I m so poorly educated	0.0
+953489	bt_nllb_persian	Why do I always have to fool myself when I m so little educated	0.0
+953489	bt_nllb_russian	Why do I have to keep fooling myself when I m not very educated	0.0
+953489	bt_nllb_swahili	Why should I work full time to abuse myself when I have not had a good education	0.0
+953489	bt_nllb_tamil	Why should I always fool myself even though I m so little educated	0.0

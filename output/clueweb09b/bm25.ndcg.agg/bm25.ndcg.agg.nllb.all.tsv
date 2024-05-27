@@ -1,0 +1,2179 @@
+qid	order	query	bm25.ndcg
+1	-1	obama family tree	0.4473
+1	bt_nllb_arabic	The Obama family tree	0.4473
+1	bt_nllb_chinese_yue	The Obama family tree	0.4473
+1	bt_nllb_french	Obama family tree	0.4473
+1	bt_nllb_german	Obama family tree	0.4473
+1	bt_nllb_korean	The Obama family tree	0.4473
+1	bt_nllb_malay	Obama family tree	0.4473
+1	bt_nllb_persian	The Obama family tree	0.4473
+1	bt_nllb_swahili	Obama family tree	0.4473
+1	bt_nllb_tamil	The Obama Family Tree	0.4473
+1	bt_nllb_russian	The Tree of Joy	0.0
+10	-1	cheap internet	0.1326
+10	bt_nllb_arabic	The internet is cheap	0.1326
+10	bt_nllb_chinese_yue	Cheap Internet	0.1326
+10	bt_nllb_french	The Internet is Cheap	0.1326
+10	bt_nllb_german	cheap internet	0.1326
+10	bt_nllb_korean	Cheap Internet	0.1326
+10	bt_nllb_malay	cheap internet	0.1326
+10	bt_nllb_persian	The Internet is cheap	0.1326
+10	bt_nllb_russian	cheap internet	0.1326
+10	bt_nllb_swahili	cheap internet	0.1326
+10	bt_nllb_tamil	Cheap Internet	0.1326
+11	-1	gmat prep classes	0.4662
+11	bt_nllb_korean	Gmat prep class	0.4662
+11	bt_nllb_malay	Gmat preparation class	0.2556
+11	bt_nllb_swahili	a preparation class for gmat	0.2556
+11	bt_nllb_german	Preparation hours for the Gmat study	0.1452
+11	bt_nllb_tamil	Gmat ready classes	0.1377
+11	bt_nllb_arabic	Teacher preparation classes	0.0
+11	bt_nllb_chinese_yue	Pre K through grade	0.0
+11	bt_nllb_french	Preparatory courses for secondary education	0.0
+11	bt_nllb_persian	Preparatory classes	0.0
+11	bt_nllb_russian	Classes on preparation for gymnasium	0.0
+12	-1	djs	0.1652
+12	bt_nllb_french	DJs	0.1652
+12	bt_nllb_german	DJs	0.1652
+12	bt_nllb_arabic	The DGS	0.0
+12	bt_nllb_chinese_yue	Other things	0.0
+12	bt_nllb_korean	I m not a DJ	0.0
+12	bt_nllb_malay	The D J S	0.0
+12	bt_nllb_persian	J J	0.0
+12	bt_nllb_russian	I m not a jazz player	0.0
+12	bt_nllb_swahili	The D J S	0.0
+12	bt_nllb_tamil	The Bible is a book of scriptures	0.0
+13	-1	map	0.0788
+13	bt_nllb_arabic	A map	0.0788
+13	bt_nllb_chinese_yue	Map	0.0788
+13	bt_nllb_french	map	0.0788
+13	bt_nllb_german	Map	0.0788
+13	bt_nllb_malay	map	0.0788
+13	bt_nllb_swahili	map	0.0788
+13	bt_nllb_tamil	map	0.0788
+13	bt_nllb_korean	Map of the world	0.0
+13	bt_nllb_persian	The plan	0.0
+13	bt_nllb_russian	Map of the city	0.0
+14	-1	dinosaurs	0.0243
+14	bt_nllb_arabic	The dinosaurs	0.0243
+14	bt_nllb_chinese_yue	The dinosaurs	0.0243
+14	bt_nllb_french	the dinosaurs	0.0243
+14	bt_nllb_korean	The dinosaurs	0.0243
+14	bt_nllb_malay	The dinosaurs	0.0243
+14	bt_nllb_persian	The dinosaurs	0.0243
+14	bt_nllb_russian	The dinosaurs	0.0243
+14	bt_nllb_swahili	dinosaurs	0.0243
+14	bt_nllb_tamil	The Dinosaurs	0.0243
+14	bt_nllb_german	Other animals	0.0
+15	-1	espn sports	0.3206
+15	bt_nllb_arabic	Sports	0.0
+15	bt_nllb_chinese_yue	Exercise	0.0
+15	bt_nllb_french	sports	0.0
+15	bt_nllb_german	Sports	0.0
+15	bt_nllb_korean	Sports	0.0
+15	bt_nllb_malay	sports	0.0
+15	bt_nllb_persian	Sports	0.0
+15	bt_nllb_russian	sports	0.0
+15	bt_nllb_swahili	sports spn	0.0
+15	bt_nllb_tamil	game	0.0
+16	-1	arizona game and fish	0.2793
+16	bt_nllb_malay	Arizona games and fish	0.2793
+16	bt_nllb_persian	Arizona game and fish	0.2793
+16	bt_nllb_swahili	Arizona game and fish	0.2793
+16	bt_nllb_french	Arizona hunting and fishing	0.1563
+16	bt_nllb_tamil	Arizona hunting and fishing	0.1563
+16	bt_nllb_arabic	Arizona fishing and boating	0.1207
+16	bt_nllb_russian	Arizona and Fish	0.1103
+16	bt_nllb_chinese_yue	Arizona wildlife and fish	0.0293
+16	bt_nllb_korean	Arizona wildlife and fish	0.0293
+16	bt_nllb_german	Arizona Wild and Fish	0.0038
+17	-1	poker tournaments	0.2159
+17	bt_nllb_arabic	The poker tournaments	0.2159
+17	bt_nllb_french	poker tournaments	0.2159
+17	bt_nllb_german	Poker tournaments	0.2159
+17	bt_nllb_korean	The poker tournament	0.2159
+17	bt_nllb_malay	poker tournaments	0.2159
+17	bt_nllb_persian	Poker tournaments	0.2159
+17	bt_nllb_russian	poker tournaments	0.2159
+17	bt_nllb_swahili	poker tournaments	0.2159
+17	bt_nllb_tamil	Poker tournaments	0.2159
+17	bt_nllb_chinese_yue	The Cup	0.0
+18	-1	wedding budget calculator	0.2122
+18	bt_nllb_chinese_yue	A wedding budget is a calculator	0.2122
+18	bt_nllb_german	Wedding budget calculator	0.2122
+18	bt_nllb_persian	The wedding budget calculator	0.2122
+18	bt_nllb_russian	The wedding budget calculator	0.2122
+18	bt_nllb_arabic	Accounting for the wedding budget	0.0874
+18	bt_nllb_swahili	financial wedding calculator	0.0076
+18	bt_nllb_french	marriage budget calculator	0.0032
+18	bt_nllb_korean	The marriage budget calculator	0.0032
+18	bt_nllb_malay	marriage estimate calculator	0.0
+18	bt_nllb_tamil	Marriage budgeting	0.0
+19	-1	the current	0.0
+19	bt_nllb_arabic	The current	0.0
+19	bt_nllb_chinese_yue	The flow	0.0
+19	bt_nllb_french	the current	0.0
+19	bt_nllb_german	the current	0.0
+19	bt_nllb_korean	The current	0.0
+19	bt_nllb_malay	current	0.0
+19	bt_nllb_persian	The flow	0.0
+19	bt_nllb_russian	current	0.0
+19	bt_nllb_swahili	now	0.0
+19	bt_nllb_tamil	current	0.0
+2	-1	french lick resort and casino	0.4274
+2	bt_nllb_french	French Lick Resort and Casino	0.4274
+2	bt_nllb_german	French Lick Resort and Casino	0.4274
+2	bt_nllb_malay	French Lick Resort and Casino	0.4274
+2	bt_nllb_swahili	French lick resort and casino	0.4274
+2	bt_nllb_persian	French resort and casino	0.2203
+2	bt_nllb_russian	French resort and casino	0.2203
+2	bt_nllb_tamil	French League Resort and Casino	0.0847
+2	bt_nllb_korean	French Richey Resorts and Casinos	0.0641
+2	bt_nllb_arabic	French Lake Resort and Casino	0.0459
+2	bt_nllb_chinese_yue	French pubs and casinos	0.0
+20	-1	defender	0.0
+20	bt_nllb_arabic	The guns	0.0
+20	bt_nllb_chinese_yue	The guardian	0.0
+20	bt_nllb_french	defendant	0.0
+20	bt_nllb_german	Defender	0.0
+20	bt_nllb_korean	The guard	0.0
+20	bt_nllb_malay	Defenders	0.0
+20	bt_nllb_persian	Defence	0.0
+20	bt_nllb_russian	The defendant	0.0
+20	bt_nllb_swahili	a guard	0.0
+20	bt_nllb_tamil	Protector	0.0
+21	-1	volvo	0.3456
+21	bt_nllb_malay	volvo	0.3456
+21	bt_nllb_persian	The Volvo	0.3456
+21	bt_nllb_russian	Volvo is	0.3456
+21	bt_nllb_swahili	volvo	0.3456
+21	bt_nllb_tamil	The Volvo	0.3456
+21	bt_nllb_chinese_yue	Volvo is a car	0.0637
+21	bt_nllb_arabic	What	0.0
+21	bt_nllb_french	back to	0.0
+21	bt_nllb_german	The Commission shall adopt implementing acts in accordance with Article of this Regulation	0.0
+21	bt_nllb_korean	Let s see	0.0
+22	-1	rick warren	0.4438
+22	bt_nllb_arabic	Rick Warren	0.4438
+22	bt_nllb_french	Rick Warren	0.4438
+22	bt_nllb_german	Rick Warren	0.4438
+22	bt_nllb_persian	Rick Warren	0.4438
+22	bt_nllb_russian	Rick Warren	0.4438
+22	bt_nllb_swahili	Rick Warren	0.4438
+22	bt_nllb_tamil	Rick Warren	0.4438
+22	bt_nllb_malay	Rick Warren is here	0.3323
+22	bt_nllb_chinese_yue	Rick Warren is the author of	0.2762
+22	bt_nllb_korean	Rick Warren you know what	0.2412
+23	-1	yahoo	0.014
+23	bt_nllb_german	Yahoo	0.014
+23	bt_nllb_korean	Yahoo	0.014
+23	bt_nllb_malay	Yahoo	0.014
+23	bt_nllb_persian	Yahoo	0.014
+23	bt_nllb_swahili	the yahoo	0.014
+23	bt_nllb_tamil	the yahoo	0.014
+23	bt_nllb_chinese_yue	Yahoo is a website	0.0058
+23	bt_nllb_arabic	Oh yeah	0.0
+23	bt_nllb_french	the count	0.0
+23	bt_nllb_russian	What is it	0.0
+24	-1	diversity	0.1555
+24	bt_nllb_arabic	The diversity	0.1555
+24	bt_nllb_french	diversity	0.1555
+24	bt_nllb_german	The diversity	0.1555
+24	bt_nllb_korean	Diversity	0.1555
+24	bt_nllb_malay	The diversity	0.1555
+24	bt_nllb_persian	Diversity	0.1555
+24	bt_nllb_russian	The diversity	0.1555
+24	bt_nllb_tamil	diversity	0.1555
+24	bt_nllb_chinese_yue	Diversity is a big thing	0.0
+24	bt_nllb_swahili	difference	0.0
+25	-1	euclid	0.1608
+25	bt_nllb_korean	Euclid	0.1608
+25	bt_nllb_malay	Euclid	0.1608
+25	bt_nllb_russian	Euclid	0.1608
+25	bt_nllb_swahili	Euclid	0.1608
+25	bt_nllb_arabic	The key	0.0
+25	bt_nllb_chinese_yue	Acid	0.0
+25	bt_nllb_french	Euclidean	0.0
+25	bt_nllb_german	Other	0.0
+25	bt_nllb_persian	I m going to take a look	0.0
+25	bt_nllb_tamil	Eclidis	0.0
+26	-1	lower heart rate	0.1359
+26	bt_nllb_arabic	Lower heart rate	0.1359
+26	bt_nllb_french	lower heart rate	0.1359
+26	bt_nllb_german	lower heart rate	0.1359
+26	bt_nllb_korean	And the heart rate is lower	0.1359
+26	bt_nllb_malay	lower heart rate	0.1359
+26	bt_nllb_persian	Lower heart rate	0.1359
+26	bt_nllb_swahili	low heart rate	0.0746
+26	bt_nllb_russian	decreased heart rate	0.0134
+26	bt_nllb_tamil	Heart rate decreases	0.0134
+26	bt_nllb_chinese_yue	My heart is racing	0.0
+27	-1	starbucks	0.1632
+27	bt_nllb_chinese_yue	This is Starbucks	0.1632
+27	bt_nllb_russian	The Starbucks	0.1632
+27	bt_nllb_swahili	Starbucks	0.1632
+27	bt_nllb_tamil	The Starbucks	0.1632
+27	bt_nllb_malay	Starbucks is a great place to start	0.0784
+27	bt_nllb_arabic	I m not	0.0
+27	bt_nllb_french	the stars	0.0
+27	bt_nllb_german	Other articles of heading No	0.0
+27	bt_nllb_korean	I m not going to say	0.0
+27	bt_nllb_persian	I m going to start	0.0
+28	-1	inuyasha	0.1236
+28	bt_nllb_arabic	Inuyasha	0.1236
+28	bt_nllb_german	inuyasha	0.1236
+28	bt_nllb_malay	Inuyasha	0.1236
+28	bt_nllb_persian	Inuyasha	0.1236
+28	bt_nllb_tamil	Inuyasha	0.1236
+28	bt_nllb_chinese_yue	Inouasha	0.0
+28	bt_nllb_french	at the same time	0.0
+28	bt_nllb_korean	I m not going to lie	0.0
+28	bt_nllb_russian	Innuendous	0.0
+28	bt_nllb_swahili	It s a fire	0.0
+29	-1	ps 2 games	0.0543
+29	bt_nllb_arabic	PS games	0.0543
+29	bt_nllb_chinese_yue	PS game	0.0543
+29	bt_nllb_french	PS games	0.0543
+29	bt_nllb_german	PS Games	0.0543
+29	bt_nllb_korean	PS game	0.0543
+29	bt_nllb_malay	PS game	0.0543
+29	bt_nllb_persian	PS game	0.0543
+29	bt_nllb_russian	PS game	0.0543
+29	bt_nllb_swahili	PS games	0.0543
+29	bt_nllb_tamil	ps games	0.0543
+3	-1	getting organized	0.3551
+3	bt_nllb_korean	Get organized	0.3551
+3	bt_nllb_tamil	How to Organize	0.0636
+3	bt_nllb_chinese_yue	Organize yourself	0.0131
+3	bt_nllb_arabic	The organization	0.0
+3	bt_nllb_french	get settled	0.0
+3	bt_nllb_german	to organize themselves	0.0
+3	bt_nllb_malay	organized	0.0
+3	bt_nllb_persian	They re organized	0.0
+3	bt_nllb_russian	organizing	0.0
+3	bt_nllb_swahili	to be organized	0.0
+30	-1	diabetes education	0.2833
+30	bt_nllb_arabic	The education of diabetes	0.2833
+30	bt_nllb_chinese_yue	Diabetes education	0.2833
+30	bt_nllb_french	education in diabetes	0.2833
+30	bt_nllb_korean	Education for Diabetes	0.2833
+30	bt_nllb_malay	education in diabetes	0.2833
+30	bt_nllb_persian	Diabetes education	0.2833
+30	bt_nllb_swahili	education in diabetes	0.2833
+30	bt_nllb_tamil	Diabetes education	0.2833
+30	bt_nllb_german	Education in the field of diabetes	0.0157
+30	bt_nllb_russian	education in the field of diabetes	0.0157
+31	-1	atari	0.3462
+31	bt_nllb_malay	Atari	0.3462
+31	bt_nllb_korean	Atari please	0.036
+31	bt_nllb_arabic	I m not going to	0.0
+31	bt_nllb_chinese_yue	Itari	0.0
+31	bt_nllb_french	the flow rate	0.0
+31	bt_nllb_german	Other	0.0
+31	bt_nllb_persian	You know you re a father	0.0
+31	bt_nllb_russian	The atrium	0.0
+31	bt_nllb_swahili	the heavens	0.0
+31	bt_nllb_tamil	the battery	0.0
+32	-1	website design hosting	0.1528
+32	bt_nllb_malay	hosting website design	0.1528
+32	bt_nllb_arabic	Hosting the site design	0.0771
+32	bt_nllb_chinese_yue	Design hosting and hosting	0.0501
+32	bt_nllb_french	web design hosting	0.0459
+32	bt_nllb_german	Web design hosting	0.0459
+32	bt_nllb_korean	Web design hosting	0.0459
+32	bt_nllb_persian	Web design hosting	0.0459
+32	bt_nllb_swahili	web design host	0.0459
+32	bt_nllb_tamil	Web design hosting	0.0459
+32	bt_nllb_russian	Web hosting	0.0
+33	-1	elliptical trainer	0.3701
+33	bt_nllb_french	elliptical trainer	0.3701
+33	bt_nllb_german	Elliptical trainer	0.3701
+33	bt_nllb_malay	Elliptical trainer	0.3701
+33	bt_nllb_persian	The trainer is elliptical	0.3701
+33	bt_nllb_swahili	elliptical trainer	0.3701
+33	bt_nllb_korean	The Eliptic Trainer	0.0237
+33	bt_nllb_russian	The elliptical coach	0.0108
+33	bt_nllb_arabic	The purple trainer	0.0
+33	bt_nllb_chinese_yue	Form training	0.0
+33	bt_nllb_tamil	The elephant training	0.0
+34	-1	cell phones	0.0865
+34	bt_nllb_arabic	Cell phones	0.0865
+34	bt_nllb_malay	cell phone	0.0865
+34	bt_nllb_persian	The cell phone	0.0865
+34	bt_nllb_tamil	cell phone	0.0865
+34	bt_nllb_chinese_yue	The phone	0.0
+34	bt_nllb_french	mobile phones	0.0
+34	bt_nllb_german	Mobile phones	0.0
+34	bt_nllb_korean	I m going to use my cell phone	0.0
+34	bt_nllb_russian	The mobile phones	0.0
+34	bt_nllb_swahili	mobile phones	0.0
+35	-1	hoboken	0.2831
+35	bt_nllb_korean	This is Hoboken	0.2831
+35	bt_nllb_persian	The Hoboken	0.2831
+35	bt_nllb_swahili	The hoboken	0.2831
+35	bt_nllb_arabic	Hopokin	0.0
+35	bt_nllb_chinese_yue	It s not	0.0
+35	bt_nllb_french	happiness	0.0
+35	bt_nllb_german	Keyword	0.0
+35	bt_nllb_malay	excited	0.0
+35	bt_nllb_russian	The match	0.0
+35	bt_nllb_tamil	Hopkone	0.0
+36	-1	gps	0.1522
+36	bt_nllb_french	GPS	0.1522
+36	bt_nllb_german	GPS	0.1522
+36	bt_nllb_malay	GPS is	0.1522
+36	bt_nllb_persian	GPS is on	0.1522
+36	bt_nllb_russian	GPS is	0.1522
+36	bt_nllb_swahili	GPS	0.1522
+36	bt_nllb_tamil	GPS	0.1522
+36	bt_nllb_arabic	The information detectors	0.0
+36	bt_nllb_chinese_yue	GPS is the key	0.0
+36	bt_nllb_korean	GPS is on the way	0.0
+37	-1	pampered chef	0.2491
+37	bt_nllb_arabic	A cooking obsessed	0.0
+37	bt_nllb_chinese_yue	The teacher of eating	0.0
+37	bt_nllb_french	lazy cook	0.0
+37	bt_nllb_german	Nice cook	0.0
+37	bt_nllb_korean	A cook	0.0
+37	bt_nllb_malay	The series chef	0.0
+37	bt_nllb_persian	She s a great cook	0.0
+37	bt_nllb_russian	The fat chef	0.0
+37	bt_nllb_swahili	A lovely chef	0.0
+37	bt_nllb_tamil	The cook is a delightful cook	0.0
+38	-1	dogs for adoption	0.176
+38	bt_nllb_arabic	Dogs that will be adopted	0.176
+38	bt_nllb_french	dogs to adopt	0.176
+38	bt_nllb_german	Dogs for adoption	0.176
+38	bt_nllb_korean	Adopted dog	0.176
+38	bt_nllb_malay	Dogs to adopt	0.176
+38	bt_nllb_russian	Dogs for adoption	0.176
+38	bt_nllb_chinese_yue	Keeping dogs	0.0
+38	bt_nllb_persian	Dogs for the well	0.0
+38	bt_nllb_swahili	breeding dog	0.0
+38	bt_nllb_tamil	Dogs to Be Raised	0.0
+39	-1	disneyland hotel	0.1777
+39	bt_nllb_arabic	The Disneyland Hotel	0.1777
+39	bt_nllb_chinese_yue	The Disneyland Hotel	0.1777
+39	bt_nllb_french	Disneyland hotel	0.1777
+39	bt_nllb_german	Disneyland Hotel	0.1777
+39	bt_nllb_korean	The Disneyland Hotel	0.1777
+39	bt_nllb_malay	Disneyland hotel	0.1777
+39	bt_nllb_persian	The Disneyland Hotel	0.1777
+39	bt_nllb_russian	The Disneyland Hotel	0.1777
+39	bt_nllb_swahili	Disneyland hotel	0.1777
+39	bt_nllb_tamil	The Disneyland Hotel	0.1777
+4	-1	toilet	0.1464
+4	bt_nllb_arabic	The toilet	0.1464
+4	bt_nllb_chinese_yue	The toilet	0.1464
+4	bt_nllb_french	toilet	0.1464
+4	bt_nllb_german	Toilet	0.1464
+4	bt_nllb_malay	toilet	0.1464
+4	bt_nllb_persian	The toilet	0.1464
+4	bt_nllb_russian	The toilet	0.1464
+4	bt_nllb_swahili	the toilet	0.1464
+4	bt_nllb_tamil	toilet	0.1464
+4	bt_nllb_korean	The bathroom	0.0
+40	-1	michworks	0.1598
+40	bt_nllb_swahili	michworks	0.1598
+40	bt_nllb_arabic	Projects	0.0
+40	bt_nllb_chinese_yue	The factory	0.0
+40	bt_nllb_french	the factories	0.0
+40	bt_nllb_german	Meworks	0.0
+40	bt_nllb_korean	The Mitchwork	0.0
+40	bt_nllb_malay	work	0.0
+40	bt_nllb_persian	Industrial workshops	0.0
+40	bt_nllb_russian	Michelle	0.0
+40	bt_nllb_tamil	The Bible is a source of inspiration	0.0
+41	-1	orange county convention center	0.4081
+41	bt_nllb_arabic	The convention center in Orange County	0.4081
+41	bt_nllb_french	Orange County Convention Center	0.4081
+41	bt_nllb_german	Orange County Convention Center	0.4081
+41	bt_nllb_korean	The Orange County Convention Center	0.4081
+41	bt_nllb_persian	Orange County Convention Center	0.4081
+41	bt_nllb_russian	Orange County convention center	0.4081
+41	bt_nllb_swahili	Orange County convention center	0.4081
+41	bt_nllb_malay	orange district convention center	0.1077
+41	bt_nllb_tamil	Orange District Convention Center	0.1077
+41	bt_nllb_chinese_yue	The State Convention Center	0.0149
+42	-1	the music man	0.0
+42	bt_nllb_arabic	The music man	0.0
+42	bt_nllb_chinese_yue	Musicians	0.0
+42	bt_nllb_french	the man of music	0.0
+42	bt_nllb_german	The musician	0.0
+42	bt_nllb_korean	I m a musician	0.0
+42	bt_nllb_malay	The music guy	0.0
+42	bt_nllb_persian	The music man	0.0
+42	bt_nllb_russian	A musician	0.0
+42	bt_nllb_swahili	man music	0.0
+42	bt_nllb_tamil	Music man	0.0
+43	-1	the secret garden	0.357
+43	bt_nllb_arabic	The secret garden	0.357
+43	bt_nllb_chinese_yue	The secret garden	0.357
+43	bt_nllb_french	the secret garden	0.357
+43	bt_nllb_german	The Secret Garden	0.357
+43	bt_nllb_korean	The secret garden	0.357
+43	bt_nllb_malay	The secret garden	0.357
+43	bt_nllb_persian	The Secret Garden	0.357
+43	bt_nllb_russian	The Secret Garden	0.357
+43	bt_nllb_swahili	a secret garden	0.357
+43	bt_nllb_tamil	The Secret Garden	0.357
+44	-1	map of the united states	0.1338
+44	bt_nllb_arabic	Map of the United States	0.1338
+44	bt_nllb_chinese_yue	Map of the United States	0.1338
+44	bt_nllb_french	map of the United States	0.1338
+44	bt_nllb_german	Map of the United States	0.1338
+44	bt_nllb_korean	Map of the United States	0.1338
+44	bt_nllb_malay	map of the United States	0.1338
+44	bt_nllb_persian	Map of the United States	0.1338
+44	bt_nllb_russian	Map of the United States	0.1338
+44	bt_nllb_swahili	map of the United States	0.1338
+44	bt_nllb_tamil	Map of the United States	0.1338
+45	-1	solar panels	0.3349
+45	bt_nllb_arabic	Solar panels	0.3349
+45	bt_nllb_chinese_yue	Solar panels	0.3349
+45	bt_nllb_french	solar panels	0.3349
+45	bt_nllb_korean	Solar panel	0.3349
+45	bt_nllb_malay	solar panel	0.3349
+45	bt_nllb_persian	Solar panels	0.3349
+45	bt_nllb_russian	The solar panels	0.3349
+45	bt_nllb_tamil	Solar powered boxes	0.0226
+45	bt_nllb_german	Solar cells	0.0135
+45	bt_nllb_swahili	Sunspots	0.0
+46	-1	alexian brothers hospital	0.5065
+46	bt_nllb_chinese_yue	The Alexian Brothers Hospital	0.5065
+46	bt_nllb_korean	The Alexian Brothers Hospital	0.5065
+46	bt_nllb_malay	hospital of the alexian brothers	0.5065
+46	bt_nllb_russian	The Alexian Brothers Hospital	0.5065
+46	bt_nllb_tamil	The hospital of the Brotherhood of Alexians	0.4935
+46	bt_nllb_arabic	The hospital of the Elks Brothers	0.1993
+46	bt_nllb_french	the Alexia brothers hospital	0.0
+46	bt_nllb_german	The Alexic Brothers Hospital	0.0
+46	bt_nllb_persian	The hospital of the Alexins	0.0
+46	bt_nllb_swahili	Brother Alexia s hospital	0.0
+47	-1	indexed annuity	0.3647
+47	bt_nllb_french	indexed annuity	0.3647
+47	bt_nllb_german	Indexed annuity	0.3647
+47	bt_nllb_malay	annuity index	0.3647
+47	bt_nllb_russian	indexed annuity	0.3647
+47	bt_nllb_swahili	annuity indexed	0.3647
+47	bt_nllb_korean	The indexed annual rate	0.0232
+47	bt_nllb_arabic	The revised annual	0.0
+47	bt_nllb_chinese_yue	The indexed pension	0.0
+47	bt_nllb_persian	Indicated yearly	0.0
+47	bt_nllb_tamil	Indicative annual amount	0.0
+48	-1	wilson antenna	0.1414
+48	bt_nllb_korean	The Wilson antenna	0.1414
+48	bt_nllb_russian	The Wilson antenna	0.1414
+48	bt_nllb_swahili	Wilson antenna	0.1414
+48	bt_nllb_tamil	The first is the Wilson antenna	0.1256
+48	bt_nllb_french	Wilson s antenna	0.0978
+48	bt_nllb_malay	Wilson s antenna	0.0978
+48	bt_nllb_arabic	I m a fan of Wilson	0.0
+48	bt_nllb_chinese_yue	Wilson s skyline is	0.0
+48	bt_nllb_german	Other of a kind used for the manufacture of goods	0.0
+48	bt_nllb_persian	It s not like that	0.0
+49	-1	flame designs	0.417
+49	bt_nllb_french	Designs of Flames	0.417
+49	bt_nllb_german	Flame designs	0.417
+49	bt_nllb_korean	Flame design	0.417
+49	bt_nllb_arabic	Fire designs	0.0
+49	bt_nllb_chinese_yue	Design of burning	0.0
+49	bt_nllb_malay	fire design	0.0
+49	bt_nllb_persian	Fire designs	0.0
+49	bt_nllb_russian	flame fuelled structures	0.0
+49	bt_nllb_swahili	fire structures	0.0
+49	bt_nllb_tamil	The shape of the flame	0.0
+5	-1	mitchell college	0.0563
+5	bt_nllb_arabic	Mitchell College	0.0563
+5	bt_nllb_chinese_yue	Mitchell College is a	0.0563
+5	bt_nllb_french	Mitchell college	0.0563
+5	bt_nllb_german	Mitchell College	0.0563
+5	bt_nllb_korean	Mitchell College	0.0563
+5	bt_nllb_malay	Mitchell College	0.0563
+5	bt_nllb_persian	Mitchell College	0.0563
+5	bt_nllb_russian	Mitchell College	0.0563
+5	bt_nllb_swahili	Mitchell college	0.0563
+5	bt_nllb_tamil	Michael College	0.0
+50	-1	dog heat	0.0905
+50	bt_nllb_french	heat from the dog	0.1164
+50	bt_nllb_arabic	The dog heat	0.0905
+50	bt_nllb_persian	Dog heat	0.0905
+50	bt_nllb_russian	The dog heat	0.0905
+50	bt_nllb_tamil	Dog Heat	0.0905
+50	bt_nllb_chinese_yue	It s hot	0.0
+50	bt_nllb_german	Hot dogs	0.0
+50	bt_nllb_korean	Ten dogs	0.0
+50	bt_nllb_malay	Hot dog	0.0
+50	bt_nllb_swahili	hot dogs	0.0
+6	-1	kcs	0.0
+6	bt_nllb_arabic	The equipment	0.0
+6	bt_nllb_chinese_yue	My son	0.0
+6	bt_nllb_french	the CTS	0.0
+6	bt_nllb_german	CCS	0.0
+6	bt_nllb_korean	Kcs	0.0
+6	bt_nllb_malay	Kcs	0.0
+6	bt_nllb_persian	The chopper	0.0
+6	bt_nllb_russian	The KC	0.0
+6	bt_nllb_swahili	the kcs	0.0
+6	bt_nllb_tamil	Kilometers	0.0
+7	-1	air travel information	0.3302
+7	bt_nllb_arabic	Air travel information	0.3302
+7	bt_nllb_chinese_yue	Air travel information	0.3302
+7	bt_nllb_french	Information on air travel	0.3302
+7	bt_nllb_german	Air travel information	0.3302
+7	bt_nllb_korean	Air travel information	0.3302
+7	bt_nllb_malay	Air travel information	0.3302
+7	bt_nllb_persian	Air travel information	0.3302
+7	bt_nllb_tamil	Air travel information	0.3302
+7	bt_nllb_russian	Information about air travel	0.2264
+7	bt_nllb_swahili	Air travel news	0.1355
+8	-1	appraisals	0.0
+8	bt_nllb_arabic	The ratings	0.0
+8	bt_nllb_chinese_yue	The evaluation	0.0
+8	bt_nllb_french	the evaluations	0.0
+8	bt_nllb_german	The following is a summary of the evaluations	0.0
+8	bt_nllb_korean	The evaluation	0.0
+8	bt_nllb_malay	evaluation	0.0
+8	bt_nllb_persian	The evaluations	0.0
+8	bt_nllb_russian	The evaluation	0.0
+8	bt_nllb_swahili	evaluation	0.0
+8	bt_nllb_tamil	Assessments	0.0
+9	-1	used car parts	0.1153
+9	bt_nllb_chinese_yue	With car parts	0.1535
+9	bt_nllb_russian	parts for cars	0.1535
+9	bt_nllb_arabic	Used car parts	0.1153
+9	bt_nllb_french	used car parts	0.1153
+9	bt_nllb_korean	Used car parts	0.1153
+9	bt_nllb_malay	Used car parts	0.1153
+9	bt_nllb_persian	Used car parts	0.1153
+9	bt_nllb_german	Parts of used vehicles	0.0
+9	bt_nllb_swahili	used parts of vehicles	0.0
+9	bt_nllb_tamil	Used vehicle parts	0.0
+51	-1	horse hooves	0.2527
+51	bt_nllb_persian	Horse shoes	0.1219
+51	bt_nllb_swahili	horse shoes	0.1219
+51	bt_nllb_korean	The horse s hoof	0.0843
+51	bt_nllb_malay	The horse s heel	0.0267
+51	bt_nllb_arabic	The horse s horns	0.0112
+51	bt_nllb_chinese_yue	The horse	0.0
+51	bt_nllb_french	horse knives	0.0
+51	bt_nllb_german	Horse collars	0.0
+51	bt_nllb_russian	The final cops	0.0
+51	bt_nllb_tamil	The horse and the horse	0.0
+52	-1	avp	0.4045
+52	bt_nllb_arabic	A B	0.0
+52	bt_nllb_chinese_yue	It s not	0.0
+52	bt_nllb_french	the	0.0
+52	bt_nllb_german	The	0.0
+52	bt_nllb_korean	Abby please	0.0
+52	bt_nllb_malay	consignment	0.0
+52	bt_nllb_persian	Yes I did	0.0
+52	bt_nllb_russian	The APP	0.0
+52	bt_nllb_swahili	of	0.0
+52	bt_nllb_tamil	Abbey	0.0
+53	-1	discovery channel store	0.2161
+53	bt_nllb_french	channel store	0.1157
+53	bt_nllb_arabic	The Discovery Channel shop	0.0956
+53	bt_nllb_german	The discovery channel shop	0.0956
+53	bt_nllb_malay	channel discovery shop	0.0956
+53	bt_nllb_persian	The Discovery Channel shop	0.0956
+53	bt_nllb_tamil	Discovery channel shop	0.0956
+53	bt_nllb_korean	Search channel store	0.0232
+53	bt_nllb_chinese_yue	I found the Channel Store	0.0147
+53	bt_nllb_russian	opening channel shop	0.0
+53	bt_nllb_swahili	storage of the discovery center	0.0
+54	-1	president of the united states	0.1184
+54	bt_nllb_arabic	President of the United States	0.1184
+54	bt_nllb_chinese_yue	The President of the United States	0.1184
+54	bt_nllb_french	President of the United States	0.1184
+54	bt_nllb_german	President of the United States	0.1184
+54	bt_nllb_korean	The President of the United States	0.1184
+54	bt_nllb_malay	President of the United States	0.1184
+54	bt_nllb_persian	The President of the United States	0.1184
+54	bt_nllb_russian	The President of the United States	0.1184
+54	bt_nllb_swahili	president of the United States	0.1184
+54	bt_nllb_tamil	President of the United States	0.1184
+55	-1	iron	0.0204
+55	bt_nllb_arabic	The iron	0.0204
+55	bt_nllb_chinese_yue	The iron	0.0204
+55	bt_nllb_french	iron	0.0204
+55	bt_nllb_german	Iron	0.0204
+55	bt_nllb_korean	Iron	0.0204
+55	bt_nllb_malay	Iron	0.0204
+55	bt_nllb_persian	Iron	0.0204
+55	bt_nllb_russian	The iron	0.0204
+55	bt_nllb_swahili	iron	0.0204
+55	bt_nllb_tamil	iron	0.0204
+56	-1	uss yorktown charleston sc	0.0339
+56	bt_nllb_malay	USs Yorktown Charleston SC	0.0339
+56	bt_nllb_arabic	We are in Yorktown Charleston SC	0.0
+56	bt_nllb_chinese_yue	Charleston SC York U S A	0.0
+56	bt_nllb_french	We are in Yorktown Charleston SC	0.0
+56	bt_nllb_german	We are in Yorktown Charleston SC	0.0
+56	bt_nllb_korean	Yorktown Charleston SC USA	0.0
+56	bt_nllb_persian	We are Yorkston S	0.0
+56	bt_nllb_russian	We re in Yorktown Charleston SC	0.0
+56	bt_nllb_swahili	We are Yorktown Charleston SC	0.0
+56	bt_nllb_tamil	The United States is a member of the Charleston S C	0.0
+57	-1	ct jobs	0.2232
+57	bt_nllb_russian	The CT work	0.0272
+57	bt_nllb_arabic	The functions of technology	0.0
+57	bt_nllb_chinese_yue	work	0.0
+57	bt_nllb_french	employment in technology	0.0
+57	bt_nllb_german	Employment	0.0
+57	bt_nllb_korean	IT work	0.0
+57	bt_nllb_malay	The job	0.0
+57	bt_nllb_persian	Jobs	0.0
+57	bt_nllb_swahili	work activities	0.0
+57	bt_nllb_tamil	jobs	0.0
+58	-1	penguins	0.0952
+58	bt_nllb_arabic	The penguin	0.0952
+58	bt_nllb_french	Penguins	0.0952
+58	bt_nllb_german	Penguins	0.0952
+58	bt_nllb_korean	Penguins	0.0952
+58	bt_nllb_malay	penguins	0.0952
+58	bt_nllb_persian	Penguins	0.0952
+58	bt_nllb_russian	The penguins	0.0952
+58	bt_nllb_swahili	penguin	0.0952
+58	bt_nllb_tamil	The penguins	0.0952
+58	bt_nllb_chinese_yue	Stand up and be counted	0.0
+59	-1	how to build a fence	0.0648
+59	bt_nllb_arabic	How to build a fence	0.0648
+59	bt_nllb_french	how to build a fence	0.0648
+59	bt_nllb_german	How to Build a Fence	0.0648
+59	bt_nllb_korean	How to Build a Fence	0.0648
+59	bt_nllb_malay	How to build a fence	0.0648
+59	bt_nllb_persian	How to build a fence	0.0648
+59	bt_nllb_russian	How to build a fence	0.0648
+59	bt_nllb_chinese_yue	How to do this	0.0
+59	bt_nllb_swahili	how to build a yard	0.0
+59	bt_nllb_tamil	How to Build a Wall	0.0
+60	-1	bellevue	0.1521
+60	bt_nllb_french	Bellevue	0.1521
+60	bt_nllb_german	Bellevue	0.1521
+60	bt_nllb_korean	Bellevue	0.1521
+60	bt_nllb_malay	Bellevue is	0.1521
+60	bt_nllb_swahili	Bellevue	0.1521
+60	bt_nllb_russian	I m going to the Bellevue	0.0197
+60	bt_nllb_arabic	Belvio please	0.0
+60	bt_nllb_chinese_yue	Belvi who is a writer	0.0
+60	bt_nllb_persian	Blue you know	0.0
+60	bt_nllb_tamil	Belvive	0.0
+61	-1	worm	0.1001
+61	bt_nllb_arabic	The worm	0.1001
+61	bt_nllb_chinese_yue	The worm	0.1001
+61	bt_nllb_malay	worms	0.1001
+61	bt_nllb_persian	The worm	0.1001
+61	bt_nllb_russian	The worm	0.1001
+61	bt_nllb_german	Other worms	0.0717
+61	bt_nllb_french	see	0.0
+61	bt_nllb_korean	I m not sure	0.0
+61	bt_nllb_swahili	a butterfly	0.0
+61	bt_nllb_tamil	eagle	0.0
+62	-1	texas border patrol	0.4528
+62	bt_nllb_arabic	Border Patrol in Texas	0.4528
+62	bt_nllb_french	Texas Border Patrol	0.4528
+62	bt_nllb_german	Texas Border Patrol	0.4528
+62	bt_nllb_korean	Texas Border Patrol	0.4528
+62	bt_nllb_malay	Texas Border Patrol	0.4528
+62	bt_nllb_persian	Texas border patrol	0.4528
+62	bt_nllb_russian	Texas Border Patrol	0.4528
+62	bt_nllb_tamil	Texas Border Patrol	0.4528
+62	bt_nllb_swahili	Texas border security	0.3049
+62	bt_nllb_chinese_yue	Texas Border Patrol is a police force	0.0987
+63	-1	flushing	0.1926
+63	bt_nllb_arabic	The magic	0.0
+63	bt_nllb_chinese_yue	Water	0.0
+63	bt_nllb_french	pollution	0.0
+63	bt_nllb_german	Shaking	0.0
+63	bt_nllb_korean	I m not afraid of you	0.0
+63	bt_nllb_malay	Sweating	0.0
+63	bt_nllb_persian	Wash it	0.0
+63	bt_nllb_russian	washing	0.0
+63	bt_nllb_swahili	showering	0.0
+63	bt_nllb_tamil	washing	0.0
+64	-1	moths	0.1796
+64	bt_nllb_arabic	The surprises	0.0
+64	bt_nllb_chinese_yue	Butterflies	0.0
+64	bt_nllb_french	the flies	0.0
+64	bt_nllb_german	Weaknesses	0.0
+64	bt_nllb_korean	The butterfly	0.0
+64	bt_nllb_malay	Waves	0.0
+64	bt_nllb_persian	The stars	0.0
+64	bt_nllb_russian	The Motels	0.0
+64	bt_nllb_swahili	butterflies	0.0
+64	bt_nllb_tamil	the beans	0.0
+65	-1	korean language	0.0968
+65	bt_nllb_arabic	Korean language	0.0968
+65	bt_nllb_french	Korean language	0.0968
+65	bt_nllb_german	Korean language	0.0968
+65	bt_nllb_persian	Korean language	0.0968
+65	bt_nllb_russian	Korean language	0.0968
+65	bt_nllb_tamil	Korean language	0.0968
+65	bt_nllb_chinese_yue	Korean	0.0202
+65	bt_nllb_korean	Korean	0.0202
+65	bt_nllb_malay	Korean	0.0202
+65	bt_nllb_swahili	Korean	0.0202
+66	-1	income tax return online	0.0297
+66	bt_nllb_chinese_yue	Tax returns online	0.0391
+66	bt_nllb_french	online income tax return	0.0297
+66	bt_nllb_german	Income tax return online	0.0297
+66	bt_nllb_korean	Online income tax returns	0.0297
+66	bt_nllb_tamil	Income tax return online	0.0297
+66	bt_nllb_arabic	Tax returns on the Internet	0.0
+66	bt_nllb_malay	online income tax declaration	0.0
+66	bt_nllb_persian	Pay back your online income tax	0.0
+66	bt_nllb_russian	online registration of the tax declaration	0.0
+66	bt_nllb_swahili	reporting income tax online	0.0
+67	-1	vldl levels	0.3195
+67	bt_nllb_chinese_yue	VLDL level	0.3195
+67	bt_nllb_french	Vldl levels	0.3195
+67	bt_nllb_german	Vldl levels	0.3195
+67	bt_nllb_korean	Vldl level	0.3195
+67	bt_nllb_malay	VLDl level	0.3195
+67	bt_nllb_persian	VLDL level	0.3195
+67	bt_nllb_swahili	Vldl levels	0.3195
+67	bt_nllb_tamil	Vldl levels	0.3195
+67	bt_nllb_arabic	The VLD levels	0.0
+67	bt_nllb_russian	The levels	0.0
+68	-1	pvc	0.1391
+68	bt_nllb_french	Pvc	0.1391
+68	bt_nllb_korean	Pvc	0.1391
+68	bt_nllb_malay	the pvc	0.1391
+68	bt_nllb_persian	The PvC	0.1391
+68	bt_nllb_swahili	the pvc	0.1391
+68	bt_nllb_tamil	the PVC	0.1391
+68	bt_nllb_arabic	The equipment	0.0
+68	bt_nllb_chinese_yue	It s not	0.0
+68	bt_nllb_german	Other	0.0
+68	bt_nllb_russian	The PFC	0.0
+69	-1	sewing instructions	0.2702
+69	bt_nllb_arabic	Sewing instructions	0.2702
+69	bt_nllb_french	instructions for sewing	0.2702
+69	bt_nllb_malay	Sewing instructions	0.2702
+69	bt_nllb_russian	instructions for sewing	0.2702
+69	bt_nllb_swahili	Instructions for sewing	0.2702
+69	bt_nllb_chinese_yue	Follow the instructions	0.0
+69	bt_nllb_german	Directives on needle layers	0.0
+69	bt_nllb_korean	The line	0.0
+69	bt_nllb_persian	The instructions for chewing	0.0
+69	bt_nllb_tamil	Sewing methods	0.0
+70	-1	to be or not to be that is the question	0.0
+70	bt_nllb_arabic	To be or not to be is the question	0.0
+70	bt_nllb_chinese_yue	Whether you do it or not is the question	0.0
+70	bt_nllb_french	to be or not to be is the question	0.0
+70	bt_nllb_german	That s the question	0.0
+70	bt_nllb_korean	It s about whether or not you should be that person	0.0
+70	bt_nllb_malay	To be or not to be that s the question	0.0
+70	bt_nllb_persian	That s the question of whether or not it should be	0.0
+70	bt_nllb_russian	To be or not to be that s the question	0.0
+70	bt_nllb_swahili	To be or not to be that is a question	0.0
+70	bt_nllb_tamil	The question is whether or not to be	0.0
+71	-1	living in india	0.0068
+71	bt_nllb_chinese_yue	I live in India	0.0213
+71	bt_nllb_korean	I live in India	0.0213
+71	bt_nllb_arabic	They live in India	0.0068
+71	bt_nllb_french	living in India	0.0068
+71	bt_nllb_german	living in India	0.0068
+71	bt_nllb_malay	live in India	0.0068
+71	bt_nllb_swahili	living in India	0.0068
+71	bt_nllb_tamil	Living in India	0.0068
+71	bt_nllb_persian	Life in India	0.0
+71	bt_nllb_russian	residence in India	0.0
+72	-1	the sun	0.0
+72	bt_nllb_arabic	The sun	0.0
+72	bt_nllb_chinese_yue	The sun	0.0
+72	bt_nllb_french	the sun	0.0
+72	bt_nllb_german	The sun	0.0
+72	bt_nllb_korean	The sun	0.0
+72	bt_nllb_malay	The sun	0.0
+72	bt_nllb_persian	The sun	0.0
+72	bt_nllb_russian	The sun	0.0
+72	bt_nllb_swahili	the sun	0.0
+72	bt_nllb_tamil	the sun	0.0
+73	-1	neil young	0.2455
+73	bt_nllb_french	Neil Young	0.2455
+73	bt_nllb_german	Neil Young	0.2455
+73	bt_nllb_korean	Neil Young	0.2455
+73	bt_nllb_malay	Neil Young	0.2455
+73	bt_nllb_swahili	Neil Young	0.2455
+73	bt_nllb_tamil	Neil Young	0.2455
+73	bt_nllb_chinese_yue	Neil Young is a great guy	0.0106
+73	bt_nllb_arabic	Neal Young	0.0
+73	bt_nllb_persian	Young Neal	0.0
+73	bt_nllb_russian	Neal Young	0.0
+74	-1	kiwi	0.0517
+74	bt_nllb_french	kiwi	0.0517
+74	bt_nllb_malay	Kiwi	0.0517
+74	bt_nllb_swahili	the kiwi	0.0517
+74	bt_nllb_korean	You know Kiwi	0.0277
+74	bt_nllb_arabic	The key	0.0
+74	bt_nllb_chinese_yue	Kewey	0.0
+74	bt_nllb_german	Other	0.0
+74	bt_nllb_persian	What	0.0
+74	bt_nllb_russian	What s up	0.0
+74	bt_nllb_tamil	the key	0.0
+75	-1	tornadoes	0.2326
+75	bt_nllb_french	tornadoes	0.2326
+75	bt_nllb_german	Tornadoes	0.2326
+75	bt_nllb_malay	tornadoes	0.2326
+75	bt_nllb_russian	The tornado	0.2326
+75	bt_nllb_korean	I m going to have a tornado	0.0115
+75	bt_nllb_arabic	Hurricanes	0.0
+75	bt_nllb_chinese_yue	The wind	0.0
+75	bt_nllb_persian	The storm	0.0
+75	bt_nllb_swahili	storms	0.0
+75	bt_nllb_tamil	storm	0.0
+76	-1	raised gardens	0.2776
+76	bt_nllb_french	and gardens raised high	0.1566
+76	bt_nllb_arabic	Gardens of high height	0.0
+76	bt_nllb_chinese_yue	The trees	0.0
+76	bt_nllb_german	and gardens well groomed	0.0
+76	bt_nllb_korean	A magnificent garden	0.0
+76	bt_nllb_malay	and gardens planted	0.0
+76	bt_nllb_persian	Gardens that have become gardens	0.0
+76	bt_nllb_russian	and gardens that are laid out	0.0
+76	bt_nllb_swahili	And gardens that are taken away	0.0
+76	bt_nllb_tamil	The gardens are grown	0.0
+77	-1	bobcat	0.1555
+77	bt_nllb_russian	The bobcat	0.1555
+77	bt_nllb_arabic	The popcorn	0.0
+77	bt_nllb_chinese_yue	Fish	0.0
+77	bt_nllb_french	the toolbox	0.0
+77	bt_nllb_german	Other of a thickness of less than mm	0.0
+77	bt_nllb_korean	Oh my God	0.0
+77	bt_nllb_malay	unemployment	0.0
+77	bt_nllb_persian	The club	0.0
+77	bt_nllb_swahili	grey	0.0
+77	bt_nllb_tamil	the beans	0.0
+78	-1	dieting	0.0174
+78	bt_nllb_arabic	The diet	0.0174
+78	bt_nllb_german	Diet	0.0174
+78	bt_nllb_korean	The diet	0.0174
+78	bt_nllb_malay	diet	0.0174
+78	bt_nllb_persian	Diet	0.0174
+78	bt_nllb_russian	diet	0.0174
+78	bt_nllb_chinese_yue	Food	0.0
+78	bt_nllb_french	dietary	0.0
+78	bt_nllb_swahili	eating food	0.0
+78	bt_nllb_tamil	food	0.0
+79	-1	voyager	0.012
+79	bt_nllb_arabic	The traveler	0.0
+79	bt_nllb_chinese_yue	Travelers	0.0
+79	bt_nllb_french	traveller	0.0
+79	bt_nllb_german	Travellers	0.0
+79	bt_nllb_korean	Travelers	0.0
+79	bt_nllb_malay	tourists	0.0
+79	bt_nllb_persian	The trip	0.0
+79	bt_nllb_russian	The traveller	0.0
+79	bt_nllb_swahili	traveler	0.0
+79	bt_nllb_tamil	traveler	0.0
+80	-1	keyboard reviews	0.2497
+80	bt_nllb_arabic	Keyboard reviews	0.2497
+80	bt_nllb_chinese_yue	Keyboard reviews	0.2497
+80	bt_nllb_korean	Keyboard reviews	0.2497
+80	bt_nllb_malay	keyboard reviews	0.2497
+80	bt_nllb_russian	Keyboard reviews	0.2497
+80	bt_nllb_swahili	keyboard reviews	0.2497
+80	bt_nllb_tamil	Keyboard reviews	0.2497
+80	bt_nllb_french	revision of the keyboard	0.0
+80	bt_nllb_german	Key parts ratings	0.0
+80	bt_nllb_persian	Check the keypad	0.0
+81	-1	afghanistan	0.0328
+81	bt_nllb_chinese_yue	Afghanistan is a country	0.1475
+81	bt_nllb_arabic	Afghanistan	0.0328
+81	bt_nllb_french	Afghanistan	0.0328
+81	bt_nllb_korean	Afghanistan	0.0328
+81	bt_nllb_malay	Afghanistan	0.0328
+81	bt_nllb_persian	Afghanistan	0.0328
+81	bt_nllb_russian	Afghanistan	0.0328
+81	bt_nllb_swahili	Afghanistan	0.0328
+81	bt_nllb_tamil	Afghanistan	0.0328
+81	bt_nllb_german	The situation in Afghanistan	0.0
+82	-1	joints	0.0063
+82	bt_nllb_arabic	The joints	0.0063
+82	bt_nllb_french	joint	0.0063
+82	bt_nllb_korean	The joint	0.0063
+82	bt_nllb_malay	joint	0.0063
+82	bt_nllb_persian	The joints	0.0063
+82	bt_nllb_russian	joints	0.0063
+82	bt_nllb_tamil	joints	0.0063
+82	bt_nllb_chinese_yue	We are united	0.0
+82	bt_nllb_german	Other including	0.0
+82	bt_nllb_swahili	the organs	0.0
+83	-1	memory	0.0
+83	bt_nllb_arabic	The memory	0.0
+83	bt_nllb_chinese_yue	Memory	0.0
+83	bt_nllb_french	memory	0.0
+83	bt_nllb_german	Memory	0.0
+83	bt_nllb_korean	Memory	0.0
+83	bt_nllb_malay	The memory	0.0
+83	bt_nllb_persian	The memory	0.0
+83	bt_nllb_russian	The memory	0.0
+83	bt_nllb_swahili	memory	0.0
+83	bt_nllb_tamil	memory	0.0
+84	-1	continental plates	0.3861
+84	bt_nllb_arabic	Continental plates	0.3861
+84	bt_nllb_chinese_yue	The continental plate	0.3861
+84	bt_nllb_french	Continental plates	0.3861
+84	bt_nllb_german	Continental plates	0.3861
+84	bt_nllb_korean	Continental plate	0.3861
+84	bt_nllb_malay	Continental plate	0.3861
+84	bt_nllb_russian	Continental plates	0.3861
+84	bt_nllb_swahili	continental plates	0.3861
+84	bt_nllb_tamil	The continental plates	0.3861
+84	bt_nllb_persian	Continental pages	0.0
+85	-1	milwaukee journal sentinel	0.1433
+85	bt_nllb_persian	The Milwaukee Sentinel	0.148
+85	bt_nllb_arabic	The Milwaukee Journal is a Sentinel	0.1433
+85	bt_nllb_russian	Milwaukee Sentinel magazine	0.1091
+85	bt_nllb_german	The Milwaukee Journal Sentinel is the first of its kind	0.074
+85	bt_nllb_korean	The Milwaukee Journal Sentinel is the first of its kind	0.074
+85	bt_nllb_malay	The Milwaukee Journal Sentinel is the first of its kind	0.074
+85	bt_nllb_french	The Milwaukee Sentinel newspaper	0.0545
+85	bt_nllb_swahili	Milwaukee newspaper sentinel	0.0545
+85	bt_nllb_tamil	The Milwaukee Journal of the Sun	0.0197
+85	bt_nllb_chinese_yue	Milwaukee Diary the Watchman	0.0
+86	-1	bart sf	0.587
+86	bt_nllb_chinese_yue	Bart Sf	0.587
+86	bt_nllb_korean	Bart SF	0.587
+86	bt_nllb_malay	Bart sf	0.587
+86	bt_nllb_russian	Bart SF	0.587
+86	bt_nllb_swahili	Bart Sf	0.587
+86	bt_nllb_arabic	Bart Sword	0.0
+86	bt_nllb_french	the barf	0.0
+86	bt_nllb_german	Bart S F	0.0
+86	bt_nllb_persian	Bart is sorry	0.0
+86	bt_nllb_tamil	Part SF	0.0
+87	-1	who invented music	0.0939
+87	bt_nllb_arabic	Who invented music	0.0939
+87	bt_nllb_french	who invented music	0.0939
+87	bt_nllb_german	Who invented music	0.0939
+87	bt_nllb_persian	Who invented music	0.0939
+87	bt_nllb_russian	Who invented music	0.0939
+87	bt_nllb_swahili	who invented music	0.0939
+87	bt_nllb_chinese_yue	The people who invented music	0.0802
+87	bt_nllb_korean	The man who invented music	0.0331
+87	bt_nllb_malay	who created music	0.0
+87	bt_nllb_tamil	The inventor of music	0.0
+88	-1	forearm pain	0.3435
+88	bt_nllb_french	pain in the forearm	0.3435
+88	bt_nllb_german	Pain in the forearm	0.3435
+88	bt_nllb_russian	pain in the forearm	0.3435
+88	bt_nllb_korean	Pain in the elbow	0.0812
+88	bt_nllb_chinese_yue	My forearm hurts	0.0311
+88	bt_nllb_malay	Lower arm pain	0.0103
+88	bt_nllb_arabic	Pain in the hands	0.0
+88	bt_nllb_persian	Pain under the arm	0.0
+88	bt_nllb_swahili	hip pain	0.0
+88	bt_nllb_tamil	Back pain	0.0
+89	-1	ocd	0.1698
+89	bt_nllb_german	OCD	0.1698
+89	bt_nllb_malay	OCDs	0.1698
+89	bt_nllb_russian	The OCD	0.1698
+89	bt_nllb_arabic	I m sure	0.0
+89	bt_nllb_chinese_yue	It s not	0.0
+89	bt_nllb_french	the	0.0
+89	bt_nllb_korean	Okay you know what	0.0
+89	bt_nllb_persian	Okay what s up	0.0
+89	bt_nllb_swahili	I m going to	0.0
+89	bt_nllb_tamil	October	0.0
+90	-1	mgb	0.2668
+90	bt_nllb_korean	mgb	0.2668
+90	bt_nllb_malay	Mgb	0.2668
+90	bt_nllb_swahili	The Mgb	0.2668
+90	bt_nllb_arabic	The kingdom	0.0
+90	bt_nllb_chinese_yue	It s not	0.0
+90	bt_nllb_french	The Commission	0.0
+90	bt_nllb_german	Other	0.0
+90	bt_nllb_persian	The M B	0.0
+90	bt_nllb_russian	The M G	0.0
+90	bt_nllb_tamil	the	0.0
+91	-1	er tv show	0.1137
+91	bt_nllb_korean	TV show	0.0045
+91	bt_nllb_persian	The TV show	0.0045
+91	bt_nllb_russian	In the TV show	0.0045
+91	bt_nllb_arabic	A television show	0.0
+91	bt_nllb_chinese_yue	Your TV show	0.0
+91	bt_nllb_french	television broadcast	0.0
+91	bt_nllb_german	He s a television show	0.0
+91	bt_nllb_malay	television program	0.0
+91	bt_nllb_swahili	Your television show	0.0
+91	bt_nllb_tamil	Your TV show	0.0
+92	-1	the wall	0.0
+92	bt_nllb_arabic	The wall	0.0
+92	bt_nllb_chinese_yue	The wall	0.0
+92	bt_nllb_french	the wall	0.0
+92	bt_nllb_german	The wall	0.0
+92	bt_nllb_korean	The wall	0.0
+92	bt_nllb_malay	The walls	0.0
+92	bt_nllb_persian	The wall	0.0
+92	bt_nllb_russian	The walls	0.0
+92	bt_nllb_swahili	wall	0.0
+92	bt_nllb_tamil	The wall	0.0
+93	-1	raffles	0.1895
+93	bt_nllb_arabic	The cranes	0.0
+93	bt_nllb_chinese_yue	The lottery	0.0
+93	bt_nllb_french	lotteries	0.0
+93	bt_nllb_german	Winning	0.0
+93	bt_nllb_korean	LottoMable	0.0
+93	bt_nllb_malay	The vote	0.0
+93	bt_nllb_persian	The draw	0.0
+93	bt_nllb_russian	The lottery	0.0
+93	bt_nllb_swahili	the ballot	0.0
+93	bt_nllb_tamil	The Laff	0.0
+94	-1	titan	0.0631
+94	bt_nllb_arabic	The titans	0.0631
+94	bt_nllb_korean	The Titan	0.0631
+94	bt_nllb_malay	Titans	0.0631
+94	bt_nllb_persian	The Titan	0.0631
+94	bt_nllb_russian	The Titan	0.0631
+94	bt_nllb_tamil	the titan	0.0631
+94	bt_nllb_chinese_yue	I mean	0.0
+94	bt_nllb_french	Titanium	0.0
+94	bt_nllb_german	Titanium	0.0
+94	bt_nllb_swahili	Titanium	0.0
+96	-1	rice	0.2663
+96	bt_nllb_arabic	The rice	0.2663
+96	bt_nllb_french	rice	0.2663
+96	bt_nllb_german	Rice	0.2663
+96	bt_nllb_korean	Rice	0.2663
+96	bt_nllb_malay	Rice	0.2663
+96	bt_nllb_persian	Rice	0.2663
+96	bt_nllb_russian	rice	0.2663
+96	bt_nllb_swahili	rice	0.2663
+96	bt_nllb_tamil	rice	0.2663
+96	bt_nllb_chinese_yue	A meter	0.0
+97	-1	south africa	0.0409
+97	bt_nllb_arabic	South Africa	0.0409
+97	bt_nllb_chinese_yue	South Africa	0.0409
+97	bt_nllb_french	South Africa	0.0409
+97	bt_nllb_german	South Africa	0.0409
+97	bt_nllb_korean	South Africa	0.0409
+97	bt_nllb_malay	South Africa	0.0409
+97	bt_nllb_persian	South Africa	0.0409
+97	bt_nllb_russian	South Africa	0.0409
+97	bt_nllb_swahili	South Africa	0.0409
+97	bt_nllb_tamil	South Africa	0.0409
+98	-1	sat	0.1442
+98	bt_nllb_arabic	He sat down	0.0
+98	bt_nllb_chinese_yue	Sit down	0.0
+98	bt_nllb_french	instead	0.0
+98	bt_nllb_german	Seating	0.0
+98	bt_nllb_korean	I m sitting here	0.0
+98	bt_nllb_malay	Sit down	0.0
+98	bt_nllb_persian	He s sitting down	0.0
+98	bt_nllb_russian	I m sitting down	0.0
+98	bt_nllb_swahili	sitting down	0.0
+98	bt_nllb_tamil	sitting	0.0
+99	-1	satellite	0.0
+99	bt_nllb_arabic	The satellite	0.0
+99	bt_nllb_chinese_yue	Satellites are	0.0
+99	bt_nllb_french	satellite	0.0
+99	bt_nllb_german	Satellites	0.0
+99	bt_nllb_korean	Satellite	0.0
+99	bt_nllb_malay	Satellite	0.0
+99	bt_nllb_persian	A satellite	0.0
+99	bt_nllb_russian	The satellite	0.0
+99	bt_nllb_swahili	satellite	0.0
+99	bt_nllb_tamil	The satellite	0.0
+101	-1	ritz carlton lake las vegas	0.3097
+101	bt_nllb_arabic	Ritz Carlton the lake of Las Vegas	0.3097
+101	bt_nllb_french	The Ritz Carlton Lake in Las Vegas	0.3097
+101	bt_nllb_malay	The Ritz Carlton Lake in Las Vegas	0.3097
+101	bt_nllb_persian	Ritz Carlton at the Las Vegas Lake	0.3097
+101	bt_nllb_swahili	Ritz Carlton lake Las Vegas	0.3097
+101	bt_nllb_chinese_yue	The Ritz Carlton Lake in Las Vegas is a great place to visit	0.301
+101	bt_nllb_korean	It s not like I m not a big fan of the Ritz Carlton Lake Las Vegas	0.2479
+101	bt_nllb_german	Ritz Carlton Lake Las Vegas is located in the heart of downtown Las Vegas	0.2037
+101	bt_nllb_tamil	The Ritz Carlton Lake Las Vegas is a small lake in the southwest of the United States	0.1817
+101	bt_nllb_russian	It s not like I m not a big fan of the show	0.0
+102	-1	fickle creek farm	0.021
+102	bt_nllb_arabic	The changing water farm	0.0
+102	bt_nllb_chinese_yue	This farm	0.0
+102	bt_nllb_french	creek farm unstable	0.0
+102	bt_nllb_german	unstable Creek Farm	0.0
+102	bt_nllb_korean	The dynamic Creek Farm	0.0
+102	bt_nllb_malay	Creek farm unstable	0.0
+102	bt_nllb_persian	The farm is changing	0.0
+102	bt_nllb_russian	The farm is not stopping	0.0
+102	bt_nllb_swahili	a river field	0.0
+102	bt_nllb_tamil	The river farm changed	0.0
+103	-1	madam cj walker	0.1467
+103	bt_nllb_russian	Madam K W Walker please	0.1545
+103	bt_nllb_swahili	Madam cj walker	0.1467
+103	bt_nllb_korean	Mother CJ Walker is here	0.1077
+103	bt_nllb_chinese_yue	CJ Walker you know	0.0618
+103	bt_nllb_persian	Mrs J Walker you know what	0.0162
+103	bt_nllb_french	Mrs C J Walker is here	0.0131
+103	bt_nllb_arabic	Mrs J J Walker is here	0.0
+103	bt_nllb_german	Mrs C J Walker	0.0
+103	bt_nllb_malay	Miss C Walker is here	0.0
+103	bt_nllb_tamil	The first is the story of a young man named John	0.0
+104	-1	indiana child support	0.1135
+104	bt_nllb_german	Child support from Indiana	0.1792
+104	bt_nllb_arabic	Child support in Indiana	0.1135
+104	bt_nllb_korean	Indiana Child Support	0.1135
+104	bt_nllb_russian	Indiana child support	0.1135
+104	bt_nllb_tamil	Indiana Child Support	0.1135
+104	bt_nllb_chinese_yue	India s food supply	0.0
+104	bt_nllb_french	support for Indian children	0.0
+104	bt_nllb_malay	Indian child support	0.0
+104	bt_nllb_persian	Financial aid for children	0.0
+104	bt_nllb_swahili	help for children in Indiana	0.0
+105	-1	sonoma county medical services	0.3127
+105	bt_nllb_arabic	Medical services in Sonoma County	0.3127
+105	bt_nllb_french	medical services in Sonoma County	0.3127
+105	bt_nllb_german	medical services in Sonoma County	0.3127
+105	bt_nllb_malay	Sonoma County medical services	0.3127
+105	bt_nllb_persian	The Sonoma County Medical Services	0.3127
+105	bt_nllb_russian	medical services of Sonoma County	0.3127
+105	bt_nllb_swahili	Medical services in the state of Sonoma	0.2096
+105	bt_nllb_chinese_yue	Health services in Sonoma County	0.2023
+105	bt_nllb_korean	Sonoma County Health Services	0.2023
+105	bt_nllb_tamil	Sonoma District Medical Services	0.1013
+106	-1	universal animal cuts reviews	0.0829
+106	bt_nllb_korean	A universal animal cutting review	0.0829
+106	bt_nllb_malay	universal animal cutting reviews	0.0829
+106	bt_nllb_russian	Universal reviews of animal cuts	0.0829
+106	bt_nllb_arabic	International animal cuts reviews	0.0
+106	bt_nllb_chinese_yue	Commonly animals cut their ratings	0.0
+106	bt_nllb_french	the universal examination of animal cuts	0.0
+106	bt_nllb_german	Checks on animal returns	0.0
+106	bt_nllb_persian	Global surveys of animal slaughter	0.0
+106	bt_nllb_swahili	reviews of common animals	0.0
+106	bt_nllb_tamil	Common cutting estimates of animals	0.0
+107	-1	cass county missouri	0.267
+107	bt_nllb_chinese_yue	Cass County Missouri	0.267
+107	bt_nllb_french	Cass County Missouri	0.267
+107	bt_nllb_german	Cass County Missouri	0.267
+107	bt_nllb_korean	Cass County Missouri	0.267
+107	bt_nllb_malay	Cass County Missouri	0.267
+107	bt_nllb_swahili	Cass County Missouri	0.267
+107	bt_nllb_tamil	Cass County Missouri	0.267
+107	bt_nllb_russian	The Missouri County Courthouse	0.009
+107	bt_nllb_arabic	Missouri County Cup	0.0
+107	bt_nllb_persian	The caste of Missouri	0.0
+108	-1	ralph owen brewster	0.6837
+108	bt_nllb_french	Ralph Owen Brewster	0.6837
+108	bt_nllb_german	Ralph Owen Brewster	0.6837
+108	bt_nllb_korean	Ralph Owen Brewster	0.6837
+108	bt_nllb_malay	Ralph Owen Brewster	0.6837
+108	bt_nllb_persian	Ralph Owen Brewster	0.6837
+108	bt_nllb_russian	Ralph Owen Brewster	0.6837
+108	bt_nllb_swahili	Ralph Owen Brewster	0.6837
+108	bt_nllb_chinese_yue	Ralph Owen Brewster is the first	0.6368
+108	bt_nllb_arabic	Ralph Owen Bruster	0.0
+108	bt_nllb_tamil	The Bible is a book of the Bible	0.0
+109	-1	mayo clinic jacksonville fl	0.0
+109	bt_nllb_arabic	The Mayo Jacksonville clinic in Florida	0.0325
+109	bt_nllb_french	The Mayo Clinic in Jacksonville Florida	0.0325
+109	bt_nllb_chinese_yue	The May Clinic in Jacksonville Florida	0.0
+109	bt_nllb_german	The Mayo Clinic in Jacksonville FL	0.0
+109	bt_nllb_korean	The main clinic is in Jacksonville FL	0.0
+109	bt_nllb_malay	The Mayo Clinic in Jacksonville FL	0.0
+109	bt_nllb_persian	The Jacksonville Mall clinic FL	0.0
+109	bt_nllb_russian	The Mayo Clinic of Jacksonville FL	0.0
+109	bt_nllb_swahili	The Mayo Clinic in Jacksonville FL	0.0
+109	bt_nllb_tamil	The Mayo Clinic in Jacksonville FL is located in Jacksonville FL	0.0
+110	-1	map of brazil	0.2393
+110	bt_nllb_arabic	Map of Brazil	0.2393
+110	bt_nllb_chinese_yue	Map of Brazil	0.2393
+110	bt_nllb_french	map of Brazil	0.2393
+110	bt_nllb_german	Map of Brazil	0.2393
+110	bt_nllb_korean	Map of Brazil	0.2393
+110	bt_nllb_malay	map of Brazil	0.2393
+110	bt_nllb_persian	The map of Brazil	0.2393
+110	bt_nllb_russian	Map of Brazil	0.2393
+110	bt_nllb_swahili	map of Brazil	0.2393
+110	bt_nllb_tamil	Map of Brazil	0.2393
+111	-1	lymphoma in dogs	0.2822
+111	bt_nllb_chinese_yue	Lymphomas in dogs	0.2822
+111	bt_nllb_french	lymphoma in dogs	0.2822
+111	bt_nllb_german	Lymphoma in dogs	0.2822
+111	bt_nllb_korean	Dog lymphoma	0.2822
+111	bt_nllb_malay	lymphoma in dogs	0.2822
+111	bt_nllb_persian	Lymphoma in dogs	0.2822
+111	bt_nllb_russian	lymphoma in dogs	0.2822
+111	bt_nllb_swahili	lymphoma in dogs	0.2822
+111	bt_nllb_tamil	Lymphoma in dogs	0.2822
+111	bt_nllb_arabic	Lymphatic cancer in dogs	0.0142
+112	-1	kenmore gas water heater	0.0
+112	bt_nllb_arabic	The heat of the gas water Kenmore	0.0
+112	bt_nllb_chinese_yue	Kenmore gas heater	0.0
+112	bt_nllb_french	Kenmore gas water heater	0.0
+112	bt_nllb_german	Kenmore gas water heating	0.0
+112	bt_nllb_korean	Kenmore gas water heater	0.0
+112	bt_nllb_malay	Kenmore gas water heater	0.0
+112	bt_nllb_persian	The Kenmore gas heater	0.0
+112	bt_nllb_russian	Canmore gas water heater	0.0
+112	bt_nllb_swahili	Kenmore gas water heater	0.0
+112	bt_nllb_tamil	Kenmore gas water heater	0.0
+113	-1	hp mini 2140	0.0
+113	bt_nllb_arabic	A little horse	0.0
+113	bt_nllb_chinese_yue	The HP mini	0.0
+113	bt_nllb_french	The mini	0.0
+113	bt_nllb_german	Other equipment	0.0
+113	bt_nllb_korean	HP Mini	0.0
+113	bt_nllb_malay	The mini	0.0
+113	bt_nllb_persian	The mini	0.0
+113	bt_nllb_russian	The power of the engine	0.0
+113	bt_nllb_swahili	hp mini	0.0
+113	bt_nllb_tamil	HP Mini	0.0
+114	-1	adobe indian houses	0.0829
+114	bt_nllb_french	Indian houses adobe	0.0829
+114	bt_nllb_german	adobe Indian houses	0.0829
+114	bt_nllb_korean	The Adob Indian House	0.0829
+114	bt_nllb_tamil	Adobe Indian Houses	0.0829
+114	bt_nllb_arabic	Indian houses	0.0
+114	bt_nllb_chinese_yue	Indian family	0.0
+114	bt_nllb_malay	house of the indies adobe	0.0
+114	bt_nllb_persian	Indian houses	0.0
+114	bt_nllb_russian	The Abode Indian houses	0.0
+114	bt_nllb_swahili	Indian houses	0.0
+115	-1	pacific northwest laboratory	0.1027
+115	bt_nllb_arabic	Pacific Northwest lab	0.2385
+115	bt_nllb_persian	Pacific Northwest lab	0.2385
+115	bt_nllb_chinese_yue	Pacific Northwest Laboratory	0.1027
+115	bt_nllb_french	Northwest Pacific laboratory	0.1027
+115	bt_nllb_german	Pacific Northwest Laboratory	0.1027
+115	bt_nllb_korean	Pacific Northwest Laboratory	0.1027
+115	bt_nllb_malay	Pacific Northwest Laboratory	0.1027
+115	bt_nllb_russian	Pacific Northwest Laboratory	0.1027
+115	bt_nllb_swahili	Pacific Northwest laboratory	0.1027
+115	bt_nllb_tamil	The Pacific Northwest Laboratory	0.1027
+116	-1	california franchise tax board	0.2424
+116	bt_nllb_german	California Franchise Tax Board	0.2424
+116	bt_nllb_malay	California tax board franchises	0.2424
+116	bt_nllb_swahili	California franchise tax board	0.2424
+116	bt_nllb_chinese_yue	The California Franchise Tax Agency	0.1873
+116	bt_nllb_persian	The California Franchise Tax Agency	0.1873
+116	bt_nllb_french	The California Board of Franchise Taxation	0.1081
+116	bt_nllb_korean	The California Franchise Tax Commission	0.0734
+116	bt_nllb_russian	California Council on Franchise Taxation	0.0711
+116	bt_nllb_tamil	The California Board of Licensing Tax	0.0196
+116	bt_nllb_arabic	The California Privileges and Immunities Board	0.0
+117	-1	dangers of asbestos	0.1264
+117	bt_nllb_arabic	The dangers of asbestos	0.1264
+117	bt_nllb_french	dangers of asbestos	0.1264
+117	bt_nllb_korean	The dangers of asbestos	0.1264
+117	bt_nllb_persian	The dangers of Asbestos	0.1264
+117	bt_nllb_tamil	The dangers of asbestos	0.1264
+117	bt_nllb_russian	the risks of asbestos	0.0711
+117	bt_nllb_chinese_yue	The harm of asbestos	0.0264
+117	bt_nllb_german	Hazards of asbestos	0.0202
+117	bt_nllb_malay	Asbestos hazards	0.0202
+117	bt_nllb_swahili	The dangers of amnesia	0.0
+118	-1	poem in your pocket day	0.3582
+118	bt_nllb_arabic	A poem in your pocket day	0.3582
+118	bt_nllb_malay	Poems in your pocket day	0.3582
+118	bt_nllb_persian	Poem in your pocket day	0.3582
+118	bt_nllb_tamil	Your pocket day poem	0.3582
+118	bt_nllb_german	Poem in the Pocket Day	0.358
+118	bt_nllb_french	Poem in your pocket	0.3289
+118	bt_nllb_korean	Poetry is the day of the pocket	0.2977
+118	bt_nllb_chinese_yue	Poetry is in your pocket	0.2486
+118	bt_nllb_russian	Poem in my pocket	0.2001
+118	bt_nllb_swahili	Poem in your day bag	0.0
+119	-1	interview thank you	0.2709
+119	bt_nllb_arabic	The interview Thank you	0.2709
+119	bt_nllb_chinese_yue	Thank you for the interview	0.2709
+119	bt_nllb_french	Thank you for the interview	0.2709
+119	bt_nllb_german	Thank you for the interview	0.2709
+119	bt_nllb_korean	Thank you for the interview	0.2709
+119	bt_nllb_malay	Thank you for the interview	0.2709
+119	bt_nllb_persian	Thank you for the interview	0.2709
+119	bt_nllb_swahili	Thank you for the interview	0.2709
+119	bt_nllb_tamil	Thank you for the interview	0.2709
+119	bt_nllb_russian	I asked Thank you	0.0
+120	-1	tv on computer	0.0855
+120	bt_nllb_arabic	TV on the computer	0.0855
+120	bt_nllb_chinese_yue	TV on the computer	0.0855
+120	bt_nllb_korean	TV on the computer	0.0855
+120	bt_nllb_malay	TV on the computer	0.0855
+120	bt_nllb_persian	TV on the computer	0.0855
+120	bt_nllb_russian	TV on the computer	0.0855
+120	bt_nllb_tamil	TV on the computer	0.0855
+120	bt_nllb_french	television on computer	0.0646
+120	bt_nllb_german	Television on the computer	0.0646
+120	bt_nllb_swahili	television on a computer	0.0646
+121	-1	sit and reach test	0.2051
+121	bt_nllb_korean	Sitting and reaching test	0.2051
+121	bt_nllb_malay	test sit and reach	0.2051
+121	bt_nllb_swahili	test to sit and reach	0.2051
+121	bt_nllb_chinese_yue	The test is sitting	0.0382
+121	bt_nllb_tamil	The test of sitting	0.0382
+121	bt_nllb_russian	Sitting and achievement test	0.0206
+121	bt_nllb_arabic	The seating and access test	0.0
+121	bt_nllb_french	seat and range test	0.0
+121	bt_nllb_german	The following information shall be provided	0.0
+121	bt_nllb_persian	The test of sitting and arriving	0.0
+122	-1	culpeper national cemetery	0.2442
+122	bt_nllb_chinese_yue	Culpeper National Cemetery	0.2442
+122	bt_nllb_french	the Culpeper National Cemetery	0.2442
+122	bt_nllb_german	Culpeper National Cemetery	0.2442
+122	bt_nllb_korean	The National Cemetery of Culpeper	0.2442
+122	bt_nllb_malay	Culpeper s national cemetery	0.2442
+122	bt_nllb_persian	Culpeper National Cemetery	0.2442
+122	bt_nllb_russian	Culpeper National Cemetery	0.2442
+122	bt_nllb_swahili	Culpeper national cemetery	0.2442
+122	bt_nllb_arabic	The national cemetery of Collier	0.0
+122	bt_nllb_tamil	The National Cemetery of the Criminal	0.0
+123	-1	von willebrand disease	0.3961
+123	bt_nllb_chinese_yue	Von Willebrand s disease is the most common	0.4007
+123	bt_nllb_french	The disease of von Willebrand	0.3961
+123	bt_nllb_malay	The disease of von Willebrand	0.3961
+123	bt_nllb_swahili	von Willebrand s disease	0.3869
+123	bt_nllb_german	of Willebrand s disease	0.3661
+123	bt_nllb_korean	The Von Wilbrand disease is	0.0684
+123	bt_nllb_arabic	Von Wilbrand s illness	0.0
+123	bt_nllb_persian	The illness of Von Wilbernd	0.0
+123	bt_nllb_russian	The illness of von Wilbrand	0.0
+123	bt_nllb_tamil	The illness of Van Wilbrandt	0.0
+124	-1	bowflex power pro	0.1243
+124	bt_nllb_french	Power for bowflex	0.1752
+124	bt_nllb_german	Bowflex Power Pro	0.1243
+124	bt_nllb_malay	Power pro bowflex	0.1243
+124	bt_nllb_swahili	bowflex power pro	0.1243
+124	bt_nllb_tamil	bowflex power dependent	0.0887
+124	bt_nllb_arabic	The power of the moving bow	0.0
+124	bt_nllb_chinese_yue	Light supply	0.0
+124	bt_nllb_korean	Flex Power Pro	0.0
+124	bt_nllb_persian	Believe in Peru	0.0
+124	bt_nllb_russian	Professional bouflex	0.0
+125	-1	butter and margarine	0.2532
+125	bt_nllb_arabic	Butter and margarine	0.2532
+125	bt_nllb_german	Butter and margarine	0.2532
+125	bt_nllb_malay	Butter and margarine	0.2532
+125	bt_nllb_tamil	Ney and Margarine	0.1115
+125	bt_nllb_russian	oil and margarine	0.1049
+125	bt_nllb_swahili	Oil and margarine	0.1049
+125	bt_nllb_chinese_yue	Oil and madarin	0.0
+125	bt_nllb_french	coat and margarine	0.0
+125	bt_nllb_korean	Butter and Margaret	0.0
+125	bt_nllb_persian	Correa and Margarine	0.0
+126	-1	us capitol map	0.0
+126	bt_nllb_french	map of the capitol of the united states	0.0525
+126	bt_nllb_arabic	Map of the United States	0.0
+126	bt_nllb_chinese_yue	Map of the capital of the United States	0.0
+126	bt_nllb_german	US chapter card	0.0
+126	bt_nllb_korean	Map of the capital of the United States	0.0
+126	bt_nllb_malay	city map	0.0
+126	bt_nllb_persian	Map of the capital of the United States	0.0
+126	bt_nllb_russian	map of the capital of the United States	0.0
+126	bt_nllb_swahili	map of the capital of the United States	0.0
+126	bt_nllb_tamil	Map of the U S capital	0.0
+127	-1	dutchess county tourism	0.3293
+127	bt_nllb_tamil	Dutchess County Tourism	0.3293
+127	bt_nllb_arabic	Tourism in the province of Holland	0.0
+127	bt_nllb_chinese_yue	Tour of the Dutch province	0.0
+127	bt_nllb_french	tourism in the Dutch county	0.0
+127	bt_nllb_german	Tourism in the Dutch county	0.0
+127	bt_nllb_korean	Tourist of the Dutch county	0.0
+127	bt_nllb_malay	Dutch regional tourism	0.0
+127	bt_nllb_persian	Tourism in the Netherlands	0.0
+127	bt_nllb_russian	Tourism in the Netherlands	0.0
+127	bt_nllb_swahili	Tourist district of the Netherlands	0.0
+128	-1	atypical squamous cells	0.2131
+128	bt_nllb_french	atypical squamous cells	0.2131
+128	bt_nllb_swahili	atypical squamous cells	0.2131
+128	bt_nllb_tamil	Atypical squamous cells	0.2131
+128	bt_nllb_russian	Atypical flat cells	0.0963
+128	bt_nllb_malay	unusual squamous cells	0.0059
+128	bt_nllb_arabic	The stem cells are not typical	0.0
+128	bt_nllb_chinese_yue	It s a homotype of cells	0.0
+128	bt_nllb_german	Not typical foam cells	0.0
+128	bt_nllb_korean	Unusual vertical cells	0.0
+128	bt_nllb_persian	Unusual scamming cells	0.0
+129	-1	iowa food stamp program	0.0906
+129	bt_nllb_tamil	Iowa Food Stamp Program	0.0906
+129	bt_nllb_korean	Iowa s food stamp program	0.0583
+129	bt_nllb_arabic	The Iowa Food Card Program	0.0094
+129	bt_nllb_chinese_yue	The Iowa Food Tickets Program	0.0
+129	bt_nllb_french	Iowa s good food program	0.0
+129	bt_nllb_german	Iowa food tempering program	0.0
+129	bt_nllb_malay	Iowa food mining program	0.0
+129	bt_nllb_persian	Eva s food schedule	0.0
+129	bt_nllb_russian	The Iowa Food Mark Program	0.0
+129	bt_nllb_swahili	Iowa s food hand program	0.0
+130	-1	fact on uranus	0.2486
+130	bt_nllb_korean	The Facts About Uranus	0.2651
+130	bt_nllb_persian	The truth about Uranus	0.0022
+130	bt_nllb_tamil	The truth about Uranus	0.0022
+130	bt_nllb_arabic	The truth about uranium	0.0
+130	bt_nllb_chinese_yue	The truth about amnesia	0.0
+130	bt_nllb_french	made of uranium	0.0
+130	bt_nllb_german	The Uranium Fact	0.0
+130	bt_nllb_malay	facts about uranium	0.0
+130	bt_nllb_russian	Facts about uranium	0.0
+130	bt_nllb_swahili	The truth about uranium	0.0
+131	-1	equal opportunity employer	0.1521
+131	bt_nllb_arabic	Equal employer in opportunity	0.1521
+131	bt_nllb_french	equal opportunities employer	0.1521
+131	bt_nllb_korean	Employers with equal opportunities	0.1521
+131	bt_nllb_malay	Employers of equal opportunity	0.1521
+131	bt_nllb_persian	Employers of equal opportunity	0.1521
+131	bt_nllb_russian	Employer on equal opportunities	0.1521
+131	bt_nllb_swahili	equal opportunities employer	0.1521
+131	bt_nllb_german	Employers with equal rights	0.0778
+131	bt_nllb_tamil	An employer that provides equal opportunities	0.0481
+131	bt_nllb_chinese_yue	Employers of gay opportunities	0.0
+132	-1	mothers day songs	0.1392
+132	bt_nllb_arabic	Mother s day songs	0.1375
+132	bt_nllb_chinese_yue	Mother s Day song	0.1375
+132	bt_nllb_french	songs for Mother s Day	0.1375
+132	bt_nllb_german	Mother s day songs	0.1375
+132	bt_nllb_korean	Mother s day song	0.1375
+132	bt_nllb_malay	Mother s day song	0.1375
+132	bt_nllb_persian	Mother s Day songs	0.1375
+132	bt_nllb_russian	Mother s Day songs	0.1375
+132	bt_nllb_swahili	Mother s day songs	0.1375
+132	bt_nllb_tamil	Mother s Day songs	0.1375
+133	-1	all men are created equal	0.1948
+133	bt_nllb_arabic	All men are created equal	0.1948
+133	bt_nllb_french	All men are created equal	0.1948
+133	bt_nllb_german	All men are created equal	0.1948
+133	bt_nllb_malay	All men are created equal	0.1948
+133	bt_nllb_persian	All men are created equal	0.1948
+133	bt_nllb_tamil	All men are created equal	0.1948
+133	bt_nllb_chinese_yue	We are all created equal	0.1574
+133	bt_nllb_swahili	All humans are created equal	0.0734
+133	bt_nllb_russian	All men are equal	0.0595
+133	bt_nllb_korean	And every human being is created equal	0.0156
+134	-1	electronic skeet shoot	0.0221
+134	bt_nllb_arabic	Electronic fire	0.0
+134	bt_nllb_chinese_yue	The electronic skateboard is shooting	0.0
+134	bt_nllb_french	shooting at the electronic hook	0.0
+134	bt_nllb_german	Electronic firearms	0.0
+134	bt_nllb_korean	I m shooting the electronic skits	0.0
+134	bt_nllb_malay	electronic skeleton shooter	0.0
+134	bt_nllb_persian	Electric shot	0.0
+134	bt_nllb_russian	The electronic shot	0.0
+134	bt_nllb_swahili	electronic skeet shot	0.0
+134	bt_nllb_tamil	Shooting on an electronic skate	0.0
+135	-1	source of the nile	0.1584
+135	bt_nllb_arabic	The source of the Nile	0.1584
+135	bt_nllb_chinese_yue	The source of the Nile	0.1584
+135	bt_nllb_french	source of the Nile	0.1584
+135	bt_nllb_german	Source of the Nile	0.1584
+135	bt_nllb_malay	source of the Nile	0.1584
+135	bt_nllb_persian	The source of the Nile	0.1584
+135	bt_nllb_russian	The source of the Nile	0.1584
+135	bt_nllb_swahili	source of the Nile	0.1584
+135	bt_nllb_tamil	The source of the Nile	0.1584
+135	bt_nllb_korean	The source of the Nile River	0.0
+136	-1	american military university	0.0
+136	bt_nllb_arabic	A U S military college	0.0
+136	bt_nllb_chinese_yue	The US military	0.0
+136	bt_nllb_french	U S military university	0.0
+136	bt_nllb_german	American Military University	0.0
+136	bt_nllb_korean	The U S Military Academy	0.0
+136	bt_nllb_malay	The U S Military University	0.0
+136	bt_nllb_persian	The U S Military Academy	0.0
+136	bt_nllb_russian	The American Military University	0.0
+136	bt_nllb_swahili	U S military university	0.0
+136	bt_nllb_tamil	The United States Military University	0.0
+137	-1	rock and gem shows	0.2549
+137	bt_nllb_chinese_yue	The rock and the gem show	0.2549
+137	bt_nllb_malay	rock and gem show	0.2549
+137	bt_nllb_arabic	The rock and jewelry show	0.1667
+137	bt_nllb_german	Rock and jewelry shows	0.1667
+137	bt_nllb_korean	Rock and jewelry show	0.1667
+137	bt_nllb_persian	Rock and jewelry shows	0.1667
+137	bt_nllb_russian	Rock and jewelry show	0.1667
+137	bt_nllb_swahili	exhibitions of stone and jewelry	0.0194
+137	bt_nllb_tamil	Rock and Rock shows	0.0048
+137	bt_nllb_french	rock and precious stones	0.0
+138	-1	jax chemical company	0.6447
+138	bt_nllb_arabic	Jax Chemical Company	0.6447
+138	bt_nllb_french	chemical company jax	0.6447
+138	bt_nllb_german	Jax chemical companies	0.6447
+138	bt_nllb_korean	The Jax Chemical Company	0.6447
+138	bt_nllb_malay	chemical company jax	0.6447
+138	bt_nllb_swahili	chemical company jax	0.6447
+138	bt_nllb_chinese_yue	Jax Chemical Co	0.4914
+138	bt_nllb_persian	The Jicks Chemical Company	0.0
+138	bt_nllb_russian	The Yaks Chemical Company	0.0
+138	bt_nllb_tamil	The Jacks Institute of Chemistry	0.0
+139	-1	rocky mountain news	0.1034
+139	bt_nllb_arabic	News from the Rockies	0.1749
+139	bt_nllb_french	The News of the Rocky Mountain	0.1034
+139	bt_nllb_persian	The news of the Rocky Mountains	0.1034
+139	bt_nllb_russian	News of the Rocky Mountains	0.1034
+139	bt_nllb_chinese_yue	The Rock Mountain News	0.0
+139	bt_nllb_german	Mountains from the Rocky Mountains	0.0
+139	bt_nllb_korean	The news on the rock	0.0
+139	bt_nllb_malay	volcanic news	0.0
+139	bt_nllb_swahili	the story of the wild mountain	0.0
+139	bt_nllb_tamil	The Rockley Mountain News	0.0
+140	-1	east ridge high school	0.1407
+140	bt_nllb_arabic	High school in East Ridge	0.1407
+140	bt_nllb_french	East Ridge High School	0.1407
+140	bt_nllb_german	East Ridge High School	0.1407
+140	bt_nllb_korean	East Ridge High School	0.1407
+140	bt_nllb_malay	East Ridge High School	0.1407
+140	bt_nllb_persian	East Ridge High School	0.1407
+140	bt_nllb_russian	East Ridge High School	0.1407
+140	bt_nllb_swahili	East Ridge High School	0.1407
+140	bt_nllb_tamil	East Ridge High School	0.1407
+140	bt_nllb_chinese_yue	East Mountain High School	0.0
+141	-1	va dmv registration	0.1322
+141	bt_nllb_korean	Register the dmv	0.196
+141	bt_nllb_malay	registration of dmv	0.1274
+141	bt_nllb_russian	registration in the DMV	0.1274
+141	bt_nllb_swahili	registration of the dmv	0.1274
+141	bt_nllb_chinese_yue	I m registered with DMV	0.0123
+141	bt_nllb_arabic	The recording	0.0
+141	bt_nllb_french	of depositary registration	0.0
+141	bt_nllb_german	the submission of the	0.0
+141	bt_nllb_persian	Registered	0.0
+141	bt_nllb_tamil	The recording	0.0
+142	-1	illinois state tax	0.0884
+142	bt_nllb_chinese_yue	Illinois tax rate	0.1142
+142	bt_nllb_arabic	Illinois state tax	0.0884
+142	bt_nllb_german	Illinois State tax	0.0884
+142	bt_nllb_korean	Taxes in the state of Illinois	0.0884
+142	bt_nllb_malay	taxes of the state of Illinois	0.0884
+142	bt_nllb_tamil	Illinois State Tax	0.0884
+142	bt_nllb_russian	The Illinois tax code	0.0278
+142	bt_nllb_french	taxation of the State of Illinois	0.0
+142	bt_nllb_persian	Taxation in the State of Illinois	0.0
+142	bt_nllb_swahili	taxation of the state of Illinois	0.0
+143	-1	arkadelphia health club	0.0
+143	bt_nllb_arabic	The health club	0.0
+143	bt_nllb_chinese_yue	The Arkadelphia Health Club	0.0
+143	bt_nllb_french	health club of arcadelphia	0.0
+143	bt_nllb_german	The Arkadelphia Health Association	0.0
+143	bt_nllb_korean	The Acadelfia Health Club	0.0
+143	bt_nllb_malay	the arkadelphia health club	0.0
+143	bt_nllb_persian	The Archadelfia Health Club	0.0
+143	bt_nllb_russian	The Arcadelphian health club	0.0
+143	bt_nllb_swahili	Arkadelphia health club	0.0
+143	bt_nllb_tamil	The Arcadia Health Society is a nonprofit organization that provides health care services to children and youths	0.0
+144	-1	trombone for sale	0.3059
+144	bt_nllb_french	trombone for sale	0.3059
+144	bt_nllb_german	Trombones for sale	0.3059
+144	bt_nllb_korean	Trombone sales	0.3059
+144	bt_nllb_malay	trombone for sale	0.3059
+144	bt_nllb_russian	Trombones for sale	0.3059
+144	bt_nllb_swahili	Trombone for sale	0.3059
+144	bt_nllb_tamil	Trombone for sale	0.3059
+144	bt_nllb_arabic	Trampons for sale	0.0
+144	bt_nllb_chinese_yue	It s sold	0.0
+144	bt_nllb_persian	Trampons for sale	0.0
+145	-1	vines for shade	0.2168
+145	bt_nllb_korean	A vine for shade	0.2168
+145	bt_nllb_malay	Vine for shade	0.2168
+145	bt_nllb_tamil	The vine shoulder for shade	0.1513
+145	bt_nllb_arabic	The grapes for the shade	0.0277
+145	bt_nllb_russian	Grapevine for shade	0.0076
+145	bt_nllb_swahili	shady grapes	0.006
+145	bt_nllb_chinese_yue	Fruit	0.0
+145	bt_nllb_french	vineyards in the shade	0.0
+145	bt_nllb_german	Vineyards for shade	0.0
+145	bt_nllb_persian	Grapes for the Shadow	0.0
+146	-1	sherwood regional library	0.4104
+146	bt_nllb_arabic	The regional library in Sherwood	0.4104
+146	bt_nllb_chinese_yue	Sherwood Regional Library	0.4104
+146	bt_nllb_french	Sherwood Regional Library	0.4104
+146	bt_nllb_german	The Sherwood Regional Library	0.4104
+146	bt_nllb_malay	the Sherwood regional library	0.4104
+146	bt_nllb_persian	The Sherwood Regional Library	0.4104
+146	bt_nllb_russian	Sherwood Regional Library	0.4104
+146	bt_nllb_tamil	The Sherwood Regional Library	0.4104
+146	bt_nllb_korean	Sherwood County Library	0.248
+146	bt_nllb_swahili	sherwood strip library	0.0558
+147	-1	tangible personal property tax	0.3736
+147	bt_nllb_french	Tax on tangible personal property	0.3736
+147	bt_nllb_persian	Personal property tax is a tangible tax	0.3669
+147	bt_nllb_arabic	Personal property tax	0.0956
+147	bt_nllb_chinese_yue	Personal property tax	0.0956
+147	bt_nllb_swahili	personal property tax	0.0956
+147	bt_nllb_malay	real personal property tax	0.0569
+147	bt_nllb_russian	tax on material property	0.0197
+147	bt_nllb_tamil	A substantial personal property tax	0.0059
+147	bt_nllb_german	The amount of the adjustment shall be reported in the following column	0.0
+147	bt_nllb_korean	The invisible personal property tax	0.0
+148	-1	martha stewart and imclone	0.4343
+148	bt_nllb_chinese_yue	Martha Stewart and Imclone	0.4343
+148	bt_nllb_french	Martha Stewart and Imclone	0.4343
+148	bt_nllb_german	Martha Stewart and Imclone	0.4343
+148	bt_nllb_malay	Martha Stewart and the Imclone	0.4343
+148	bt_nllb_swahili	Martha Stewart and Imclone	0.4343
+148	bt_nllb_arabic	Martha Stewart and Emklone	0.0199
+148	bt_nllb_korean	Martha Stewart and the Imklone	0.0199
+148	bt_nllb_persian	Martha Stewart and Emklone	0.0199
+148	bt_nllb_russian	Martha Stewart and Imklone	0.0199
+148	bt_nllb_tamil	Martha Stewart and Imklone	0.0199
+149	-1	uplift at yellowstone national park	0.3164
+149	bt_nllb_swahili	uplift in Yellowstone National Park	0.3164
+149	bt_nllb_malay	Increases in Yellowstone National Park	0.203
+149	bt_nllb_french	Yellowstone National Park	0.1319
+149	bt_nllb_chinese_yue	The rise of Yellowstone National Park	0.0949
+149	bt_nllb_tamil	Rise in Yellowstone National Park	0.0949
+149	bt_nllb_german	Rise and Fall in Yellowstone National Park	0.0783
+149	bt_nllb_korean	The elevator at the Yellowstone National Park	0.0346
+149	bt_nllb_arabic	Raised in Yellowstone National Park	0.0334
+149	bt_nllb_persian	Promotion at Yellowstone National Park	0.0
+149	bt_nllb_russian	The climb in Yellowstone National Park	0.0
+150	-1	tn highway patrol	0.0788
+150	bt_nllb_chinese_yue	TN Highway Patrol	0.0788
+150	bt_nllb_tamil	tn Highway Patrol	0.0788
+150	bt_nllb_russian	TN of the road patrol	0.0744
+150	bt_nllb_swahili	tn road patrol	0.0744
+150	bt_nllb_arabic	Highway patrol	0.0
+150	bt_nllb_french	Road patrol	0.0
+150	bt_nllb_german	Tn motorway patrol	0.0
+150	bt_nllb_korean	Highway patrol	0.0
+150	bt_nllb_malay	Mr Highwayman	0.0
+150	bt_nllb_persian	Highway patrol	0.0
+151	-1	403b	0.0
+151	bt_nllb_arabic	b	0.0
+151	bt_nllb_chinese_yue	b	0.0
+151	bt_nllb_french	Other	0.0
+151	bt_nllb_german	b	0.0
+151	bt_nllb_korean	b	0.0
+151	bt_nllb_malay	b	0.0
+151	bt_nllb_persian	b	0.0
+151	bt_nllb_russian	b	0.0
+151	bt_nllb_swahili	b	0.0
+151	bt_nllb_tamil	b	0.0
+152	-1	angular cheilitis	0.0
+152	bt_nllb_arabic	Corner cavity inflammation	0.0
+152	bt_nllb_chinese_yue	Corneal disease	0.0
+152	bt_nllb_french	angular sheability	0.0
+152	bt_nllb_german	Other of a kind used for the manufacture of goods	0.0
+152	bt_nllb_korean	The alert salt	0.0
+152	bt_nllb_malay	angular paralysis	0.0
+152	bt_nllb_persian	It s a corner	0.0
+152	bt_nllb_russian	The angular helite	0.0
+152	bt_nllb_swahili	angular chelulitis	0.0
+152	bt_nllb_tamil	Angular Gait	0.0
+153	-1	pocono	0.2945
+153	bt_nllb_french	Pocono	0.2945
+153	bt_nllb_german	Pocono	0.2945
+153	bt_nllb_malay	Pocono is	0.2945
+153	bt_nllb_persian	The Pocono	0.2945
+153	bt_nllb_korean	Pocono is here	0.2206
+153	bt_nllb_arabic	The bocone	0.0
+153	bt_nllb_chinese_yue	Poconino is the one	0.0
+153	bt_nllb_russian	It s over	0.0
+153	bt_nllb_swahili	The better	0.0
+153	bt_nllb_tamil	the Bokono	0.0
+154	-1	figs	0.1076
+154	bt_nllb_tamil	The fig trees	0.1487
+154	bt_nllb_arabic	The fig	0.1076
+154	bt_nllb_french	the figs	0.1076
+154	bt_nllb_german	Figs	0.1076
+154	bt_nllb_malay	figs	0.1076
+154	bt_nllb_persian	The figs	0.1076
+154	bt_nllb_russian	The figs	0.1076
+154	bt_nllb_swahili	figs	0.1076
+154	bt_nllb_chinese_yue	The tree	0.0
+154	bt_nllb_korean	I don t know	0.0
+155	-1	last supper painting	0.312
+155	bt_nllb_german	Last Supper painting	0.312
+155	bt_nllb_korean	Last supper painting	0.312
+155	bt_nllb_swahili	picture of the last supper	0.1493
+155	bt_nllb_tamil	The painting depicts the Last Supper	0.1478
+155	bt_nllb_arabic	The last painting	0.1249
+155	bt_nllb_malay	Last dinner painting	0.0205
+155	bt_nllb_persian	The last painting dinner	0.0205
+155	bt_nllb_chinese_yue	I painted my last dinner	0.0
+155	bt_nllb_french	Last table	0.0
+155	bt_nllb_russian	Last night painting	0.0
+156	-1	university of phoenix	0.1739
+156	bt_nllb_arabic	The University of Phoenix	0.1739
+156	bt_nllb_french	University of Phoenix	0.1739
+156	bt_nllb_german	University of Phoenix	0.1739
+156	bt_nllb_korean	The University of Phoenix	0.1739
+156	bt_nllb_malay	The University of Phoenix	0.1739
+156	bt_nllb_persian	The University of Phoenix	0.1739
+156	bt_nllb_russian	The University of Phoenix	0.1739
+156	bt_nllb_swahili	the University of Phoenix	0.1739
+156	bt_nllb_chinese_yue	The University of Nix	0.0
+156	bt_nllb_tamil	The University of Phoenix is a public research university	0.0
+157	-1	the beatles rock band	0.0346
+157	bt_nllb_tamil	The Beatles were a rock band	0.1493
+157	bt_nllb_chinese_yue	The Beatles are the band	0.0688
+157	bt_nllb_french	the Beatles rock band	0.0346
+157	bt_nllb_german	The Beatles rock band	0.0346
+157	bt_nllb_korean	The Beatles are a rock band	0.0346
+157	bt_nllb_malay	The Beatles rock band	0.0346
+157	bt_nllb_persian	The rock band the Beatles	0.0346
+157	bt_nllb_russian	The Beatles rock band	0.0346
+157	bt_nllb_swahili	The Beatles rock band	0.0346
+157	bt_nllb_arabic	The Beatles	0.0
+158	-1	septic system design	0.3309
+158	bt_nllb_french	design of the septic system	0.3309
+158	bt_nllb_german	Design of the septic system	0.3309
+158	bt_nllb_korean	Design of the septic system	0.3309
+158	bt_nllb_malay	design of septic systems	0.3309
+158	bt_nllb_persian	Design of the septic system	0.3309
+158	bt_nllb_russian	the design of the septic system	0.3309
+158	bt_nllb_swahili	design of septic system	0.3309
+158	bt_nllb_tamil	The design of the septic system	0.3309
+158	bt_nllb_arabic	The design of the decentralized system	0.0
+158	bt_nllb_chinese_yue	The design of the seven spin system	0.0
+159	-1	porterville	0.4086
+159	bt_nllb_arabic	Porterville	0.4086
+159	bt_nllb_malay	Porterville	0.4086
+159	bt_nllb_swahili	porterville	0.4086
+159	bt_nllb_chinese_yue	Portville the city of Portville	0.0
+159	bt_nllb_french	porteville	0.0
+159	bt_nllb_german	The Commission shall adopt implementing acts in accordance with Article of this Regulation	0.0
+159	bt_nllb_korean	I m not sure	0.0
+159	bt_nllb_persian	Portroyl	0.0
+159	bt_nllb_russian	I m not sure	0.0
+159	bt_nllb_tamil	Portville	0.0
+160	-1	grilling	0.0
+160	bt_nllb_arabic	The confusion	0.0
+160	bt_nllb_chinese_yue	The roast meat	0.0
+160	bt_nllb_french	grilling	0.0
+160	bt_nllb_german	Grill	0.0
+160	bt_nllb_korean	The grill	0.0
+160	bt_nllb_malay	fried	0.0
+160	bt_nllb_persian	They re grilling	0.0
+160	bt_nllb_russian	The prisoners	0.0
+160	bt_nllb_swahili	heating	0.0
+160	bt_nllb_tamil	Grilling	0.0
+161	-1	furniture for small spaces	0.0245
+161	bt_nllb_chinese_yue	Small space furniture	0.0245
+161	bt_nllb_french	furniture for small spaces	0.0245
+161	bt_nllb_korean	Furniture in a small space	0.0245
+161	bt_nllb_malay	furniture for small space	0.0245
+161	bt_nllb_persian	Furniture for small spaces	0.0245
+161	bt_nllb_swahili	furniture for small space	0.0245
+161	bt_nllb_tamil	Furniture for small spaces	0.0245
+161	bt_nllb_arabic	Furniture for small places	0.0
+161	bt_nllb_german	Furniture for small rooms	0.0
+161	bt_nllb_russian	furniture for small rooms	0.0
+162	-1	dnr	0.1135
+162	bt_nllb_arabic	DNR	0.1135
+162	bt_nllb_korean	DNR	0.1135
+162	bt_nllb_persian	The DNR	0.1135
+162	bt_nllb_russian	The DNR	0.1135
+162	bt_nllb_swahili	DNR	0.1135
+162	bt_nllb_tamil	DNr	0.1135
+162	bt_nllb_chinese_yue	Other things	0.0
+162	bt_nllb_french	The Commission shall adopt implementing acts	0.0
+162	bt_nllb_german	The Commission shall adopt implementing acts	0.0
+162	bt_nllb_malay	The D R	0.0
+163	-1	arkansas	0.0121
+163	bt_nllb_chinese_yue	The state of Arkansas USA	0.0302
+163	bt_nllb_arabic	Arkansas	0.0121
+163	bt_nllb_french	The Arkansas	0.0121
+163	bt_nllb_german	Arkansas	0.0121
+163	bt_nllb_korean	Arkansas	0.0121
+163	bt_nllb_malay	Arkansas	0.0121
+163	bt_nllb_persian	Arkansas	0.0121
+163	bt_nllb_russian	Arkansas	0.0121
+163	bt_nllb_swahili	Arkansas	0.0121
+163	bt_nllb_tamil	Arkansas	0.0121
+164	-1	hobby stores	0.1639
+164	bt_nllb_korean	It s a hobby shop	0.0802
+164	bt_nllb_arabic	The hobby shop	0.0436
+164	bt_nllb_chinese_yue	The hobby shop	0.0436
+164	bt_nllb_german	Hobby shops	0.0436
+164	bt_nllb_malay	hobby shop	0.0436
+164	bt_nllb_russian	Hobby shops	0.0436
+164	bt_nllb_french	recreational shops	0.0
+164	bt_nllb_persian	The entertainment shops	0.0
+164	bt_nllb_swahili	entertainment shops	0.0
+164	bt_nllb_tamil	The entertainment shops	0.0
+165	-1	blue throated hummingbird	0.053
+165	bt_nllb_french	blue throated hummingbird	0.053
+165	bt_nllb_swahili	blue throated hummingbird	0.053
+165	bt_nllb_malay	Blue bellied hummingbirds	0.0165
+165	bt_nllb_arabic	The blue throated bird	0.0
+165	bt_nllb_chinese_yue	The blue throated fellow bird	0.0
+165	bt_nllb_german	Other animals of the species	0.0
+165	bt_nllb_korean	The blue necked callingbird	0.0
+165	bt_nllb_persian	It s the same as the blue collar	0.0
+165	bt_nllb_russian	A blue throated colber	0.0
+165	bt_nllb_tamil	The blue collared Olympic	0.0
+166	-1	computer programming	0.0467
+166	bt_nllb_arabic	Computer programming	0.0467
+166	bt_nllb_chinese_yue	Computer programming	0.0467
+166	bt_nllb_french	computer programming	0.0467
+166	bt_nllb_german	Computer programming	0.0467
+166	bt_nllb_korean	Computer programming	0.0467
+166	bt_nllb_malay	computer programming	0.0467
+166	bt_nllb_persian	Computer programming	0.0467
+166	bt_nllb_russian	computer programming	0.0467
+166	bt_nllb_swahili	computer programs	0.0467
+166	bt_nllb_tamil	Computer programming	0.0467
+167	-1	barbados	0.0053
+167	bt_nllb_arabic	Barbados	0.0053
+167	bt_nllb_french	the barbados	0.0053
+167	bt_nllb_korean	Barbados	0.0053
+167	bt_nllb_malay	Barbados	0.0053
+167	bt_nllb_russian	Barbados	0.0053
+167	bt_nllb_swahili	Barbados	0.0053
+167	bt_nllb_tamil	Barbados	0.0053
+167	bt_nllb_chinese_yue	Fish	0.0
+167	bt_nllb_german	The following is the list of countries	0.0
+167	bt_nllb_persian	It s ruined	0.0
+168	-1	lipoma	0.4396
+168	bt_nllb_french	the lipoma	0.4396
+168	bt_nllb_german	Lipoma	0.4396
+168	bt_nllb_malay	lipoma	0.4396
+168	bt_nllb_arabic	The red tumor	0.0
+168	bt_nllb_chinese_yue	The tumor	0.0
+168	bt_nllb_korean	I have a lymphoma	0.0
+168	bt_nllb_persian	The lipum	0.0
+168	bt_nllb_russian	liposomes	0.0
+168	bt_nllb_swahili	when the	0.0
+168	bt_nllb_tamil	bone	0.0
+169	-1	battles in the civil war	0.117
+169	bt_nllb_french	battles of the civil war	0.117
+169	bt_nllb_german	Battles in the Civil War	0.117
+169	bt_nllb_persian	Civil War battles	0.117
+169	bt_nllb_arabic	Your battles in the Civil War	0.0298
+169	bt_nllb_chinese_yue	Civil War	0.0128
+169	bt_nllb_korean	The Civil War	0.0128
+169	bt_nllb_malay	The Civil War	0.0128
+169	bt_nllb_russian	The Civil War	0.0128
+169	bt_nllb_swahili	civil war in civil war	0.0128
+169	bt_nllb_tamil	The Civil War was a period of civil war	0.0
+170	-1	scooters	0.0
+170	bt_nllb_arabic	The bikes	0.0
+170	bt_nllb_chinese_yue	The scooter	0.0
+170	bt_nllb_french	the scooters	0.0
+170	bt_nllb_german	Other of a kind used for the manufacture of goods of heading	0.0
+170	bt_nllb_korean	The scooter	0.0
+170	bt_nllb_malay	scooter	0.0
+170	bt_nllb_persian	The scooters	0.0
+170	bt_nllb_russian	motorcycles	0.0
+170	bt_nllb_swahili	motorcycle	0.0
+170	bt_nllb_tamil	Scooters	0.0
+171	-1	ron howard	0.2405
+171	bt_nllb_chinese_yue	Ron Howard is the first	0.2474
+171	bt_nllb_arabic	Ron Howard	0.2405
+171	bt_nllb_french	Ron Howard	0.2405
+171	bt_nllb_german	Ron Howard	0.2405
+171	bt_nllb_malay	Ron Howard	0.2405
+171	bt_nllb_persian	Ron Howard	0.2405
+171	bt_nllb_russian	Ron Howard	0.2405
+171	bt_nllb_swahili	Ron Howard	0.2405
+171	bt_nllb_tamil	Ron Howard	0.2405
+171	bt_nllb_korean	What	0.0
+172	-1	becoming a paralegal	0.1868
+172	bt_nllb_malay	Become a paralegal	0.1868
+172	bt_nllb_russian	become a legal assistant	0.1134
+172	bt_nllb_swahili	to be a legal assistant	0.0068
+172	bt_nllb_german	Becoming a lawyer	0.0064
+172	bt_nllb_persian	Becoming a lawyer	0.0064
+172	bt_nllb_arabic	He became a legal assistant	0.0
+172	bt_nllb_chinese_yue	I became a legal assistant	0.0
+172	bt_nllb_french	become a paramilitary	0.0
+172	bt_nllb_korean	I m a legal professional	0.0
+172	bt_nllb_tamil	Legal aid	0.0
+173	-1	hip fractures	0.3904
+173	bt_nllb_arabic	Fractures to the hip	0.3904
+173	bt_nllb_french	fractures of the hip	0.3904
+173	bt_nllb_german	Hip fractures	0.3904
+173	bt_nllb_korean	A fracture of the hip	0.3904
+173	bt_nllb_russian	hip fractures	0.3904
+173	bt_nllb_tamil	Hip fractures	0.3904
+173	bt_nllb_malay	a broken hip	0.1143
+173	bt_nllb_chinese_yue	The fracture	0.0784
+173	bt_nllb_persian	Joint fractures	0.0293
+173	bt_nllb_swahili	a broken ankle	0.0
+174	-1	rock art	0.2054
+174	bt_nllb_arabic	The art of rock	0.2054
+174	bt_nllb_chinese_yue	Rock art	0.2054
+174	bt_nllb_french	art rock	0.2054
+174	bt_nllb_german	Rock art	0.2054
+174	bt_nllb_korean	Rock art	0.2054
+174	bt_nllb_malay	Rock art	0.2054
+174	bt_nllb_russian	rock art	0.2054
+174	bt_nllb_swahili	rock art	0.2054
+174	bt_nllb_tamil	rock art	0.2054
+174	bt_nllb_persian	The art of stone	0.0
+175	-1	signs of a heartattack	0.1234
+175	bt_nllb_tamil	The symptoms of a heart attack	0.2094
+175	bt_nllb_arabic	Signs of a heart attack	0.1756
+175	bt_nllb_chinese_yue	Signs of heart attack	0.1756
+175	bt_nllb_french	signs of heart attack	0.1756
+175	bt_nllb_german	Signs of a Heart Attack	0.1756
+175	bt_nllb_korean	Signs of a heart attack	0.1756
+175	bt_nllb_malay	Signs of a heart attack	0.1756
+175	bt_nllb_persian	Signs of a heart attack	0.1756
+175	bt_nllb_russian	signs of heart attack	0.1756
+175	bt_nllb_swahili	signs of heart attack	0.1756
+176	-1	weather strip	0.01
+176	bt_nllb_german	Weather strips	0.01
+176	bt_nllb_arabic	The weather tape	0.0
+176	bt_nllb_chinese_yue	Weather conditions	0.0
+176	bt_nllb_french	weather band	0.0
+176	bt_nllb_korean	Weather reports	0.0
+176	bt_nllb_malay	Weather tracks	0.0
+176	bt_nllb_persian	The weather line	0.0
+176	bt_nllb_russian	weather bands	0.0
+176	bt_nllb_swahili	weather	0.0
+176	bt_nllb_tamil	The weather trajectory	0.0
+177	-1	best long term care insurance	0.1879
+177	bt_nllb_arabic	Best long term care insurance	0.1879
+177	bt_nllb_french	the best insurance for long term care	0.1879
+177	bt_nllb_german	Best long term care insurance	0.1879
+177	bt_nllb_malay	the best long term care insurance	0.1879
+177	bt_nllb_persian	The best long term care insurance	0.1879
+177	bt_nllb_russian	Best long term care insurance	0.1879
+177	bt_nllb_tamil	Best long term care insurance	0.1879
+177	bt_nllb_chinese_yue	The best long term insurance	0.1276
+177	bt_nllb_korean	The best long term health insurance	0.0983
+177	bt_nllb_swahili	Best long term insurance service	0.0602
+178	-1	pork tenderloin	0.2697
+178	bt_nllb_malay	tenderloin pork	0.2697
+178	bt_nllb_arabic	The pork	0.0
+178	bt_nllb_chinese_yue	The pork	0.0
+178	bt_nllb_french	pork wool	0.0
+178	bt_nllb_german	Meat of swine	0.0
+178	bt_nllb_korean	It s a pig	0.0
+178	bt_nllb_persian	Pork	0.0
+178	bt_nllb_russian	The pigs	0.0
+178	bt_nllb_swahili	pork	0.0
+178	bt_nllb_tamil	Pork	0.0
+179	-1	black history	0.0674
+179	bt_nllb_arabic	The history of blacks	0.0674
+179	bt_nllb_french	black history	0.0674
+179	bt_nllb_german	The black history	0.0674
+179	bt_nllb_malay	The history of black	0.0674
+179	bt_nllb_persian	The black history	0.0674
+179	bt_nllb_swahili	black history	0.0674
+179	bt_nllb_tamil	The history of the Black	0.0674
+179	bt_nllb_chinese_yue	The history of the Negroes	0.0
+179	bt_nllb_korean	The history of the black people	0.0
+179	bt_nllb_russian	The black story	0.0
+180	-1	newyork hotels	0.0234
+180	bt_nllb_tamil	New York hotels are located in the city of New York	0.0252
+180	bt_nllb_arabic	The hotels in New York	0.0173
+180	bt_nllb_french	hotels in New York	0.0173
+180	bt_nllb_german	Hotels in New York	0.0173
+180	bt_nllb_korean	The New York Hotel	0.0173
+180	bt_nllb_malay	hotel in New York	0.0173
+180	bt_nllb_persian	The hotels in New York	0.0173
+180	bt_nllb_russian	hotels in New York	0.0173
+180	bt_nllb_swahili	hotels in New York	0.0173
+180	bt_nllb_chinese_yue	This is a hotel in New York City	0.0
+181	-1	old coins	0.2355
+181	bt_nllb_arabic	Old coins	0.2355
+181	bt_nllb_french	old coins	0.2355
+181	bt_nllb_german	Old coins	0.2355
+181	bt_nllb_korean	Old coins	0.2355
+181	bt_nllb_malay	Old coins	0.2355
+181	bt_nllb_persian	Old coins	0.2355
+181	bt_nllb_russian	old coins	0.2355
+181	bt_nllb_tamil	Old coins	0.2355
+181	bt_nllb_chinese_yue	It s old	0.0
+181	bt_nllb_swahili	ancient coins	0.0
+182	-1	quit smoking	0.1395
+182	bt_nllb_arabic	Quit smoking	0.1395
+182	bt_nllb_chinese_yue	Quit smoking	0.1395
+182	bt_nllb_french	Quit smoking	0.1395
+182	bt_nllb_german	Quit Smoking	0.1395
+182	bt_nllb_russian	to quit smoking	0.1395
+182	bt_nllb_swahili	Quit smoking	0.1395
+182	bt_nllb_korean	Stop smoking	0.103
+182	bt_nllb_malay	Stop smoking	0.103
+182	bt_nllb_persian	Stop smoking	0.103
+182	bt_nllb_tamil	Stop smoking	0.103
+183	-1	kansas city mo	0.0285
+183	bt_nllb_arabic	Kansas City	0.0307
+183	bt_nllb_french	Kansas City is not	0.0307
+183	bt_nllb_persian	Kansas City	0.0307
+183	bt_nllb_russian	Kansas City	0.0307
+183	bt_nllb_german	Kansas City Mo	0.0285
+183	bt_nllb_korean	Kansas City Mo	0.0285
+183	bt_nllb_malay	Kansas City Mo	0.0285
+183	bt_nllb_swahili	Kansas City Mo	0.0285
+183	bt_nllb_tamil	Kansas City Mo	0.0285
+183	bt_nllb_chinese_yue	We are in Kansas City MO	0.0244
+184	-1	civil right movement	0.0595
+184	bt_nllb_arabic	The civil rights movement	0.0595
+184	bt_nllb_chinese_yue	Civil rights movement	0.0595
+184	bt_nllb_french	civil rights movement	0.0595
+184	bt_nllb_german	The Civil Rights Movement	0.0595
+184	bt_nllb_korean	The Civil Rights Movement	0.0595
+184	bt_nllb_malay	civil rights movement	0.0595
+184	bt_nllb_persian	Civil rights movement	0.0595
+184	bt_nllb_russian	Civil rights movement	0.0595
+184	bt_nllb_swahili	civil rights movement	0.0595
+184	bt_nllb_tamil	The Civil Rights Movement	0.0595
+185	-1	credit report	0.0132
+185	bt_nllb_arabic	The credit report	0.0132
+185	bt_nllb_chinese_yue	Credit reports	0.0132
+185	bt_nllb_french	credit report	0.0132
+185	bt_nllb_german	Credit report	0.0132
+185	bt_nllb_korean	Credit reports	0.0132
+185	bt_nllb_malay	credit reports	0.0132
+185	bt_nllb_persian	Credit report	0.0132
+185	bt_nllb_russian	credit reporting	0.0132
+185	bt_nllb_tamil	credit report	0.0132
+185	bt_nllb_swahili	report on the loan	0.0
+186	-1	unc	0.0365
+186	bt_nllb_french	unc	0.0365
+186	bt_nllb_german	Unc	0.0365
+186	bt_nllb_malay	Unc	0.0365
+186	bt_nllb_persian	Unc	0.0365
+186	bt_nllb_swahili	the unc	0.0365
+186	bt_nllb_arabic	On the C	0.0
+186	bt_nllb_chinese_yue	The subject of choice	0.0
+186	bt_nllb_korean	I m not sure	0.0
+186	bt_nllb_russian	c	0.0
+186	bt_nllb_tamil	A	0.0
+187	-1	vanuatu	0.0673
+187	bt_nllb_chinese_yue	This is Vanuatu	0.0673
+187	bt_nllb_french	the vanuatu	0.0673
+187	bt_nllb_arabic	The vanuato	0.0
+187	bt_nllb_german	of the	0.0
+187	bt_nllb_korean	I m going to Banua	0.0
+187	bt_nllb_malay	What	0.0
+187	bt_nllb_persian	What	0.0
+187	bt_nllb_russian	The Venue	0.0
+187	bt_nllb_swahili	v	0.0
+187	bt_nllb_tamil	forest	0.0
+188	-1	internet phone service	0.0621
+188	bt_nllb_chinese_yue	Internet phone service	0.0621
+188	bt_nllb_arabic	Internet telephone service	0.0
+188	bt_nllb_french	Internet telephone service	0.0
+188	bt_nllb_german	Internet telephone service	0.0
+188	bt_nllb_korean	Internet telephone service	0.0
+188	bt_nllb_malay	Internet telephone service	0.0
+188	bt_nllb_persian	Internet telephone service	0.0
+188	bt_nllb_russian	Internet telephone service	0.0
+188	bt_nllb_swahili	Internet telephone service	0.0
+188	bt_nllb_tamil	Internet telephone service	0.0
+189	-1	gs pay rate	0.1565
+189	bt_nllb_korean	Gs wage rate	0.187
+189	bt_nllb_malay	Gs wage rate	0.187
+189	bt_nllb_tamil	Gs wage rate	0.187
+189	bt_nllb_chinese_yue	Gs the salary rate	0.1521
+189	bt_nllb_persian	The rate of pay	0.0088
+189	bt_nllb_arabic	The salary rate	0.0
+189	bt_nllb_french	rate of remuneration	0.0
+189	bt_nllb_german	G Salary rates	0.0
+189	bt_nllb_russian	rent	0.0
+189	bt_nllb_swahili	the salary	0.0
+190	-1	brooks brothers clearance	0.1651
+190	bt_nllb_korean	The Brooks Brothers are promoted	0.1964
+190	bt_nllb_swahili	brooks brother clearance	0.1651
+190	bt_nllb_french	The Brooks Brothers	0.0992
+190	bt_nllb_malay	Application of the brooks brothers	0.027
+190	bt_nllb_russian	Brooks Brothers is allowed	0.0175
+190	bt_nllb_tamil	The brothers Brooks allowed	0.0175
+190	bt_nllb_german	Brooks brothers departure	0.008
+190	bt_nllb_arabic	Brooks brothers release	0.0
+190	bt_nllb_chinese_yue	Brother Brooks license	0.0
+190	bt_nllb_persian	The Brooks Brothers are licensed	0.0
+191	-1	churchill downs	0.2165
+191	bt_nllb_chinese_yue	Churchill is down	0.2165
+191	bt_nllb_malay	Churchill is down	0.2165
+191	bt_nllb_swahili	churchill down	0.2165
+191	bt_nllb_arabic	Down in the church	0.0
+191	bt_nllb_french	The descents of churchill	0.0
+191	bt_nllb_german	Churchill waste	0.0
+191	bt_nllb_korean	Down the church building	0.0
+191	bt_nllb_persian	The church	0.0
+191	bt_nllb_russian	The church yard is down	0.0
+191	bt_nllb_tamil	Down in the church	0.0
+192	-1	condos in florida	0.1079
+192	bt_nllb_arabic	Apartments in Florida	0.0
+192	bt_nllb_chinese_yue	Apartment in Florida	0.0
+192	bt_nllb_french	Apartments in Florida	0.0
+192	bt_nllb_german	Housing in Florida	0.0
+192	bt_nllb_korean	Apartment in Florida	0.0
+192	bt_nllb_malay	Apartment in Florida	0.0
+192	bt_nllb_persian	Apartment in Florida	0.0
+192	bt_nllb_russian	Apartments in Florida	0.0
+192	bt_nllb_swahili	houses in Florida	0.0
+192	bt_nllb_tamil	The following is a list of some of the most popular places to live in Florida	0.0
+193	-1	dog clean up bags	0.2956
+193	bt_nllb_tamil	Clean the dog s bag	0.2922
+193	bt_nllb_arabic	The dog cleans the bags	0.2699
+193	bt_nllb_chinese_yue	Dogs are cleaning bags	0.2699
+193	bt_nllb_french	dog cleaning the bags	0.2699
+193	bt_nllb_malay	Dogs cleaning the bags	0.2699
+193	bt_nllb_russian	The dog cleans the bags	0.2699
+193	bt_nllb_swahili	dog cleaning bags	0.2699
+193	bt_nllb_german	Cleaning Dogs	0.0231
+193	bt_nllb_korean	The dog wash bag	0.0087
+193	bt_nllb_persian	The hat cleaning dog	0.0
+194	-1	designer dog breeds	0.6296
+194	bt_nllb_arabic	Designed dog breeds	0.6296
+194	bt_nllb_chinese_yue	Designed dog breeds	0.6296
+194	bt_nllb_french	design dog breeds	0.6296
+194	bt_nllb_korean	Design dog breed	0.6296
+194	bt_nllb_malay	design dog breed	0.6296
+194	bt_nllb_persian	The designers dog breed	0.6296
+194	bt_nllb_russian	design breeds of dogs	0.6296
+194	bt_nllb_tamil	Designer dog breeds	0.6296
+194	bt_nllb_german	Designers breeds	0.5727
+194	bt_nllb_swahili	breeding dog	0.0
+195	-1	pressure washers	0.0191
+195	bt_nllb_arabic	Pressure washers	0.0191
+195	bt_nllb_korean	Pressure washer	0.0191
+195	bt_nllb_chinese_yue	The washing machine	0.0
+195	bt_nllb_french	pressure dishwashers	0.0
+195	bt_nllb_german	Washing machines	0.0
+195	bt_nllb_malay	pressure washing machine	0.0
+195	bt_nllb_persian	The pressure washing machines	0.0
+195	bt_nllb_russian	washing machines	0.0
+195	bt_nllb_swahili	Pressure washing machines	0.0
+195	bt_nllb_tamil	Pressure washing machines	0.0
+196	-1	sore throat	0.2219
+196	bt_nllb_french	sore throat	0.2219
+196	bt_nllb_malay	A sore throat	0.2219
+196	bt_nllb_persian	A sore throat	0.2219
+196	bt_nllb_russian	a sore throat	0.2219
+196	bt_nllb_arabic	I have a sore throat	0.0778
+196	bt_nllb_chinese_yue	I have a sore throat	0.0778
+196	bt_nllb_german	Pain in the throat	0.0365
+196	bt_nllb_tamil	Throat pain	0.0365
+196	bt_nllb_korean	I m in a lot of pain	0.0
+196	bt_nllb_swahili	back pain	0.0
+197	-1	idaho state flower	0.1049
+197	bt_nllb_german	Idaho state flower	0.1049
+197	bt_nllb_malay	Idaho state flower	0.1049
+197	bt_nllb_persian	Idaho state flower	0.1049
+197	bt_nllb_russian	Idaho state flower	0.1049
+197	bt_nllb_swahili	Idaho state flowers	0.1049
+197	bt_nllb_tamil	Idaho state flower	0.1049
+197	bt_nllb_arabic	The flower is Idaho	0.0156
+197	bt_nllb_chinese_yue	Idaho flower	0.0156
+197	bt_nllb_french	Flower of Idaho	0.0156
+197	bt_nllb_korean	Idaho flower	0.0156
+198	-1	indiana state fairgrounds	0.3349
+198	bt_nllb_french	the Indiana State Fairgrounds	0.3349
+198	bt_nllb_persian	The Indiana State Fairgrounds	0.3349
+198	bt_nllb_korean	The Indiana State Fair	0.1436
+198	bt_nllb_russian	The Indiana State Fair	0.1436
+198	bt_nllb_malay	Indiana state fair park	0.1066
+198	bt_nllb_chinese_yue	The Indiana Fair	0.0976
+198	bt_nllb_swahili	state of Indiana exhibition sites	0.0438
+198	bt_nllb_tamil	Exhibition grounds in Indiana	0.0265
+198	bt_nllb_arabic	The Indiana Department of Housing	0.0
+198	bt_nllb_german	Holidays in Indiana	0.0
+199	-1	fybromyalgia	0.0396
+199	bt_nllb_french	fibromyalgia	0.2132
+199	bt_nllb_german	Fibromyalgia	0.2132
+199	bt_nllb_malay	Fibromyalgia	0.2132
+199	bt_nllb_persian	Fibromyalgia	0.2132
+199	bt_nllb_russian	Fibromyalgia	0.2132
+199	bt_nllb_tamil	Fibromyalgia is a disease of the nervous system	0.0105
+199	bt_nllb_arabic	It s my bromyalgia	0.0
+199	bt_nllb_chinese_yue	Muscular pain	0.0
+199	bt_nllb_korean	I know	0.0
+199	bt_nllb_swahili	paralysis	0.0
+200	-1	ontario california airport	0.3649
+200	bt_nllb_arabic	Ontario California airport	0.3649
+200	bt_nllb_chinese_yue	Ontario California Airport	0.3649
+200	bt_nllb_french	Airport of Ontario California	0.3649
+200	bt_nllb_german	Airport Ontario California	0.3649
+200	bt_nllb_korean	Ontario California Airport	0.3649
+200	bt_nllb_malay	Ontario California airport	0.3649
+200	bt_nllb_persian	The airport in Ontario California	0.3649
+200	bt_nllb_russian	Ontario airport in California	0.3649
+200	bt_nllb_swahili	Ontario California airport	0.3649
+200	bt_nllb_tamil	Ontario California Airport	0.3649

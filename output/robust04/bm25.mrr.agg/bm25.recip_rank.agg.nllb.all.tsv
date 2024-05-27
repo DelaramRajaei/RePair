@@ -1,0 +1,2740 @@
+qid	order	query	bm25.recip_rank
+301	-1	International Organized Crime	0.5
+301	bt_nllb_arabic	International organized crime	0.5
+301	bt_nllb_chinese_yue	International organized crime	0.5
+301	bt_nllb_french	International organized crime	0.5
+301	bt_nllb_korean	International organized crime	0.5
+301	bt_nllb_persian	International organized crime	0.5
+301	bt_nllb_russian	International organized crime	0.5
+301	bt_nllb_tamil	International organized crime	0.5
+301	bt_nllb_german	International organised crime	0.3333
+301	bt_nllb_malay	Integrated Crime	0.1111
+301	bt_nllb_swahili	International Crime	0.1
+302	-1	Poliomyelitis and Post-Polio	1.0
+302	bt_nllb_arabic	Polio and polio	1.0
+302	bt_nllb_chinese_yue	After polio and polio	1.0
+302	bt_nllb_german	Polio and postpolio	1.0
+302	bt_nllb_malay	Polio and after polio	1.0
+302	bt_nllb_russian	Polio and postpolio	1.0
+302	bt_nllb_swahili	Polio and Afterpolio	1.0
+302	bt_nllb_tamil	After polio and polio	1.0
+302	bt_nllb_french	Polio and the Post Polio	0.5
+302	bt_nllb_persian	Polyamide and then polio	0.3333
+302	bt_nllb_korean	Polyamylitis and polyochondrosis	0.0
+303	-1	Hubble Telescope Achievements	0.5
+303	bt_nllb_arabic	The achievements of the Hubble Telescope	0.5
+303	bt_nllb_chinese_yue	The Hubble Telescope has achieved this	0.5
+303	bt_nllb_french	The achievements of the Hubble Telescope	0.5
+303	bt_nllb_german	Achievements of the Hubble Telescope	0.5
+303	bt_nllb_malay	The achievements of the Hubble Telescope	0.5
+303	bt_nllb_persian	The achievements of the Hubble Telescope	0.5
+303	bt_nllb_russian	The achievements of the Hubble Telescope	0.5
+303	bt_nllb_swahili	The results of the Hubble Telescope	0.5
+303	bt_nllb_tamil	Hubble s telescope achievements	0.5
+303	bt_nllb_korean	The Hubble Telescope was completed	0.1
+304	-1	Endangered Species (Mammals)	1.0
+304	bt_nllb_arabic	Endangered species mammals	1.0
+304	bt_nllb_french	Endangered species mammal	1.0
+304	bt_nllb_german	Endangered species mammal	1.0
+304	bt_nllb_malay	Endangered species mammal	1.0
+304	bt_nllb_swahili	Endangered Species Animals	0.5
+304	bt_nllb_tamil	The species in danger of extinction type	0.5
+304	bt_nllb_chinese_yue	They are endangered	0.3333
+304	bt_nllb_korean	Endangered species	0.25
+304	bt_nllb_persian	Endangered species clover	0.2
+304	bt_nllb_russian	Threatened species self miners	0.0357
+305	-1	Most Dangerous Vehicles	0.0154
+305	bt_nllb_arabic	The most dangerous cars	0.04
+305	bt_nllb_chinese_yue	The most dangerous car	0.04
+305	bt_nllb_swahili	The Most Dangerous Cars	0.04
+305	bt_nllb_french	The most dangerous vehicles	0.0154
+305	bt_nllb_german	Most dangerous vehicles	0.0154
+305	bt_nllb_korean	The most dangerous vehicle	0.0154
+305	bt_nllb_malay	The Most Dangerous Vehicle	0.0154
+305	bt_nllb_persian	The most dangerous vehicles	0.0154
+305	bt_nllb_russian	The most dangerous vehicles	0.0154
+305	bt_nllb_tamil	The most dangerous vehicles	0.0154
+306	-1	African Civilian Deaths	1.0
+306	bt_nllb_french	The deaths of African civilians	1.0
+306	bt_nllb_german	African civilian deaths	1.0
+306	bt_nllb_arabic	The killing of civilians in Africa	0.5
+306	bt_nllb_russian	Death of civilians in Africa	0.5
+306	bt_nllb_korean	African citizens killed	0.3333
+306	bt_nllb_chinese_yue	African citizens dying	0.1667
+306	bt_nllb_swahili	The Deaths of Politicians in Africa	0.0769
+306	bt_nllb_malay	The Death of African Citizens	0.0556
+306	bt_nllb_persian	Death of African citizens	0.0556
+306	bt_nllb_tamil	The death of African citizens	0.0556
+307	-1	New Hydroelectric Projects	1.0
+307	bt_nllb_arabic	New hydropower projects	1.0
+307	bt_nllb_chinese_yue	New hydroelectric projects	1.0
+307	bt_nllb_french	New hydroelectric projects	1.0
+307	bt_nllb_korean	A new hydropower project	1.0
+307	bt_nllb_malay	New Hydroelectric Project	1.0
+307	bt_nllb_persian	New projects for hydroelectricity	1.0
+307	bt_nllb_russian	New hydroelectric projects	1.0
+307	bt_nllb_tamil	New hydroelectric projects	1.0
+307	bt_nllb_swahili	New Water Power Projects	0.5
+307	bt_nllb_german	New hydropower plants	0.2
+308	-1	Implant Dentistry	1.0
+308	bt_nllb_chinese_yue	Dentistry of implants	1.0
+308	bt_nllb_french	Dentistry by implant	1.0
+308	bt_nllb_german	Implant teeth	1.0
+308	bt_nllb_malay	Dental Implantation	1.0
+308	bt_nllb_persian	Dental implant	1.0
+308	bt_nllb_russian	Dentistry of implants	1.0
+308	bt_nllb_swahili	Tooth disease of the gums	0.5
+308	bt_nllb_arabic	Hosted dentistry	0.0625
+308	bt_nllb_korean	Implantation surgery	0.0385
+308	bt_nllb_tamil	Surgery	0.0
+309	-1	Rap and Crime	0.0
+309	bt_nllb_arabic	Rape and murder	0.0
+309	bt_nllb_chinese_yue	Rape and crime	0.0
+309	bt_nllb_french	Rap and crime	0.0
+309	bt_nllb_german	Rap and crime	0.0
+309	bt_nllb_korean	Rape and crime	0.0
+309	bt_nllb_malay	Rap and Crime	0.0
+309	bt_nllb_persian	Rap and crime	0.0
+309	bt_nllb_russian	Rape and Crime	0.0
+309	bt_nllb_swahili	Crime and Crime	0.0
+309	bt_nllb_tamil	Sexual abuse	0.0
+310	-1	Radio Waves and Brain Cancer	1.0
+310	bt_nllb_arabic	Radio waves and brain cancer	1.0
+310	bt_nllb_chinese_yue	Radiation and brain cancer	1.0
+310	bt_nllb_french	Radio waves and brain cancer	1.0
+310	bt_nllb_german	Radio waves and brain cancer	1.0
+310	bt_nllb_korean	Radiation and Brain Cancer	1.0
+310	bt_nllb_malay	Radio waves and brain cancer	1.0
+310	bt_nllb_persian	Radio waves and brain cancer	1.0
+310	bt_nllb_russian	Radio waves and brain cancer	1.0
+310	bt_nllb_swahili	Radio Waves and Brain Cancer	1.0
+310	bt_nllb_tamil	Radio waves and brain cancer	1.0
+311	-1	Industrial Espionage	1.0
+311	bt_nllb_arabic	Industrial espionage	1.0
+311	bt_nllb_chinese_yue	Industrial spy	1.0
+311	bt_nllb_french	Industrial espionage	1.0
+311	bt_nllb_korean	The spy industry	1.0
+311	bt_nllb_persian	Industrial spy	1.0
+311	bt_nllb_russian	Industrial espionage	1.0
+311	bt_nllb_swahili	Industrial Intelligence	1.0
+311	bt_nllb_tamil	Industrial intelligence	1.0
+311	bt_nllb_malay	Industrial surveillance	0.25
+311	bt_nllb_german	The Commission has also adopted a number of proposals	0.0
+312	-1	Hydroponics	1.0
+312	bt_nllb_arabic	The hydroponics	1.0
+312	bt_nllb_french	Hydroponics	1.0
+312	bt_nllb_malay	Hydroponics	1.0
+312	bt_nllb_persian	Hydroponics	1.0
+312	bt_nllb_russian	Hydroponics	1.0
+312	bt_nllb_swahili	Hydroponics	1.0
+312	bt_nllb_chinese_yue	Hydromechanics	0.0
+312	bt_nllb_german	Hydrogen	0.0
+312	bt_nllb_korean	Fish	0.0
+312	bt_nllb_tamil	The waterfall	0.0
+313	-1	Magnetic Levitation-Maglev	1.0
+313	bt_nllb_chinese_yue	The magnetic Levitation Maglev	1.0
+313	bt_nllb_german	Magnetic levitation maglev	1.0
+313	bt_nllb_malay	Magnetic levitation of the Maglev	1.0
+313	bt_nllb_russian	Magnetic levitation of the Maglev	1.0
+313	bt_nllb_swahili	Magnetic Levitation Maglev	1.0
+313	bt_nllb_tamil	Magnetic levitation McLav	1.0
+313	bt_nllb_korean	Self levitization Maghreb	0.25
+313	bt_nllb_french	Magnetic lift	0.1111
+313	bt_nllb_arabic	Magnetic distortion	0.0769
+313	bt_nllb_persian	Magnetic Lithium Magluff	0.0357
+314	-1	Marine Vegetation	0.0312
+314	bt_nllb_persian	Seaweed	1.0
+314	bt_nllb_russian	Sea vegetation	1.0
+314	bt_nllb_swahili	Seaweed	1.0
+314	bt_nllb_arabic	Marine plants	0.5
+314	bt_nllb_german	Protection of the seas	0.5
+314	bt_nllb_french	marine vegetation	0.0312
+314	bt_nllb_chinese_yue	Sea plants	0.027
+314	bt_nllb_korean	Sea plants	0.027
+314	bt_nllb_malay	Sea plants	0.027
+314	bt_nllb_tamil	Sea plants	0.027
+315	-1	Unexplained Highway Accidents	0.1429
+315	bt_nllb_chinese_yue	The cause of the accident is unknown	1.0
+315	bt_nllb_tamil	Unidentified road accidents	0.3333
+315	bt_nllb_korean	An unexplained highway accident	0.1429
+315	bt_nllb_persian	Unexplained highway accidents	0.1429
+315	bt_nllb_arabic	Unexplained road accidents	0.0455
+315	bt_nllb_french	Unexplained Road Accidents	0.0455
+315	bt_nllb_malay	Unexplained Road Accidents	0.0455
+315	bt_nllb_swahili	Unreported Road Accidents	0.0417
+315	bt_nllb_german	Unexplained car accidents	0.0357
+315	bt_nllb_russian	Unexplained Accidents	0.0
+316	-1	Polygamy Polyandry Polygyny	1.0
+316	bt_nllb_chinese_yue	Polygamy polygamy polygamy and polygamy	1.0
+316	bt_nllb_french	Polygamy and polygamy	1.0
+316	bt_nllb_german	Polygamy and polygamy	1.0
+316	bt_nllb_malay	Polygamy Polygamy	1.0
+316	bt_nllb_russian	Polygamy of the Polygons	0.5
+316	bt_nllb_arabic	Polygamous Polygamous	0.3333
+316	bt_nllb_korean	I m getting married I m getting married I m getting married I m getting married I m getting married I m getting married I m getting married I m getting married I m getting married I m getting married I m getting married I m getting married I m getting married I m getting married I m getting married I m getting married I m getting married I m getting married I m getting married I m getting married I m getting married I m getting married I m getting married I m getting married I m getting married I m getting married I m getting married I m getting married I m getting married I m getting married I m getting married I m getting married I m getting married I m getting married	0.0
+316	bt_nllb_persian	A few wives a few wives a few wives	0.0
+316	bt_nllb_swahili	Parenting	0.0
+316	bt_nllb_tamil	The number of times a person is called a multiple	0.0
+317	-1	Unsolicited Faxes	1.0
+317	bt_nllb_arabic	The unwanted fax	1.0
+317	bt_nllb_persian	Unwanted fax	1.0
+317	bt_nllb_russian	Unwanted Faxes	1.0
+317	bt_nllb_korean	Unsolicited Parks	0.5
+317	bt_nllb_chinese_yue	Fax that nobody asked for	0.0833
+317	bt_nllb_french	Faxes not requested	0.0455
+317	bt_nllb_german	Faxes not requested	0.0455
+317	bt_nllb_swahili	Faxes not requested	0.0455
+317	bt_nllb_malay	Fax that you don t want	0.0435
+317	bt_nllb_tamil	Unnecessary Faxes	0.0333
+318	-1	Best Retirement Country	0.1111
+318	bt_nllb_arabic	The best retirement country	0.1111
+318	bt_nllb_chinese_yue	The best retired countries	0.1111
+318	bt_nllb_french	The best country for retirement	0.1111
+318	bt_nllb_german	Best retirement country	0.1111
+318	bt_nllb_korean	The best retirement country	0.1111
+318	bt_nllb_malay	The Best Retirement Countries	0.1111
+318	bt_nllb_persian	The best country is retired	0.1111
+318	bt_nllb_russian	The best country to retire	0.1111
+318	bt_nllb_swahili	A Better Land to Leave	0.0132
+318	bt_nllb_tamil	The country with the best pension	0.0
+319	-1	New Fuel Sources	1.0
+319	bt_nllb_arabic	New fuel sources	1.0
+319	bt_nllb_chinese_yue	The new fuel source	1.0
+319	bt_nllb_french	New sources of fuel	1.0
+319	bt_nllb_korean	A new fuel source	1.0
+319	bt_nllb_malay	New Fuel Sources	1.0
+319	bt_nllb_persian	New fuel sources	1.0
+319	bt_nllb_russian	New Fuel Sources	1.0
+319	bt_nllb_tamil	New sources of fuel	1.0
+319	bt_nllb_german	New fuels	0.5
+319	bt_nllb_swahili	A New Source of Oil	0.0556
+320	-1	Undersea Fiber Optic Cable	0.0312
+320	bt_nllb_arabic	The fiber optic cable is underwater	0.1667
+320	bt_nllb_malay	Underwater fiber optic cables	0.1667
+320	bt_nllb_german	Subsea fibre optic cables	0.1429
+320	bt_nllb_tamil	Sea glass fiber cable	0.1
+320	bt_nllb_french	Submarine fibre optic cable	0.0909
+320	bt_nllb_russian	Subsea optical cable made of fibres	0.0833
+320	bt_nllb_korean	Undersea fiber optic cable	0.0312
+320	bt_nllb_persian	Subsea fiber optic cables	0.025
+320	bt_nllb_swahili	Before the Undersea Fiber Optic	0.0128
+320	bt_nllb_chinese_yue	The subsea fiber	0.0
+321	-1	Women in Parliaments	1.0
+321	bt_nllb_arabic	Women in parliaments	1.0
+321	bt_nllb_chinese_yue	Women in the Parliament	1.0
+321	bt_nllb_french	Women in Parliament	1.0
+321	bt_nllb_german	Women in Parliament	1.0
+321	bt_nllb_malay	Women in Parliament	1.0
+321	bt_nllb_persian	Women in Parliament	1.0
+321	bt_nllb_russian	Women in parliaments	1.0
+321	bt_nllb_swahili	Women in Parliament	1.0
+321	bt_nllb_tamil	Women in parliaments	1.0
+321	bt_nllb_korean	Women in Congress	0.25
+322	-1	International Art Crime	0.0132
+322	bt_nllb_french	International crime against art	0.0222
+322	bt_nllb_arabic	The crime of international art	0.0132
+322	bt_nllb_chinese_yue	International art crime	0.0132
+322	bt_nllb_german	International art crime	0.0132
+322	bt_nllb_korean	International art crime	0.0132
+322	bt_nllb_malay	International Art Crimes	0.0132
+322	bt_nllb_persian	International crime of art	0.0132
+322	bt_nllb_tamil	International art crime	0.0132
+322	bt_nllb_russian	International crime in the field of art	0.0119
+322	bt_nllb_swahili	Modern Art Crime	0.0
+323	-1	Literary/Journalistic Plagiarism	1.0
+323	bt_nllb_chinese_yue	Literary and news copying	1.0
+323	bt_nllb_french	Literary and journalistic plagiarism	1.0
+323	bt_nllb_german	Literary and journalistic plagiarism	1.0
+323	bt_nllb_malay	Literary plagiarism	1.0
+323	bt_nllb_russian	Literary journalistic plagiarism	1.0
+323	bt_nllb_korean	Literary and historical parallels	0.0526
+323	bt_nllb_swahili	Literary journalistic fraud	0.0526
+323	bt_nllb_persian	A literary journalistic plague	0.0103
+323	bt_nllb_arabic	Literary and journalistic manipulation	0.0
+323	bt_nllb_tamil	Literary fictional literature	0.0
+324	-1	Argentine/British Relations	1.0
+324	bt_nllb_arabic	Argentine British relations	1.0
+324	bt_nllb_chinese_yue	Argentina UK relations	1.0
+324	bt_nllb_malay	The Argentine British relationship	1.0
+324	bt_nllb_persian	Relations between Argentina and Britain	1.0
+324	bt_nllb_russian	Argentine British relations	1.0
+324	bt_nllb_swahili	Argentina s relationship with Britain	1.0
+324	bt_nllb_french	Relations between Argentina and the United Kingdom	0.5
+324	bt_nllb_korean	Relations between Argentina and the United Kingdom	0.5
+324	bt_nllb_tamil	The United States and Argentina have a long history of cooperation	0.0667
+324	bt_nllb_german	The Commission has also adopted a proposal for a regulation on the	0.0
+325	-1	Cult Lifestyles	0.2
+325	bt_nllb_german	The cult lifestyle	0.2
+325	bt_nllb_malay	Sect Lifestyle	0.0345
+325	bt_nllb_russian	Sect lifestyle	0.0345
+325	bt_nllb_arabic	The cult s way of life	0.0333
+325	bt_nllb_chinese_yue	The cult s way of life	0.0333
+325	bt_nllb_french	Worship	0.0
+325	bt_nllb_korean	How to Live in Worship	0.0
+325	bt_nllb_persian	Religious lifestyle	0.0
+325	bt_nllb_swahili	A Life of Worship	0.0
+325	bt_nllb_tamil	What is the meaning of this article	0.0
+326	-1	Ferry Sinkings	1.0
+326	bt_nllb_arabic	Sink in the ferry	1.0
+326	bt_nllb_german	Ferry sinks	1.0
+326	bt_nllb_korean	Ferry sinking	1.0
+326	bt_nllb_chinese_yue	The ferry sank	0.5
+326	bt_nllb_persian	The ship sank	0.125
+326	bt_nllb_tamil	The bus is sinking	0.0417
+326	bt_nllb_russian	The boat sinks	0.037
+326	bt_nllb_swahili	A Sinking Boat	0.037
+326	bt_nllb_french	The shipwrecks of the ferry	0.027
+326	bt_nllb_malay	Stop Stop	0.0
+327	-1	Modern Slavery	0.1667
+327	bt_nllb_malay	Modern day Slavery	0.3333
+327	bt_nllb_arabic	Modern slavery	0.1667
+327	bt_nllb_chinese_yue	Modern slavery	0.1667
+327	bt_nllb_french	Modern Slavery	0.1667
+327	bt_nllb_german	Modern Slavery	0.1667
+327	bt_nllb_persian	Modern slavery	0.1667
+327	bt_nllb_russian	Modern slavery	0.1667
+327	bt_nllb_swahili	Modern Slavery	0.1667
+327	bt_nllb_tamil	Modern slavery	0.1667
+327	bt_nllb_korean	Modern slaves	0.0143
+328	-1	Pope Beatifications	1.0
+328	bt_nllb_german	Beatification by the Pope	1.0
+328	bt_nllb_chinese_yue	The Pope declared him a saint	0.3333
+328	bt_nllb_swahili	Privileges of the Pope	0.1667
+328	bt_nllb_french	Blessings from the Pope	0.0588
+328	bt_nllb_korean	Blessings of the Pope	0.0556
+328	bt_nllb_russian	The Blessing of the Pope	0.0556
+328	bt_nllb_tamil	The Pope s blessing	0.04
+328	bt_nllb_arabic	The Pope s statements	0.0
+328	bt_nllb_malay	The Meaning of the Whale	0.0
+328	bt_nllb_persian	Congratulations Pop	0.0
+329	-1	Mexican Air Pollution	1.0
+329	bt_nllb_arabic	Air pollution in Mexico	1.0
+329	bt_nllb_chinese_yue	Air pollution in Mexico	1.0
+329	bt_nllb_french	Air Pollution in Mexico	1.0
+329	bt_nllb_german	Air pollution in Mexico	1.0
+329	bt_nllb_korean	Air Pollution in Mexico	1.0
+329	bt_nllb_malay	Air Pollution in Mexico	1.0
+329	bt_nllb_persian	Air pollution in Mexico	1.0
+329	bt_nllb_russian	Air pollution in Mexico	1.0
+329	bt_nllb_swahili	Air Pollution in Mexico	1.0
+329	bt_nllb_tamil	Mexican air pollution	1.0
+330	-1	Iran-Iraq Cooperation	0.2
+330	bt_nllb_german	Cooperation between Iran and Iraq	0.25
+330	bt_nllb_arabic	Iran Iraq cooperation	0.2
+330	bt_nllb_chinese_yue	Iran Iraq cooperation	0.2
+330	bt_nllb_french	Iran Iraq cooperation	0.2
+330	bt_nllb_korean	Iran Iraq cooperation	0.2
+330	bt_nllb_malay	Iran Iraq cooperation	0.2
+330	bt_nllb_persian	Iran Iraq cooperation	0.2
+330	bt_nllb_russian	Iran Iraq cooperation	0.2
+330	bt_nllb_swahili	Iran Iraq Cooperation	0.2
+330	bt_nllb_tamil	Iran Iraq cooperation	0.2
+331	-1	World Bank Criticism	1.0
+331	bt_nllb_arabic	Criticism of the World Bank	1.0
+331	bt_nllb_chinese_yue	The World Bank is critical	1.0
+331	bt_nllb_french	The criticism of the World Bank	1.0
+331	bt_nllb_german	The criticism of the World Bank	1.0
+331	bt_nllb_korean	Criticism of the World Bank	1.0
+331	bt_nllb_malay	Criticism of the World Bank	1.0
+331	bt_nllb_persian	Criticism of the World Bank	1.0
+331	bt_nllb_swahili	Criticism of the World Bank	1.0
+331	bt_nllb_tamil	The World Bank Review	1.0
+331	bt_nllb_russian	The World Bank s critics	0.0217
+332	-1	Income Tax Evasion	0.5
+332	bt_nllb_persian	Escape from income tax	0.3333
+332	bt_nllb_russian	Escape from income tax	0.3333
+332	bt_nllb_swahili	Avoiding Income Taxes	0.25
+332	bt_nllb_tamil	Income Tax Avoidance	0.25
+332	bt_nllb_korean	Income tax	0.125
+332	bt_nllb_arabic	Evading income tax	0.0909
+332	bt_nllb_german	Income tax protection	0.0323
+332	bt_nllb_chinese_yue	Tax avoidance	0.0164
+332	bt_nllb_french	Tax avoidance	0.0164
+332	bt_nllb_malay	Income Tax Payments	0.0123
+333	-1	Antibiotics Bacteria Disease	1.0
+333	bt_nllb_french	Antibiotics for bacteria	1.0
+333	bt_nllb_korean	Antibiotic bacteria disease	1.0
+333	bt_nllb_malay	Antibiotics and Disease	1.0
+333	bt_nllb_arabic	Antibiotics are bacterial diseases	0.3333
+333	bt_nllb_chinese_yue	Antibiotics bacterial diseases and other diseases	0.3333
+333	bt_nllb_german	Antibiotics and bacterial disease	0.3333
+333	bt_nllb_persian	Antibiotics are a bacterial disease	0.3333
+333	bt_nllb_russian	Antibiotics and bacterial disease	0.3333
+333	bt_nllb_swahili	Antibiotics and Bacterial Disease	0.3333
+333	bt_nllb_tamil	The bacterial disease	0.0833
+334	-1	Export Controls Cryptography	1.0
+334	bt_nllb_arabic	Export control Encryption	1.0
+334	bt_nllb_chinese_yue	Export controls the password	1.0
+334	bt_nllb_french	Control of exports of cryptography	1.0
+334	bt_nllb_german	Cryptography for export controls	1.0
+334	bt_nllb_malay	Control of the export of cryptography	1.0
+334	bt_nllb_tamil	Encryption of export controls	1.0
+334	bt_nllb_korean	Export control code	0.05
+334	bt_nllb_persian	Control of crypto exports	0.0
+334	bt_nllb_russian	Control of the export of Cryptocurrency	0.0
+334	bt_nllb_swahili	The following is a list of the countries of the European Union	0.0
+335	-1	Adoptive Biological Parents	1.0
+335	bt_nllb_arabic	Adopted biological parents	1.0
+335	bt_nllb_french	Adoptive biological parents	1.0
+335	bt_nllb_german	Adoptive biological parents	1.0
+335	bt_nllb_korean	Adopted biological parents	1.0
+335	bt_nllb_malay	Adoptive biological parents	1.0
+335	bt_nllb_persian	Adoptive parents	1.0
+335	bt_nllb_russian	Adopters	1.0
+335	bt_nllb_tamil	Adoptive parents	1.0
+335	bt_nllb_chinese_yue	They are biological parents	0.5
+335	bt_nllb_swahili	Spiritual Parents	0.0
+336	-1	Black Bear Attacks	0.3333
+336	bt_nllb_arabic	Black bear attacks	0.3333
+336	bt_nllb_chinese_yue	Black bear attacks	0.3333
+336	bt_nllb_french	The attacks of the black bear	0.3333
+336	bt_nllb_german	Black bear is attacking	0.3333
+336	bt_nllb_korean	Black bear attack	0.3333
+336	bt_nllb_malay	Black bear attacks	0.3333
+336	bt_nllb_persian	The attack of the black bear	0.3333
+336	bt_nllb_russian	Black bear attacks	0.3333
+336	bt_nllb_tamil	The Black Bear Attack	0.3333
+336	bt_nllb_swahili	Attacks by Steel	0.0
+337	-1	Viral Hepatitis	0.3333
+337	bt_nllb_tamil	Hepatitis is a viral disease	1.0
+337	bt_nllb_arabic	Viral hepatitis	0.3333
+337	bt_nllb_chinese_yue	Viral hepatitis	0.3333
+337	bt_nllb_french	Viral hepatitis	0.3333
+337	bt_nllb_german	Viral hepatitis	0.3333
+337	bt_nllb_korean	Viral hepatitis	0.3333
+337	bt_nllb_malay	Viral hepatitis	0.3333
+337	bt_nllb_persian	Viral hepatitis	0.3333
+337	bt_nllb_russian	Viral hepatitis	0.3333
+337	bt_nllb_swahili	The Viruses Against Uterine Cells	0.0833
+338	-1	Risk of Aspirin	1.0
+338	bt_nllb_french	The Risks of Aspirin	1.0
+338	bt_nllb_german	Risks of aspirin	1.0
+338	bt_nllb_malay	The Risks of Aspirin	1.0
+338	bt_nllb_persian	The risks of aspirin use	1.0
+338	bt_nllb_russian	Risks of using aspirin	1.0
+338	bt_nllb_arabic	The dangers of aspirin	0.25
+338	bt_nllb_korean	The dangers of aspirin	0.25
+338	bt_nllb_swahili	The Dangers of Aspirin	0.25
+338	bt_nllb_chinese_yue	The dangers of drugs	0.0
+338	bt_nllb_tamil	The danger of Asparagus	0.0
+339	-1	Alzheimer's Drug Treatment	0.3333
+339	bt_nllb_arabic	The cure for Alzheimer s	0.3333
+339	bt_nllb_chinese_yue	Alzheimer s the cure	0.3333
+339	bt_nllb_french	Treatment of Alzheimer s	0.1429
+339	bt_nllb_malay	Treatment for Alzheimer s	0.1429
+339	bt_nllb_persian	Treatment of Alzheimer s	0.1429
+339	bt_nllb_russian	Treatment of Alzheimer s	0.1429
+339	bt_nllb_german	Treatment of Alzheimer s disease	0.1111
+339	bt_nllb_korean	The treatment of Alzheimer s disease is medicated	0.0417
+339	bt_nllb_swahili	Drug Treatment	0.0278
+339	bt_nllb_tamil	The following article will help you to understand the benefits of using medication	0.0
+340	-1	Land Mine Ban	1.0
+340	bt_nllb_arabic	The landmine ban	1.0
+340	bt_nllb_chinese_yue	Banned mines	1.0
+340	bt_nllb_french	Prohibition of landmines	1.0
+340	bt_nllb_german	Prohibition of landmines	1.0
+340	bt_nllb_korean	Mine ban	1.0
+340	bt_nllb_persian	Prohibition of landmines	1.0
+340	bt_nllb_russian	Prohibition of mining	0.5
+340	bt_nllb_tamil	Prohibition of mining	0.5
+340	bt_nllb_malay	Min Land is banned	0.0
+340	bt_nllb_swahili	Preventing the Underground Pipes	0.0
+341	-1	Airport Security	1.0
+341	bt_nllb_arabic	Airport security	1.0
+341	bt_nllb_chinese_yue	Airport security	1.0
+341	bt_nllb_french	Airport security	1.0
+341	bt_nllb_korean	Airport security	1.0
+341	bt_nllb_malay	Airport security	1.0
+341	bt_nllb_persian	Airport security	1.0
+341	bt_nllb_russian	Airport security	1.0
+341	bt_nllb_swahili	Airport Security	1.0
+341	bt_nllb_tamil	Airport security	1.0
+341	bt_nllb_german	Airport safety	0.1
+342	-1	Diplomatic Expulsion	0.25
+342	bt_nllb_arabic	The diplomatic expulsion	0.25
+342	bt_nllb_chinese_yue	Diplomatic expulsion	0.25
+342	bt_nllb_french	Diplomatic expulsion	0.25
+342	bt_nllb_korean	Diplomatic expulsion	0.25
+342	bt_nllb_malay	Diplomatic expulsion	0.25
+342	bt_nllb_russian	Diplomatic expulsion	0.25
+342	bt_nllb_tamil	Diplomatic expulsion	0.25
+342	bt_nllb_german	The Commission has already adopted a proposal for a directive on the protection of workers rights	0.0
+342	bt_nllb_persian	Diplomatic firing	0.0
+342	bt_nllb_swahili	International Exclusion	0.0
+343	-1	Police Deaths	0.0179
+343	bt_nllb_malay	Death of a cop	1.0
+343	bt_nllb_chinese_yue	The police are dead	0.0333
+343	bt_nllb_korean	Police dead	0.0333
+343	bt_nllb_persian	The police are dead	0.0333
+343	bt_nllb_russian	The police are dead	0.0333
+343	bt_nllb_arabic	Police deaths	0.0179
+343	bt_nllb_french	The deaths of police	0.0179
+343	bt_nllb_german	Police deaths	0.0179
+343	bt_nllb_swahili	The Death of the Police	0.0179
+343	bt_nllb_tamil	Police deaths	0.0179
+344	-1	Abuses of E-Mail	0.3333
+344	bt_nllb_malay	Breach of e mail	1.0
+344	bt_nllb_french	Abuse of e mail	0.3333
+344	bt_nllb_german	Misuse of e mail	0.1667
+344	bt_nllb_swahili	Misuse of E mail	0.1667
+344	bt_nllb_arabic	Email abuse	0.0
+344	bt_nllb_chinese_yue	Abuse of email	0.0
+344	bt_nllb_korean	Email abuse	0.0
+344	bt_nllb_persian	Misuse of email	0.0
+344	bt_nllb_russian	The perversion of email	0.0
+344	bt_nllb_tamil	Email use is misused	0.0
+345	-1	Overseas Tobacco Sales	0.5
+345	bt_nllb_chinese_yue	I sell cigarettes abroad	1.0
+345	bt_nllb_arabic	Tobacco sales outside	0.5
+345	bt_nllb_french	Tobacco sales abroad	0.5
+345	bt_nllb_german	Overseas tobacco sales	0.5
+345	bt_nllb_malay	Tobacco sales abroad	0.5
+345	bt_nllb_persian	The sale of tobacco abroad	0.5
+345	bt_nllb_russian	The sale of tobacco abroad	0.5
+345	bt_nllb_tamil	The sale of tobacco abroad	0.5
+345	bt_nllb_korean	Foreign sale of tobacco	0.1111
+345	bt_nllb_swahili	The Importance of Tobacco	0.0385
+346	-1	Educational Standards	0.3333
+346	bt_nllb_arabic	Educational standards	0.3333
+346	bt_nllb_chinese_yue	The standard of education	0.3333
+346	bt_nllb_german	Education standards	0.3333
+346	bt_nllb_korean	The standard of education	0.3333
+346	bt_nllb_malay	Education Standards	0.3333
+346	bt_nllb_persian	Educational standards	0.3333
+346	bt_nllb_russian	The standards of education	0.3333
+346	bt_nllb_swahili	Educational Standards	0.3333
+346	bt_nllb_tamil	Educational standards	0.3333
+346	bt_nllb_french	The rules of education	0.0116
+347	-1	Wildlife Extinction	0.3333
+347	bt_nllb_korean	Extinction of the Wild	1.0
+347	bt_nllb_persian	Extinction of the wild	1.0
+347	bt_nllb_russian	Extinction of the wild	1.0
+347	bt_nllb_tamil	The destruction of wild animals	0.5
+347	bt_nllb_arabic	Extinction of wildlife	0.3333
+347	bt_nllb_french	Extinction of the Wildlife	0.3333
+347	bt_nllb_german	Extinction of the wildlife	0.3333
+347	bt_nllb_swahili	The Extinction of Animals	0.3333
+347	bt_nllb_chinese_yue	Wildlife is disappearing	0.2
+347	bt_nllb_malay	The Beast s Disaster	0.0
+348	-1	Agoraphobia	1.0
+348	bt_nllb_french	Agoraphobia	1.0
+348	bt_nllb_german	Agoraphobia	1.0
+348	bt_nllb_korean	Agoraphobia	1.0
+348	bt_nllb_malay	Agoraphobia	1.0
+348	bt_nllb_russian	The Agoraphobia	1.0
+348	bt_nllb_arabic	Terrorism	0.0
+348	bt_nllb_chinese_yue	It s a phobia	0.0
+348	bt_nllb_persian	Agora phobia	0.0
+348	bt_nllb_swahili	The disease of fear	0.0
+348	bt_nllb_tamil	The following article will help you to understand the problem	0.0
+349	-1	Metabolism	1.0
+349	bt_nllb_chinese_yue	It s the metabolism	1.0
+349	bt_nllb_french	The metabolism	1.0
+349	bt_nllb_german	The metabolism	1.0
+349	bt_nllb_malay	The metabolism	1.0
+349	bt_nllb_persian	I m a metabolic	1.0
+349	bt_nllb_russian	The metabolism	1.0
+349	bt_nllb_arabic	Food representation	0.0
+349	bt_nllb_korean	The newcomer	0.0
+349	bt_nllb_swahili	The warmth	0.0
+349	bt_nllb_tamil	The first is the process of making a change	0.0
+350	-1	Health and Computer Terminals	1.0
+350	bt_nllb_french	Health and computer terminals	1.0
+350	bt_nllb_german	Health and computer terminals	1.0
+350	bt_nllb_korean	Health and computer terminals	1.0
+350	bt_nllb_malay	Health Terminal and Computer	1.0
+350	bt_nllb_persian	Health terminals and computers	1.0
+350	bt_nllb_tamil	Health and computer terminals	1.0
+350	bt_nllb_arabic	Health products and computers	0.1667
+350	bt_nllb_chinese_yue	Health and the end of the computer	0.0625
+350	bt_nllb_russian	Healthcare terminals and computers	0.0417
+350	bt_nllb_swahili	Healthcare Devices and Computers	0.0
+351	-1	Falkland petroleum exploration	1.0
+351	bt_nllb_arabic	Oil exploration in the Falkland Islands	1.0
+351	bt_nllb_chinese_yue	The Falkland oil exploration	1.0
+351	bt_nllb_french	Oil exploration in the Falkland Islands	1.0
+351	bt_nllb_german	Oil exploration in the Falkland Islands	1.0
+351	bt_nllb_malay	Confirmation of the Falkland oil	1.0
+351	bt_nllb_persian	The Falkland oil exploration	1.0
+351	bt_nllb_russian	Oil exploration in the Falkland Islands	1.0
+351	bt_nllb_swahili	The Falkland oil field	1.0
+351	bt_nllb_tamil	The Falkland oil exploration	1.0
+351	bt_nllb_korean	The exploration of the land	0.0
+352	-1	British Chunnel impact	1.0
+352	bt_nllb_arabic	The influence of the British Channel	1.0
+352	bt_nllb_french	The impact of the British Channel	1.0
+352	bt_nllb_german	The influence of the British Channel	1.0
+352	bt_nllb_persian	The impact of the British Channel	1.0
+352	bt_nllb_russian	The influence of the British Channel	1.0
+352	bt_nllb_malay	The British Chunnel Effect	0.5
+352	bt_nllb_swahili	The Effects of the British Chunnel	0.5
+352	bt_nllb_korean	The influence of the English Channel	0.1
+352	bt_nllb_chinese_yue	The road crashes	0.0
+352	bt_nllb_tamil	The British Subway Effect	0.0
+353	-1	Antarctica exploration	1.0
+353	bt_nllb_russian	Conducting Antarctic research	1.0
+353	bt_nllb_tamil	The study of Antarctica	1.0
+353	bt_nllb_chinese_yue	Exploring the Antarctic	0.5
+353	bt_nllb_french	Exploration of the Antarctic	0.5
+353	bt_nllb_korean	The Antarctic exploration	0.5
+353	bt_nllb_malay	Exploration of the Antarctic	0.5
+353	bt_nllb_swahili	The Antarctic	0.5
+353	bt_nllb_arabic	Exploring the South Pole	0.0417
+353	bt_nllb_persian	Exploration of the South Pole	0.0417
+353	bt_nllb_german	The Commission shall adopt delegated acts in accordance with Article of this Regulation	0.0
+354	-1	journalist risks	0.5
+354	bt_nllb_arabic	The risks of journalists	0.5
+354	bt_nllb_chinese_yue	The risk of journalists	0.5
+354	bt_nllb_french	the risks for journalists	0.5
+354	bt_nllb_german	Risks for journalists	0.5
+354	bt_nllb_malay	The risk of journalists	0.5
+354	bt_nllb_russian	The risks for journalists	0.5
+354	bt_nllb_korean	The dangers of journalism	0.027
+354	bt_nllb_swahili	The dangers of journalism	0.027
+354	bt_nllb_tamil	The dangers of journalism	0.027
+354	bt_nllb_persian	The risk of journalism	0.0
+355	-1	ocean remote sensing	1.0
+355	bt_nllb_arabic	Remote sensing in the ocean	1.0
+355	bt_nllb_chinese_yue	The ocean is remote	1.0
+355	bt_nllb_french	Remote sensing of the ocean	1.0
+355	bt_nllb_korean	Remote sensing of the ocean	1.0
+355	bt_nllb_malay	remote sensing of the ocean	1.0
+355	bt_nllb_swahili	sea remote sensing	1.0
+355	bt_nllb_persian	The ocean s re anesthesia	0.0588
+355	bt_nllb_russian	The ocean distance vision	0.0172
+355	bt_nllb_german	The following information is provided	0.0
+355	bt_nllb_tamil	The sea vision sensation	0.0
+356	-1	postmenopausal estrogen Britain	0.0435
+356	bt_nllb_arabic	Oestrogen after the age of despair Britain	1.0
+356	bt_nllb_persian	Estrogen after the British monsoon	0.0769
+356	bt_nllb_swahili	Post aging estrogen in England	0.05
+356	bt_nllb_chinese_yue	The post menopausal estrogen in the UK	0.0455
+356	bt_nllb_korean	After menopause estrogen in England	0.0455
+356	bt_nllb_french	postmenopausal estrogen in the UK	0.0435
+356	bt_nllb_german	Postmenopausal estrogen in the UK	0.0435
+356	bt_nllb_malay	estrogen postmenopausal Britain	0.0435
+356	bt_nllb_russian	postmenopausal estrogen of the UK	0.0435
+356	bt_nllb_tamil	The U S government has been trying to get the U S to take a step back	0.0
+357	-1	territorial waters dispute	1.0
+357	bt_nllb_chinese_yue	The sea is a dispute	1.0
+357	bt_nllb_french	disputes on territorial waters	1.0
+357	bt_nllb_german	Dispute over territorial waters	1.0
+357	bt_nllb_malay	territorial water disputes	1.0
+357	bt_nllb_russian	The territorial waters dispute	1.0
+357	bt_nllb_korean	Territorial disputes	0.3333
+357	bt_nllb_arabic	Regional water dispute	0.2
+357	bt_nllb_persian	Differences on territorial waters	0.1429
+357	bt_nllb_swahili	District water discussion	0.0
+357	bt_nllb_tamil	The problem of land based water	0.0
+358	-1	blood-alcohol fatalities	1.0
+358	bt_nllb_arabic	Deaths from blood alcohol	1.0
+358	bt_nllb_chinese_yue	Blood alcohol is dead	1.0
+358	bt_nllb_french	death from alcohol in the blood	1.0
+358	bt_nllb_german	Blood alcohol deaths	1.0
+358	bt_nllb_korean	Deaths from blood alcohol	1.0
+358	bt_nllb_malay	death from blood alcohol	1.0
+358	bt_nllb_persian	Deaths from blood alcohol	1.0
+358	bt_nllb_russian	death from alcohol in the blood	1.0
+358	bt_nllb_swahili	blood deaths from alcohol	1.0
+358	bt_nllb_tamil	The deaths were caused by blood alcohol	0.25
+359	-1	mutual fund predictors	0.0625
+359	bt_nllb_russian	forecast indicators of mutual funds	0.5
+359	bt_nllb_french	forecasters of mutual funds	0.1429
+359	bt_nllb_korean	Mutual fund forecasts	0.1429
+359	bt_nllb_chinese_yue	Mutual fund predictors	0.0625
+359	bt_nllb_german	The following table shows the main factors	0.0357
+359	bt_nllb_tamil	Mutual financial forecasters	0.0118
+359	bt_nllb_arabic	The expectations in the investment funds	0.0
+359	bt_nllb_malay	Predictions of joint funds	0.0
+359	bt_nllb_persian	The forecasters of investment funds	0.0
+359	bt_nllb_swahili	predictors of joint currencies	0.0
+360	-1	drug legalization benefits	1.0
+360	bt_nllb_arabic	The legal benefits of drugs	1.0
+360	bt_nllb_chinese_yue	The benefits of legalizing drugs	1.0
+360	bt_nllb_french	the benefits of legalizing drugs	1.0
+360	bt_nllb_german	Benefits of legalizing drugs	1.0
+360	bt_nllb_korean	Benefits of Legalizing Drugs	1.0
+360	bt_nllb_malay	benefits of drug legalization	1.0
+360	bt_nllb_persian	The Benefits of Legalizing Drugs	1.0
+360	bt_nllb_russian	The benefits of legalizing drugs	1.0
+360	bt_nllb_tamil	The benefits of legalizing drugs	1.0
+360	bt_nllb_swahili	legal benefits of medicines	0.0139
+361	-1	clothing sweatshops	0.3333
+361	bt_nllb_arabic	Clothing shops	0.0333
+361	bt_nllb_chinese_yue	The clothing factory	0.0
+361	bt_nllb_french	clothing workshops	0.0
+361	bt_nllb_german	Clothing stores	0.0
+361	bt_nllb_korean	Get your clothes on	0.0
+361	bt_nllb_malay	clothing store	0.0
+361	bt_nllb_persian	Clothing stores	0.0
+361	bt_nllb_russian	clothes	0.0
+361	bt_nllb_swahili	clothing stores	0.0
+361	bt_nllb_tamil	Clothing factories	0.0
+362	-1	human smuggling	0.2
+362	bt_nllb_arabic	Smuggling people	0.2
+362	bt_nllb_russian	smuggling of people	0.2
+362	bt_nllb_french	Trafficking in persons	0.027
+362	bt_nllb_korean	Trafficking in persons	0.027
+362	bt_nllb_chinese_yue	Human trafficking	0.0
+362	bt_nllb_german	Human trafficking	0.0
+362	bt_nllb_malay	human trafficking	0.0
+362	bt_nllb_persian	Human trafficking	0.0
+362	bt_nllb_swahili	Human trafficking	0.0
+362	bt_nllb_tamil	Human trafficking	0.0
+363	-1	transportation tunnel disasters	0.1
+363	bt_nllb_tamil	Traffic Tunnel Disasters	1.0
+363	bt_nllb_korean	Traffic tunnel crash	0.2
+363	bt_nllb_arabic	The disaster of the transportation tunnel	0.1
+363	bt_nllb_french	The disasters of transport tunnels	0.1
+363	bt_nllb_malay	disaster of transportation tunnel	0.1
+363	bt_nllb_persian	The disaster of the transport tunnel	0.1
+363	bt_nllb_russian	disasters in transport tunnels	0.1
+363	bt_nllb_chinese_yue	Traffic accidents	0.0
+363	bt_nllb_german	Disturbances in the transport channel	0.0
+363	bt_nllb_swahili	disasters of the dam s canals	0.0
+364	-1	rabies	1.0
+364	bt_nllb_chinese_yue	Rabies is a disease	1.0
+364	bt_nllb_german	Rabies	1.0
+364	bt_nllb_malay	rabies	1.0
+364	bt_nllb_arabic	It s ridiculous	0.0
+364	bt_nllb_french	the rage	0.0
+364	bt_nllb_korean	The Mad Men	0.0
+364	bt_nllb_persian	Your anger	0.0
+364	bt_nllb_russian	The rage	0.0
+364	bt_nllb_swahili	paralysis	0.0
+364	bt_nllb_tamil	galley	0.0
+365	-1	El Nino	1.0
+365	bt_nllb_german	The El Nino	1.0
+365	bt_nllb_korean	El Nino	1.0
+365	bt_nllb_malay	The El Nino	1.0
+365	bt_nllb_persian	The El Nino	1.0
+365	bt_nllb_russian	El Nino	1.0
+365	bt_nllb_swahili	El Nino	1.0
+365	bt_nllb_tamil	El Nino	1.0
+365	bt_nllb_arabic	The Enno	0.0
+365	bt_nllb_chinese_yue	Ernesto is the one	0.0
+365	bt_nllb_french	The neon	0.0
+366	-1	commercial cyanide uses	1.0
+366	bt_nllb_arabic	Commercial uses of cyanide	1.0
+366	bt_nllb_french	commercial use of cyanide	1.0
+366	bt_nllb_german	commercial use of cyanide	1.0
+366	bt_nllb_korean	Commercial use of cyanide	1.0
+366	bt_nllb_malay	commercial use of cyanide	1.0
+366	bt_nllb_persian	Commercial use of cyanide	1.0
+366	bt_nllb_russian	commercial use of cyanide	1.0
+366	bt_nllb_swahili	commercial use of cyanide	1.0
+366	bt_nllb_tamil	Commercial use of cyanide	1.0
+366	bt_nllb_chinese_yue	Commercial use	0.0
+367	-1	piracy	0.5
+367	bt_nllb_tamil	Navy	0.1429
+367	bt_nllb_chinese_yue	Piracy is a crime	0.125
+367	bt_nllb_korean	The pirate act	0.125
+367	bt_nllb_arabic	The pirate	0.0714
+367	bt_nllb_french	The Pirate	0.0714
+367	bt_nllb_persian	The pirate	0.0714
+367	bt_nllb_russian	The Pirate	0.0714
+367	bt_nllb_german	The Commission	0.0
+367	bt_nllb_malay	The robbers	0.0
+367	bt_nllb_swahili	crime	0.0
+368	-1	in vitro fertilization	1.0
+368	bt_nllb_french	In vitro fertilization	1.0
+368	bt_nllb_german	In vitro fertilization	1.0
+368	bt_nllb_malay	in vitro fertilization	1.0
+368	bt_nllb_russian	fertilization in vitro	1.0
+368	bt_nllb_tamil	in vitro fertilization	1.0
+368	bt_nllb_arabic	Infertilization in the virus	0.125
+368	bt_nllb_chinese_yue	Outdoor fertilization	0.0345
+368	bt_nllb_swahili	The reproduction of creatures	0.0227
+368	bt_nllb_korean	Modified by bit	0.0
+368	bt_nllb_persian	Encoding in the test	0.0
+369	-1	anorexia nervosa bulimia	1.0
+369	bt_nllb_chinese_yue	Dieting disorders and bipolar disorder	1.0
+369	bt_nllb_german	anorexia nervosa bulimia and other	1.0
+369	bt_nllb_malay	anorexia nervosa bulimia	1.0
+369	bt_nllb_russian	Anorexia and bulimia nervosa	1.0
+369	bt_nllb_swahili	anorexia nervosa bulimia	1.0
+369	bt_nllb_tamil	Anorexia nervosa is a common cause of pneumonia	1.0
+369	bt_nllb_french	bulimia anorexia nervous system	0.3333
+369	bt_nllb_persian	Nervous and tired insomnia	0.02
+369	bt_nllb_arabic	Neural dysfunction of the polymerase chain reaction	0.0
+369	bt_nllb_korean	I have a nervous breakdown	0.0
+370	-1	food/drug laws	0.0526
+370	bt_nllb_russian	Food and Drug Act	1.0
+370	bt_nllb_arabic	Food and drug laws	0.0526
+370	bt_nllb_chinese_yue	Food and Drug Law	0.0526
+370	bt_nllb_french	the laws on food and drugs	0.0526
+370	bt_nllb_german	Food and drug laws	0.0526
+370	bt_nllb_korean	Food and Drug Law	0.0526
+370	bt_nllb_malay	food drug law	0.0526
+370	bt_nllb_persian	Food and Drug Law	0.0526
+370	bt_nllb_tamil	Food drug laws	0.0526
+370	bt_nllb_swahili	food blood laws	0.0233
+371	-1	health insurance holistic	0.0
+371	bt_nllb_arabic	The health insurance coverage	0.25
+371	bt_nllb_persian	Health insurance coverage	0.25
+371	bt_nllb_german	Health insurance in general	0.0278
+371	bt_nllb_swahili	general health insurance	0.0278
+371	bt_nllb_chinese_yue	Health insurance as a whole	0.0
+371	bt_nllb_french	holistic health insurance	0.0
+371	bt_nllb_korean	The whole health insurance	0.0
+371	bt_nllb_malay	holistic health insurance	0.0
+371	bt_nllb_russian	health insurance	0.0
+371	bt_nllb_tamil	Health insurance is complete	0.0
+372	-1	Native American casino	1.0
+372	bt_nllb_chinese_yue	Native American casinos in the US	1.0
+372	bt_nllb_french	Casino of the Native Americans	1.0
+372	bt_nllb_korean	Native American casino	1.0
+372	bt_nllb_persian	Native American casinos are	1.0
+372	bt_nllb_russian	Native American casino	1.0
+372	bt_nllb_swahili	The Native American Casino	1.0
+372	bt_nllb_tamil	Indian Casino	1.0
+372	bt_nllb_arabic	The original American casino	0.3333
+372	bt_nllb_malay	The original American casino	0.3333
+372	bt_nllb_german	Local casino	0.0909
+373	-1	encryption equipment export	1.0
+373	bt_nllb_arabic	Exporting encryption equipment	1.0
+373	bt_nllb_chinese_yue	Exporting the encrypted device	1.0
+373	bt_nllb_french	export of encryption equipment	1.0
+373	bt_nllb_german	Exports of encryption devices	1.0
+373	bt_nllb_malay	export of encryption equipment	1.0
+373	bt_nllb_persian	Export of encryption equipment	1.0
+373	bt_nllb_tamil	Export of encryption equipment	1.0
+373	bt_nllb_korean	Export of cryptographic equipment	0.3333
+373	bt_nllb_swahili	outside of encryption equipment	0.3333
+373	bt_nllb_russian	Export of cipher substitution	0.0
+374	-1	Nobel prize winners	0.5
+374	bt_nllb_french	Nobel Prize for his work	1.0
+374	bt_nllb_arabic	The Nobel Prize winners	0.5
+374	bt_nllb_chinese_yue	The Nobel Prize winner	0.5
+374	bt_nllb_german	Nobel laureates	0.5
+374	bt_nllb_korean	Nobel Prize winner	0.5
+374	bt_nllb_malay	The Nobel Prize winner	0.5
+374	bt_nllb_persian	The Nobel Prize winners	0.5
+374	bt_nllb_russian	Nobel laureates	0.5
+374	bt_nllb_swahili	The Nobel Prize winners	0.5
+374	bt_nllb_tamil	The Nobel Prize winners	0.5
+375	-1	hydrogen energy	0.5
+375	bt_nllb_arabic	Hydrogen energy	0.5
+375	bt_nllb_french	Hydrogen energy	0.5
+375	bt_nllb_german	Hydrogen energy	0.5
+375	bt_nllb_korean	Hydrogen energy	0.5
+375	bt_nllb_malay	Hydrogen energy	0.5
+375	bt_nllb_persian	Hydrogen energy	0.5
+375	bt_nllb_russian	hydrogen energy	0.5
+375	bt_nllb_swahili	hydrogen energy	0.5
+375	bt_nllb_tamil	Hydrogen energy	0.5
+375	bt_nllb_chinese_yue	Air	0.0
+376	-1	World Court	0.3333
+376	bt_nllb_arabic	The World Court	0.3333
+376	bt_nllb_chinese_yue	The World Court	0.3333
+376	bt_nllb_french	The World Court	0.3333
+376	bt_nllb_korean	The World Court	0.3333
+376	bt_nllb_malay	The World Court	0.3333
+376	bt_nllb_persian	The World Court	0.3333
+376	bt_nllb_russian	The World Court	0.3333
+376	bt_nllb_swahili	The World Court	0.3333
+376	bt_nllb_tamil	The World Court	0.3333
+376	bt_nllb_german	Court of Justice	0.0227
+377	-1	cigar smoking	1.0
+377	bt_nllb_french	smoke from cigars	1.0
+377	bt_nllb_chinese_yue	I smoke	0.1111
+377	bt_nllb_german	Smoking of cigarettes	0.1
+377	bt_nllb_malay	Smoking a cigarette	0.1
+377	bt_nllb_russian	smoking a cigarette	0.1
+377	bt_nllb_korean	Smoking is a big deal	0.0476
+377	bt_nllb_persian	Smoking is a big deal	0.0476
+377	bt_nllb_tamil	Smoking tobacco	0.0476
+377	bt_nllb_arabic	Smoking	0.0104
+377	bt_nllb_swahili	smoking	0.0104
+378	-1	euro opposition	0.0116
+378	bt_nllb_arabic	Opposition to the European Union	0.1
+378	bt_nllb_korean	The Euro against	0.0435
+378	bt_nllb_malay	against the euro	0.0435
+378	bt_nllb_chinese_yue	The euro is opposite	0.0116
+378	bt_nllb_french	Opposition to the euro	0.0116
+378	bt_nllb_persian	Opposition to the euro	0.0116
+378	bt_nllb_russian	The opposition to the euro	0.0116
+378	bt_nllb_swahili	opposition to the euro	0.0116
+378	bt_nllb_german	The euro resistance	0.0
+378	bt_nllb_tamil	Anti euro	0.0
+379	-1	mainstreaming	1.0
+379	bt_nllb_arabic	The integration	0.0
+379	bt_nllb_chinese_yue	It s a combination	0.0
+379	bt_nllb_french	integration	0.0
+379	bt_nllb_german	The Commission shall adopt a decision on the following	0.0
+379	bt_nllb_korean	Integration	0.0
+379	bt_nllb_malay	control	0.0
+379	bt_nllb_persian	Continuous	0.0
+379	bt_nllb_russian	integration	0.0
+379	bt_nllb_swahili	to insert	0.0
+379	bt_nllb_tamil	spread	0.0
+380	-1	obesity medical treatment	0.5
+380	bt_nllb_chinese_yue	Obesity treatment	1.0
+380	bt_nllb_tamil	Obesity is a medical condition that affects the body	1.0
+380	bt_nllb_french	medical treatment of obesity	0.5
+380	bt_nllb_german	Medical treatment of obesity	0.5
+380	bt_nllb_korean	Medical Treatment for Obesity	0.5
+380	bt_nllb_malay	medical treatment of obesity	0.5
+380	bt_nllb_persian	Medical treatment for obesity	0.5
+380	bt_nllb_russian	medical treatment of obesity	0.5
+380	bt_nllb_arabic	Medical treatment for depression	0.0
+380	bt_nllb_swahili	treatment of the terminal illness	0.0
+381	-1	alternative medicine	1.0
+381	bt_nllb_arabic	Alternative medicine	1.0
+381	bt_nllb_french	alternative medicine	1.0
+381	bt_nllb_german	Alternative medicine	1.0
+381	bt_nllb_malay	alternative medicines	1.0
+381	bt_nllb_persian	The alternative medicine	1.0
+381	bt_nllb_russian	alternative medicine	1.0
+381	bt_nllb_swahili	alternative medicine	1.0
+381	bt_nllb_tamil	Alternative medicine	1.0
+381	bt_nllb_chinese_yue	It s a substitute for medicine	0.0
+381	bt_nllb_korean	Other medicines	0.0
+382	-1	hydrogen fuel automobiles	1.0
+382	bt_nllb_arabic	Hydrogen fueled cars	1.0
+382	bt_nllb_french	Hydrogen fuelled vehicles	1.0
+382	bt_nllb_german	Hydrogen vehicles	1.0
+382	bt_nllb_korean	Hydrogen fuel cars	1.0
+382	bt_nllb_malay	hydrogen fuel vehicles	1.0
+382	bt_nllb_persian	Hydrogen fuel vehicles	1.0
+382	bt_nllb_russian	hydrogen fuel vehicles	1.0
+382	bt_nllb_swahili	hydrogen fuel vehicles	1.0
+382	bt_nllb_tamil	Hydrogen Fuel Vehicles	1.0
+382	bt_nllb_chinese_yue	Fuel cars	0.5
+383	-1	mental illness drugs	0.2
+383	bt_nllb_chinese_yue	Psychiatric drugs	1.0
+383	bt_nllb_french	medicines for mental illness	0.3333
+383	bt_nllb_tamil	The psychological drugs	0.3333
+383	bt_nllb_arabic	Drugs are mental ill	0.2
+383	bt_nllb_german	Drugs for mental health	0.2
+383	bt_nllb_korean	Drugs for mental illness	0.2
+383	bt_nllb_persian	Drugs are a mental illness	0.2
+383	bt_nllb_russian	Drugs for mental illness	0.2
+383	bt_nllb_swahili	drugs	0.0256
+383	bt_nllb_malay	mental illness	0.0172
+384	-1	space station moon	1.0
+384	bt_nllb_arabic	The moon space station	1.0
+384	bt_nllb_chinese_yue	The moon is the space station	1.0
+384	bt_nllb_french	the moon of the space station	1.0
+384	bt_nllb_german	The moon of the space station	1.0
+384	bt_nllb_korean	The moon at the space station	1.0
+384	bt_nllb_persian	The moon of the space station	1.0
+384	bt_nllb_russian	The moon of the space station	1.0
+384	bt_nllb_swahili	the moon of the space station	1.0
+384	bt_nllb_tamil	The space station moon	1.0
+384	bt_nllb_malay	The lunar space station	0.25
+385	-1	hybrid fuel cars	1.0
+385	bt_nllb_chinese_yue	Hybrid cars	1.0
+385	bt_nllb_french	hybrid fuel cars	1.0
+385	bt_nllb_german	Hybrid vehicles	1.0
+385	bt_nllb_korean	Hybrid fuel car	1.0
+385	bt_nllb_malay	hybrid fuel	1.0
+385	bt_nllb_russian	hybrid fuel vehicles	1.0
+385	bt_nllb_swahili	hybrid fuel vehicles	1.0
+385	bt_nllb_tamil	Hybrid fuel vehicles	1.0
+385	bt_nllb_persian	Combined fuel cars	0.5
+385	bt_nllb_arabic	Fuel cars are homeless	0.0213
+386	-1	teaching disabled children	0.25
+386	bt_nllb_malay	teaching disabled children	0.25
+386	bt_nllb_persian	Education for handicapped children	0.25
+386	bt_nllb_swahili	teaching disabled children	0.25
+386	bt_nllb_tamil	Teaching Children with Disabilities	0.25
+386	bt_nllb_chinese_yue	Learning disabled children	0.125
+386	bt_nllb_arabic	Education of children with disabilities	0.0625
+386	bt_nllb_french	education of disabled children	0.0625
+386	bt_nllb_german	Education for children with disabilities	0.0625
+386	bt_nllb_korean	Education for Disabled Children	0.0625
+386	bt_nllb_russian	education of children with disabilities	0.0625
+387	-1	radioactive waste	1.0
+387	bt_nllb_arabic	Radioactive waste	1.0
+387	bt_nllb_chinese_yue	Radioactive waste	1.0
+387	bt_nllb_french	radioactive waste	1.0
+387	bt_nllb_german	Radioactive waste	1.0
+387	bt_nllb_korean	Radioactive waste	1.0
+387	bt_nllb_malay	radioactive waste	1.0
+387	bt_nllb_russian	radioactive waste	1.0
+387	bt_nllb_swahili	Radioactive fuel	0.3333
+387	bt_nllb_tamil	Radiation waste	0.0833
+387	bt_nllb_persian	The radiation	0.0
+388	-1	organic soil enhancement	0.0833
+388	bt_nllb_chinese_yue	Organic soil is growing	1.0
+388	bt_nllb_malay	increase in organic soil	0.3333
+388	bt_nllb_persian	Increased organic soil	0.3333
+388	bt_nllb_french	improvement of organic soils	0.25
+388	bt_nllb_russian	organic improvement of soil	0.25
+388	bt_nllb_tamil	Organic Soil Development	0.25
+388	bt_nllb_german	organic soil extraction	0.2
+388	bt_nllb_swahili	strengthening organic soil	0.1429
+388	bt_nllb_arabic	Organic soil reinforcement	0.1111
+388	bt_nllb_korean	Organic Soil Promotion	0.0476
+389	-1	illegal technology transfer	1.0
+389	bt_nllb_arabic	Illegal technology transfer	1.0
+389	bt_nllb_french	illegal transfer of technology	1.0
+389	bt_nllb_german	Illegal technology transfer	1.0
+389	bt_nllb_korean	Illegal technology transfer	1.0
+389	bt_nllb_persian	Illegal technology transfer	1.0
+389	bt_nllb_russian	Illegal transfer of technology	1.0
+389	bt_nllb_swahili	Illegal technology transfer	1.0
+389	bt_nllb_tamil	Illegal technology exchange	1.0
+389	bt_nllb_malay	unauthorized technology transfer	0.0345
+389	bt_nllb_chinese_yue	Illegal transportation technology	0.0323
+390	-1	orphan drugs	1.0
+390	bt_nllb_arabic	Orphan drugs	1.0
+390	bt_nllb_french	orphan drugs	1.0
+390	bt_nllb_korean	Orphan drug	1.0
+390	bt_nllb_malay	orphan drug	1.0
+390	bt_nllb_persian	Orphan drugs	1.0
+390	bt_nllb_russian	drugs for orphans	1.0
+390	bt_nllb_chinese_yue	Orphan medicine	0.5
+390	bt_nllb_swahili	medicines for orphans	0.5
+390	bt_nllb_tamil	Orphan medicines	0.5
+390	bt_nllb_german	Orphans	0.25
+391	-1	R&D drug prices	1.0
+391	bt_nllb_chinese_yue	The cost of drug development	1.0
+391	bt_nllb_french	Drug prices in R D	1.0
+391	bt_nllb_korean	Research and development drug prices	1.0
+391	bt_nllb_malay	R D costs of medicines	1.0
+391	bt_nllb_persian	Costs of drug research and development	1.0
+391	bt_nllb_swahili	R D drug prices	1.0
+391	bt_nllb_tamil	Pharmaceutical R D prices	1.0
+391	bt_nllb_german	Price for research and development of medicinal products	0.5
+391	bt_nllb_russian	R D prices	0.25
+391	bt_nllb_arabic	Research and development	0.0256
+392	-1	robotics	1.0
+392	bt_nllb_arabic	The robots	1.0
+392	bt_nllb_chinese_yue	The robot	1.0
+392	bt_nllb_french	robotics	1.0
+392	bt_nllb_korean	The robot	1.0
+392	bt_nllb_malay	robotics	1.0
+392	bt_nllb_persian	The robot	1.0
+392	bt_nllb_russian	robotics	1.0
+392	bt_nllb_swahili	a robot	1.0
+392	bt_nllb_tamil	Robots	1.0
+392	bt_nllb_german	Other vehicles	0.3333
+393	-1	mercy killing	1.0
+393	bt_nllb_arabic	Killing the mercy	1.0
+393	bt_nllb_chinese_yue	Mercy is killing	1.0
+393	bt_nllb_swahili	killing with mercy	1.0
+393	bt_nllb_malay	Killing with compassion	0.5
+393	bt_nllb_french	murder of mercy	0.25
+393	bt_nllb_korean	Murder of mercy	0.25
+393	bt_nllb_persian	A merciful murder	0.25
+393	bt_nllb_german	Mercy	0.0222
+393	bt_nllb_russian	mercy	0.0222
+393	bt_nllb_tamil	The Bible says that the wicked will be put to death	0.0
+394	-1	home schooling	0.125
+394	bt_nllb_chinese_yue	Family education	0.5
+394	bt_nllb_arabic	Home schooling	0.125
+394	bt_nllb_malay	school at home	0.125
+394	bt_nllb_persian	Home schooling	0.125
+394	bt_nllb_russian	home schooling	0.125
+394	bt_nllb_tamil	Home school	0.125
+394	bt_nllb_french	home education	0.0556
+394	bt_nllb_korean	Home education	0.0556
+394	bt_nllb_swahili	home education	0.0556
+394	bt_nllb_german	Home	0.0
+395	-1	tourism	0.25
+395	bt_nllb_arabic	Tourism	0.25
+395	bt_nllb_french	tourism	0.25
+395	bt_nllb_german	Tourism	0.25
+395	bt_nllb_korean	Tourism	0.25
+395	bt_nllb_malay	tourism	0.25
+395	bt_nllb_persian	Tourism	0.25
+395	bt_nllb_russian	Tourism	0.25
+395	bt_nllb_swahili	Tourism	0.25
+395	bt_nllb_tamil	tourism	0.25
+395	bt_nllb_chinese_yue	Traveling	0.0
+396	-1	sick building syndrome	1.0
+396	bt_nllb_chinese_yue	The sick room syndrome	1.0
+396	bt_nllb_french	sick building syndrome	1.0
+396	bt_nllb_korean	The sick building syndrome	1.0
+396	bt_nllb_malay	Building syndrome is sick	1.0
+396	bt_nllb_persian	The sick building syndrome	1.0
+396	bt_nllb_swahili	building sickness	1.0
+396	bt_nllb_tamil	Ill building disease	1.0
+396	bt_nllb_german	Disease and building syndrome	0.0263
+396	bt_nllb_russian	building disease syndrome	0.0263
+396	bt_nllb_arabic	The patient syndrome	0.0
+397	-1	automobile recalls	0.1111
+397	bt_nllb_arabic	The car recall	0.5
+397	bt_nllb_tamil	Vehicle recall	0.5
+397	bt_nllb_chinese_yue	The car warns	0.0
+397	bt_nllb_french	car reminders	0.0
+397	bt_nllb_german	Car disabilities	0.0
+397	bt_nllb_korean	Car recovery	0.0
+397	bt_nllb_malay	return of the car	0.0
+397	bt_nllb_persian	The car inspector	0.0
+397	bt_nllb_russian	The car reviews	0.0
+397	bt_nllb_swahili	remembering cars	0.0
+398	-1	dismantling Europe's arsenal	1.0
+398	bt_nllb_chinese_yue	To destroy the European arsenal	1.0
+398	bt_nllb_malay	breaking up the European weapons	0.25
+398	bt_nllb_korean	The dismantling of Europe s defenseless forces	0.1667
+398	bt_nllb_arabic	Dismantling the arsenal of Europe	0.125
+398	bt_nllb_swahili	the destruction of European weapons	0.0476
+398	bt_nllb_persian	The destruction of the European arsenal	0.0323
+398	bt_nllb_russian	The destruction of the European arsenal	0.0323
+398	bt_nllb_tamil	The European Arsenal is being dismantled	0.0244
+398	bt_nllb_french	dismantling of the European arsenal	0.0179
+398	bt_nllb_german	The Commission has asked the Commission to discuss the	0.0
+399	-1	oceanographic vessels	0.5
+399	bt_nllb_arabic	The ocean ships	0.5
+399	bt_nllb_korean	The oceanographic ship	0.5
+399	bt_nllb_malay	oceanographic ships	0.5
+399	bt_nllb_persian	Oceanographic ships	0.5
+399	bt_nllb_russian	oceanographic ships	0.5
+399	bt_nllb_german	Sea going vessels	0.25
+399	bt_nllb_french	ocean going vessels	0.1667
+399	bt_nllb_chinese_yue	Marine ships	0.0172
+399	bt_nllb_swahili	ships of the sea	0.0
+399	bt_nllb_tamil	Ships of the sea	0.0
+400	-1	Amazon rain forest	1.0
+400	bt_nllb_arabic	The Amazon rainforest	1.0
+400	bt_nllb_chinese_yue	The Amazon rainforest	1.0
+400	bt_nllb_french	The Amazon Rainforest	1.0
+400	bt_nllb_german	The Amazon rainforest	1.0
+400	bt_nllb_korean	The Amazon rainforest	1.0
+400	bt_nllb_malay	The Amazon rainforest	1.0
+400	bt_nllb_persian	The Amazon rainforest	1.0
+400	bt_nllb_russian	The Amazon rainforest	1.0
+400	bt_nllb_swahili	The Amazon rainforest	1.0
+400	bt_nllb_tamil	The Amazon Rainforest	1.0
+401	-1	foreign minorities, Germany	1.0
+401	bt_nllb_arabic	Foreign minorities Germany	1.0
+401	bt_nllb_chinese_yue	Foreign minorities Germany	1.0
+401	bt_nllb_french	Foreign minorities Germany	1.0
+401	bt_nllb_german	Foreign minorities Germany	1.0
+401	bt_nllb_korean	Foreign language minorities Germany	1.0
+401	bt_nllb_malay	foreign minority Germany	1.0
+401	bt_nllb_persian	Foreign minorities Germany	1.0
+401	bt_nllb_russian	foreign minorities Germany	1.0
+401	bt_nllb_swahili	A few foreigners Germany	1.0
+401	bt_nllb_tamil	The foreign minorities Germany	1.0
+402	-1	behavioral genetics	1.0
+402	bt_nllb_chinese_yue	Behavioral genetics is the key to this	1.0
+402	bt_nllb_french	genetic behavior	1.0
+402	bt_nllb_korean	Behavioral genetics is	1.0
+402	bt_nllb_malay	Behavioral genetics	1.0
+402	bt_nllb_persian	Behavioral genetics is what it is	1.0
+402	bt_nllb_russian	genetics of behavior	1.0
+402	bt_nllb_swahili	genetics behavior	1.0
+402	bt_nllb_arabic	Behavioral genetics is a very important part of our lives	0.5
+402	bt_nllb_german	The following is a summary of the results of the study	0.0
+402	bt_nllb_tamil	The Bible teaches that the Bible is a source of inspiration	0.0
+403	-1	osteoporosis	1.0
+403	bt_nllb_french	osteoporosis	1.0
+403	bt_nllb_german	Osteoporosis	1.0
+403	bt_nllb_malay	osteoporosis	1.0
+403	bt_nllb_russian	Osteoporosis	1.0
+403	bt_nllb_swahili	bone disease	0.5
+403	bt_nllb_tamil	A broken bone	0.0357
+403	bt_nllb_chinese_yue	It s a bone marrow disease	0.0161
+403	bt_nllb_arabic	The bone marrow	0.0
+403	bt_nllb_korean	I have osteoarthritis	0.0
+403	bt_nllb_persian	The Stoporosis	0.0
+404	-1	Ireland, peace talks	0.2
+404	bt_nllb_arabic	Ireland peace talks	0.2
+404	bt_nllb_chinese_yue	Ireland peace negotiations	0.2
+404	bt_nllb_french	Ireland peace negotiations	0.2
+404	bt_nllb_korean	Ireland peace negotiations	0.2
+404	bt_nllb_malay	Ireland peace negotiations	0.2
+404	bt_nllb_persian	Ireland peace negotiations	0.2
+404	bt_nllb_russian	Ireland peace negotiations	0.2
+404	bt_nllb_swahili	Ireland peace talks	0.2
+404	bt_nllb_tamil	Ireland peace talks	0.2
+404	bt_nllb_german	The Commission has also adopted a number of proposals	0.0
+405	-1	cosmic events	0.1667
+405	bt_nllb_chinese_yue	The cosmic event	0.1667
+405	bt_nllb_french	cosmic events	0.1667
+405	bt_nllb_german	Cosmic Events	0.1667
+405	bt_nllb_korean	The cosmic event	0.1667
+405	bt_nllb_malay	cosmic events	0.1667
+405	bt_nllb_persian	Cosmic events	0.1667
+405	bt_nllb_tamil	Cosmic events	0.1667
+405	bt_nllb_arabic	The events of the universe	0.0417
+405	bt_nllb_russian	the space events	0.0278
+405	bt_nllb_swahili	world events	0.0
+406	-1	Parkinson's disease	1.0
+406	bt_nllb_arabic	Parkinson s disease is not a problem	1.0
+406	bt_nllb_chinese_yue	Parkinson s disease is a disease	1.0
+406	bt_nllb_french	Parkinson s disease is	1.0
+406	bt_nllb_korean	Parkinson s disease is not a disease	1.0
+406	bt_nllb_malay	Parkinson s disease is	1.0
+406	bt_nllb_persian	Parkinson s disease is a disease that affects the brain	1.0
+406	bt_nllb_russian	Parkinson s disease is a disease	1.0
+406	bt_nllb_swahili	Parkinson s disease is a disease	1.0
+406	bt_nllb_tamil	Parkinson s disease is a disease that affects the body	1.0
+406	bt_nllb_german	Parkinson s disease is the most common form of dementia	0.5
+407	-1	poaching, wildlife preserves	1.0
+407	bt_nllb_french	poaching wildlife conservation	1.0
+407	bt_nllb_korean	Protecting the Wildlife	1.0
+407	bt_nllb_russian	Poaching wildlife conservation	1.0
+407	bt_nllb_german	Fisheries fisheries and fisheries	0.25
+407	bt_nllb_arabic	Black hunting saving wildlife	0.2
+407	bt_nllb_chinese_yue	Hunting wildlife protection	0.1667
+407	bt_nllb_malay	hunting protection of wildlife	0.1667
+407	bt_nllb_swahili	hunting conservation of animals	0.125
+407	bt_nllb_persian	Wild hunting protecting wildlife	0.0833
+407	bt_nllb_tamil	Protecting the flora and fauna	0.0294
+408	-1	tropical storms	0.5
+408	bt_nllb_arabic	Tropical storms	0.5
+408	bt_nllb_chinese_yue	Tropical storms	0.5
+408	bt_nllb_french	tropical storms	0.5
+408	bt_nllb_german	Tropical storms	0.5
+408	bt_nllb_korean	A tropical storm	0.5
+408	bt_nllb_malay	tropical storm	0.5
+408	bt_nllb_persian	Tropical storms	0.5
+408	bt_nllb_russian	Tropical storms	0.5
+408	bt_nllb_swahili	tropical storms	0.5
+408	bt_nllb_tamil	Tropical storms	0.5
+409	-1	legal, Pan Am, 103	0.5
+409	bt_nllb_arabic	Legal Pan Am	0.5
+409	bt_nllb_swahili	legal Pan Am	0.5
+409	bt_nllb_malay	The law Pan Am	0.0588
+409	bt_nllb_tamil	The Law Pan Am	0.0588
+409	bt_nllb_chinese_yue	Corporate Pan Am	0.0556
+409	bt_nllb_persian	Legal my name is Pan	0.0233
+409	bt_nllb_french	The European Parliament the European Parliament the European Council the European Council the European Council the European Council the European Council the European Council the European Council the European Council the European Council the European Council the European Council the European Council the European Council the European Council the European Council the European Council the European Council the European Council the European Council the European Council the European Council the European Council the European Council the European Council the European Council the European Council the European Council the European Council the European Council the European Council the European Council the European Council the European Council the European Council the European Council the European Council the European Council the European Council the European Parliament the European Parliament the European Council the European Parliament the European Council the European Parliament the European Council the European Parliament the European Council the European Parliament the European Council the European Parliament the European Council the European Parliament the European Parliament the European Council the European Parliament the European Council the European Council the European Council the European Council the European Council the European Council the European Council the European Council the European Council the European Council the European Council the European Council the European Council the European Council the European Council the European Parliament the European Parliament the European Council the European Council the European Council the European Council the European Council the European Council the European Council the European Council the European Council the European Council the European Council the European Council the European Council the European Council the European Council the European Council the European Council the European Parliament the European Council the European Council the European Council the European Council the European Council the European Council the European Council the European Council the European Council the European Council the European Council the European Council the European Council the European Council the European Council the European Council the European Council the European Council the European Council the European Council the European Council the European Council the European Council the European Council the European Council the European Council the European Council the European Council the European Council the European Council the European Council the European Council the European Council the European Council the European Council the European	0.0
+409	bt_nllb_german	That s a problem	0.0
+409	bt_nllb_korean	Law Panama	0.0
+409	bt_nllb_russian	The law Panama	0.0
+410	-1	Schengen agreement	1.0
+410	bt_nllb_arabic	The Schengen Agreement	1.0
+410	bt_nllb_chinese_yue	The Schengen Agreement	1.0
+410	bt_nllb_french	The Schengen Agreement	1.0
+410	bt_nllb_german	The Schengen Agreement	1.0
+410	bt_nllb_malay	The Schengen Agreement	1.0
+410	bt_nllb_russian	The Schengen Agreement	1.0
+410	bt_nllb_swahili	The Schengen Agreement	1.0
+410	bt_nllb_tamil	The Schengen Agreement	1.0
+410	bt_nllb_korean	The deal	0.0
+410	bt_nllb_persian	The Shanghai deal	0.0
+411	-1	salvaging, shipwreck, treasure	1.0
+411	bt_nllb_korean	Rescue ship wreck treasure	1.0
+411	bt_nllb_swahili	salvage shipwreck treasure	1.0
+411	bt_nllb_chinese_yue	Salvation shipwrecks treasures	0.5
+411	bt_nllb_arabic	Rescue shipwreck treasure	0.3333
+411	bt_nllb_french	rescue shipwreck treasure	0.3333
+411	bt_nllb_german	Rescue shipwreck treasure	0.3333
+411	bt_nllb_russian	Rescue work shipwreck treasure	0.3333
+411	bt_nllb_persian	Saving sinking the ship treasure	0.2
+411	bt_nllb_malay	rescue sinking ship treasure	0.125
+411	bt_nllb_tamil	The Bible says that the righteous will be saved and the righteous will be saved	0.0
+412	-1	airport security	1.0
+412	bt_nllb_arabic	Airport security	1.0
+412	bt_nllb_chinese_yue	Airport security	1.0
+412	bt_nllb_french	Airport security	1.0
+412	bt_nllb_korean	Airport security	1.0
+412	bt_nllb_malay	Airport security	1.0
+412	bt_nllb_persian	Airport security	1.0
+412	bt_nllb_russian	airport security	1.0
+412	bt_nllb_swahili	Airport security	1.0
+412	bt_nllb_tamil	Airport security	1.0
+412	bt_nllb_german	Airport safety	0.04
+413	-1	steel production	0.25
+413	bt_nllb_chinese_yue	The steel industry	0.3333
+413	bt_nllb_arabic	Production of steel	0.25
+413	bt_nllb_french	steel production	0.25
+413	bt_nllb_german	Steel production	0.25
+413	bt_nllb_korean	Production of steel	0.25
+413	bt_nllb_malay	steel production	0.25
+413	bt_nllb_persian	Steel production	0.25
+413	bt_nllb_russian	steel production	0.25
+413	bt_nllb_tamil	Steel production	0.25
+413	bt_nllb_swahili	iron production	0.1111
+414	-1	Cuba, sugar, exports	1.0
+414	bt_nllb_arabic	Cuba sugar exports	1.0
+414	bt_nllb_chinese_yue	Cuba sugar exports	1.0
+414	bt_nllb_korean	Cuba sugar exports	1.0
+414	bt_nllb_persian	Cuba sugar exports	1.0
+414	bt_nllb_russian	Cuba sugar exports	1.0
+414	bt_nllb_tamil	Cuba sugar exports	1.0
+414	bt_nllb_swahili	Cuba sugar sales	0.5
+414	bt_nllb_malay	Try sugar export	0.025
+414	bt_nllb_french	The Commission has not yet adopted a proposal for a regulation on the marketing of sugar	0.0
+414	bt_nllb_german	The Commission has not yet adopted a proposal for a regulation	0.0
+415	-1	drugs, Golden Triangle	1.0
+415	bt_nllb_arabic	Drugs the golden triangle	1.0
+415	bt_nllb_chinese_yue	Drugs the Golden Triangle	1.0
+415	bt_nllb_french	Drugs the Golden Triangle	1.0
+415	bt_nllb_german	Drugs golden triangle	1.0
+415	bt_nllb_korean	Drugs the golden triangle	1.0
+415	bt_nllb_malay	Drugs the Golden Triangle	1.0
+415	bt_nllb_persian	Drugs the golden triangle	1.0
+415	bt_nllb_russian	Drugs the Golden Triangle	1.0
+415	bt_nllb_tamil	Drugs the Golden Triangle	1.0
+415	bt_nllb_swahili	The Golden Triangle	0.3333
+416	-1	Three Gorges Project	0.5
+416	bt_nllb_chinese_yue	Three Gorges Project	0.5
+416	bt_nllb_french	Project of the Three Gorges	0.5
+416	bt_nllb_german	Project Three Gorges	0.5
+416	bt_nllb_malay	The Three Gorges Project	0.5
+416	bt_nllb_russian	The Three Gorges Project	0.5
+416	bt_nllb_swahili	The Three Gorges Project	0.5
+416	bt_nllb_korean	The Three Rivers Alley Project	0.1111
+416	bt_nllb_arabic	Project Three Daggers	0.0
+416	bt_nllb_persian	Project Three Treasures	0.0
+416	bt_nllb_tamil	The Three Valleys Project	0.0
+417	-1	creativity	1.0
+417	bt_nllb_arabic	Creativity	1.0
+417	bt_nllb_french	creativity	1.0
+417	bt_nllb_german	Creativity	1.0
+417	bt_nllb_korean	Creativity is	1.0
+417	bt_nllb_malay	creativity	1.0
+417	bt_nllb_persian	Creativity is what it is	1.0
+417	bt_nllb_russian	The creativity	1.0
+417	bt_nllb_swahili	creative	1.0
+417	bt_nllb_tamil	Creativity	1.0
+417	bt_nllb_chinese_yue	Creativity is the key	0.1
+418	-1	quilts, income	1.0
+418	bt_nllb_french	Layered return	0.0103
+418	bt_nllb_arabic	The M I the income	0.0
+418	bt_nllb_chinese_yue	Clothes income	0.0
+418	bt_nllb_german	Clothing income	0.0
+418	bt_nllb_korean	The gear the income	0.0
+418	bt_nllb_malay	Lightning income	0.0
+418	bt_nllb_persian	Shoes income	0.0
+418	bt_nllb_russian	Carpets income	0.0
+418	bt_nllb_swahili	shoes income	0.0
+418	bt_nllb_tamil	Clothes and income	0.0
+419	-1	recycle, automobile tires	0.3333
+419	bt_nllb_french	recycling tyres automotive tyres	1.0
+419	bt_nllb_german	Recycling vehicle tyres	1.0
+419	bt_nllb_russian	recycling automotive tires	0.5
+419	bt_nllb_arabic	Recycling car tires	0.3333
+419	bt_nllb_chinese_yue	Recycling machines car tires	0.3333
+419	bt_nllb_korean	Recycling car tires	0.3333
+419	bt_nllb_malay	Recycling car tires	0.3333
+419	bt_nllb_persian	Recycling car tires	0.3333
+419	bt_nllb_swahili	Recycling car tires	0.3333
+419	bt_nllb_tamil	Recycling and recycling of automobile tires	0.25
+420	-1	carbon monoxide poisoning	1.0
+420	bt_nllb_arabic	It s carbon dioxide poisoning	1.0
+420	bt_nllb_chinese_yue	Carbon dioxide poisoning	1.0
+420	bt_nllb_french	Carbon monoxide poisoning	1.0
+420	bt_nllb_german	Poisoning by carbon monoxide	1.0
+420	bt_nllb_malay	carbon monoxide poisoning	1.0
+420	bt_nllb_persian	Carbon monoxide poisoning	1.0
+420	bt_nllb_russian	carbon dioxide poisoning	1.0
+420	bt_nllb_swahili	carbon monoxide poisoning	1.0
+420	bt_nllb_tamil	Carbon monoxide poisoning	1.0
+420	bt_nllb_korean	Carbon monoxide addiction	0.3333
+421	-1	industrial waste disposal	0.0435
+421	bt_nllb_chinese_yue	Industrial waste management	1.0
+421	bt_nllb_german	Waste management of industrial waste	1.0
+421	bt_nllb_swahili	removal of industrial waste	0.0588
+421	bt_nllb_russian	waste disposal	0.0556
+421	bt_nllb_arabic	Disposal of industrial waste	0.0435
+421	bt_nllb_french	disposal of industrial waste	0.0435
+421	bt_nllb_korean	The disposal of industrial waste	0.0435
+421	bt_nllb_malay	industrial waste disposal	0.0435
+421	bt_nllb_persian	Industrial waste disposal	0.0435
+421	bt_nllb_tamil	Disposal of industrial waste	0.0435
+422	-1	art, stolen, forged	0.5
+422	bt_nllb_arabic	Art theft faking	1.0
+422	bt_nllb_chinese_yue	The art of stealing of faking	1.0
+422	bt_nllb_korean	Art stolen faked	1.0
+422	bt_nllb_swahili	art theft faking	1.0
+422	bt_nllb_tamil	Art stolen faked	1.0
+422	bt_nllb_french	Art stolen forged	0.5
+422	bt_nllb_german	Art stolen forged	0.5
+422	bt_nllb_malay	art stolen forged	0.5
+422	bt_nllb_persian	Art stolen forged	0.5
+422	bt_nllb_russian	Art stolen forged	0.5
+423	-1	Milosevic, Mirjana Markovic	1.0
+423	bt_nllb_french	Milosevic Mirjana Markovic	1.0
+423	bt_nllb_korean	Milosevic Mirzana and Markovic	1.0
+423	bt_nllb_malay	Milosevic Mirjana Markovic	1.0
+423	bt_nllb_russian	Milosevic Mirjana Markovic	1.0
+423	bt_nllb_swahili	Milosevic and Mirjana Markovic	1.0
+423	bt_nllb_arabic	Milosevic this is Mirjana Markowitz	0.5
+423	bt_nllb_chinese_yue	Milosevic Mirjana Makovic and the other two	0.5
+423	bt_nllb_persian	Milosevic Mirania Markovic and the other two	0.5
+423	bt_nllb_tamil	The first was the death of a young man named Mirjana Markovich	0.0667
+423	bt_nllb_german	The Commission has also adopted a proposal for a regulation on the protection of the environment	0.0
+424	-1	suicides	0.0909
+424	bt_nllb_arabic	Suicide	0.0909
+424	bt_nllb_chinese_yue	Suicide	0.0909
+424	bt_nllb_french	suicide	0.0909
+424	bt_nllb_german	Suicide	0.0909
+424	bt_nllb_korean	Suicide	0.0909
+424	bt_nllb_malay	Suicide	0.0909
+424	bt_nllb_persian	Suicide	0.0909
+424	bt_nllb_russian	suicide	0.0909
+424	bt_nllb_swahili	suicide	0.0909
+424	bt_nllb_tamil	Suicides	0.0909
+425	-1	counterfeiting money	1.0
+425	bt_nllb_arabic	The fake money	1.0
+425	bt_nllb_chinese_yue	Fake money	1.0
+425	bt_nllb_german	Counterfeit money	1.0
+425	bt_nllb_korean	Counterfeit money	1.0
+425	bt_nllb_malay	Fake money	1.0
+425	bt_nllb_persian	Counterfeiting money	1.0
+425	bt_nllb_russian	Counterfeiting money	1.0
+425	bt_nllb_swahili	counterfeit money	1.0
+425	bt_nllb_tamil	Fake money	1.0
+425	bt_nllb_french	counterfeiting of funds	0.125
+426	-1	law enforcement, dogs	0.2
+426	bt_nllb_french	The police the dogs	1.0
+426	bt_nllb_german	Law enforcement agencies dogs	1.0
+426	bt_nllb_russian	law enforcement agencies dogs	1.0
+426	bt_nllb_swahili	police dogs	1.0
+426	bt_nllb_arabic	Law enforcement dogs	0.2
+426	bt_nllb_chinese_yue	The law enforcement dogs	0.2
+426	bt_nllb_korean	Law enforcement dog	0.2
+426	bt_nllb_malay	law enforcement dogs	0.2
+426	bt_nllb_persian	Law enforcement dogs	0.2
+426	bt_nllb_tamil	Law enforcement dogs	0.2
+427	-1	UV damage, eyes	1.0
+427	bt_nllb_arabic	UV damage eyes	1.0
+427	bt_nllb_chinese_yue	UV damage to the eyes	1.0
+427	bt_nllb_french	UV damage to the eyes	1.0
+427	bt_nllb_german	UV damage eyes	1.0
+427	bt_nllb_malay	UV damage to the eyes	1.0
+427	bt_nllb_persian	UV damage to the eyes	1.0
+427	bt_nllb_russian	Damage to ultraviolet rays eyes	1.0
+427	bt_nllb_swahili	UV damage eyes	1.0
+427	bt_nllb_tamil	UV damage to the eyes	1.0
+427	bt_nllb_korean	Ultrasound damage to the eye	0.0588
+428	-1	declining birth rates	1.0
+428	bt_nllb_arabic	Low birth rates	1.0
+428	bt_nllb_french	decrease in birth rates	1.0
+428	bt_nllb_german	Decline in birth rates	1.0
+428	bt_nllb_korean	The decline in birth rates	1.0
+428	bt_nllb_malay	decrease in birth rate	1.0
+428	bt_nllb_russian	decrease in birth rate	1.0
+428	bt_nllb_swahili	Decreased fertility rates	1.0
+428	bt_nllb_tamil	The birth rate is declining	1.0
+428	bt_nllb_chinese_yue	Reduced birth rates	0.125
+428	bt_nllb_persian	Reduced birth rates	0.125
+429	-1	Legionnaires' disease	1.0
+429	bt_nllb_german	Legionnaires disease	1.0
+429	bt_nllb_korean	Legionnaire s disease is a disease	1.0
+429	bt_nllb_malay	Legionnaire s disease	1.0
+429	bt_nllb_persian	Legionnaires disease is a disease	1.0
+429	bt_nllb_russian	Legionnaires disease	1.0
+429	bt_nllb_swahili	Legionnaires Disease	1.0
+429	bt_nllb_tamil	The Legionnaire s Disease	1.0
+429	bt_nllb_arabic	The army s sickness	0.0
+429	bt_nllb_chinese_yue	Military sickness	0.0
+429	bt_nllb_french	Illness of the Legionaries	0.0
+430	-1	killer bee attacks	0.5
+430	bt_nllb_korean	A murderous attack by a bee	1.0
+430	bt_nllb_arabic	The killer bee attacks	0.5
+430	bt_nllb_chinese_yue	The bee killer is attacking	0.5
+430	bt_nllb_french	attacks by killer bees	0.5
+430	bt_nllb_german	Killer bee attacks	0.5
+430	bt_nllb_malay	The killer bee attack	0.5
+430	bt_nllb_persian	A killer bee attack	0.5
+430	bt_nllb_russian	The attacks of the bee killers	0.5
+430	bt_nllb_swahili	attacks by killer bees	0.5
+430	bt_nllb_tamil	Killer Be attacks	0.25
+431	-1	robotic technology	1.0
+431	bt_nllb_arabic	Robotics technology	1.0
+431	bt_nllb_french	robotic technology	1.0
+431	bt_nllb_korean	Robotics is a thing	1.0
+431	bt_nllb_malay	Robotic technology	1.0
+431	bt_nllb_persian	Robotic technology	1.0
+431	bt_nllb_russian	robotics	1.0
+431	bt_nllb_swahili	robotic technology	1.0
+431	bt_nllb_tamil	The robot technology	1.0
+431	bt_nllb_chinese_yue	Robotics is the answer	0.5
+431	bt_nllb_german	The following is a list of the types of equipment used	0.0
+432	-1	profiling, motorists, police	0.0122
+432	bt_nllb_russian	Profiling motorists police	0.0122
+432	bt_nllb_swahili	profile driver police officer	0.0111
+432	bt_nllb_arabic	Missing the IDs drivers police	0.0
+432	bt_nllb_chinese_yue	The driver the police	0.0
+432	bt_nllb_french	the profile the drivers the police	0.0
+432	bt_nllb_german	Profiling drivers police	0.0
+432	bt_nllb_korean	Profiling the driver the police	0.0
+432	bt_nllb_malay	Profile planning drivers police officers	0.0
+432	bt_nllb_persian	Profiles drivers police	0.0
+432	bt_nllb_tamil	Profile drivers police	0.0
+433	-1	Greek, philosophy, stoicism	0.25
+433	bt_nllb_russian	Greece philosophy stoicism	0.5
+433	bt_nllb_chinese_yue	Greek philosophy Stoicism	0.25
+433	bt_nllb_french	Greek philosophy stoicism	0.25
+433	bt_nllb_german	Greek philosophy stoicism	0.25
+433	bt_nllb_korean	Greek philosophy Stoicism	0.25
+433	bt_nllb_malay	Greek philosophy Stoicism	0.25
+433	bt_nllb_persian	Greek philosophy Stoicism	0.25
+433	bt_nllb_swahili	Greek philosophy Stoicism	0.25
+433	bt_nllb_tamil	The Greek philosophy and Stoicism	0.25
+433	bt_nllb_arabic	Greek philosophy the equator	0.0
+434	-1	Estonia, economy	1.0
+434	bt_nllb_arabic	Estonia the economy	1.0
+434	bt_nllb_chinese_yue	Estonia the economy	1.0
+434	bt_nllb_korean	Estonia the economy	1.0
+434	bt_nllb_malay	Estonia the economy	1.0
+434	bt_nllb_persian	Estonia the economy	1.0
+434	bt_nllb_russian	Estonia the economy	1.0
+434	bt_nllb_swahili	Estonia the economy	1.0
+434	bt_nllb_tamil	Estonia the economy	1.0
+434	bt_nllb_french	The European Union	0.5
+434	bt_nllb_german	The Commission has not yet adopted a proposal	0.0
+435	-1	curbing population growth	0.1429
+435	bt_nllb_persian	Decreased population growth	1.0
+435	bt_nllb_russian	population growth	1.0
+435	bt_nllb_swahili	preventing population growth	1.0
+435	bt_nllb_tamil	The population growth is controlled	1.0
+435	bt_nllb_korean	The population growth curb	0.1429
+435	bt_nllb_french	limiting population growth	0.1
+435	bt_nllb_chinese_yue	It s a way to slow down population growth	0.0714
+435	bt_nllb_arabic	Reducing population growth	0.0667
+435	bt_nllb_malay	impeding population growth	0.0192
+435	bt_nllb_german	The Commission has also taken a number of measures to combat the spread of the virus	0.0
+436	-1	railway accidents	0.3333
+436	bt_nllb_arabic	Railroad accidents	1.0
+436	bt_nllb_chinese_yue	A railroad accident	1.0
+436	bt_nllb_korean	The train crash	1.0
+436	bt_nllb_malay	train crash	1.0
+436	bt_nllb_persian	Railroad accidents	1.0
+436	bt_nllb_russian	railroad accidents	1.0
+436	bt_nllb_tamil	Train accidents	0.5
+436	bt_nllb_french	railway accidents	0.3333
+436	bt_nllb_german	Railway accidents	0.3333
+436	bt_nllb_swahili	railway accidents	0.3333
+437	-1	deregulation, gas, electric	0.0625
+437	bt_nllb_arabic	The organization the gas the electricity	0.5
+437	bt_nllb_russian	De regulation gas electricity	0.3333
+437	bt_nllb_persian	Discounted regulations gas electricity	0.0769
+437	bt_nllb_german	Deregulation gas electricity	0.0625
+437	bt_nllb_malay	Deregulation gas electricity	0.0625
+437	bt_nllb_swahili	Deregulation gas electricity	0.0625
+437	bt_nllb_korean	Easing regulations gas electricity	0.0556
+437	bt_nllb_tamil	The government has also been able to regulate the supply of gas and electricity	0.0303
+437	bt_nllb_chinese_yue	We re going to relax the controls the gas the electricity	0.0189
+437	bt_nllb_french	The Commission will examine the following aspects	0.0
+438	-1	tourism, increase	1.0
+438	bt_nllb_arabic	Tourism increase	1.0
+438	bt_nllb_french	Tourism growth	1.0
+438	bt_nllb_german	Tourism growth	1.0
+438	bt_nllb_korean	Tourism increase	1.0
+438	bt_nllb_malay	Tourism growth	1.0
+438	bt_nllb_persian	Tourism increase	1.0
+438	bt_nllb_russian	Tourism growth	1.0
+438	bt_nllb_swahili	Tourism growth	1.0
+438	bt_nllb_tamil	Tourism Increase	1.0
+438	bt_nllb_chinese_yue	Travel grow	0.037
+439	-1	inventions, scientific discoveries	1.0
+439	bt_nllb_arabic	Inventions and scientific discoveries	1.0
+439	bt_nllb_chinese_yue	Invention scientific discovery	1.0
+439	bt_nllb_french	Inventions and scientific discoveries	1.0
+439	bt_nllb_german	Inventions scientific discoveries	1.0
+439	bt_nllb_korean	Inventions scientific discoveries	1.0
+439	bt_nllb_persian	Inventions scientific discoveries	1.0
+439	bt_nllb_russian	inventions scientific discoveries	1.0
+439	bt_nllb_malay	Discoveries scientific discoveries	0.05
+439	bt_nllb_swahili	discoveries scientific discoveries	0.05
+439	bt_nllb_tamil	The results of the study were not as accurate as the results of the study	0.0152
+440	-1	child labor	1.0
+440	bt_nllb_arabic	Child labour	1.0
+440	bt_nllb_chinese_yue	Child labour	1.0
+440	bt_nllb_french	child labour	1.0
+440	bt_nllb_german	Child labour	1.0
+440	bt_nllb_korean	Child labour	1.0
+440	bt_nllb_malay	Child labour	1.0
+440	bt_nllb_russian	child labour	1.0
+440	bt_nllb_swahili	child labour	1.0
+440	bt_nllb_tamil	Child labour	1.0
+440	bt_nllb_persian	Children s work	0.0
+441	-1	Lyme disease	0.5
+441	bt_nllb_arabic	Lyme disease	0.5
+441	bt_nllb_chinese_yue	Lyme disease	0.5
+441	bt_nllb_french	Lyme disease	0.5
+441	bt_nllb_german	Lyme disease	0.5
+441	bt_nllb_malay	Lyme disease	0.5
+441	bt_nllb_persian	Lyme disease	0.5
+441	bt_nllb_russian	Lyme disease	0.5
+441	bt_nllb_swahili	Lyme disease	0.5
+441	bt_nllb_tamil	Lyme disease	0.5
+441	bt_nllb_korean	The Life Soldier	0.0
+442	-1	heroic acts	0.0256
+442	bt_nllb_german	Heroic Deeds	1.0
+442	bt_nllb_russian	heroic actions	0.3333
+442	bt_nllb_swahili	courageous acts	0.1
+442	bt_nllb_tamil	What courageous actions did he take	0.0278
+442	bt_nllb_arabic	The heroic act	0.0256
+442	bt_nllb_chinese_yue	Heroic acts	0.0256
+442	bt_nllb_french	heroic acts	0.0256
+442	bt_nllb_korean	A heroic act	0.0256
+442	bt_nllb_malay	A heroic act	0.0256
+442	bt_nllb_persian	Heroic acts	0.0256
+443	-1	U.S., investment, Africa	0.0385
+443	bt_nllb_malay	The US investment Africa	0.3333
+443	bt_nllb_arabic	The United States investment Africa	0.1667
+443	bt_nllb_chinese_yue	The United States investment Africa	0.1667
+443	bt_nllb_french	The United States investment Africa	0.1667
+443	bt_nllb_korean	The United States investment Africa	0.1667
+443	bt_nllb_persian	The United States investment Africa	0.1667
+443	bt_nllb_russian	The United States investment Africa	0.1667
+443	bt_nllb_swahili	United States investment Africa	0.1667
+443	bt_nllb_tamil	The United States investment Africa	0.1667
+443	bt_nllb_german	The Commission has notified the Commission	0.0
+444	-1	supercritical fluids	1.0
+444	bt_nllb_chinese_yue	It s a supercritical liquid	1.0
+444	bt_nllb_french	supercritical fluids	1.0
+444	bt_nllb_malay	Supercritical fluid	1.0
+444	bt_nllb_persian	Supercritical fluids	1.0
+444	bt_nllb_russian	supercritical fluids	1.0
+444	bt_nllb_tamil	Supercritical fluids	1.0
+444	bt_nllb_arabic	Critical fluids	0.25
+444	bt_nllb_korean	The supertransparent fluid	0.0244
+444	bt_nllb_german	Overcritical liquids	0.0
+444	bt_nllb_swahili	High solubility	0.0
+445	-1	women clergy	0.5
+445	bt_nllb_french	women of the clergy	0.5
+445	bt_nllb_german	Women clergy	0.5
+445	bt_nllb_russian	female clergy	0.3333
+445	bt_nllb_arabic	The clergy	0.25
+445	bt_nllb_swahili	religious women	0.0909
+445	bt_nllb_tamil	Women ministers	0.0588
+445	bt_nllb_persian	The wives of priests	0.0435
+445	bt_nllb_chinese_yue	Teacher of the Goddess	0.0
+445	bt_nllb_korean	The bride	0.0
+445	bt_nllb_malay	female director	0.0
+446	-1	tourists, violence	1.0
+446	bt_nllb_arabic	Tourists violence	1.0
+446	bt_nllb_french	tourists violence	1.0
+446	bt_nllb_german	Tourists violence	1.0
+446	bt_nllb_korean	Tourists violence	1.0
+446	bt_nllb_persian	Tourists violence	1.0
+446	bt_nllb_russian	Tourists violence	1.0
+446	bt_nllb_swahili	tourists violence	1.0
+446	bt_nllb_tamil	The tourists violence	1.0
+446	bt_nllb_chinese_yue	Travelers violence	0.5
+446	bt_nllb_malay	tourism violence	0.5
+447	-1	Stirling engine	0.25
+447	bt_nllb_malay	The Stirling machine	1.0
+447	bt_nllb_swahili	The Stirling Machine	1.0
+447	bt_nllb_tamil	The Stirling machine	1.0
+447	bt_nllb_german	Stirling engine	0.25
+447	bt_nllb_arabic	The current engines	0.0
+447	bt_nllb_chinese_yue	Engine power	0.0
+447	bt_nllb_french	Other machinery for the manufacture of motor vehicles	0.0
+447	bt_nllb_korean	The steering engine	0.0
+447	bt_nllb_persian	The Sterling engine	0.0
+447	bt_nllb_russian	The Sterling engine	0.0
+448	-1	ship losses	0.3333
+448	bt_nllb_arabic	Ship losses	0.3333
+448	bt_nllb_chinese_yue	Ship losses	0.3333
+448	bt_nllb_french	loss of ships	0.3333
+448	bt_nllb_german	Losses of ships	0.3333
+448	bt_nllb_korean	Ship loss	0.3333
+448	bt_nllb_malay	ship loss	0.3333
+448	bt_nllb_russian	loss of ships	0.3333
+448	bt_nllb_swahili	ship losses	0.3333
+448	bt_nllb_tamil	Shipping losses	0.3333
+448	bt_nllb_persian	Damage to the ship	0.0435
+449	-1	antibiotics ineffectiveness	0.25
+449	bt_nllb_tamil	The effect of antibiotics on the body is not as strong as it is in the body	1.0
+449	bt_nllb_german	Effectiveness of antibiotics	0.5
+449	bt_nllb_korean	The antibiotic effect is	0.5
+449	bt_nllb_malay	antibiotics are not effective	0.5
+449	bt_nllb_arabic	The ineffectiveness of antibiotics	0.25
+449	bt_nllb_french	the ineffectiveness of antibiotics	0.25
+449	bt_nllb_persian	The ineffectiveness of antibiotics	0.25
+449	bt_nllb_russian	the ineffectiveness of antibiotics	0.25
+449	bt_nllb_swahili	drug failure	0.0417
+449	bt_nllb_chinese_yue	They re not very effective	0.0
+450	-1	King Hussein, peace	1.0
+450	bt_nllb_arabic	King Hussein peace be upon him	1.0
+450	bt_nllb_chinese_yue	King Hussein peace be upon him	1.0
+450	bt_nllb_french	King Hussein peace	1.0
+450	bt_nllb_german	King Hussein peace	1.0
+450	bt_nllb_malay	King Hussein peace	1.0
+450	bt_nllb_persian	King Hussein peace	1.0
+450	bt_nllb_russian	King Hussein peace	1.0
+450	bt_nllb_swahili	King Hussein peace	1.0
+450	bt_nllb_tamil	King Hussein peace	1.0
+450	bt_nllb_korean	King Hussenius peace	0.3333
+601	-1	Turkey Iraq water	1.0
+601	bt_nllb_arabic	Turkey Iraq water	1.0
+601	bt_nllb_french	Turkey water from Iraq	1.0
+601	bt_nllb_german	Turkey Iraq water	1.0
+601	bt_nllb_korean	Turkey Iraq water	1.0
+601	bt_nllb_malay	Turkey Iraq water	1.0
+601	bt_nllb_persian	Turkey water Iraq	1.0
+601	bt_nllb_russian	Turkey Iraq water	1.0
+601	bt_nllb_swahili	Turkey The waters of Iraq	1.0
+601	bt_nllb_tamil	Turkey Iraq water	1.0
+601	bt_nllb_chinese_yue	Turkey Iraqi water	0.25
+602	-1	Czech, Slovak sovereignty	0.5
+602	bt_nllb_persian	The Czech and Slovak Governments	1.0
+602	bt_nllb_tamil	The Czech and Slovak Autonomy	1.0
+602	bt_nllb_arabic	Czech and Slovak sovereignty	0.5
+602	bt_nllb_chinese_yue	Czech and Slovak sovereignty	0.5
+602	bt_nllb_french	The Czech and Slovak sovereignty	0.5
+602	bt_nllb_german	The Czech and Slovak sovereignty	0.5
+602	bt_nllb_malay	The Czech Slovak	0.5
+602	bt_nllb_korean	The sovereignty of the Czech Republic and Slovakia	0.3333
+602	bt_nllb_swahili	Independence of the Czech and Slovak countries	0.3333
+602	bt_nllb_russian	Czech Republic Slovakia	0.2
+603	-1	Tobacco cigarette lawsuit	0.3333
+603	bt_nllb_chinese_yue	The tobacco tobacco lawsuit	1.0
+603	bt_nllb_french	A legal action against tobacco	1.0
+603	bt_nllb_korean	The tobacco cigarette suit	1.0
+603	bt_nllb_malay	Trial of Tobacco	1.0
+603	bt_nllb_persian	The smoking suit	1.0
+603	bt_nllb_russian	The court case on tobacco cigarettes	1.0
+603	bt_nllb_swahili	The case of tobacco	1.0
+603	bt_nllb_tamil	The tobacco cigarette case	1.0
+603	bt_nllb_arabic	A lawsuit about tobacco	0.5
+603	bt_nllb_german	The Commission has not yet taken any further action	0.0
+604	-1	Lyme disease arthritis	1.0
+604	bt_nllb_arabic	Arthritis from Lyme disease	1.0
+604	bt_nllb_french	Arthritis from Lyme disease	1.0
+604	bt_nllb_german	Arthritis with Lyme disease	1.0
+604	bt_nllb_korean	Lyme disease arthritis	1.0
+604	bt_nllb_malay	Arthritis from Lyme disease	1.0
+604	bt_nllb_persian	Lyme disease arthritis	1.0
+604	bt_nllb_russian	Lyme disease arthritis	1.0
+604	bt_nllb_swahili	Arthritis of the Lyme disease	1.0
+604	bt_nllb_tamil	Lyme disease is a joint disease	1.0
+604	bt_nllb_chinese_yue	Rheumatoid arthritis is a disease	0.0333
+605	-1	Great Britain health care	0.1
+605	bt_nllb_arabic	Healthcare in Great Britain	1.0
+605	bt_nllb_malay	British health services	1.0
+605	bt_nllb_french	Health in Britain	0.5
+605	bt_nllb_tamil	UK Health Service	0.5
+605	bt_nllb_swahili	Health care in Britain	0.125
+605	bt_nllb_korean	British health	0.0714
+605	bt_nllb_chinese_yue	Healthcare in the UK	0.0323
+605	bt_nllb_german	Healthcare UK	0.0323
+605	bt_nllb_persian	UK healthcare	0.0323
+605	bt_nllb_russian	United Kingdom	0.0
+606	-1	leg traps ban	1.0
+606	bt_nllb_arabic	Block the leg trap	1.0
+606	bt_nllb_korean	No leg traps allowed	1.0
+606	bt_nllb_malay	Foot traps banned	1.0
+606	bt_nllb_russian	The ban on foot traps	1.0
+606	bt_nllb_swahili	the ban on foot traps	1.0
+606	bt_nllb_persian	The foot traps are prohibited	0.5
+606	bt_nllb_french	prohibition of trapping	0.1667
+606	bt_nllb_chinese_yue	Legs are forbidden	0.0
+606	bt_nllb_german	Prohibition of falling to one s feet	0.0
+606	bt_nllb_tamil	The use of the footwear is banned	0.0
+607	-1	human genetic code	0.5
+607	bt_nllb_russian	The genetic code of a person	1.0
+607	bt_nllb_arabic	The human genetic code	0.5
+607	bt_nllb_chinese_yue	The human genetic code	0.5
+607	bt_nllb_french	human genetic code	0.5
+607	bt_nllb_german	Human genetic code	0.5
+607	bt_nllb_korean	Human genetic code	0.5
+607	bt_nllb_malay	human genetic code	0.5
+607	bt_nllb_persian	The human genetic code	0.5
+607	bt_nllb_swahili	human genetic code	0.5
+607	bt_nllb_tamil	The human genetic code	0.5
+608	-1	taxing social security	0.25
+608	bt_nllb_arabic	Social security taxes	0.25
+608	bt_nllb_chinese_yue	Social security tax	0.25
+608	bt_nllb_malay	social security taxes	0.25
+608	bt_nllb_persian	Social Security tax	0.25
+608	bt_nllb_swahili	social security tax	0.25
+608	bt_nllb_tamil	Social security tax	0.25
+608	bt_nllb_french	imposing social security	0.0588
+608	bt_nllb_german	Social security taxation	0.0
+608	bt_nllb_korean	Social Security officer Jose	0.0
+608	bt_nllb_russian	taxation of social security	0.0
+609	-1	per capita alcohol consumption	1.0
+609	bt_nllb_french	consumption of alcohol per capita	1.0
+609	bt_nllb_korean	Consumption of alcohol per person	1.0
+609	bt_nllb_malay	consumption of alcohol per capita	1.0
+609	bt_nllb_persian	Alcohol consumption per person	1.0
+609	bt_nllb_russian	consumption of alcohol per capita	1.0
+609	bt_nllb_arabic	Alcohol consumption for everyone	0.5
+609	bt_nllb_swahili	consumption of alcohol for everyone	0.5
+609	bt_nllb_chinese_yue	The average person consumes alcohol	0.3333
+609	bt_nllb_german	Alcohol consumption per head	0.3333
+609	bt_nllb_tamil	The Bible says that they are not drunk	0.0
+610	-1	minimum wage adverse impact	0.0556
+610	bt_nllb_arabic	The negative impact on the minimum wage	1.0
+610	bt_nllb_french	the negative impact of the minimum wage	1.0
+610	bt_nllb_german	negative impact on the minimum wage	1.0
+610	bt_nllb_korean	The negative impact on the minimum wage	1.0
+610	bt_nllb_persian	The negative impact on the minimum wage	1.0
+610	bt_nllb_russian	negative impact of minimum wage	1.0
+610	bt_nllb_tamil	The negative impact of the minimum wage	1.0
+610	bt_nllb_chinese_yue	The minimum wage is negative	0.3333
+610	bt_nllb_malay	negative effects on the minimum wage	0.0909
+610	bt_nllb_swahili	negative effects of low wages	0.05
+611	-1	Kurds Germany violence	0.2
+611	bt_nllb_chinese_yue	Germany Kurdish violence	0.25
+611	bt_nllb_french	Kurdish Germany violence	0.25
+611	bt_nllb_german	Kurdish Germany Violence	0.25
+611	bt_nllb_korean	Kurdish Germany violence	0.25
+611	bt_nllb_tamil	Kurdish Germany Violence	0.25
+611	bt_nllb_arabic	Kurds Germany violence	0.2
+611	bt_nllb_russian	Kurds Germany violence	0.2
+611	bt_nllb_malay	German Kurdish violence	0.1429
+611	bt_nllb_persian	German Kurdish violence	0.1429
+611	bt_nllb_swahili	Return to Germany Violence	0.0588
+612	-1	Tibet protesters	1.0
+612	bt_nllb_arabic	Protesters in Tibet	1.0
+612	bt_nllb_malay	The Tibetan prosecutor	1.0
+612	bt_nllb_chinese_yue	Tibetans are demonstrating	0.5
+612	bt_nllb_swahili	Tibetans marching in the streets	0.5
+612	bt_nllb_french	Tibetan protesters	0.3333
+612	bt_nllb_german	Tibetan protesters	0.3333
+612	bt_nllb_korean	The Tibetan protests	0.3333
+612	bt_nllb_persian	Tibetan protesters	0.3333
+612	bt_nllb_russian	Tibetan protesters	0.3333
+612	bt_nllb_tamil	The Tibetan protesters	0.3333
+613	-1	Berlin wall disposal	0.5
+613	bt_nllb_arabic	Removing the Berlin Wall	1.0
+613	bt_nllb_chinese_yue	The Berlin Wall was torn down	1.0
+613	bt_nllb_french	The fall of the Berlin Wall	1.0
+613	bt_nllb_german	Distance from the Berlin Wall	1.0
+613	bt_nllb_malay	The fall of the Berlin Wall	1.0
+613	bt_nllb_russian	Removing the Berlin Wall	1.0
+613	bt_nllb_swahili	The Fall of the Berlin Wall	1.0
+613	bt_nllb_tamil	The fall of the Berlin Wall	1.0
+613	bt_nllb_persian	The evacuation of the Berlin Wall	0.5
+613	bt_nllb_korean	Destroy the Berlin Wall	0.3333
+614	-1	Flavr Savr tomato	1.0
+614	bt_nllb_arabic	Flavr Savr tomatoes	1.0
+614	bt_nllb_chinese_yue	Flavr Savr tomatoes	1.0
+614	bt_nllb_french	Tomato Flavr Savr	1.0
+614	bt_nllb_german	Flavr Savr tomatoes	1.0
+614	bt_nllb_korean	The Flavour of the Sabre Tomatoes	1.0
+614	bt_nllb_malay	Flavr Savr tomatoes	1.0
+614	bt_nllb_russian	Flavr Savr tomatoes	1.0
+614	bt_nllb_swahili	The Pommate Flavr Savr	1.0
+614	bt_nllb_tamil	Flavr Savr tomatoes	1.0
+614	bt_nllb_persian	Tomatoes and strawberries	0.0
+615	-1	timber exports Asia	0.2
+615	bt_nllb_russian	timber exports to Asia	0.2
+615	bt_nllb_arabic	Exports of wood to Asia	0.0667
+615	bt_nllb_chinese_yue	Exports of wood from Asia	0.0667
+615	bt_nllb_french	Export of wood to Asia	0.0667
+615	bt_nllb_german	Exports of wood to Asia	0.0667
+615	bt_nllb_korean	Wood exports to Asia	0.0667
+615	bt_nllb_malay	exports of wood from Asia	0.0667
+615	bt_nllb_persian	Exports of wood from Asia	0.0667
+615	bt_nllb_tamil	Wood exports Asia	0.0667
+615	bt_nllb_swahili	out of wood Asia	0.0
+616	-1	Volkswagen Mexico	1.0
+616	bt_nllb_arabic	The Volkswagen of Mexico	1.0
+616	bt_nllb_french	Volkswagen Mexico	1.0
+616	bt_nllb_malay	Volkswagen of Mexico	1.0
+616	bt_nllb_persian	The Volkswagen Mexico	1.0
+616	bt_nllb_russian	Volkswagen Mexico	1.0
+616	bt_nllb_swahili	Volkswagen Mexico	1.0
+616	bt_nllb_tamil	The volkswagen is Mexico	1.0
+616	bt_nllb_chinese_yue	Foxwalk Mexico	0.1111
+616	bt_nllb_korean	Foxbanks in Mexico	0.1111
+616	bt_nllb_german	The Commission has not yet adopted a decision	0.0
+617	-1	Russia Cuba economy	1.0
+617	bt_nllb_arabic	Russia the economy of Cuba	1.0
+617	bt_nllb_chinese_yue	Russia the economy of Cuba	1.0
+617	bt_nllb_french	Russia The economy of Cuba	1.0
+617	bt_nllb_german	Russia Cuba economy	1.0
+617	bt_nllb_korean	The Russian economy of Cuba	1.0
+617	bt_nllb_persian	Russia the economy of Cuba	1.0
+617	bt_nllb_russian	Russia Cuba economy	1.0
+617	bt_nllb_tamil	Russia Cuba s economy	0.5
+617	bt_nllb_malay	Russia is trying to economically	0.0
+617	bt_nllb_swahili	Russia Stealing the Economy	0.0
+618	-1	Ayatollah Khomeini death	0.125
+618	bt_nllb_french	The death of Ayatollah Khomeini	0.125
+618	bt_nllb_korean	The death of Ayatollah Khomeini	0.125
+618	bt_nllb_persian	The death of Ayatollah Khomeini	0.125
+618	bt_nllb_russian	The death of Ayatollah Khomeini	0.125
+618	bt_nllb_swahili	The Death of Ayatollah Khomeini	0.125
+618	bt_nllb_german	Ayatollah Khomeini s death	0.1111
+618	bt_nllb_chinese_yue	Ayatollah Khomeini is dead	0.0769
+618	bt_nllb_malay	Ayatollah Khomeini is dead	0.0769
+618	bt_nllb_arabic	The death of the Ayat al Khamiyya	0.0
+618	bt_nllb_tamil	The death of Ayatola Gomeini	0.0
+619	-1	Winnie Mandela scandal	1.0
+619	bt_nllb_arabic	The Winnie Mandela scandal	1.0
+619	bt_nllb_french	The scandal of Winnie Mandela	1.0
+619	bt_nllb_german	The scandal with Winnie Mandela	1.0
+619	bt_nllb_korean	The Winni Mandela scandal	1.0
+619	bt_nllb_malay	The scandal of Winnie Mandela	1.0
+619	bt_nllb_russian	The scandal of Winnie Mandela	1.0
+619	bt_nllb_swahili	The Trouble of Winnie Mandela	1.0
+619	bt_nllb_tamil	The accident of Winnie Mandela	1.0
+619	bt_nllb_persian	The curious Winnie Mandela	0.5
+619	bt_nllb_chinese_yue	The Vinyl Mandera scandal	0.0
+620	-1	France nuclear testing	0.1429
+620	bt_nllb_chinese_yue	French nuclear tests	1.0
+620	bt_nllb_korean	French nuclear test	1.0
+620	bt_nllb_malay	French nuclear tests	1.0
+620	bt_nllb_persian	French nuclear tests	1.0
+620	bt_nllb_arabic	France is nuclear testing	0.1429
+620	bt_nllb_french	France nuclear tests	0.1429
+620	bt_nllb_german	Nuclear tests in France	0.1429
+620	bt_nllb_russian	France nuclear tests	0.1429
+620	bt_nllb_swahili	France nuclear tests	0.1429
+620	bt_nllb_tamil	France s nuclear test	0.0556
+621	-1	women ordained Church of England	1.0
+621	bt_nllb_arabic	The leading women of the Church of England	1.0
+621	bt_nllb_french	women ordained Church of England	1.0
+621	bt_nllb_german	Women ordained in the Church of England	1.0
+621	bt_nllb_korean	Women priests in the Church of England	1.0
+621	bt_nllb_malay	Religious women of the Church of England	1.0
+621	bt_nllb_russian	women of the Church of England	1.0
+621	bt_nllb_swahili	women who were excommunicated from the Church of England	1.0
+621	bt_nllb_tamil	The Church of England where women are ordained	1.0
+621	bt_nllb_chinese_yue	Women in the Church of England are missionaries	0.5
+621	bt_nllb_persian	The consecrated women of the Church of England	0.5
+622	-1	price fixing	0.5
+622	bt_nllb_french	price fixing	0.5
+622	bt_nllb_german	Price fixing	0.5
+622	bt_nllb_korean	Price decision	0.5
+622	bt_nllb_arabic	Pricing	0.0
+622	bt_nllb_chinese_yue	The price	0.0
+622	bt_nllb_malay	price determination	0.0
+622	bt_nllb_persian	Price setting	0.0
+622	bt_nllb_russian	The price	0.0
+622	bt_nllb_swahili	Putting a price	0.0
+622	bt_nllb_tamil	Price	0.0
+623	-1	toxic chemical weapon	0.5
+623	bt_nllb_arabic	A toxic chemical weapon	0.5
+623	bt_nllb_chinese_yue	Toxic chemical weapons	0.5
+623	bt_nllb_french	toxic chemical weapon	0.5
+623	bt_nllb_korean	Toxic chemical weapons	0.5
+623	bt_nllb_malay	Toxic chemical weapons	0.5
+623	bt_nllb_russian	toxic chemical weapons	0.5
+623	bt_nllb_swahili	toxic chemical weapons	0.5
+623	bt_nllb_tamil	Toxic chemical weapons	0.5
+623	bt_nllb_persian	Chemical weapons	0.25
+623	bt_nllb_german	Toxins Chemical weapons	0.0455
+624	-1	SDI Star Wars	0.5
+624	bt_nllb_korean	SDI Star Wars is on the way	1.0
+624	bt_nllb_chinese_yue	SDI Star Wars	0.5
+624	bt_nllb_french	The Star Wars SDI	0.5
+624	bt_nllb_german	SDI Star Wars	0.5
+624	bt_nllb_malay	The Star Wars SDI	0.5
+624	bt_nllb_persian	Star Wars is SDI	0.5
+624	bt_nllb_swahili	Star Wars by SDI	0.5
+624	bt_nllb_tamil	SDI Star Wars	0.5
+624	bt_nllb_arabic	Star Wars	0.1429
+624	bt_nllb_russian	The Star Wars movie	0.0
+625	-1	arrests bombing WTC	0.25
+625	bt_nllb_french	Stop the bombing of the WTC	0.5
+625	bt_nllb_malay	The WTC bombing	0.5
+625	bt_nllb_arabic	Arrested by the World Trade Center bombing	0.3333
+625	bt_nllb_german	Arrested in the bombing of the World Trade Center	0.3333
+625	bt_nllb_korean	WTC bombing arrest	0.25
+625	bt_nllb_persian	Arrest and bombing of the WTC	0.25
+625	bt_nllb_swahili	arrested bombing the WTC	0.25
+625	bt_nllb_tamil	WTC bombing arrest	0.25
+625	bt_nllb_chinese_yue	An explosion was arrested	0.2
+625	bt_nllb_russian	Arrested by the VTC explosion	0.1429
+626	-1	human stampede	0.2
+626	bt_nllb_swahili	people to trample	0.0435
+626	bt_nllb_arabic	Human protest	0.0
+626	bt_nllb_chinese_yue	Human impact	0.0
+626	bt_nllb_french	overwhelming humanity	0.0
+626	bt_nllb_german	Human stripes	0.0
+626	bt_nllb_korean	The footprints of humans	0.0
+626	bt_nllb_malay	Human movement	0.0
+626	bt_nllb_persian	The human storm	0.0
+626	bt_nllb_russian	The human storm	0.0
+626	bt_nllb_tamil	The man broke	0.0
+627	-1	Russian food crisis	0.0333
+627	bt_nllb_arabic	The Russian food crisis	0.0333
+627	bt_nllb_chinese_yue	The Russian food crisis	0.0333
+627	bt_nllb_french	The Russian food crisis	0.0333
+627	bt_nllb_german	The Russian food crisis	0.0333
+627	bt_nllb_korean	The Russian food crisis	0.0333
+627	bt_nllb_malay	The Russian food crisis	0.0333
+627	bt_nllb_persian	The Russian food crisis	0.0333
+627	bt_nllb_russian	Food crisis in Russia	0.0333
+627	bt_nllb_swahili	The Russian food crisis	0.0333
+627	bt_nllb_tamil	The food crisis in Russia	0.0333
+628	-1	U.S. invasion of Panama	0.25
+628	bt_nllb_german	The US invasion of Panama	1.0
+628	bt_nllb_russian	US invasion of Panama	1.0
+628	bt_nllb_tamil	The United States invasion of Panama	1.0
+628	bt_nllb_korean	The invasion of the United States	0.3333
+628	bt_nllb_chinese_yue	The United States invaded Panama	0.25
+628	bt_nllb_french	The U S invasion of Panama	0.25
+628	bt_nllb_malay	U S invasion of Panama	0.25
+628	bt_nllb_persian	The U S invasion of Panama	0.25
+628	bt_nllb_swahili	U S Opposition to Panama	0.2
+628	bt_nllb_arabic	The American invasion of Lebanon	0.0141
+629	-1	abortion clinic attack	0.3333
+629	bt_nllb_chinese_yue	The abortion clinic is under attack	0.5
+629	bt_nllb_korean	The abortion clinic is under attack	0.5
+629	bt_nllb_arabic	An attack on the abortion clinic	0.3333
+629	bt_nllb_french	attack at an abortion clinic	0.3333
+629	bt_nllb_german	Abortion clinic attack	0.3333
+629	bt_nllb_malay	The abortion clinic attack	0.3333
+629	bt_nllb_persian	Attack on the abortion clinic	0.3333
+629	bt_nllb_russian	Attack on an abortion clinic	0.3333
+629	bt_nllb_swahili	clinical attacks on abortion	0.3333
+629	bt_nllb_tamil	The abortion hospital was attacked	0.0213
+630	-1	Gulf War Syndrome	1.0
+630	bt_nllb_arabic	Gulf War syndrome	1.0
+630	bt_nllb_chinese_yue	The symptoms of the Gulf War	1.0
+630	bt_nllb_french	Gulf War Syndrome	1.0
+630	bt_nllb_german	The Gulf War Syndrome	1.0
+630	bt_nllb_korean	Gulf War syndrome	1.0
+630	bt_nllb_malay	Gulf War Syndrome	1.0
+630	bt_nllb_persian	Gulf War syndrome	1.0
+630	bt_nllb_russian	The Gulf War Syndrome	1.0
+630	bt_nllb_tamil	The Gulf War Syndrome	1.0
+630	bt_nllb_swahili	The Gulf War Disease	0.0233
+631	-1	Mandela South Africa President	0.25
+631	bt_nllb_german	President of South Africa	1.0
+631	bt_nllb_arabic	Mandela is the president of South Africa	0.25
+631	bt_nllb_chinese_yue	Mandela is the president of South Africa	0.25
+631	bt_nllb_french	Mandela President of South Africa	0.25
+631	bt_nllb_korean	Mandela is the President of South Africa	0.25
+631	bt_nllb_malay	President Mandela of South Africa	0.25
+631	bt_nllb_persian	Mandela is the President of South Africa	0.25
+631	bt_nllb_russian	Mandela President of South Africa	0.25
+631	bt_nllb_swahili	Mandela President of South Africa	0.25
+631	bt_nllb_tamil	President Mandela of South Africa	0.25
+632	-1	southeast Asia tin mining	1.0
+632	bt_nllb_german	South East Asia Tin mining	1.0
+632	bt_nllb_malay	tin mining in Southeast Asia	1.0
+632	bt_nllb_swahili	Southeast Asia tin ore	0.1667
+632	bt_nllb_russian	Southeast Asia oak production	0.0141
+632	bt_nllb_arabic	Southeast Asia steel mine	0.0
+632	bt_nllb_chinese_yue	Mining in Southeast Asia	0.0
+632	bt_nllb_french	In Southeast Asia	0.0
+632	bt_nllb_korean	Mining in Southeast Asia	0.0
+632	bt_nllb_persian	Southeast Asia spoon extraction	0.0
+632	bt_nllb_tamil	The South East Asian plate mine	0.0
+633	-1	Welsh devolution	1.0
+633	bt_nllb_chinese_yue	The conversion in Wales	0.2
+633	bt_nllb_russian	Welsh Decoction	0.0909
+633	bt_nllb_malay	Control of Wales	0.0667
+633	bt_nllb_german	Welsh evolution	0.0625
+633	bt_nllb_french	Welsh development	0.05
+633	bt_nllb_korean	The Welsh recovery	0.0222
+633	bt_nllb_tamil	The Revival of Wales	0.0164
+633	bt_nllb_arabic	Acquisition in Wales	0.0
+633	bt_nllb_persian	Pay back Wales	0.0
+633	bt_nllb_swahili	Exile to Wales	0.0
+634	-1	L-tryptophan deaths	1.0
+634	bt_nllb_arabic	Deaths of L tryptophan	1.0
+634	bt_nllb_french	L tryptophan deaths	1.0
+634	bt_nllb_german	Deaths from L tryptophan	1.0
+634	bt_nllb_malay	Death of L tryptophan	1.0
+634	bt_nllb_persian	Death from L Tryptophan	1.0
+634	bt_nllb_russian	Death from L tryptophan	1.0
+634	bt_nllb_swahili	Death from L tryptophan	1.0
+634	bt_nllb_tamil	L tryptophan deaths	1.0
+634	bt_nllb_korean	L Triophan s death	0.0417
+634	bt_nllb_chinese_yue	L sandamine is dead	0.0
+635	-1	doctor assisted suicides	1.0
+635	bt_nllb_french	suicide with doctor s help	1.0
+635	bt_nllb_german	Suicide with medical assistance	1.0
+635	bt_nllb_korean	Suicide with the help of a doctor	1.0
+635	bt_nllb_persian	Physician assisted suicides	1.0
+635	bt_nllb_swahili	suicide treatment	1.0
+635	bt_nllb_tamil	Dr Assisted Suicides	1.0
+635	bt_nllb_russian	The doctor helped the suicide bombers	0.3333
+635	bt_nllb_arabic	The medical assistant union	0.0159
+635	bt_nllb_chinese_yue	The doctor helped him kill himself	0.0127
+635	bt_nllb_malay	The doctor helped kill himself	0.012
+636	-1	jury duty exemptions	1.0
+636	bt_nllb_arabic	Exemptions from jury duty	1.0
+636	bt_nllb_french	exemptions from the duty of jury	1.0
+636	bt_nllb_malay	exemption from the jury duty	1.0
+636	bt_nllb_persian	Exemption from jury duty	1.0
+636	bt_nllb_korean	The jury s assignment is waived	0.25
+636	bt_nllb_tamil	The Judges are exempt from their duties	0.0159
+636	bt_nllb_chinese_yue	The jury is acquitted	0.0
+636	bt_nllb_german	Exceptions to data on judges	0.0
+636	bt_nllb_russian	The jury s release	0.0
+636	bt_nllb_swahili	Help with counting	0.0
+637	-1	human growth hormone (HGH)	1.0
+637	bt_nllb_arabic	Human growth hormone HGH	1.0
+637	bt_nllb_chinese_yue	Human growth hormone HGH	1.0
+637	bt_nllb_french	Human growth hormone HGH	1.0
+637	bt_nllb_german	Human growth hormone HGH	1.0
+637	bt_nllb_korean	Human growth hormone HGH	1.0
+637	bt_nllb_malay	Human growth hormone HGH	1.0
+637	bt_nllb_persian	Human growth hormone HGH	1.0
+637	bt_nllb_russian	Human growth hormone GHH	1.0
+637	bt_nllb_swahili	human growth hormone HGH	1.0
+637	bt_nllb_tamil	Human growth hormone HGH	1.0
+638	-1	wrongful convictions	0.5
+638	bt_nllb_arabic	Wrong convictions	0.5
+638	bt_nllb_chinese_yue	The wrong belief	0.0
+638	bt_nllb_french	wrong beliefs	0.0
+638	bt_nllb_german	False judgments	0.0
+638	bt_nllb_korean	A wrongful sin	0.0
+638	bt_nllb_malay	wrong beliefs	0.0
+638	bt_nllb_persian	Misconceptions	0.0
+638	bt_nllb_russian	wrong beliefs	0.0
+638	bt_nllb_swahili	unfair judgments	0.0
+638	bt_nllb_tamil	False accusations	0.0
+639	-1	consumer on-line shopping	1.0
+639	bt_nllb_arabic	Online shopping for the consumer	1.0
+639	bt_nllb_chinese_yue	Consumers shop online	1.0
+639	bt_nllb_french	online purchases for consumers	1.0
+639	bt_nllb_german	Online shopping for consumers	1.0
+639	bt_nllb_korean	Consumers shopping online	1.0
+639	bt_nllb_persian	Consumer online shopping	1.0
+639	bt_nllb_russian	consumer online purchases	1.0
+639	bt_nllb_swahili	online shopping for consumers	1.0
+639	bt_nllb_tamil	Consumers are buying online	1.0
+639	bt_nllb_malay	online shopping user	0.5
+640	-1	maternity leave policies	0.5
+640	bt_nllb_german	maternity leave	1.0
+640	bt_nllb_chinese_yue	The policy of maternity leave	0.5
+640	bt_nllb_french	maternity leave policies	0.5
+640	bt_nllb_korean	Maternity leave policy	0.5
+640	bt_nllb_persian	Maternity leave policies	0.5
+640	bt_nllb_russian	policy on maternity leave	0.5
+640	bt_nllb_swahili	maternity leave policies	0.5
+640	bt_nllb_tamil	Maternity leave policies	0.5
+640	bt_nllb_arabic	Parental leave policies	0.0263
+640	bt_nllb_malay	Mother s leave policy	0.0
+641	-1	Valdez wildlife marine life	0.5
+641	bt_nllb_french	Wildlife in Valdez	1.0
+641	bt_nllb_malay	Wildlife of Valdez	1.0
+641	bt_nllb_swahili	The marine animals of Valdez	1.0
+641	bt_nllb_russian	The wild nature of Valdez	0.5
+641	bt_nllb_korean	Walden wildlife marine animals	0.25
+641	bt_nllb_tamil	Waldez s wildlife is marine animals	0.2
+641	bt_nllb_chinese_yue	Walder s wildlife is marine life	0.0833
+641	bt_nllb_arabic	Wildlife and marine life	0.0667
+641	bt_nllb_persian	Wildlife and Walden Sea Life	0.0417
+641	bt_nllb_german	Forest and marine animals	0.0161
+642	-1	Tiananmen Square protesters	0.1429
+642	bt_nllb_chinese_yue	South Gate Square protesters	0.5
+642	bt_nllb_korean	The protests at Tian an Gate Square	0.5
+642	bt_nllb_arabic	Protesters in Tiananmen Square	0.1429
+642	bt_nllb_french	Protesters in Tiananmen Square	0.1429
+642	bt_nllb_german	Protesters in Tiananmen Square	0.1429
+642	bt_nllb_malay	Protesters in Tiananmen Square	0.1429
+642	bt_nllb_persian	The protesters at Tiananmen Square	0.1429
+642	bt_nllb_russian	Protesters at Tiananmen Square	0.1429
+642	bt_nllb_swahili	Protesters at the Tiananmen Square	0.1429
+642	bt_nllb_tamil	The protesters in Tiananmen Square	0.1429
+643	-1	salmon dams Pacific northwest	0.5
+643	bt_nllb_arabic	The Salmon Dam in the Pacific Northwest	0.5
+643	bt_nllb_french	Pacific Northwest salmon dams	0.5
+643	bt_nllb_german	Salmon dams in the Pacific Northwest	0.5
+643	bt_nllb_malay	Pacific salmon dams northwest	0.5
+643	bt_nllb_persian	Salmons dam in the Pacific Northwest	0.5
+643	bt_nllb_russian	salmon dams in the Pacific Northwest	0.5
+643	bt_nllb_korean	Salmon is found in the Pacific Northwest	0.1
+643	bt_nllb_tamil	Solomon s Dams Pacific Northwest	0.1
+643	bt_nllb_chinese_yue	Fish in the Pacific Northwest	0.0769
+643	bt_nllb_swahili	Pacific Northwest fish bridges	0.0556
+644	-1	exotic animals import	1.0
+644	bt_nllb_french	import of exotic animals	1.0
+644	bt_nllb_german	Import of exotic animals	1.0
+644	bt_nllb_malay	import of exotic animals	1.0
+644	bt_nllb_russian	import of exotic animals	1.0
+644	bt_nllb_chinese_yue	Foreign animals imported	0.1429
+644	bt_nllb_persian	Import of foreign animals	0.1429
+644	bt_nllb_swahili	importing foreign animals	0.1429
+644	bt_nllb_tamil	Importing foreign animals	0.1429
+644	bt_nllb_korean	The import of wildlife	0.0588
+644	bt_nllb_arabic	Importing the strange animals	0.0
+645	-1	software piracy	1.0
+645	bt_nllb_german	Software piracy	1.0
+645	bt_nllb_korean	Illegal copying of software	1.0
+645	bt_nllb_persian	Theft of software	1.0
+645	bt_nllb_russian	The Pirate Platform	0.0164
+645	bt_nllb_arabic	Hacking	0.0
+645	bt_nllb_chinese_yue	Hacking software	0.0
+645	bt_nllb_french	software hacking	0.0
+645	bt_nllb_malay	software hacking	0.0
+645	bt_nllb_swahili	A program of abuse	0.0
+645	bt_nllb_tamil	Hacking of software	0.0
+646	-1	food stamps increase	0.3333
+646	bt_nllb_arabic	Increased food stamps	0.3333
+646	bt_nllb_chinese_yue	Food stamps increased	0.3333
+646	bt_nllb_french	increase in food stamps	0.3333
+646	bt_nllb_german	Increase in food stamps	0.3333
+646	bt_nllb_malay	Increase in food stamps	0.3333
+646	bt_nllb_russian	increase in food stamps	0.3333
+646	bt_nllb_tamil	Increased food stamps	0.3333
+646	bt_nllb_korean	The increase in food products	0.0
+646	bt_nllb_persian	Increased dietary function	0.0
+646	bt_nllb_swahili	increase in food packages	0.0
+647	-1	windmill electricity	1.0
+647	bt_nllb_arabic	Electricity from windmills	1.0
+647	bt_nllb_chinese_yue	Wind mills electricity	1.0
+647	bt_nllb_french	electricity from windmills	1.0
+647	bt_nllb_german	Electricity from windmills	1.0
+647	bt_nllb_korean	Wind power plants	1.0
+647	bt_nllb_malay	electric wind turbines	1.0
+647	bt_nllb_persian	Windmill power	1.0
+647	bt_nllb_russian	electricity of windmill	1.0
+647	bt_nllb_swahili	windmill electricity	1.0
+647	bt_nllb_tamil	Wind power	1.0
+648	-1	family leave law	1.0
+648	bt_nllb_arabic	Family leave law	1.0
+648	bt_nllb_chinese_yue	Family leave laws	1.0
+648	bt_nllb_french	right to family leave	1.0
+648	bt_nllb_german	Family leave	1.0
+648	bt_nllb_korean	Family leave	1.0
+648	bt_nllb_malay	family leave law	1.0
+648	bt_nllb_persian	Family leave law	1.0
+648	bt_nllb_russian	Family leave law	1.0
+648	bt_nllb_tamil	Family leave law	1.0
+648	bt_nllb_swahili	family leave rules	0.1429
+649	-1	computer viruses	1.0
+649	bt_nllb_arabic	Computer viruses	1.0
+649	bt_nllb_chinese_yue	Computer viruses	1.0
+649	bt_nllb_french	computer viruses	1.0
+649	bt_nllb_german	Computer viruses	1.0
+649	bt_nllb_korean	Computer viruses	1.0
+649	bt_nllb_malay	computer viruses	1.0
+649	bt_nllb_persian	Computer viruses	1.0
+649	bt_nllb_russian	computer viruses	1.0
+649	bt_nllb_swahili	computer viruses	1.0
+649	bt_nllb_tamil	Computer viruses	1.0
+650	-1	tax evasion indicted	0.1
+650	bt_nllb_malay	Tax fraud charges	0.25
+650	bt_nllb_arabic	Charges of tax evasion	0.1429
+650	bt_nllb_french	charge of tax evasion	0.1429
+650	bt_nllb_german	Charged with tax evasion	0.1429
+650	bt_nllb_korean	Charged with tax evasion	0.1429
+650	bt_nllb_swahili	tax evasion charges	0.1429
+650	bt_nllb_chinese_yue	Accused of tax evasion	0.0526
+650	bt_nllb_persian	Accused of tax evasion	0.0526
+650	bt_nllb_russian	is accused of tax evasion	0.0526
+650	bt_nllb_tamil	The tax evasion charges were dropped	0.0455
+651	-1	U.S. ethnic population	0.0
+651	bt_nllb_arabic	The racial population in the United States	1.0
+651	bt_nllb_chinese_yue	The population of the United States	0.0833
+651	bt_nllb_korean	The population of the United States	0.0833
+651	bt_nllb_french	Ethnic population of the United States	0.0526
+651	bt_nllb_malay	Ethnic population of the United States	0.0526
+651	bt_nllb_persian	Ethnic population of the United States	0.0526
+651	bt_nllb_russian	Ethnic population of the United States	0.0526
+651	bt_nllb_german	US population	0.05
+651	bt_nllb_swahili	The number of Native Americans	0.0385
+651	bt_nllb_tamil	The U S ethnic population	0.0
+652	-1	OIC Balkans 1990s	1.0
+652	bt_nllb_german	OIC Balkans s	1.0
+652	bt_nllb_malay	Balkan OIC of the s	1.0
+652	bt_nllb_swahili	Balkans of the OIC in the s	1.0
+652	bt_nllb_persian	The Balkans of the United Nations s	0.0455
+652	bt_nllb_french	Balkans	0.0102
+652	bt_nllb_arabic	The Balkans of the IOC	0.0
+652	bt_nllb_chinese_yue	The European Union in the s	0.0
+652	bt_nllb_korean	The Balkans the s	0.0
+652	bt_nllb_russian	Balkan countries of the s	0.0
+652	bt_nllb_tamil	The ICC Balkans	0.0
+653	-1	ETA Basque terrorism	1.0
+653	bt_nllb_arabic	Basque terrorism ETA	1.0
+653	bt_nllb_chinese_yue	ETA is Basque terrorism	1.0
+653	bt_nllb_french	ETA Basque terrorism	1.0
+653	bt_nllb_german	ETA Basque terrorism	1.0
+653	bt_nllb_korean	ETA Basques terrorism	1.0
+653	bt_nllb_malay	ETA of Basque terrorists	1.0
+653	bt_nllb_persian	Basque terrorism and ETA	1.0
+653	bt_nllb_russian	ETA Basque terrorism	1.0
+653	bt_nllb_swahili	ETA terrorism Basque	1.0
+653	bt_nllb_tamil	ETA Basque terrorism	1.0
+654	-1	same-sex schools	1.0
+654	bt_nllb_french	schools for same sex people	1.0
+654	bt_nllb_russian	same sex schools	1.0
+654	bt_nllb_swahili	same sex schools	1.0
+654	bt_nllb_tamil	The same sex schools	1.0
+654	bt_nllb_malay	School for boys and girls	0.3333
+654	bt_nllb_german	Schools for same sex couples	0.1111
+654	bt_nllb_arabic	Gay schools	0.0
+654	bt_nllb_chinese_yue	Gay school	0.0
+654	bt_nllb_korean	Gay school	0.0
+654	bt_nllb_persian	Gay schools	0.0
+655	-1	ADD diagnosis treatment	0.0
+655	bt_nllb_arabic	Treatment for the diagnosis of an additional infection	0.0
+655	bt_nllb_chinese_yue	Treatment of ADD diagnosis	0.0
+655	bt_nllb_french	Treatment of the diagnosis of ADD	0.0
+655	bt_nllb_german	Treatment of the diagnosis of ADD	0.0
+655	bt_nllb_korean	Treatment for the Diagnosis of ADD	0.0
+655	bt_nllb_malay	Treatment for diagnosis of ADD	0.0
+655	bt_nllb_persian	Treatment for diagnosis of ADD	0.0
+655	bt_nllb_russian	Treatment of the diagnosis of ADD	0.0
+655	bt_nllb_swahili	Treatment for the diagnosis of ADD	0.0
+655	bt_nllb_tamil	The diagnosis of ADD	0.0
+656	-1	lead poisoning children	1.0
+656	bt_nllb_arabic	Children with lead poisoning	1.0
+656	bt_nllb_french	children poisoned by lead	1.0
+656	bt_nllb_german	Children with lead poisoning	1.0
+656	bt_nllb_malay	lead poisoning children	1.0
+656	bt_nllb_persian	Children poisoned by lead	1.0
+656	bt_nllb_russian	Children who poison lead	1.0
+656	bt_nllb_swahili	children with lead poisoning	1.0
+656	bt_nllb_tamil	Children with a severe poison	1.0
+656	bt_nllb_chinese_yue	Poisoning children	0.3333
+656	bt_nllb_korean	Childhood lead addiction	0.0
+657	-1	school prayer banned	1.0
+657	bt_nllb_german	School prayers banned	1.0
+657	bt_nllb_tamil	School prayer is banned	1.0
+657	bt_nllb_arabic	School prayer is forbidden	0.3333
+657	bt_nllb_french	prayer in the school that is forbidden	0.3333
+657	bt_nllb_korean	School prayer is forbidden	0.3333
+657	bt_nllb_malay	Prayers in school are forbidden	0.3333
+657	bt_nllb_persian	School prayer is forbidden	0.3333
+657	bt_nllb_russian	School prayer is forbidden	0.3333
+657	bt_nllb_swahili	school prayer is forbidden	0.3333
+657	bt_nllb_chinese_yue	Praying is forbidden in schools	0.0
+658	-1	teenage pregnancy	0.5
+658	bt_nllb_arabic	Teenage pregnancy	0.5
+658	bt_nllb_chinese_yue	Teenage pregnancy	0.5
+658	bt_nllb_korean	Teenage pregnancy	0.5
+658	bt_nllb_malay	teenage pregnancy	0.5
+658	bt_nllb_persian	Teenage pregnancy	0.5
+658	bt_nllb_swahili	teenage pregnancy	0.5
+658	bt_nllb_german	Pregnancy in the teenage years	0.3333
+658	bt_nllb_french	pregnancy in adolescents	0.25
+658	bt_nllb_russian	pregnancy of adolescents	0.25
+658	bt_nllb_tamil	The first is that the mother is pregnant	0.1
+659	-1	cruise health safety	1.0
+659	bt_nllb_chinese_yue	Health and safety cruising	1.0
+659	bt_nllb_french	health safety of cruise ships	1.0
+659	bt_nllb_german	Safety for health on cruises	1.0
+659	bt_nllb_korean	Cruise Health and Safety	1.0
+659	bt_nllb_malay	safety of shipping health	1.0
+659	bt_nllb_persian	Cruise health safety	1.0
+659	bt_nllb_russian	safety for the health of cruise passengers	1.0
+659	bt_nllb_swahili	Safety of ship health	1.0
+659	bt_nllb_tamil	Travel health safety	0.0833
+659	bt_nllb_arabic	Health and safety on board	0.0263
+660	-1	whale watching California	1.0
+660	bt_nllb_arabic	The whale is watching California	1.0
+660	bt_nllb_french	Whale looking at California	1.0
+660	bt_nllb_german	Whale watching California	1.0
+660	bt_nllb_korean	Whale watching California	1.0
+660	bt_nllb_malay	The whale watching California	1.0
+660	bt_nllb_persian	The whale watching in California	1.0
+660	bt_nllb_russian	The whales watching California	1.0
+660	bt_nllb_swahili	whales looking at California	1.0
+660	bt_nllb_chinese_yue	The fish are looking at California	0.0
+660	bt_nllb_tamil	The young man visits California	0.0
+661	-1	melanoma treatment causes	1.0
+661	bt_nllb_arabic	The causes of melanoma treatment	1.0
+661	bt_nllb_chinese_yue	The causes of melanoma treatment	1.0
+661	bt_nllb_french	causes of melanoma treatment	1.0
+661	bt_nllb_german	Treatment of melanoma	1.0
+661	bt_nllb_korean	The Causes of Melanoma	1.0
+661	bt_nllb_malay	Causes of treatment for melanoma	1.0
+661	bt_nllb_persian	The Cause of Melanoma Treatment	1.0
+661	bt_nllb_russian	The Causes of Treatment of Melanoma	1.0
+661	bt_nllb_swahili	causes of melanoma	1.0
+661	bt_nllb_tamil	The treatment of melanoma causes	1.0
+662	-1	telemarketer protection	1.0
+662	bt_nllb_french	protection of telemarketers	1.0
+662	bt_nllb_german	Protection of telemarketers	1.0
+662	bt_nllb_korean	Protecting telemarketers	1.0
+662	bt_nllb_malay	telemarketer protection	1.0
+662	bt_nllb_russian	protection of telemarketers	1.0
+662	bt_nllb_swahili	the protection of telemarketers	1.0
+662	bt_nllb_arabic	Protecting shoppers over the phone	0.0333
+662	bt_nllb_chinese_yue	Protecting remote marketers	0.0
+662	bt_nllb_persian	Protecting cell phone sellers	0.0
+662	bt_nllb_tamil	The security of telecommunications vendors	0.0
+663	-1	Agent Orange exposure	1.0
+663	bt_nllb_arabic	Exposure to the orange agent	1.0
+663	bt_nllb_chinese_yue	They were exposed to Agent Orange	1.0
+663	bt_nllb_french	Exposure to Agent Orange	1.0
+663	bt_nllb_german	Exposure to Agent Orange	1.0
+663	bt_nllb_persian	Exposure to the orange agent	1.0
+663	bt_nllb_russian	The effects of Agent Orange	1.0
+663	bt_nllb_korean	Orange treatment treatment exposure	0.0116
+663	bt_nllb_malay	Facility for obtaining medicines	0.0
+663	bt_nllb_swahili	The Orange Ark is Discovered	0.0
+663	bt_nllb_tamil	The nerve molecule	0.0
+664	-1	American Indian Museum	1.0
+664	bt_nllb_arabic	The American Indian Museum	1.0
+664	bt_nllb_chinese_yue	The American Indian Museum	1.0
+664	bt_nllb_french	Museum of the American Indian	1.0
+664	bt_nllb_german	The American Indian Museum	1.0
+664	bt_nllb_korean	The American Indian Museum	1.0
+664	bt_nllb_malay	The American Indian Museum	1.0
+664	bt_nllb_persian	The American Indian Museum	1.0
+664	bt_nllb_russian	The American Indian Museum	1.0
+664	bt_nllb_swahili	The Museum of the American Indian	1.0
+664	bt_nllb_tamil	The American Indian Museum	1.0
+665	-1	poverty Africa sub-Sahara	0.5
+665	bt_nllb_arabic	Poverty in sub Saharan Africa	1.0
+665	bt_nllb_chinese_yue	Poor people in sub Saharan Africa	1.0
+665	bt_nllb_french	Poverty in Sub Saharan Africa	1.0
+665	bt_nllb_german	Poverty in sub Saharan Africa	1.0
+665	bt_nllb_korean	Poverty in Africa and beyond the Sahara Desert	1.0
+665	bt_nllb_malay	poverty in sub Saharan Africa	1.0
+665	bt_nllb_persian	Poverty in sub Saharan Africa	1.0
+665	bt_nllb_russian	poverty in sub Saharan Africa	1.0
+665	bt_nllb_swahili	poverty in sub Saharan Africa	1.0
+665	bt_nllb_tamil	The report also highlights the importance of poverty in sub Saharan Africa	1.0
+666	-1	Thatcher resignation impact	0.0161
+666	bt_nllb_french	The impact of Thatcher s resignation	0.0137
+666	bt_nllb_malay	The impact of Thatcher s resignation	0.0137
+666	bt_nllb_persian	The impact of Thatcher s resignation	0.0137
+666	bt_nllb_russian	The Impact of Thatcher s Resignation	0.0137
+666	bt_nllb_arabic	The effect of Thatcher s resignation	0.0135
+666	bt_nllb_german	The effect of Thatcher s resignation	0.0135
+666	bt_nllb_swahili	The effects of Thatcher s resignation	0.0135
+666	bt_nllb_tamil	The effect of Thatcher s resignation	0.0135
+666	bt_nllb_chinese_yue	The impact of his resignation	0.0
+666	bt_nllb_korean	The Effects of Resigning	0.0
+667	-1	unmarried-partner households	1.0
+667	bt_nllb_french	households of unmarried partners	1.0
+667	bt_nllb_german	Households with unmarried partners	1.0
+667	bt_nllb_korean	A family with an unmarried partner	1.0
+667	bt_nllb_malay	household of unmarried couples	1.0
+667	bt_nllb_russian	households of unmarried partners	1.0
+667	bt_nllb_swahili	families of unmarried partners	1.0
+667	bt_nllb_tamil	The family members are not married	1.0
+667	bt_nllb_arabic	Families that don t marry a partner	0.3333
+667	bt_nllb_chinese_yue	Single couples and families	0.125
+667	bt_nllb_persian	Single couples	0.0714
+668	-1	poverty, disease	1.0
+668	bt_nllb_chinese_yue	Poverty illness	1.0
+668	bt_nllb_french	poverty illness	1.0
+668	bt_nllb_german	Poverty and disease	1.0
+668	bt_nllb_korean	Poverty and disease	1.0
+668	bt_nllb_malay	poverty disease	1.0
+668	bt_nllb_persian	Poverty illness	1.0
+668	bt_nllb_russian	poverty illness	1.0
+668	bt_nllb_swahili	poverty illness	1.0
+668	bt_nllb_arabic	Poverty and sickness	0.1429
+668	bt_nllb_tamil	Poverty and sickness	0.1429
+669	-1	Islamic Revolution	0.25
+669	bt_nllb_arabic	The Islamic Revolution	0.25
+669	bt_nllb_chinese_yue	The Islamic Revolution	0.25
+669	bt_nllb_french	The Islamic Revolution	0.25
+669	bt_nllb_german	The Islamic Revolution	0.25
+669	bt_nllb_korean	The Islamic Revolution	0.25
+669	bt_nllb_malay	The Islamic Revolution	0.25
+669	bt_nllb_persian	The Islamic Revolution	0.25
+669	bt_nllb_russian	The Islamic Revolution	0.25
+669	bt_nllb_swahili	The Islamic Revolution	0.25
+669	bt_nllb_tamil	The Islamic Revolution	0.25
+670	-1	U.S. elections apathy	0.1
+670	bt_nllb_malay	Apathy in the US election	1.0
+670	bt_nllb_french	The apathy of the American electorate	0.5
+670	bt_nllb_russian	American apathy in the election	0.3333
+670	bt_nllb_korean	The American election s indifference	0.1
+670	bt_nllb_arabic	The interest in the United States election	0.0
+670	bt_nllb_chinese_yue	The US election is irrelevant	0.0
+670	bt_nllb_german	The American electoral system	0.0
+670	bt_nllb_persian	Ignoring the U S election	0.0
+670	bt_nllb_swahili	The U S Election Rebellion	0.0
+670	bt_nllb_tamil	The United States elections were marred by political instability	0.0
+671	-1	Salvation Army benefits	1.0
+671	bt_nllb_arabic	The benefits of the Salvation Army	1.0
+671	bt_nllb_chinese_yue	The benefits of the Salvation Army	1.0
+671	bt_nllb_french	The Benefits of the Salvation Army	1.0
+671	bt_nllb_malay	Benefits of the Salvation Army	1.0
+671	bt_nllb_persian	The benefits of the Salvation Army	1.0
+671	bt_nllb_swahili	The Benefits of the Salvation Army	1.0
+671	bt_nllb_russian	The Salvation Army	0.2
+671	bt_nllb_tamil	The benefits of the rescue army	0.027
+671	bt_nllb_german	The healing army s achievements	0.0
+671	bt_nllb_korean	Rescue team benefits	0.0
+673	-1	Soviet withdrawal Afghanistan	0.5
+673	bt_nllb_tamil	The Soviet Army in Afghanistan	1.0
+673	bt_nllb_arabic	The Soviet withdrawal from Afghanistan	0.5
+673	bt_nllb_french	The Soviet withdrawal from Afghanistan	0.5
+673	bt_nllb_german	Soviet withdrawal from Afghanistan	0.5
+673	bt_nllb_korean	Soviet withdrawal from Afghanistan	0.5
+673	bt_nllb_persian	Withdrawal of the Soviet Union from Afghanistan	0.5
+673	bt_nllb_russian	The Soviet Conclusion of Afghanistan	0.5
+673	bt_nllb_swahili	The Soviet withdrawal from Afghanistan	0.5
+673	bt_nllb_malay	The Soviet decommissioning of Afghanistan	0.3333
+673	bt_nllb_chinese_yue	The Soviet Union withdrew its troops from Afghanistan	0.125
+674	-1	Greenpeace prosecuted	0.1111
+674	bt_nllb_swahili	Greenpeace is charged	1.0
+674	bt_nllb_arabic	The Greenpeace trial	0.3333
+674	bt_nllb_persian	The Greenpeace trial	0.3333
+674	bt_nllb_russian	The Greenpeace Persecution	0.2
+674	bt_nllb_french	Greenpeace prosecuted	0.1111
+674	bt_nllb_german	Greenpeace is being pursued	0.0909
+674	bt_nllb_korean	The Greenpeace court case	0.0833
+674	bt_nllb_chinese_yue	Greenpeace is being prosecuted	0.0769
+674	bt_nllb_malay	Greenpeace is being sued	0.0714
+674	bt_nllb_tamil	The case against Greenpeace	0.0625
+675	-1	Olympics training swimming	1.0
+675	bt_nllb_chinese_yue	Olympic swimming training	1.0
+675	bt_nllb_french	Olympic swimming training	1.0
+675	bt_nllb_german	Olympic swimming training	1.0
+675	bt_nllb_korean	Olympic swimming training	1.0
+675	bt_nllb_malay	Olympic swimming training	1.0
+675	bt_nllb_persian	Swimming at the Olympics	1.0
+675	bt_nllb_swahili	Olympic swimming training	1.0
+675	bt_nllb_tamil	Olympic swimming training	1.0
+675	bt_nllb_arabic	Swimming practice	0.1667
+675	bt_nllb_russian	The Olympic Games	0.0109
+676	-1	poppy cultivation	1.0
+676	bt_nllb_german	Poppy farming	1.0
+676	bt_nllb_malay	poppy cultivation	1.0
+676	bt_nllb_swahili	Poppy farming	1.0
+676	bt_nllb_korean	The cultivation of peanut	0.0141
+676	bt_nllb_arabic	Pop culture	0.0
+676	bt_nllb_chinese_yue	Vegetable cultivation	0.0
+676	bt_nllb_french	culture of paperwork	0.0
+676	bt_nllb_persian	He killed the Pope	0.0
+676	bt_nllb_russian	growing mackerel	0.0
+676	bt_nllb_tamil	The family is a family of animals	0.0
+677	-1	Leaning Tower of Pisa	1.0
+677	bt_nllb_arabic	The twisted tower of Pisa	1.0
+677	bt_nllb_chinese_yue	The slope of Pisa	1.0
+677	bt_nllb_french	The Tower of Pisa is tilted	1.0
+677	bt_nllb_german	The Scene Storm of Pisa	1.0
+677	bt_nllb_korean	The Leaning Tower of Pisa	1.0
+677	bt_nllb_malay	The Tower of Pisa	1.0
+677	bt_nllb_russian	The Leaning Tower of Pisa	1.0
+677	bt_nllb_swahili	The Tower of Pisa Coming to	1.0
+677	bt_nllb_persian	The curved vertical tower	0.1
+677	bt_nllb_tamil	Satan s sloping tower	0.0
+678	-1	joint custody impact	1.0
+678	bt_nllb_arabic	The effect of joint custody	1.0
+678	bt_nllb_french	the impact on joint custody	1.0
+678	bt_nllb_german	Effects on joint custody	1.0
+678	bt_nllb_russian	influence on joint custody	1.0
+678	bt_nllb_chinese_yue	The impact of shared custody	0.0625
+678	bt_nllb_korean	The impact on co education	0.0
+678	bt_nllb_malay	effects of joint care	0.0
+678	bt_nllb_persian	Effects of shared care	0.0
+678	bt_nllb_swahili	effects of shared care	0.0
+678	bt_nllb_tamil	The impact on collective security	0.0
+679	-1	opening adoption records	0.5
+679	bt_nllb_arabic	Open up the adoption records	0.5
+679	bt_nllb_chinese_yue	Open up the adoption records	0.5
+679	bt_nllb_french	the opening of adoption records	0.5
+679	bt_nllb_korean	Open up the adoption records	0.5
+679	bt_nllb_swahili	opening the records of adoption	0.5
+679	bt_nllb_german	Opening of adoption documents	0.3333
+679	bt_nllb_malay	opening of the admission record	0.0
+679	bt_nllb_persian	Opening up the admissions records	0.0
+679	bt_nllb_russian	Opening an account about acceptance	0.0
+679	bt_nllb_tamil	Opening the acceptance records	0.0
+680	-1	immigrants Spanish school	0.25
+680	bt_nllb_chinese_yue	Immigration Spanish College	0.5
+680	bt_nllb_arabic	Immigrants Spanish school	0.25
+680	bt_nllb_french	immigrants in spanish school	0.25
+680	bt_nllb_german	Immigrant Spanish School	0.25
+680	bt_nllb_korean	Immigrant Spanish School	0.25
+680	bt_nllb_malay	Spanish school immigrants	0.25
+680	bt_nllb_persian	Spanish school immigrants	0.25
+680	bt_nllb_russian	immigrants Spanish school	0.25
+680	bt_nllb_swahili	Spanish school for immigrants	0.25
+680	bt_nllb_tamil	The Spanish school for immigrants	0.25
+681	-1	wind power location	1.0
+681	bt_nllb_arabic	Wind power location	1.0
+681	bt_nllb_chinese_yue	Location of wind power	1.0
+681	bt_nllb_korean	Location of wind power	1.0
+681	bt_nllb_malay	location of wind power	1.0
+681	bt_nllb_persian	Wind power location	1.0
+681	bt_nllb_swahili	wind energy area	1.0
+681	bt_nllb_tamil	Wind power station	1.0
+681	bt_nllb_french	location of wind energy	0.25
+681	bt_nllb_german	Location of wind energy	0.25
+681	bt_nllb_russian	location of wind energy	0.25
+682	-1	adult immigrants English	1.0
+682	bt_nllb_arabic	English adult immigrants	1.0
+682	bt_nllb_french	English adult immigrants	1.0
+682	bt_nllb_german	Adult immigrant English	1.0
+682	bt_nllb_korean	Adult immigrants English	1.0
+682	bt_nllb_malay	English adult immigrants	1.0
+682	bt_nllb_persian	English adult immigrants	1.0
+682	bt_nllb_russian	adult immigrants English	1.0
+682	bt_nllb_swahili	adult immigrants English	1.0
+682	bt_nllb_tamil	English for adult immigrants	1.0
+682	bt_nllb_chinese_yue	Adult migration English	0.0588
+683	-1	Czechoslovakia breakup	1.0
+683	bt_nllb_arabic	The breakup of Czechoslovakia	1.0
+683	bt_nllb_french	The division of Czechoslovakia	1.0
+683	bt_nllb_persian	The breakup of Czechoslovakia	1.0
+683	bt_nllb_swahili	The breakup of Czechoslovakia	1.0
+683	bt_nllb_tamil	The division of Czechoslovakia	1.0
+683	bt_nllb_chinese_yue	Czechoslovakia was divided	0.5
+683	bt_nllb_korean	The Czechoslovak partition	0.5
+683	bt_nllb_malay	Czechoslovakia is breaking up	0.25
+683	bt_nllb_german	The dissolving of Czechoslovakia	0.1667
+683	bt_nllb_russian	The fall of Czechoslovakia	0.0625
+684	-1	part-time benefits	1.0
+684	bt_nllb_chinese_yue	Part time benefits	1.0
+684	bt_nllb_french	Part time benefits	1.0
+684	bt_nllb_german	Part time benefits	1.0
+684	bt_nllb_persian	Part time benefits	1.0
+684	bt_nllb_russian	Part time benefits	1.0
+684	bt_nllb_malay	half time benefits	0.1
+684	bt_nllb_arabic	Part time allowance	0.0526
+684	bt_nllb_korean	One hour	0.0
+684	bt_nllb_swahili	Temporary Benefits	0.0
+684	bt_nllb_tamil	Part time scholarship	0.0
+685	-1	Oscar winner selection	1.0
+685	bt_nllb_arabic	Picking the winners of the Oscars	1.0
+685	bt_nllb_french	Selection of the winners of the Oscars	1.0
+685	bt_nllb_german	Selection of Oscar winners	1.0
+685	bt_nllb_korean	Oscar winners selected	1.0
+685	bt_nllb_malay	Oscar winner selection	1.0
+685	bt_nllb_russian	The Oscar winners are selected	1.0
+685	bt_nllb_swahili	Selection of Oscar winners	1.0
+685	bt_nllb_tamil	The Oscar winners are selected	1.0
+685	bt_nllb_persian	The Oscar winner s choice	0.25
+685	bt_nllb_chinese_yue	Oscar winners are elected	0.125
+686	-1	Argentina pegging dollar	1.0
+686	bt_nllb_malay	The Argentine dollar pegging	1.0
+686	bt_nllb_french	Argentina in dollars	0.3333
+686	bt_nllb_arabic	The Argentine dollar	0.1111
+686	bt_nllb_chinese_yue	Argentine dollar	0.1111
+686	bt_nllb_german	The Argentine dollar	0.1111
+686	bt_nllb_korean	Argentine dollar	0.1111
+686	bt_nllb_persian	Argentine dollars	0.1111
+686	bt_nllb_russian	The Argentine dollar	0.1111
+686	bt_nllb_tamil	The Argentine dollar	0.1111
+686	bt_nllb_swahili	The Argentine dollar for unification	0.0833
+687	-1	Northern Ireland industry	1.0
+687	bt_nllb_arabic	Northern Ireland industry	1.0
+687	bt_nllb_chinese_yue	Northern Ireland s industrial sector	1.0
+687	bt_nllb_french	Industry in Northern Ireland	1.0
+687	bt_nllb_german	Industry in Northern Ireland	1.0
+687	bt_nllb_korean	Northern Ireland s industry	1.0
+687	bt_nllb_malay	Northern Ireland s industrial	1.0
+687	bt_nllb_persian	Northern Ireland s industry	1.0
+687	bt_nllb_russian	Industry of Northern Ireland	1.0
+687	bt_nllb_swahili	Industries in Northern Ireland	1.0
+687	bt_nllb_tamil	Northern Ireland Industry	1.0
+688	-1	non-U.S. media bias	0.1
+688	bt_nllb_german	Non American media distortion	1.0
+688	bt_nllb_malay	Media bias is not the US	1.0
+688	bt_nllb_russian	The un American media bias	1.0
+688	bt_nllb_chinese_yue	Media bias outside the United States	0.3333
+688	bt_nllb_korean	Media bias outside the United States	0.3333
+688	bt_nllb_persian	Non American media bias	0.3333
+688	bt_nllb_arabic	The media bias is not American	0.1429
+688	bt_nllb_french	prejudice from non American media	0.0112
+688	bt_nllb_swahili	Opposition from non U S media	0.0
+688	bt_nllb_tamil	Non U S media pro	0.0
+689	-1	family-planning aid	0.2
+689	bt_nllb_chinese_yue	Family planning assistance	0.0476
+689	bt_nllb_german	Family planning assistance	0.0476
+689	bt_nllb_arabic	Supporting family planning	0.0385
+689	bt_nllb_korean	Family Planning Support	0.0385
+689	bt_nllb_french	family planning	0.0
+689	bt_nllb_malay	Family planning help	0.0
+689	bt_nllb_persian	Family planning help	0.0
+689	bt_nllb_russian	help with family planning	0.0
+689	bt_nllb_swahili	help in family planning	0.0
+689	bt_nllb_tamil	Family planning help	0.0
+690	-1	college education advantage	0.0
+690	bt_nllb_russian	The advantages of higher education	0.0476
+690	bt_nllb_arabic	The advantage of university education	0.0278
+690	bt_nllb_chinese_yue	The benefits of college education	0.0125
+690	bt_nllb_korean	The benefits of a college education	0.0125
+690	bt_nllb_tamil	The benefits of college education	0.0125
+690	bt_nllb_french	The benefits of higher education	0.0109
+690	bt_nllb_german	The benefits of higher education	0.0109
+690	bt_nllb_malay	advantages of college education	0.0
+690	bt_nllb_persian	The benefits of a university education	0.0
+690	bt_nllb_swahili	benefits of university education	0.0
+691	-1	clear-cutting forests	1.0
+691	bt_nllb_arabic	The cutting edge forests	1.0
+691	bt_nllb_chinese_yue	Clearing the forests	1.0
+691	bt_nllb_german	Cutting of forest	1.0
+691	bt_nllb_korean	Cutting the forest	1.0
+691	bt_nllb_persian	The clearing forests	1.0
+691	bt_nllb_russian	forests that are cleared	1.0
+691	bt_nllb_swahili	forests for cutting	1.0
+691	bt_nllb_tamil	Cutting down forests	0.0833
+691	bt_nllb_malay	The forest was destroyed	0.0101
+691	bt_nllb_french	deforestation	0.0
+692	-1	prostate cancer detection treatment	0.5
+692	bt_nllb_arabic	The cure for prostate cancer	1.0
+692	bt_nllb_french	treatment for prostate cancer	1.0
+692	bt_nllb_korean	Treatment for prostate cancer	1.0
+692	bt_nllb_persian	Treatment for prostate cancer	1.0
+692	bt_nllb_swahili	treatment for prostate cancer	1.0
+692	bt_nllb_tamil	The treatment for prostate cancer	1.0
+692	bt_nllb_german	Treatment for the detection of prostate cancer	0.5
+692	bt_nllb_malay	treatment for detecting prostate cancer	0.5
+692	bt_nllb_russian	treatment of prostate cancer detection	0.5
+692	bt_nllb_chinese_yue	Diagnosing and treating prostate cancer	0.25
+693	-1	newspapers electronic media	1.0
+693	bt_nllb_german	Newspapers electronic media	1.0
+693	bt_nllb_korean	Newspaper electronic media	1.0
+693	bt_nllb_malay	electronic media newspaper	1.0
+693	bt_nllb_persian	Newspapers electronic media	1.0
+693	bt_nllb_russian	newspapers electronic media	1.0
+693	bt_nllb_swahili	newspapers electronic media	1.0
+693	bt_nllb_tamil	Newspapers and electronic media	1.0
+693	bt_nllb_chinese_yue	News and electronic media	0.0385
+693	bt_nllb_french	electronic media	0.0263
+693	bt_nllb_arabic	The e mails	0.0
+694	-1	compost pile	1.0
+694	bt_nllb_chinese_yue	Compost	1.0
+694	bt_nllb_french	compost pile	1.0
+694	bt_nllb_russian	The compost pile	1.0
+694	bt_nllb_tamil	The compost pile	1.0
+694	bt_nllb_persian	The mass of compost	0.5
+694	bt_nllb_arabic	The manure pile	0.3333
+694	bt_nllb_german	Heaps of compost	0.2
+694	bt_nllb_malay	compost heaps	0.2
+694	bt_nllb_swahili	groups of fertilisers	0.0161
+694	bt_nllb_korean	It s empty	0.0
+695	-1	white collar crime sentence	1.0
+695	bt_nllb_french	sentenced to death for white collar crime	1.0
+695	bt_nllb_korean	He s in jail for the white collar crime	1.0
+695	bt_nllb_russian	Sentenced to a crime in the field of white collar	1.0
+695	bt_nllb_swahili	the verdict of a white collar crime	1.0
+695	bt_nllb_malay	The punishment for white collar crime	0.5
+695	bt_nllb_persian	The punishment for white collar crime	0.5
+695	bt_nllb_arabic	The white collar crime	0.25
+695	bt_nllb_german	Crime with a white collar	0.25
+695	bt_nllb_tamil	White necked criminal conviction	0.25
+695	bt_nllb_chinese_yue	Criminal law	0.0
+696	-1	safety plastic surgery	1.0
+696	bt_nllb_arabic	Plastic surgery is safe	1.0
+696	bt_nllb_chinese_yue	Safety plastic surgery	1.0
+696	bt_nllb_french	safety plastic surgery	1.0
+696	bt_nllb_german	Safety of plastic surgery	1.0
+696	bt_nllb_malay	safety plastic surgery	1.0
+696	bt_nllb_persian	Plastic surgery is safe	1.0
+696	bt_nllb_russian	safety of plastic surgery	1.0
+696	bt_nllb_swahili	safety plastic surgery	1.0
+696	bt_nllb_tamil	Safety Plastic Surgery	1.0
+696	bt_nllb_korean	Surgery for safety	0.125
+697	-1	air traffic controller	0.2
+697	bt_nllb_arabic	Air traffic controller	0.2
+697	bt_nllb_chinese_yue	Air traffic controller	0.2
+697	bt_nllb_french	Air traffic controller	0.2
+697	bt_nllb_malay	Air traffic controller	0.2
+697	bt_nllb_persian	Air traffic controller	0.2
+697	bt_nllb_russian	Air traffic controller	0.2
+697	bt_nllb_swahili	Air traffic controller	0.2
+697	bt_nllb_tamil	Air traffic controller	0.2
+697	bt_nllb_german	Air traffic management	0.1111
+697	bt_nllb_korean	Air traffic manager	0.1111
+698	-1	literacy rates Africa	1.0
+698	bt_nllb_arabic	Literacy rates in Africa	1.0
+698	bt_nllb_chinese_yue	Literacy in Africa	1.0
+698	bt_nllb_french	Literacy rate in Africa	1.0
+698	bt_nllb_german	Literacy rates in Africa	1.0
+698	bt_nllb_russian	literacy in Africa	1.0
+698	bt_nllb_swahili	literacy standards in Africa	1.0
+698	bt_nllb_tamil	The literacy rate in Africa	1.0
+698	bt_nllb_malay	African literacy rate	0.5
+698	bt_nllb_persian	African literacy rate	0.5
+698	bt_nllb_korean	Alphabetic Rate Africa	0.0
+699	-1	term limits	0.25
+699	bt_nllb_persian	Limitations of fashion	0.1429
+699	bt_nllb_chinese_yue	The deadline is limited	0.04
+699	bt_nllb_arabic	The time limit	0.0357
+699	bt_nllb_french	time limits	0.0357
+699	bt_nllb_german	Limitations of time	0.0357
+699	bt_nllb_korean	The time limit	0.0357
+699	bt_nllb_swahili	time limits	0.0357
+699	bt_nllb_tamil	time limits	0.0357
+699	bt_nllb_malay	The deadline	0.0
+699	bt_nllb_russian	The deadline	0.0
+700	-1	gasoline tax U.S.	0.0769
+700	bt_nllb_korean	Gasoline tax	0.5
+700	bt_nllb_french	US gas tax	0.1667
+700	bt_nllb_german	Gas tax	0.1667
+700	bt_nllb_malay	U S gasoline taxes	0.0769
+700	bt_nllb_russian	U S gasoline tax	0.0769
+700	bt_nllb_swahili	oil tax in the United States	0.0345
+700	bt_nllb_tamil	Oil tax in the United States	0.0345
+700	bt_nllb_arabic	The U S gas tax	0.0
+700	bt_nllb_chinese_yue	U S gas tax	0.0
+700	bt_nllb_persian	U S gas tax	0.0

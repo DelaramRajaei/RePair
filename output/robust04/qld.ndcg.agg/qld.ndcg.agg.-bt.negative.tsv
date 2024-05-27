@@ -1,0 +1,250 @@
+qid	order	query	qld.ndcg
+301	-1	International Organized Crime	0.064
+302	-1	Poliomyelitis and Post-Polio	0.7466
+303	-1	Hubble Telescope Achievements	0.5359
+304	-1	Endangered Species (Mammals)	0.1457
+305	-1	Most Dangerous Vehicles	0.0469
+306	-1	African Civilian Deaths	0.1628
+307	-1	New Hydroelectric Projects	0.384
+308	-1	Implant Dentistry	0.4859
+309	-1	Rap and Crime	0.0
+310	-1	Radio Waves and Brain Cancer	0.3448
+311	-1	Industrial Espionage	0.3748
+312	-1	Hydroponics	0.9559
+313	-1	Magnetic Levitation-Maglev	0.8784
+314	-1	Marine Vegetation	0.0426
+315	-1	Unexplained Highway Accidents	0.0432
+316	-1	Polygamy Polyandry Polygyny	0.7342
+317	-1	Unsolicited Faxes	0.7038
+318	-1	Best Retirement Country	0.053
+319	-1	New Fuel Sources	0.1826
+320	-1	Undersea Fiber Optic Cable	0.2511
+321	-1	Women in Parliaments	0.3181
+322	-1	International Art Crime	0.0
+323	-1	Literary/Journalistic Plagiarism	0.4955
+324	-1	Argentine/British Relations	0.4472
+325	-1	Cult Lifestyles	0.2154
+326	-1	Ferry Sinkings	0.7825
+327	-1	Modern Slavery	0.3102
+328	-1	Pope Beatifications	0.8198
+329	-1	Mexican Air Pollution	0.2997
+330	-1	Iran-Iraq Cooperation	0.2185
+331	-1	World Bank Criticism	0.3003
+332	-1	Income Tax Evasion	0.053
+333	-1	Antibiotics Bacteria Disease	0.4773
+334	-1	Export Controls Cryptography	0.1483
+335	-1	Adoptive Biological Parents	0.5241
+336	-1	Black Bear Attacks	0.2346
+337	-1	Viral Hepatitis	0.3929
+338	-1	Risk of Aspirin	0.5856
+339	-1	Alzheimer's Drug Treatment	0.4531
+340	-1	Land Mine Ban	0.2317
+341	-1	Airport Security	0.3983
+342	-1	Diplomatic Expulsion	0.3784
+343	-1	Police Deaths	0.0419
+344	-1	Abuses of E-Mail	0.5641
+345	-1	Overseas Tobacco Sales	0.2289
+346	-1	Educational Standards	0.1543
+347	-1	Wildlife Extinction	0.1509
+348	-1	Agoraphobia	0.9068
+349	-1	Metabolism	0.3615
+350	-1	Health and Computer Terminals	0.1798
+351	-1	Falkland petroleum exploration	0.5655
+352	-1	British Chunnel impact	0.1413
+353	-1	Antarctica exploration	0.3853
+354	-1	journalist risks	0.081
+355	-1	ocean remote sensing	0.3309
+356	-1	postmenopausal estrogen Britain	0.0658
+357	-1	territorial waters dispute	0.2088
+358	-1	blood-alcohol fatalities	0.3482
+359	-1	mutual fund predictors	0.065
+360	-1	drug legalization benefits	0.2986
+361	-1	clothing sweatshops	0.5986
+362	-1	human smuggling	0.248
+363	-1	transportation tunnel disasters	0.2198
+364	-1	rabies	0.8224
+365	-1	El Nino	0.8125
+366	-1	commercial cyanide uses	0.557
+367	-1	piracy	0.09
+368	-1	in vitro fertilization	0.5793
+369	-1	anorexia nervosa bulimia	0.5622
+370	-1	food/drug laws	0.0232
+371	-1	health insurance holistic	0.0
+372	-1	Native American casino	0.2721
+373	-1	encryption equipment export	0.2701
+374	-1	Nobel prize winners	0.231
+375	-1	hydrogen energy	0.4654
+376	-1	World Court	0.0364
+377	-1	cigar smoking	0.5429
+378	-1	euro opposition	0.0294
+379	-1	mainstreaming	0.0973
+380	-1	obesity medical treatment	0.4354
+381	-1	alternative medicine	0.1881
+382	-1	hydrogen fuel automobiles	0.7762
+383	-1	mental illness drugs	0.0908
+384	-1	space station moon	0.3605
+385	-1	hybrid fuel cars	0.4804
+386	-1	teaching disabled children	0.1411
+387	-1	radioactive waste	0.2354
+388	-1	organic soil enhancement	0.1152
+389	-1	illegal technology transfer	0.0337
+390	-1	orphan drugs	0.1935
+391	-1	R&D drug prices	0.2532
+392	-1	robotics	0.5231
+393	-1	mercy killing	0.2084
+394	-1	home schooling	0.0474
+395	-1	tourism	0.1485
+396	-1	sick building syndrome	0.3205
+397	-1	automobile recalls	0.0873
+398	-1	dismantling Europe's arsenal	0.0879
+399	-1	oceanographic vessels	0.3174
+400	-1	Amazon rain forest	0.4755
+401	-1	foreign minorities, Germany	0.0836
+402	-1	behavioral genetics	0.2668
+403	-1	osteoporosis	0.7096
+404	-1	Ireland, peace talks	0.1844
+405	-1	cosmic events	0.2005
+406	-1	Parkinson's disease	0.7614
+407	-1	poaching, wildlife preserves	0.4965
+408	-1	tropical storms	0.2762
+409	-1	legal, Pan Am, 103	0.1701
+410	-1	Schengen agreement	0.9395
+411	-1	salvaging, shipwreck, treasure	0.4896
+412	-1	airport security	0.3416
+413	-1	steel production	0.2582
+414	-1	Cuba, sugar, exports	0.4683
+415	-1	drugs, Golden Triangle	0.3742
+416	-1	Three Gorges Project	0.5941
+417	-1	creativity	0.4648
+418	-1	quilts, income	0.4139
+419	-1	recycle, automobile tires	0.3261
+420	-1	carbon monoxide poisoning	0.6329
+421	-1	industrial waste disposal	0.1385
+422	-1	art, stolen, forged	0.1915
+423	-1	Milosevic, Mirjana Markovic	0.817
+424	-1	suicides	0.17
+425	-1	counterfeiting money	0.402
+426	-1	law enforcement, dogs	0.0897
+427	-1	UV damage, eyes	0.3505
+428	-1	declining birth rates	0.3522
+429	-1	Legionnaires' disease	0.6544
+430	-1	killer bee attacks	0.8411
+431	-1	robotic technology	0.4997
+432	-1	profiling, motorists, police	0.0344
+433	-1	Greek, philosophy, stoicism	0.3679
+434	-1	Estonia, economy	0.2827
+435	-1	curbing population growth	0.1756
+436	-1	railway accidents	0.1492
+437	-1	deregulation, gas, electric	0.1129
+438	-1	tourism, increase	0.2239
+439	-1	inventions, scientific discoveries	0.0591
+440	-1	child labor	0.2559
+441	-1	Lyme disease	0.6599
+442	-1	heroic acts	0.0615
+443	-1	U.S., investment, Africa	0.0237
+444	-1	supercritical fluids	0.6666
+445	-1	women clergy	0.3744
+446	-1	tourists, violence	0.2742
+447	-1	Stirling engine	0.2158
+448	-1	ship losses	0.0821
+449	-1	antibiotics ineffectiveness	0.1905
+450	-1	King Hussein, peace	0.2666
+601	-1	Turkey Iraq water	0.6008
+602	-1	Czech, Slovak sovereignty	0.3181
+603	-1	Tobacco cigarette lawsuit	0.5262
+604	-1	Lyme disease arthritis	0.9679
+605	-1	Great Britain health care	0.0894
+606	-1	leg traps ban	0.5941
+607	-1	human genetic code	0.5345
+608	-1	taxing social security	0.1495
+609	-1	per capita alcohol consumption	0.5791
+610	-1	minimum wage adverse impact	0.2032
+611	-1	Kurds Germany violence	0.4128
+612	-1	Tibet protesters	0.5399
+613	-1	Berlin wall disposal	0.4175
+614	-1	Flavr Savr tomato	0.3032
+615	-1	timber exports Asia	0.3064
+616	-1	Volkswagen Mexico	0.7874
+617	-1	Russia Cuba economy	0.378
+618	-1	Ayatollah Khomeini death	0.4509
+619	-1	Winnie Mandela scandal	0.7887
+620	-1	France nuclear testing	0.1509
+621	-1	women ordained Church of England	0.4851
+622	-1	price fixing	0.0526
+623	-1	toxic chemical weapon	0.495
+624	-1	SDI Star Wars	0.4095
+625	-1	arrests bombing WTC	0.1492
+626	-1	human stampede	0.4271
+627	-1	Russian food crisis	0.0243
+628	-1	U.S. invasion of Panama	0.4127
+629	-1	abortion clinic attack	0.2673
+630	-1	Gulf War Syndrome	0.8005
+631	-1	Mandela South Africa President	0.2145
+632	-1	southeast Asia tin mining	0.3505
+633	-1	Welsh devolution	0.5655
+634	-1	L-tryptophan deaths	0.889
+635	-1	doctor assisted suicides	0.7545
+636	-1	jury duty exemptions	0.2
+637	-1	human growth hormone (HGH)	0.6266
+638	-1	wrongful convictions	0.1133
+639	-1	consumer on-line shopping	0.403
+640	-1	maternity leave policies	0.6034
+641	-1	Valdez wildlife marine life	0.4703
+642	-1	Tiananmen Square protesters	0.3451
+643	-1	salmon dams Pacific northwest	0.3105
+644	-1	exotic animals import	0.1482
+645	-1	software piracy	0.8376
+646	-1	food stamps increase	0.3727
+647	-1	windmill electricity	0.4176
+648	-1	family leave law	0.3345
+649	-1	computer viruses	0.7906
+650	-1	tax evasion indicted	0.1749
+651	-1	U.S. ethnic population	0.0232
+652	-1	OIC Balkans 1990s	0.5643
+653	-1	ETA Basque terrorism	0.6557
+654	-1	same-sex schools	0.6412
+655	-1	ADD diagnosis treatment	0.0
+656	-1	lead poisoning children	0.1392
+657	-1	school prayer banned	0.7199
+658	-1	teenage pregnancy	0.1885
+659	-1	cruise health safety	0.6487
+660	-1	whale watching California	0.775
+661	-1	melanoma treatment causes	0.7546
+662	-1	telemarketer protection	0.7134
+663	-1	Agent Orange exposure	0.3932
+664	-1	American Indian Museum	0.6053
+665	-1	poverty Africa sub-Sahara	0.4187
+666	-1	Thatcher resignation impact	0.0894
+667	-1	unmarried-partner households	0.6202
+668	-1	poverty, disease	0.537
+669	-1	Islamic Revolution	0.3441
+670	-1	U.S. elections apathy	0.1484
+671	-1	Salvation Army benefits	0.4316
+673	-1	Soviet withdrawal Afghanistan	0.6818
+674	-1	Greenpeace prosecuted	0.2799
+675	-1	Olympics training swimming	0.5238
+676	-1	poppy cultivation	0.4298
+677	-1	Leaning Tower of Pisa	0.9798
+678	-1	joint custody impact	0.4367
+679	-1	opening adoption records	0.9492
+680	-1	immigrants Spanish school	0.235
+681	-1	wind power location	0.55
+682	-1	adult immigrants English	0.4747
+683	-1	Czechoslovakia breakup	0.118
+684	-1	part-time benefits	0.3109
+685	-1	Oscar winner selection	0.4707
+686	-1	Argentina pegging dollar	0.4662
+687	-1	Northern Ireland industry	0.2951
+688	-1	non-U.S. media bias	0.0499
+689	-1	family-planning aid	0.111
+690	-1	college education advantage	0.066
+691	-1	clear-cutting forests	0.5508
+692	-1	prostate cancer detection treatment	0.5949
+693	-1	newspapers electronic media	0.4743
+694	-1	compost pile	0.5249
+695	-1	white collar crime sentence	0.3752
+696	-1	safety plastic surgery	0.4977
+697	-1	air traffic controller	0.2711
+698	-1	literacy rates Africa	0.8183
+699	-1	term limits	0.582
+700	-1	gasoline tax U.S.	0.1054
