@@ -22,7 +22,7 @@ We conducted extensive experiments using widely recognized TREC query sets and m
   * [`agg, box`](#agg-box)
 - [4. Acknowledgement](#4-acknowledgement)
 - [5. License](#5-license)
-<td ><img src='./misc/flow.jpg' width="100%" /></td>
+<td ><img src='misc/flow.jpg' width="100%" /></td>
 </table>
 
 
@@ -61,7 +61,7 @@ To perform fast IR tasks, we need to build the sparse indexes of document corpor
 ## 2. Quickstart
 For using query refinement make sure to add the command to the pipeline in the [./src/param.py](./src/param.py).
 
-As seen in the above [`workflow`](./misc/workflow.jpg), `RePair` has three pipelined steps: 
+As seen in the above [`workflow`](misc/workflow.jpg), `RePair` has three pipelined steps: 
 > 1. Refining Quereis: [`query_refinement`]
 > 2. Performance Evaluation: [`search`, `eval`]
 > 3. Dataset Curation: [`agg`, `box`]
