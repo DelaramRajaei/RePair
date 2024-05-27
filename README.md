@@ -172,10 +172,10 @@ We keep two these datasets as the outcome of the `RePair` pipeline:
         'negative':          'refined_q_metric < original_q_metric}
 ```
 The 'selected refiner' option refers to the categories we experiment on and the create a datasets:
-> nllb: Only backtranslation with nllb
-> -bt: Other refiners than backtranslartion
-> +bt: All the refiners except bing translator
-> allref: All the refiners
+ - nllb: Only backtranslation with nllb
+ - -bt: Other refiners than backtranslartion
+ - +bt: All the refiners except bing translator
+ - allref: All the refiners
 
 After this step, the final structure of the output will be look like below:
 
