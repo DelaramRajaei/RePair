@@ -1,0 +1,1986 @@
+,qid,order,query,qld.map
+0,100653,-1,how do I go about getting copies of letters of commendation prsented to me from city of san diego?,0.2383
+1,100653,bt_nllb_korean,How do we get compliments from the city of San Diego,0.3023
+2,100653,anchor.topn3,go getting copies letters commendation prsented city san diego c yalag noise a go teeley pyszczynski hnatiw royal san baghdatí srisamart vahinetua,0.2902
+3,100653,bt_bing_russian,How do I get copies of thank you letters from the City of San Diego,0.2835
+4,100653,termluster.topn5.3.bm25,go getting copies letters commendation prsented city san diego,0.2828
+5,100653,termluster.topn5.3.qld,go getting copies letters commendation prsented city san diego,0.2828
+6,100653,thesaurus.topn3,go getting copies letters commendation prsented city san diego,0.2828
+7,100653,thesaurus.topn3.replace,go getting copies letters commendation prsented city san diego,0.2828
+8,100653,stem.trunc5,how do i go about getti copie of lette of comme prsen to me from city of san diego,0.2794
+9,100653,bt_bing_swahili,How do i get copies of congratulatory letters given to me from the city of san diego,0.2713
+10,100653,tagmee.topn3,go getting copies letters commendation prsented city san diego Go film Getting In Ignatius of Antioch Commendation ceremony San Diego San Diego,0.2648
+11,100653,bt_bing_german,How do I get copies of letters of recommendation provided to me by the City of San Diego,0.2594
+12,100653,bt_bing_tamil,How do I get copies of appreciation letters sent to me from the city of San Diego,0.2562
+13,100653,bt_bing_malay,How can I get a copy of the letter of praise given to me from the city of San Diego,0.2555
+14,100653,bt_nllb_french,How do I get copies of congratulatory letters sent by the city of San Diego,0.2511
+15,100653,stem.paicehusk,how do i go about get cop of let of commend prsent to me from city of san diego,0.2481
+16,100653,tagmee.topn3.replace,Go film Getting In Ignatius of Antioch Commendation ceremony San Diego San Diego,0.2426
+17,100653,relevancefeedback.topn10.bm25,how do i go about getting copies of letters of commendation prsented to me from city of san diego you alwai diego court,0.2399
+18,100653,bt_bing_korean,How do I get a copy of a letter of commendation from the City of San Diego to me,0.2396
+19,100653,bt_nllb_persian,How do I get the mail from San Diego City that s been sent to me,0.2386
+20,1015624,-1,What's the Definition of a bloody mary?,0.6736
+21,1015624,bt_bing_arabic,What is the definition of Bloody Mary,0.6854
+22,1015624,bt_bing_chinese_simplified,What is the definition of a Bloody Mary,0.6854
+23,1015624,bt_bing_french,What is the definition of a bloody mary,0.6854
+24,1015624,bt_bing_german,What is the definition of a Bloody Mary,0.6854
+25,1015624,bt_bing_korean,What is the definition of a Bloody Mary,0.6854
+26,1015624,bt_bing_malay,What is the definition of bloody mary,0.6854
+27,1015624,bt_bing_persian,What is the definition of the Bloody Mary,0.6854
+28,1015624,bt_bing_russian,What is the definition of a Bloody Mary,0.6854
+29,1015624,bt_bing_tamil,What is the definition of Bloody Mary,0.6854
+30,1015624,bt_nllb_arabic,What is the definition of Bloody Mary,0.6854
+31,1015624,bt_nllb_korean,What is the definition of a bloody Mary,0.6854
+32,1015624,bt_nllb_persian,What is the definition of bloody Mary,0.6854
+33,1015624,bt_nllb_swahili,What is the definition of bloody Mary,0.6854
+34,1015624,bt_nllb_tamil,What is the definition of a bloody Mary,0.6854
+35,1015624,rm3.topn10.10.0.5.bm25,Whats the Definition of a bloody mary?,0.6854
+36,1015624,rm3.topn10.10.0.5.qld,Whats the Definition of a bloody mary?,0.6854
+37,1015624,relevancefeedback.topn10.qld,what s the definition of a bloody mary mari bloodi england,0.6788
+38,1015624,relevancefeedback.topn10.bm25,what s the definition of a bloody mary bloodi mari benedict england becaus,0.6782
+39,1017690,-1,what is the history of indian music?,0.2875
+40,1017690,conceptluster.topn5.3.bm25,history indian music,0.3028
+41,1017690,conceptluster.topn5.3.qld,history indian music,0.3028
+42,1017690,tagmee.topn3,history indian music,0.3028
+43,1017690,termluster.topn5.3.bm25,history indian music,0.3028
+44,1017690,termluster.topn5.3.qld,history indian music,0.3028
+45,1017690,thesaurus.topn3,history indian music,0.3028
+46,1017690,thesaurus.topn3.replace,history indian music,0.3028
+47,1017690,wiki.topn3,history indian music,0.3028
+48,1035857,-1,Why are liberals so quick to defend Saddam?,0.3345
+49,1035857,termluster.topn5.3.bm25,liberals quick defend saddam,0.3362
+50,1035857,termluster.topn5.3.qld,liberals quick defend saddam,0.3362
+51,1035857,thesaurus.topn3,liberals quick defend saddam,0.3362
+52,1035857,thesaurus.topn3.replace,liberals quick defend saddam,0.3362
+53,103830,-1,Why do man Arabs hate the west ?,0.2134
+54,103830,bt_bing_arabic,Why do Arabs hate the West,0.2308
+55,103830,bt_bing_chinese_simplified,Why do Arabs hate the West,0.2308
+56,103830,bt_bing_french,Why do Arabs hate the West,0.2308
+57,103830,bt_bing_german,Why do Arabs hate the West,0.2308
+58,103830,bt_bing_korean,Why do Arabs hate the West,0.2308
+59,103830,bt_bing_malay,Why do Arabs hate the west,0.2308
+60,103830,bt_bing_persian,Why do Arabs hate the West,0.2308
+61,103830,bt_bing_russian,Why do Arabs hate the West,0.2308
+62,103830,bt_bing_swahili,Why do Arabs hate the West,0.2308
+63,103830,bt_nllb_chinese_yue,Why do Arabs hate the West,0.2308
+64,103830,bt_nllb_french,Why do the Arabs hate the West,0.2308
+65,103830,bt_nllb_german,Why do the Arabs hate the West,0.2308
+66,103830,bt_nllb_korean,Why do Arabs hate the West,0.2308
+67,103830,bt_nllb_malay,Why do Arabs hate the West,0.2308
+68,103830,bt_nllb_persian,Why do Arabs hate the West,0.2308
+69,103830,bt_nllb_russian,Why do the Arabs hate the West,0.2308
+70,103830,bt_nllb_swahili,Why do the Arabs hate the West,0.2308
+71,103830,bt_nllb_tamil,Why do the Arabs hate the West,0.2308
+72,1063812,-1,How do I grow taller?,0.4047
+73,1063812,bt_bing_russian,How do you grow taller,0.4295
+74,1063812,conceptluster.topn5.3.bm25,grow taller,0.4171
+75,1063812,conceptluster.topn5.3.qld,grow taller,0.4171
+76,1063812,tagmee.topn3,grow taller,0.4171
+77,1063812,termluster.topn5.3.bm25,grow taller,0.4171
+78,1063812,termluster.topn5.3.qld,grow taller,0.4171
+79,1063812,thesaurus.topn3,grow taller,0.4171
+80,1063812,thesaurus.topn3.replace,grow taller,0.4171
+81,1063812,wiki.topn3,grow taller,0.4171
+82,1077370,-1,Why do only Humans have Finger prints?,0.4929
+83,1077370,termluster.topn5.3.bm25,humans finger prints,0.5363
+84,1077370,termluster.topn5.3.qld,humans finger prints,0.5363
+85,1077370,thesaurus.topn3,humans finger prints,0.5363
+86,1077370,thesaurus.topn3.replace,humans finger prints,0.5363
+87,1082595,-1,what is meant by mobile technology?,0.3446
+88,1082595,bt_bing_chinese_simplified,What does mobile technology mean,0.3957
+89,1082595,bt_bing_malay,What does mobile technology mean,0.3957
+90,1082595,bt_bing_persian,What does mobile technology mean,0.3957
+91,1082595,bt_nllb_arabic,What does mobile technology mean,0.3957
+92,1082595,bt_nllb_chinese_yue,What does mobile technology mean,0.3957
+93,1082595,bt_nllb_french,What does mobile technology mean,0.3957
+94,1082595,bt_nllb_german,What does mobile technology mean,0.3957
+95,1082595,bt_nllb_malay,What does mobile technology mean,0.3957
+96,1082595,bt_nllb_persian,What does mobile technology mean,0.3957
+97,1082595,bt_nllb_russian,What does mobile technology mean,0.3957
+98,1082595,bt_bing_arabic,What is mobile technology,0.3732
+99,1082595,bt_bing_french,What is mobile technology,0.3732
+100,1082595,bt_bing_german,What is mobile technology,0.3732
+101,1082595,bt_bing_tamil,What is mobile technology,0.3732
+102,1082595,bt_nllb_korean,What is mobile technology,0.3732
+103,1082595,bt_nllb_swahili,what is mobile technology,0.3732
+104,1082595,bt_nllb_tamil,What is mobile technology,0.3732
+105,1082595,sensedisambiguation.replace,what is think of by mobile technology,0.372
+106,1082595,bt_bing_swahili,What is the point of mobile technology,0.369
+107,1082595,bt_bing_korean,What do you mean by mobile technology,0.3603
+108,1082595,conceptluster.topn5.3.bm25,meant mobile technology,0.3522
+109,1082595,conceptluster.topn5.3.qld,meant mobile technology,0.3522
+110,1082595,tagmee.topn3,meant mobile technology,0.3522
+111,1082595,termluster.topn5.3.bm25,meant mobile technology,0.3522
+112,1082595,termluster.topn5.3.qld,meant mobile technology,0.3522
+113,1082595,thesaurus.topn3,meant mobile technology,0.3522
+114,1082595,thesaurus.topn3.replace,meant mobile technology,0.3522
+115,1082595,wiki.topn3,meant mobile technology,0.3522
+116,1119420,-1,"Well the black light is UV light.So if it is ""black"" how can it be ""light"" ?",0.2704
+117,1119420,bt_nllb_french,Black light is UV If it s black how can it be light,0.2909
+118,1119420,termluster.topn5.3.bm25,well black light uv light so black light,0.2846
+119,1119420,termluster.topn5.3.qld,well black light uv light so black light,0.2846
+120,1119420,thesaurus.topn3,well black light uv light so black light,0.2846
+121,1119420,thesaurus.topn3.replace,well black light uv light so black light,0.2846
+122,1119420,rm3.topn10.10.0.5.bm25,Well the black light is UV light.So if it is black how can it be light ?,0.2831
+123,1119420,rm3.topn10.10.0.5.qld,Well the black light is UV light.So if it is black how can it be light ?,0.2831
+124,1119420,bt_bing_swahili,Black light is UV light So if it is black how can it be light,0.2814
+125,1119420,stem.paicehusk,wel the black light is uv light so if it is black how can it be light,0.2814
+126,1152934,-1,Why don't fat people have to pay more for air travel?,0.0854
+127,1152934,bt_nllb_malay,Why don t fat people pay more for air travel,0.0871
+128,1152934,bt_nllb_russian,Why don t fat people pay more for air travel,0.0871
+129,1167882,-1,What are the different types of sins and how are they caused?,0.0431
+130,1167882,termluster.topn5.3.bm25,different types sins caused,0.0488
+131,1167882,termluster.topn5.3.qld,different types sins caused,0.0488
+132,1167882,thesaurus.topn3,different types sins caused,0.0488
+133,1167882,thesaurus.topn3.replace,different types sins caused,0.0488
+134,1199639,-1,"How to ""LOSE""all body fat ?",0.1819
+135,1199639,conceptluster.topn5.3.bm25,lose body fat,0.2057
+136,1199639,conceptluster.topn5.3.qld,lose body fat,0.2057
+137,1199639,tagmee.topn3,lose body fat,0.2057
+138,1199639,termluster.topn5.3.bm25,lose body fat,0.2057
+139,1199639,termluster.topn5.3.qld,lose body fat,0.2057
+140,1199639,thesaurus.topn3,lose body fat,0.2057
+141,1199639,thesaurus.topn3.replace,lose body fat,0.2057
+142,1199639,wiki.topn3,lose body fat,0.2057
+143,1199639,relevancefeedback.topn10.bm25,how to lose all body fat all you lose,0.194
+144,1254390,-1,how do i deap fry chicken?,0.2191
+145,1254390,bt_bing_persian,How to fry chicken,0.2359
+146,1254390,bt_bing_arabic,How can I fry chicken,0.232
+147,1254390,bt_nllb_malay,How can I fry chicken,0.232
+148,1254390,bt_bing_malay,How do I fry chicken,0.2278
+149,1254390,bt_nllb_persian,How do I fry chicken,0.2278
+150,1254390,conceptluster.topn5.3.bm25,deap fry chicken chicken deap frying,0.2213
+151,1254390,conceptluster.topn5.3.qld,deap fry chicken deap frying chicken,0.2213
+152,1254390,tagmee.topn3,deap fry chicken DEAP Frying Chicken,0.2213
+153,1254390,tagmee.topn3.replace,DEAP Frying Chicken,0.2213
+154,1254390,termluster.topn5.3.bm25,deap fry chicken,0.2213
+155,1254390,termluster.topn5.3.qld,deap fry chicken,0.2213
+156,1254390,thesaurus.topn3,deap fry chicken,0.2213
+157,1254390,thesaurus.topn3.replace,deap fry chicken,0.2213
+158,1254390,bertqe.topn10.qld,i fry chicken without coat,0.2202
+159,1262692,-1,How can I get rid of pimples on my back?,0.3384
+160,1262692,tagmee.topn3,get rid pimples back Can I Get A,0.3643
+161,1262692,termluster.topn5.3.bm25,get rid pimples back,0.3642
+162,1262692,termluster.topn5.3.qld,get rid pimples back,0.3642
+163,1262692,thesaurus.topn3,get rid pimples back,0.3642
+164,1262692,thesaurus.topn3.replace,get rid pimples back,0.3642
+165,1262692,conceptluster.topn5.3.bm25,get rid pimples back get,0.3604
+166,1262692,conceptluster.topn5.3.qld,get rid pimples back get,0.3604
+167,1262692,bt_bing_french,How do I get rid of pimples on my back,0.3387
+168,1262692,bt_bing_tamil,How do I get rid of pimples on my back,0.3387
+169,1282199,-1,how can I hide the cuts on my wrists?,0.173
+170,1282199,conceptluster.topn5.3.bm25,hide cuts wrists,0.2944
+171,1282199,conceptluster.topn5.3.qld,hide cuts wrists,0.2944
+172,1282199,tagmee.topn3,hide cuts wrists,0.2944
+173,1282199,termluster.topn5.3.bm25,hide cuts wrists,0.2944
+174,1282199,termluster.topn5.3.qld,hide cuts wrists,0.2944
+175,1282199,thesaurus.topn3,hide cuts wrists,0.2944
+176,1282199,thesaurus.topn3.replace,hide cuts wrists,0.2944
+177,1282199,wiki.topn3,hide cuts wrists,0.2944
+178,1282199,bt_bing_tamil,How do I cover cuts on my wrist,0.1749
+179,1282199,bt_bing_russian,How do I hide cuts on my wrists,0.1736
+180,1282199,bt_nllb_french,How do I hide the cuts on my wrists,0.1736
+181,1287437,-1,how can i lose 30 pounds by june3?,0.0849
+182,1287437,rm3.topn10.10.0.5.bm25,how can i lose 30 pounds by june3?,0.216
+183,1287437,rm3.topn10.10.0.5.qld,how can i lose 30 pounds by june3?,0.216
+184,1287437,conceptluster.topn5.3.bm25,lose pounds june pound mass canadian dollar,0.1643
+185,1287437,conceptluster.topn5.3.qld,lose pounds june canadian dollar pound mass,0.1643
+186,1287437,tagmee.topn3,lose pounds june Canadian dollar Pound mass,0.1643
+187,1287437,conceptnet.topn3,lose pounds june weight plural of pound,0.1481
+188,1287437,conceptnet.topn3.replace,lose weight plural of pound june,0.1309
+189,1287437,sensedisambiguation,how can i lose suffer thirty pounds syrian pound by june,0.1197
+190,1287437,bt_bing_arabic,How do I lose pounds by June,0.0879
+191,1287437,termluster.topn5.3.bm25,lose pounds june,0.0867
+192,1287437,termluster.topn5.3.qld,lose pounds june,0.0867
+193,1287437,thesaurus.topn3,lose pounds june,0.0867
+194,1287437,thesaurus.topn3.replace,lose pounds june,0.0867
+195,1290612,-1,why do anxiety and depression seem to coexist?,0.2337
+196,1290612,relevancefeedback.topn10.bm25,why do anxiety and depression seem to coexist don t anxieti anti depress anger,0.3559
+197,1290612,bt_nllb_korean,Why do you think anxiety and depression exist together,0.3462
+198,1290612,bt_nllb_swahili,why anxiety and depression seem to be linked,0.3427
+199,1290612,bt_nllb_chinese_yue,Why does anxiety and depression seem to be the same thing,0.3421
+200,1290612,bt_nllb_malay,Why do anxiety and depression seem to migrate,0.3133
+201,1290612,relevancefeedback.topn10.qld,why do anxiety and depression seem to coexist don t anxieti i depress you social,0.3116
+202,1290612,termluster.topn5.3.bm25,anxiety depression seem coexist,0.2734
+203,1290612,termluster.topn5.3.qld,anxiety depression seem coexist,0.2734
+204,1290612,thesaurus.topn3,anxiety depression seem coexist,0.2734
+205,1290612,thesaurus.topn3.replace,anxiety depression seem coexist,0.2734
+206,1290612,bt_nllb_russian,Why do anxiety and depression go hand in hand,0.2614
+207,1290612,bt_nllb_tamil,Why do anxiety and depression go hand in hand,0.2614
+208,1290612,bt_bing_persian,Why do anxiety and depression coexist,0.2548
+209,1290612,bt_bing_russian,Why do anxiety and depression coexist,0.2548
+210,1290612,sensedisambiguation,why do anxiety and depression natural depression seem to coexist,0.2498
+211,1290612,bt_nllb_arabic,Why do anxiety and depression seem to go hand in hand,0.2354
+212,1292734,-1,what color you like the most and why?,0.0138
+213,1292734,bt_bing_arabic,What color do you like the most and why,0.0221
+214,1292734,bt_bing_malay,What color do you like the most and why,0.0221
+215,1292734,bt_bing_persian,What color do you like most and why,0.0221
+216,1292734,bt_bing_french,Which color do you like the most and why,0.0212
+217,1292734,bt_bing_korean,Which color do you like the most and why,0.0212
+218,1292734,bt_bing_russian,Which color do you like the most and why,0.0212
+219,1292734,bt_bing_tamil,Which color do you like the most and why,0.0212
+220,1292734,bt_nllb_malay,What color do you like and why,0.0205
+221,1292734,bt_nllb_persian,What color do you like and why,0.0205
+222,1292734,bt_bing_german,Which color do you like best and why,0.0195
+223,1292734,bt_nllb_arabic,What color do you like best and why,0.0194
+224,1292734,bt_nllb_chinese_yue,What color do you like best Why,0.0194
+225,1292734,bt_nllb_german,What color do you like best and why,0.0194
+226,1292734,bt_nllb_korean,What color do you like best Why,0.0194
+227,1292734,bt_nllb_russian,What color do you like best and why,0.0194
+228,1292734,bt_nllb_swahili,What color do you like best and why,0.0194
+229,1340574,-1,Why do some people only go to church on Easter Sunday and never go again until Christmas ?,0.2446
+230,1340574,termluster.topn5.3.bm25,people go church easter sunday never go christmas,0.298
+231,1340574,termluster.topn5.3.qld,people go church easter sunday never go christmas,0.298
+232,1340574,thesaurus.topn3,people go church easter sunday never go christmas,0.298
+233,1340574,thesaurus.topn3.replace,people go church easter sunday never go christmas,0.298
+234,1340574,bt_nllb_russian,Why do some people go to church only on Easter Sunday and never go back to church before Christmas,0.2663
+235,1340574,conceptluster.topn5.3.bm25,people go church easter sunday never go christmas go,0.2593
+236,1340574,conceptluster.topn5.3.qld,people go church easter sunday never go christmas go,0.2593
+237,1340574,bt_nllb_french,Why do some people only go to church on Easter Sunday and never go back before Christmas,0.259
+238,1340574,bt_bing_persian,Why do some people just go to church on Easter Sunday and never go again until Christmas,0.2522
+239,1340574,bt_bing_german,Why do some people only go to church on Easter Sunday and never go back until Christmas,0.2481
+240,1340574,bt_bing_korean,Why do some people only go to church on Easter Sunday and never go back until Christmas,0.2481
+241,1340574,bt_bing_tamil,Why do some people only go to church on Easter Sunday and never go back until Christmas,0.2481
+242,1340574,bt_nllb_korean,Why do some people go to church on Easter Sunday and not go back until Christmas,0.248
+243,1340574,bt_bing_swahili,Why do some people go to church on Easter Sunday and never go again until Christmas,0.245
+244,1351675,-1,Why must I have an uncracked winshield in order to for my car to pass a safety inspeciton?,0.171
+245,1351675,bt_bing_swahili,Why should I have an uncracked winshield so that my car passes the safety inspeciton,0.2353
+246,1351675,bt_bing_persian,Why would I need an uncracked winshield in order for my car to pass safety inspeciton,0.225
+247,1351675,termluster.topn5.3.bm25,must uncracked winshield order car pass safety inspeciton,0.1853
+248,1351675,termluster.topn5.3.qld,must uncracked winshield order car pass safety inspeciton,0.1853
+249,1351675,thesaurus.topn3,must uncracked winshield order car pass safety inspeciton,0.1853
+250,1351675,thesaurus.topn3.replace,must uncracked winshield order car pass safety inspeciton,0.1853
+251,1364894,-1,Why do we need to tell customer service/operator about our sickness in order to make appointment w/ a doctor?,0.1042
+252,1364894,bt_nllb_malay,Why do we have to tell the customer service about our illness to make an appointment with a doctor,0.1666
+253,1364894,relevancefeedback.topn10.bm25,why do we need to tell customer service operator about our sickness in order to make appointment w a doctor circumcis doctor i you appoint out custom,0.15
+254,1364894,bt_nllb_arabic,Why do we need to tell customer service about our illness for a doctor appointment,0.1315
+255,1364894,bt_bing_malay,Why do we need to tell the customer operator service about our illness to make an appointment with a doctor,0.1266
+256,1364894,bt_bing_tamil,Why should we tell customer service operator about our illness for an appointment with a doctor,0.1245
+257,1364894,bt_nllb_german,Why do we have to tell the customer service operator about our illness to make an appointment with a doctor,0.1185
+258,1364894,bt_bing_korean,Why do I need to tell the customer service operator about my illness in order to make an appointment with my doctor,0.118
+259,1364894,bt_bing_arabic,Why do we need to tell the customer service operator about our illness in order to make an appointment with a doctor,0.1169
+260,1364894,termluster.topn5.3.bm25,need tell customer service operator sickness order make appointment w doctor,0.1111
+261,1364894,termluster.topn5.3.qld,need tell customer service operator sickness order make appointment w doctor,0.1111
+262,1364894,thesaurus.topn3,need tell customer service operator sickness order make appointment w doctor,0.1111
+263,1364894,thesaurus.topn3.replace,need tell customer service operator sickness order make appointment w doctor,0.1111
+264,1364894,bt_nllb_korean,Why should we tell a customer service businessman about the disease to make an appointment with a doctor,0.1087
+265,1373069,-1,Freedom of Speech - why don't people understand how to use it?,0.0475
+266,1373069,tagmee.topn3.replace,Freedom of speech,0.0836
+267,1373069,conceptluster.topn5.3.bm25,freedom speech n t people understand use freedom speech,0.0822
+268,1373069,conceptluster.topn5.3.qld,freedom speech n t people understand use freedom speech,0.0822
+269,1373069,tagmee.topn3,freedom speech n t people understand use Freedom of speech,0.0822
+270,1373069,rm3.topn10.10.0.5.bm25,Freedom of Speech - why dont people understand how to use it?,0.0754
+271,1373069,rm3.topn10.10.0.5.qld,Freedom of Speech - why dont people understand how to use it?,0.0754
+272,1373069,bt_nllb_french,Freedom of speech Why do people not understand how to use it,0.0747
+273,1373069,bt_nllb_swahili,Freedom of Speech why do people not understand how to use it,0.0747
+274,1373069,bt_nllb_tamil,Freedom of speech Why do people not understand how to use it,0.0747
+275,1373069,termluster.topn5.3.bm25,freedom speech n t people understand use,0.0625
+276,1373069,termluster.topn5.3.qld,freedom speech n t people understand use,0.0625
+277,1373069,thesaurus.topn3,freedom speech n t people understand use,0.0625
+278,1373069,thesaurus.topn3.replace,freedom speech n t people understand use,0.0625
+279,1373069,sensedisambiguation,Freedom of Speech why do n t people understand how to use it,0.0616
+280,1373069,sensedisambiguation.replace,freedom of speech why do n t people understand how to use it,0.0616
+281,1373069,bt_nllb_chinese_yue,Freedom of speech Why can t people use it,0.0589
+282,1373069,wiki.topn3,freedom speech n t people understand use civil liberties freedom speech freedom assembly freedom speech,0.0545
+283,143833,-1,What is the difference between coolant and anti-freeze?,0.5617
+284,143833,termluster.topn5.3.bm25,difference coolant anti freeze,0.5732
+285,143833,termluster.topn5.3.qld,difference coolant anti freeze,0.5732
+286,143833,thesaurus.topn3,difference coolant anti freeze,0.5732
+287,143833,thesaurus.topn3.replace,difference coolant anti freeze,0.5732
+288,1459749,-1,Why don't I have an asthma attack during sex?,0.1432
+289,1459749,bt_nllb_tamil,Why don t I have an asthma attack while having sex,0.1673
+290,1459749,bt_nllb_korean,Why don t you have an asthma attack during sex,0.1433
+291,1477322,-1,Why do people say Germans are racists?,0.1085
+292,1477322,anchor.topn3,people say germans racists axay 笑說 sadrnezhaad,0.1394
+293,1477322,termluster.topn5.3.bm25,people say germans racists,0.1394
+294,1477322,termluster.topn5.3.qld,people say germans racists,0.1394
+295,1477322,thesaurus.topn3,people say germans racists,0.1394
+296,1477322,thesaurus.topn3.replace,people say germans racists,0.1394
+297,1477322,sensedisambiguation,Why do people say suppose Germans german are racists racist,0.1114
+298,1502604,-1,how do crooks  make  fake   passports  ?,0.1471
+299,1502604,conceptluster.topn5.3.bm25,crooks make fake passports make fake,0.1733
+300,1502604,conceptluster.topn5.3.qld,crooks make fake passports make fake,0.1733
+301,1502604,tagmee.topn3,crooks make fake passports Make a Fake,0.1733
+302,1502604,wiki.topn3,crooks make fake passports make fake,0.1733
+303,1502604,bt_nllb_chinese_yue,How do you make a fake passport,0.1726
+304,1502604,termluster.topn5.3.bm25,crooks make fake passports,0.1697
+305,1502604,termluster.topn5.3.qld,crooks make fake passports,0.1697
+306,1502604,thesaurus.topn3,crooks make fake passports,0.1697
+307,1502604,thesaurus.topn3.replace,crooks make fake passports,0.1697
+308,1509982,-1,How is th Chemistry is a basic of Science?,0.602
+309,1509982,termluster.topn5.3.bm25,th chemistry basic science,0.6267
+310,1509982,termluster.topn5.3.qld,th chemistry basic science,0.6267
+311,1509982,thesaurus.topn3,th chemistry basic science,0.6267
+312,1509982,thesaurus.topn3.replace,th chemistry basic science,0.6267
+313,1509982,bt_bing_arabic,How is chemistry a science basic,0.606
+314,1582877,-1,why do we go to school if in the real world we dont use most of it?,0.0194
+315,1582877,termluster.topn5.3.bm25,go school real world dont use,0.055
+316,1582877,termluster.topn5.3.qld,go school real world dont use,0.055
+317,1582877,thesaurus.topn3,go school real world dont use,0.055
+318,1582877,thesaurus.topn3.replace,go school real world dont use,0.055
+319,159716,-1,"How do I find an Inmate at Southwest Detention Center 30755 Auld Rd., Murrieta, CA 92563?",0.219
+320,159716,termluster.topn5.3.bm25,find inmate southwest detention center auld rd murrieta ca,0.249
+321,159716,termluster.topn5.3.qld,find inmate southwest detention center auld rd murrieta ca,0.249
+322,159716,thesaurus.topn3,find inmate southwest detention center auld rd murrieta ca,0.249
+323,159716,thesaurus.topn3.replace,find inmate southwest detention center auld rd murrieta ca,0.249
+324,159716,bt_bing_swahili,How can I get an inmate into the Southwest Detention Center Auld Rd Murrieta CA,0.2269
+325,1607728,-1,what causes gray facial hair in men?,0.4215
+326,1607728,termluster.topn5.3.bm25,causes gray facial hair men,0.4303
+327,1607728,termluster.topn5.3.qld,causes gray facial hair men,0.4303
+328,1607728,thesaurus.topn3,causes gray facial hair men,0.4303
+329,1607728,thesaurus.topn3.replace,causes gray facial hair men,0.4303
+330,1623623,-1,"How do you improve fuel efficiency of a 2004, Ford Ikon?",0.121
+331,1623623,tagmee.topn3,improve fuel efficiency ford ikon Fuel efficiency Ford Ikon,0.16
+332,1623623,tagmee.topn3.replace,Fuel efficiency Ford Ikon,0.1512
+333,1623623,conceptluster.topn5.3.bm25,improve fuel efficiency ford ikon fuel efficiency,0.1373
+334,1623623,conceptluster.topn5.3.qld,improve fuel efficiency ford ikon fuel efficiency,0.1373
+335,1623623,termluster.topn5.3.bm25,improve fuel efficiency ford ikon,0.1372
+336,1623623,termluster.topn5.3.qld,improve fuel efficiency ford ikon,0.1372
+337,1623623,thesaurus.topn3,improve fuel efficiency ford ikon,0.1372
+338,1623623,thesaurus.topn3.replace,improve fuel efficiency ford ikon,0.1372
+339,1623623,bt_bing_russian,How to improve the fuel efficiency of the Ford Ikon,0.1305
+340,1623623,rm3.topn10.10.0.5.bm25,"How do you improve fuel efficiency of a 2004, Ford Ikon?",0.1289
+341,1623623,rm3.topn10.10.0.5.qld,"How do you improve fuel efficiency of a 2004, Ford Ikon?",0.1289
+342,1623623,bt_bing_swahili,How did you improve the fuel efficiency of the Ford Ikon,0.126
+343,1623623,bt_nllb_swahili,How can you improve the fuel efficiency of the Ford Ikon,0.1254
+344,1663853,-1,what is a wet dream?,0.3507
+345,1663853,termluster.topn5.3.bm25,wet dream,0.3789
+346,1663853,termluster.topn5.3.qld,wet dream,0.3789
+347,1663853,thesaurus.topn3,wet dream,0.3789
+348,1663853,thesaurus.topn3.replace,wet dream,0.3789
+349,1663853,bertqe.topn10.bm25,have wet dream wet dream,0.3618
+350,1702151,-1,How patient a driver are you?,0.0175
+351,1702151,bt_nllb_french,Are you a patient driver,0.0246
+352,1702151,conceptluster.topn5.3.bm25,patient driver,0.0198
+353,1702151,conceptluster.topn5.3.qld,patient driver,0.0198
+354,1702151,tagmee.topn3,patient driver,0.0198
+355,1702151,termluster.topn5.3.bm25,patient driver,0.0198
+356,1702151,termluster.topn5.3.qld,patient driver,0.0198
+357,1702151,thesaurus.topn3,patient driver,0.0198
+358,1702151,thesaurus.topn3.replace,patient driver,0.0198
+359,1702151,wiki.topn3,patient driver,0.0198
+360,1702151,bt_bing_chinese_simplified,How patient are your drivers,0.0182
+361,1702151,bt_bing_malay,How patient is your driver,0.0182
+362,1702151,bt_nllb_malay,How patient is your driver,0.0182
+363,172731,-1,how for is saturn from the sun?,0.2676
+364,172731,conceptluster.topn5.3.bm25,saturn sun sun saturn,0.2829
+365,172731,conceptluster.topn5.3.qld,saturn sun sun saturn,0.2829
+366,172731,tagmee.topn3,saturn sun Saturn Sun,0.2829
+367,172731,tagmee.topn3.replace,Saturn Sun,0.2829
+368,172731,termluster.topn5.3.bm25,saturn sun,0.2829
+369,172731,termluster.topn5.3.qld,saturn sun,0.2829
+370,172731,thesaurus.topn3,saturn sun,0.2829
+371,172731,thesaurus.topn3.replace,saturn sun,0.2829
+372,172731,bt_bing_swahili,What is Saturn from the sun,0.2746
+373,172731,bt_bing_russian,Why is Saturn from the Sun,0.2726
+374,1783010,-1,What is Blaphsemy?,0.0556
+375,1794677,-1,How can I treat my Acne Scars?,0.4557
+376,1794677,bt_bing_russian,How to treat acne scars,0.5006
+377,1794677,termluster.topn5.3.bm25,treat acne scars,0.4964
+378,1794677,termluster.topn5.3.qld,treat acne scars,0.4964
+379,1794677,thesaurus.topn3,treat acne scars,0.4964
+380,1794677,thesaurus.topn3.replace,treat acne scars,0.4964
+381,1794677,bt_bing_korean,How can acne scars be treated,0.4809
+382,1794677,bt_bing_arabic,How can I treat acne scars,0.4798
+383,1794677,bt_nllb_arabic,How can I treat acne scars,0.4798
+384,1794677,bt_bing_chinese_simplified,How do I treat my acne scars,0.4628
+385,1794677,bt_bing_tamil,How do I treat my acne scars,0.4628
+386,1794677,bt_nllb_french,How do I treat my acne scars,0.4628
+387,1821193,-1,"Why do people feed poison (sugar) to their kids on Easter, and why are there no chocolate Jesuses?",0.0845
+388,1821193,stem.krovetz,why do people feed poison sugar to their kid on easter and why are there no chocolate jesus,0.0873
+389,1844896,-1,How to cook Angus burgers?,0.517
+390,1844896,termluster.topn5.3.bm25,cook angus burgers,0.5305
+391,1844896,termluster.topn5.3.qld,cook angus burgers,0.5305
+392,1844896,thesaurus.topn3,cook angus burgers,0.5305
+393,1844896,thesaurus.topn3.replace,cook angus burgers,0.5305
+394,1850323,-1,Why some men never wash their hands after using the Urinal/Toilet?,0.2144
+395,1850323,termluster.topn5.3.bm25,men never wash hands using urinal toilet,0.2569
+396,1850323,termluster.topn5.3.qld,men never wash hands using urinal toilet,0.2569
+397,1850323,thesaurus.topn3,men never wash hands using urinal toilet,0.2569
+398,1850323,thesaurus.topn3.replace,men never wash hands using urinal toilet,0.2569
+399,1850323,tagmee.topn3,men never wash hands using urinal toilet WASH Hand washing Urinal Toilet,0.2453
+400,1850323,bt_nllb_russian,Why do some men never wash their hands after using the toilet,0.2303
+401,1850323,bt_nllb_tamil,Why do some men not wash their hands after using a toilet,0.2254
+402,1862795,-1,How does spending prolonged time in microgravity affect the bodies of astronauts?,0.2446
+403,1862795,bt_bing_arabic,How does spending too much time in microgravity affect astronauts bodies,0.3851
+404,1862795,bt_nllb_french,How does microgravity affect astronauts,0.382
+405,1862795,bt_bing_malay,How does spending a long time in microgravity affect the body of an astronaut,0.3792
+406,1862795,bt_bing_persian,How does spending long time in microgravity affect astronauts bodies,0.3792
+407,1862795,bt_nllb_persian,How does spending a long time in the microgravity affect the astronauts bodies,0.3792
+408,1862795,sensedisambiguation,How does spending spend prolonged elongated time in microgravity affect involve the bodies torso of astronauts astronaut,0.3785
+409,1862795,conceptluster.topn5.3.bm25,spending prolonged time microgravity affect bodies astronauts human body time weightlessness astronaut,0.3558
+410,1862795,conceptluster.topn5.3.qld,spending prolonged time microgravity affect bodies astronauts human body time weightlessness astronaut,0.3558
+411,1862795,tagmee.topn3,spending prolonged time microgravity affect bodies astronauts Time Weightlessness Human body Astronaut,0.3558
+412,1862795,bt_nllb_russian,How long does microgravity affect astronaut bodies,0.3557
+413,1862795,bt_bing_tamil,How does spending long hours in microgravity affect astronauts bodies,0.3403
+414,1862795,bt_bing_swahili,How does spending long periods in microgravity affect astronauts bodies,0.3011
+415,1862795,bt_nllb_german,How does a long period of microgravity affect the bodies of astronauts,0.3008
+416,1862795,bt_nllb_tamil,How does spending long periods of time in microgravity affect the bodies of astronauts,0.2971
+417,1862795,termluster.topn5.3.bm25,spending prolonged time microgravity affect bodies astronauts,0.291
+418,1862795,termluster.topn5.3.qld,spending prolonged time microgravity affect bodies astronauts,0.291
+419,1862795,thesaurus.topn3,spending prolonged time microgravity affect bodies astronauts,0.291
+420,1862795,thesaurus.topn3.replace,spending prolonged time microgravity affect bodies astronauts,0.291
+421,1862795,bt_bing_korean,How does spending long periods of time in microgravity affect an astronaut s body,0.2906
+422,1862795,bt_nllb_chinese_yue,How does the long time spent in microgravity affect the astronaut s body,0.2833
+423,1862795,stem.krovetz,how do spend prolonged time in micrograv affect the body of astronaut,0.2674
+424,1866981,-1,"I know how I got here, but how did you?",0.0012
+425,1866981,termluster.topn5.3.bm25,know got,0.0089
+426,1866981,termluster.topn5.3.qld,know got,0.0089
+427,1866981,thesaurus.topn3,know got,0.0089
+428,1866981,thesaurus.topn3.replace,know got,0.0089
+429,1866981,glove.topn3,know got why think get getting,0.003
+430,1866981,stem.lovins,i know how i got hes but how did you,0.0013
+431,1880028,-1,"What does ""see Leaflet"" mean on Ept Pregnancy test?",0.3835
+432,1880028,stem.krovetz,what do see leaflet mean on ept pregnancy test,0.394
+433,1880028,termluster.topn5.3.bm25,see leaflet mean ept pregnancy test,0.3936
+434,1880028,termluster.topn5.3.qld,see leaflet mean ept pregnancy test,0.3936
+435,1880028,thesaurus.topn3,see leaflet mean ept pregnancy test,0.3936
+436,1880028,thesaurus.topn3.replace,see leaflet mean ept pregnancy test,0.3936
+437,1937374,-1,how to get 277 V AC ?,0.3203
+438,1937374,termluster.topn5.3.bm25,get v ac,0.3481
+439,1937374,termluster.topn5.3.qld,get v ac,0.3481
+440,1937374,thesaurus.topn3,get v ac,0.3481
+441,1937374,thesaurus.topn3.replace,get v ac,0.3481
+442,1944018,-1,Why can't teenagers vote?,0.1039
+443,1944018,rm3.topn10.10.0.5.bm25,Why cant teenagers vote?,0.1327
+444,1944018,rm3.topn10.10.0.5.qld,Why cant teenagers vote?,0.1327
+445,1957887,-1,How can I hunt down and punch the people that keep spamming me?,0.1406
+446,1957887,sensedisambiguation,How can I hunt down and punch the people that keep sustain spamming spam me,0.2024
+447,1957887,bt_bing_french,How can I track down and hit people who keep spamming me,0.1924
+448,1957887,termluster.topn5.3.bm25,hunt punch people keep spamming,0.189
+449,1957887,termluster.topn5.3.qld,hunt punch people keep spamming,0.189
+450,1957887,thesaurus.topn3,hunt punch people keep spamming,0.189
+451,1957887,thesaurus.topn3.replace,hunt punch people keep spamming,0.189
+452,1957887,bt_nllb_german,How can I find and beat the people who still spam me,0.1705
+453,1957887,relevancefeedback.topn10.bm25,how can i hunt down and punch the people that keep spamming me about get preposit you spam,0.1688
+454,1957887,bt_bing_russian,How can I hunt down and hit people who keep spamming me,0.1661
+455,1957887,bt_nllb_russian,How can I catch and beat people who keep spamming me,0.1654
+456,1957887,bt_nllb_french,How can I hunt down and beat people who keep spamming me,0.1596
+457,1957887,bt_bing_chinese_simplified,How can I hunt down and beat up people who keep spamming me,0.1516
+458,1957887,bt_bing_malay,How can I hunt and punch people who keep spamming me,0.1498
+459,1957887,bt_nllb_tamil,How can I hunt and beat people who follow me spam,0.147
+460,1957887,conceptluster.topn5.3.bm25,hunt punch people keep spamming spamming punch magazine fox hunting county,0.1413
+461,1957887,conceptluster.topn5.3.qld,hunt punch people keep spamming punch magazine county fox hunting spamming,0.1413
+462,1964316,-1,"What do you mean by ""weed""?",0.2437
+463,1964316,conceptluster.topn5.3.bm25,mean weed mean,0.3851
+464,1964316,conceptluster.topn5.3.qld,mean weed mean,0.3851
+465,1964316,wiki.topn3,mean weed mean,0.3851
+466,1964316,termluster.topn5.3.bm25,mean weed,0.3686
+467,1964316,termluster.topn5.3.qld,mean weed,0.3686
+468,1964316,thesaurus.topn3,mean weed,0.3686
+469,1964316,thesaurus.topn3.replace,mean weed,0.3686
+470,1964316,bt_bing_tamil,What is weed,0.287
+471,1964316,bt_bing_chinese_simplified,What does weed mean,0.2677
+472,1964316,tagmee.topn3,mean weed What Do You Mean,0.2529
+473,1964316,sensedisambiguation,What do you mean think of by weed,0.2453
+474,1968489,-1,Which auto insurance do you use and why?,0.3117
+475,1968489,bertqe.topn10.bm25,you must have auto insur,0.3284
+476,1968489,termluster.topn5.3.bm25,auto insurance use,0.3261
+477,1968489,termluster.topn5.3.qld,auto insurance use,0.3261
+478,1968489,thesaurus.topn3,auto insurance use,0.3261
+479,1968489,thesaurus.topn3.replace,auto insurance use,0.3261
+480,1971899,-1,what is masturbat***?,0.1667
+481,1977054,-1,Couscous is a food from what origin?,0.2221
+482,1977054,bt_bing_french,What is the origin of couscous,0.2736
+483,1977054,bt_nllb_french,What is the origin of couscous,0.2736
+484,1977054,bt_bing_russian,Couscous is a product of what origin,0.2496
+485,1977054,termluster.topn5.3.bm25,couscous food origin,0.2426
+486,1977054,termluster.topn5.3.qld,couscous food origin,0.2426
+487,1977054,thesaurus.topn3,couscous food origin,0.2426
+488,1977054,thesaurus.topn3.replace,couscous food origin,0.2426
+489,1977054,relevancefeedback.topn10.bm25,couscous is a food from what origin origin besid couscou do object drug,0.242
+490,1977054,bt_nllb_malay,Where did couscous come from,0.2414
+491,1977054,bt_nllb_swahili,What is couscous,0.2414
+492,1977054,tagmee.topn3,couscous food origin Couscous Food Etymology,0.2385
+493,1977054,bt_bing_korean,What is the origin of couscous food,0.2331
+494,1977054,bt_bing_malay,Couscous is the food of what origin,0.2331
+495,1977054,bt_bing_persian,Couscous is a food of what origin,0.2331
+496,1977054,bt_bing_arabic,Couscous is food of any origin,0.2301
+497,2008017,-1,why do black people like fried chicken somuch?,0.2734
+498,2018562,-1,"Why does my Black Lab howl to ""Law and Order"" theme song?",0.3371
+499,2018562,termluster.topn5.3.bm25,black lab howl law order theme song,0.3616
+500,2018562,termluster.topn5.3.qld,black lab howl law order theme song,0.3616
+501,2018562,thesaurus.topn3,black lab howl law order theme song,0.3616
+502,2018562,thesaurus.topn3.replace,black lab howl law order theme song,0.3616
+503,2018562,bt_bing_chinese_simplified,Why is my Black Lab howling the Law Order theme song,0.3412
+504,2018562,bt_bing_malay,Why is my Black Lab howling to the theme song Law and Order,0.3412
+505,2018562,bt_bing_persian,Why is my black lab howling to the theme song Law Order,0.3412
+506,2018562,stem.krovetz,why do my black lab howl to law and order theme song,0.3393
+507,204633,-1,Why do you have memories?,0.1549
+508,204633,anchor.topn3,memories,0.347
+509,204633,anchor.topn3.replace,memories,0.347
+510,204633,conceptluster.topn5.3.bm25,memories,0.347
+511,204633,conceptluster.topn5.3.qld,memories,0.347
+512,204633,conceptnet.topn3,memories,0.347
+513,204633,conceptnet.topn3.replace,memories,0.347
+514,204633,tagmee.topn3,memories,0.347
+515,204633,termluster.topn5.3.bm25,memories,0.347
+516,204633,termluster.topn5.3.qld,memories,0.347
+517,204633,thesaurus.topn3,memories,0.347
+518,204633,thesaurus.topn3.replace,memories,0.347
+519,204633,wiki.topn3,memories,0.347
+520,204633,bt_bing_korean,Why are there memories,0.2805
+521,204633,bt_bing_tamil,Why the memories,0.2805
+522,204633,sensedisambiguation,Why do you have memories memory,0.2103
+523,204963,-1,what does 5 by 5 mean?,0.0007
+524,204963,rm3.topn10.10.0.5.bm25,what does 5 by 5 mean?,0.1039
+525,204963,rm3.topn10.10.0.5.qld,what does 5 by 5 mean?,0.1039
+526,204963,relevancefeedback.topn10.qld,what does by mean deviat mass resolut minut sin number,0.0784
+527,204963,bertqe.topn10.bm25,your town would whole rang,0.0294
+528,204963,bertqe.topn10.qld,you collect data about height,0.0294
+529,204963,relevancefeedback.topn10.bm25,what does by mean side i median you,0.0294
+530,204963,conceptluster.topn5.3.bm25,mean,0.012
+531,204963,conceptluster.topn5.3.qld,mean,0.012
+532,204963,tagmee.topn3,mean,0.012
+533,204963,termluster.topn5.3.bm25,mean,0.012
+534,204963,termluster.topn5.3.qld,mean,0.012
+535,204963,thesaurus.topn3,mean,0.012
+536,204963,thesaurus.topn3.replace,mean,0.012
+537,204963,wiki.topn3,mean,0.012
+538,204963,stem.krovetz,what do by mean,0.0014
+539,204963,stem.lovins,what do by mean,0.0014
+540,204963,conceptnet.topn3,mean cardinal People average,0.0012
+541,204963,bt_nllb_german,What does out of mean,0.0009
+542,2142044,-1,What do you speculate happened to Natalie Holloway in Aruba?,0.6458
+543,2142044,bt_bing_korean,Do you guess what happened to Natalie Holloway in Aruba,0.6844
+544,2142044,bt_bing_swahili,Are you guessing what happened to Natalie Holloway in Aruba,0.6815
+545,2142044,bt_bing_tamil,You guess what happened to Natalie Holloway in Aruba,0.6815
+546,2142044,tagmee.topn3,speculate happened natalie holloway aruba Beth Holloway Aruba,0.6778
+547,2142044,bt_nllb_korean,Can you guess what happened to Natalie Holloway in Aruba,0.6772
+548,2142044,bt_bing_arabic,What do you expect to happen to Natalie Holloway in Aruba,0.6765
+549,2142044,bt_nllb_arabic,What do you suppose happened to Natalie Holloway in Aruba,0.6765
+550,2142044,bt_bing_french,What do you think happened to Natalie Holloway in Aruba,0.6711
+551,2142044,bt_bing_german,What do you think happened to Natalie Holloway in Aruba,0.6711
+552,2142044,bt_bing_russian,What do you think happened to Natalie Holloway in Aruba,0.6711
+553,2142044,bt_nllb_russian,What do you think happened to Natalie Holloway on Aruba,0.6711
+554,2142044,bt_nllb_swahili,What do you think happened to Natalie Holloway in Aruba,0.6711
+555,2142044,bt_nllb_tamil,What do you think happened to Natalie Holloway in Aruba,0.6711
+556,2142044,bt_bing_persian,Guess what happened to Natalie Holloway in Aruba,0.6704
+557,2142044,relevancefeedback.topn10.bm25,what do you speculate happened to natalie holloway in aruba entertain ha i chino becom aruba about,0.6624
+558,2142044,bt_nllb_german,What happened to Natalie Holloway in Aruba,0.6529
+559,2142044,sensedisambiguation,What do you speculate happened happen to Natalie Holloway in Aruba,0.6487
+560,2142044,bt_nllb_french,What do you think about what happened to Natalie Holloway in Aruba,0.6481
+561,2180086,-1,what are mormens?,0.1429
+562,2182052,-1,why is lemonade at restaurants sometimes different?,0.5112
+563,2182052,termluster.topn5.3.bm25,lemonade restaurants sometimes different,0.5235
+564,2182052,termluster.topn5.3.qld,lemonade restaurants sometimes different,0.5235
+565,2182052,thesaurus.topn3,lemonade restaurants sometimes different,0.5235
+566,2182052,thesaurus.topn3.replace,lemonade restaurants sometimes different,0.5235
+567,2192891,-1,how are braces put on and do they hurt a lot?,0.2867
+568,2192891,termluster.topn5.3.bm25,braces put hurt lot,0.3065
+569,2192891,termluster.topn5.3.qld,braces put hurt lot,0.3065
+570,2192891,thesaurus.topn3,braces put hurt lot,0.3065
+571,2192891,thesaurus.topn3.replace,braces put hurt lot,0.3065
+572,2192891,conceptluster.topn5.3.bm25,braces put hurt lot hurt,0.2912
+573,2192891,conceptluster.topn5.3.qld,braces put hurt lot hurt,0.2912
+574,2192891,bt_bing_german,How are braces put on and does it hurt a lot,0.2888
+575,224109,-1,what is citriscidal?,0.0
+576,224109,bt_bing_russian,What is Citricidal,0.25
+577,224109,bt_nllb_persian,What is citricidal,0.25
+578,224109,bt_nllb_russian,What is citricidal,0.25
+579,225575,-1,what does 'wet behind the ears' mean?,0.3463
+580,225575,conceptluster.topn5.3.bm25,wet behind ears mean mean,0.378
+581,225575,conceptluster.topn5.3.qld,wet behind ears mean mean,0.378
+582,225575,tagmee.topn3,wet behind ears mean Mean,0.378
+583,225575,termluster.topn5.3.bm25,wet behind ears mean,0.3747
+584,225575,termluster.topn5.3.qld,wet behind ears mean,0.3747
+585,225575,thesaurus.topn3,wet behind ears mean,0.3747
+586,225575,thesaurus.topn3.replace,wet behind ears mean,0.3747
+587,225575,stem.krovetz,what do wet behind the ear mean,0.3468
+588,2290758,-1,Why do people ask questions they know?,0.0052
+589,2290758,conceptluster.topn5.3.bm25,people ask questions know,0.0121
+590,2290758,conceptluster.topn5.3.qld,people ask questions know,0.0121
+591,2290758,tagmee.topn3,people ask questions know,0.0121
+592,2290758,termluster.topn5.3.bm25,people ask questions know,0.0121
+593,2290758,termluster.topn5.3.qld,people ask questions know,0.0121
+594,2290758,thesaurus.topn3,people ask questions know,0.0121
+595,2290758,thesaurus.topn3.replace,people ask questions know,0.0121
+596,2290758,wiki.topn3,people ask questions know,0.0121
+597,2290758,stem.porter2,whi do peopl ask question they know,0.0077
+598,2291272,-1,How is Catholicism not Christianity?,0.2547
+599,2291272,conceptluster.topn5.3.bm25,catholicism christianity,0.264
+600,2291272,conceptluster.topn5.3.qld,catholicism christianity,0.264
+601,2291272,tagmee.topn3,catholicism christianity Catholicism Christianity,0.264
+602,2291272,tagmee.topn3.replace,Catholicism Christianity,0.264
+603,2291272,termluster.topn5.3.bm25,catholicism christianity,0.264
+604,2291272,termluster.topn5.3.qld,catholicism christianity,0.264
+605,2291272,thesaurus.topn3,catholicism christianity,0.264
+606,2291272,thesaurus.topn3.replace,catholicism christianity,0.264
+607,229303,-1,Why  is  the   war continuing  in  Afghanistan?,0.3058
+608,229303,sensedisambiguation.replace,Why is the war cover in afghanistan,0.3333
+609,229303,termluster.topn5.3.bm25,war continuing afghanistan,0.3233
+610,229303,termluster.topn5.3.qld,war continuing afghanistan,0.3233
+611,229303,thesaurus.topn3,war continuing afghanistan,0.3233
+612,229303,thesaurus.topn3.replace,war continuing afghanistan,0.3233
+613,229303,bt_nllb_swahili,Why is war in Afghanistan,0.3182
+614,229303,sensedisambiguation,Why is the war continuing cover in Afghanistan,0.3163
+615,2307305,-1,Why do man rape little girls?,0.2358
+616,2307305,termluster.topn5.3.bm25,man rape little girls,0.2697
+617,2307305,termluster.topn5.3.qld,man rape little girls,0.2697
+618,2307305,thesaurus.topn3,man rape little girls,0.2697
+619,2307305,thesaurus.topn3.replace,man rape little girls,0.2697
+620,2309774,-1,Why do I keep seeing people on here 'dissing' on the soldiers in Iraq?,0.2163
+621,2309774,termluster.topn5.3.bm25,keep seeing people dissing soldiers iraq,0.2215
+622,2309774,termluster.topn5.3.qld,keep seeing people dissing soldiers iraq,0.2215
+623,2309774,thesaurus.topn3,keep seeing people dissing soldiers iraq,0.2215
+624,2309774,thesaurus.topn3.replace,keep seeing people dissing soldiers iraq,0.2215
+625,2309774,bt_bing_german,Why do I keep seeing people dissing about the soldiers in Iraq,0.2196
+626,23464,-1,why girls are beautiful?,0.4244
+627,23464,termluster.topn5.3.bm25,girls beautiful,0.4589
+628,23464,termluster.topn5.3.qld,girls beautiful,0.4589
+629,23464,thesaurus.topn3,girls beautiful,0.4589
+630,23464,thesaurus.topn3.replace,girls beautiful,0.4589
+631,2380990,-1,Why am I alive?,0.0324
+632,2380990,anchor.topn3,alive,0.118
+633,2380990,anchor.topn3.replace,alive,0.118
+634,2380990,termluster.topn5.3.bm25,alive,0.118
+635,2380990,termluster.topn5.3.qld,alive,0.118
+636,2380990,thesaurus.topn3,alive,0.118
+637,2380990,thesaurus.topn3.replace,alive,0.118
+638,2380990,bt_nllb_korean,Why are you alive,0.0631
+639,2380990,word2vec.topn3,alive dead alive alive,0.0547
+640,2380990,relevancefeedback.topn10.bm25,why am i alive aliv afraid,0.0545
+641,2382487,-1,what do i do if i have not started my period in like almost 6 months?,0.0481
+642,2382487,conceptluster.topn5.3.bm25,started period like almost months,0.056
+643,2382487,conceptluster.topn5.3.qld,started period like almost months,0.056
+644,2382487,tagmee.topn3,started period like almost months,0.056
+645,2382487,termluster.topn5.3.bm25,started period like almost months,0.056
+646,2382487,termluster.topn5.3.qld,started period like almost months,0.056
+647,2382487,thesaurus.topn3,started period like almost months,0.056
+648,2382487,thesaurus.topn3.replace,started period like almost months,0.056
+649,2382487,wiki.topn3,started period like almost months,0.056
+650,2418598,-1,why do wisdom varies from person to person?,0.1559
+651,2418598,anchor.topn3,wisdom varies person person shylet sarvasvam marsupiobothrium conviventi marsupiobothrium conviventi,0.1912
+652,2418598,conceptluster.topn5.3.bm25,wisdom varies person person,0.1912
+653,2418598,conceptluster.topn5.3.qld,wisdom varies person person,0.1912
+654,2418598,tagmee.topn3,wisdom varies person person,0.1912
+655,2418598,termluster.topn5.3.bm25,wisdom varies person person,0.1912
+656,2418598,termluster.topn5.3.qld,wisdom varies person person,0.1912
+657,2418598,thesaurus.topn3,wisdom varies person person,0.1912
+658,2418598,thesaurus.topn3.replace,wisdom varies person person,0.1912
+659,2418598,wiki.topn3,wisdom varies person person,0.1912
+660,2443586,-1,What is a Bro?,0.2077
+661,2443586,anchor.topn3,bro brö brös zadoù,0.3529
+662,2443586,conceptluster.topn5.3.bm25,bro,0.3529
+663,2443586,conceptluster.topn5.3.qld,bro,0.3529
+664,2443586,conceptnet.topn3,bro,0.3529
+665,2443586,conceptnet.topn3.replace,bro,0.3529
+666,2443586,tagmee.topn3,bro,0.3529
+667,2443586,termluster.topn5.3.bm25,bro,0.3529
+668,2443586,termluster.topn5.3.qld,bro,0.3529
+669,2443586,thesaurus.topn3,bro,0.3529
+670,2443586,thesaurus.topn3.replace,bro,0.3529
+671,2443586,wiki.topn3,bro,0.3529
+672,2443586,wordnet.topn3,bro,0.3529
+673,2443586,wordnet.topn3.replace,bro,0.3529
+674,2443586,bt_bing_russian,Who is Bro,0.2296
+675,2446614,-1,how could u get success?,0.2792
+676,2446614,conceptluster.topn5.3.bm25,could u get success,0.3031
+677,2446614,conceptluster.topn5.3.qld,could u get success,0.3031
+678,2446614,tagmee.topn3,could u get success,0.3031
+679,2446614,termluster.topn5.3.bm25,could u get success,0.3031
+680,2446614,termluster.topn5.3.qld,could u get success,0.3031
+681,2446614,thesaurus.topn3,could u get success,0.3031
+682,2446614,thesaurus.topn3.replace,could u get success,0.3031
+683,2446614,wiki.topn3,could u get success,0.3031
+684,2452795,-1,How can I heat the water within a 150 gal tank that's open to the atmosphere in Feb.?,0.1335
+685,2452795,bt_bing_malay,How can I heat the water in a gal tank open to the atmosphere on Feb,0.1656
+686,2452795,bt_bing_swahili,How do I heat the water inside a gal tank that s open to the sky in February,0.148
+687,2452795,bt_nllb_german,How do I heat the water in a gal tank that s open to the atmosphere in February,0.136
+688,2479423,-1,Why is there brail on the keypads at drive up ATM's?,0.727
+689,2479423,rm3.topn10.10.0.5.bm25,Why is there brail on the keypads at drive up ATMs?,0.7313
+690,2479423,rm3.topn10.10.0.5.qld,Why is there brail on the keypads at drive up ATMs?,0.7313
+691,2484180,-1,why do people judge a dog by what he looks like?,0.0374
+692,2484180,termluster.topn5.3.bm25,people judge dog looks like,0.0652
+693,2484180,termluster.topn5.3.qld,people judge dog looks like,0.0652
+694,2484180,thesaurus.topn3,people judge dog looks like,0.0652
+695,2484180,thesaurus.topn3.replace,people judge dog looks like,0.0652
+696,2484180,bt_bing_persian,Why do people judge a dog by what it looks like,0.049
+697,2484180,bt_bing_tamil,Why do people judge a dog by what it looks like,0.049
+698,2484180,bt_nllb_malay,Why do people judge dogs by their looks,0.046
+699,2484180,bt_bing_russian,Why Do People Judge A Dog By How It Looks,0.0457
+700,2484180,bt_nllb_arabic,Why do people judge a dog by how it looks,0.0457
+701,2484180,bt_nllb_french,Why do people judge a dog by how it looks,0.0457
+702,2484180,bt_nllb_russian,Why do people judge a dog by how it looks,0.0457
+703,2484180,bt_nllb_chinese_yue,Why would people judge dogs by their looks,0.0416
+704,2528767,-1,How do I determine the charge of the iron ion in FeCl3?,0.202
+705,2528767,rm3.topn10.10.0.5.bm25,How do I determine the charge of the iron ion in FeCl3?,0.3572
+706,2528767,rm3.topn10.10.0.5.qld,How do I determine the charge of the iron ion in FeCl3?,0.3572
+707,2528767,stem.paicehusk,how do i determin the charg of the iron ion in fec,0.2157
+708,2528767,bertqe.topn10.bm25,charg so you have fe cl,0.2137
+709,2529114,-1,"since i have premature ejaculation problem, how to satisfy my girl?",0.4628
+710,2529114,conceptluster.topn5.3.bm25,since premature ejaculation problem satisfy girl premature ejaculation how to girl temptations song problem solving,0.4663
+711,2529114,conceptluster.topn5.3.qld,since premature ejaculation problem satisfy girl premature ejaculation how to girl temptations song problem solving,0.4663
+712,2529114,tagmee.topn3,since premature ejaculation problem satisfy girl Premature ejaculation Problem solving How to My Girl The Temptations song,0.4657
+713,2529114,termluster.topn5.3.bm25,since premature ejaculation problem satisfy girl,0.4644
+714,2529114,termluster.topn5.3.qld,since premature ejaculation problem satisfy girl,0.4644
+715,2529114,thesaurus.topn3,since premature ejaculation problem satisfy girl,0.4644
+716,2529114,thesaurus.topn3.replace,since premature ejaculation problem satisfy girl,0.4644
+717,2539741,-1,what cause the car to have white smoke coming from the muffler and making a kicking or knocking sounds?,0.1238
+718,2539741,relevancefeedback.topn10.qld,what cause the car to have white smoke coming from the muffler and making a kicking or knocking sounds your i you exhaust,0.1315
+719,2539741,termluster.topn5.3.bm25,cause car white smoke coming muffler making kicking knocking sounds,0.1315
+720,2539741,termluster.topn5.3.qld,cause car white smoke coming muffler making kicking knocking sounds,0.1315
+721,2539741,thesaurus.topn3,cause car white smoke coming muffler making kicking knocking sounds,0.1315
+722,2539741,thesaurus.topn3.replace,cause car white smoke coming muffler making kicking knocking sounds,0.1315
+723,2539741,relevancefeedback.topn10.bm25,what cause the car to have white smoke coming from the muffler and making a kicking or knocking sounds exhaust sound i when catalyt move your bui,0.1255
+724,2551845,-1,Why is GW dogged for not getting OBL yet killing Zarkawi is a non-event?,0.216
+725,2551845,conceptluster.topn5.3.bm25,gw dogged getting obl yet killing zarkawi non event,0.2333
+726,2551845,conceptluster.topn5.3.qld,gw dogged getting obl yet killing zarkawi non event,0.2333
+727,2551845,tagmee.topn3,gw dogged getting obl yet killing zarkawi non event,0.2333
+728,2551845,termluster.topn5.3.bm25,gw dogged getting obl yet killing zarkawi non event,0.2333
+729,2551845,termluster.topn5.3.qld,gw dogged getting obl yet killing zarkawi non event,0.2333
+730,2551845,thesaurus.topn3,gw dogged getting obl yet killing zarkawi non event,0.2333
+731,2551845,thesaurus.topn3.replace,gw dogged getting obl yet killing zarkawi non event,0.2333
+732,2551845,wiki.topn3,gw dogged getting obl yet killing zarkawi non event,0.2333
+733,2582920,-1,What is the difference in a dried plum and a dried prune?,0.7309
+734,2582920,tagmee.topn3,difference dried plum dried prune Prune Prune,0.7714
+735,2582920,conceptluster.topn5.3.bm25,difference dried plum dried prune prune,0.7695
+736,2582920,conceptluster.topn5.3.qld,difference dried plum dried prune prune,0.7695
+737,2582920,conceptnet.topn3,difference dried plum dried prune distinction dehydrated big tree plum,0.7525
+738,2582920,conceptnet.topn3.replace,distinction dehydrated big tree plum dried prune,0.7475
+739,2582920,sensedisambiguation.replace,What is the remainder in a dried plum and a dry prune,0.7468
+740,2582920,relevancefeedback.topn10.bm25,what is the difference in a dried plum and a dried prune prune dri,0.7445
+741,2582920,relevancefeedback.topn10.qld,what is the difference in a dried plum and a dried prune prune dri,0.7445
+742,2592121,-1,how to rollover 401k into real estate?,0.1365
+743,2592121,tagmee.topn3.replace,k Real estate,0.2858
+744,2592121,conceptluster.topn5.3.bm25,rollover k real estate k real estate,0.265
+745,2592121,conceptluster.topn5.3.qld,rollover k real estate k real estate,0.265
+746,2592121,tagmee.topn3,rollover k real estate k Real estate,0.265
+747,2592121,bt_bing_tamil,How to roll K in real estate,0.2609
+748,2592121,bt_bing_arabic,How to turn k into real estate,0.213
+749,2592121,bt_bing_persian,How to turn k into real estate,0.213
+750,2592121,bt_nllb_swahili,How to turn k into real estate,0.213
+751,2592121,bt_nllb_tamil,How to turn k into real estate,0.213
+752,2592121,bt_bing_korean,How do you roll over a K to real estate,0.2054
+753,2592121,bt_bing_russian,How do you roll over a K in real estate,0.2054
+754,2592121,bt_bing_malay,How to launch k into real estate,0.2052
+755,2592121,bt_bing_swahili,How to move k to real estate,0.2043
+756,2592121,bt_nllb_persian,How do I turn k into real estate,0.2004
+757,2592121,bt_nllb_german,How can I turn k into real estate,0.1963
+758,2592121,stem.trunc5,how to rollo k into real estat,0.195
+759,2592121,bt_bing_german,How to transfer k in real estate,0.1939
+760,2592121,bt_bing_chinese_simplified,How do I transfer a k to real estate,0.1855
+761,2592121,bt_bing_french,How do I transfer K into real estate,0.1855
+762,2592121,bt_nllb_french,How do you get k into real estate,0.1841
+763,2592121,bt_nllb_chinese_yue,How do you turn your k into real estate,0.183
+764,2592121,bt_nllb_malay,How do you turn your k into real estate,0.183
+765,2592121,bt_nllb_arabic,How do you get your k back to real estate,0.1707
+766,2592121,bt_nllb_korean,How do you convert into real estate,0.1696
+767,2592121,bt_nllb_russian,How do you transfer your k to real estate,0.1661
+768,2592121,termluster.topn5.3.bm25,rollover k real estate,0.1655
+769,2592121,termluster.topn5.3.qld,rollover k real estate,0.1655
+770,2592121,thesaurus.topn3,rollover k real estate,0.1655
+771,2592121,thesaurus.topn3.replace,rollover k real estate,0.1655
+772,2592121,anchor.topn3,rollover k real estate demisay pension l nonsuffici reales cina upi mancha,0.1532
+773,2619912,-1,"How were you saved from sin-and born again as Jesus says ""Except you repent, and be born again..."" How didYou?",0.2224
+774,2619912,stem.lovins,how wer you sav from sin and born again as jesus say except you repens and be born again how didyou,0.3491
+775,2619912,stem.trunc5,how were you saved from sin and born again as jesus says excep you repen and be born again how didyo,0.2842
+776,2619912,stem.paicehusk,how wer you sav from sin and born again as jes say exceiv you rep and be born again how didyou,0.2834
+777,2619912,bt_nllb_arabic,How could you be saved from sin and born again as Jesus says unless you were born again and how could you,0.2726
+778,2619912,bt_nllb_malay,How can you be saved from sin and born again as Jesus said unless you repent and be born again How are you,0.2457
+779,2619912,bt_nllb_korean,And then after being born again Jesus said Unless you repent and be born again,0.2442
+780,2619912,bt_bing_malay,How are you saved from sin and born again as Jesus said Unless you repent and are born again How are you,0.2427
+781,2619912,relevancefeedback.topn10.bm25,how were you saved from sin and born again as jesus says except you repent and be born again how didyou awai origin,0.2361
+782,2619912,bt_nllb_swahili,How are you saved from sin and born again as Jesus says unless you repent and be born again How are you,0.2359
+783,2634143,-1,"what is direct borrowing, phonological borrowing, linguistic borrowing, cultural borrowing,intimate borrowing?",0.0835
+784,2634143,relevancefeedback.topn10.qld,what is direct borrowing phonological borrowing linguistic borrowing cultural borrowing intimate borrowing cognat you countri borrow mean want you r,0.101
+785,2634143,anchor.topn3.replace,direc framework borrowing phonological borrowing linguistic borrowing mignanego castiada fundației borrowing intimate borrowing,0.0983
+786,2634143,wordnet.topn3,direct borrowing phonological borrowing linguistic borrowing cultural borrowing intimate borrowing mastermind take maneuver take over take over lingual take over ethnic ethnical take over suggest inner informal take over,0.0973
+787,2634143,relevancefeedback.topn10.bm25,what is direct borrowing phonological borrowing linguistic borrowing cultural borrowing intimate borrowing countri borrow,0.0965
+788,2634143,conceptnet.topn3.replace,door to door undeviating borrowing phonological borrowing linguistic borrowing cultural borrowing intimate borrowing,0.0912
+789,2634143,sensedisambiguation.replace,what is lineal borrowing phonological borrowing linguistic borrowing cultural borrowing suggest borrowing,0.0875
+790,2634143,anchor.topn3,direct borrowing phonological borrowing linguistic borrowing cultural borrowing intimate borrowing direc framework mignanego castiada fundației,0.0869
+791,2634143,termluster.topn5.3.bm25,direct borrowing phonological borrowing linguistic borrowing cultural borrowing intimate borrowing,0.0869
+792,2634143,termluster.topn5.3.qld,direct borrowing phonological borrowing linguistic borrowing cultural borrowing intimate borrowing,0.0869
+793,2634143,thesaurus.topn3,direct borrowing phonological borrowing linguistic borrowing cultural borrowing intimate borrowing,0.0869
+794,2634143,thesaurus.topn3.replace,direct borrowing phonological borrowing linguistic borrowing cultural borrowing intimate borrowing,0.0869
+795,2643507,-1,why does milk cost more than gas per gallon?,0.2748
+796,2643507,stem.paicehusk,why doe milk cost mor than gas per gallon,0.2775
+797,2643507,conceptluster.topn5.3.bm25,milk cost gas per gallon milk gas gallon,0.277
+798,2643507,conceptluster.topn5.3.qld,milk cost gas per gallon milk gas gallon,0.277
+799,2643507,tagmee.topn3,milk cost gas per gallon Milk Gas Gallon,0.277
+800,2713171,-1,What does the sentence's mean?,0.0315
+801,2713171,glove.topn3,sentence s mean jail s whose necessarily,0.0645
+802,2713171,termluster.topn5.3.bm25,sentence s mean,0.0437
+803,2713171,termluster.topn5.3.qld,sentence s mean,0.0437
+804,2713171,thesaurus.topn3,sentence s mean,0.0437
+805,2713171,thesaurus.topn3.replace,sentence s mean,0.0437
+806,2713171,stem.krovetz,what do the sentence s mean,0.0407
+807,2722241,-1,why do some animals hide in a dark place b4 they die?,0.0555
+808,2722241,termluster.topn5.3.bm25,animals hide dark place b die,0.0872
+809,2722241,termluster.topn5.3.qld,animals hide dark place b die,0.0872
+810,2722241,thesaurus.topn3,animals hide dark place b die,0.0872
+811,2722241,thesaurus.topn3.replace,animals hide dark place b die,0.0872
+812,2722241,bt_nllb_german,Why are animals hiding in a dark place,0.0735
+813,2722241,conceptluster.topn5.3.bm25,animals hide dark place b die hide musician animals,0.0648
+814,2722241,conceptluster.topn5.3.qld,animals hide dark place b die hide musician animals,0.0648
+815,2722241,tagmee.topn3,animals hide dark place b die The Animals Hide musician,0.0648
+816,2722241,bt_bing_korean,Why do some animals die hiding in the dark,0.0641
+817,2722241,rm3.topn10.10.0.5.bm25,why do some animals hide in a dark place b4 they die?,0.0582
+818,2722241,rm3.topn10.10.0.5.qld,why do some animals hide in a dark place b4 they die?,0.0582
+819,2722241,bt_nllb_arabic,Why are some animals hiding in a dark place,0.0579
+820,2722241,bt_nllb_malay,Why are some animals hiding in the dark,0.0567
+821,2722241,bt_bing_arabic,Why are some hiding in a dark place B die,0.0556
+822,2783398,-1,What is a nucleus?,0.2706
+823,2783398,anchor.topn3,nucleus,0.3066
+824,2783398,anchor.topn3.replace,nucleus,0.3066
+825,2783398,conceptluster.topn5.3.bm25,nucleus,0.3066
+826,2783398,conceptluster.topn5.3.qld,nucleus,0.3066
+827,2783398,tagmee.topn3,nucleus,0.3066
+828,2783398,termluster.topn5.3.bm25,nucleus,0.3066
+829,2783398,termluster.topn5.3.qld,nucleus,0.3066
+830,2783398,thesaurus.topn3,nucleus,0.3066
+831,2783398,thesaurus.topn3.replace,nucleus,0.3066
+832,2783398,wiki.topn3,nucleus,0.3066
+833,2785579,-1,"If you could be an element of weather, which would you choose, and why?",0.0055
+834,2785579,bt_bing_arabic,If you could be an element of weather which one would you choose and why,0.0059
+835,2785579,bt_bing_chinese_simplified,If you could be an element of the weather which one would you choose and why,0.0059
+836,2785579,bt_bing_french,If you could be a weather element which one would you choose and why,0.0059
+837,2785579,bt_bing_german,If you could be an element of the weather which one would you choose and why,0.0059
+838,2785579,bt_bing_tamil,If you could be an element of the weather which one would you choose and why,0.0059
+839,2785579,bt_nllb_german,If you could be an element of the weather which one would you choose and why,0.0059
+840,2785579,bt_bing_russian,If you could be a weather element what would you choose and why,0.0056
+841,2795030,-1,Why do people drink Cuervo when it tastes the same going down as coming up?,0.2245
+842,2795030,termluster.topn5.3.bm25,people drink cuervo tastes going coming,0.2548
+843,2795030,termluster.topn5.3.qld,people drink cuervo tastes going coming,0.2548
+844,2795030,thesaurus.topn3,people drink cuervo tastes going coming,0.2548
+845,2795030,thesaurus.topn3.replace,people drink cuervo tastes going coming,0.2548
+846,2795030,bt_bing_persian,Why do people drink Cuervo when it tastes the same as coming down,0.2429
+847,2795030,bt_bing_korean,Why do people drink Cuervo when it tastes the same as when it comes up,0.237
+848,2795030,bt_bing_swahili,Why do people drink Cuervo when it tastes the same as come on,0.2366
+849,2795030,bt_bing_tamil,Why do people drink when the taste of cuervo is similar to coming to the top,0.2308
+850,2795030,bt_bing_chinese_simplified,Why do people taste the same as Cuervo when they drink it,0.2298
+851,2797224,-1,"Muslims Are The Happiest People Ever, Why?",0.2859
+852,2797224,bt_bing_french,Muslims are the happiest people there are why,0.3199
+853,2797224,bt_bing_korean,Muslims are the happiest people why,0.3199
+854,2797224,bt_bing_persian,Muslims are the happiest people why,0.3199
+855,2797224,bt_bing_swahili,Muslims are the happiest people why,0.3199
+856,2797224,bt_nllb_russian,Muslims are the happiest people why,0.3199
+857,2797224,bt_nllb_swahili,Muslims Are the Happiest People Why,0.3199
+858,2797224,bt_nllb_korean,Are Muslims the happiest people in history and why,0.2875
+859,2799913,-1,What's the proper way to express sorrow at a funeral?,0.1889
+860,2799913,termluster.topn5.3.bm25,s proper way express sorrow funeral,0.1905
+861,2799913,termluster.topn5.3.qld,s proper way express sorrow funeral,0.1905
+862,2799913,thesaurus.topn3,s proper way express sorrow funeral,0.1905
+863,2799913,thesaurus.topn3.replace,s proper way express sorrow funeral,0.1905
+864,2814599,-1,what does the word remission mean when referring to cancer patients?,0.27
+865,2814599,termluster.topn5.3.bm25,word remission mean referring cancer patients,0.2866
+866,2814599,termluster.topn5.3.qld,word remission mean referring cancer patients,0.2866
+867,2814599,thesaurus.topn3,word remission mean referring cancer patients,0.2866
+868,2814599,thesaurus.topn3.replace,word remission mean referring cancer patients,0.2866
+869,2814599,stem.krovetz,what do the word remission mean when refer to cancer patient,0.2811
+870,2814599,bt_nllb_malay,What does the word remission mean when you refer to a cancer patient,0.2705
+871,2814722,-1,why is the new jersey smoking ban not considered unconstitutional?,0.191
+872,2814722,conceptluster.topn5.3.bm25,new jersey smoking ban considered unconstitutional smoking ban constitutionality new jersey,0.2222
+873,2814722,conceptluster.topn5.3.qld,new jersey smoking ban considered unconstitutional smoking ban constitutionality new jersey,0.2222
+874,2814722,tagmee.topn3,new jersey smoking ban considered unconstitutional New Jersey Smoking ban Constitutionality,0.2222
+875,2814722,bt_bing_chinese_simplified,Why is New Jersey s smoking ban not considered unconstitutional,0.1943
+876,2814722,bt_bing_german,Why is New Jersey s smoking ban not considered unconstitutional,0.1943
+877,2814722,bt_bing_malay,Why is New Jersey s smoking ban not considered unconstitutional,0.1943
+878,2814722,bt_bing_russian,Why is New Jersey s smoking ban not considered unconstitutional,0.1943
+879,2814722,termluster.topn5.3.bm25,new jersey smoking ban considered unconstitutional,0.1937
+880,2814722,termluster.topn5.3.qld,new jersey smoking ban considered unconstitutional,0.1937
+881,2814722,thesaurus.topn3,new jersey smoking ban considered unconstitutional,0.1937
+882,2814722,thesaurus.topn3.replace,new jersey smoking ban considered unconstitutional,0.1937
+883,2815090,-1,how cloning will affects our community?,0.2036
+884,2815090,conceptnet.topn3,cloning affects community,0.2597
+885,2815090,conceptnet.topn3.replace,cloning affects community,0.2597
+886,2815090,termluster.topn5.3.bm25,cloning affects community,0.2597
+887,2815090,termluster.topn5.3.qld,cloning affects community,0.2597
+888,2815090,thesaurus.topn3,cloning affects community,0.2597
+889,2815090,thesaurus.topn3.replace,cloning affects community,0.2597
+890,2815090,word2vec.topn3,cloning affects community communty,0.2397
+891,2815090,conceptluster.topn5.3.bm25,cloning affects community affect philosophy free cloning,0.2219
+892,2815090,conceptluster.topn5.3.qld,cloning affects community affect philosophy free cloning,0.2219
+893,2815090,tagmee.topn3,cloning affects community Cloning Free will Affect philosophy,0.2219
+894,2815090,glove.topn3,cloning affects community well,0.2192
+895,2815090,anchor.topn3,cloning affects community devenyi preckwinkl forster larrinaga,0.2098
+896,2838988,-1,"How can I get a cork out of, not into, a wine bottle without a corkscrew?",0.7105
+897,2838988,bt_bing_tamil,How do you take the cork out of a wine bottle without a corkscrew,0.7165
+898,2838988,bt_bing_russian,How can I pull the cork out of a wine bottle instead of into it without a corkscrew,0.7159
+899,2838988,tagmee.topn3.replace,Can I Get A Cork material Wine bottle Corkscrew,0.7158
+900,2838988,conceptluster.topn5.3.bm25,get cork wine bottle without corkscrew cork material corkscrew wine bottle get,0.7149
+901,2838988,conceptluster.topn5.3.qld,get cork wine bottle without corkscrew cork material corkscrew wine bottle get,0.7149
+902,2838988,tagmee.topn3,get cork wine bottle without corkscrew Can I Get A Cork material Wine bottle Corkscrew,0.7149
+903,2847807,-1,How can I get rid of the hicups?,0.2573
+904,2847807,termluster.topn5.3.bm25,get rid hicups,0.2764
+905,2847807,termluster.topn5.3.qld,get rid hicups,0.2764
+906,2847807,thesaurus.topn3,get rid hicups,0.2764
+907,2847807,thesaurus.topn3.replace,get rid hicups,0.2764
+908,2847807,anchor.topn3,get rid hicups drive differences chak chak stojkovićevo okruglica stojkovićeva,0.2754
+909,2847807,conceptluster.topn5.3.bm25,get rid hicups get,0.2751
+910,2847807,conceptluster.topn5.3.qld,get rid hicups get,0.2751
+911,2847807,sensedisambiguation.replace,How can I suffer rid of the hicups,0.2704
+912,2847807,tagmee.topn3,get rid hicups Can I Get A,0.2674
+913,2847807,anchor.topn3.replace,drive differences chak chak stojkovićevo okruglica stojkovićeva hicups,0.2667
+914,2847807,bt_bing_swahili,How do I remove hicups,0.2667
+915,2847807,glove.topn3.replace,got eliminate unfortunately hicups,0.2667
+916,2847807,wordnet.topn3.replace,arrive bring forth bugger off disembarrass free hicups,0.2667
+917,2862887,-1,how to care for a spiked dragon and what to feed them?,0.1826
+918,2862887,conceptluster.topn5.3.bm25,care spiked dragon feed suplex,0.2201
+919,2862887,conceptluster.topn5.3.qld,care spiked dragon feed suplex,0.2201
+920,2862887,tagmee.topn3,care spiked dragon feed Suplex,0.2201
+921,2862887,termluster.topn5.3.bm25,care spiked dragon feed,0.2201
+922,2862887,termluster.topn5.3.qld,care spiked dragon feed,0.2201
+923,2862887,thesaurus.topn3,care spiked dragon feed,0.2201
+924,2862887,thesaurus.topn3.replace,care spiked dragon feed,0.2201
+925,2864267,-1,what exemplifies effective customer service?,0.1784
+926,2864267,bt_bing_chinese_simplified,What is effective customer service,0.3072
+927,2864267,stem.lovins,what exemplif effect customer servic,0.3072
+928,2864267,bt_bing_persian,What Shows Effective Customer Service,0.2963
+929,2864267,bt_nllb_french,What shows effective customer service,0.2963
+930,2864267,bt_nllb_malay,What shows effective customer service,0.2963
+931,2864267,relevancefeedback.topn10.bm25,what exemplifies effective customer service custom about know,0.2897
+932,2864267,bt_nllb_chinese_yue,How can we prove effective customer service,0.2761
+933,2864267,bt_bing_swahili,What is the best customer service,0.2728
+934,2864267,bt_bing_german,What is an example of effective customer service,0.268
+935,2864267,bt_bing_korean,What is an example of effective customer service,0.268
+936,2864267,bt_bing_malay,What are examples of effective customer service,0.268
+937,2864267,bt_bing_russian,What is an example of effective customer service,0.268
+938,2864267,bt_nllb_german,What is an example of effective customer service,0.268
+939,2864267,bt_nllb_russian,What is an example of effective customer service,0.268
+940,2864267,bt_nllb_persian,What does effective customer service show,0.2658
+941,2864267,bt_nllb_tamil,What is an example of customer service,0.2595
+942,2864267,bt_nllb_arabic,What s an example of effective customer service,0.2431
+943,2864267,bt_nllb_swahili,what shows that customer service is superior,0.2136
+944,2864267,anchor.topn3,exemplifies effective customer service,0.1858
+945,2864267,anchor.topn3.replace,exemplifies effective customer service,0.1858
+946,2864267,termluster.topn5.3.bm25,exemplifies effective customer service,0.1858
+947,2864267,termluster.topn5.3.qld,exemplifies effective customer service,0.1858
+948,2864267,thesaurus.topn3,exemplifies effective customer service,0.1858
+949,2864267,thesaurus.topn3.replace,exemplifies effective customer service,0.1858
+950,2892478,-1,what factors cause the Earth to heat unevenly?,0.2506
+951,2892478,bt_bing_chinese_simplified,What causes the Earth to heat unevenly,0.3159
+952,2892478,bt_bing_korean,What causes the earth to heat unevenly,0.3159
+953,2892478,bt_bing_persian,What causes the Earth to heat unevenly,0.3159
+954,2892478,termluster.topn5.3.bm25,factors cause earth heat unevenly,0.2626
+955,2892478,termluster.topn5.3.qld,factors cause earth heat unevenly,0.2626
+956,2892478,thesaurus.topn3,factors cause earth heat unevenly,0.2626
+957,2892478,thesaurus.topn3.replace,factors cause earth heat unevenly,0.2626
+958,2956570,-1,"What are the words to write the sound of raindrops, moving train & scribbling w/ pencil on paper figuratively?",0.3775
+959,2956570,bt_bing_arabic,What words to write the sound of raindrops moving train scribble with a pencil on paper figuratively,0.4178
+960,2956570,bt_bing_french,What are the words to write the sound of raindrops the moving train and the pencil scribble on paper figuratively,0.4178
+961,2956570,bt_bing_german,What are the words to figuratively write the sound of raindrops moving trains and scribbling with pencil on paper,0.4178
+962,2956570,termluster.topn5.3.bm25,words write sound raindrops moving train scribbling w pencil paper figuratively,0.4035
+963,2956570,termluster.topn5.3.qld,words write sound raindrops moving train scribbling w pencil paper figuratively,0.4035
+964,2956570,thesaurus.topn3,words write sound raindrops moving train scribbling w pencil paper figuratively,0.4035
+965,2956570,thesaurus.topn3.replace,words write sound raindrops moving train scribbling w pencil paper figuratively,0.4035
+966,2976644,-1,How amoeba catches its prey?,0.3804
+967,2976644,anchor.topn3,amoeba catches prey carneago hecphora rufilinea visinu thiounn puthearim,0.4735
+968,2976644,termluster.topn5.3.bm25,amoeba catches prey,0.4735
+969,2976644,termluster.topn5.3.qld,amoeba catches prey,0.4735
+970,2976644,thesaurus.topn3,amoeba catches prey,0.4735
+971,2976644,thesaurus.topn3.replace,amoeba catches prey,0.4735
+972,2976644,stem.porter,how amoeba catch it prei,0.4107
+973,2976644,stem.porter2,how amoeba catch it prey,0.4107
+974,2976644,conceptluster.topn5.3.bm25,amoeba catches prey predation amoeba,0.3843
+975,2976644,conceptluster.topn5.3.qld,amoeba catches prey predation amoeba,0.3843
+976,2976644,tagmee.topn3,amoeba catches prey Amoeba Predation,0.3843
+977,3040435,-1,"USA have Snow, Hurricanes, Flood, Earthquakes and politicians, Brazil only have politicians, why?",0.2812
+978,3040435,tagmee.topn3,usa snow hurricanes flood earthquakes politicians brazil politicians United States Snow Tropical cyclone Flood Earthquake Brazil,0.3134
+979,3040435,bt_bing_persian,The USA has snow hurricanes floods earthquakes and politicians Brazil only has politicians why,0.3028
+980,3040435,bt_bing_swahili,The US has snow hurricanes floods earthquakes and politicians Brazil only has politicians why not,0.2976
+981,3040435,bt_nllb_arabic,America has snow hurricanes floods earthquakes and politicians Brazil has only politicians why,0.2898
+982,3040435,termluster.topn5.3.bm25,usa snow hurricanes flood earthquakes politicians brazil politicians,0.289
+983,3040435,termluster.topn5.3.qld,usa snow hurricanes flood earthquakes politicians brazil politicians,0.289
+984,3040435,thesaurus.topn3,usa snow hurricanes flood earthquakes politicians brazil politicians,0.289
+985,3040435,thesaurus.topn3.replace,usa snow hurricanes flood earthquakes politicians brazil politicians,0.289
+986,3040435,bt_bing_french,The U S has snow hurricanes floods earthquakes and politicians Brazil has only politicians why,0.286
+987,3040435,bt_bing_russian,The U S has snow hurricanes floods earthquakes and politicians Brazil has only politicians why,0.286
+988,3040435,bt_nllb_german,The U S has snow hurricanes floods earthquakes and politicians Brazil has only politicians why,0.286
+989,3074429,-1,How can we understand Islam and Muslims better?,0.062
+990,3074429,sensedisambiguation.replace,How can we understand islam and muslim good,0.0639
+991,3074429,conceptluster.topn5.3.bm25,understand islam muslims better,0.0635
+992,3074429,conceptluster.topn5.3.qld,understand islam muslims better,0.0635
+993,3074429,termluster.topn5.3.bm25,understand islam muslims better,0.0635
+994,3074429,termluster.topn5.3.qld,understand islam muslims better,0.0635
+995,3074429,thesaurus.topn3,understand islam muslims better,0.0635
+996,3074429,thesaurus.topn3.replace,understand islam muslims better,0.0635
+997,3078448,-1,How do you prevent chicken from drying out when you cook it?,0.1474
+998,3078448,termluster.topn5.3.bm25,prevent chicken drying cook,0.1731
+999,3078448,termluster.topn5.3.qld,prevent chicken drying cook,0.1731
+1000,3078448,thesaurus.topn3,prevent chicken drying cook,0.1731
+1001,3078448,thesaurus.topn3.replace,prevent chicken drying cook,0.1731
+1002,3078448,conceptluster.topn5.3.bm25,prevent chicken drying cook food drying chicken cooking desiccation,0.1646
+1003,3078448,conceptluster.topn5.3.qld,prevent chicken drying cook food drying chicken cooking desiccation,0.1646
+1004,3078448,tagmee.topn3,prevent chicken drying cook Chicken Food drying Desiccation Cooking,0.1646
+1005,3078448,bt_nllb_chinese_yue,How do you prevent chicken drying when you cook,0.1605
+1006,3078448,bt_bing_chinese_simplified,How do you keep chicken from drying out when cooked,0.159
+1007,3078448,bt_bing_german,How do you keep chicken from drying out when cooked,0.159
+1008,3078448,bt_bing_korean,How do you keep chicken from drying out when cooking,0.159
+1009,3078448,bt_bing_persian,How to prevent chicken from drying while cooking,0.1581
+1010,3078448,bt_bing_french,How do you keep chicken from drying out when you cook it,0.1551
+1011,3078448,bt_nllb_malay,How do you keep chicken from drying out when you cook it,0.1551
+1012,3078448,bt_nllb_french,How do you keep chicken from drying up when you cook it,0.1515
+1013,3078448,bt_bing_arabic,How do you prevent chicken from drying out when cooked,0.1494
+1014,3078448,bt_bing_russian,How do you prevent chicken from drying out when cooking it,0.1494
+1015,3078448,bt_bing_swahili,How do you prevent chickens from drying out while you cook,0.1484
+1016,312215,-1,how good is apple pie when it is cold?,0.5696
+1017,312215,termluster.topn5.3.bm25,good apple pie cold,0.5907
+1018,312215,termluster.topn5.3.qld,good apple pie cold,0.5907
+1019,312215,thesaurus.topn3,good apple pie cold,0.5907
+1020,312215,thesaurus.topn3.replace,good apple pie cold,0.5907
+1021,312215,conceptluster.topn5.3.bm25,good apple pie cold good worldwide apple pie,0.586
+1022,312215,conceptluster.topn5.3.qld,good apple pie cold good worldwide apple pie,0.586
+1023,312215,tagmee.topn3,good apple pie cold Good Worldwide Apple pie,0.586
+1024,312215,bt_nllb_korean,How good is a cold apple pie,0.5831
+1025,312215,bt_nllb_swahili,How good is apple pie in the cold,0.5831
+1026,312215,relevancefeedback.topn10.bm25,how good is apple pie when it is cold cold appl,0.575
+1027,3155314,-1,"we have pork chops, veal chops, lamb chops, why is there not any beef chops ?",0.1669
+1028,3155314,bt_bing_malay,We have pork chopsticks beef chops lamb chops why are there no beef chopsticks,0.2487
+1029,3155314,glove.topn3,pork chops veal chops lamb chops beef chops beef meat loin lamb chops loin mutton veal loin meat pork loin,0.2237
+1030,3155314,anchor.topn3,pork chops veal chops lamb chops beef chops rafute okinawan siu sreey parmigiana eggpl sronoss lambo gerganiya play along kurog corned beef kipper,0.2182
+1031,3155314,bt_nllb_german,We have pork veal lamb why is there no beef,0.1944
+1032,3155314,bt_nllb_swahili,We have pork veal lamb why not beef,0.1944
+1033,3155314,bt_bing_chinese_simplified,We have pork chops veal chops lamb chops why not steaks,0.1786
+1034,3155314,bt_bing_french,We have pork chops veal chops lamb chops why are there no beef chops,0.1777
+1035,3155314,bt_bing_german,We have pork chops veal chops lamb chops why are there no beef chops,0.1777
+1036,3155314,bt_bing_russian,We have pork chops veal chops lamb chops why no beef chops,0.1777
+1037,3155314,termluster.topn5.3.bm25,pork chops veal chops lamb chops beef chops,0.1774
+1038,3155314,termluster.topn5.3.qld,pork chops veal chops lamb chops beef chops,0.1774
+1039,3155314,thesaurus.topn3,pork chops veal chops lamb chops beef chops,0.1774
+1040,3155314,thesaurus.topn3.replace,pork chops veal chops lamb chops beef chops,0.1774
+1041,3155314,bt_bing_persian,We have pork veal lamb why isn t there beef,0.1771
+1042,3155314,relevancefeedback.topn10.bm25,we have pork chops veal chops lamb chops why is there not any beef chops brais chop marin,0.1684
+1043,3155314,stem.lovins,we hav pork chop veal chop lamb chop why is ther not any beef chop,0.1672
+1044,3155314,stem.paicehusk,we hav pork chop veal chop lamb chop why is ther not any beef chop,0.1672
+1045,3206998,-1,how does disneyland make it snow?,0.3348
+1046,3206998,tagmee.topn3.replace,Disneyland Snow,0.4596
+1047,3206998,conceptluster.topn5.3.bm25,disneyland make snow disneyland snow,0.4583
+1048,3206998,conceptluster.topn5.3.qld,disneyland make snow disneyland snow,0.4583
+1049,3206998,tagmee.topn3,disneyland make snow Disneyland Snow,0.4583
+1050,3206998,termluster.topn5.3.bm25,disneyland make snow,0.4396
+1051,3206998,termluster.topn5.3.qld,disneyland make snow,0.4396
+1052,3206998,thesaurus.topn3,disneyland make snow,0.4396
+1053,3206998,thesaurus.topn3.replace,disneyland make snow,0.4396
+1054,3206998,bt_bing_swahili,How did Disneyland make it snow,0.368
+1055,3206998,stem.krovetz,how do disneyland make it snow,0.3578
+1056,3206998,bt_nllb_korean,How do you get snow on Disneyland,0.3419
+1057,3239329,-1,Why do we wee a lot in the cold weather especially at night?,0.0587
+1058,3239329,termluster.topn5.3.bm25,wee lot cold weather especially night,0.0603
+1059,3239329,termluster.topn5.3.qld,wee lot cold weather especially night,0.0603
+1060,3239329,thesaurus.topn3,wee lot cold weather especially night,0.0603
+1061,3239329,thesaurus.topn3.replace,wee lot cold weather especially night,0.0603
+1062,3269759,-1,what is artificial intelligence?,0.277
+1063,3269759,anchor.topn3,artificial intelligence percettiva intelligenza condenan,0.2986
+1064,3269759,conceptluster.topn5.3.bm25,artificial intelligence artificial intelligence,0.2986
+1065,3269759,conceptluster.topn5.3.qld,artificial intelligence artificial intelligence,0.2986
+1066,3269759,tagmee.topn3,artificial intelligence Artificial intelligence,0.2986
+1067,3269759,tagmee.topn3.replace,Artificial intelligence,0.2986
+1068,3269759,termluster.topn5.3.bm25,artificial intelligence,0.2986
+1069,3269759,termluster.topn5.3.qld,artificial intelligence,0.2986
+1070,3269759,thesaurus.topn3,artificial intelligence,0.2986
+1071,3269759,thesaurus.topn3.replace,artificial intelligence,0.2986
+1072,3278654,-1,Why do Kamikaze pilots wear helmets?,0.5309
+1073,3278654,sensedisambiguation,Why do Kamikaze pilots pilot wear helmets helmet,0.5773
+1074,3280768,-1,why is islam so hated in america?,0.1056
+1075,3280768,termluster.topn5.3.bm25,islam hated america,0.1336
+1076,3280768,termluster.topn5.3.qld,islam hated america,0.1336
+1077,3280768,thesaurus.topn3,islam hated america,0.1336
+1078,3280768,thesaurus.topn3.replace,islam hated america,0.1336
+1079,3280768,bt_nllb_arabic,Why does Islam hate it in America,0.1058
+1080,3295055,-1,"What causes skin discoloration, specifically, whitening of the skin between fingers?",0.0905
+1081,3295055,bt_bing_chinese_simplified,What causes skin discoloration especially whitening between the fingers,0.1795
+1082,3295055,stem.porter,what caus skin discolor specif whiten of the skin between finger,0.1327
+1083,3295055,stem.porter2,what caus skin discolor specif whiten of the skin between finger,0.1327
+1084,3295055,stem.lovins,what caus skin discolor specif whit of th skin between finger,0.1021
+1085,3295055,bt_bing_korean,What causes skin discoloration especially the white discoloration of the skin between the fingers,0.0959
+1086,3295055,termluster.topn5.3.bm25,causes skin discoloration specifically whitening skin fingers,0.0936
+1087,3295055,termluster.topn5.3.qld,causes skin discoloration specifically whitening skin fingers,0.0936
+1088,3295055,thesaurus.topn3,causes skin discoloration specifically whitening skin fingers,0.0936
+1089,3295055,thesaurus.topn3.replace,causes skin discoloration specifically whitening skin fingers,0.0936
+1090,3295055,bt_bing_french,What causes skin discoloration especially skin whitening between the fingers,0.093
+1091,3301173,-1,how to design road crust for national highways?,0.2566
+1092,3301173,sensedisambiguation.replace,how to plan road crust for national highway,0.2758
+1093,3301173,termluster.topn5.3.bm25,design road crust national highways,0.2672
+1094,3301173,termluster.topn5.3.qld,design road crust national highways,0.2672
+1095,3301173,thesaurus.topn3,design road crust national highways,0.2672
+1096,3301173,thesaurus.topn3.replace,design road crust national highways,0.2672
+1097,3313308,-1,how can I enjoy my time alone?,0.0257
+1098,3313308,conceptluster.topn5.3.bm25,enjoy time alone time alone,0.1204
+1099,3313308,conceptluster.topn5.3.qld,enjoy time alone time alone,0.1204
+1100,3313308,tagmee.topn3,enjoy time alone By Time Alone,0.1204
+1101,3313308,termluster.topn5.3.bm25,enjoy time alone,0.1049
+1102,3313308,termluster.topn5.3.qld,enjoy time alone,0.1049
+1103,3313308,thesaurus.topn3,enjoy time alone,0.1049
+1104,3313308,thesaurus.topn3.replace,enjoy time alone,0.1049
+1105,3313308,tagmee.topn3.replace,By Time Alone,0.0781
+1106,3313308,word2vec.topn3,enjoy time alone moment time period alone alone,0.0727
+1107,3313308,anchor.topn3,enjoy time alone first and oxime longshot byo yomi дрене netherwar,0.0624
+1108,3313308,glove.topn3,enjoy time alone when actually else,0.0578
+1109,3313308,word2vec.topn3.replace,enjoy moment time period alone alone,0.0559
+1110,3313308,anchor.topn3.replace,first and oxime longshot byo yomi дрене netherwar alone,0.0318
+1111,3313308,bt_bing_persian,How can I enjoy being alone,0.0313
+1112,3363149,-1,Why do Arabs and Mexicans look alike?,0.3618
+1113,3363149,termluster.topn5.3.bm25,arabs mexicans look alike,0.3824
+1114,3363149,termluster.topn5.3.qld,arabs mexicans look alike,0.3824
+1115,3363149,thesaurus.topn3,arabs mexicans look alike,0.3824
+1116,3363149,thesaurus.topn3.replace,arabs mexicans look alike,0.3824
+1117,3369088,-1,how can we stop the spread of islam?,0.2449
+1118,3369088,termluster.topn5.3.bm25,stop spread islam,0.2948
+1119,3369088,termluster.topn5.3.qld,stop spread islam,0.2948
+1120,3369088,thesaurus.topn3,stop spread islam,0.2948
+1121,3369088,thesaurus.topn3.replace,stop spread islam,0.2948
+1122,3369088,bt_bing_russian,How to stop the spread of Islam,0.2592
+1123,3369088,bt_bing_tamil,How to stop the spread of Islam,0.2592
+1124,3382736,-1,what is minimalist cubisium?,0.4778
+1125,3382736,bt_nllb_german,What is a minimalist cubism,0.6287
+1126,3382736,bt_nllb_russian,What is minimalist cubism,0.6287
+1127,3382736,bt_nllb_swahili,What is a minimalist cubism,0.6287
+1128,3382736,relevancefeedback.topn10.bm25,what is minimalist cubisium i complic actual govern galleri object direct blood,0.5905
+1129,3382736,bt_bing_chinese_simplified,What is a Minimalist Cube,0.5452
+1130,3382736,relevancefeedback.topn10.qld,what is minimalist cubisium i galleri complic actual govern window basic direct ey,0.5241
+1131,3382736,conceptnet.topn3,minimalist cubisium government,0.5201
+1132,3385681,-1,"if red bull is soo bad for people ,then why is it soo popular?",0.0464
+1133,3385681,bt_nllb_chinese_yue,If red bulls are bad for people why is it so popular,0.0875
+1134,3385681,bt_nllb_korean,If red bulls are bad for people why are they so popular,0.0875
+1135,3385681,bt_bing_arabic,If Red Bull is so bad for people why is it so popular,0.079
+1136,3385681,bt_bing_chinese_simplified,If Red Bull is so bad for people then why is it so popular,0.079
+1137,3385681,bt_bing_french,If Red Bull is so bad for people then why is it so popular,0.079
+1138,3385681,bt_bing_german,If Red Bull is so bad for people why is it so popular,0.079
+1139,3385681,bt_bing_korean,If Red Bull is so bad for people why is it so popular,0.079
+1140,3385681,bt_bing_malay,If Red Bull is so bad for people then why is it so popular,0.079
+1141,3385681,bt_bing_persian,If Red Bull is so bad for people then why is it so popular,0.079
+1142,3385681,bt_bing_russian,If Red Bull is so bad for people then why is it so popular,0.079
+1143,3385681,bt_bing_swahili,If Red Bull is so bad for people then why is it so popular,0.079
+1144,3385681,bt_bing_tamil,If Red Bull is so bad for people why is it so popular,0.079
+1145,3385681,bt_nllb_french,If Red Bull is so bad for people why is it so popular,0.079
+1146,3385681,bt_nllb_malay,If Red Bull is so bad for people why is it so popular,0.079
+1147,3385681,bt_nllb_persian,If Red Bull is so bad for people why is it so popular,0.079
+1148,3385681,bt_nllb_russian,If Red Bull is so bad for people why is it so popular,0.079
+1149,3385681,bt_nllb_swahili,If Red Bull is so bad for people then why is it so popular,0.079
+1150,3385681,bt_nllb_tamil,If Red Bull is so bad for humans why is it so popular,0.0711
+1151,3385681,bt_nllb_arabic,If Red Bull is so bad for people why is he so popular,0.0702
+1152,3385681,bt_nllb_german,If Red Bull is so bad for people why is he so popular,0.0702
+1153,3385681,conceptluster.topn5.3.bm25,red bull soo bad people soo popular pop music t song people magazine red bull,0.0668
+1154,3385681,conceptluster.topn5.3.qld,red bull soo bad people soo popular pop music t song people magazine red bull,0.0668
+1155,3385681,tagmee.topn3,red bull soo bad people soo popular Red Bull People magazine Why T song Pop music,0.0662
+1156,3385681,wordnet.topn3,red bull soo bad people soo popular cherry red faced reddened dogshit Irish bull bull through forged unfit tough hoi polloi multitude democratic pop,0.0585
+1157,3385681,stem.porter2,if red bull is soo bad for peopl then whi is it soo popular,0.0576
+1158,3385681,termluster.topn5.3.bm25,red bull soo bad people soo popular,0.0576
+1159,3385681,termluster.topn5.3.qld,red bull soo bad people soo popular,0.0576
+1160,3385681,thesaurus.topn3,red bull soo bad people soo popular,0.0576
+1161,3385681,thesaurus.topn3.replace,red bull soo bad people soo popular,0.0576
+1162,3385681,anchor.topn3,red bull soo bad people soo popular cáem brunestud s s dulow s soo straatligkinders jung cho zdrój kurpark rapperswil hurden soo straatligkinders jung cho siddur popular hashd collectiu,0.0531
+1163,3385681,sensedisambiguation.replace,if red bull is soo regretful for people then why is it soo popular,0.053
+1164,3389038,-1,why the media in US and Europe is always attacking the Arabs and Islam without finding the truth about them?,0.1035
+1165,3389038,bt_bing_korean,Why do the American and European media always attack Arabs and Islam without finding the truth about them,0.1063
+1166,3389038,bt_nllb_persian,Why do the American and European media always attack Arabs and Islam without finding the truth about them,0.1063
+1167,3389038,bt_nllb_swahili,Why do the American and European media always attack Arabs and Islam without finding the truth about them,0.1063
+1168,3396066,-1,Why do airplanes fly so high?,0.2738
+1169,3396066,termluster.topn5.3.bm25,airplanes fly high,0.2994
+1170,3396066,termluster.topn5.3.qld,airplanes fly high,0.2994
+1171,3396066,thesaurus.topn3,airplanes fly high,0.2994
+1172,3396066,thesaurus.topn3.replace,airplanes fly high,0.2994
+1173,34041,-1,what are the symptoms of strep throat?,0.7239
+1174,34041,termluster.topn5.3.bm25,symptoms strep throat,0.7247
+1175,34041,termluster.topn5.3.qld,symptoms strep throat,0.7247
+1176,34041,thesaurus.topn3,symptoms strep throat,0.7247
+1177,34041,thesaurus.topn3.replace,symptoms strep throat,0.7247
+1178,3411123,-1,Why does'nt America regard foriegn credentials?,0.1511
+1179,3411123,stem.krovetz,why do nt america regard foriegn credentials,0.1538
+1180,3411123,termluster.topn5.3.bm25,does nt america regard foriegn credentials,0.1514
+1181,3411123,termluster.topn5.3.qld,does nt america regard foriegn credentials,0.1514
+1182,3411123,thesaurus.topn3,does nt america regard foriegn credentials,0.1514
+1183,3411123,thesaurus.topn3.replace,does nt america regard foriegn credentials,0.1514
+1184,3496147,-1,Why was I punished for being christlike?,0.0415
+1185,3496147,anchor.topn3,punished christlike,0.0576
+1186,3496147,anchor.topn3.replace,punished christlike,0.0576
+1187,3496147,conceptluster.topn5.3.bm25,punished christlike,0.0576
+1188,3496147,conceptluster.topn5.3.qld,punished christlike,0.0576
+1189,3496147,tagmee.topn3,punished christlike,0.0576
+1190,3496147,termluster.topn5.3.bm25,punished christlike,0.0576
+1191,3496147,termluster.topn5.3.qld,punished christlike,0.0576
+1192,3496147,thesaurus.topn3,punished christlike,0.0576
+1193,3496147,thesaurus.topn3.replace,punished christlike,0.0576
+1194,3496147,wiki.topn3,punished christlike,0.0576
+1195,3496147,sensedisambiguation,Why was I punished punish for being christlike,0.0553
+1196,3496147,stem.porter2,whi was i punish for be christlik,0.0539
+1197,3499881,-1,Why is Gordon Ramsey so popular?,0.3625
+1198,3499881,conceptluster.topn5.3.bm25,gordon ramsey popular,0.4129
+1199,3499881,conceptluster.topn5.3.qld,gordon ramsey popular,0.4129
+1200,3499881,tagmee.topn3,gordon ramsey popular Gordon Ramsey,0.4129
+1201,3499881,tagmee.topn3.replace,Gordon Ramsey,0.4129
+1202,3499881,termluster.topn5.3.bm25,gordon ramsey popular,0.4129
+1203,3499881,termluster.topn5.3.qld,gordon ramsey popular,0.4129
+1204,3499881,thesaurus.topn3,gordon ramsey popular,0.4129
+1205,3499881,thesaurus.topn3.replace,gordon ramsey popular,0.4129
+1206,3499881,wordnet.topn3,gordon ramsey popular democratic pop,0.4129
+1207,3499881,wordnet.topn3.replace,gordon ramsey pop democratic,0.4129
+1208,3507491,-1,Why is religious freedom more important today?,0.234
+1209,3507491,termluster.topn5.3.bm25,religious freedom important today,0.2604
+1210,3507491,termluster.topn5.3.qld,religious freedom important today,0.2604
+1211,3507491,thesaurus.topn3,religious freedom important today,0.2604
+1212,3507491,thesaurus.topn3.replace,religious freedom important today,0.2604
+1213,354733,-1,What are the names of some famous photographers and why do their work stand up?,0.0648
+1214,354733,relevancefeedback.topn10.bm25,what are the names of some famous photographers and why do their work stand up she adam photograph ask comfort ani even fly,0.1214
+1215,354733,termluster.topn5.3.bm25,names famous photographers work stand,0.0722
+1216,354733,termluster.topn5.3.qld,names famous photographers work stand,0.0722
+1217,354733,thesaurus.topn3,names famous photographers work stand,0.0722
+1218,354733,thesaurus.topn3.replace,names famous photographers work stand,0.0722
+1219,3552010,-1,Why do parent put kids on restriction?,0.1037
+1220,3554263,-1,"why some people behave so rude without reason,is it due to their own problem?",0.0842
+1221,3554263,termluster.topn5.3.bm25,people behave rude without reason due problem,0.138
+1222,3554263,termluster.topn5.3.qld,people behave rude without reason due problem,0.138
+1223,3554263,thesaurus.topn3,people behave rude without reason due problem,0.138
+1224,3554263,thesaurus.topn3.replace,people behave rude without reason due problem,0.138
+1225,3554263,bt_bing_chinese_simplified,Why do some people behave so rudely for no reason is it because of their own problems,0.1188
+1226,3554263,bt_bing_german,Why do some people behave so rudely for no reason is it because of their own problem,0.1188
+1227,3554263,bt_bing_korean,Why do some people behave so rudely for no reason is it because of their own problems,0.1188
+1228,3554263,bt_bing_persian,Why do some people behave so rudely for no reason is it because of their own problems,0.1188
+1229,3554263,bt_bing_russian,Why do some people behave so rudely for no reason is it because of their own problem,0.1188
+1230,3554263,bt_nllb_french,Why do some people behave so rude for no reason because of their own problems,0.1188
+1231,3554263,bt_nllb_german,Why do some people behave so rude is because of their own problem,0.1067
+1232,3554263,bt_bing_french,Why do some people behave so rudely for no reason is it due to their own problem,0.1034
+1233,3554263,bt_bing_malay,Why do some people behave so rudely for no reason is it due to their own problems,0.1034
+1234,3554263,conceptluster.topn5.3.bm25,people behave rude without reason due problem people magazine reason hoobastank song rude song,0.0863
+1235,3554263,conceptluster.topn5.3.qld,people behave rude without reason due problem people magazine reason hoobastank song rude song,0.0863
+1236,3554263,tagmee.topn3,people behave rude without reason due problem People magazine Rude song The Reason Hoobastank song,0.0863
+1237,3559048,-1,How do you sell a junk car without a title?,0.4435
+1238,3559048,conceptluster.topn5.3.bm25,sell junk car without title,0.4633
+1239,3559048,conceptluster.topn5.3.qld,sell junk car without title,0.4633
+1240,3559048,tagmee.topn3,sell junk car without title,0.4633
+1241,3559048,termluster.topn5.3.bm25,sell junk car without title,0.4633
+1242,3559048,termluster.topn5.3.qld,sell junk car without title,0.4633
+1243,3559048,thesaurus.topn3,sell junk car without title,0.4633
+1244,3559048,thesaurus.topn3.replace,sell junk car without title,0.4633
+1245,3559048,wiki.topn3,sell junk car without title,0.4633
+1246,3559048,stem.trunc4,how do you sell a junk car with a titl,0.4557
+1247,3559048,stem.trunc5,how do you sell a junk car witho a title,0.4557
+1248,3559048,bt_bing_persian,How to sell a junk car without a title,0.4526
+1249,3577501,-1,what are some signs that puberty is beginning?,0.3509
+1250,3577501,anchor.topn3,signs puberty beginning,0.4313
+1251,3577501,anchor.topn3.replace,signs puberty beginning,0.4313
+1252,3577501,termluster.topn5.3.bm25,signs puberty beginning,0.4313
+1253,3577501,termluster.topn5.3.qld,signs puberty beginning,0.4313
+1254,3577501,thesaurus.topn3,signs puberty beginning,0.4313
+1255,3577501,thesaurus.topn3.replace,signs puberty beginning,0.4313
+1256,3577501,conceptluster.topn5.3.bm25,signs puberty beginning puberty death,0.4247
+1257,3577501,conceptluster.topn5.3.qld,signs puberty beginning puberty death,0.4247
+1258,3577501,tagmee.topn3,signs puberty beginning Death Puberty,0.4247
+1259,3577501,bt_nllb_french,What are the signs that puberty is beginning,0.4135
+1260,3577501,bt_nllb_chinese_yue,What are the signs of puberty,0.3596
+1261,3577501,bt_nllb_persian,What are the signs of puberty,0.3596
+1262,3639660,-1,Why do most cigarettes have the yellow filter?,0.4232
+1263,3639660,termluster.topn5.3.bm25,cigarettes yellow filter,0.465
+1264,3639660,termluster.topn5.3.qld,cigarettes yellow filter,0.465
+1265,3639660,thesaurus.topn3,cigarettes yellow filter,0.465
+1266,3639660,thesaurus.topn3.replace,cigarettes yellow filter,0.465
+1267,3639660,bt_nllb_swahili,Why do many cigarettes have a yellow filter,0.4374
+1268,3640705,-1,what is the punishment for child molestors?,0.2151
+1269,3640705,anchor.topn3,punishment child molestors j comp childs pitti,0.2301
+1270,3640705,termluster.topn5.3.bm25,punishment child molestors,0.2201
+1271,3640705,termluster.topn5.3.qld,punishment child molestors,0.2201
+1272,3640705,thesaurus.topn3,punishment child molestors,0.2201
+1273,3640705,thesaurus.topn3.replace,punishment child molestors,0.2201
+1274,3698636,-1,why do cats headbutt?,0.0547
+1275,3714728,-1,Why is the world so shallow?,0.3312
+1276,3714728,termluster.topn5.3.bm25,world shallow,0.4916
+1277,3714728,termluster.topn5.3.qld,world shallow,0.4916
+1278,3714728,thesaurus.topn3,world shallow,0.4916
+1279,3714728,thesaurus.topn3.replace,world shallow,0.4916
+1280,3723508,-1,What is the difference between an ox and a bull?,0.6097
+1281,3723508,termluster.topn5.3.bm25,difference ox bull,0.6411
+1282,3723508,termluster.topn5.3.qld,difference ox bull,0.6411
+1283,3723508,thesaurus.topn3,difference ox bull,0.6411
+1284,3723508,thesaurus.topn3.replace,difference ox bull,0.6411
+1285,3723508,conceptluster.topn5.3.bm25,difference ox bull heraldry bull ox,0.6342
+1286,3723508,conceptluster.topn5.3.qld,difference ox bull heraldry bull ox,0.6342
+1287,3723508,tagmee.topn3,difference ox bull Heraldry Ox Bull,0.6342
+1288,3723508,glove.topn3,difference ox bull fact instance oxen ooooooooooooooooooooooooooooooooooooooo srivalo piyanart,0.6239
+1289,3778229,-1,how were the witches tested in the salem witch trials?,0.6547
+1290,3778229,sensedisambiguation,how were the witches witch tested test in the salem witch trials trial,0.6938
+1291,3778229,termluster.topn5.3.bm25,witches tested salem witch trials,0.6771
+1292,3778229,termluster.topn5.3.qld,witches tested salem witch trials,0.6771
+1293,3778229,thesaurus.topn3,witches tested salem witch trials,0.6771
+1294,3778229,thesaurus.topn3.replace,witches tested salem witch trials,0.6771
+1295,3778229,anchor.topn3,witches tested salem witch trials davaran chehaib mortezai flounder rightey doxie,0.6758
+1296,3778229,bt_nllb_chinese_yue,How did the Salem Witch Trials test witches,0.6692
+1297,3778229,bt_nllb_arabic,How did you test witches at Salem witch trials,0.6673
+1298,3825386,-1,How can I develop leanbody and muscles?,0.0422
+1299,3825386,termluster.topn5.3.bm25,develop leanbody muscles,0.0938
+1300,3825386,termluster.topn5.3.qld,develop leanbody muscles,0.0938
+1301,3825386,thesaurus.topn3,develop leanbody muscles,0.0938
+1302,3825386,thesaurus.topn3.replace,develop leanbody muscles,0.0938
+1303,3825386,bt_bing_persian,How can I develop muscles and muscles,0.0518
+1304,3872395,-1,what are some easy ways to get a toddler to go to sleep without being mean?,0.1176
+1305,3872395,conceptluster.topn5.3.bm25,easy ways get toddler go sleep without mean,0.1421
+1306,3872395,conceptluster.topn5.3.qld,easy ways get toddler go sleep without mean,0.1421
+1307,3872395,tagmee.topn3,easy ways get toddler go sleep without mean,0.1421
+1308,3872395,termluster.topn5.3.bm25,easy ways get toddler go sleep without mean,0.1421
+1309,3872395,termluster.topn5.3.qld,easy ways get toddler go sleep without mean,0.1421
+1310,3872395,thesaurus.topn3,easy ways get toddler go sleep without mean,0.1421
+1311,3872395,thesaurus.topn3.replace,easy ways get toddler go sleep without mean,0.1421
+1312,3872395,wiki.topn3,easy ways get toddler go sleep without mean,0.1421
+1313,3872395,stem.porter2,what are some easi way to get a toddler to go to sleep without be mean,0.1321
+1314,3874326,-1,How come Compton is only designated for black people?,0.0648
+1315,3874326,bt_nllb_korean,Why is Compton for black people,0.0935
+1316,3874326,bt_nllb_french,How come Compton is reserved for blacks,0.0919
+1317,3874326,sensedisambiguation.replace,How total compton is only intend for black people,0.0919
+1318,3874326,tagmee.topn3.replace,Compton California,0.0919
+1319,3874326,anchor.topn3,come compton designated black people uniplicatu pandaemonium a lov compton mill br compton lyvett kvinnen triplewart black cockatoo,0.079
+1320,3874326,anchor.topn3.replace,uniplicatu pandaemonium a lov compton mill br compton lyvett designated kvinnen triplewart black cockatoo people,0.079
+1321,3874326,bt_nllb_chinese_yue,Why is Compton designed for black people,0.079
+1322,3874326,conceptluster.topn5.3.bm25,come compton designated black people compton california,0.079
+1323,3874326,conceptluster.topn5.3.qld,come compton designated black people compton california,0.079
+1324,3874326,stem.paicehusk,how com compton is on design for black peopl,0.079
+1325,3874326,tagmee.topn3,come compton designated black people Compton California,0.079
+1326,3874326,termluster.topn5.3.bm25,come compton designated black people,0.079
+1327,3874326,termluster.topn5.3.qld,come compton designated black people,0.079
+1328,3874326,thesaurus.topn3,come compton designated black people,0.079
+1329,3874326,thesaurus.topn3.replace,come compton designated black people,0.079
+1330,3874326,bt_bing_arabic,How is Compton reserved for blacks only,0.0776
+1331,3874326,bt_bing_french,How come Compton is only for black people,0.0776
+1332,3874326,bt_bing_german,How come Compton is only for black people,0.0776
+1333,3874326,bt_bing_russian,Why is Compton only for blacks,0.0776
+1334,3874326,bt_bing_tamil,How was Compton assigned only to black people,0.0776
+1335,3874326,bt_nllb_arabic,How come Compton was only for black people,0.0776
+1336,3874326,bt_nllb_german,Why is Compton only for blacks,0.0776
+1337,3874326,bt_nllb_malay,Why is Compton only for blacks,0.0776
+1338,3874326,bt_nllb_persian,Why is Compton only for blacks,0.0776
+1339,3874326,bt_nllb_russian,Why is Compton only for blacks,0.0776
+1340,3874326,stem.porter,how come compton is onli designat for black peopl,0.0776
+1341,3874326,bt_bing_swahili,How is Compton designated solely for black people,0.0706
+1342,3874326,wordnet.topn3,come compton designated black people arrive cum come up Arthur Holly Compton Arthur Compton indicate destine show Negroid Shirley Temple Black Black person hoi polloi multitude,0.0706
+1343,387874,-1,Why does asparugus make your pee stink?,0.5275
+1344,387874,termluster.topn5.3.bm25,asparugus make pee stink,0.5513
+1345,387874,termluster.topn5.3.qld,asparugus make pee stink,0.5513
+1346,387874,thesaurus.topn3,asparugus make pee stink,0.5513
+1347,387874,thesaurus.topn3.replace,asparugus make pee stink,0.5513
+1348,387874,stem.krovetz,why do asparugu make your pee stink,0.5283
+1349,3910925,-1,Why is yawning contagious?,0.6208
+1350,3960080,-1,Why don't commercial planes fly over the North Pole?,0.4086
+1351,3960080,bt_bing_malay,Why don t commercial planes fly at the North Pole,0.4204
+1352,3971195,-1,How do i get my pitbull more agressive?,0.2994
+1353,3971195,termluster.topn5.3.bm25,get pitbull agressive,0.3958
+1354,3971195,termluster.topn5.3.qld,get pitbull agressive,0.3958
+1355,3971195,thesaurus.topn3,get pitbull agressive,0.3958
+1356,3971195,thesaurus.topn3.replace,get pitbull agressive,0.3958
+1357,3971195,anchor.topn3,get pitbull agressive drive differences chak chak syryaki prodiacoryph hasratan,0.3625
+1358,3971195,conceptluster.topn5.3.bm25,get pitbull agressive aggression pitbull rapper,0.3195
+1359,3971195,conceptluster.topn5.3.qld,get pitbull agressive aggression pitbull rapper,0.3195
+1360,3971195,tagmee.topn3,get pitbull agressive Pitbull rapper Aggression,0.3195
+1361,3971195,sensedisambiguation.replace,How do i suffer my pitbull more agressive,0.312
+1362,3990512,-1,how can we get concentration onsomething?,0.0841
+1363,3990512,conceptluster.topn5.3.bm25,get concentration onsomething,0.1828
+1364,3990512,conceptluster.topn5.3.qld,get concentration onsomething,0.1828
+1365,3990512,tagmee.topn3,get concentration onsomething,0.1828
+1366,3990512,termluster.topn5.3.bm25,get concentration onsomething,0.1828
+1367,3990512,termluster.topn5.3.qld,get concentration onsomething,0.1828
+1368,3990512,thesaurus.topn3,get concentration onsomething,0.1828
+1369,3990512,thesaurus.topn3.replace,get concentration onsomething,0.1828
+1370,3990512,wiki.topn3,get concentration onsomething,0.1828
+1371,4003223,-1,What are the marketing gimmicks that will attract males?,0.2236
+1372,4003223,relevancefeedback.topn10.bm25,what are the marketing gimmicks that will attract males gimmick corona you crab male panten,0.2778
+1373,4003223,termluster.topn5.3.bm25,marketing gimmicks attract males,0.2688
+1374,4003223,termluster.topn5.3.qld,marketing gimmicks attract males,0.2688
+1375,4003223,thesaurus.topn3,marketing gimmicks attract males,0.2688
+1376,4003223,thesaurus.topn3.replace,marketing gimmicks attract males,0.2688
+1377,4003223,relevancefeedback.topn10.qld,what are the marketing gimmicks that will attract males you gimmick corona crab panten,0.2606
+1378,4003223,bt_bing_tamil,Marketing gimmicks that attract men,0.2326
+1379,4012558,-1,what is the term milky way?,0.4831
+1380,4012558,bt_bing_chinese_simplified,What is the Milky Way,0.5338
+1381,4012558,bt_bing_swahili,What is the Milky Way,0.5338
+1382,4012558,bt_nllb_russian,What is the Milky Way,0.5338
+1383,4012558,bt_nllb_swahili,What is the Milky Way,0.5338
+1384,4012558,bt_nllb_french,What is the end of the Milky Way,0.5111
+1385,4012558,tagmee.topn3.replace,Time Milky Way,0.5087
+1386,4012558,termluster.topn5.3.bm25,term milky way,0.5006
+1387,4012558,termluster.topn5.3.qld,term milky way,0.5006
+1388,4012558,thesaurus.topn3,term milky way,0.5006
+1389,4012558,thesaurus.topn3.replace,term milky way,0.5006
+1390,4012558,conceptluster.topn5.3.bm25,term milky way time milky way,0.4969
+1391,4012558,conceptluster.topn5.3.qld,term milky way time milky way,0.4969
+1392,4012558,tagmee.topn3,term milky way Time Milky Way,0.4969
+1393,4018891,-1,How do I know if a particular term or phrase is copyrighted?,0.1563
+1394,4018891,bt_nllb_swahili,How do I know if a word or a statement has copyright,0.2047
+1395,4018891,sensedisambiguation,How do I know sleep together if a particular term or phrase is copyrighted copyright,0.1982
+1396,4018891,bt_nllb_chinese_yue,How do I know if a word or phrase has copyright,0.1951
+1397,4018891,bt_bing_swahili,How do I know if a particular word or phrase is copyrighted,0.1772
+1398,4018891,bt_bing_tamil,How do I know if a particular word or phrase is copyrighted,0.1772
+1399,4018891,bt_nllb_tamil,How do I know if a particular word or phrase is copyrighted,0.1772
+1400,4018891,word2vec.topn3,know particular term phrase copyrighted know knwo tell specific certain these phrase word words copywritten copyright protected uncopyrighted,0.1664
+1401,4018891,termluster.topn5.3.bm25,know particular term phrase copyrighted,0.1604
+1402,4018891,termluster.topn5.3.qld,know particular term phrase copyrighted,0.1604
+1403,4018891,thesaurus.topn3,know particular term phrase copyrighted,0.1604
+1404,4018891,thesaurus.topn3.replace,know particular term phrase copyrighted,0.1604
+1405,402514,-1,why do my baked potatos never taste near as good as when I get them in a nice restaurant?,0.1524
+1406,402514,bt_bing_persian,Why do my baked potatoes never taste as good as when I get them in a good restaurant,0.1768
+1407,402514,termluster.topn5.3.bm25,baked potatos never taste near good get nice restaurant,0.1767
+1408,402514,termluster.topn5.3.qld,baked potatos never taste near good get nice restaurant,0.1767
+1409,402514,thesaurus.topn3,baked potatos never taste near good get nice restaurant,0.1767
+1410,402514,thesaurus.topn3.replace,baked potatos never taste near good get nice restaurant,0.1767
+1411,402514,bt_bing_french,Why do my baked potatoes never taste the same as when I find them in a good restaurant,0.1601
+1412,402514,bt_bing_chinese_simplified,Why do my baked potatoes never taste as good as what I bought in a nice restaurant,0.16
+1413,4126337,-1,Why does my friend buy...?,0.0185
+1414,4126337,conceptluster.topn5.3.bm25,friend buy,0.0434
+1415,4126337,conceptluster.topn5.3.qld,friend buy,0.0434
+1416,4126337,tagmee.topn3,friend buy,0.0434
+1417,4126337,termluster.topn5.3.bm25,friend buy,0.0434
+1418,4126337,termluster.topn5.3.qld,friend buy,0.0434
+1419,4126337,thesaurus.topn3,friend buy,0.0434
+1420,4126337,thesaurus.topn3.replace,friend buy,0.0434
+1421,4126337,wiki.topn3,friend buy,0.0434
+1422,4126337,relevancefeedback.topn10.bm25,why does my friend buy bui bulldog doe she you all anyon,0.028
+1423,4126337,bt_bing_french,Why is my friend buying,0.0237
+1424,4126337,bt_bing_german,Why is my friend buying,0.0237
+1425,4126337,bt_bing_russian,Why is my friend buying,0.0237
+1426,4126337,bt_bing_tamil,Why is my friend buying,0.0237
+1427,4126337,bt_nllb_french,Why is my friend buying,0.0237
+1428,4126337,bt_nllb_german,Why is my friend buying,0.0237
+1429,4126337,bt_nllb_russian,Why is my friend buying,0.0237
+1430,4126337,stem.krovetz,why do my friend buy,0.0189
+1431,4153592,-1,what can make someones ear's stink?,0.0405
+1432,4153592,rm3.topn10.10.0.5.bm25,what can make someones ears stink?,0.0574
+1433,4153592,rm3.topn10.10.0.5.qld,what can make someones ears stink?,0.0574
+1434,4153592,termluster.topn5.3.bm25,make someones ear s stink,0.0568
+1435,4153592,termluster.topn5.3.qld,make someones ear s stink,0.0568
+1436,4153592,thesaurus.topn3,make someones ear s stink,0.0568
+1437,4153592,thesaurus.topn3.replace,make someones ear s stink,0.0568
+1438,4153592,bt_bing_tamil,What makes someone s ear stink,0.0533
+1439,4153592,bt_bing_swahili,What would make someone s ear stink,0.0477
+1440,4165406,-1,Why did the founder of Daewoo get a 10-year jail sentence?,0.4311
+1441,4165406,termluster.topn5.3.bm25,founder daewoo get year jail sentence,0.448
+1442,4165406,termluster.topn5.3.qld,founder daewoo get year jail sentence,0.448
+1443,4165406,thesaurus.topn3,founder daewoo get year jail sentence,0.448
+1444,4165406,thesaurus.topn3.replace,founder daewoo get year jail sentence,0.448
+1445,4165406,bt_bing_tamil,Why was Daewoo founder sentenced to years in jail,0.4378
+1446,4185395,-1,how can i cure the std or the sexually transmitted disease?,0.5111
+1447,4185395,bt_bing_russian,How to cure an STD or sexually transmitted disease,0.5201
+1448,4185395,termluster.topn5.3.bm25,cure std sexually transmitted disease,0.5188
+1449,4185395,termluster.topn5.3.qld,cure std sexually transmitted disease,0.5188
+1450,4185395,thesaurus.topn3,cure std sexually transmitted disease,0.5188
+1451,4185395,thesaurus.topn3.replace,cure std sexually transmitted disease,0.5188
+1452,4185501,-1,why does the sun shine?,0.3374
+1453,4185501,termluster.topn5.3.bm25,sun shine,0.3583
+1454,4185501,termluster.topn5.3.qld,sun shine,0.3583
+1455,4185501,thesaurus.topn3,sun shine,0.3583
+1456,4185501,thesaurus.topn3.replace,sun shine,0.3583
+1457,4185501,bt_bing_german,Why is the sun shining,0.338
+1458,4185501,bt_bing_persian,Why is the sun shining,0.338
+1459,4185501,bt_bing_russian,Why is the sun shining,0.338
+1460,4185501,bt_bing_swahili,Why is the sun shining,0.338
+1461,4185501,bt_nllb_french,Why is the sun shining,0.338
+1462,4185501,bt_nllb_german,Why is the sun shining,0.338
+1463,4185501,bt_nllb_korean,Why is the sun shining,0.338
+1464,4185501,bt_nllb_malay,Why is the sun shining,0.338
+1465,4185501,bt_nllb_russian,Why is the sun shining,0.338
+1466,4185501,bt_nllb_tamil,Why is the sun shining,0.338
+1467,4190287,-1,Why is switching schools so depressing?,0.0686
+1468,4196421,-1,how can you be more brilliant?,0.1456
+1469,4196421,conceptnet.topn3,brilliant,0.466
+1470,4196421,conceptnet.topn3.replace,brilliant,0.466
+1471,4196421,termluster.topn5.3.bm25,brilliant,0.466
+1472,4196421,termluster.topn5.3.qld,brilliant,0.466
+1473,4196421,thesaurus.topn3,brilliant,0.466
+1474,4196421,thesaurus.topn3.replace,brilliant,0.466
+1475,4196421,relevancefeedback.topn10.qld,how can you be more brilliant quasar lsd galileo your art custom brilliant,0.1561
+1476,4197214,-1,Why my GF feel like pissing during sexual intercourse?,0.0474
+1477,4197214,conceptluster.topn5.3.bm25,gf feel like pissing sexual intercourse sexual intercourse,0.125
+1478,4197214,conceptluster.topn5.3.qld,gf feel like pissing sexual intercourse sexual intercourse,0.125
+1479,4197214,tagmee.topn3,gf feel like pissing sexual intercourse Sexual intercourse,0.125
+1480,4197214,tagmee.topn3.replace,Sexual intercourse,0.1175
+1481,4197214,sensedisambiguation,Why my GF feel like pissing make during sexual intercourse sexual intercourse,0.1123
+1482,4197214,termluster.topn5.3.bm25,gf feel like pissing sexual intercourse,0.0754
+1483,4197214,termluster.topn5.3.qld,gf feel like pissing sexual intercourse,0.0754
+1484,4197214,thesaurus.topn3,gf feel like pissing sexual intercourse,0.0754
+1485,4197214,thesaurus.topn3.replace,gf feel like pissing sexual intercourse,0.0754
+1486,4197214,wordnet.topn3,gf feel like pissing sexual intercourse tone flavor spirit the like comparable the likes of piddle make water relieve oneself intimate sex act sexual intercourse,0.0679
+1487,4197214,wiki.topn3,gf feel like pissing sexual intercourse sex orgasm sexual emotions sexual intercourse,0.0558
+1488,4197214,bt_bing_persian,Why does my GF feel during sexual intercourse,0.0511
+1489,4197214,sensedisambiguation.replace,Why my GF feel like make during sexual sexual intercourse,0.0496
+1490,421753,-1,how to get rid of a skunk?,0.3943
+1491,421753,sensedisambiguation.replace,how to suffer rid of a skunk,0.418
+1492,421753,conceptluster.topn5.3.bm25,get rid skunk skunk,0.3956
+1493,421753,conceptluster.topn5.3.qld,get rid skunk skunk,0.3956
+1494,421753,tagmee.topn3,get rid skunk Skunk,0.3956
+1495,421753,termluster.topn5.3.bm25,get rid skunk,0.3947
+1496,421753,termluster.topn5.3.qld,get rid skunk,0.3947
+1497,421753,thesaurus.topn3,get rid skunk,0.3947
+1498,421753,thesaurus.topn3.replace,get rid skunk,0.3947
+1499,4250296,-1,What do doctors do when a patient has a Do Nor Resuscitate Order?,0.1478
+1500,4250296,termluster.topn5.3.bm25,doctors patient resuscitate order,0.2256
+1501,4250296,termluster.topn5.3.qld,doctors patient resuscitate order,0.2256
+1502,4250296,thesaurus.topn3,doctors patient resuscitate order,0.2256
+1503,4250296,thesaurus.topn3.replace,doctors patient resuscitate order,0.2256
+1504,4250296,bt_nllb_french,What do doctors do when a patient is ordered not to be resuscitated,0.2014
+1505,4250296,bt_nllb_malay,What do doctors do when patients have no or Resuscitate orders,0.1934
+1506,4250296,bt_bing_tamil,What do doctors do when a patient has an order to do or resuscitate,0.1903
+1507,4250296,bt_nllb_swahili,What do doctors do when a patient has an order to Do or Resuscitate,0.1903
+1508,4250296,bt_bing_korean,What does a doctor do when a patient is ordered to resuscitate,0.1779
+1509,4250296,bt_nllb_german,What do doctors do when a patient has a Do N Resuscitate order,0.1771
+1510,4250296,bt_bing_german,What do doctors do when a patient has a resuscitation order,0.1762
+1511,4250296,bt_bing_chinese_simplified,What does a doctor do when a patient has a no resuscitation order,0.163
+1512,4250296,bt_bing_russian,What do doctors do when a patient is told not to resuscitate,0.1482
+1513,4256593,-1,How do I remove the SIMM card on a LG VX8300 Cell Phone?,0.4639
+1514,4256593,bt_nllb_french,How do you get the SIM card out of an LG VX cell phone,0.5686
+1515,4256593,bt_nllb_malay,How do I get the SIM card out of my LG VX cell phone,0.5637
+1516,4256593,relevancefeedback.topn10.bm25,how do i remove the simm card on a lg vx cell phone phone u batteri you can,0.5206
+1517,4256593,conceptluster.topn5.3.bm25,remove simm card lg vx cell phone punched card,0.5181
+1518,4256593,conceptluster.topn5.3.qld,remove simm card lg vx cell phone punched card,0.5181
+1519,4256593,bt_nllb_german,How do I remove the SIM card from an LG VX phone,0.5116
+1520,4256593,relevancefeedback.topn10.qld,how do i remove the simm card on a lg vx cell phone phone u us batteri bibl,0.5092
+1521,4256593,rm3.topn10.10.0.5.bm25,How do I remove the SIMM card on a LG VX8300 Cell Phone?,0.5038
+1522,4256593,rm3.topn10.10.0.5.qld,How do I remove the SIMM card on a LG VX8300 Cell Phone?,0.5038
+1523,4256593,termluster.topn5.3.bm25,remove simm card lg vx cell phone,0.4712
+1524,4256593,termluster.topn5.3.qld,remove simm card lg vx cell phone,0.4712
+1525,4256593,thesaurus.topn3,remove simm card lg vx cell phone,0.4712
+1526,4256593,thesaurus.topn3.replace,remove simm card lg vx cell phone,0.4712
+1527,4278201,-1,how does Ultraviolet Light Affects Seed Germination and plant growth?,0.6295
+1528,4278201,bt_bing_chinese_simplified,How does UV light affect seed germination and plant growth,0.6668
+1529,4278201,bt_nllb_tamil,How does UV light affect seed germination and plant growth,0.6668
+1530,4278201,stem.krovetz,how do ultraviolet light affect seed germinate and plant growth,0.6329
+1531,4278201,termluster.topn5.3.bm25,ultraviolet light affects seed germination plant growth,0.6312
+1532,4278201,termluster.topn5.3.qld,ultraviolet light affects seed germination plant growth,0.6312
+1533,4278201,thesaurus.topn3,ultraviolet light affects seed germination plant growth,0.6312
+1534,4278201,thesaurus.topn3.replace,ultraviolet light affects seed germination plant growth,0.6312
+1535,4283542,-1,i have had loose stools for a week...how do i make it stop?,0.2498
+1536,4283542,termluster.topn5.3.bm25,loose stools week make stop,0.3653
+1537,4283542,termluster.topn5.3.qld,loose stools week make stop,0.3653
+1538,4283542,thesaurus.topn3,loose stools week make stop,0.3653
+1539,4283542,thesaurus.topn3.replace,loose stools week make stop,0.3653
+1540,4288761,-1,How can i stop my husband from exhuming my baby's body for compensation?,0.0726
+1541,4288761,rm3.topn10.10.0.5.bm25,How can i stop my husband from exhuming my babys body for compensation?,0.078
+1542,4288761,rm3.topn10.10.0.5.qld,How can i stop my husband from exhuming my babys body for compensation?,0.078
+1543,4288761,conceptluster.topn5.3.bm25,stop husband exhuming baby s body compensation,0.077
+1544,4288761,conceptluster.topn5.3.qld,stop husband exhuming baby s body compensation,0.077
+1545,4288761,tagmee.topn3,stop husband exhuming baby s body compensation,0.077
+1546,4288761,termluster.topn5.3.bm25,stop husband exhuming baby s body compensation,0.077
+1547,4288761,termluster.topn5.3.qld,stop husband exhuming baby s body compensation,0.077
+1548,4288761,thesaurus.topn3,stop husband exhuming baby s body compensation,0.077
+1549,4288761,thesaurus.topn3.replace,stop husband exhuming baby s body compensation,0.077
+1550,4288761,wiki.topn3,stop husband exhuming baby s body compensation,0.077
+1551,4288761,bt_nllb_german,How can I stop my husband from exhuming my baby s body,0.0752
+1552,4311093,-1,Why hot air rises up?,0.4305
+1553,4311093,conceptluster.topn5.3.bm25,hot air rises,0.4765
+1554,4311093,conceptluster.topn5.3.qld,hot air rises,0.4765
+1555,4311093,tagmee.topn3,hot air rises,0.4765
+1556,4311093,termluster.topn5.3.bm25,hot air rises,0.4765
+1557,4311093,termluster.topn5.3.qld,hot air rises,0.4765
+1558,4311093,thesaurus.topn3,hot air rises,0.4765
+1559,4311093,thesaurus.topn3.replace,hot air rises,0.4765
+1560,4311093,wiki.topn3,hot air rises,0.4765
+1561,4311093,bt_nllb_arabic,Why is the hot air rising,0.4537
+1562,4311093,bt_nllb_french,Why is the hot air rising,0.4537
+1563,4311093,bt_nllb_german,Why is the hot air rising,0.4537
+1564,4311093,bt_nllb_korean,Why is the hot air rising,0.4537
+1565,4311093,bt_nllb_malay,Why is the hot air rising,0.4537
+1566,4311093,bt_nllb_russian,Why is the hot air rising,0.4537
+1567,4311093,bt_nllb_tamil,Why is the hot air rising,0.4537
+1568,4357460,-1,how to make my car faster?,0.1247
+1569,4357460,conceptluster.topn5.3.bm25,make car faster,0.1469
+1570,4357460,conceptluster.topn5.3.qld,make car faster,0.1469
+1571,4357460,tagmee.topn3,make car faster,0.1469
+1572,4357460,termluster.topn5.3.bm25,make car faster,0.1469
+1573,4357460,termluster.topn5.3.qld,make car faster,0.1469
+1574,4357460,thesaurus.topn3,make car faster,0.1469
+1575,4357460,thesaurus.topn3.replace,make car faster,0.1469
+1576,4357460,wiki.topn3,make car faster,0.1469
+1577,4357460,stem.krovetz,how to make my car fast,0.1314
+1578,4357460,stem.trunc4,how to make my car fast,0.1314
+1579,4357460,stem.trunc5,how to make my car faste,0.1314
+1580,4365565,-1,How Does Water Pressure Change?,0.0413
+1581,4365565,termluster.topn5.3.bm25,water pressure change,0.0606
+1582,4365565,termluster.topn5.3.qld,water pressure change,0.0606
+1583,4365565,thesaurus.topn3,water pressure change,0.0606
+1584,4365565,thesaurus.topn3.replace,water pressure change,0.0606
+1585,4365565,stem.krovetz,how do water pressure change,0.054
+1586,4365565,stem.lovins,how do water pressur chang,0.054
+1587,4367654,-1,Why is April 19th important?,0.0648
+1588,4367654,bt_bing_arabic,Why is April important,0.2028
+1589,4367654,bt_bing_chinese_simplified,Why is April important,0.2028
+1590,4367654,bt_bing_french,Why is April important,0.2028
+1591,4367654,bt_bing_german,Why is April important,0.2028
+1592,4367654,bt_bing_korean,Why is April important,0.2028
+1593,4367654,bt_bing_malay,Why is April important,0.2028
+1594,4367654,bt_bing_persian,Why is April important,0.2028
+1595,4367654,bt_bing_tamil,Why is April important,0.2028
+1596,4367654,bt_nllb_arabic,Why is April important,0.2028
+1597,4367654,bt_nllb_french,Why is April important,0.2028
+1598,4367654,bt_nllb_german,Why is April important,0.2028
+1599,4367654,bt_nllb_persian,Why is April important,0.2028
+1600,4367654,bt_nllb_russian,Why is April important,0.2028
+1601,4367654,bt_nllb_tamil,Why April is Important,0.2028
+1602,4367654,bt_nllb_swahili,Why is April special,0.2024
+1603,4367654,bt_bing_russian,Why is April so important,0.1609
+1604,4367654,bt_nllb_chinese_yue,Why is April so important,0.1609
+1605,4367654,bt_nllb_korean,Why is April so important,0.1609
+1606,4367654,bt_nllb_malay,Why is April so important,0.1609
+1607,4367654,rm3.topn10.10.0.5.bm25,Why is April 19th important?,0.0709
+1608,4367654,rm3.topn10.10.0.5.qld,Why is April 19th important?,0.0709
+1609,4367654,conceptluster.topn5.3.bm25,april th important,0.0665
+1610,4367654,conceptluster.topn5.3.qld,april th important,0.0665
+1611,4367654,tagmee.topn3,april th important,0.0665
+1612,4367654,termluster.topn5.3.bm25,april th important,0.0665
+1613,4367654,termluster.topn5.3.qld,april th important,0.0665
+1614,4367654,thesaurus.topn3,april th important,0.0665
+1615,4367654,thesaurus.topn3.replace,april th important,0.0665
+1616,4367654,wiki.topn3,april th important,0.0665
+1617,4372730,-1,Why doesn't the bible make any sense?,0.001
+1618,4372730,bt_bing_french,Why does the Bible make no sense,0.072
+1619,4372730,bt_bing_malay,Why does the Bible not make sense,0.072
+1620,4372730,bt_nllb_malay,Why does the Bible make sense,0.072
+1621,4372730,rm3.topn10.10.0.5.bm25,Why doesnt the bible make any sense?,0.0537
+1622,4372730,rm3.topn10.10.0.5.qld,Why doesnt the bible make any sense?,0.0537
+1623,4372730,conceptluster.topn5.3.bm25,n t bible make sense bible,0.0226
+1624,4372730,conceptluster.topn5.3.qld,n t bible make sense bible,0.0226
+1625,4372730,tagmee.topn3,n t bible make sense Bible,0.0226
+1626,4372730,bt_bing_swahili,Why does the Bible not matter,0.0102
+1627,4372730,tagmee.topn3.replace,Bible,0.0091
+1628,4372730,sensedisambiguation,Why does n t the bible make any sense common sense,0.0079
+1629,4372730,termluster.topn5.3.bm25,n t bible make sense,0.0053
+1630,4372730,termluster.topn5.3.qld,n t bible make sense,0.0053
+1631,4372730,thesaurus.topn3,n t bible make sense,0.0053
+1632,4372730,thesaurus.topn3.replace,n t bible make sense,0.0053
+1633,4372730,word2vec.topn3,n t bible make sense scripture create sense sence sense,0.0047
+1634,4372730,sensedisambiguation.replace,Why does n t the bible make any common sense,0.0041
+1635,4372730,bt_nllb_arabic,Why is the Bible not reasonable,0.0035
+1636,4372730,relevancefeedback.topn10.qld,why doesn t the bible make any sense self you so bibl etern question sound written he,0.0032
+1637,4372730,wiki.topn3,n t bible make sense judeo christian topics bible old testament bible,0.0021
+1638,4372730,stem.trunc4,why does t the bibl make any sens,0.0014
+1639,4377861,-1,how to handsew sequins?,1.0
+1640,4385316,-1,How do I keep black birds out of my bar-b-que grill?,0.3251
+1641,4385316,bt_bing_german,How do I keep black birds off my bar b que grill,0.3294
+1642,4406669,-1,What do you order at Taco Bell?,0.3579
+1643,4406669,conceptnet.topn3,order taco bell command chicken taco greaser ringing church,0.4043
+1644,4406669,tagmee.topn3,order taco bell Taco Bell,0.3955
+1645,4406669,anchor.topn3,order taco bell order column major maydoni tukmit trip small small taco cobra single engin shawun khampiranon trra,0.3944
+1646,4406669,conceptluster.topn5.3.bm25,order taco bell,0.3901
+1647,4406669,conceptluster.topn5.3.qld,order taco bell,0.3901
+1648,4406669,termluster.topn5.3.bm25,order taco bell,0.3901
+1649,4406669,termluster.topn5.3.qld,order taco bell,0.3901
+1650,4406669,thesaurus.topn3,order taco bell,0.3901
+1651,4406669,thesaurus.topn3.replace,order taco bell,0.3901
+1652,4406669,tagmee.topn3.replace,Taco Bell,0.3848
+1653,4406669,bertqe.topn10.bm25,taco bell serious,0.384
+1654,4406669,bt_bing_arabic,What to order at Taco Bell,0.3801
+1655,4406669,bt_nllb_russian,What to order at Taco Bell,0.3801
+1656,4406669,bt_nllb_malay,What are you ordering at Taco Bell,0.3673
+1657,443848,-1,Does anybody know where i could get a free guide on how to train a siberian husky?,0.5511
+1658,443848,termluster.topn5.3.bm25,anybody know could get free guide train siberian husky,0.5596
+1659,443848,termluster.topn5.3.qld,anybody know could get free guide train siberian husky,0.5596
+1660,443848,thesaurus.topn3,anybody know could get free guide train siberian husky,0.5596
+1661,443848,thesaurus.topn3.replace,anybody know could get free guide train siberian husky,0.5596
+1662,443848,bt_nllb_german,Does anyone know where I can find a free guide to training a Siberian Husky,0.5585
+1663,443848,bt_nllb_french,Does anyone know where I can find a free guide on how to train a Siberian husky,0.5564
+1664,443848,bt_bing_russian,Does anyone know where to get a free guide on how to train a Siberian Husky,0.5557
+1665,443848,bt_bing_arabic,Does anyone know where I can get a free guide on how to train a Siberian husky,0.5541
+1666,443848,bt_bing_chinese_simplified,Does anyone know where I can get a free guide on how to train a Siberian Husky,0.5541
+1667,443848,bt_bing_korean,Does anyone know where I can get a free guide on how to train a Siberian Husky,0.5541
+1668,443848,bt_bing_malay,Does anyone know where I can get a free guide on how to train a Siberian husky,0.5541
+1669,443848,bt_bing_persian,Does anyone know where I can get a free guide on how to train a Siberian Huski,0.5541
+1670,443848,bt_bing_tamil,Does anyone know where I can get a free guide on how to train Siberian Husky,0.5541
+1671,443848,bt_nllb_arabic,Does anyone know where I can get a free guide on how to train a Siberian Husky,0.5541
+1672,443848,bt_nllb_malay,Does anyone know where I can get a free guide on how to train a Siberian Husky,0.5541
+1673,443848,bt_nllb_tamil,Does anyone know where I can get a free guide on how to train a Siberian Husky,0.5541
+1674,443848,bt_bing_french,Does anyone know where I could get a free guide on how to train a Siberian husky,0.5525
+1675,443848,bt_bing_german,Does anyone know where I could get a free guide on how to train a Siberian Husky,0.5525
+1676,4448097,-1,what is innate immunity?,0.1915
+1677,4448097,anchor.topn3,innate immunity,0.2281
+1678,4448097,anchor.topn3.replace,innate immunity,0.2281
+1679,4448097,termluster.topn5.3.bm25,innate immunity,0.2281
+1680,4448097,termluster.topn5.3.qld,innate immunity,0.2281
+1681,4448097,thesaurus.topn3,innate immunity,0.2281
+1682,4448097,thesaurus.topn3.replace,innate immunity,0.2281
+1683,4448097,conceptnet.topn3,innate immunity inborn immunogenicity,0.1999
+1684,4448097,bt_nllb_chinese_yue,What is immunity,0.1952
+1685,4448097,stem.lovins,what is in immun,0.1952
+1686,4448097,stem.paicehusk,what is in immun,0.1952
+1687,4462511,-1,How do i know if my gold fish is pregnant?,0.3037
+1688,4462511,termluster.topn5.3.bm25,know gold fish pregnant,0.3561
+1689,4462511,termluster.topn5.3.qld,know gold fish pregnant,0.3561
+1690,4462511,thesaurus.topn3,know gold fish pregnant,0.3561
+1691,4462511,thesaurus.topn3.replace,know gold fish pregnant,0.3561
+1692,4467100,-1,What does sholomister mean?,0.0
+1693,4473137,-1,Causes and effects of the rise of Christanity?,0.2551
+1694,4473137,conceptnet.topn3.replace,causes personal property up sun christanity,0.2855
+1695,4473331,-1,How can I keep my rabit indoors?,0.3276
+1696,4473331,termluster.topn5.3.bm25,keep rabit indoors,0.3681
+1697,4473331,termluster.topn5.3.qld,keep rabit indoors,0.3681
+1698,4473331,thesaurus.topn3,keep rabit indoors,0.3681
+1699,4473331,thesaurus.topn3.replace,keep rabit indoors,0.3681
+1700,4473331,conceptnet.topn3,keep rabit indoors preserve,0.3355
+1701,456214,-1,What is the importance of absolute zero temperature?,0.8585
+1702,456214,tagmee.topn3,importance absolute zero temperature Absolute zero Absolute zero Temperature,0.8826
+1703,456214,tagmee.topn3.replace,Absolute zero Absolute zero Temperature,0.8753
+1704,456214,termluster.topn5.3.bm25,importance absolute zero temperature,0.8618
+1705,456214,termluster.topn5.3.qld,importance absolute zero temperature,0.8618
+1706,456214,thesaurus.topn3,importance absolute zero temperature,0.8618
+1707,456214,thesaurus.topn3.replace,importance absolute zero temperature,0.8618
+1708,456214,conceptluster.topn5.3.bm25,importance absolute zero temperature absolute zero temperature,0.8607
+1709,456214,conceptluster.topn5.3.qld,importance absolute zero temperature absolute zero temperature,0.8607
+1710,474417,-1,"what does the prefix ""cyclo"" mean in greek mythology?",0.3858
+1711,474417,termluster.topn5.3.bm25,prefix cyclo mean greek mythology,0.4114
+1712,474417,termluster.topn5.3.qld,prefix cyclo mean greek mythology,0.4114
+1713,474417,thesaurus.topn3,prefix cyclo mean greek mythology,0.4114
+1714,474417,thesaurus.topn3.replace,prefix cyclo mean greek mythology,0.4114
+1715,474417,bt_nllb_swahili,What is the prefix cyclo in Greek mythology,0.4053
+1716,481173,-1,"why live, when your in misery?",0.279
+1717,481173,termluster.topn5.3.bm25,live misery,0.3588
+1718,481173,termluster.topn5.3.qld,live misery,0.3588
+1719,481173,thesaurus.topn3,live misery,0.3588
+1720,481173,thesaurus.topn3.replace,live misery,0.3588
+1721,481173,bt_bing_arabic,Why live when you are in misery,0.3073
+1722,481173,bt_bing_french,Why live when you are in misery,0.3073
+1723,481173,bt_bing_malay,Why live when you are in misery,0.3073
+1724,484496,-1,Why a man float on water when he dies?,0.0676
+1725,484496,termluster.topn5.3.bm25,man float water dies,0.111
+1726,484496,termluster.topn5.3.qld,man float water dies,0.111
+1727,484496,thesaurus.topn3,man float water dies,0.111
+1728,484496,thesaurus.topn3.replace,man float water dies,0.111
+1729,484496,bt_bing_german,Why does a person float on water when he dies,0.0797
+1730,484496,bt_bing_korean,Why does a person float on water when he dies,0.0797
+1731,484496,bt_nllb_swahili,Why does a person float on water when he dies,0.0797
+1732,484496,bt_bing_arabic,Why does a man float on water when he dies,0.0722
+1733,484496,bt_bing_french,Why does a man float on water when he dies,0.0722
+1734,484496,bt_bing_malay,Why does a man float on water when he dies,0.0722
+1735,484496,bt_bing_tamil,Why does a man float on water when he dies,0.0722
+1736,484496,bt_nllb_arabic,Why does a man float on water when he dies,0.0722
+1737,484496,bt_nllb_french,Why does a man float on water when he dies,0.0722
+1738,484496,bt_nllb_tamil,Why does a man float in water when he dies,0.0722
+1739,551239,-1,how do i find out if someone left me a life insurance policy?,0.3596
+1740,551239,bt_bing_korean,How do I know if someone left me a life insurance policy,0.3763
+1741,551239,bt_nllb_arabic,How do I know if someone left me a life insurance policy,0.3763
+1742,551239,bt_nllb_french,How do I know if someone left me a life insurance policy,0.3763
+1743,551239,bt_nllb_german,How do I know if someone left me a life insurance policy,0.3763
+1744,551239,bt_nllb_swahili,How do I know if someone left me a life insurance policy,0.3763
+1745,551239,bt_nllb_tamil,How do I know if someone left me a life insurance policy,0.3763
+1746,551239,bt_bing_malay,How can I tell if someone left me a life insurance policy,0.3731
+1747,551239,bt_bing_swahili,How can I tell if someone left me a life insurance policy,0.3731
+1748,551239,bt_nllb_malay,How do I know if someone left my life insurance policy,0.3663
+1749,551239,termluster.topn5.3.bm25,find someone left life insurance policy,0.3649
+1750,551239,termluster.topn5.3.qld,find someone left life insurance policy,0.3649
+1751,551239,thesaurus.topn3,find someone left life insurance policy,0.3649
+1752,551239,thesaurus.topn3.replace,find someone left life insurance policy,0.3649
+1753,551239,bt_bing_chinese_simplified,How do I know if someone has left me a life insurance policy,0.3648
+1754,551239,bt_bing_french,How do I know if someone has left me a life insurance policy,0.3648
+1755,551239,bt_bing_persian,How do I know if someone has left me a life insurance policy,0.3648
+1756,551239,bt_bing_russian,How do I know if someone has left me a life insurance policy,0.3648
+1757,558570,-1,"My city just put a ban on pit bulls, how do we reverse the decision?",0.4437
+1758,558570,termluster.topn5.3.bm25,city put ban pit bulls reverse decision,0.4633
+1759,558570,termluster.topn5.3.qld,city put ban pit bulls reverse decision,0.4633
+1760,558570,thesaurus.topn3,city put ban pit bulls reverse decision,0.4633
+1761,558570,thesaurus.topn3.replace,city put ban pit bulls reverse decision,0.4633
+1762,558570,bt_bing_persian,My city recently banned pit bulls how do we reverse that decision,0.457
+1763,558570,bt_bing_malay,My city only bans pit bulls how do we reverse that decision,0.4528
+1764,558570,bt_bing_chinese_simplified,My city just banned pit bulls how do we reverse that decision,0.4486
+1765,558570,bt_nllb_swahili,My city just banned pit bulls how do we reverse the decision,0.4486
+1766,654124,-1,Why am I not able to concentrate on my studies?,0.2187
+1767,654124,anchor.topn3,able concentrate studies,0.3013
+1768,654124,anchor.topn3.replace,able concentrate studies,0.3013
+1769,654124,conceptluster.topn5.3.bm25,able concentrate studies,0.3013
+1770,654124,conceptluster.topn5.3.qld,able concentrate studies,0.3013
+1771,654124,tagmee.topn3,able concentrate studies,0.3013
+1772,654124,termluster.topn5.3.bm25,able concentrate studies,0.3013
+1773,654124,termluster.topn5.3.qld,able concentrate studies,0.3013
+1774,654124,thesaurus.topn3,able concentrate studies,0.3013
+1775,654124,thesaurus.topn3.replace,able concentrate studies,0.3013
+1776,654124,wiki.topn3,able concentrate studies,0.3013
+1777,654124,relevancefeedback.topn10.bm25,why am i not able to concentrate on my studies you answer u,0.244
+1778,667488,-1,how soon can you drive on a newly paved driveway?,0.2952
+1779,667488,bertqe.topn10.bm25,you longer drive your drivewai,0.4607
+1780,667488,conceptluster.topn5.3.bm25,soon drive newly paved driveway driveway road surface,0.4339
+1781,667488,conceptluster.topn5.3.qld,soon drive newly paved driveway driveway road surface,0.4339
+1782,667488,tagmee.topn3,soon drive newly paved driveway Road surface Driveway,0.4339
+1783,667488,relevancefeedback.topn10.bm25,how soon can you drive on a newly paved driveway drivewai do go ah,0.4246
+1784,667488,tagmee.topn3.replace,Road surface Driveway,0.3796
+1785,667488,bt_bing_french,How long can you drive on a newly paved driveway,0.3368
+1786,667488,bt_bing_malay,How long can you drive on a newly paved driveway,0.3368
+1787,667488,bt_bing_german,How fast can you drive on a newly paved driveway,0.3306
+1788,667488,bt_bing_korean,How fast can you drive on a newly paved driveway,0.3306
+1789,667488,termluster.topn5.3.bm25,soon drive newly paved driveway,0.3274
+1790,667488,termluster.topn5.3.qld,soon drive newly paved driveway,0.3274
+1791,667488,thesaurus.topn3,soon drive newly paved driveway,0.3274
+1792,667488,thesaurus.topn3.replace,soon drive newly paved driveway,0.3274
+1793,667488,bt_bing_tamil,How soon can I drive on a newly laid driveway,0.3266
+1794,667488,relevancefeedback.topn10.qld,how soon can you drive on a newly paved driveway suv drivewai put i park black busi,0.3201
+1795,667488,stem.paicehusk,how soon can you driv on a new pav driveway,0.2953
+1796,676028,-1,Why do our elected federal senators and congressmen not have to live on regular S.S. like the rest of us?,0.2522
+1797,676028,rm3.topn10.10.0.5.bm25,Why do our elected federal senators and congressmen not have to live on regular S.S. like the rest of us?,0.3207
+1798,676028,rm3.topn10.10.0.5.qld,Why do our elected federal senators and congressmen not have to live on regular S.S. like the rest of us?,0.3207
+1799,676028,bt_bing_arabic,Why don t senators and elected federal congressmen have to live on regular SS like the rest of us,0.2825
+1800,676028,termluster.topn5.3.bm25,elected federal senators congressmen live regular s s like rest us,0.2803
+1801,676028,termluster.topn5.3.qld,elected federal senators congressmen live regular s s like rest us,0.2803
+1802,676028,thesaurus.topn3,elected federal senators congressmen live regular s s like rest us,0.2803
+1803,676028,thesaurus.topn3.replace,elected federal senators congressmen live regular s s like rest us,0.2803
+1804,676028,bt_bing_russian,Why shouldn t our elected federal senators and congressmen live on a regular SS like the rest of us,0.2668
+1805,676028,bt_bing_tamil,Why don t our elected federal senators and congressmen have to live in regular SS like the rest of us,0.2668
+1806,676028,bt_bing_german,Why don t our elected federal senators and congressmen have to live off normal SS like the rest of us,0.2567
+1807,676028,stem.porter2,whi do our elect feder senat and congressmen not have to live on regular s s like the rest of us,0.2536
+1808,676028,bt_bing_french,Why don t our elected federal senators and congressmen have to live on SS like the rest of us,0.2535
+1809,707303,-1,"How do people get hiccups, what are they, and what exactly is the best way to cure them?",0.4123
+1810,707303,conceptluster.topn5.3.bm25,people get hiccups exactly best way cure,0.4395
+1811,707303,conceptluster.topn5.3.qld,people get hiccups exactly best way cure,0.4395
+1812,707303,tagmee.topn3,people get hiccups exactly best way cure,0.4395
+1813,707303,termluster.topn5.3.bm25,people get hiccups exactly best way cure,0.4395
+1814,707303,termluster.topn5.3.qld,people get hiccups exactly best way cure,0.4395
+1815,707303,thesaurus.topn3,people get hiccups exactly best way cure,0.4395
+1816,707303,thesaurus.topn3.replace,people get hiccups exactly best way cure,0.4395
+1817,707303,wiki.topn3,people get hiccups exactly best way cure,0.4395
+1818,707303,bt_bing_tamil,How do people get hiccups what are they and what is the best way to cure them,0.4233
+1819,707303,bt_nllb_malay,How do people get hiccups what is it and what s the best way to cure it,0.4183
+1820,707303,bt_nllb_french,How do people have hiccups what are they and what s the best way to cure them,0.4162
+1821,714612,-1,Why doesn't the water fall off  earth if it's round?,0.0069
+1822,714612,bt_nllb_tamil,If it is round why does water not fall from the earth,0.1591
+1823,714612,rm3.topn10.10.0.5.bm25,Why doesnt the water fall off  earth if its round?,0.1591
+1824,714612,rm3.topn10.10.0.5.qld,Why doesnt the water fall off  earth if its round?,0.1591
+1825,714612,bt_bing_swahili,Why shouldn t water fall to earth if it is round,0.0642
+1826,714612,bertqe.topn10.bm25,pull earth larg object haha,0.0342
+1827,714612,termluster.topn5.3.bm25,n t water fall earth s round,0.0333
+1828,714612,termluster.topn5.3.qld,n t water fall earth s round,0.0333
+1829,714612,thesaurus.topn3,n t water fall earth s round,0.0333
+1830,714612,thesaurus.topn3.replace,n t water fall earth s round,0.0333
+1831,714612,conceptluster.topn5.3.bm25,n t water fall earth s round earth,0.0325
+1832,714612,conceptluster.topn5.3.qld,n t water fall earth s round earth,0.0325
+1833,714612,tagmee.topn3,n t water fall earth s round Earth,0.0325
+1834,714612,sensedisambiguation,Why does n t the water body of water fall off earth worldly concern if it s round turn,0.0135
+1835,714612,bt_bing_chinese_simplified,If water is round why doesn t water fall off the earth,0.0085
+1836,714612,relevancefeedback.topn10.qld,why doesn t the water fall off earth if it s round moon univers mass pb object larg parallax shape,0.0073
+1837,714612,bt_bing_french,Why doesn t water fall out of the earth if it s round,0.007
+1838,746920,-1,How do you get rid of wart on your hand a using home method?,0.399
+1839,746920,termluster.topn5.3.bm25,get rid wart hand using home method,0.4367
+1840,746920,termluster.topn5.3.qld,get rid wart hand using home method,0.4367
+1841,746920,thesaurus.topn3,get rid wart hand using home method,0.4367
+1842,746920,thesaurus.topn3.replace,get rid wart hand using home method,0.4367
+1843,746920,bt_nllb_french,How to get rid of warts on the hand using a method at home,0.4301
+1844,746920,bt_bing_arabic,How to get rid of a wart on your hand using the home method,0.4113
+1845,746920,bt_bing_chinese_simplified,How to get rid of warts on your hands using the home method,0.4113
+1846,761742,-1,How can I become a playa?,0.7333
+1847,765138,-1,Why does loving someone hurts like hell?,0.0119
+1848,765138,conceptluster.topn5.3.bm25,loving someone hurts like hell,0.0399
+1849,765138,conceptluster.topn5.3.qld,loving someone hurts like hell,0.0399
+1850,765138,tagmee.topn3,loving someone hurts like hell,0.0399
+1851,765138,termluster.topn5.3.bm25,loving someone hurts like hell,0.0399
+1852,765138,termluster.topn5.3.qld,loving someone hurts like hell,0.0399
+1853,765138,thesaurus.topn3,loving someone hurts like hell,0.0399
+1854,765138,thesaurus.topn3.replace,loving someone hurts like hell,0.0399
+1855,765138,wiki.topn3,loving someone hurts like hell,0.0399
+1856,765138,stem.trunc5,why does lovin someo hurts like hell,0.0356
+1857,765138,stem.trunc4,why does lovi some hurt like hell,0.0354
+1858,765138,stem.krovetz,why do loving someone hurt like hell,0.016
+1859,785823,-1,how is the library consider as a heart of university?,0.0706
+1860,785823,tagmee.topn3.replace,Library University,0.1302
+1861,785823,bt_nllb_chinese_yue,Library is the heart of the university,0.1278
+1862,785823,conceptluster.topn5.3.bm25,library consider heart university library university,0.1065
+1863,785823,conceptluster.topn5.3.qld,library consider heart university library university,0.1065
+1864,785823,tagmee.topn3,library consider heart university Library University,0.1065
+1865,785823,termluster.topn5.3.bm25,library consider heart university,0.0849
+1866,785823,termluster.topn5.3.qld,library consider heart university,0.0849
+1867,785823,thesaurus.topn3,library consider heart university,0.0849
+1868,785823,thesaurus.topn3.replace,library consider heart university,0.0849
+1869,785823,bt_bing_chinese_simplified,How can libraries be seen as the heart of a university,0.081
+1870,785823,bt_nllb_german,How does the library feel about the university,0.0719
+1871,78762,-1,why do i have pterofobia?,0.0
+1872,788976,-1,Why did the Bush Admin cover up 9/11?,0.0052
+1873,788976,rm3.topn10.10.0.5.bm25,Why did the Bush Admin cover up 9/11?,0.1504
+1874,788976,rm3.topn10.10.0.5.qld,Why did the Bush Admin cover up 9/11?,0.1504
+1875,788976,bt_bing_persian,Why did the Bush administration cover,0.0238
+1876,788976,bt_nllb_arabic,Why did the Bush administration cover,0.0238
+1877,788976,bt_nllb_persian,Why did the Bush Administration cover,0.0238
+1878,788976,bt_bing_arabic,Why did Bush administrative cover up,0.0131
+1879,788976,bt_bing_chinese_simplified,Why did the Bush administration cover up,0.0131
+1880,788976,bt_bing_french,Why did the Bush administration cover up,0.0131
+1881,788976,bt_bing_german,Why did the Bush administration cover up,0.0131
+1882,788976,bt_bing_korean,Why did the Bush administration cover up,0.0131
+1883,788976,bt_bing_tamil,Why did the Bush administration cover up,0.0131
+1884,788976,bt_nllb_chinese_yue,Why did the Bush administration cover up,0.0131
+1885,788976,bt_nllb_french,Why did the Bush administration cover up,0.0131
+1886,788976,bt_nllb_german,Why did the Bush administration cover up,0.0131
+1887,788976,bt_nllb_korean,Why did the Bush administration cover up,0.0131
+1888,788976,bt_nllb_russian,Why did the Bush administration cover up,0.0131
+1889,788976,bt_nllb_tamil,Why did the Bush administration cover up,0.0131
+1890,788976,bertqe.topn10.bm25,why did iraqi brutal murder,0.0117
+1891,788976,conceptnet.topn3,bush admin cover president bush league book blanket lid,0.0093
+1892,788976,bt_bing_malay,Why did the Bush Administrators close,0.0081
+1893,788976,stem.trunc4,why did the bush admi cove up,0.0077
+1894,788976,bt_bing_russian,Why did the Bush administration cover up the events of,0.0074
+1895,788976,relevancefeedback.topn10.qld,why did the bush admin cover up attack i too we new,0.0071
+1896,788976,stem.porter2,whi did the bush admin cover up,0.0065
+1897,788976,conceptluster.topn5.3.bm25,bush admin cover internet forum george w bush cover up,0.0061
+1898,788976,conceptluster.topn5.3.qld,bush admin cover internet forum george w bush cover up,0.0061
+1899,788976,tagmee.topn3,bush admin cover George W Bush Internet forum Cover up,0.0061
+1900,788976,relevancefeedback.topn10.bm25,why did the bush admin cover up he,0.0053
+1901,821387,-1,I have mice.How do I get rid of them humanely?,0.1446
+1902,821387,conceptluster.topn5.3.bm25,mice how get rid humanely,0.1686
+1903,821387,conceptluster.topn5.3.qld,mice how get rid humanely,0.1686
+1904,821387,tagmee.topn3,mice how get rid humanely,0.1686
+1905,821387,termluster.topn5.3.bm25,mice how get rid humanely,0.1686
+1906,821387,termluster.topn5.3.qld,mice how get rid humanely,0.1686
+1907,821387,thesaurus.topn3,mice how get rid humanely,0.1686
+1908,821387,thesaurus.topn3.replace,mice how get rid humanely,0.1686
+1909,821387,wiki.topn3,mice how get rid humanely,0.1686
+1910,821387,conceptnet.topn3,mice how get rid humanely receive,0.1673
+1911,821387,bt_nllb_french,I have mice how can we get rid of them humanely,0.1618
+1912,821387,bt_bing_russian,I have mice How to get rid of them in a humane way,0.1605
+1913,821387,bt_bing_tamil,I have mice How do you get rid of them humanely,0.1603
+1914,821387,conceptnet.topn3.replace,mice how receive rid humanely,0.158
+1915,821387,bt_bing_german,I have mice How do I get rid of them in a humane way,0.1511
+1916,821387,bt_nllb_chinese_yue,I have mice How can I get rid of them humanely,0.149
+1917,821387,bt_nllb_russian,I have mice how can I get rid of them humanely,0.149
+1918,821387,relevancefeedback.topn10.bm25,i have mice how do i get rid of them humanely you,0.1481
+1919,823384,-1,why did the army have personal cuts in the mid 1990's?,0.0382
+1920,823384,conceptluster.topn5.3.bm25,army personal cuts mid s cutting,0.0919
+1921,823384,conceptluster.topn5.3.qld,army personal cuts mid s cutting,0.0919
+1922,823384,relevancefeedback.topn10.bm25,why did the army have personal cuts in the mid s bush i arab s cut food,0.0725
+1923,823384,termluster.topn5.3.bm25,army personal cuts mid s,0.045
+1924,823384,termluster.topn5.3.qld,army personal cuts mid s,0.045
+1925,823384,thesaurus.topn3,army personal cuts mid s,0.045
+1926,823384,thesaurus.topn3.replace,army personal cuts mid s,0.045
+1927,8293,-1,Why do men fantasized about raping women?,0.374
+1928,8293,conceptluster.topn5.3.bm25,men fantasized raping women human trafficking rape fantasy psychology,0.4836
+1929,8293,conceptluster.topn5.3.qld,men fantasized raping women human trafficking rape fantasy psychology,0.4836
+1930,8293,tagmee.topn3,men fantasized raping women Fantasy psychology Rape Human trafficking,0.4836
+1931,8293,relevancefeedback.topn10.bm25,why do men fantasized about raping women rape women you,0.431
+1932,8293,relevancefeedback.topn10.qld,why do men fantasized about raping women rape you all can women,0.4272
+1933,8293,termluster.topn5.3.bm25,men fantasized raping women,0.4236
+1934,8293,termluster.topn5.3.qld,men fantasized raping women,0.4236
+1935,8293,thesaurus.topn3,men fantasized raping women,0.4236
+1936,8293,thesaurus.topn3.replace,men fantasized raping women,0.4236
+1937,849221,-1,when it comes to religion why dont people realize history repeats itself?,0.1058
+1938,849221,relevancefeedback.topn10.bm25,when it comes to religion why dont people realize history repeats itself histori anymor tsk bibl chang repeat doe,0.1932
+1939,849221,relevancefeedback.topn10.qld,when it comes to religion why dont people realize history repeats itself all i you histori repeat happen chang peopl,0.1251
+1940,849221,sensedisambiguation,when it comes come to religion why dont people realize understand history repeats repeat itself,0.1168
+1941,849221,sensedisambiguation.replace,when it come to religion why dont people understand history repeat itself,0.1085
+1942,851124,-1,How is ego a part of our survival instincts?,0.3635
+1943,851124,termluster.topn5.3.bm25,ego part survival instincts,0.4299
+1944,851124,termluster.topn5.3.qld,ego part survival instincts,0.4299
+1945,851124,thesaurus.topn3,ego part survival instincts,0.4299
+1946,851124,thesaurus.topn3.replace,ego part survival instincts,0.4299
+1947,851124,bt_bing_swahili,Is ego part of our survival instincts,0.3684
+1948,896725,-1,what are some good exercises to get rid of those love handles?,0.1579
+1949,896725,termluster.topn5.3.bm25,good exercises get rid love handles,0.1642
+1950,896725,termluster.topn5.3.qld,good exercises get rid love handles,0.1642
+1951,896725,thesaurus.topn3,good exercises get rid love handles,0.1642
+1952,896725,thesaurus.topn3.replace,good exercises get rid love handles,0.1642
+1953,922849,-1,why do some people take life so seriously?,0.0824
+1954,922849,termluster.topn5.3.bm25,people take life seriously,0.1754
+1955,922849,termluster.topn5.3.qld,people take life seriously,0.1754
+1956,922849,thesaurus.topn3,people take life seriously,0.1754
+1957,922849,thesaurus.topn3.replace,people take life seriously,0.1754
+1958,949154,-1,can anybody tell me what is a butler?,0.4921
+1959,949154,termluster.topn5.3.bm25,anybody tell butler,0.5357
+1960,949154,termluster.topn5.3.qld,anybody tell butler,0.5357
+1961,949154,thesaurus.topn3,anybody tell butler,0.5357
+1962,949154,thesaurus.topn3.replace,anybody tell butler,0.5357
+1963,949154,relevancefeedback.topn10.bm25,can anybody tell me what is a butler you anybodi alfr butler anyon back,0.516
+1964,949154,bt_bing_arabic,Can anyone tell me what is a butler,0.512
+1965,949154,bt_bing_french,Can anyone tell me what a butler is,0.512
+1966,949154,bt_bing_german,Can anyone tell me what a butler is,0.512
+1967,949154,bt_bing_korean,Can anyone tell me what a butler is,0.512
+1968,949154,bt_bing_malay,Can anyone tell me what a butler is,0.512
+1969,949154,bt_bing_russian,Can anyone tell me what a butler is,0.512
+1970,949154,bt_bing_tamil,Can anyone tell me what a butler is,0.512
+1971,949154,bt_nllb_french,Can anyone tell me what a butler is,0.512
+1972,949154,bt_nllb_german,Can someone tell me what a butler is,0.512
+1973,949154,conceptluster.topn5.3.bm25,anybody tell butler get em girls,0.5076
+1974,949154,conceptluster.topn5.3.qld,anybody tell butler get em girls,0.5076
+1975,949154,tagmee.topn3,anybody tell butler Get Em Girls,0.5076
+1976,953489,-1,Why do I have to dumb myself down all the time though I am highly undereducated?,0.0
+1977,953489,termluster.topn5.3.bm25,dumb time though highly undereducated,0.0058
+1978,953489,termluster.topn5.3.qld,dumb time though highly undereducated,0.0058
+1979,953489,thesaurus.topn3,dumb time though highly undereducated,0.0058
+1980,953489,thesaurus.topn3.replace,dumb time though highly undereducated,0.0058
+1981,953489,stem.trunc5,why do i have to dumb mysel down all the time thoug i am highl under,0.0021
+1982,953489,conceptluster.topn5.3.bm25,dumb time though highly undereducated time magazine,0.0006
+1983,953489,conceptluster.topn5.3.qld,dumb time though highly undereducated time magazine,0.0006
+1984,953489,tagmee.topn3,dumb time though highly undereducated Time magazine,0.0006
