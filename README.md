@@ -155,22 +155,27 @@ We search the relevant documents for both the original query and each of the `po
 The search results of each potential refined queries are evaluated based on how they improve the performance with respect to an evaluation metric like `map` or `mrr`. 
 
 
-### [`['agg', 'box']`](./src/param.py#L12)
-Finaly, we keep those potential refined queries whose performance (metric score) have been better or equal compared to the original query, i.e., `refined_query_metric >= original_query_metric and refined_q_metric > 0`.
+### [`['agg']`](./src/param.py#L12)
+Finaly, we keep those potential refined queries whose performance (metric score) have been better or equal compared to the original query.
 
-We keep two main datasets as the outcome of the `RePair` pipeline:
+We keep two these datasets as the outcome of the `RePair` pipeline:
 
-> 1. `./output/{input query set}/{transformer name}.{pairing strategy}/{ranker}.{metric}.agg.gold.tsv`: contains the original queries and their refined queries that garanteed the `better` performance along with the performance metric values
-
-> 2. `./output/{input query set}/{transformer name}.{pairing strategy}/{ranker}.{metric}.agg.all.tsv`: contains the original queries and `all` their predicted refined queries along with the performance metric values
-
-For boxing, since we keep the performances for all the potential queries, we can change the condition and have a customized selection like having [`diamond`](https://dl.acm.org/doi/abs/10.1145/3459637.3482009) refined queries with maximum possible performance, i.e., `1` by setting the condition: `refined_query_metric >= original_query_metric and refined_q_metric == 1`. The boxing condition can be set at [`./src/param.py`](./src/param.py#L12). 
+> 1. `./output/{input query set}/{ranker}.{metric}.agg/{ranker}.{metric}.agg.{selected refiner}.all.tsv`
+> 2. `./output/{input query set}/{ranker}.{metric}.agg/{ranker}.{metric}.agg.{selected refiner}.gold.tsv`
+> 3. `./output/{input query set}/{ranker}.{metric}.agg/{ranker}.{metric}.agg.{selected refiner}.platinum.tsv`
+> 4. `./output/{input query set}/{ranker}.{metric}.agg/{ranker}.{metric}.agg.{selected refiner}.negative.tsv`
 
 ```
-'box': {'gold':     'refined_q_metric >= original_q_metric and refined_q_metric > 0',
-        'platinum': 'refined_q_metric > original_q_metric',
-        'diamond':  'refined_q_metric > original_q_metric and refined_q_metric == 1'}
+'agg': {'all':               'all predicted refined queries along with the performance metric values',
+        'gold':              'refined_q_metric >= original_q_metric and refined_q_metric > 0',
+        'platinum':          'refined_q_metric > original_q_metric',
+        'negative':          'refined_q_metric < original_q_metric}
 ```
+The 'selected refiner' option refers to the categories we experiment on and the create a datasets:
+> nllb: Only backtranslation with nllb
+> -bt: Other refiners than backtranslartion
+> +bt: All the refiners except bing translator
+> allref: All the refiners
 
 After this step, the final structure of the output will be look like below:
 
@@ -179,10 +184,10 @@ After this step, the final structure of the output will be look like below:
 │   └── dataset_name
 │       └── refined_queries_files
 │   │   └── ranker.metric [such as bm25.map]
-│   │       └── [This is where all the results from the search, eval, aggregate, and boxing are stored]
+│   │       └── [This is where all the results from the search, eval, and aggregate]
 
 ```
-
+The results are available in the [./output](./output) file.
 
 ### Settings
 We've created benchmark query refinement datasets for the 'trec' dataset using the 'backtranslated' refiner with both 'bm25' and 'qld' rankers, along with 'map' and 'qld' evaluation metrics.You can adjust the settings [./src/param.py](./src/param.py)
